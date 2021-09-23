@@ -1,0 +1,240 @@
+{
+    "direction_a": [
+        {
+            "id": "_11",
+            "label": "USPENSKA - POZORIŠNI TRG",
+            "longitude": 19.8419960985,
+            "latitude": 45.255185246
+        },
+        {
+            "id": "_14",
+            "label": "BUL .KRALJA PETRA I - GROBLJE",
+            "longitude": 19.8263471168,
+            "latitude": 45.2595168963
+        },
+        {
+            "id": "_12",
+            "label": "VOJVODE BOJOVIĆ - SOCIALNO",
+            "longitude": 19.8375257882,
+            "latitude": 45.2588786887
+        },
+        {
+            "id": "_9",
+            "label": "BUL. MIHAJLA PUPINA - DUNAVSKI PARK",
+            "longitude": 19.8519122087,
+            "latitude": 45.2542020579
+        },
+        {
+            "id": "_10",
+            "label": "BUL. MIHAJLA PUPINA - POTHODNIK",
+            "longitude": 19.844141,
+            "latitude": 45.253519
+        },
+        {
+            "id": "_4",
+            "label": "PRERADOVIĆEVA - MARINA DRŽIĆA",
+            "longitude": 19.87968712,
+            "latitude": 45.2464017138
+        },
+        {
+            "id": "_1",
+            "label": "PETROVARADIN - OKRETNICA",
+            "longitude": 19.8878906109,
+            "latitude": 45.2360062995
+        },
+        {
+            "id": "_2",
+            "label": "PETROVARADIN - ŽELEZNIČKA STANICA",
+            "longitude": 19.8853872807,
+            "latitude": 45.2396101516
+        },
+        {
+            "id": "_3",
+            "label": "PRERADOVIĆEVA - BOŽIDAR ADŽIJE",
+            "longitude": 19.8814113961,
+            "latitude": 45.2439233024
+        },
+        {
+            "id": "_5",
+            "label": "PRERADOVIĆEVA - BENZINSKA PUMPA",
+            "longitude": 19.8757045697,
+            "latitude": 45.2496755784
+        },
+        {
+            "id": "_6",
+            "label": "PRERADOVIĆEVA - ŠENOINA",
+            "longitude": 19.8732154355,
+            "latitude": 45.251431704
+        },
+        {
+            "id": "_7",
+            "label": "PRERADOVIĆEVA - LOVAČKI DOM",
+            "longitude": 19.8689433116,
+            "latitude": 45.2526031657
+        },
+        {
+            "id": "_8",
+            "label": "BEOGRADSKA - VLADIMIRA NAZORA",
+            "longitude": 19.8623634945,
+            "latitude": 45.2548163902
+        },
+        {
+            "id": "_13",
+            "label": "BUL .KRALJA PETRA I - BUL. OSLOBOĐENJA",
+            "longitude": 19.8314132035,
+            "latitude": 45.2605767651
+        },
+        {
+            "id": "_15",
+            "label": "RUMENAČKA - DOM ZDRAVLJA",
+            "longitude": 19.8213763649,
+            "latitude": 45.260450059
+        },
+        {
+            "id": "_16",
+            "label": "RUMENAČKA - BUL. JAŠE TOMIĆA",
+            "longitude": 19.8182127414,
+            "latitude": 45.2633439588
+        },
+        {
+            "id": "_17",
+            "label": "KORNELIJA STANKOVIĆA - FILIPA FILIPOVIĆA",
+            "longitude": 19.8156966528,
+            "latitude": 45.2634661042
+        },
+        {
+            "id": "_18",
+            "label": "MILENKA GRČIĆA - BANATSKA",
+            "longitude": 19.8111852139,
+            "latitude": 45.2640112807
+        },
+        {
+            "id": "_19",
+            "label": "OBLAČIĆA RADA - JANKA ČMELIKA",
+            "longitude": 19.808222,
+            "latitude": 45.265188
+        }
+    ],
+    "direction_b": [
+        {
+            "id": "_10",
+            "label": "USPENSKA - ŠAFARIKOVA",
+            "longitude": 19.8416504854,
+            "latitude": 45.255203707
+        },
+        {
+            "id": "_1",
+            "label": "JANKA ČMELIKA - OBLAČIĆA RADA",
+            "longitude": 19.8083164398,
+            "latitude": 45.2649285714
+        },
+        {
+            "id": "_3",
+            "label": "KORNELIJA STANKOVIĆA - ILIJE BIRČANINA",
+            "longitude": 19.8135399393,
+            "latitude": 45.2620111469
+        },
+        {
+            "id": "_9",
+            "label": "VOJVODE BOJOVIĆA - O.Š. IVO LOLA RIBAR",
+            "longitude": 19.8371378326,
+            "latitude": 45.2588985768
+        },
+        {
+            "id": "_11",
+            "label": "BUL. MIHAJLA PUPINA - POTHODNIK",
+            "longitude": 19.844187,
+            "latitude": 45.253337
+        },
+        {
+            "id": "_12",
+            "label": "BUL. MIHAJLA PUPINA - SONJE MARINKOVIĆ",
+            "longitude": 19.8530960428,
+            "latitude": 45.2542765403
+        },
+        {
+            "id": "_13",
+            "label": "BEOGRADSKA - LISINSKOG",
+            "longitude": 19.8620128358,
+            "latitude": 45.2547734365
+        },
+        {
+            "id": "_14",
+            "label": "PRERADOVIĆEVA - LOVAČKI DOM",
+            "longitude": 19.8678103709,
+            "latitude": 45.2525866389
+        },
+        {
+            "id": "_15",
+            "label": "PRERADOVIĆEVA - O.Š. JOVAN DUČIĆ",
+            "longitude": 19.8727083512,
+            "latitude": 45.2516407374
+        },
+        {
+            "id": "_17",
+            "label": "PRERADOVIĆEVA - MARINA DRŽIĆA",
+            "longitude": 19.8801002749,
+            "latitude": 45.2455157784
+        },
+        {
+            "id": "_19",
+            "label": "PETROVARADIN - ŽELEZNIČKA STANICA",
+            "longitude": 19.8857439999,
+            "latitude": 45.2389365212
+        },
+        {
+            "id": "_16",
+            "label": "PRERADOVIĆEVA - RELJKOVIĆEVA",
+            "longitude": 19.876524398,
+            "latitude": 45.2488033781
+        },
+        {
+            "id": "_18",
+            "label": "PRERADOVIĆEVA - RAČKOG",
+            "longitude": 19.8830977084,
+            "latitude": 45.241791669
+        },
+        {
+            "id": "_20",
+            "label": "PETROVARADIN - OKRETNICA",
+            "longitude": 19.8878906109,
+            "latitude": 45.2360062995
+        },
+        {
+            "id": "_2",
+            "label": "JANKA ČMELIKA - DEČIJE OBDANIŠTE",
+            "longitude": 19.8104375633,
+            "latitude": 45.2618134201
+        },
+        {
+            "id": "_4",
+            "label": "RUMENAČKA - KORNELIJA STANKOVIĆA",
+            "longitude": 19.8174016008,
+            "latitude": 45.2636389127
+        },
+        {
+            "id": "_5",
+            "label": "RUMENAČKA - ABC SAMOPOSLUGA",
+            "longitude": 19.8204896166,
+            "latitude": 45.2609008436
+        },
+        {
+            "id": "_6",
+            "label": "KRALJA PETRA I - SAJAM",
+            "longitude": 19.8244448578,
+            "latitude": 45.2591224024
+        },
+        {
+            "id": "_7",
+            "label": "KRALJA PETRA I - MAŠINSKA ŠKOLA",
+            "longitude": 19.8274393446,
+            "latitude": 45.259428265
+        },
+        {
+            "id": "_8",
+            "label": "KRALJA PETRA I - BUL. OSLOBOĐENJA",
+            "longitude": 19.8329179672,
+            "latitude": 45.2607697725
+        }
+    ]
+}

@@ -1,0 +1,270 @@
+{
+    "direction_a": [
+        {
+            "id": "_8",
+            "label": "FUTOŠKA - BUL. OSLOBOĐENJA",
+            "longitude": 19.836036584,
+            "latitude": 45.2515776887
+        },
+        {
+            "id": "_9",
+            "label": "FUTOŠKA - BRANISLAVA NUŠIĆA",
+            "longitude": 19.8321411697,
+            "latitude": 45.2496536022
+        },
+        {
+            "id": "_10",
+            "label": "FUTOŠKA - JODNA BANJA",
+            "longitude": 19.8289089911,
+            "latitude": 45.2492337673
+        },
+        {
+            "id": "_11",
+            "label": "FUTOŠKA - BOLNICA",
+            "longitude": 19.8238348508,
+            "latitude": 45.2494278377
+        },
+        {
+            "id": "_12",
+            "label": "FUTOŠKA - BULEVAR EVROPE",
+            "longitude": 19.815564749,
+            "latitude": 45.2485623853
+        },
+        {
+            "id": "_13",
+            "label": "FUTOŠKA - JUGOALAT",
+            "longitude": 19.810052585,
+            "latitude": 45.2478325873
+        },
+        {
+            "id": "_20",
+            "label": "BRANKA ĆOPIĆA - JESENJINOVA",
+            "longitude": 19.7917712223,
+            "latitude": 45.2336724229
+        },
+        {
+            "id": "_22",
+            "label": "BANJALUČKA - BRANKA ĆOPIĆA",
+            "longitude": 19.7845240714,
+            "latitude": 45.2330981747
+        },
+        {
+            "id": "_23",
+            "label": "SMEDEREVSKA - BANJALUČKA",
+            "longitude": 19.7847028632,
+            "latitude": 45.2344242907
+        },
+        {
+            "id": "_2",
+            "label": "MARKA MILJANOVA - KOSOVSKA",
+            "longitude": 19.8507066908,
+            "latitude": 45.2614748508
+        },
+        {
+            "id": "_4",
+            "label": "BEOGRADSKI KEJ - MARKA MILJANOVA",
+            "longitude": 19.8557970812,
+            "latitude": 45.2608772309
+        },
+        {
+            "id": "_5",
+            "label": "BEOGRADSKI KEJ - MILOŠA BAJIĆA",
+            "longitude": 19.8546271049,
+            "latitude": 45.2575567077
+        },
+        {
+            "id": "_6",
+            "label": "BUL. MIHAJLA PUPINA - DUNAVSKI PARK",
+            "longitude": 19.8519122087,
+            "latitude": 45.2542020579
+        },
+        {
+            "id": "_7",
+            "label": "BUL. MIHAJLA PUPINA - POTHODNIK",
+            "longitude": 19.844141,
+            "latitude": 45.253519
+        },
+        {
+            "id": "_14",
+            "label": "VRŠAČKA - DOM ZDRAVLJA",
+            "longitude": 19.809183123,
+            "latitude": 45.2446632301
+        },
+        {
+            "id": "_15",
+            "label": "VRŠAČKA - ADI ENDREA",
+            "longitude": 19.8108398895,
+            "latitude": 45.2418383087
+        },
+        {
+            "id": "_16",
+            "label": "FEJEŠ KLARE - BUL. PATRIJAHA PAVLA",
+            "longitude": 19.811146825,
+            "latitude": 45.2403907599
+        },
+        {
+            "id": "_17",
+            "label": "ĆIRILA I METODIJA - ŠARPLANINSKA",
+            "longitude": 19.808189521,
+            "latitude": 45.2383877496
+        },
+        {
+            "id": "_18",
+            "label": "ĆIRILA I METODIJA - VARGA ĐULE",
+            "longitude": 19.8008255822,
+            "latitude": 45.2391202342
+        },
+        {
+            "id": "_19",
+            "label": "BRANKA ĆOPIĆA 42",
+            "longitude": 19.7971920511,
+            "latitude": 45.2356763766
+        },
+        {
+            "id": "_1",
+            "label": "PODBARA\r\n-\r\nOKRETNICA",
+            "longitude": 19.850372,
+            "latitude": 45.26401
+        },
+        {
+            "id": "_3",
+            "label": "MARKA MILJANOVA - KVANTAŠKA PIJACA",
+            "longitude": 19.8538122701,
+            "latitude": 45.261706836
+        },
+        {
+            "id": "_21",
+            "label": "BRANKA ĆOPĆA - SIME ŠOLAJE",
+            "longitude": 19.7869691233,
+            "latitude": 45.2330428141
+        }
+    ],
+    "direction_b": [
+        {
+            "id": "_12",
+            "label": "FUTOŠKA - CARA DUŠANA",
+            "longitude": 19.8252968807,
+            "latitude": 45.2491656314
+        },
+        {
+            "id": "_13",
+            "label": "FUTOŠKA - ANTONA ČEHOVA",
+            "longitude": 19.8300215701,
+            "latitude": 45.2490835157
+        },
+        {
+            "id": "_14",
+            "label": "FUTOŠKA - BRAĆE RIBNIKAR",
+            "longitude": 19.8331936901,
+            "latitude": 45.2498730986
+        },
+        {
+            "id": "_15",
+            "label": "JEVREJSKA - BUL. OSLOBOĐENJA",
+            "longitude": 19.8377609655,
+            "latitude": 45.2522080286
+        },
+        {
+            "id": "_1",
+            "label": "SMEDEREVSKA - BANJALUČKA",
+            "longitude": 19.7847028632,
+            "latitude": 45.2344242907
+        },
+        {
+            "id": "_2",
+            "label": "SIME ŠOLAJE - ŽIKICE JOVANOVIĆA",
+            "longitude": 19.787184434,
+            "latitude": 45.2332075399
+        },
+        {
+            "id": "_3",
+            "label": "BRANKA ĆOPIĆA - SLAVUJEVA",
+            "longitude": 19.7921001728,
+            "latitude": 45.2336631693
+        },
+        {
+            "id": "_5",
+            "label": "ĆIRILA I METODIJA - GORANA KOVAČIĆA",
+            "longitude": 19.8008702781,
+            "latitude": 45.2390614549
+        },
+        {
+            "id": "_8",
+            "label": "VRŠAČKA - ADI ENDREA",
+            "longitude": 19.8110232713,
+            "latitude": 45.2416663419
+        },
+        {
+            "id": "_16",
+            "label": "BUL. MIHAJLA PUPINA - POTHODNIK",
+            "longitude": 19.844187,
+            "latitude": 45.253337
+        },
+        {
+            "id": "_17",
+            "label": "BUL. MIHAJLA PUPINA - SONJE MARINKOVIĆ",
+            "longitude": 19.8530960428,
+            "latitude": 45.2542765403
+        },
+        {
+            "id": "_19",
+            "label": "MARKA MILJANOVA - KVANTAŠKA PIJACA",
+            "longitude": 19.8537375388,
+            "latitude": 45.2617554805
+        },
+        {
+            "id": "_20",
+            "label": "MARKA MILJANOVA - KOSOVSKA",
+            "longitude": 19.8510251212,
+            "latitude": 45.2615941131
+        },
+        {
+            "id": "_18",
+            "label": "BEOGRADSKI KEJ - KAPETANIJA",
+            "longitude": 19.8548476045,
+            "latitude": 45.2576645565
+        },
+        {
+            "id": "_21",
+            "label": "PODBARA\r\n-\r\nOKRETNICA",
+            "longitude": 19.850372,
+            "latitude": 45.26401
+        },
+        {
+            "id": "_4",
+            "label": "BRANKA ĆOPIĆA 43",
+            "longitude": 19.7976007162,
+            "latitude": 45.2359280235
+        },
+        {
+            "id": "_6",
+            "label": "ĆIRILA I METODIJA - O.Š. JOŽEF ATILA",
+            "longitude": 19.8079954948,
+            "latitude": 45.2383549843
+        },
+        {
+            "id": "_7",
+            "label": "VRŠAČKA - PRAVOSLAVNA CRKVA",
+            "longitude": 19.8108903063,
+            "latitude": 45.23855347
+        },
+        {
+            "id": "_9",
+            "label": "VRŠAČKA - JOVANA POPOVIĆA",
+            "longitude": 19.8094435931,
+            "latitude": 45.2443433814
+        },
+        {
+            "id": "_10",
+            "label": "FUTOŠKI PUT - VRŠAČKA",
+            "longitude": 19.8083415635,
+            "latitude": 45.247517576
+        },
+        {
+            "id": "_11",
+            "label": "FUTOŠKA - HIGIJENSKI ZAVOD",
+            "longitude": 19.8177958089,
+            "latitude": 45.2488161894
+        }
+    ]
+}

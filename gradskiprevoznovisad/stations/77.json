@@ -1,0 +1,222 @@
+{
+    "direction_a": [
+        {
+            "id": "_2",
+            "label": "BUL. OSLOBOĐENJA - FUTOŠKA",
+            "longitude": 19.8370753816,
+            "latitude": 45.2514514442
+        },
+        {
+            "id": "_3",
+            "label": "BUL. OSLOBOĐENJA - MOST SLOBODE",
+            "longitude": 19.8428482132,
+            "latitude": 45.241081551
+        },
+        {
+            "id": "_4",
+            "label": "SR. KAMENICA - CENTAR",
+            "longitude": 19.8425048162,
+            "latitude": 45.2234788568
+        },
+        {
+            "id": "_5",
+            "label": "SR. KAMENICA - LEDINAČKI PUT - BOCKE",
+            "longitude": 19.8220383026,
+            "latitude": 45.2187669648
+        },
+        {
+            "id": "_1",
+            "label": "MAS - POLAZNI PERON BR. 14",
+            "longitude": 19.8285457138,
+            "latitude": 45.2640888897
+        },
+        {
+            "id": "_6",
+            "label": "LEDINCI - RASKRS. ZA LEDINCE",
+            "longitude": 19.8056262273,
+            "latitude": 45.2152729956
+        },
+        {
+            "id": "_7",
+            "label": "RAKOVAC I - SMRDANOV POTOK",
+            "longitude": 19.7903427896,
+            "latitude": 45.2109741424
+        },
+        {
+            "id": "_8",
+            "label": "RAKOVAC II - ODM.NOVOMONTA",
+            "longitude": 19.7783365463,
+            "latitude": 45.2098060464
+        },
+        {
+            "id": "_9",
+            "label": "RAKOVAC IV",
+            "longitude": 19.7681622527,
+            "latitude": 45.2079050353
+        },
+        {
+            "id": "_10",
+            "label": "ST. RAKOVAC I - IZVOR",
+            "longitude": 19.7678383662,
+            "latitude": 45.2038129587
+        },
+        {
+            "id": "_11",
+            "label": "ST. RAKOVAC II - NIKOLE PAŠIĆA",
+            "longitude": 19.7693003063,
+            "latitude": 45.1993500796
+        },
+        {
+            "id": "_12",
+            "label": "ST. RAKOVAC III - ŽUTA KUĆA",
+            "longitude": 19.7697641355,
+            "latitude": 45.1957323556
+        },
+        {
+            "id": "_13",
+            "label": "ST. RAKOVAC IV - MANASTIRSKA 93\r\n",
+            "longitude": 19.7700944286,
+            "latitude": 45.1929113601
+        },
+        {
+            "id": "_14",
+            "label": "ST. RAKOVAC V - STOLICE",
+            "longitude": 19.7707423706,
+            "latitude": 45.1909469729
+        },
+        {
+            "id": "_15",
+            "label": "ST. RAKOVAC VI - MANASTIRSKA 28",
+            "longitude": 19.7715375314,
+            "latitude": 45.1877161493
+        },
+        {
+            "id": "_16",
+            "label": "ST. RAKOVAC VII - MANASTIR",
+            "longitude": 19.7734903978,
+            "latitude": 45.1844876799
+        },
+        {
+            "id": "_17",
+            "label": "ST. RAKOVAC VIII - OKRETNICA",
+            "longitude": 19.7708796828,
+            "latitude": 45.1812208015
+        }
+    ],
+    "direction_b": [
+        {
+            "id": "_16",
+            "label": "BUL. OSLOBOĐENJA - NARODNOG FRONTA",
+            "longitude": 19.8425582061,
+            "latitude": 45.2421433047
+        },
+        {
+            "id": "_17",
+            "label": "BUL. OSLOBOĐENJA - FUTOŠKA PIJACA",
+            "longitude": 19.8368000824,
+            "latitude": 45.2525198464
+        },
+        {
+            "id": "_18",
+            "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
+            "longitude": 19.8318492939,
+            "latitude": 45.2613766166
+        },
+        {
+            "id": "_14",
+            "label": "SR. KAMENICA - LEDINAČKI PUT - BOCKE",
+            "longitude": 19.820909925,
+            "latitude": 45.2183331
+        },
+        {
+            "id": "_15",
+            "label": "SR. KAMENICA - CENTAR",
+            "longitude": 19.8429845913,
+            "latitude": 45.2231734727
+        },
+        {
+            "id": "_19",
+            "label": "MAS - DOLAZNI PERON",
+            "longitude": 19.8292532816,
+            "latitude": 45.2646698037
+        },
+        {
+            "id": "_1",
+            "label": "ST. RAKOVAC VIII - OKRETNICA",
+            "longitude": 19.7708796828,
+            "latitude": 45.1812208015
+        },
+        {
+            "id": "_2",
+            "label": "ST. RAKOVAC VII - MANASTIR",
+            "longitude": 19.7734983986,
+            "latitude": 45.1842531899
+        },
+        {
+            "id": "_3",
+            "label": "ST. RAKOVAC VI - MANASTIRSKA 28",
+            "longitude": 19.7714884243,
+            "latitude": 45.1877953428
+        },
+        {
+            "id": "_4",
+            "label": "ST. RAKOVAC V - STOLICE",
+            "longitude": 19.7708133477,
+            "latitude": 45.1912738049
+        },
+        {
+            "id": "_6",
+            "label": "ST. RAKOVAC III - ŽUTA KUĆA",
+            "longitude": 19.7697839398,
+            "latitude": 45.1956904089
+        },
+        {
+            "id": "_7",
+            "label": "ST. RAKOVAC II - NIKOLE PAŠIĆA",
+            "longitude": 19.7691391825,
+            "latitude": 45.2000086131
+        },
+        {
+            "id": "_8",
+            "label": "ST. RAKOVAC I - IZVOR",
+            "longitude": 19.7678604993,
+            "latitude": 45.2039823235
+        },
+        {
+            "id": "_9",
+            "label": "RAKOVAC IV",
+            "longitude": 19.7683725375,
+            "latitude": 45.2082255865
+        },
+        {
+            "id": "_10",
+            "label": "RAKOVAC III - RAS. ZA BEOČIN",
+            "longitude": 19.7693125662,
+            "latitude": 45.2101263501
+        },
+        {
+            "id": "_11",
+            "label": "RAKOVAC II - ODM. NOVOMONTA",
+            "longitude": 19.779770709,
+            "latitude": 45.2096273813
+        },
+        {
+            "id": "_12",
+            "label": "RAKOVAC I - SMRDANOV POTOK",
+            "longitude": 19.7913883196,
+            "latitude": 45.2112595179
+        },
+        {
+            "id": "_13",
+            "label": "LEDINCI - RASKRS. ZA LEDINCE",
+            "longitude": 19.8061859913,
+            "latitude": 45.2153457017
+        },
+        {
+            "id": "_5",
+            "label": "ST. RAKOVAC IV - MANASTIRSKA 93",
+            "longitude": 19.770104,
+            "latitude": 45.192941
+        }
+    ]
+}

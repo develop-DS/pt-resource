@@ -1,0 +1,330 @@
+{
+    "direction_a": [
+        {
+            "id": "_3",
+            "label": "TEMERINSKA - TRG MARIJE TRANDAFIL",
+            "longitude": 19.8431916148,
+            "latitude": 45.2610079188
+        },
+        {
+            "id": "_4",
+            "label": "TEMERINSKA - GUNDULIĆEVA",
+            "longitude": 19.8438347072,
+            "latitude": 45.264154136
+        },
+        {
+            "id": "_2",
+            "label": "KISAČKA - BUL. JAŠE TOMIĆA",
+            "longitude": 19.8354809218,
+            "latitude": 45.2656954001
+        },
+        {
+            "id": "_1",
+            "label": "ŽELEZNIČKA STANICA TERMINAL",
+            "longitude": 19.8295668921,
+            "latitude": 45.265233079
+        },
+        {
+            "id": "_14",
+            "label": "KAĆ - IZLAZ",
+            "longitude": 19.9556881487,
+            "latitude": 45.2939648134
+        },
+        {
+            "id": "_15",
+            "label": "BUDISAVA - ULAZ",
+            "longitude": 19.9830359353,
+            "latitude": 45.2814338763
+        },
+        {
+            "id": "_16",
+            "label": "BUDISAVA - CENTAR",
+            "longitude": 19.9923347426,
+            "latitude": 45.280758404
+        },
+        {
+            "id": "_17",
+            "label": "BUDISAVA - IZLAZ",
+            "longitude": 20.0002082025,
+            "latitude": 45.2801673872
+        },
+        {
+            "id": "_18",
+            "label": "RASKRSNICA BUDISAVA - KOVILJ - TITEL",
+            "longitude": 20.0119600415,
+            "latitude": 45.278928975
+        },
+        {
+            "id": "_19",
+            "label": "KOVILJ - BRANKA BAJIĆA - POLJOPRIVREDNA ZADRUGA",
+            "longitude": 20.0245064944,
+            "latitude": 45.2422852886
+        },
+        {
+            "id": "_20",
+            "label": "KOVILJ - ULAZ",
+            "longitude": 20.0265195887,
+            "latitude": 45.2394858377
+        },
+        {
+            "id": "_21",
+            "label": "KOVILJ - LAZE KOSTIĆA 161",
+            "longitude": 20.0272709064,
+            "latitude": 45.2346886393
+        },
+        {
+            "id": "_22",
+            "label": "KOVILJ - LAZE KOSTIĆA 119",
+            "longitude": 20.0231050782,
+            "latitude": 45.2306093153
+        },
+        {
+            "id": "_23",
+            "label": "KOVILJ - CENTAR",
+            "longitude": 20.0209089527,
+            "latitude": 45.2249602083
+        },
+        {
+            "id": "_24",
+            "label": "KOVILJ - LAZE KOSTIĆA 41",
+            "longitude": 20.0200805005,
+            "latitude": 45.2217940307
+        },
+        {
+            "id": "_25",
+            "label": "KOVILJ - DUŠKA VICKOVA KRST SPOMENIK",
+            "longitude": 20.0240594686,
+            "latitude": 45.2184099331
+        },
+        {
+            "id": "_26",
+            "label": "KKOVILJ - JOVICE PAVLICE - DUŠKA VICKOVA",
+            "longitude": 20.029129,
+            "latitude": 45.216327
+        },
+        {
+            "id": "_28",
+            "label": "KOVILJ - OKRETNICA",
+            "longitude": 20.040177,
+            "latitude": 45.2244
+        },
+        {
+            "id": "_6",
+            "label": "NAFTAGAS",
+            "longitude": 19.8511471548,
+            "latitude": 45.2815088733
+        },
+        {
+            "id": "_7",
+            "label": "INDUSTRIJSKA ZONA VELIKI RIT",
+            "longitude": 19.8565358761,
+            "latitude": 45.2988852306
+        },
+        {
+            "id": "_8",
+            "label": "PUT NS - ZR - UNIMET",
+            "longitude": 19.897767251,
+            "latitude": 45.3092578375
+        },
+        {
+            "id": "_9",
+            "label": "KAĆ - EKONOMIJA",
+            "longitude": 19.9224259118,
+            "latitude": 45.304999379
+        },
+        {
+            "id": "_10",
+            "label": "KAĆ - SVETOSAVSKA 63",
+            "longitude": 19.9291771531,
+            "latitude": 45.3033451317
+        },
+        {
+            "id": "_11",
+            "label": "KAĆ - SVETOSAVSKA 23",
+            "longitude": 19.936092651,
+            "latitude": 45.3011185769
+        },
+        {
+            "id": "_12",
+            "label": "KAĆ - KRALJA PETRA I - PRAVOSLAVNA CRKVA",
+            "longitude": 19.9419456271,
+            "latitude": 45.2988108261
+        },
+        {
+            "id": "_13",
+            "label": "KAĆ - KRALJA PETRA I 54",
+            "longitude": 19.9477176786,
+            "latitude": 45.2965400217
+        },
+        {
+            "id": "_5",
+            "label": "PUT ŠAJKAŠKOG ODREDA - TEMERINSKA",
+            "longitude": 19.842795,
+            "latitude": 45.270255
+        },
+        {
+            "id": "_27",
+            "label": "KOVILJ - JOVICE PAVLICE - STEVANA PEŠIĆA",
+            "longitude": 20.034056,
+            "latitude": 45.219384
+        }
+    ],
+    "direction_b": [
+        {
+            "id": "_24",
+            "label": "KISAČKA - TEMERINSKA",
+            "longitude": 19.8423966225,
+            "latitude": 45.2608711975
+        },
+        {
+            "id": "_25",
+            "label": "KISAČKA - JOVANA CVIJIĆA",
+            "longitude": 19.8364405487,
+            "latitude": 45.2652106325
+        },
+        {
+            "id": "_23",
+            "label": "TEMERINSKA - PARTIZANSKA",
+            "longitude": 19.8421271396,
+            "latitude": 45.2696690854
+        },
+        {
+            "id": "_26",
+            "label": "ŽELEZNIČKA STANICA - DOLASCI",
+            "longitude": 19.830132455,
+            "latitude": 45.2650202834
+        },
+        {
+            "id": "_1",
+            "label": "KOVILJ - OKRETNICA",
+            "longitude": 20.040177,
+            "latitude": 45.2244
+        },
+        {
+            "id": "_3",
+            "label": "KOVILJ - DUŠKA VICKOVA 41",
+            "longitude": 20.0280940116,
+            "latitude": 45.2164395546
+        },
+        {
+            "id": "_4",
+            "label": "KOVILJ - DUŠKA VICKOVA KRST SPOMENIK",
+            "longitude": 20.0241338144,
+            "latitude": 45.2184382041
+        },
+        {
+            "id": "_5",
+            "label": "KOVILJ - LAZE KOSTIĆA 12",
+            "longitude": 20.0199434799,
+            "latitude": 45.2209949854
+        },
+        {
+            "id": "_6",
+            "label": "KOVILJ - CENTAR",
+            "longitude": 20.0210002715,
+            "latitude": 45.2248524735
+        },
+        {
+            "id": "_7",
+            "label": "KOVILJ - LAZE KOSTIĆA - OSNOVNA ŠKOLA",
+            "longitude": 20.0234782608,
+            "latitude": 45.2308145679
+        },
+        {
+            "id": "_8",
+            "label": "KOVILJ - LAZE KOSTIĆA - TOZE MARKOVIĆA",
+            "longitude": 20.0276966986,
+            "latitude": 45.2351773498
+        },
+        {
+            "id": "_9",
+            "label": "KOVILJ - ULAZ",
+            "longitude": 20.0283089757,
+            "latitude": 45.2378216977
+        },
+        {
+            "id": "_10",
+            "label": "KOVILJ - BRANKA BAJIĆA - POLJOPR. ZADRUGA",
+            "longitude": 20.0240126707,
+            "latitude": 45.2429228057
+        },
+        {
+            "id": "_11",
+            "label": "RASKRSNICA BUDISAVA - KOVILJ - TITEL",
+            "longitude": 20.0112875057,
+            "latitude": 45.2794507099
+        },
+        {
+            "id": "_12",
+            "label": "BUDISAVA - IZLAZ",
+            "longitude": 20.0004166877,
+            "latitude": 45.2802629078
+        },
+        {
+            "id": "_13",
+            "label": "BUDISAVA - CENTAR",
+            "longitude": 19.9918237241,
+            "latitude": 45.2808805972
+        },
+        {
+            "id": "_14",
+            "label": "BUDISAVA - ULAZ",
+            "longitude": 19.9831579365,
+            "latitude": 45.2815364692
+        },
+        {
+            "id": "_15",
+            "label": "KAĆ - IZLAZ",
+            "longitude": 19.9561497848,
+            "latitude": 45.2939174167
+        },
+        {
+            "id": "_16",
+            "label": "KAĆ - KRALJA PETRA I 55",
+            "longitude": 19.9465126777,
+            "latitude": 45.2971199977
+        },
+        {
+            "id": "_17",
+            "label": "KAĆ - CENTAR",
+            "longitude": 19.9385582837,
+            "latitude": 45.300283342
+        },
+        {
+            "id": "_18",
+            "label": "KAĆ - SVETOSAVSKA 62a",
+            "longitude": 19.9299340635,
+            "latitude": 45.3032820269
+        },
+        {
+            "id": "_19",
+            "label": "KAĆ - EKONOMIJA",
+            "longitude": 19.9233073502,
+            "latitude": 45.3048958017
+        },
+        {
+            "id": "_20",
+            "label": "PUT NS - ZR - AUTOSALON KIA",
+            "longitude": 19.8969594834,
+            "latitude": 45.3093188521
+        },
+        {
+            "id": "_21",
+            "label": "INDUSTRIJSKA ZONA VELIKI RIT",
+            "longitude": 19.8557151201,
+            "latitude": 45.2983090783
+        },
+        {
+            "id": "_22",
+            "label": "NAFTAGAS",
+            "longitude": 19.8506658724,
+            "latitude": 45.2807541595
+        },
+        {
+            "id": "_2",
+            "label": "KOVILJ - JOVICE PAVLICE - STEVANA PEŠIĆA",
+            "longitude": 20.033796,
+            "latitude": 45.21925
+        }
+    ]
+}

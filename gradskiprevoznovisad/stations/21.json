@@ -1,0 +1,174 @@
+{
+    "direction_a": [
+        {
+            "id": "_4",
+            "label": "TEMERINSKA - TRG MARIJE TRANDAFIL",
+            "longitude": 19.8431916148,
+            "latitude": 45.2610079188
+        },
+        {
+            "id": "_5",
+            "label": "TEMERINSKA - GUNDULIĆEVA",
+            "longitude": 19.8438347072,
+            "latitude": 45.264154136
+        },
+        {
+            "id": "_6",
+            "label": "TEMERINSKA - PATRIJARHA ČARNOJEVIĆA",
+            "longitude": 19.8433774932,
+            "latitude": 45.2669400366
+        },
+        {
+            "id": "_2",
+            "label": "KISAČKA - BUL. JAŠE TOMIĆA",
+            "longitude": 19.8354809218,
+            "latitude": 45.2656954001
+        },
+        {
+            "id": "_3",
+            "label": "KISAČKA - BUL. KRALJA PETRA I",
+            "longitude": 19.8401023551,
+            "latitude": 45.2623699914
+        },
+        {
+            "id": "_1",
+            "label": "BUL. JAŠE TOMIĆA - BUL. OSLOBOĐENJA",
+            "longitude": 19.831181344,
+            "latitude": 45.264414954
+        },
+        {
+            "id": "_8",
+            "label": "PUT ŠAJKAŠKOG ODREDA - BUTANGAS",
+            "longitude": 19.8541396629,
+            "latitude": 45.2801714789
+        },
+        {
+            "id": "_9",
+            "label": "PUT ŠAJKAŠKOG ODREDA - NAFTAGAS I",
+            "longitude": 19.860216648,
+            "latitude": 45.2801022232
+        },
+        {
+            "id": "_10",
+            "label": "PUT ŠAJKAŠKOG ODREDA - NAFTAGAS II",
+            "longitude": 19.8698335025,
+            "latitude": 45.2800445045
+        },
+        {
+            "id": "_11",
+            "label": "PUT ŠAJKAŠKOG ODREDA - HIDROSONDA",
+            "longitude": 19.8739061759,
+            "latitude": 45.2800159943
+        },
+        {
+            "id": "_13",
+            "label": "ŠANGAJ - ŠKOLA",
+            "longitude": 19.8746858691,
+            "latitude": 45.2728481382
+        },
+        {
+            "id": "_14",
+            "label": "ŠANGAJ - OKRETNICA",
+            "longitude": 19.8734833608,
+            "latitude": 45.2716456299
+        },
+        {
+            "id": "_12",
+            "label": "KAPIJA - ŠANGAJ",
+            "longitude": 19.8744280768,
+            "latitude": 45.2753695785
+        },
+        {
+            "id": "_7",
+            "label": "PUT ŠAJKAŠKOG ODREDA - TEMERINSKA",
+            "longitude": 19.842795,
+            "latitude": 45.270255
+        }
+    ],
+    "direction_b": [
+        {
+            "id": "_11",
+            "label": "KISAČKA - TEMERINSKA",
+            "longitude": 19.8423966225,
+            "latitude": 45.2608711975
+        },
+        {
+            "id": "_12",
+            "label": "KISAČKA - DOSITEJEVA",
+            "longitude": 19.8390209306,
+            "latitude": 45.2632551971
+        },
+        {
+            "id": "_13",
+            "label": "KISAČKA - JOVANA CVIJIĆA",
+            "longitude": 19.8364405487,
+            "latitude": 45.2652106325
+        },
+        {
+            "id": "_8",
+            "label": "TEMERINSKA - PARTIZANSKA",
+            "longitude": 19.8421271396,
+            "latitude": 45.2696690854
+        },
+        {
+            "id": "_9",
+            "label": "TEMERINSKA - KOSTE ŠOKICE",
+            "longitude": 19.8430703993,
+            "latitude": 45.2673052212
+        },
+        {
+            "id": "_10",
+            "label": "TEMERINSKA - PIJACA",
+            "longitude": 19.8435652321,
+            "latitude": 45.2621466908
+        },
+        {
+            "id": "_14",
+            "label": "ŽELEZNIČKA STANICA - DOLASCI",
+            "longitude": 19.830132455,
+            "latitude": 45.2650202834
+        },
+        {
+            "id": "_1",
+            "label": "ŠANGAJ - OKRETNICA",
+            "longitude": 19.8734833608,
+            "latitude": 45.2716456299
+        },
+        {
+            "id": "_2",
+            "label": "ŠANGAJ - ŠKOLA",
+            "longitude": 19.8746020003,
+            "latitude": 45.2727640906
+        },
+        {
+            "id": "_3",
+            "label": "KAPIJA - ŠANGAJ",
+            "longitude": 19.8750018148,
+            "latitude": 45.2759625849
+        },
+        {
+            "id": "_4",
+            "label": "PUT ŠAJKAŠKOG ODREDA - HIDROSONDA",
+            "longitude": 19.8725659095,
+            "latitude": 45.2801291859
+        },
+        {
+            "id": "_5",
+            "label": "PUT ŠAJKAŠKOG ODREDA - NAFTAGAS II",
+            "longitude": 19.8687013766,
+            "latitude": 45.280162797
+        },
+        {
+            "id": "_6",
+            "label": "PUT ŠAJKAŠKOG ODREDA - NAFTAGAS I",
+            "longitude": 19.8594856773,
+            "latitude": 45.2802328142
+        },
+        {
+            "id": "_7",
+            "label": "PUT ŠAJKAŠKOG ODREDA - BUTANGAS",
+            "longitude": 19.8545442322,
+            "latitude": 45.2802887336
+        }
+    ]
+}

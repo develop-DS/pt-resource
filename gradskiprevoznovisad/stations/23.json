@@ -1,0 +1,210 @@
+{
+    "direction_a": [
+        {
+            "id": "_3",
+            "label": "TEMERINSKA - TRG MARIJE TRANDAFIL",
+            "longitude": 19.8431916148,
+            "latitude": 45.2610079188
+        },
+        {
+            "id": "_4",
+            "label": "TEMERINSKA - GUNDULIĆEVA",
+            "longitude": 19.8438347072,
+            "latitude": 45.264154136
+        },
+        {
+            "id": "_2",
+            "label": "KISAČKA - BUL. JAŠE TOMIĆA",
+            "longitude": 19.8354809218,
+            "latitude": 45.2656954001
+        },
+        {
+            "id": "_1",
+            "label": "ŽELEZNIČKA STANICA TERMINAL",
+            "longitude": 19.8295668921,
+            "latitude": 45.265233079
+        },
+        {
+            "id": "_14",
+            "label": "KAĆ - IZLAZ",
+            "longitude": 19.9556881487,
+            "latitude": 45.2939648134
+        },
+        {
+            "id": "_15",
+            "label": "BUDISAVA - ULAZ",
+            "longitude": 19.9830359353,
+            "latitude": 45.2814338763
+        },
+        {
+            "id": "_16",
+            "label": "BUDISAVA - CENTAR",
+            "longitude": 19.9923347426,
+            "latitude": 45.280758404
+        },
+        {
+            "id": "_17",
+            "label": "BUDISAVA - IZLAZ",
+            "longitude": 20.0002082025,
+            "latitude": 45.2801673872
+        },
+        {
+            "id": "_18",
+            "label": "BUDISAVA - OKRETNICA",
+            "longitude": 20.0061660796,
+            "latitude": 45.2796792899
+        },
+        {
+            "id": "_6",
+            "label": "NAFTAGAS",
+            "longitude": 19.8511471548,
+            "latitude": 45.2815088733
+        },
+        {
+            "id": "_7",
+            "label": "INDUSTRIJSKA ZONA VELIKI RIT",
+            "longitude": 19.8565358761,
+            "latitude": 45.2988852306
+        },
+        {
+            "id": "_8",
+            "label": "PUT NS - ZR - UNIMET",
+            "longitude": 19.897767251,
+            "latitude": 45.3092578375
+        },
+        {
+            "id": "_9",
+            "label": "KAĆ - EKONOMIJA",
+            "longitude": 19.9224259118,
+            "latitude": 45.304999379
+        },
+        {
+            "id": "_10",
+            "label": "KAĆ - SVETOSAVSKA 63",
+            "longitude": 19.9291771531,
+            "latitude": 45.3033451317
+        },
+        {
+            "id": "_11",
+            "label": "KAĆ - SVETOSAVSKA 23",
+            "longitude": 19.936092651,
+            "latitude": 45.3011185769
+        },
+        {
+            "id": "_12",
+            "label": "KAĆ - KRALJA PETRA I - PRAVOSLAVNA CRKVA",
+            "longitude": 19.9419456271,
+            "latitude": 45.2988108261
+        },
+        {
+            "id": "_13",
+            "label": "KAĆ - KRALJA PETRA I 54",
+            "longitude": 19.9477176786,
+            "latitude": 45.2965400217
+        },
+        {
+            "id": "_5",
+            "label": "PUT ŠAJKAŠKOG ODREDA - TEMERINSKA",
+            "longitude": 19.842795,
+            "latitude": 45.270255
+        }
+    ],
+    "direction_b": [
+        {
+            "id": "_14",
+            "label": "KISAČKA - TEMERINSKA",
+            "longitude": 19.8423966225,
+            "latitude": 45.2608711975
+        },
+        {
+            "id": "_15",
+            "label": "KISAČKA - JOVANA CVIJIĆA",
+            "longitude": 19.8364405487,
+            "latitude": 45.2652106325
+        },
+        {
+            "id": "_13",
+            "label": "TEMERINSKA - PARTIZANSKA",
+            "longitude": 19.8421271396,
+            "latitude": 45.2696690854
+        },
+        {
+            "id": "_16",
+            "label": "ŽELEZNIČKA STANICA - DOLASCI",
+            "longitude": 19.830132455,
+            "latitude": 45.2650202834
+        },
+        {
+            "id": "_1",
+            "label": "BUDISAVA - OKRETNICA",
+            "longitude": 20.0061660796,
+            "latitude": 45.2796792899
+        },
+        {
+            "id": "_2",
+            "label": "BUDISAVA - IZLAZ",
+            "longitude": 20.0004166877,
+            "latitude": 45.2802629078
+        },
+        {
+            "id": "_3",
+            "label": "BUDISAVA - CENTAR",
+            "longitude": 19.9918237241,
+            "latitude": 45.2808805972
+        },
+        {
+            "id": "_4",
+            "label": "BUDISAVA - ULAZ",
+            "longitude": 19.9831579365,
+            "latitude": 45.2815364692
+        },
+        {
+            "id": "_5",
+            "label": "KAĆ - IZLAZ",
+            "longitude": 19.9561497848,
+            "latitude": 45.2939174167
+        },
+        {
+            "id": "_6",
+            "label": "KAĆ - KRALJA PETRA I 55",
+            "longitude": 19.9465126777,
+            "latitude": 45.2971199977
+        },
+        {
+            "id": "_7",
+            "label": "KAĆ - CENTAR",
+            "longitude": 19.9385582837,
+            "latitude": 45.300283342
+        },
+        {
+            "id": "_8",
+            "label": "KAĆ - SVETOSAVSKA 62a",
+            "longitude": 19.9299340635,
+            "latitude": 45.3032820269
+        },
+        {
+            "id": "_9",
+            "label": "KAĆ - EKONOMIJA",
+            "longitude": 19.9233073502,
+            "latitude": 45.3048958017
+        },
+        {
+            "id": "_10",
+            "label": "PUT NS - ZR - AUTOSALON KIA",
+            "longitude": 19.8969594834,
+            "latitude": 45.3093188521
+        },
+        {
+            "id": "_11",
+            "label": "INDUSTRIJSKA ZONA VELIKI RIT",
+            "longitude": 19.8557151201,
+            "latitude": 45.2983090783
+        },
+        {
+            "id": "_12",
+            "label": "NAFTAGAS",
+            "longitude": 19.8506658724,
+            "latitude": 45.2807541595
+        }
+    ]
+}

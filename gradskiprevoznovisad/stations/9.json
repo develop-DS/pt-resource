@@ -1,0 +1,300 @@
+{
+    "direction_a": [
+        {
+            "id": "_1",
+            "label": "NOVO NASELJE - BISTRICA - OKRETNICA",
+            "longitude": 19.791754249,
+            "latitude": 45.2489224745
+        },
+        {
+            "id": "_2",
+            "label": "BUL. J.DUČIĆA - IGRALIŠTE",
+            "longitude": 19.7936823203,
+            "latitude": 45.2495765937
+        },
+        {
+            "id": "_3",
+            "label": "BUL. J. DUČIĆA - BATE BRKIĆA",
+            "longitude": 19.7983862612,
+            "latitude": 45.2511237051
+        },
+        {
+            "id": "_4",
+            "label": "BUL. J. DUČIĆA - ROBNA KUĆA",
+            "longitude": 19.8018919417,
+            "latitude": 45.2523770585
+        },
+        {
+            "id": "_5",
+            "label": "BUL. S.JOVANOVIĆA - DOM ZDRAVLJA",
+            "longitude": 19.8056491406,
+            "latitude": 45.2510355315
+        },
+        {
+            "id": "_14",
+            "label": "STRAŽILOVSKA - URBIS",
+            "longitude": 19.8492059684,
+            "latitude": 45.2481301777
+        },
+        {
+            "id": "_11",
+            "label": "BUL. CARA LAZARA - DOM ZDRAVLJA",
+            "longitude": 19.8317379566,
+            "latitude": 45.241465683
+        },
+        {
+            "id": "_16",
+            "label": "BUL. MIHAJLA PUPINA - SONJE MARINKOVIĆ",
+            "longitude": 19.8530960428,
+            "latitude": 45.2542765403
+        },
+        {
+            "id": "_17",
+            "label": "BEOGRADSKA - LISINSKOG",
+            "longitude": 19.8620128358,
+            "latitude": 45.2547734365
+        },
+        {
+            "id": "_18",
+            "label": "PRERADOVIĆEVA - LOVAČKI DOM",
+            "longitude": 19.8678103709,
+            "latitude": 45.2525866389
+        },
+        {
+            "id": "_19",
+            "label": "PRERADOVIĆEVA - O.Š. JOVAN DUČIĆ",
+            "longitude": 19.8727083512,
+            "latitude": 45.2516407374
+        },
+        {
+            "id": "_21",
+            "label": "PRERADOVIĆEVA - MARINA DRŽIĆA",
+            "longitude": 19.8801002749,
+            "latitude": 45.2455157784
+        },
+        {
+            "id": "_23",
+            "label": "PETROVARADIN - ŽELEZNIČKA STANICA",
+            "longitude": 19.8857439999,
+            "latitude": 45.2389365212
+        },
+        {
+            "id": "_20",
+            "label": "PRERADOVIĆEVA - RELJKOVIĆEVA",
+            "longitude": 19.876524398,
+            "latitude": 45.2488033781
+        },
+        {
+            "id": "_22",
+            "label": "PRERADOVIĆEVA - RAČKOG",
+            "longitude": 19.8830977084,
+            "latitude": 45.241791669
+        },
+        {
+            "id": "_24",
+            "label": "PETROVARADIN - OKRETNICA",
+            "longitude": 19.8878906109,
+            "latitude": 45.2360062995
+        },
+        {
+            "id": "_8",
+            "label": "CARA DUŠANA - FUTOŠKA",
+            "longitude": 19.8247020319,
+            "latitude": 45.2487841683
+        },
+        {
+            "id": "_9",
+            "label": "CARA DUŠANA - MEDICINSKA ŠKOLA",
+            "longitude": 19.8250937953,
+            "latitude": 45.2436192236
+        },
+        {
+            "id": "_10",
+            "label": "BUL. CARA LAZARA - IVE ANDRIĆA",
+            "longitude": 19.8258641034,
+            "latitude": 45.2399480828
+        },
+        {
+            "id": "_12",
+            "label": "BUL. CARA LAZARA - ŠEKSPIROVA",
+            "longitude": 19.8371533191,
+            "latitude": 45.2426706144
+        },
+        {
+            "id": "_13",
+            "label": "BUL. CARA LAZARA - BUL. OSLOBOĐENJA",
+            "longitude": 19.8424535024,
+            "latitude": 45.2440216217
+        },
+        {
+            "id": "_15",
+            "label": "ŽARKA ZRENJANINA - IZVRŠNO VEĆE",
+            "longitude": 19.8475593745,
+            "latitude": 45.2528535063
+        },
+        {
+            "id": "_6",
+            "label": "FUTOŠKI PUT - VRŠAČKA",
+            "longitude": 19.8083415635,
+            "latitude": 45.247517576
+        },
+        {
+            "id": "_7",
+            "label": "FUTOŠKA - HIGIJENSKI ZAVOD",
+            "longitude": 19.8177958089,
+            "latitude": 45.2488161894
+        }
+    ],
+    "direction_b": [
+        {
+            "id": "_17",
+            "label": "FUTOŠKA - BOLNICA",
+            "longitude": 19.8238348508,
+            "latitude": 45.2494278377
+        },
+        {
+            "id": "_18",
+            "label": "FUTOŠKA - BULEVAR EVROPE",
+            "longitude": 19.815564749,
+            "latitude": 45.2485623853
+        },
+        {
+            "id": "_19",
+            "label": "FUTOŠKA - JUGOALAT",
+            "longitude": 19.810052585,
+            "latitude": 45.2478325873
+        },
+        {
+            "id": "_20",
+            "label": "BUL. S. JOVANOVIĆA - FUTOŠKI PUT",
+            "longitude": 19.8075067499,
+            "latitude": 45.2482734052
+        },
+        {
+            "id": "_21",
+            "label": "BUL. S. JOVANOVIĆA - BRANISLAVA BOROTE",
+            "longitude": 19.8053597388,
+            "latitude": 45.2515983077
+        },
+        {
+            "id": "_22",
+            "label": "BUL. J. DUČIĆA - BUL. S. JOVANOVIĆA",
+            "longitude": 19.8031021067,
+            "latitude": 45.2529483166
+        },
+        {
+            "id": "_23",
+            "label": "BUL. J. DUČIĆA - BRAĆE DRONJAK",
+            "longitude": 19.7983752275,
+            "latitude": 45.2513539058
+        },
+        {
+            "id": "_24",
+            "label": "BUL. JOVANA DUČIĆA - IGRALIŠTE",
+            "longitude": 19.7947978105,
+            "latitude": 45.2500788277
+        },
+        {
+            "id": "_25",
+            "label": "NOVO NASELJE - BISTRICA - OKRETNICA",
+            "longitude": 19.7915144259,
+            "latitude": 45.2489713023
+        },
+        {
+            "id": "_10",
+            "label": "ŽARKA ZRENJANINA - OPŠTINA",
+            "longitude": 19.8471827488,
+            "latitude": 45.2524025428
+        },
+        {
+            "id": "_13",
+            "label": "BUL. CARA LAZARA - PUŠKINOVA",
+            "longitude": 19.8359820245,
+            "latitude": 45.2425681438
+        },
+        {
+            "id": "_9",
+            "label": "BUL. MIHAJLA PUPINA - DUNAVSKI PARK",
+            "longitude": 19.8519122087,
+            "latitude": 45.2542020579
+        },
+        {
+            "id": "_4",
+            "label": "PRERADOVIĆEVA - MARINA DRŽIĆA",
+            "longitude": 19.87968712,
+            "latitude": 45.2464017138
+        },
+        {
+            "id": "_1",
+            "label": "PETROVARADIN - OKRETNICA",
+            "longitude": 19.8878906109,
+            "latitude": 45.2360062995
+        },
+        {
+            "id": "_2",
+            "label": "PETROVARADIN - ŽELEZNIČKA STANICA",
+            "longitude": 19.8853872807,
+            "latitude": 45.2396101516
+        },
+        {
+            "id": "_3",
+            "label": "PRERADOVIĆEVA - BOŽIDAR ADŽIJE",
+            "longitude": 19.8814113961,
+            "latitude": 45.2439233024
+        },
+        {
+            "id": "_5",
+            "label": "PRERADOVIĆEVA - BENZINSKA PUMPA",
+            "longitude": 19.8757045697,
+            "latitude": 45.2496755784
+        },
+        {
+            "id": "_6",
+            "label": "PRERADOVIĆEVA - ŠENOINA",
+            "longitude": 19.8732154355,
+            "latitude": 45.251431704
+        },
+        {
+            "id": "_7",
+            "label": "PRERADOVIĆEVA - LOVAČKI DOM",
+            "longitude": 19.8689433116,
+            "latitude": 45.2526031657
+        },
+        {
+            "id": "_8",
+            "label": "BEOGRADSKA - VLADIMIRA NAZORA",
+            "longitude": 19.8623634945,
+            "latitude": 45.2548163902
+        },
+        {
+            "id": "_11",
+            "label": "BUL. CARA LAZARA - URBIS",
+            "longitude": 19.8488525074,
+            "latitude": 45.2474414598
+        },
+        {
+            "id": "_12",
+            "label": "BUL. CARA LAZARA - BUL. OSLOBOĐENJA",
+            "longitude": 19.8407575757,
+            "latitude": 45.2437760634
+        },
+        {
+            "id": "_14",
+            "label": "BUL. CARA LAZARA - DOM ZDRAVLJA",
+            "longitude": 19.8302794061,
+            "latitude": 45.2413137447
+        },
+        {
+            "id": "_15",
+            "label": "CARA DUŠANA - BUL. CARA LAZARA",
+            "longitude": 19.8253952094,
+            "latitude": 45.2403667659
+        },
+        {
+            "id": "_16",
+            "label": "CARA DUŠANA - MEDICINSKA ŠKOLA",
+            "longitude": 19.8252026974,
+            "latitude": 45.2442691715
+        }
+    ]
+}

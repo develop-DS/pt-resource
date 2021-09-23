@@ -1,0 +1,216 @@
+{
+    "direction_a": [
+        {
+            "id": "_6",
+            "label": "SENTANDREJSKI PUT - SAVSKA",
+            "longitude": 19.8226514651,
+            "latitude": 45.2993746126
+        },
+        {
+            "id": "_2",
+            "label": "KISAČKA - PODVOŽNJAK",
+            "longitude": 19.834665763,
+            "latitude": 45.2665045391
+        },
+        {
+            "id": "_3",
+            "label": "SENTANDREJSKI PUT - TEODORA MANDIĆA",
+            "longitude": 19.830315176,
+            "latitude": 45.2737069812
+        },
+        {
+            "id": "_4",
+            "label": "SENTANDREJSKI PUT - PRIMORSKA",
+            "longitude": 19.8263159471,
+            "latitude": 45.2848260115
+        },
+        {
+            "id": "_5",
+            "label": "SENTANDREJSKI PUT - SPORTSKA HALA",
+            "longitude": 19.8245477965,
+            "latitude": 45.2898775272
+        },
+        {
+            "id": "_1",
+            "label": "BUL. JAŠE TOMIĆA - BUL. OSLOBOĐENJA",
+            "longitude": 19.831181344,
+            "latitude": 45.264414954
+        },
+        {
+            "id": "_7",
+            "label": "AGROVOJVODINA",
+            "longitude": 19.8293912745,
+            "latitude": 45.3143445092
+        },
+        {
+            "id": "_8",
+            "label": "RIMSKI ŠANČEVI - SPOMENIK",
+            "longitude": 19.8279926059,
+            "latitude": 45.3229381495
+        },
+        {
+            "id": "_9",
+            "label": "RIMSKI ŠANČEVI - INSTITUT ZA RIP",
+            "longitude": 19.8292587703,
+            "latitude": 45.3305535548
+        },
+        {
+            "id": "_10",
+            "label": "RIMSKI ŠANČEVI - CRKVA",
+            "longitude": 19.8314241337,
+            "latitude": 45.3373500058
+        },
+        {
+            "id": "_11",
+            "label": "MEĐUNARODNI PUT I - RAKIĆ SALAŠ",
+            "longitude": 19.832723593,
+            "latitude": 45.3488996083
+        },
+        {
+            "id": "_12",
+            "label": "MEĐUNARODNI PUT II - RAKIĆ IMANJE",
+            "longitude": 19.8350483559,
+            "latitude": 45.3631144396
+        },
+        {
+            "id": "_13",
+            "label": "ČENEJ - VUKA KARADŽIĆA - OSNOVNA ŠKOLA",
+            "longitude": 19.8347299652,
+            "latitude": 45.3702534826
+        },
+        {
+            "id": "_14",
+            "label": "ČENEJ - VUKA KARADŽIĆA 58",
+            "longitude": 19.8250093489,
+            "latitude": 45.3695507771
+        },
+        {
+            "id": "_15",
+            "label": "ČENEJ - VUKA KARADŽIĆA - EKONOMIJA",
+            "longitude": 19.8163211879,
+            "latitude": 45.3695723097
+        },
+        {
+            "id": "_16",
+            "label": "ČENEJ - VUKA KARADŽIĆA - POLJ. ZADRUGA",
+            "longitude": 19.8098654083,
+            "latitude": 45.3694129257
+        },
+        {
+            "id": "_17",
+            "label": "ČENEJ - CENTAR",
+            "longitude": 19.7996779816,
+            "latitude": 45.3698479289
+        },
+        {
+            "id": "_18",
+            "label": "ČENEJ - VUKA KARADŽIĆA - KRAJNJA",
+            "longitude": 19.7910269816,
+            "latitude": 45.3707860626
+        }
+    ],
+    "direction_b": [
+        {
+            "id": "_14",
+            "label": "SENTANDREJSKI PUT - SAVSKA",
+            "longitude": 19.8226695053,
+            "latitude": 45.2997652739
+        },
+        {
+            "id": "_15",
+            "label": "SENTANDREJSKI PUT - DOLINSKA",
+            "longitude": 19.8247619009,
+            "latitude": 45.2888681125
+        },
+        {
+            "id": "_16",
+            "label": "SENTANDREJSKI PUT - MOST KANAL DTD",
+            "longitude": 19.8268347377,
+            "latitude": 45.2828585422
+        },
+        {
+            "id": "_17",
+            "label": "SENTANDREJSKI PUT - BENZINSKA PUMPA",
+            "longitude": 19.8308548777,
+            "latitude": 45.2713036839
+        },
+        {
+            "id": "_1",
+            "label": "ČENEJ - VUKA KARADŽIĆA - KRAJNJA",
+            "longitude": 19.7910269816,
+            "latitude": 45.3707860626
+        },
+        {
+            "id": "_2",
+            "label": "ČENEJ - CENTAR",
+            "longitude": 19.8002213424,
+            "latitude": 45.3697076619
+        },
+        {
+            "id": "_3",
+            "label": "ČENEJ - VUKA KARADŽIĆA - POLJ. ZADRUGA",
+            "longitude": 19.8086458972,
+            "latitude": 45.369315488
+        },
+        {
+            "id": "_4",
+            "label": "ČENEJ - EKONOMIJA",
+            "longitude": 19.816598642,
+            "latitude": 45.3695527063
+        },
+        {
+            "id": "_5",
+            "label": "ČENEJ - VUKA KARADŽIĆA 58",
+            "longitude": 19.8257046248,
+            "latitude": 45.3694927418
+        },
+        {
+            "id": "_6",
+            "label": "ČENEJ - VUKA KARADŽIĆA - OSNOVNA ŠKOLA",
+            "longitude": 19.8329015408,
+            "latitude": 45.3700226141
+        },
+        {
+            "id": "_7",
+            "label": "ČENEJ ŠKOLA III - RASKRSNICA",
+            "longitude": 19.8352436457,
+            "latitude": 45.3699249886
+        },
+        {
+            "id": "_8",
+            "label": "MEĐUNARODNI PUT II - RAKIĆ IMANJE",
+            "longitude": 19.8350018348,
+            "latitude": 45.3632154432
+        },
+        {
+            "id": "_9",
+            "label": "MEĐUNARODNI PUT I - RAKIĆ SALAŠ",
+            "longitude": 19.8326625706,
+            "latitude": 45.3491011316
+        },
+        {
+            "id": "_10",
+            "label": "RIMSKI ŠANČEVI - CRKVA",
+            "longitude": 19.8313188939,
+            "latitude": 45.3372483771
+        },
+        {
+            "id": "_11",
+            "label": "RIMSKI ŠANČEVI - INSTITUT ZA RIP",
+            "longitude": 19.8289111818,
+            "latitude": 45.3291561132
+        },
+        {
+            "id": "_12",
+            "label": "RIMSKI ŠANČEVI - SPOMENIK",
+            "longitude": 19.8276719451,
+            "latitude": 45.3211837282
+        },
+        {
+            "id": "_13",
+            "label": "AGROVOJVODINA",
+            "longitude": 19.8293094486,
+            "latitude": 45.314143007
+        }
+    ]
+}

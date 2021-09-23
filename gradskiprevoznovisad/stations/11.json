@@ -1,0 +1,288 @@
+{
+    "direction_a": [
+        {
+            "id": "_14",
+            "label": "STRAŽILOVSKA - URBIS",
+            "longitude": 19.8492059684,
+            "latitude": 45.2481301777
+        },
+        {
+            "id": "_9",
+            "label": "NARODNOG FRONTA - IVE ANDRIĆA",
+            "longitude": 19.8276347235,
+            "latitude": 45.2373436138
+        },
+        {
+            "id": "_18",
+            "label": "MARKA MILJANOVA - KVANTAŠKA PIJACA",
+            "longitude": 19.8537375388,
+            "latitude": 45.2617554805
+        },
+        {
+            "id": "_19",
+            "label": "MARKA MILJANOVA - KOSOVSKA",
+            "longitude": 19.8510251212,
+            "latitude": 45.2615941131
+        },
+        {
+            "id": "_17",
+            "label": "BEOGRADSKI KEJ - KAPETANIJA",
+            "longitude": 19.8548476045,
+            "latitude": 45.2576645565
+        },
+        {
+            "id": "_3",
+            "label": "RUMENAČKA - ABC SAMOPOSLUGA",
+            "longitude": 19.8204896166,
+            "latitude": 45.2609008436
+        },
+        {
+            "id": "_6",
+            "label": "CARA DUŠANA - FUTOŠKA",
+            "longitude": 19.8247020319,
+            "latitude": 45.2487841683
+        },
+        {
+            "id": "_7",
+            "label": "CARA DUŠANA - MEDICINSKA ŠKOLA",
+            "longitude": 19.8250937953,
+            "latitude": 45.2436192236
+        },
+        {
+            "id": "_10",
+            "label": "NARODNOG FRONTA - BALZAKOVA",
+            "longitude": 19.833210388,
+            "latitude": 45.2388659784
+        },
+        {
+            "id": "_11",
+            "label": "NARODNOG FRONTA - ŠEKSPIROVA",
+            "longitude": 19.8384767147,
+            "latitude": 45.2403689153
+        },
+        {
+            "id": "_12",
+            "label": "NARODNOG FRONTA - BUL. OSLOBOĐENJA",
+            "longitude": 19.843435786,
+            "latitude": 45.2417640206
+        },
+        {
+            "id": "_13",
+            "label": "FRUŠKOGORSKA - DR. I. ĐURIČIĆA",
+            "longitude": 19.847528317,
+            "latitude": 45.2429842112
+        },
+        {
+            "id": "_8",
+            "label": "IVE ANDRIĆA - BULEVAR EVROPE",
+            "longitude": 19.8253580867,
+            "latitude": 45.2394232209
+        },
+        {
+            "id": "_1",
+            "label": "BUL. JAŠE TOMIĆA - ŽELEZNIČKA STANICA",
+            "longitude": 19.8291811843,
+            "latitude": 45.2640665923
+        },
+        {
+            "id": "_2",
+            "label": "BUL. JAŠE TOMIĆA - ŽELEZNIČKI PARK",
+            "longitude": 19.8231059398,
+            "latitude": 45.2640771252
+        },
+        {
+            "id": "_22",
+            "label": "KISAČKA - JOVANA CVIJIĆA",
+            "longitude": 19.8364405487,
+            "latitude": 45.2652106325
+        },
+        {
+            "id": "_4",
+            "label": "HAJDUK VELJKOVA - SAJAM",
+            "longitude": 19.8241177466,
+            "latitude": 45.2569093044
+        },
+        {
+            "id": "_5",
+            "label": "HAJDUK VELJKOVA - MEDICINSKI FAKULTET",
+            "longitude": 19.8241868372,
+            "latitude": 45.2532878064
+        },
+        {
+            "id": "_15",
+            "label": "MAKSIMA GORKOG - STEVANA MUSIĆA",
+            "longitude": 19.8515882207,
+            "latitude": 45.2514125025
+        },
+        {
+            "id": "_16",
+            "label": "MAKSIMA GORKOG - KEJ",
+            "longitude": 19.8546993561,
+            "latitude": 45.2521192996
+        },
+        {
+            "id": "_20",
+            "label": "GUNDULIĆEVA - KOČE KOLAROVA",
+            "longitude": 19.846968,
+            "latitude": 45.264153
+        },
+        {
+            "id": "_21",
+            "label": "GUNDULIĆEVA - TEMERINSKA",
+            "longitude": 19.843454,
+            "latitude": 45.264563
+        },
+        {
+            "id": "_23",
+            "label": "ŽELEZNIČKA STANICA - DOLASCI",
+            "longitude": 19.830132455,
+            "latitude": 45.2650202834
+        }
+    ],
+    "direction_b": [
+        {
+            "id": "_5",
+            "label": "MARKA MILJANOVA - KOSOVSKA",
+            "longitude": 19.8507066908,
+            "latitude": 45.2614748508
+        },
+        {
+            "id": "_7",
+            "label": "BEOGRADSKI KEJ - MARKA MILJANOVA",
+            "longitude": 19.8557970812,
+            "latitude": 45.2608772309
+        },
+        {
+            "id": "_8",
+            "label": "BEOGRADSKI KEJ - MILOŠA BAJIĆA",
+            "longitude": 19.8546271049,
+            "latitude": 45.2575567077
+        },
+        {
+            "id": "_6",
+            "label": "MARKA MILJANOVA - KVANTAŠKA PIJACA",
+            "longitude": 19.8538122701,
+            "latitude": 45.261706836
+        },
+        {
+            "id": "_21",
+            "label": "RUMENAČKA - DOM ZDRAVLJA",
+            "longitude": 19.8213763649,
+            "latitude": 45.260450059
+        },
+        {
+            "id": "_11",
+            "label": "BUL. CARA LAZARA - URBIS",
+            "longitude": 19.8488525074,
+            "latitude": 45.2474414598
+        },
+        {
+            "id": "_17",
+            "label": "CARA DUŠANA - BUL. CARA LAZARA",
+            "longitude": 19.8253952094,
+            "latitude": 45.2403667659
+        },
+        {
+            "id": "_18",
+            "label": "CARA DUŠANA - MEDICINSKA ŠKOLA",
+            "longitude": 19.8252026974,
+            "latitude": 45.2442691715
+        },
+        {
+            "id": "_12",
+            "label": "NARODNOG FRONTA - FRUŠKOGORSKA",
+            "longitude": 19.8467941518,
+            "latitude": 45.2424582038
+        },
+        {
+            "id": "_14",
+            "label": "NARODNOG FRONTA - ŠEKSPIROVA",
+            "longitude": 19.8370412179,
+            "latitude": 45.2400602044
+        },
+        {
+            "id": "_15",
+            "label": "NARODNOG FRONTA - BALZAKOVA",
+            "longitude": 19.8316359129,
+            "latitude": 45.23861537
+        },
+        {
+            "id": "_16",
+            "label": "IVE ANDRIĆA - NARODNOG FRONTA",
+            "longitude": 19.8264279916,
+            "latitude": 45.2375437996
+        },
+        {
+            "id": "_13",
+            "label": "NARODNOG FRONTA - BUL. OSLOBOĐENJA",
+            "longitude": 19.8415475397,
+            "latitude": 45.2414328005
+        },
+        {
+            "id": "_22",
+            "label": "BUL. JAŠE TOMIĆA - RUMENAČKA",
+            "longitude": 19.8192032513,
+            "latitude": 45.2630741789
+        },
+        {
+            "id": "_23",
+            "label": "BUL. JAŠE TOMIĆA - PARISKE KOMUNE",
+            "longitude": 19.8246328903,
+            "latitude": 45.2637816804
+        },
+        {
+            "id": "_2",
+            "label": "KISAČKA - BUL. JAŠE TOMIĆA",
+            "longitude": 19.8354809218,
+            "latitude": 45.2656954001
+        },
+        {
+            "id": "_19",
+            "label": "HAJDUK VELJKOVA - DEČIJA BOLNICA",
+            "longitude": 19.8244972937,
+            "latitude": 45.2510679517
+        },
+        {
+            "id": "_20",
+            "label": "HAJDUK VELJKOVA - NOVOSADSKOG SAJMA",
+            "longitude": 19.8244393678,
+            "latitude": 45.2545639152
+        },
+        {
+            "id": "_1",
+            "label": "BUL. JAŠE TOMIĆA - BUL. OSLOBOĐENJA",
+            "longitude": 19.831181344,
+            "latitude": 45.264414954
+        },
+        {
+            "id": "_3",
+            "label": "GUNDULIĆEVA - TEMERINSKA",
+            "longitude": 19.8447802173,
+            "latitude": 45.264400104
+        },
+        {
+            "id": "_4",
+            "label": "KOSOVSKA",
+            "longitude": 19.8502923003,
+            "latitude": 45.2635605256
+        },
+        {
+            "id": "_9",
+            "label": "TRG NEZNANOG JUNAKA - MOST DUGA",
+            "longitude": 19.8549474588,
+            "latitude": 45.2549794279
+        },
+        {
+            "id": "_10",
+            "label": "MAKSIMA GORKOG - VOJVODE MIŠIĆA",
+            "longitude": 19.8520851559,
+            "latitude": 45.2516559504
+        },
+        {
+            "id": "_24",
+            "label": "ŽELEZNIČKA STANICA - DOLASCI",
+            "longitude": 19.830132455,
+            "latitude": 45.2650202834
+        }
+    ]
+}

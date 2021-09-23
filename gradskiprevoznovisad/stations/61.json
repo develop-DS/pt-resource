@@ -1,0 +1,222 @@
+{
+    "direction_a": [
+        {
+            "id": "_6",
+            "label": "BUL. MIHAJLA PUPINA - SONJE MARINKOVIĆ",
+            "longitude": 19.8530960428,
+            "latitude": 45.2542765403
+        },
+        {
+            "id": "_7",
+            "label": "BEOGRADSKA - LISINSKOG",
+            "longitude": 19.8620128358,
+            "latitude": 45.2547734365
+        },
+        {
+            "id": "_9",
+            "label": "PETROVARADIN - ŽELEZNIČKA STANICA",
+            "longitude": 19.8857439999,
+            "latitude": 45.2389365212
+        },
+        {
+            "id": "_8",
+            "label": "PRERADOVIĆEVA - RELJKOVIĆEVA",
+            "longitude": 19.876524398,
+            "latitude": 45.2488033781
+        },
+        {
+            "id": "_5",
+            "label": "ŽARKA ZRENJANINA - IZVRŠNO VEĆE",
+            "longitude": 19.8475593745,
+            "latitude": 45.2528535063
+        },
+        {
+            "id": "_2",
+            "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
+            "longitude": 19.8322222835,
+            "latitude": 45.2601777537
+        },
+        {
+            "id": "_3",
+            "label": "BUL. OSLOBOĐENJA - FUTOŠKA",
+            "longitude": 19.8370753816,
+            "latitude": 45.2514514442
+        },
+        {
+            "id": "_4",
+            "label": "MAKSIMA GORKOG - SPENS",
+            "longitude": 19.8431913572,
+            "latitude": 45.2488624702
+        },
+        {
+            "id": "_1",
+            "label": "MAS - POLAZNI PERON BR. 13",
+            "longitude": 19.8285213548,
+            "latitude": 45.2641307634
+        },
+        {
+            "id": "_10",
+            "label": "TEKIJE - BENZINSKA PUMPA",
+            "longitude": 19.8936378798,
+            "latitude": 45.2312570434
+        },
+        {
+            "id": "_11",
+            "label": "TEKIJE II - VINOGRADI",
+            "longitude": 19.9008106109,
+            "latitude": 45.2225589456
+        },
+        {
+            "id": "_12",
+            "label": "SR.KARLOVCI I - ULAZ",
+            "longitude": 19.9115365236,
+            "latitude": 45.2147383234
+        },
+        {
+            "id": "_13",
+            "label": "SR.KARLOVCI II - PANORAMA",
+            "longitude": 19.9219017516,
+            "latitude": 45.2101464748
+        },
+        {
+            "id": "_14",
+            "label": "SR.KARLOVCI III - ŽEL. STANICA",
+            "longitude": 19.9321083976,
+            "latitude": 45.2065920518
+        },
+        {
+            "id": "_15",
+            "label": "SR.KARLOVCI IV - CENTAR",
+            "longitude": 19.9378333803,
+            "latitude": 45.2034783249
+        },
+        {
+            "id": "_16",
+            "label": "SR.KARLOVCI V - MITR. STRATIMIROVIĆA",
+            "longitude": 19.9381009482,
+            "latitude": 45.2002565769
+        },
+        {
+            "id": "_17",
+            "label": "VINOGRADARSKA - MITR. STRATIMIROVIĆA OKRETNICA",
+            "longitude": 19.9424436102,
+            "latitude": 45.1985106856
+        },
+        {
+            "id": "__",
+            "label": "SR.KARLOVCI - CENTAR OKRETNICA",
+            "longitude": 19.9349213862,
+            "latitude": 45.2041760491
+        }
+    ],
+    "direction_b": [
+        {
+            "id": "_13",
+            "label": "ŽARKA ZRENJANINA - OPŠTINA",
+            "longitude": 19.8471827488,
+            "latitude": 45.2524025428
+        },
+        {
+            "id": "_12",
+            "label": "BUL. MIHAJLA PUPINA - DUNAVSKI PARK",
+            "longitude": 19.8519122087,
+            "latitude": 45.2542020579
+        },
+        {
+            "id": "_9",
+            "label": "PETROVARADIN - ŽELEZNIČKA STANICA",
+            "longitude": 19.8853872807,
+            "latitude": 45.2396101516
+        },
+        {
+            "id": "_10",
+            "label": "PRERADOVIĆEVA - BENZINSKA PUMPA",
+            "longitude": 19.8757045697,
+            "latitude": 45.2496755784
+        },
+        {
+            "id": "_11",
+            "label": "BEOGRADSKA - VLADIMIRA NAZORA",
+            "longitude": 19.8623634945,
+            "latitude": 45.2548163902
+        },
+        {
+            "id": "_15",
+            "label": "BUL. OSLOBOĐENJA - FUTOŠKA PIJACA",
+            "longitude": 19.8368000824,
+            "latitude": 45.2525198464
+        },
+        {
+            "id": "_16",
+            "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
+            "longitude": 19.8318492939,
+            "latitude": 45.2613766166
+        },
+        {
+            "id": "_14",
+            "label": "MAKSIMA GORKOG - SREMSKA",
+            "longitude": 19.8421576964,
+            "latitude": 45.2488034819
+        },
+        {
+            "id": "_17",
+            "label": "MAS - DOLAZNI PERON",
+            "longitude": 19.8292532816,
+            "latitude": 45.2646698037
+        },
+        {
+            "id": "_1",
+            "label": "VINOGRADARSKA - MITR. STRATIMIROVIĆA OKRETNICA",
+            "longitude": 19.9424436102,
+            "latitude": 45.1985106856
+        },
+        {
+            "id": "_2",
+            "label": "SR.KARLOVCI V - MITR. STRATIMIROVIĆA",
+            "longitude": 19.938700816,
+            "latitude": 45.1999650895
+        },
+        {
+            "id": "_3",
+            "label": "SR. KARLOVCI IV - CENTAR",
+            "longitude": 19.9373887604,
+            "latitude": 45.2030489442
+        },
+        {
+            "id": "__",
+            "label": "SR.KARLOVCI - CENTAR OKRETNICA",
+            "longitude": 19.9349213862,
+            "latitude": 45.2041760491
+        },
+        {
+            "id": "_4",
+            "label": "SR. KARLOVCI III - ŽEL. STANICA",
+            "longitude": 19.9323217935,
+            "latitude": 45.2065802878
+        },
+        {
+            "id": "_5",
+            "label": "SR. KARLOVCI II - PANORAMA",
+            "longitude": 19.9215868909,
+            "latitude": 45.2103090191
+        },
+        {
+            "id": "_6",
+            "label": "SR. KARLOVCI I - ULAZ",
+            "longitude": 19.9118377779,
+            "latitude": 45.2145349843
+        },
+        {
+            "id": "_7",
+            "label": "TEKIJE II - VINOGRADI",
+            "longitude": 19.9009328712,
+            "latitude": 45.2225249456
+        },
+        {
+            "id": "_8",
+            "label": "TEKIJE - NAVIP",
+            "longitude": 19.8914101033,
+            "latitude": 45.2332483189
+        }
+    ]
+}

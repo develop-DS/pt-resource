@@ -1,0 +1,330 @@
+{
+    "direction_a": [
+        {
+            "id": "_1",
+            "label": "BUL. J.DUČIĆA - IGRALIŠTE",
+            "longitude": 19.793649,
+            "latitude": 45.249501
+        },
+        {
+            "id": "_2",
+            "label": "BUL. J. DUČIĆA - BATE BRKIĆA",
+            "longitude": 19.7983862612,
+            "latitude": 45.2511237051
+        },
+        {
+            "id": "_3",
+            "label": "BUL. J. DUČIĆA - ROBNA KUĆA",
+            "longitude": 19.8018919417,
+            "latitude": 45.2523770585
+        },
+        {
+            "id": "_7",
+            "label": "KORNELIJA STANKOVIĆA - ILIJE BIRČANINA",
+            "longitude": 19.8135399393,
+            "latitude": 45.2620111469
+        },
+        {
+            "id": "_8",
+            "label": "RUMENAČKA - KORNELIJA STANKOVIĆA",
+            "longitude": 19.8174016008,
+            "latitude": 45.2636389127
+        },
+        {
+            "id": "_17",
+            "label": "NARODNOG FRONTA - ŠEKSPIROVA",
+            "longitude": 19.8370412179,
+            "latitude": 45.2400602044
+        },
+        {
+            "id": "_18",
+            "label": "NARODNOG FRONTA - BALZAKOVA",
+            "longitude": 19.8316359129,
+            "latitude": 45.23861537
+        },
+        {
+            "id": "_10",
+            "label": "BUL. OSLOBOĐENJA - BUL. JAŠE TOMIĆA",
+            "longitude": 19.8304838937,
+            "latitude": 45.263325649
+        },
+        {
+            "id": "_11",
+            "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
+            "longitude": 19.8322222835,
+            "latitude": 45.2601777537
+        },
+        {
+            "id": "_12",
+            "label": "BUL. OSLOBOÐENJA - NOVOSADSKOG SAJMA",
+            "longitude": 19.8353175469,
+            "latitude": 45.2545506888
+        },
+        {
+            "id": "_13",
+            "label": "BUL. OSLOBOĐENJA - FUTOŠKA",
+            "longitude": 19.8370753816,
+            "latitude": 45.2514514442
+        },
+        {
+            "id": "_14",
+            "label": "BUL. OSLOBOĐENJA - BRAĆE RIBNIKAR",
+            "longitude": 19.8392619075,
+            "latitude": 45.2475207776
+        },
+        {
+            "id": "_15",
+            "label": "BUL. OSLOBOĐENJA - BUL. CARA LAZARA",
+            "longitude": 19.8414842753,
+            "latitude": 45.2434304122
+        },
+        {
+            "id": "_19",
+            "label": "IVE ANDRIĆA - NARODNOG FRONTA",
+            "longitude": 19.8264279916,
+            "latitude": 45.2375437996
+        },
+        {
+            "id": "_26",
+            "label": "BUL. KNEZA MILOŠA - FUTOŠKI PUT",
+            "longitude": 19.7946648286,
+            "latitude": 45.245098379
+        },
+        {
+            "id": "_27",
+            "label": "BUL. KNEZA MILOŠA - GARAŽA GSP - A",
+            "longitude": 19.7933548666,
+            "latitude": 45.2472193464
+        },
+        {
+            "id": "_4",
+            "label": "BUL. SLOB. JOVANOVIĆA - T. JOVANOVIĆA",
+            "longitude": 19.8026436487,
+            "latitude": 45.2556482515
+        },
+        {
+            "id": "_5",
+            "label": "BUL. VOJVODE STEPE",
+            "longitude": 19.8022341912,
+            "latitude": 45.2579092564
+        },
+        {
+            "id": "_6",
+            "label": "KORNELIJA STANKOVIĆA - BULEVAR EVROPE",
+            "longitude": 19.8096845247,
+            "latitude": 45.2604662935
+        },
+        {
+            "id": "_16",
+            "label": "NARODNOG FRONTA - BUL. OSLOBOĐENJA",
+            "longitude": 19.8415475397,
+            "latitude": 45.2414328005
+        },
+        {
+            "id": "_9",
+            "label": "BUL. JAŠE TOMIĆA - PARISKE KOMUNE",
+            "longitude": 19.8246328903,
+            "latitude": 45.2637816804
+        },
+        {
+            "id": "_22",
+            "label": "BUL. PATRIJAHA PAVLA - VRŠAČKA",
+            "longitude": 19.8107038207,
+            "latitude": 45.2408800594
+        },
+        {
+            "id": "_23",
+            "label": "BUL. PATRIJAHA PAVLA - ILIRSKA",
+            "longitude": 19.8064595317,
+            "latitude": 45.2413029105
+        },
+        {
+            "id": "_24",
+            "label": "BUL. PATRIJAHA PAVLA - ILARIONA RUVARCA",
+            "longitude": 19.8023266636,
+            "latitude": 45.2417062369
+        },
+        {
+            "id": "_25",
+            "label": "BUL. PATRIJAHA PAVLA - DRVARSKA",
+            "longitude": 19.7984549409,
+            "latitude": 45.2420787039
+        },
+        {
+            "id": "_20",
+            "label": "BUL. PATRIJAHA PAVLA - BULEVAR EVROPE",
+            "longitude": 19.821792,
+            "latitude": 45.23977
+        },
+        {
+            "id": "_21",
+            "label": "BUL. PATRIJAHA PAVLA - SUBOTIČKA",
+            "longitude": 19.815733,
+            "latitude": 45.240393
+        }
+    ],
+    "direction_b": [
+        {
+            "id": "_25",
+            "label": "BUL. J. DUČIĆA - BUL. S. JOVANOVIĆA",
+            "longitude": 19.8031021067,
+            "latitude": 45.2529483166
+        },
+        {
+            "id": "_26",
+            "label": "BUL. J. DUČIĆA - BRAĆE DRONJAK",
+            "longitude": 19.7983752275,
+            "latitude": 45.2513539058
+        },
+        {
+            "id": "_27",
+            "label": "BUL. JOVANA DUČIĆA - IGRALIŠTE",
+            "longitude": 19.7947978105,
+            "latitude": 45.2500788277
+        },
+        {
+            "id": "_9",
+            "label": "NARODNOG FRONTA - IVE ANDRIĆA",
+            "longitude": 19.8276347235,
+            "latitude": 45.2373436138
+        },
+        {
+            "id": "_20",
+            "label": "RUMENAČKA - BUL. JAŠE TOMIĆA",
+            "longitude": 19.8182127414,
+            "latitude": 45.2633439588
+        },
+        {
+            "id": "_21",
+            "label": "KORNELIJA STANKOVIĆA - FILIPA FILIPOVIĆA",
+            "longitude": 19.8156966528,
+            "latitude": 45.2634661042
+        },
+        {
+            "id": "_10",
+            "label": "NARODNOG FRONTA - BALZAKOVA",
+            "longitude": 19.833210388,
+            "latitude": 45.2388659784
+        },
+        {
+            "id": "_11",
+            "label": "NARODNOG FRONTA - ŠEKSPIROVA",
+            "longitude": 19.8384767147,
+            "latitude": 45.2403689153
+        },
+        {
+            "id": "_22",
+            "label": "KORNELIJA STANKOVIĆA - MILENKA GRČIĆA",
+            "longitude": 19.8122424682,
+            "latitude": 45.2616253594
+        },
+        {
+            "id": "_24",
+            "label": "BUL. SLOB. JOVANOVIĆA - BUL. VOJVO. STEPE",
+            "longitude": 19.8015188427,
+            "latitude": 45.2569890699
+        },
+        {
+            "id": "_1",
+            "label": "BUL. KNEZA MILOŠA - GARAŽA GSP - A",
+            "longitude": 19.793176626,
+            "latitude": 45.2470681807
+        },
+        {
+            "id": "_8",
+            "label": "IVE ANDRIĆA - BULEVAR EVROPE",
+            "longitude": 19.8253580867,
+            "latitude": 45.2394232209
+        },
+        {
+            "id": "_12",
+            "label": "BUL. OSLOBOĐENJA - NARODNOG FRONTA",
+            "longitude": 19.8425582061,
+            "latitude": 45.2421433047
+        },
+        {
+            "id": "_13",
+            "label": "BUL. OSLOBOĐENJA - BUL. CARA LAZARA",
+            "longitude": 19.8412524923,
+            "latitude": 45.2444754031
+        },
+        {
+            "id": "_14",
+            "label": "BUL. OSLOBOĐENJA - MAKSIMA GORKOG",
+            "longitude": 19.8390130044,
+            "latitude": 45.2485327883
+        },
+        {
+            "id": "_15",
+            "label": "BUL. OSLOBOĐENJA - FUTOŠKA PIJACA",
+            "longitude": 19.8368000824,
+            "latitude": 45.2525198464
+        },
+        {
+            "id": "_16",
+            "label": "BUL. OSLOBOĐENJA - POKRAJINSKI SUP",
+            "longitude": 19.8351029309,
+            "latitude": 45.255629856
+        },
+        {
+            "id": "_17",
+            "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
+            "longitude": 19.8318492939,
+            "latitude": 45.2613766166
+        },
+        {
+            "id": "_18",
+            "label": "BUL. JAŠE TOMIĆA - ŽELEZNIČKA STANICA",
+            "longitude": 19.8291811843,
+            "latitude": 45.2640665923
+        },
+        {
+            "id": "_19",
+            "label": "BUL. JAŠE TOMIĆA - ŽELEZNIČKI PARK",
+            "longitude": 19.8231059398,
+            "latitude": 45.2640771252
+        },
+        {
+            "id": "_2",
+            "label": "BUL. PATRIJAHA PAVLA - FUTOŠKI PUT",
+            "longitude": 19.795029964,
+            "latitude": 45.2440339225
+        },
+        {
+            "id": "_3",
+            "label": "BUL. PATRIJAHA PAVLA - DRVARSKA",
+            "longitude": 19.7996161438,
+            "latitude": 45.2417500565
+        },
+        {
+            "id": "_4",
+            "label": "BUL. PATRIJAHA PAVLA - PRVOMAJSKA",
+            "longitude": 19.8036125161,
+            "latitude": 45.2413580417
+        },
+        {
+            "id": "_5",
+            "label": "BUL. PATRIJAHA PAVLA - S.KORNELIJA",
+            "longitude": 19.8076663846,
+            "latitude": 45.2409610249
+        },
+        {
+            "id": "_23",
+            "label": "BUL. VOJVO. STEPE - BULEVAR EVROPE",
+            "longitude": 19.807755,
+            "latitude": 45.260028
+        },
+        {
+            "id": "_6",
+            "label": "BUL. PATRIJAHA PAVLA - FEJEŠ KLARE",
+            "longitude": 19.81195,
+            "latitude": 45.240548
+        },
+        {
+            "id": "_7",
+            "label": "BUL. PATRIJAHA PAVLA - JOŽEF ATILE",
+            "longitude": 19.816809,
+            "latitude": 45.240038
+        }
+    ]
+}

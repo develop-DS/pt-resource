@@ -1,0 +1,756 @@
+{
+    "direction_a": [
+        {
+            "id": "__",
+            "label": "BUL. OSLOBOĐENJA - FUTOŠKA",
+            "longitude": 19.8370753816,
+            "latitude": 45.2514514442
+        },
+        {
+            "id": "__",
+            "label": "SR. KAMENICA - UNIVERZITET",
+            "longitude": 19.8520544672,
+            "latitude": 45.227563923
+        },
+        {
+            "id": "__",
+            "label": "SR. KAMENICA - PETRA KOČIĆA",
+            "longitude": 19.8481049154,
+            "latitude": 45.2257504705
+        },
+        {
+            "id": "__",
+            "label": "BUL. OSLOBOĐENJA - MOST SLOBODE",
+            "longitude": 19.8428482132,
+            "latitude": 45.241081551
+        },
+        {
+            "id": "__",
+            "label": "SR. KAMENICA - CENTAR",
+            "longitude": 19.8425048162,
+            "latitude": 45.2234788568
+        },
+        {
+            "id": "__",
+            "label": "SR. KAMENICA - LEDINAČKI PUT - ŠIMŠIROVA",
+            "longitude": 19.8282294427,
+            "latitude": 45.2203782107
+        },
+        {
+            "id": "__",
+            "label": "SR. KAMENICA - LEDINAČKI PUT - BOCKE",
+            "longitude": 19.8220383026,
+            "latitude": 45.2187669648
+        },
+        {
+            "id": "_1",
+            "label": "MAS - POLAZNI PERON BR. 14",
+            "longitude": 19.8285457138,
+            "latitude": 45.2640888897
+        },
+        {
+            "id": "__",
+            "label": "LEDINCI - TRAFOSTANICA",
+            "longitude": 19.8145230578,
+            "latitude": 45.2175956398
+        },
+        {
+            "id": "__",
+            "label": "LEDINCI - RASKRS. ZA LEDINCE",
+            "longitude": 19.8056262273,
+            "latitude": 45.2152729956
+        },
+        {
+            "id": "__",
+            "label": "LEDINCI - STAMBENE ZGRADE",
+            "longitude": 19.7989506277,
+            "latitude": 45.2132356106
+        },
+        {
+            "id": "__",
+            "label": "RAKOVAC I - SMRDANOV POTOK",
+            "longitude": 19.7903427896,
+            "latitude": 45.2109741424
+        },
+        {
+            "id": "__",
+            "label": "RAKOVAC III - RASKRSNICA",
+            "longitude": 19.7678998859,
+            "latitude": 45.2100373526
+        },
+        {
+            "id": "__",
+            "label": "RAKOVAC IV - INVENT",
+            "longitude": 19.7609603017,
+            "latitude": 45.2087740765
+        },
+        {
+            "id": "__",
+            "label": "BEOČIN I - STRUČICE",
+            "longitude": 19.7525116516,
+            "latitude": 45.2090624426
+        },
+        {
+            "id": "__",
+            "label": "BEOČIN II - DUMBOVO",
+            "longitude": 19.7460844034,
+            "latitude": 45.2089122644
+        },
+        {
+            "id": "__",
+            "label": "BEOČIN III",
+            "longitude": 19.7368160899,
+            "latitude": 45.2087475205
+        },
+        {
+            "id": "__",
+            "label": "BEOČIN IV - BENZINSKA PUMPA",
+            "longitude": 19.7318426987,
+            "latitude": 45.2088359127
+        },
+        {
+            "id": "__",
+            "label": "BEOČIN V - AUTOB. STANICA",
+            "longitude": 19.7212206796,
+            "latitude": 45.2070075987
+        },
+        {
+            "id": "__",
+            "label": "BEOČIN VI-B.F.C.",
+            "longitude": 19.7134288951,
+            "latitude": 45.2065943523
+        },
+        {
+            "id": "__",
+            "label": "BEOČIN VII-RASKR. IZLAZ",
+            "longitude": 19.7143314265,
+            "latitude": 45.2171501367
+        },
+        {
+            "id": "__",
+            "label": "BEOČIN VIII-MOST",
+            "longitude": 19.7048482117,
+            "latitude": 45.2165875214
+        },
+        {
+            "id": "__",
+            "label": "BEOČIN IX-RASKRS.ZA ČOT",
+            "longitude": 19.6996139106,
+            "latitude": 45.2073195203
+        },
+        {
+            "id": "__",
+            "label": "ČEREVIĆ I-BRAZILIJA ULAZ",
+            "longitude": 19.6904640239,
+            "latitude": 45.2100968462
+        },
+        {
+            "id": "__",
+            "label": "ČEREVIĆ II-BRAZILIJA IZLAZ",
+            "longitude": 19.6842878937,
+            "latitude": 45.2126839633
+        },
+        {
+            "id": "__",
+            "label": "ČEREVIĆ III - ULAZ",
+            "longitude": 19.6786688423,
+            "latitude": 45.2150452636
+        },
+        {
+            "id": "__",
+            "label": "ČEREVIĆ IV-PODUNAVLJE",
+            "longitude": 19.6727156902,
+            "latitude": 45.2169428289
+        },
+        {
+            "id": "__",
+            "label": "ČEREVIĆ V-SPOMENIK",
+            "longitude": 19.6637500772,
+            "latitude": 45.2200803236
+        },
+        {
+            "id": "__",
+            "label": "ČEREVIĆ VI - IZLAZ",
+            "longitude": 19.6560341561,
+            "latitude": 45.2200185605
+        },
+        {
+            "id": "__",
+            "label": "BANOŠTOR I",
+            "longitude": 19.636057705,
+            "latitude": 45.2173144979
+        },
+        {
+            "id": "__",
+            "label": "BANOŠTOR II",
+            "longitude": 19.6241467015,
+            "latitude": 45.2156712808
+        },
+        {
+            "id": "__",
+            "label": "BANOŠTOR III-PILANA",
+            "longitude": 19.6150236383,
+            "latitude": 45.2147104082
+        },
+        {
+            "id": "__",
+            "label": "BANOŠTOR V - BUNAR ĆUPRIJA",
+            "longitude": 19.6072266573,
+            "latitude": 45.212272652
+        },
+        {
+            "id": "__",
+            "label": "BANOŠTOR VI",
+            "longitude": 19.5990000145,
+            "latitude": 45.2081168025
+        },
+        {
+            "id": "__",
+            "label": "KRUŠEVLJE",
+            "longitude": 19.5875322322,
+            "latitude": 45.206414915
+        },
+        {
+            "id": "__",
+            "label": "KORUŠKA I - PILANA",
+            "longitude": 19.5803983317,
+            "latitude": 45.2056806946
+        },
+        {
+            "id": "__",
+            "label": "KORUŠKA II-RAS.ZA SVILOŠ",
+            "longitude": 19.5747783332,
+            "latitude": 45.2067164231
+        },
+        {
+            "id": "__",
+            "label": "DUGA MEĐA (posle raskrsnice)",
+            "longitude": 19.5745735114,
+            "latitude": 45.2024777439
+        },
+        {
+            "id": "__",
+            "label": "KORUŠKA IV - MOSTIĆ",
+            "longitude": 19.5736436053,
+            "latitude": 45.1888393038
+        },
+        {
+            "id": "__",
+            "label": "SVILOŠ I-ULAZ",
+            "longitude": 19.5831870253,
+            "latitude": 45.1786292818
+        },
+        {
+            "id": "__",
+            "label": "SVILOŠ II-CENTAR",
+            "longitude": 19.5859391979,
+            "latitude": 45.1755545028
+        },
+        {
+            "id": "__",
+            "label": "SVILOŠ IV - OKRETNICA",
+            "longitude": 19.5878754354,
+            "latitude": 45.1703139428
+        },
+        {
+            "id": "__",
+            "label": "SVILOŠ III-BUNAR",
+            "longitude": 19.5878658776,
+            "latitude": 45.1727904079
+        },
+        {
+            "id": "__",
+            "label": "SVILOŠ III-BUNAR",
+            "longitude": 19.5879255866,
+            "latitude": 45.1729277328
+        },
+        {
+            "id": "__",
+            "label": "GRABOVO-OKRETNICA",
+            "longitude": 19.6123591185,
+            "latitude": 45.1739587324
+        },
+        {
+            "id": "__",
+            "label": "SVILOŠ II-CENTAR",
+            "longitude": 19.5859258833,
+            "latitude": 45.1756107795
+        },
+        {
+            "id": "__",
+            "label": "SVILOŠ I - ULAZ",
+            "longitude": 19.583244,
+            "latitude": 45.178802
+        },
+        {
+            "id": "__",
+            "label": "KORUŠKA III-ČARDA 1",
+            "longitude": 19.5701890733,
+            "latitude": 45.2103949114
+        },
+        {
+            "id": "__",
+            "label": "SUSEK II - ?????????????????????",
+            "longitude": 19.5554666275,
+            "latitude": 45.2156870168
+        },
+        {
+            "id": "__",
+            "label": "SUSEK II - NIKOLE TESLE 183\r\n",
+            "longitude": 19.5471713862,
+            "latitude": 45.2197728153
+        },
+        {
+            "id": "__",
+            "label": "SUSEK III - NIKOLE TESLE 127",
+            "longitude": 19.5394938183,
+            "latitude": 45.2223259361
+        },
+        {
+            "id": "__",
+            "label": "SUSEK IV - CENTAR",
+            "longitude": 19.5352461219,
+            "latitude": 45.2243957829
+        },
+        {
+            "id": "__",
+            "label": "SUSEK IV-MLIN",
+            "longitude": 19.5303932361,
+            "latitude": 45.2180808146
+        },
+        {
+            "id": "__",
+            "label": "LUG I-ČESMA",
+            "longitude": 19.5434608496,
+            "latitude": 45.1860421514
+        },
+        {
+            "id": "__",
+            "label": "LUG II",
+            "longitude": 19.5443139863,
+            "latitude": 45.1837697323
+        },
+        {
+            "id": "__",
+            "label": "LUG III-CENTAR",
+            "longitude": 19.5454098161,
+            "latitude": 45.181009891
+        },
+        {
+            "id": "__",
+            "label": "KORUŠKA II - RAS.ZA SVILOŠ",
+            "longitude": 19.5750335992,
+            "latitude": 45.2072933087
+        },
+        {
+            "id": "__",
+            "label": "BANOŠTOR IV - CENTAR",
+            "longitude": 19.610357,
+            "latitude": 45.213523
+        },
+        {
+            "id": "__",
+            "label": "KORUŠKA III",
+            "longitude": 19.573741,
+            "latitude": 45.189179
+        },
+        {
+            "id": "__",
+            "label": "DUGA MEĐA (pre raskrsnice)",
+            "longitude": 19.574815,
+            "latitude": 45.202231
+        },
+        {
+            "id": "__",
+            "label": "KORUŠKA IV - ČARDA 2",
+            "longitude": 19.566192,
+            "latitude": 45.211542
+        },
+        {
+            "id": "__",
+            "label": "SUSEK I - NIKOLE TESLE 168 - ULAZ",
+            "longitude": 19.559511,
+            "latitude": 45.213891
+        }
+    ],
+    "direction_b": [
+        {
+            "id": "__",
+            "label": "BUL. OSLOBOĐENJA - NARODNOG FRONTA",
+            "longitude": 19.8425582061,
+            "latitude": 45.2421433047
+        },
+        {
+            "id": "__",
+            "label": "BUL. OSLOBOĐENJA - FUTOŠKA PIJACA",
+            "longitude": 19.8368000824,
+            "latitude": 45.2525198464
+        },
+        {
+            "id": "__",
+            "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
+            "longitude": 19.8318492939,
+            "latitude": 45.2613766166
+        },
+        {
+            "id": "__",
+            "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
+            "longitude": 19.8322222835,
+            "latitude": 45.2601777537
+        },
+        {
+            "id": "__",
+            "label": "SR. KAMENICA - PETRA KOČIĆA",
+            "longitude": 19.8481745994,
+            "latitude": 45.2257062238
+        },
+        {
+            "id": "__",
+            "label": "SR. KAMENICA - UNIVERZITET",
+            "longitude": 19.8534869134,
+            "latitude": 45.2277113259
+        },
+        {
+            "id": "__",
+            "label": "SR. KAMENICA - LEDINAČKI PUT - BOCKE",
+            "longitude": 19.820909925,
+            "latitude": 45.2183331
+        },
+        {
+            "id": "__",
+            "label": "SR. KAMENICA - LEDINAČKI PUT - ŠIMŠIROVA",
+            "longitude": 19.8277369153,
+            "latitude": 45.2202518686
+        },
+        {
+            "id": "__",
+            "label": "SR. KAMENICA - CENTAR",
+            "longitude": 19.8429845913,
+            "latitude": 45.2231734727
+        },
+        {
+            "id": "__",
+            "label": "MAS - DOLAZNI PERON",
+            "longitude": 19.8292532816,
+            "latitude": 45.2646698037
+        },
+        {
+            "id": "__",
+            "label": "LEDINCI - TRAFOSTANICA",
+            "longitude": 19.8159702911,
+            "latitude": 45.2177684323
+        },
+        {
+            "id": "__",
+            "label": "RAKOVAC IV",
+            "longitude": 19.7683725375,
+            "latitude": 45.2082255865
+        },
+        {
+            "id": "__",
+            "label": "KORUŠKA II-RAS.ZA SVILOŠ",
+            "longitude": 19.5747783332,
+            "latitude": 45.2067164231
+        },
+        {
+            "id": "__",
+            "label": "DUGA MEĐA (posle raskrsnice)",
+            "longitude": 19.5745735114,
+            "latitude": 45.2024777439
+        },
+        {
+            "id": "__",
+            "label": "KORUŠKA IV - MOSTIĆ",
+            "longitude": 19.5736436053,
+            "latitude": 45.1888393038
+        },
+        {
+            "id": "__",
+            "label": "SVILOŠ I-ULAZ",
+            "longitude": 19.5831870253,
+            "latitude": 45.1786292818
+        },
+        {
+            "id": "__",
+            "label": "SVILOŠ II-CENTAR",
+            "longitude": 19.5859391979,
+            "latitude": 45.1755545028
+        },
+        {
+            "id": "__",
+            "label": "SVILOŠ IV - OKRETNICA",
+            "longitude": 19.5878754354,
+            "latitude": 45.1703139428
+        },
+        {
+            "id": "__",
+            "label": "SVILOŠ III-BUNAR",
+            "longitude": 19.5878658776,
+            "latitude": 45.1727904079
+        },
+        {
+            "id": "__",
+            "label": "SVILOŠ III-BUNAR",
+            "longitude": 19.5879255866,
+            "latitude": 45.1729277328
+        },
+        {
+            "id": "__",
+            "label": "GRABOVO-OKRETNICA",
+            "longitude": 19.6123591185,
+            "latitude": 45.1739587324
+        },
+        {
+            "id": "__",
+            "label": "SVILOŠ II-CENTAR",
+            "longitude": 19.5859258833,
+            "latitude": 45.1756107795
+        },
+        {
+            "id": "__",
+            "label": "KORUŠKA IV - ČARDA 2",
+            "longitude": 19.565462,
+            "latitude": 45.21172
+        },
+        {
+            "id": "__",
+            "label": "SVILOŠ I - ULAZ",
+            "longitude": 19.583244,
+            "latitude": 45.178802
+        },
+        {
+            "id": "_1",
+            "label": "LUG III-CENTAR",
+            "longitude": 19.5454098161,
+            "latitude": 45.181009891
+        },
+        {
+            "id": "__",
+            "label": "LUG II",
+            "longitude": 19.5444061789,
+            "latitude": 45.1836354012
+        },
+        {
+            "id": "__",
+            "label": "LUG I-CESMA",
+            "longitude": 19.543405425,
+            "latitude": 45.1862903108
+        },
+        {
+            "id": "__",
+            "label": "SUSEK V-MLIN",
+            "longitude": 19.5305899061,
+            "latitude": 45.2183569666
+        },
+        {
+            "id": "__",
+            "label": "SUSEK IV-CENTAR",
+            "longitude": 19.5353339546,
+            "latitude": 45.2243449498
+        },
+        {
+            "id": "__",
+            "label": "SUSEK III - NIKOLE TESLE 100",
+            "longitude": 19.5391613146,
+            "latitude": 45.2224624257
+        },
+        {
+            "id": "__",
+            "label": "SUSEK II - NIKOLE TESLE 156",
+            "longitude": 19.5476143384,
+            "latitude": 45.2195968071
+        },
+        {
+            "id": "__",
+            "label": "SUSEK I - NIKOLE TESLE 168 - ULAZ",
+            "longitude": 19.5561490328,
+            "latitude": 45.2153697697
+        },
+        {
+            "id": "__",
+            "label": "KORUŠKA III - ČARDA 1\r\n",
+            "longitude": 19.5704259646,
+            "latitude": 45.2102858138
+        },
+        {
+            "id": "__",
+            "label": "KORUŠKA II-RAS.ZA SVILOŠ",
+            "longitude": 19.575497558,
+            "latitude": 45.2070818093
+        },
+        {
+            "id": "__",
+            "label": "KORUŠKA I - PILANA\r\n",
+            "longitude": 19.5806639534,
+            "latitude": 45.2055644097
+        },
+        {
+            "id": "__",
+            "label": "KRUŠEVLJE\r\n",
+            "longitude": 19.5870467645,
+            "latitude": 45.2063202965
+        },
+        {
+            "id": "__",
+            "label": "BANOŠTOR VI - IZLAZ\r\n",
+            "longitude": 19.5989070558,
+            "latitude": 45.2080365253
+        },
+        {
+            "id": "__",
+            "label": "BANOŠTOR IV-CENTAR",
+            "longitude": 19.6115003606,
+            "latitude": 45.2137600172
+        },
+        {
+            "id": "__",
+            "label": "BANOŠTOR III-PILANA",
+            "longitude": 19.615889323,
+            "latitude": 45.2149690857
+        },
+        {
+            "id": "__",
+            "label": "BANOŠTOR II-ULAZ",
+            "longitude": 19.6242848823,
+            "latitude": 45.2156575304
+        },
+        {
+            "id": "__",
+            "label": "BANOŠTOR I",
+            "longitude": 19.6361320965,
+            "latitude": 45.2172235885
+        },
+        {
+            "id": "__",
+            "label": "ČEREVIĆ VI-IZLAZ",
+            "longitude": 19.6563517229,
+            "latitude": 45.2200252943
+        },
+        {
+            "id": "__",
+            "label": "ČEREVIĆ V-SPOMENIK",
+            "longitude": 19.6640988752,
+            "latitude": 45.2200296012
+        },
+        {
+            "id": "__",
+            "label": "ČEREVIĆ IV-PODUNAVLJE",
+            "longitude": 19.672885701,
+            "latitude": 45.216828035
+        },
+        {
+            "id": "__",
+            "label": "ČEREVIĆ III-ULAZ",
+            "longitude": 19.6789034228,
+            "latitude": 45.2149327195
+        },
+        {
+            "id": "__",
+            "label": "ČEREVIĆ II-BRAZILIJA IZLAZ",
+            "longitude": 19.6842712164,
+            "latitude": 45.212618241
+        },
+        {
+            "id": "__",
+            "label": "ČEREVIĆ I-BRAZILIJA ULAZ",
+            "longitude": 19.6908680819,
+            "latitude": 45.2098328613
+        },
+        {
+            "id": "__",
+            "label": "BEOČIN IX-RASKRS.ZA ČOT",
+            "longitude": 19.6995729163,
+            "latitude": 45.2068560226
+        },
+        {
+            "id": "__",
+            "label": "BEOČIN VIII-MOST",
+            "longitude": 19.7066778439,
+            "latitude": 45.2169035123
+        },
+        {
+            "id": "__",
+            "label": "BEOČIN VII-RASKRSNICA",
+            "longitude": 19.7142668765,
+            "latitude": 45.2170816571
+        },
+        {
+            "id": "__",
+            "label": "BEOČIN VI-B.F.C.",
+            "longitude": 19.7131209013,
+            "latitude": 45.2070066594
+        },
+        {
+            "id": "__",
+            "label": "BEOČIN V - AUTOB. STANICA",
+            "longitude": 19.7213415258,
+            "latitude": 45.2069593138
+        },
+        {
+            "id": "__",
+            "label": "BEOČIN IV - BENZINSKA PUMPA",
+            "longitude": 19.7333455452,
+            "latitude": 45.2086442222
+        },
+        {
+            "id": "__",
+            "label": "BEOČIN III",
+            "longitude": 19.7382794595,
+            "latitude": 45.2087921621
+        },
+        {
+            "id": "__",
+            "label": "BEOČIN II - DUMBOVO",
+            "longitude": 19.7472901298,
+            "latitude": 45.2088856953
+        },
+        {
+            "id": "__",
+            "label": "BEOČIN I - STRUČICE",
+            "longitude": 19.753704936,
+            "latitude": 45.208967296
+        },
+        {
+            "id": "__",
+            "label": "RAKOVAC IV - INVENT",
+            "longitude": 19.7627739309,
+            "latitude": 45.2086543291
+        },
+        {
+            "id": "__",
+            "label": "RAKOVAC II - ODM. NOVOMONTA",
+            "longitude": 19.779770709,
+            "latitude": 45.2096273813
+        },
+        {
+            "id": "__",
+            "label": "RAKOVAC I - SMRDANOV POTOK",
+            "longitude": 19.7913883196,
+            "latitude": 45.2112595179
+        },
+        {
+            "id": "__",
+            "label": "LEDINCI - DUNAVSKA - STAMBENE ZGRADE",
+            "longitude": 19.7999135468,
+            "latitude": 45.2133129739
+        },
+        {
+            "id": "__",
+            "label": "LEDINCI - RASKRS. ZA LEDINCE",
+            "longitude": 19.8061859913,
+            "latitude": 45.2153457017
+        },
+        {
+            "id": "__",
+            "label": "KORUŠKA III",
+            "longitude": 19.573741,
+            "latitude": 45.189179
+        },
+        {
+            "id": "__",
+            "label": "DUGA MEĐA (pre raskrsnice)",
+            "longitude": 19.574815,
+            "latitude": 45.202231
+        }
+    ]
+}

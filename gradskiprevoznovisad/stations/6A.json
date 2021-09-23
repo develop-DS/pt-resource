@@ -1,0 +1,78 @@
+{
+    "direction_a": [
+        {
+            "id": "_6",
+            "label": "VETERNIČKA - FEŠTER OSNOVNA ŠKOLA",
+            "longitude": 19.7680254,
+            "latitude": 45.2426337
+        },
+        {
+            "id": "_1",
+            "label": "SMEDEREVSKA - BANJALUČKA",
+            "longitude": 19.7847028632,
+            "latitude": 45.2344242907
+        },
+        {
+            "id": "_2",
+            "label": "SIME ŠOLAJE - ŽIKICE JOVANOVIĆA",
+            "longitude": 19.787184434,
+            "latitude": 45.2332075399
+        },
+        {
+            "id": "_3",
+            "label": "VETERNIČKA - KRAGUJEVAČKA",
+            "longitude": 19.7794237447,
+            "latitude": 45.2332893269
+        },
+        {
+            "id": "_4",
+            "label": "VETERNIČKA - MARIJE BURSAĆ",
+            "longitude": 19.7750049886,
+            "latitude": 45.2386233532
+        },
+        {
+            "id": "_5",
+            "label": "DUNAVSKA - PAUNOVA",
+            "longitude": 19.76871362,
+            "latitude": 45.2425409433
+        }
+    ],
+    "direction_b": [
+        {
+            "id": "_1",
+            "label": "VETERNIČKA - FEŠTER OSNOVNA ŠKOLA",
+            "longitude": 19.7680254,
+            "latitude": 45.2426337
+        },
+        {
+            "id": "_5",
+            "label": "BANJALUČKA - BRANKA ĆOPIĆA",
+            "longitude": 19.7845240714,
+            "latitude": 45.2330981747
+        },
+        {
+            "id": "_6",
+            "label": "SMEDEREVSKA - BANJALUČKA",
+            "longitude": 19.7847028632,
+            "latitude": 45.2344242907
+        },
+        {
+            "id": "_2",
+            "label": "DUNAVSKA - PAUNOVA",
+            "longitude": 19.7685548371,
+            "latitude": 45.2425428937
+        },
+        {
+            "id": "_3",
+            "label": "VETERNIČKA - MARIJE BURSAĆ",
+            "longitude": 19.7753639279,
+            "latitude": 45.2380520756
+        },
+        {
+            "id": "_4",
+            "label": "VETERNIČKA - KRAGUJEVAČKA",
+            "longitude": 19.7797236528,
+            "latitude": 45.2328708892
+        }
+    ]
+}

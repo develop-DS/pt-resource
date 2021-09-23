@@ -1,0 +1,354 @@
+{
+    "direction_a": [
+        {
+            "id": "_3",
+            "label": "FUTOŠKA - BUL. OSLOBOĐENJA",
+            "longitude": 19.8364491963,
+            "latitude": 45.2518040573
+        },
+        {
+            "id": "_4",
+            "label": "FUTOŠKA - JODNA BANJA",
+            "longitude": 19.8289089911,
+            "latitude": 45.2492337673
+        },
+        {
+            "id": "_5",
+            "label": "FUTOŠKA - BOLNICA",
+            "longitude": 19.8235646906,
+            "latitude": 45.2494540403
+        },
+        {
+            "id": "_6",
+            "label": "FUTOŠKA - BULEVAR EVROPE",
+            "longitude": 19.815564749,
+            "latitude": 45.2485623853
+        },
+        {
+            "id": "_7",
+            "label": "FUTOŠKA - JUGOALAT",
+            "longitude": 19.810052585,
+            "latitude": 45.2478325873
+        },
+        {
+            "id": "_2",
+            "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
+            "longitude": 19.8322222835,
+            "latitude": 45.2601777537
+        },
+        {
+            "id": "_8",
+            "label": "FUTOŠKI PUT - GRAFIKA",
+            "longitude": 19.8055379367,
+            "latitude": 45.2475026928
+        },
+        {
+            "id": "_9",
+            "label": "FUTOŠKI PUT - SATELITSKA PIJACA",
+            "longitude": 19.7998632846,
+            "latitude": 45.2461119679
+        },
+        {
+            "id": "_1",
+            "label": "ŽELEZNIČKA STANICA TERMINAL",
+            "longitude": 19.8304717489,
+            "latitude": 45.2648776355
+        },
+        {
+            "id": "_10",
+            "label": "FUTOŠKI PUT - GARAŽA GSP",
+            "longitude": 19.792952863,
+            "latitude": 45.2440016201
+        },
+        {
+            "id": "_11",
+            "label": "FUTOŠKI PUT - BENZINSKA PUMPA",
+            "longitude": 19.7871434415,
+            "latitude": 45.243434196
+        },
+        {
+            "id": "_12",
+            "label": "NOVOSADSKI PUT - ZORANA RADMILOVIĆA",
+            "longitude": 19.7819769289,
+            "latitude": 45.2437879717
+        },
+        {
+            "id": "_13",
+            "label": "SPORTSKI CENTAR",
+            "longitude": 19.7746201566,
+            "latitude": 45.2453178784
+        },
+        {
+            "id": "_14",
+            "label": "VETERNIK - FEŠTER",
+            "longitude": 19.7673159236,
+            "latitude": 45.2470495425
+        },
+        {
+            "id": "_15",
+            "label": "VETERNIK - NOVOS. PUT - SONJE MARINKOVIĆ",
+            "longitude": 19.7628098913,
+            "latitude": 45.248109015
+        },
+        {
+            "id": "_16",
+            "label": "VETERNIK - MESNA ZAJEDNICA",
+            "longitude": 19.7556811934,
+            "latitude": 45.2497997749
+        },
+        {
+            "id": "_17",
+            "label": "VETERNIK - IVE LOLE RIBARA I",
+            "longitude": 19.747660267,
+            "latitude": 45.248640168
+        },
+        {
+            "id": "_18",
+            "label": "VETERNIK - IVE LOLE RIBARA 68",
+            "longitude": 19.7434923771,
+            "latitude": 45.247820743
+        },
+        {
+            "id": "_19",
+            "label": "VETERNIK - ZAVOD ZA DECU",
+            "longitude": 19.7362036012,
+            "latitude": 45.2463691629
+        },
+        {
+            "id": "_20",
+            "label": "FUTOG - CARA LAZARA - POVRTARSKA - GROBLJE",
+            "longitude": 19.7273130155,
+            "latitude": 45.2413213241
+        },
+        {
+            "id": "_21",
+            "label": "FUTOG - CARA LAZARA - SVETOZARA MARKOVIĆA",
+            "longitude": 19.7257654306,
+            "latitude": 45.2376174322
+        },
+        {
+            "id": "_22",
+            "label": "FUTOG - CARA LAZARA - INDUSTRIJSKA",
+            "longitude": 19.7191485592,
+            "latitude": 45.2360771107
+        },
+        {
+            "id": "_23",
+            "label": "FUTOG - CARA LAZARA - BARNKA RADIČEVIĆA",
+            "longitude": 19.7132550269,
+            "latitude": 45.2367746797
+        },
+        {
+            "id": "_24",
+            "label": "FUTOG - CARA LAZARA - UROŠA PREDIĆA",
+            "longitude": 19.7063269819,
+            "latitude": 45.2376061823
+        },
+        {
+            "id": "_25",
+            "label": "FUTOG - CARA LAZARA 5",
+            "longitude": 19.7014373151,
+            "latitude": 45.2381967138
+        },
+        {
+            "id": "_26",
+            "label": "FUTOG - CARICE MILICE - ROBNA KUĆA",
+            "longitude": 19.69371563,
+            "latitude": 45.2388740721
+        },
+        {
+            "id": "_29",
+            "label": "FUTOG - AROMA - OKRETNICA",
+            "longitude": 19.690268057,
+            "latitude": 45.2454847431
+        },
+        {
+            "id": "_27",
+            "label": "FUTOG - SONJE MARINKOVIĆ - CARICE MILICE",
+            "longitude": 19.69027,
+            "latitude": 45.239197
+        },
+        {
+            "id": "_28",
+            "label": "FUTOG - SONJE MARINKOVIĆ - SIME ŠOLAJE",
+            "longitude": 19.69056,
+            "latitude": 45.241629
+        }
+    ],
+    "direction_b": [
+        {
+            "id": "_25",
+            "label": "FUTOŠKA - CARA DUŠANA",
+            "longitude": 19.8252968807,
+            "latitude": 45.2491656314
+        },
+        {
+            "id": "_26",
+            "label": "FUTOŠKA - ANTONA ČEHOVA",
+            "longitude": 19.8300215701,
+            "latitude": 45.2490835157
+        },
+        {
+            "id": "_23",
+            "label": "FUTOŠKI PUT - VRŠAČKA",
+            "longitude": 19.8083415635,
+            "latitude": 45.247517576
+        },
+        {
+            "id": "_24",
+            "label": "FUTOŠKA - HIGIJENSKI ZAVOD",
+            "longitude": 19.8177958089,
+            "latitude": 45.2488161894
+        },
+        {
+            "id": "_21",
+            "label": "FUTOŠKI PUT - BUL. PATRIJAHA PAVLA",
+            "longitude": 19.79550631,
+            "latitude": 45.2445958159
+        },
+        {
+            "id": "_22",
+            "label": "FUTOŠKI PUT - SATELITSKA PIJACA",
+            "longitude": 19.8010162498,
+            "latitude": 45.24628254
+        },
+        {
+            "id": "_27",
+            "label": "BUL. OSLOBOĐENJA - FUTOŠKA PIJACA",
+            "longitude": 19.8366307617,
+            "latitude": 45.2528681592
+        },
+        {
+            "id": "_28",
+            "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
+            "longitude": 19.8318492939,
+            "latitude": 45.2613766166
+        },
+        {
+            "id": "_29",
+            "label": "ŽELEZNIČKA STANICA - DOLASCI",
+            "longitude": 19.830132455,
+            "latitude": 45.2650202834
+        },
+        {
+            "id": "_1",
+            "label": "FUTOG - AROMA - OKRETNICA",
+            "longitude": 19.690268057,
+            "latitude": 45.2454847431
+        },
+        {
+            "id": "_4",
+            "label": "FUTOG - CARICE MILICE - ROBNA KUĆA",
+            "longitude": 19.6945874305,
+            "latitude": 45.2386780841
+        },
+        {
+            "id": "_5",
+            "label": "FUTOG - CARA LAZARA 8",
+            "longitude": 19.7020530703,
+            "latitude": 45.2380737883
+        },
+        {
+            "id": "_6",
+            "label": "FUTOG - CARA LAZARA - UROŠA PREDIĆA",
+            "longitude": 19.7073527392,
+            "latitude": 45.2374307204
+        },
+        {
+            "id": "_7",
+            "label": "FUTOG - CARA LAZARA - PETRA DRAPŠINA",
+            "longitude": 19.7118648922,
+            "latitude": 45.2368987058
+        },
+        {
+            "id": "_8",
+            "label": "FUTOG - CARA LAZARA - ÐURE JAKŠICA",
+            "longitude": 19.7184695601,
+            "latitude": 45.2360964354
+        },
+        {
+            "id": "_9",
+            "label": "FUTOG - CARA LAZARA - BRAĆE BOŠNJAK",
+            "longitude": 19.7263493259,
+            "latitude": 45.2386179355
+        },
+        {
+            "id": "_10",
+            "label": "FUTOG - CARA LAZARA - POVRTARSKA",
+            "longitude": 19.7273351926,
+            "latitude": 45.2411290493
+        },
+        {
+            "id": "_11",
+            "label": "VETERNIK - ZAVOD ZA DECU",
+            "longitude": 19.7371847016,
+            "latitude": 45.2463545316
+        },
+        {
+            "id": "_12",
+            "label": "VETERNIK - IVE LOLE RIBARA K. BR. 37",
+            "longitude": 19.7442091654,
+            "latitude": 45.2477580225
+        },
+        {
+            "id": "_13",
+            "label": "VETERNIK - IVE LOLE RIBARA 17",
+            "longitude": 19.7490170677,
+            "latitude": 45.2487018425
+        },
+        {
+            "id": "_14",
+            "label": "VETERNIK - PRAVOSLAVNA CRKVA",
+            "longitude": 19.7572312271,
+            "latitude": 45.2492300271
+        },
+        {
+            "id": "_15",
+            "label": "VETERNIK - NOVOS. PUT - SONJE MARINKOVIĆ",
+            "longitude": 19.7636929212,
+            "latitude": 45.2476834381
+        },
+        {
+            "id": "_16",
+            "label": "VETERNIK - FEŠTER",
+            "longitude": 19.7680295823,
+            "latitude": 45.2466526277
+        },
+        {
+            "id": "_17",
+            "label": "SPORTSKI CENTAR",
+            "longitude": 19.7751981963,
+            "latitude": 45.2448774927
+        },
+        {
+            "id": "_18",
+            "label": "NOVOSADSKI PUT - STEVANA SINĐELIĆA",
+            "longitude": 19.7826331453,
+            "latitude": 45.2435354955
+        },
+        {
+            "id": "_19",
+            "label": "FUTOŠKI PUT - BENZINSKA PUMPA",
+            "longitude": 19.7880484583,
+            "latitude": 45.2431816762
+        },
+        {
+            "id": "_20",
+            "label": "FUTOŠKI PUT - GARAŽA GSP",
+            "longitude": 19.792701,
+            "latitude": 45.243705
+        },
+        {
+            "id": "_2",
+            "label": "FUTOG - SONJE MARINKOVIĆ - SIME ŠOLAJE",
+            "longitude": 19.690377,
+            "latitude": 45.241327
+        },
+        {
+            "id": "_3",
+            "label": "FUTOG - SONJE MARINKOVIĆ - CARICE MILICE",
+            "longitude": 19.690098,
+            "latitude": 45.239151
+        }
+    ]
+}

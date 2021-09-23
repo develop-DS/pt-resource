@@ -1,0 +1,198 @@
+{
+    "direction_a": [
+        {
+            "id": "_1",
+            "label": "USPENSKA - ŠAFARIKOVA",
+            "longitude": 19.8415125346,
+            "latitude": 45.255074308
+        },
+        {
+            "id": "_7",
+            "label": "RUMENAČKA - BUL. JAŠE TOMIĆA",
+            "longitude": 19.8182127414,
+            "latitude": 45.2633439588
+        },
+        {
+            "id": "_2",
+            "label": "BUL. OSLOBOĐENJA - FUTOŠKA PIJACA",
+            "longitude": 19.8368000824,
+            "latitude": 45.2525198464
+        },
+        {
+            "id": "_3",
+            "label": "BUL. OSLOBOĐENJA - POKRAJINSKI SUP",
+            "longitude": 19.8351029309,
+            "latitude": 45.255629856
+        },
+        {
+            "id": "_4",
+            "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
+            "longitude": 19.8318492939,
+            "latitude": 45.2613766166
+        },
+        {
+            "id": "_5",
+            "label": "BUL. JAŠE TOMIĆA - ŽELEZNIČKA STANICA",
+            "longitude": 19.8291811843,
+            "latitude": 45.2640665923
+        },
+        {
+            "id": "_6",
+            "label": "BUL. JAŠE TOMIĆA - ŽELEZNIČKI PARK",
+            "longitude": 19.8231059398,
+            "latitude": 45.2640771252
+        },
+        {
+            "id": "_8",
+            "label": "RUMENAČKA - RADNIČKO IGRALIŠTE",
+            "longitude": 19.8148147237,
+            "latitude": 45.2660444179
+        },
+        {
+            "id": "_9",
+            "label": "RUMENAČKI PUT - BENZINSKA PUMPA",
+            "longitude": 19.8121474846,
+            "latitude": 45.2681204351
+        },
+        {
+            "id": "_10",
+            "label": "RUMENAČKI PUT - AVIJATIČARSKA",
+            "longitude": 19.8079135339,
+            "latitude": 45.2712216153
+        },
+        {
+            "id": "_11",
+            "label": "RUMENAČKI PUT - KRUŽNI TOK",
+            "longitude": 19.7998638594,
+            "latitude": 45.2759310771
+        },
+        {
+            "id": "_12",
+            "label": "RUMENAČKI PUT - GRADSKO GROBLJE",
+            "longitude": 19.7937338396,
+            "latitude": 45.2785344884
+        },
+        {
+            "id": "_13",
+            "label": "SAJLOVO I",
+            "longitude": 19.7896525102,
+            "latitude": 45.2778935404
+        },
+        {
+            "id": "_14",
+            "label": "SAJLOVO II",
+            "longitude": 19.7865491723,
+            "latitude": 45.2751092444
+        },
+        {
+            "id": "_15",
+            "label": "SAJLOVO III",
+            "longitude": 19.7830517183,
+            "latitude": 45.2719896416
+        },
+        {
+            "id": "_16",
+            "label": "SAJLOVO - KRAJNJA ",
+            "longitude": 19.7799422572,
+            "latitude": 45.2717595691
+        }
+    ],
+    "direction_b": [
+        {
+            "id": "_16",
+            "label": "USPENSKA - ŠAFARIKOVA",
+            "longitude": 19.8415125346,
+            "latitude": 45.255074308
+        },
+        {
+            "id": "_15",
+            "label": "USPENSKA - POZORIŠNI TRG",
+            "longitude": 19.8422463011,
+            "latitude": 45.2548499029
+        },
+        {
+            "id": "_14",
+            "label": "JEVREJSKA - BUL. OSLOBOĐENJA",
+            "longitude": 19.8377609655,
+            "latitude": 45.2522080286
+        },
+        {
+            "id": "_9",
+            "label": "RUMENAČKA - KORNELIJA STANKOVIĆA",
+            "longitude": 19.8174016008,
+            "latitude": 45.2636389127
+        },
+        {
+            "id": "_11",
+            "label": "BUL. OSLOBOĐENJA - BUL. JAŠE TOMIĆA",
+            "longitude": 19.8304838937,
+            "latitude": 45.263325649
+        },
+        {
+            "id": "_12",
+            "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
+            "longitude": 19.8322222835,
+            "latitude": 45.2601777537
+        },
+        {
+            "id": "_13",
+            "label": "BUL. OSLOBOÐENJA - NOVOSADSKOG SAJMA",
+            "longitude": 19.8353175469,
+            "latitude": 45.2545506888
+        },
+        {
+            "id": "_7",
+            "label": "RUMENAČKI PUT - AVIJATIČARSKA",
+            "longitude": 19.8089150153,
+            "latitude": 45.2702133075
+        },
+        {
+            "id": "_8",
+            "label": "RUMENAČKA - POLICIJSKA STANICA",
+            "longitude": 19.8130603695,
+            "latitude": 45.2670846403
+        },
+        {
+            "id": "_10",
+            "label": "BUL. JAŠE TOMIĆA - PARISKE KOMUNE",
+            "longitude": 19.8246328903,
+            "latitude": 45.2637816804
+        },
+        {
+            "id": "_1",
+            "label": "SAJLOVO - KRAJNJA ",
+            "longitude": 19.7799422572,
+            "latitude": 45.2717595691
+        },
+        {
+            "id": "_2",
+            "label": "SAJLOVO IV",
+            "longitude": 19.7787038641,
+            "latitude": 45.2742528831
+        },
+        {
+            "id": "_3",
+            "label": "SAJLOVO V",
+            "longitude": 19.7824063531,
+            "latitude": 45.2775718154
+        },
+        {
+            "id": "_4",
+            "label": "RUMENAČKI PUT - NADVOŽNJAK",
+            "longitude": 19.7863577779,
+            "latitude": 45.2801667701
+        },
+        {
+            "id": "_5",
+            "label": "RUMENAČKI PUT - GRADSKO GROBLJE",
+            "longitude": 19.7944074552,
+            "latitude": 45.2782101032
+        },
+        {
+            "id": "_6",
+            "label": "RUMENAČKI PUT - KRUŽNI TOK",
+            "longitude": 19.8018176756,
+            "latitude": 45.2747023047
+        }
+    ]
+}

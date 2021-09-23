@@ -1,0 +1,192 @@
+{
+    "direction_a": [
+        {
+            "id": "_1",
+            "label": "JANKA ČMELIKA - OBLAČIĆA RADA",
+            "longitude": 19.8083164398,
+            "latitude": 45.2649285714
+        },
+        {
+            "id": "_2",
+            "label": "JANKA ČMELIKA - DEČIJE OBDANIŠTE",
+            "longitude": 19.8104375633,
+            "latitude": 45.2618134201
+        },
+        {
+            "id": "_13",
+            "label": "BUL. CARA LAZARA - BUL. OSLOBOĐENJA",
+            "longitude": 19.8424535024,
+            "latitude": 45.2440216217
+        },
+        {
+            "id": "_8",
+            "label": "CARA DUŠANA - BUL. CARA LAZARA",
+            "longitude": 19.8253952094,
+            "latitude": 45.2403667659
+        },
+        {
+            "id": "_6",
+            "label": "BULEVAR EVROPE - FUTOŠKA",
+            "longitude": 19.8166067011,
+            "latitude": 45.2482616918
+        },
+        {
+            "id": "_7",
+            "label": "BULEVAR EVROPE - ROMANIJSKA",
+            "longitude": 19.8201818748,
+            "latitude": 45.2430591564
+        },
+        {
+            "id": "_12",
+            "label": "BUL. OSLOBOĐENJA - BRAĆE RIBNIKAR",
+            "longitude": 19.8392619075,
+            "latitude": 45.2475207776
+        },
+        {
+            "id": "_3",
+            "label": "BULEVAR EVROPE - BULEVAR VOJVODE STEPE",
+            "longitude": 19.808937,
+            "latitude": 45.259486
+        },
+        {
+            "id": "_4",
+            "label": "BULEVAR EVROPE - RAŠE RADUJKOVA",
+            "longitude": 19.811805,
+            "latitude": 45.255302
+        },
+        {
+            "id": "_5",
+            "label": "BULEVAR EVROPE - BRANKA BAJIĆA",
+            "longitude": 19.813837,
+            "latitude": 45.252347
+        },
+        {
+            "id": "_14",
+            "label": "DR SIME MILOŠEVIĆA - BUL. CARA LAZARA",
+            "longitude": 19.849049,
+            "latitude": 45.246804
+        },
+        {
+            "id": "_15",
+            "label": "UNIVERZITET - DR SIME MILOŠEVIĆA",
+            "longitude": 19.850994,
+            "latitude": 45.243749
+        },
+        {
+            "id": "_9",
+            "label": "MIŠE DIMITRIJEVIĆA - ĐORĐA SERVICKOG",
+            "longitude": 19.829119,
+            "latitude": 45.242541
+        },
+        {
+            "id": "_10",
+            "label": "MIŠE DIMITRIJEVIĆA - PUŠKINOVA",
+            "longitude": 19.832788,
+            "latitude": 45.245973
+        },
+        {
+            "id": "_11",
+            "label": "BRAĆE RIBNIKARA - MIŠE DIMITRIJEVIĆA",
+            "longitude": 19.835067,
+            "latitude": 45.248015
+        }
+    ],
+    "direction_b": [
+        {
+            "id": "_15",
+            "label": "MILENKA GRČIĆA - BANATSKA",
+            "longitude": 19.8111852139,
+            "latitude": 45.2640112807
+        },
+        {
+            "id": "_2",
+            "label": "FRUŠKOGORSKA - DR. I. ĐURIČIĆA",
+            "longitude": 19.847528317,
+            "latitude": 45.2429842112
+        },
+        {
+            "id": "_3",
+            "label": "BUL. OSLOBOĐENJA - BUL. CARA LAZARA",
+            "longitude": 19.8412524923,
+            "latitude": 45.2444754031
+        },
+        {
+            "id": "_10",
+            "label": "BULEVAR EVROPE - TEODORA PAVLOVIĆA",
+            "longitude": 19.8198292771,
+            "latitude": 45.2440148287
+        },
+        {
+            "id": "_14",
+            "label": "KORNELIJA STANKOVIĆA - BULEVAR EVROPE",
+            "longitude": 19.8096845247,
+            "latitude": 45.2604662935
+        },
+        {
+            "id": "_16",
+            "label": "OBLAČIĆA RADA - JANKA ČMELIKA",
+            "longitude": 19.808222,
+            "latitude": 45.265188
+        },
+        {
+            "id": "_11",
+            "label": "BULEVAR EVROPE - FUTOŠKA",
+            "longitude": 19.816518,
+            "latitude": 45.249118
+        },
+        {
+            "id": "_8",
+            "label": "BULEVAR EVROPE - CARA DUŠANA",
+            "longitude": 19.82477,
+            "latitude": 45.239855
+        },
+        {
+            "id": "_9",
+            "label": "BULEVAR EVROPE - ARANJ JANOŠA",
+            "longitude": 19.822391,
+            "latitude": 45.240414
+        },
+        {
+            "id": "_12",
+            "label": "BULEVAR EVROPE - BRANKA BAJIĆA",
+            "longitude": 19.813681,
+            "latitude": 45.253249
+        },
+        {
+            "id": "_13",
+            "label": "BULEVAR EVROPE - HADŽI RUVIMOVA",
+            "longitude": 19.811657,
+            "latitude": 45.256212
+        },
+        {
+            "id": "_1",
+            "label": "UNIVERZITET - DR SIME MILOŠEVIĆA",
+            "longitude": 19.850994,
+            "latitude": 45.243749
+        },
+        {
+            "id": "_4",
+            "label": "BRAĆE RIBNIKARA - BUL. OSLOBOĐENJA",
+            "longitude": 19.837693,
+            "latitude": 45.247811
+        },
+        {
+            "id": "_5",
+            "label": "MIŠE DIMITRIJEVIĆA - BRAĆE RIBNIKARA\r\n",
+            "longitude": 19.834396,
+            "latitude": 45.247816
+        },
+        {
+            "id": "_6",
+            "label": "MIŠE DIMITRIJEVIĆA - PUŠKINOVA",
+            "longitude": 19.831754,
+            "latitude": 45.245159
+        },
+        {
+            "id": "_7",
+            "label": "MIŠE DIMITRIJEVIĆA - ĐORĐA SERVICKOG",
+            "longitude": 19.82862,
+            "latitude": 45.24238
+        }
+    ]
+}
