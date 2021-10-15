@@ -1206,8 +1206,12 @@
         "type": "BUS",
         "info": [],
         "weekday": {
-            "starting_points_a": ["07:00"],
-            "starting_points_b": ["16:10"]
+            "starting_points_a": [
+                "07:00"
+            ],
+            "starting_points_b": [
+                "16:10"
+            ]
         },
         "saturday": {
             "starting_points_a": [],
@@ -2517,10 +2521,21 @@
         "id": "6A",
         "title": "ADICE - VETERNIK (O.S.MARIJA TRANDAFIL)",
         "type": "BUS",
-        "info": ["SSD = S.S. D. OBRADOVIC DJACKI"],
+        "info": [
+            "SSD = S.S. D. OBRADOVIC DJACKI"
+        ],
         "weekday": {
-            "starting_points_a": ["07:30Đ", "12:00Đ", "12:55Đ"],
-            "starting_points_b": ["11:40Đ", "12:30Đ", "17:40Đ", "18:30Đ"]
+            "starting_points_a": [
+                "07:30Đ",
+                "12:00Đ",
+                "12:55Đ"
+            ],
+            "starting_points_b": [
+                "11:40Đ",
+                "12:30Đ",
+                "17:40Đ",
+                "18:30Đ"
+            ]
         },
         "saturday": {
             "starting_points_a": [],
@@ -2940,7 +2955,9 @@
         "id": "9",
         "title": "NOVO NASELJE - LIMAN - PETROVARADIN",
         "type": "BUS",
-        "info": ["ALI = ALIBEGOVAC"],
+        "info": [
+            "ALI = ALIBEGOVAC"
+        ],
         "weekday": {
             "starting_points_a": [
                 "04:30",
@@ -3376,8 +3393,8 @@
                 "13:30APT",
                 "13:30APT",
                 "13:35AL",
-                "21:30AL",
                 "21:30APT",
+                "21:30AL",
                 "21:30APT"
             ],
             "starting_points_b": [
@@ -3397,11 +3414,19 @@
             ]
         },
         "saturday": {
-            "starting_points_a": ["05:35AL", "13:35AL"],
-            "starting_points_b": ["06:10AL", "14:10AL"]
+            "starting_points_a": [
+                "05:35AL",
+                "13:35AL"
+            ],
+            "starting_points_b": [
+                "06:10AL",
+                "14:10AL"
+            ]
         },
         "sunday": {
-            "starting_points_a": ["21:30ZKR"],
+            "starting_points_a": [
+                "21:30ZKR"
+            ],
             "starting_points_b": []
         }
     },
@@ -3759,7 +3784,9 @@
         "id": "13",
         "title": "DETELINARA - GRBAVICA - UNIVERZITET",
         "type": "BUS",
-        "info": ["UDJ = BUL.EVROPE K.T-UNIVERZITET DJACKI"],
+        "info": [
+            "UDJ = BUL.EVROPE K.T-UNIVERZITET DJACKI"
+        ],
         "weekday": {
             "starting_points_a": [
                 "04:30",
@@ -4029,7 +4056,9 @@
         "id": "14",
         "title": "CENTAR - SAJLOVO",
         "type": "BUS",
-        "info": ["DDJ = DO DETELINARE DJACKI"],
+        "info": [
+            "DDJ = DO DETELINARE DJACKI"
+        ],
         "weekday": {
             "starting_points_a": [
                 "04:30",
@@ -4333,8 +4362,8 @@
         "weekday": {
             "starting_points_a": [
                 "05:20NK",
-                "05:30NK",
                 "05:30APT",
+                "05:30NK",
                 "06:05NP",
                 "06:35NP",
                 "07:00NP",
@@ -4350,20 +4379,20 @@
                 "21:30APT"
             ],
             "starting_points_b": [
-                "06:15KN",
                 "06:15APT",
+                "06:15KN",
                 "07:30NP",
                 "10:05KN",
                 "13:20NP",
-                "14:15APT",
                 "14:15KN",
+                "14:15APT",
                 "15:10NP",
                 "16:10KN",
                 "16:15APT",
                 "18:15KN",
                 "21:20NP",
-                "22:15APT",
-                "22:15KN"
+                "22:15KN",
+                "22:15APT"
             ]
         },
         "saturday": {
@@ -4384,7 +4413,12 @@
             ]
         },
         "sunday": {
-            "starting_points_a": ["05:30NK", "13:20NK", "17:20NK", "21:20NK"],
+            "starting_points_a": [
+                "05:30NK",
+                "13:20NK",
+                "17:20NK",
+                "21:20NK"
+            ],
             "starting_points_b": [
                 "06:10KV",
                 "06:15KN",
@@ -4400,8 +4434,17 @@
         "type": "BUS",
         "info": [],
         "weekday": {
-            "starting_points_a": ["05:40", "06:45", "07:45", "13:35"],
-            "starting_points_b": ["06:15", "14:15", "16:10"]
+            "starting_points_a": [
+                "05:40",
+                "06:45",
+                "07:45",
+                "13:35"
+            ],
+            "starting_points_b": [
+                "06:15",
+                "14:15",
+                "16:10"
+            ]
         },
         "saturday": {
             "starting_points_a": [],
@@ -4618,8 +4661,19 @@
             ]
         },
         "sunday": {
-            "starting_points_a": ["07:30", "09:00", "12:00", "15:00"],
-            "starting_points_b": ["08:00", "09:30", "12:30", "16:30", "17:30"]
+            "starting_points_a": [
+                "07:30",
+                "09:00",
+                "12:00",
+                "15:00"
+            ],
+            "starting_points_b": [
+                "08:00",
+                "09:30",
+                "12:30",
+                "16:30",
+                "17:30"
+            ]
         }
     },
     {
@@ -5525,16 +5579,49 @@
         "title": "N.N - DETELINARA - CENTAR - LIMAN - N.N",
         "type": "BUS",
         "weekday": {
-            "starting_points_a": ["00:30", "01:30", "02:30", "03:30"],
-            "starting_points_b": ["00:00", "01:00", "02:00", "03:00", "04:00"]
+            "starting_points_a": [
+                "00:30",
+                "01:30",
+                "02:30",
+                "03:30"
+            ],
+            "starting_points_b": [
+                "00:00",
+                "01:00",
+                "02:00",
+                "03:00",
+                "04:00"
+            ]
         },
         "saturday": {
-            "starting_points_a": ["00:30", "01:30", "02:30", "03:30"],
-            "starting_points_b": ["00:00", "01:00", "02:00", "03:00", "04:00"]
+            "starting_points_a": [
+                "00:30",
+                "01:30",
+                "02:30",
+                "03:30"
+            ],
+            "starting_points_b": [
+                "00:00",
+                "01:00",
+                "02:00",
+                "03:00",
+                "04:00"
+            ]
         },
         "sunday": {
-            "starting_points_a": ["00:30", "01:30", "02:30", "03:30"],
-            "starting_points_b": ["00:00", "01:00", "02:00", "03:00", "04:00"]
+            "starting_points_a": [
+                "00:30",
+                "01:30",
+                "02:30",
+                "03:30"
+            ],
+            "starting_points_b": [
+                "00:00",
+                "01:00",
+                "02:00",
+                "03:00",
+                "04:00"
+            ]
         },
         "info": []
     },
@@ -5542,7 +5629,10 @@
         "id": "21",
         "title": "ŽELE.STANICA - ŠANGAJ",
         "type": "BUS",
-        "info": ["NIS = PARKING NIS", "TET = TERMOELEKTRANA TOPLANA"],
+        "info": [
+            "NIS = PARKING NIS",
+            "TET = TERMOELEKTRANA TOPLANA"
+        ],
         "weekday": {
             "starting_points_a": [
                 "04:35",
@@ -5688,7 +5778,10 @@
         "id": "22",
         "title": "ŽELE.STANICA - KAĆ",
         "type": "BUS",
-        "info": ["C = DO CENTRA N.SADA", "KC = KROZ CENTAR KAĆA"],
+        "info": [
+            "C = DO CENTRA N.SADA",
+            "KC = KROZ CENTAR KAĆA"
+        ],
         "weekday": {
             "starting_points_a": [
                 "05:20",
@@ -5784,7 +5877,10 @@
         "id": "23",
         "title": "ŽELE.STANICA - BUDISAVA",
         "type": "BUS",
-        "info": ["C = DO CENTRA N.SADA", "NT = NOVOM TRASOM KROZ KAC"],
+        "info": [
+            "C = DO CENTRA N.SADA",
+            "NT = NOVOM TRASOM KROZ KAC"
+        ],
         "weekday": {
             "starting_points_a": [
                 "04:40",
@@ -5862,7 +5958,12 @@
             ]
         },
         "sunday": {
-            "starting_points_a": ["07:20", "12:00", "15:50", "20:20"],
+            "starting_points_a": [
+                "07:20",
+                "12:00",
+                "15:50",
+                "20:20"
+            ],
             "starting_points_b": [
                 "06:10",
                 "07:55",
@@ -6070,22 +6171,46 @@
             ]
         },
         "saturday": {
-            "starting_points_a": ["06:15", "15:00", "21:00"],
-            "starting_points_b": ["06:45", "15:30", "21:30"]
+            "starting_points_a": [
+                "06:15",
+                "15:00",
+                "21:00"
+            ],
+            "starting_points_b": [
+                "06:45",
+                "15:30",
+                "21:30"
+            ]
         },
         "sunday": {
-            "starting_points_a": ["08:30", "13:00", "21:10"],
-            "starting_points_b": ["09:00", "13:30", "21:40"]
+            "starting_points_a": [
+                "08:30",
+                "13:00",
+                "21:10"
+            ],
+            "starting_points_b": [
+                "09:00",
+                "13:30",
+                "21:40"
+            ]
         }
     },
     {
         "id": "31",
         "title": "MAS - BAČKI JARAK",
         "type": "BUS",
-        "info": ["ĐK = ĐAČKI KOLONIJA", "K = KOLONIJA TEMERIN"],
+        "info": [
+            "ĐK = ĐAČKI KOLONIJA",
+            "K = KOLONIJA TEMERIN"
+        ],
         "weekday": {
-            "starting_points_a": ["04:55K"],
-            "starting_points_b": ["05:25K", "06:35ĐK"]
+            "starting_points_a": [
+                "04:55K"
+            ],
+            "starting_points_b": [
+                "05:25K",
+                "06:35ĐK"
+            ]
         },
         "saturday": {
             "starting_points_a": [],
@@ -6286,7 +6411,10 @@
         "id": "33",
         "title": "MAS - GOSPOĐINCI",
         "type": "BUS",
-        "info": ["DT = DO TEMERINA", "T = KROZ TELEP U TEMERINU"],
+        "info": [
+            "DT = DO TEMERINA",
+            "T = KROZ TELEP U TEMERINU"
+        ],
         "weekday": {
             "starting_points_a": [
                 "04:10T",
@@ -6393,7 +6521,10 @@
         "id": "35",
         "title": "ŽELE.STANICA - ČENEJ",
         "type": "BUS",
-        "info": ["ČL = KROZ LIS", "ČLĐ = KROZ LIS DJACKI"],
+        "info": [
+            "ČL = KROZ LIS",
+            "ČLĐ = KROZ LIS DJACKI"
+        ],
         "weekday": {
             "starting_points_a": [
                 "04:55ČL",
@@ -6544,11 +6675,23 @@
             ]
         },
         "saturday": {
-            "starting_points_a": ["06:00", "14:15", "15:10"],
-            "starting_points_b": ["05:55", "06:30", "14:45", "15:40", "03:00"]
+            "starting_points_a": [
+                "06:00",
+                "14:15",
+                "15:10"
+            ],
+            "starting_points_b": [
+                "05:55",
+                "06:30",
+                "14:45",
+                "15:40",
+                "03:00"
+            ]
         },
         "sunday": {
-            "starting_points_a": ["03:00"],
+            "starting_points_a": [
+                "03:00"
+            ],
             "starting_points_b": []
         }
     },
@@ -6791,7 +6934,9 @@
         "id": "51A",
         "title": "Polasci za VETERNIK A",
         "type": "BUS",
-        "info": ["KS = KROZ SAJLOVO"],
+        "info": [
+            "KS = KROZ SAJLOVO"
+        ],
         "weekday": {
             "starting_points_a": [
                 "05:55",
@@ -6818,19 +6963,29 @@
             ]
         },
         "saturday": {
-            "starting_points_a": ["08:00"],
-            "starting_points_b": ["08:30"]
+            "starting_points_a": [
+                "08:00"
+            ],
+            "starting_points_b": [
+                "08:30"
+            ]
         },
         "sunday": {
-            "starting_points_a": ["08:00"],
-            "starting_points_b": ["08:30"]
+            "starting_points_a": [
+                "08:00"
+            ],
+            "starting_points_b": [
+                "08:30"
+            ]
         }
     },
     {
         "id": "51B",
         "title": "Polasci za VETERNIK B",
         "type": "BUS",
-        "info": ["KS = KROZ SAJLOVO"],
+        "info": [
+            "KS = KROZ SAJLOVO"
+        ],
         "weekday": {
             "starting_points_a": [
                 "05:30KS",
@@ -6857,19 +7012,29 @@
             ]
         },
         "saturday": {
-            "starting_points_a": ["12:05"],
-            "starting_points_b": ["12:35"]
+            "starting_points_a": [
+                "12:05"
+            ],
+            "starting_points_b": [
+                "12:35"
+            ]
         },
         "sunday": {
-            "starting_points_a": ["12:05"],
-            "starting_points_b": ["12:35"]
+            "starting_points_a": [
+                "12:05"
+            ],
+            "starting_points_b": [
+                "12:35"
+            ]
         }
     },
     {
         "id": "52",
         "title": "ŽELE.STANICA - VETERNIK",
         "type": "BUS",
-        "info": ["SP = SAOBRACA SAMO PETKOM"],
+        "info": [
+            "SP = SAOBRACA SAMO PETKOM"
+        ],
         "weekday": {
             "starting_points_a": [
                 "06:25",
@@ -6999,7 +7164,9 @@
         "id": "53",
         "title": "ŽELE.STANICA - FUTOG STARI",
         "type": "BUS",
-        "info": ["CG = CENTRALNO GROBLJE"],
+        "info": [
+            "CG = CENTRALNO GROBLJE"
+        ],
         "weekday": {
             "starting_points_a": [
                 "05:10",
@@ -7647,8 +7814,19 @@
         "type": "BUS",
         "info": [],
         "weekday": {
-            "starting_points_a": ["08:30", "13:05", "16:50", "18:43"],
-            "starting_points_b": ["06:45", "09:15", "13:50", "17:35", "19:40"]
+            "starting_points_a": [
+                "08:30",
+                "13:05",
+                "16:50",
+                "18:43"
+            ],
+            "starting_points_b": [
+                "06:45",
+                "09:15",
+                "13:50",
+                "17:35",
+                "19:40"
+            ]
         },
         "saturday": {
             "starting_points_a": [],
@@ -7803,7 +7981,9 @@
         "id": "62",
         "title": "MAS - SREMSKI KARLOVCI(DUDARA)",
         "type": "BUS",
-        "info": ["KVG = KROZ VINOGRADARSKU"],
+        "info": [
+            "KVG = KROZ VINOGRADARSKU"
+        ],
         "weekday": {
             "starting_points_a": [
                 "04:45",
@@ -7938,7 +8118,9 @@
         "id": "64",
         "title": "ŽELE.STANICA - BUKOVAC",
         "type": "BUS",
-        "info": ["CF = KROZ CENTAR DO FUTOSKOG STAJALISTA"],
+        "info": [
+            "CF = KROZ CENTAR DO FUTOSKOG STAJALISTA"
+        ],
         "weekday": {
             "starting_points_a": [
                 "05:15",
@@ -8111,7 +8293,10 @@
         "id": "68",
         "title": "ŽELE.STANICA - SREMSKA KAMENICA(VOJINOVO)",
         "type": "BUS",
-        "info": ["IS = KROZ INSTITUT", "KP = KROZ PARAGOVO"],
+        "info": [
+            "IS = KROZ INSTITUT",
+            "KP = KROZ PARAGOVO"
+        ],
         "weekday": {
             "starting_points_a": [
                 "06:20IS",
@@ -8194,7 +8379,9 @@
         "id": "69",
         "title": "ŽELE.STANICA - SREMSKA KAMENICA(ČARDAK)",
         "type": "BUS",
-        "info": ["DJS = DJACKI PREKO MOSTA SLOBODE"],
+        "info": [
+            "DJS = DJACKI PREKO MOSTA SLOBODE"
+        ],
         "weekday": {
             "starting_points_a": [
                 "06:05",
@@ -8626,23 +8813,47 @@
         "type": "BUS",
         "info": [],
         "weekday": {
-            "starting_points_a": ["07:20", "09:40", "11:00", "13:40"],
-            "starting_points_b": ["08:00", "10:20", "11:40", "14:20"]
+            "starting_points_a": [
+                "07:20",
+                "09:40",
+                "11:00",
+                "13:40"
+            ],
+            "starting_points_b": [
+                "08:00",
+                "10:20",
+                "11:40",
+                "14:20"
+            ]
         },
         "saturday": {
-            "starting_points_a": ["10:20", "14:40"],
-            "starting_points_b": ["11:00", "15:20"]
+            "starting_points_a": [
+                "10:20",
+                "14:40"
+            ],
+            "starting_points_b": [
+                "11:00",
+                "15:20"
+            ]
         },
         "sunday": {
-            "starting_points_a": ["10:20", "14:40"],
-            "starting_points_b": ["11:00", "15:20"]
+            "starting_points_a": [
+                "10:20",
+                "14:40"
+            ],
+            "starting_points_b": [
+                "11:00",
+                "15:20"
+            ]
         }
     },
     {
         "id": "74",
         "title": "ŽELE.STANICA - SREMSKA KAMENICA(POPOVICA)",
         "type": "BUS",
-        "info": ["IS = KROZ INSTITUT"],
+        "info": [
+            "IS = KROZ INSTITUT"
+        ],
         "weekday": {
             "starting_points_a": [
                 "05:10",
@@ -8751,7 +8962,10 @@
         "id": "76",
         "title": "ŽELE.STANICA - STARI LEDINCI",
         "type": "BUS",
-        "info": ["NL = KROZ N.LEDINCE", "TLB = TRASOM LIN.BROJ 71 BOCKE"],
+        "info": [
+            "NL = KROZ N.LEDINCE",
+            "TLB = TRASOM LIN.BROJ 71 BOCKE"
+        ],
         "weekday": {
             "starting_points_a": [
                 "04:55",
@@ -8888,23 +9102,56 @@
         "type": "BUS",
         "info": [],
         "weekday": {
-            "starting_points_a": ["06:00", "11:45", "14:45", "16:15"],
-            "starting_points_b": ["05:45", "06:45", "12:30", "15:25", "17:00"]
+            "starting_points_a": [
+                "06:00",
+                "11:45",
+                "14:45",
+                "16:15"
+            ],
+            "starting_points_b": [
+                "05:45",
+                "06:45",
+                "12:30",
+                "15:25",
+                "17:00"
+            ]
         },
         "saturday": {
-            "starting_points_a": ["07:00", "11:45", "19:20"],
-            "starting_points_b": ["05:00", "07:40", "12:25", "15:15", "20:00"]
+            "starting_points_a": [
+                "07:00",
+                "11:45",
+                "19:20"
+            ],
+            "starting_points_b": [
+                "05:00",
+                "07:40",
+                "12:25",
+                "15:15",
+                "20:00"
+            ]
         },
         "sunday": {
-            "starting_points_a": ["07:00", "11:45", "19:20"],
-            "starting_points_b": ["05:00", "07:40", "12:35", "15:15", "20:00"]
+            "starting_points_a": [
+                "07:00",
+                "11:45",
+                "19:20"
+            ],
+            "starting_points_b": [
+                "05:00",
+                "07:40",
+                "12:35",
+                "15:15",
+                "20:00"
+            ]
         }
     },
     {
         "id": "78",
         "title": "MAS - BEOČIN SELO",
         "type": "BUS",
-        "info": ["SR = KROZ STARI RAKOVAC"],
+        "info": [
+            "SR = KROZ STARI RAKOVAC"
+        ],
         "weekday": {
             "starting_points_a": [
                 "10:35SR",
@@ -9102,7 +9349,10 @@
         "type": "BUS",
         "info": [],
         "weekday": {
-            "starting_points_a": ["19:00", "01:00"],
+            "starting_points_a": [
+                "19:00",
+                "01:00"
+            ],
             "starting_points_b": [
                 "06:25Đ",
                 "07:00Đ",
@@ -9112,21 +9362,37 @@
             ]
         },
         "saturday": {
-            "starting_points_a": ["01:00"],
-            "starting_points_b": ["01:30"]
+            "starting_points_a": [
+                "01:00"
+            ],
+            "starting_points_b": [
+                "01:30"
+            ]
         },
         "sunday": {
-            "starting_points_a": ["01:00"],
-            "starting_points_b": ["01:30"]
+            "starting_points_a": [
+                "01:00"
+            ],
+            "starting_points_b": [
+                "01:30"
+            ]
         }
     },
     {
         "id": "81",
         "title": "MAS - BANOŠTOR",
         "type": "BUS",
-        "info": ["DN = KROZ DUNAV NASELJE DJACKI"],
+        "info": [
+            "DN = KROZ DUNAV NASELJE DJACKI"
+        ],
         "weekday": {
-            "starting_points_a": ["06:15", "09:10", "11:35", "15:45", "18:40"],
+            "starting_points_a": [
+                "06:15",
+                "09:10",
+                "11:35",
+                "15:45",
+                "18:40"
+            ],
             "starting_points_b": [
                 "06:05",
                 "07:20DN",
