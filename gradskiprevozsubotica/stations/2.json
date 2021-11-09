@@ -1,146 +1,294 @@
-[
-    {
-        "id": "_1",
-        "label": "EV-PRO",
-        "longitude": 19.6645617,
-        "latitude": 46.0765501
-    },
-    {
-        "id": "_2",
-        "label": "Pačirski put",
-        "longitude": 19.6659887,
-        "latitude": 46.0786061
-    },
-    {
-        "id": "_3",
-        "label": "Bolnica",
-        "longitude": 19.6726137,
-        "latitude": 46.0826769
-    },
-    {
-        "id": "_4",
-        "label": "Bajnatska II",
-        "longitude": 19.6746066,
-        "latitude": 46.0841726
-    },
-    {
-        "id": "_5",
-        "label": "Bajnatska I",
-        "longitude": 19.6786809,
-        "latitude": 46.0856237
-    },
-    {
-        "id": "_6",
-        "label": "Senćansko groblje",
-        "longitude": 19.6837798,
-        "latitude": 46.0881035
-    },
-    {
-        "id": "_7",
-        "label": "Dinamotrans",
-        "longitude": 19.680478,
-        "latitude": 46.0911654
-    },
-    {
-        "id": "_8",
-        "label": "Autobuska stanica grad",
-        "longitude": 19.6743304,
-        "latitude": 46.0947293
-    },
-    {
-        "id": "_9",
-        "label": "MEŠC",
-        "longitude": 19.6704948,
-        "latitude": 46.0987691
-    },
-    {
-        "id": "_10",
-        "label": "Jadran",
-        "longitude": 19.6690947,
-        "latitude": 46.1014994
-    },
-    {
-        "id": "_11",
-        "label": "Higjenski zavod",
-        "longitude": 19.6679252,
-        "latitude": 46.1040323
-    },
-    {
-        "id": "_12",
-        "label": "Arsenija Čarnojevića",
-        "longitude": 19.6645188,
-        "latitude": 46.1034707
-    },
-    {
-        "id": "_13",
-        "label": "Samoposluga br. 23",
-        "longitude": 19.6594387,
-        "latitude": 46.1051556
-    },
-    {
-        "id": "_14",
-        "label": "Hala sportova",
-        "longitude": 19.6562308,
-        "latitude": 46.1087818
-    },
-    {
-        "id": "_15",
-        "label": "Dudova šuma groblje",
-        "longitude": 19.6575719,
-        "latitude": 46.1102695
-    },
-    {
-        "id": "_16",
-        "label": "Bazeni",
-        "longitude": 19.6546108,
-        "latitude": 46.113583
-    },
-    {
-        "id": "_17",
-        "label": "Somborska pruga",
-        "longitude": 19.6525159,
-        "latitude": 46.1164222
-    },
-    {
-        "id": "_18",
-        "label": "Drvara Subotica",
-        "longitude": 19.6502897,
-        "latitude": 46.1194658
-    },
-    {
-        "id": "_19",
-        "label": "Padejska",
-        "longitude": 19.6483344,
-        "latitude": 46.1222843
-    },
-    {
-        "id": "_20",
-        "label": "Zorkina",
-        "longitude": 19.6458399,
-        "latitude": 46.1251769
-    },
-    {
-        "id": "_21",
-        "label": "Prodavnica Farex",
-        "longitude": 19.6425784,
-        "latitude": 46.1287015
-    },
-    {
-        "id": "_22",
-        "label": "Dr Ferenca Bodrogvarija",
-        "longitude": 19.6388555,
-        "latitude": 46.1319916
-    },
-    {
-        "id": "_23",
-        "label": "Ganjo šor",
-        "longitude": 19.6360606,
-        "latitude": 46.1345381
-    },
-    {
-        "id": "_24",
-        "label": "Široki progon",
-        "longitude": 19.6334803,
-        "latitude": 46.136906
-    }
-]
+{
+    "direction_a": [
+        {
+            "id": "__",
+            "label": "EV-PRO",
+            "longitude": 19.6645617,
+            "latitude": 46.0765501
+        },
+        {
+            "id": "__",
+            "label": "Pačirski put",
+            "longitude": 19.6659887,
+            "latitude": 46.0786061
+        },
+        {
+            "id": "__",
+            "label": "Bolnica",
+            "longitude": 19.6726137,
+            "latitude": 46.0826769
+        },
+        {
+            "id": "__",
+            "label": "Bajnatska II",
+            "longitude": 19.6746066,
+            "latitude": 46.0841726
+        },
+        {
+            "id": "__",
+            "label": "Bajnatska I",
+            "longitude": 19.6786809,
+            "latitude": 46.0856237
+        },
+        {
+            "id": "__",
+            "label": "Senćansko groblje",
+            "longitude": 19.6837798,
+            "latitude": 46.0881035
+        },
+        {
+            "id": "__",
+            "label": "Dinamotrans",
+            "longitude": 19.680478,
+            "latitude": 46.0911654
+        },
+        {
+            "id": "__",
+            "label": "Autobuska stanica grad",
+            "longitude": 19.6743304,
+            "latitude": 46.0947293
+        },
+        {
+            "id": "__",
+            "label": "MEŠC",
+            "longitude": 19.6704948,
+            "latitude": 46.0987691
+        },
+        {
+            "id": "__",
+            "label": "Jadran",
+            "longitude": 19.6690947,
+            "latitude": 46.1014994
+        },
+        {
+            "id": "__",
+            "label": "Higjenski zavod",
+            "longitude": 19.6679252,
+            "latitude": 46.1040323
+        },
+        {
+            "id": "__",
+            "label": "Arsenija Čarnojevića",
+            "longitude": 19.6645188,
+            "latitude": 46.1034707
+        },
+        {
+            "id": "__",
+            "label": "Samoposluga br. 23",
+            "longitude": 19.6594387,
+            "latitude": 46.1051556
+        },
+        {
+            "id": "__",
+            "label": "Hala sportova",
+            "longitude": 19.6562308,
+            "latitude": 46.1087818
+        },
+        {
+            "id": "__",
+            "label": "Dudova šuma groblje",
+            "longitude": 19.6575719,
+            "latitude": 46.1102695
+        },
+        {
+            "id": "__",
+            "label": "Bazeni",
+            "longitude": 19.6546108,
+            "latitude": 46.113583
+        },
+        {
+            "id": "__",
+            "label": "Somborska pruga",
+            "longitude": 19.6525159,
+            "latitude": 46.1164222
+        },
+        {
+            "id": "__",
+            "label": "Drvara Subotica",
+            "longitude": 19.6502897,
+            "latitude": 46.1194658
+        },
+        {
+            "id": "__",
+            "label": "Padejska",
+            "longitude": 19.6483344,
+            "latitude": 46.1222843
+        },
+        {
+            "id": "__",
+            "label": "Zorkina",
+            "longitude": 19.6458399,
+            "latitude": 46.1251769
+        },
+        {
+            "id": "__",
+            "label": "Prodavnica Farex",
+            "longitude": 19.6425784,
+            "latitude": 46.1287015
+        },
+        {
+            "id": "__",
+            "label": "Dr Ferenca Bodrogvarija",
+            "longitude": 19.6388555,
+            "latitude": 46.1319916
+        },
+        {
+            "id": "__",
+            "label": "Ganjo šor",
+            "longitude": 19.6360606,
+            "latitude": 46.1345381
+        },
+        {
+            "id": "__",
+            "label": "Široki progon",
+            "longitude": 19.6334803,
+            "latitude": 46.136906
+        }
+    ],
+    "direction_b": [
+        {
+            "id": "__",
+            "label": "EV-PRO",
+            "longitude": 19.6645617,
+            "latitude": 46.0765501
+        },
+        {
+            "id": "__",
+            "label": "Pačirski put",
+            "longitude": 19.6659887,
+            "latitude": 46.0786061
+        },
+        {
+            "id": "__",
+            "label": "Bolnica",
+            "longitude": 19.6726137,
+            "latitude": 46.0826769
+        },
+        {
+            "id": "__",
+            "label": "Bajnatska II",
+            "longitude": 19.6746066,
+            "latitude": 46.0841726
+        },
+        {
+            "id": "__",
+            "label": "Bajnatska I",
+            "longitude": 19.6786809,
+            "latitude": 46.0856237
+        },
+        {
+            "id": "__",
+            "label": "Senćansko groblje",
+            "longitude": 19.6837798,
+            "latitude": 46.0881035
+        },
+        {
+            "id": "__",
+            "label": "Dinamotrans",
+            "longitude": 19.680478,
+            "latitude": 46.0911654
+        },
+        {
+            "id": "__",
+            "label": "Autobuska stanica grad",
+            "longitude": 19.6743304,
+            "latitude": 46.0947293
+        },
+        {
+            "id": "__",
+            "label": "MEŠC",
+            "longitude": 19.6704948,
+            "latitude": 46.0987691
+        },
+        {
+            "id": "__",
+            "label": "Jadran",
+            "longitude": 19.6690947,
+            "latitude": 46.1014994
+        },
+        {
+            "id": "__",
+            "label": "Higjenski zavod",
+            "longitude": 19.6679252,
+            "latitude": 46.1040323
+        },
+        {
+            "id": "__",
+            "label": "Arsenija Čarnojevića",
+            "longitude": 19.6645188,
+            "latitude": 46.1034707
+        },
+        {
+            "id": "__",
+            "label": "Samoposluga br. 23",
+            "longitude": 19.6594387,
+            "latitude": 46.1051556
+        },
+        {
+            "id": "__",
+            "label": "Hala sportova",
+            "longitude": 19.6562308,
+            "latitude": 46.1087818
+        },
+        {
+            "id": "__",
+            "label": "Dudova šuma groblje",
+            "longitude": 19.6575719,
+            "latitude": 46.1102695
+        },
+        {
+            "id": "__",
+            "label": "Bazeni",
+            "longitude": 19.6546108,
+            "latitude": 46.113583
+        },
+        {
+            "id": "__",
+            "label": "Somborska pruga",
+            "longitude": 19.6525159,
+            "latitude": 46.1164222
+        },
+        {
+            "id": "__",
+            "label": "Drvara Subotica",
+            "longitude": 19.6502897,
+            "latitude": 46.1194658
+        },
+        {
+            "id": "__",
+            "label": "Padejska",
+            "longitude": 19.6483344,
+            "latitude": 46.1222843
+        },
+        {
+            "id": "__",
+            "label": "Zorkina",
+            "longitude": 19.6458399,
+            "latitude": 46.1251769
+        },
+        {
+            "id": "__",
+            "label": "Prodavnica Farex",
+            "longitude": 19.6425784,
+            "latitude": 46.1287015
+        },
+        {
+            "id": "__",
+            "label": "Dr Ferenca Bodrogvarija",
+            "longitude": 19.6388555,
+            "latitude": 46.1319916
+        },
+        {
+            "id": "__",
+            "label": "Ganjo šor",
+            "longitude": 19.6360606,
+            "latitude": 46.1345381
+        },
+        {
+            "id": "__",
+            "label": "Široki progon",
+            "longitude": 19.6334803,
+            "latitude": 46.136906
+        }
+    ]
+}

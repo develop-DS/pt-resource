@@ -1,170 +1,342 @@
-[
-    {
-        "id": "_1",
-        "label": "Vikend naselje",
-        "longitude": 19.7683096,
-        "latitude": 46.0883081
-    },
-    {
-        "id": "_2",
-        "label": "Štrand",
-        "longitude": 19.7672018,
-        "latitude": 46.0938458
-    },
-    {
-        "id": "_3",
-        "label": "Lovranska",
-        "longitude": 19.7646376,
-        "latitude": 46.0995168
-    },
-    {
-        "id": "_4",
-        "label": "Palić centar",
-        "longitude": 19.7607109,
-        "latitude": 46.1022953
-    },
-    {
-        "id": "_5",
-        "label": "Palić Toranj",
-        "longitude": 19.7580528,
-        "latitude": 46.1023288
-    },
-    {
-        "id": "_6",
-        "label": "ZOO vrt",
-        "longitude": 19.7516933,
-        "latitude": 46.1031006
-    },
-    {
-        "id": "_7",
-        "label": "Benzinska pumpa",
-        "longitude": 19.7425282,
-        "latitude": 46.1039226
-    },
-    {
-        "id": "_8",
-        "label": "Radanovac",
-        "longitude": 19.7274864,
-        "latitude": 46.1051519
-    },
-    {
-        "id": "_9",
-        "label": "Kasarna",
-        "longitude": 19.7131607,
-        "latitude": 46.1035935
-    },
-    {
-        "id": "_10",
-        "label": "Autometal",
-        "longitude": 19.6998274,
-        "latitude": 46.1020722
-    },
-    {
-        "id": "_11",
-        "label": "Subotica-trans",
-        "longitude": 19.6947366,
-        "latitude": 46.1015087
-    },
-    {
-        "id": "_12",
-        "label": "SUT",
-        "longitude": 19.6912095,
-        "latitude": 46.1010102
-    },
-    {
-        "id": "_13",
-        "label": "Partizan",
-        "longitude": 19.6861267,
-        "latitude": 46.1000487
-    },
-    {
-        "id": "_14",
-        "label": "SUP",
-        "longitude": 19.6805424,
-        "latitude": 46.0999929
-    },
-    {
-        "id": "_15",
-        "label": "Teretna stanica",
-        "longitude": 19.6753442,
-        "latitude": 46.1001938
-    },
-    {
-        "id": "_16",
-        "label": "Patrija",
-        "longitude": 19.6691376,
-        "latitude": 46.0993829
-    },
-    {
-        "id": "_17",
-        "label": "Pošta",
-        "longitude": 19.6643391,
-        "latitude": 46.0973891
-    },
-    {
-        "id": "_18",
-        "label": "Matije Gupca",
-        "longitude": 19.6624347,
-        "latitude": 46.0973482
-    },
-    {
-        "id": "_19",
-        "label": "Lifka",
-        "longitude": 19.6598974,
-        "latitude": 46.0985534
-    },
-    {
-        "id": "_20",
-        "label": "Sarvaš",
-        "longitude": 19.6567351,
-        "latitude": 46.09666
-    },
-    {
-        "id": "_21",
-        "label": "Drvena ambulanta",
-        "longitude": 19.6537954,
-        "latitude": 46.094852
-    },
-    {
-        "id": "_22",
-        "label": "Gajeva",
-        "longitude": 19.6510112,
-        "latitude": 46.093204
-    },
-    {
-        "id": "_23",
-        "label": "Slavica",
-        "longitude": 19.6486804,
-        "latitude": 46.0918145
-    },
-    {
-        "id": "_24",
-        "label": "Dom",
-        "longitude": 19.6441716,
-        "latitude": 46.0886504
-    },
-    {
-        "id": "_25",
-        "label": "Mali Bajmok",
-        "longitude": 19.6404272,
-        "latitude": 46.0860348
-    },
-    {
-        "id": "_26",
-        "label": "Dunkermotoren",
-        "longitude": 19.6355778,
-        "latitude": 46.0800964
-    },
-    {
-        "id": "_27",
-        "label": "Calzedonia",
-        "longitude": 19.6325201,
-        "latitude": 46.0779865
-    },
-    {
-        "id": "_28",
-        "label": "Swarovski",
-        "longitude": 19.6361303,
-        "latitude": 46.0751955
-    }
-]
+{
+    "direction_a": [
+        {
+            "id": "__",
+            "label": "Vikend naselje",
+            "longitude": 19.7683096,
+            "latitude": 46.0883081
+        },
+        {
+            "id": "__",
+            "label": "Štrand",
+            "longitude": 19.7672018,
+            "latitude": 46.0938458
+        },
+        {
+            "id": "__",
+            "label": "Lovranska",
+            "longitude": 19.7646376,
+            "latitude": 46.0995168
+        },
+        {
+            "id": "__",
+            "label": "Palić centar",
+            "longitude": 19.7607109,
+            "latitude": 46.1022953
+        },
+        {
+            "id": "__",
+            "label": "Palić Toranj",
+            "longitude": 19.7580528,
+            "latitude": 46.1023288
+        },
+        {
+            "id": "__",
+            "label": "ZOO vrt",
+            "longitude": 19.7516933,
+            "latitude": 46.1031006
+        },
+        {
+            "id": "__",
+            "label": "Benzinska pumpa",
+            "longitude": 19.7425282,
+            "latitude": 46.1039226
+        },
+        {
+            "id": "__",
+            "label": "Radanovac",
+            "longitude": 19.7274864,
+            "latitude": 46.1051519
+        },
+        {
+            "id": "__",
+            "label": "Kasarna",
+            "longitude": 19.7131607,
+            "latitude": 46.1035935
+        },
+        {
+            "id": "__",
+            "label": "Autometal",
+            "longitude": 19.6998274,
+            "latitude": 46.1020722
+        },
+        {
+            "id": "__",
+            "label": "Subotica-trans",
+            "longitude": 19.6947366,
+            "latitude": 46.1015087
+        },
+        {
+            "id": "__",
+            "label": "SUT",
+            "longitude": 19.6912095,
+            "latitude": 46.1010102
+        },
+        {
+            "id": "__",
+            "label": "Partizan",
+            "longitude": 19.6861267,
+            "latitude": 46.1000487
+        },
+        {
+            "id": "__",
+            "label": "SUP",
+            "longitude": 19.6805424,
+            "latitude": 46.0999929
+        },
+        {
+            "id": "__",
+            "label": "Teretna stanica",
+            "longitude": 19.6753442,
+            "latitude": 46.1001938
+        },
+        {
+            "id": "__",
+            "label": "Patrija",
+            "longitude": 19.6691376,
+            "latitude": 46.0993829
+        },
+        {
+            "id": "__",
+            "label": "Pošta",
+            "longitude": 19.6643391,
+            "latitude": 46.0973891
+        },
+        {
+            "id": "__",
+            "label": "Matije Gupca",
+            "longitude": 19.6624347,
+            "latitude": 46.0973482
+        },
+        {
+            "id": "__",
+            "label": "Lifka",
+            "longitude": 19.6598974,
+            "latitude": 46.0985534
+        },
+        {
+            "id": "__",
+            "label": "Sarvaš",
+            "longitude": 19.6567351,
+            "latitude": 46.09666
+        },
+        {
+            "id": "__",
+            "label": "Drvena ambulanta",
+            "longitude": 19.6537954,
+            "latitude": 46.094852
+        },
+        {
+            "id": "__",
+            "label": "Gajeva",
+            "longitude": 19.6510112,
+            "latitude": 46.093204
+        },
+        {
+            "id": "__",
+            "label": "Slavica",
+            "longitude": 19.6486804,
+            "latitude": 46.0918145
+        },
+        {
+            "id": "__",
+            "label": "Dom",
+            "longitude": 19.6441716,
+            "latitude": 46.0886504
+        },
+        {
+            "id": "__",
+            "label": "Mali Bajmok",
+            "longitude": 19.6404272,
+            "latitude": 46.0860348
+        },
+        {
+            "id": "__",
+            "label": "Dunkermotoren",
+            "longitude": 19.6355778,
+            "latitude": 46.0800964
+        },
+        {
+            "id": "__",
+            "label": "Calzedonia",
+            "longitude": 19.6325201,
+            "latitude": 46.0779865
+        },
+        {
+            "id": "__",
+            "label": "Swarovski",
+            "longitude": 19.6361303,
+            "latitude": 46.0751955
+        }
+    ],
+    "direction_b": [
+        {
+            "id": "__",
+            "label": "Vikend naselje",
+            "longitude": 19.7683096,
+            "latitude": 46.0883081
+        },
+        {
+            "id": "__",
+            "label": "Štrand",
+            "longitude": 19.7672018,
+            "latitude": 46.0938458
+        },
+        {
+            "id": "__",
+            "label": "Lovranska",
+            "longitude": 19.7646376,
+            "latitude": 46.0995168
+        },
+        {
+            "id": "__",
+            "label": "Palić centar",
+            "longitude": 19.7607109,
+            "latitude": 46.1022953
+        },
+        {
+            "id": "__",
+            "label": "Palić Toranj",
+            "longitude": 19.7580528,
+            "latitude": 46.1023288
+        },
+        {
+            "id": "__",
+            "label": "ZOO vrt",
+            "longitude": 19.7516933,
+            "latitude": 46.1031006
+        },
+        {
+            "id": "__",
+            "label": "Benzinska pumpa",
+            "longitude": 19.7425282,
+            "latitude": 46.1039226
+        },
+        {
+            "id": "__",
+            "label": "Radanovac",
+            "longitude": 19.7274864,
+            "latitude": 46.1051519
+        },
+        {
+            "id": "__",
+            "label": "Kasarna",
+            "longitude": 19.7131607,
+            "latitude": 46.1035935
+        },
+        {
+            "id": "__",
+            "label": "Autometal",
+            "longitude": 19.6998274,
+            "latitude": 46.1020722
+        },
+        {
+            "id": "__",
+            "label": "Subotica-trans",
+            "longitude": 19.6947366,
+            "latitude": 46.1015087
+        },
+        {
+            "id": "__",
+            "label": "SUT",
+            "longitude": 19.6912095,
+            "latitude": 46.1010102
+        },
+        {
+            "id": "__",
+            "label": "Partizan",
+            "longitude": 19.6861267,
+            "latitude": 46.1000487
+        },
+        {
+            "id": "__",
+            "label": "SUP",
+            "longitude": 19.6805424,
+            "latitude": 46.0999929
+        },
+        {
+            "id": "__",
+            "label": "Teretna stanica",
+            "longitude": 19.6753442,
+            "latitude": 46.1001938
+        },
+        {
+            "id": "__",
+            "label": "Patrija",
+            "longitude": 19.6691376,
+            "latitude": 46.0993829
+        },
+        {
+            "id": "__",
+            "label": "Pošta",
+            "longitude": 19.6643391,
+            "latitude": 46.0973891
+        },
+        {
+            "id": "__",
+            "label": "Matije Gupca",
+            "longitude": 19.6624347,
+            "latitude": 46.0973482
+        },
+        {
+            "id": "__",
+            "label": "Lifka",
+            "longitude": 19.6598974,
+            "latitude": 46.0985534
+        },
+        {
+            "id": "__",
+            "label": "Sarvaš",
+            "longitude": 19.6567351,
+            "latitude": 46.09666
+        },
+        {
+            "id": "__",
+            "label": "Drvena ambulanta",
+            "longitude": 19.6537954,
+            "latitude": 46.094852
+        },
+        {
+            "id": "__",
+            "label": "Gajeva",
+            "longitude": 19.6510112,
+            "latitude": 46.093204
+        },
+        {
+            "id": "__",
+            "label": "Slavica",
+            "longitude": 19.6486804,
+            "latitude": 46.0918145
+        },
+        {
+            "id": "__",
+            "label": "Dom",
+            "longitude": 19.6441716,
+            "latitude": 46.0886504
+        },
+        {
+            "id": "__",
+            "label": "Mali Bajmok",
+            "longitude": 19.6404272,
+            "latitude": 46.0860348
+        },
+        {
+            "id": "__",
+            "label": "Dunkermotoren",
+            "longitude": 19.6355778,
+            "latitude": 46.0800964
+        },
+        {
+            "id": "__",
+            "label": "Calzedonia",
+            "longitude": 19.6325201,
+            "latitude": 46.0779865
+        },
+        {
+            "id": "__",
+            "label": "Swarovski",
+            "longitude": 19.6361303,
+            "latitude": 46.0751955
+        }
+    ]
+}

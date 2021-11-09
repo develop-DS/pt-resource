@@ -1,170 +1,342 @@
-[
-    {
-        "id": "_1",
-        "label": "Novo naselje okretnica",
-        "longitude": 19.6746147,
-        "latitude": 46.0663454
-    },
-    {
-        "id": "_2",
-        "label": "Petra Horvatskog",
-        "longitude": 19.67094,
-        "latitude": 46.0653516
-    },
-    {
-        "id": "_3",
-        "label": "Josipa Šokčića",
-        "longitude": 19.668636,
-        "latitude": 46.0677858
-    },
-    {
-        "id": "_4",
-        "label": "Josipa Lihta",
-        "longitude": 19.6707657,
-        "latitude": 46.0692503
-    },
-    {
-        "id": "_5",
-        "label": "Pijaca Novo naselje",
-        "longitude": 19.6741265,
-        "latitude": 46.0714145
-    },
-    {
-        "id": "_6",
-        "label": "Dušana Krnjajskog",
-        "longitude": 19.6701944,
-        "latitude": 46.0758058
-    },
-    {
-        "id": "_7",
-        "label": "Pačirski put",
-        "longitude": 19.666678,
-        "latitude": 46.0783493
-    },
-    {
-        "id": "_8",
-        "label": "Bolnica",
-        "longitude": 19.6723804,
-        "latitude": 46.0825987
-    },
-    {
-        "id": "_9",
-        "label": "Bajnatska II",
-        "longitude": 19.6738744,
-        "latitude": 46.0839066
-    },
-    {
-        "id": "_10",
-        "label": "Bajnatska I",
-        "longitude": 19.6786943,
-        "latitude": 46.0856442
-    },
-    {
-        "id": "_11",
-        "label": "Senćansko groblje",
-        "longitude": 19.6838173,
-        "latitude": 46.0881463
-    },
-    {
-        "id": "_12",
-        "label": "Dinamotrans",
-        "longitude": 19.6805692,
-        "latitude": 46.0911319
-    },
-    {
-        "id": "_13",
-        "label": "Autobuska stanica Subotica",
-        "longitude": 19.6742231,
-        "latitude": 46.0947851
-    },
-    {
-        "id": "_14",
-        "label": "MEŠC",
-        "longitude": 19.6704519,
-        "latitude": 46.0988286
-    },
-    {
-        "id": "_15",
-        "label": "Jadran",
-        "longitude": 19.6690625,
-        "latitude": 46.1015589
-    },
-    {
-        "id": "_16",
-        "label": "Higjenski zavod",
-        "longitude": 19.6678823,
-        "latitude": 46.1039654
-    },
-    {
-        "id": "_17",
-        "label": "Arsenija Čarnojevića",
-        "longitude": 19.664492,
-        "latitude": 46.1034149
-    },
-    {
-        "id": "_18",
-        "label": "Sinagoga",
-        "longitude": 19.6603453,
-        "latitude": 46.1013469
-    },
-    {
-        "id": "_19",
-        "label": "Lifka",
-        "longitude": 19.6600208,
-        "latitude": 46.0984399
-    },
-    {
-        "id": "_20",
-        "label": "Preradovićeva",
-        "longitude": 19.6569443,
-        "latitude": 46.0974132
-    },
-    {
-        "id": "_21",
-        "label": "Sadecki",
-        "longitude": 19.6535352,
-        "latitude": 46.1000822
-    },
-    {
-        "id": "_22",
-        "label": "Zdravstvena stanica",
-        "longitude": 19.6481064,
-        "latitude": 46.1040621
-    },
-    {
-        "id": "_23",
-        "label": "Škola Sečenji Ištvan",
-        "longitude": 19.6439999,
-        "latitude": 46.1070152
-    },
-    {
-        "id": "_24",
-        "label": "Zorka pruga",
-        "longitude": 19.6381152,
-        "latitude": 46.1108236
-    },
-    {
-        "id": "_25",
-        "label": "Zorka",
-        "longitude": 19.6326971,
-        "latitude": 46.1137206
-    },
-    {
-        "id": "_26",
-        "label": "Zorka okretnica",
-        "longitude": 19.6296448,
-        "latitude": 46.1155614
-    },
-    {
-        "id": "_27",
-        "label": "Veliki progon",
-        "longitude": 19.6225101,
-        "latitude": 46.118908
-    },
-    {
-        "id": "_28",
-        "label": "Kelebija opština",
-        "longitude": 19.6113762,
-        "latitude": 46.1241861
-    }
-]
+{
+    "direction_a": [
+        {
+            "id": "__",
+            "label": "Novo naselje okretnica",
+            "longitude": 19.6746147,
+            "latitude": 46.0663454
+        },
+        {
+            "id": "__",
+            "label": "Petra Horvatskog",
+            "longitude": 19.67094,
+            "latitude": 46.0653516
+        },
+        {
+            "id": "__",
+            "label": "Josipa Šokčića",
+            "longitude": 19.668636,
+            "latitude": 46.0677858
+        },
+        {
+            "id": "__",
+            "label": "Josipa Lihta",
+            "longitude": 19.6707657,
+            "latitude": 46.0692503
+        },
+        {
+            "id": "__",
+            "label": "Pijaca Novo naselje",
+            "longitude": 19.6741265,
+            "latitude": 46.0714145
+        },
+        {
+            "id": "__",
+            "label": "Dušana Krnjajskog",
+            "longitude": 19.6701944,
+            "latitude": 46.0758058
+        },
+        {
+            "id": "__",
+            "label": "Pačirski put",
+            "longitude": 19.666678,
+            "latitude": 46.0783493
+        },
+        {
+            "id": "__",
+            "label": "Bolnica",
+            "longitude": 19.6723804,
+            "latitude": 46.0825987
+        },
+        {
+            "id": "__",
+            "label": "Bajnatska II",
+            "longitude": 19.6738744,
+            "latitude": 46.0839066
+        },
+        {
+            "id": "__",
+            "label": "Bajnatska I",
+            "longitude": 19.6786943,
+            "latitude": 46.0856442
+        },
+        {
+            "id": "__",
+            "label": "Senćansko groblje",
+            "longitude": 19.6838173,
+            "latitude": 46.0881463
+        },
+        {
+            "id": "__",
+            "label": "Dinamotrans",
+            "longitude": 19.6805692,
+            "latitude": 46.0911319
+        },
+        {
+            "id": "__",
+            "label": "Autobuska stanica Subotica",
+            "longitude": 19.6742231,
+            "latitude": 46.0947851
+        },
+        {
+            "id": "__",
+            "label": "MEŠC",
+            "longitude": 19.6704519,
+            "latitude": 46.0988286
+        },
+        {
+            "id": "__",
+            "label": "Jadran",
+            "longitude": 19.6690625,
+            "latitude": 46.1015589
+        },
+        {
+            "id": "__",
+            "label": "Higjenski zavod",
+            "longitude": 19.6678823,
+            "latitude": 46.1039654
+        },
+        {
+            "id": "__",
+            "label": "Arsenija Čarnojevića",
+            "longitude": 19.664492,
+            "latitude": 46.1034149
+        },
+        {
+            "id": "__",
+            "label": "Sinagoga",
+            "longitude": 19.6603453,
+            "latitude": 46.1013469
+        },
+        {
+            "id": "__",
+            "label": "Lifka",
+            "longitude": 19.6600208,
+            "latitude": 46.0984399
+        },
+        {
+            "id": "__",
+            "label": "Preradovićeva",
+            "longitude": 19.6569443,
+            "latitude": 46.0974132
+        },
+        {
+            "id": "__",
+            "label": "Sadecki",
+            "longitude": 19.6535352,
+            "latitude": 46.1000822
+        },
+        {
+            "id": "__",
+            "label": "Zdravstvena stanica",
+            "longitude": 19.6481064,
+            "latitude": 46.1040621
+        },
+        {
+            "id": "__",
+            "label": "Škola Sečenji Ištvan",
+            "longitude": 19.6439999,
+            "latitude": 46.1070152
+        },
+        {
+            "id": "__",
+            "label": "Zorka pruga",
+            "longitude": 19.6381152,
+            "latitude": 46.1108236
+        },
+        {
+            "id": "__",
+            "label": "Zorka",
+            "longitude": 19.6326971,
+            "latitude": 46.1137206
+        },
+        {
+            "id": "__",
+            "label": "Zorka okretnica",
+            "longitude": 19.6296448,
+            "latitude": 46.1155614
+        },
+        {
+            "id": "__",
+            "label": "Veliki progon",
+            "longitude": 19.6225101,
+            "latitude": 46.118908
+        },
+        {
+            "id": "__",
+            "label": "Kelebija opština",
+            "longitude": 19.6113762,
+            "latitude": 46.1241861
+        }
+    ],
+    "direction_b": [
+        {
+            "id": "__",
+            "label": "Novo naselje okretnica",
+            "longitude": 19.6746147,
+            "latitude": 46.0663454
+        },
+        {
+            "id": "__",
+            "label": "Petra Horvatskog",
+            "longitude": 19.67094,
+            "latitude": 46.0653516
+        },
+        {
+            "id": "__",
+            "label": "Josipa Šokčića",
+            "longitude": 19.668636,
+            "latitude": 46.0677858
+        },
+        {
+            "id": "__",
+            "label": "Josipa Lihta",
+            "longitude": 19.6707657,
+            "latitude": 46.0692503
+        },
+        {
+            "id": "__",
+            "label": "Pijaca Novo naselje",
+            "longitude": 19.6741265,
+            "latitude": 46.0714145
+        },
+        {
+            "id": "__",
+            "label": "Dušana Krnjajskog",
+            "longitude": 19.6701944,
+            "latitude": 46.0758058
+        },
+        {
+            "id": "__",
+            "label": "Pačirski put",
+            "longitude": 19.666678,
+            "latitude": 46.0783493
+        },
+        {
+            "id": "__",
+            "label": "Bolnica",
+            "longitude": 19.6723804,
+            "latitude": 46.0825987
+        },
+        {
+            "id": "__",
+            "label": "Bajnatska II",
+            "longitude": 19.6738744,
+            "latitude": 46.0839066
+        },
+        {
+            "id": "__",
+            "label": "Bajnatska I",
+            "longitude": 19.6786943,
+            "latitude": 46.0856442
+        },
+        {
+            "id": "__",
+            "label": "Senćansko groblje",
+            "longitude": 19.6838173,
+            "latitude": 46.0881463
+        },
+        {
+            "id": "__",
+            "label": "Dinamotrans",
+            "longitude": 19.6805692,
+            "latitude": 46.0911319
+        },
+        {
+            "id": "__",
+            "label": "Autobuska stanica Subotica",
+            "longitude": 19.6742231,
+            "latitude": 46.0947851
+        },
+        {
+            "id": "__",
+            "label": "MEŠC",
+            "longitude": 19.6704519,
+            "latitude": 46.0988286
+        },
+        {
+            "id": "__",
+            "label": "Jadran",
+            "longitude": 19.6690625,
+            "latitude": 46.1015589
+        },
+        {
+            "id": "__",
+            "label": "Higjenski zavod",
+            "longitude": 19.6678823,
+            "latitude": 46.1039654
+        },
+        {
+            "id": "__",
+            "label": "Arsenija Čarnojevića",
+            "longitude": 19.664492,
+            "latitude": 46.1034149
+        },
+        {
+            "id": "__",
+            "label": "Sinagoga",
+            "longitude": 19.6603453,
+            "latitude": 46.1013469
+        },
+        {
+            "id": "__",
+            "label": "Lifka",
+            "longitude": 19.6600208,
+            "latitude": 46.0984399
+        },
+        {
+            "id": "__",
+            "label": "Preradovićeva",
+            "longitude": 19.6569443,
+            "latitude": 46.0974132
+        },
+        {
+            "id": "__",
+            "label": "Sadecki",
+            "longitude": 19.6535352,
+            "latitude": 46.1000822
+        },
+        {
+            "id": "__",
+            "label": "Zdravstvena stanica",
+            "longitude": 19.6481064,
+            "latitude": 46.1040621
+        },
+        {
+            "id": "__",
+            "label": "Škola Sečenji Ištvan",
+            "longitude": 19.6439999,
+            "latitude": 46.1070152
+        },
+        {
+            "id": "__",
+            "label": "Zorka pruga",
+            "longitude": 19.6381152,
+            "latitude": 46.1108236
+        },
+        {
+            "id": "__",
+            "label": "Zorka",
+            "longitude": 19.6326971,
+            "latitude": 46.1137206
+        },
+        {
+            "id": "__",
+            "label": "Zorka okretnica",
+            "longitude": 19.6296448,
+            "latitude": 46.1155614
+        },
+        {
+            "id": "__",
+            "label": "Veliki progon",
+            "longitude": 19.6225101,
+            "latitude": 46.118908
+        },
+        {
+            "id": "__",
+            "label": "Kelebija opština",
+            "longitude": 19.6113762,
+            "latitude": 46.1241861
+        }
+    ]
+}
