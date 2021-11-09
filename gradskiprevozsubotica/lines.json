@@ -1825,6 +1825,36 @@
         }
     },
     {
+        "id": "27",
+        "type": "BUS",
+        "title": "Subotica - Žednik - Tornjoš",
+        "info": [
+            "C - Cantavir",
+            "K - preko Klise",
+            "D - Dacki"
+        ],
+        "weekday": {
+            "starting_points_a": [
+                "05:50od C",
+                "13:00",
+                "19:30K, Đ"
+            ],
+            "starting_points_b": [
+                "06:10",
+                "14:10",
+                "20:30K, Đ"
+            ]
+        },
+        "saturday": {
+            "starting_points_a": [],
+            "starting_points_b": []
+        },
+        "sunday": {
+            "starting_points_a": [],
+            "starting_points_b": []
+        }
+    },
+    {
         "id": "28",
         "type": "BUS",
         "title": "Subotica - Ljutovo - D. Tavankut - G. Tavankut",
@@ -2024,36 +2054,6 @@
                 "13:20Đ",
                 "14:50",
                 "15:50do G"
-            ]
-        },
-        "saturday": {
-            "starting_points_a": [],
-            "starting_points_b": []
-        },
-        "sunday": {
-            "starting_points_a": [],
-            "starting_points_b": []
-        }
-    },
-    {
-        "id": "27",
-        "type": "BUS",
-        "title": "Subotica - Žednik - Tornjoš",
-        "info": [
-            "C - Cantavir",
-            "K - preko Klise",
-            "D - Dacki"
-        ],
-        "weekday": {
-            "starting_points_a": [
-                "05:50od C",
-                "13:00",
-                "19:30K, Đ"
-            ],
-            "starting_points_b": [
-                "06:10",
-                "14:10",
-                "20:30K, Đ"
             ]
         },
         "saturday": {
@@ -2302,6 +2302,38 @@
         }
     },
     {
+        "id": "51",
+        "type": "BUS",
+        "title": "Subotica – Horgos - Segedin",
+        "info": [
+            "Štampana verzija"
+        ],
+        "weekday": {
+            "starting_points_a": [
+                "07:35"
+            ],
+            "starting_points_b": [
+                "15:40"
+            ]
+        },
+        "saturday": {
+            "starting_points_a": [
+                "07:35"
+            ],
+            "starting_points_b": [
+                "15:40"
+            ]
+        },
+        "sunday": {
+            "starting_points_a": [
+                "07:35"
+            ],
+            "starting_points_b": [
+                "15:40"
+            ]
+        }
+    },
+    {
         "id": "54",
         "type": "BUS",
         "title": "Subotica - Senta - Bečej",
@@ -2441,6 +2473,40 @@
         }
     },
     {
+        "id": "75",
+        "type": "BUS",
+        "title": "Novi Sad - Srbobran - Bačka Topola - Subotica",
+        "info": [
+            "Đ - Samo za vreme trajanja školske godine"
+        ],
+        "weekday": {
+            "starting_points_a": [
+                "11:40Đ",
+                "20:00"
+            ],
+            "starting_points_b": [
+                "06:15Đ",
+                "11:45"
+            ]
+        },
+        "saturday": {
+            "starting_points_a": [
+                "20:00"
+            ],
+            "starting_points_b": [
+                "11:45"
+            ]
+        },
+        "sunday": {
+            "starting_points_a": [
+                "20:00"
+            ],
+            "starting_points_b": [
+                "11:45"
+            ]
+        }
+    },
+    {
         "id": "81",
         "type": "BUS",
         "title": "Subotica - Orom - Senta",
@@ -2494,72 +2560,6 @@
         "sunday": {
             "starting_points_a": [],
             "starting_points_b": []
-        }
-    },
-    {
-        "id": "75",
-        "type": "BUS",
-        "title": "Novi Sad - Srbobran - Bačka Topola - Subotica",
-        "info": [
-            "Đ - Samo za vreme trajanja školske godine"
-        ],
-        "weekday": {
-            "starting_points_a": [
-                "11:40Đ",
-                "20:00"
-            ],
-            "starting_points_b": [
-                "06:15Đ",
-                "11:45"
-            ]
-        },
-        "saturday": {
-            "starting_points_a": [
-                "20:00"
-            ],
-            "starting_points_b": [
-                "11:45"
-            ]
-        },
-        "sunday": {
-            "starting_points_a": [
-                "20:00"
-            ],
-            "starting_points_b": [
-                "11:45"
-            ]
-        }
-    },
-    {
-        "id": "51",
-        "type": "BUS",
-        "title": "Subotica – Horgos - Segedin",
-        "info": [
-            "Štampana verzija"
-        ],
-        "weekday": {
-            "starting_points_a": [
-                "07:35"
-            ],
-            "starting_points_b": [
-                "15:40"
-            ]
-        },
-        "saturday": {
-            "starting_points_a": [
-                "07:35"
-            ],
-            "starting_points_b": [
-                "15:40"
-            ]
-        },
-        "sunday": {
-            "starting_points_a": [
-                "07:35"
-            ],
-            "starting_points_b": [
-                "15:40"
-            ]
         }
     }
 ]
