@@ -1644,6 +1644,7 @@
                 "10:00",
                 "11:00",
                 "12:25Đ",
+                "14:55Đ",
                 "16:05",
                 "18:00",
                 "20:05",
@@ -1656,7 +1657,7 @@
         "type": "BUS",
         "title": "Subotica - Klisa - Dušanovo",
         "info": [
-            "D - Dački"
+            "Đ - Đački"
         ],
         "weekday": {
             "starting_points_a": [
@@ -1670,6 +1671,7 @@
                 "12:00",
                 "13:00",
                 "13:30",
+                "14:05Đ",
                 "14:30",
                 "15:10",
                 "15:30",
@@ -1743,7 +1745,7 @@
                 "17:20",
                 "18:15",
                 "19:15",
-                "20:35D"
+                "20:35Đ"
             ]
         }
     },
@@ -2417,34 +2419,16 @@
             "Đ - Đački polazak"
         ],
         "weekday": {
-            "starting_points_a": [
-                "07:00",
-                "14:15"
-            ],
-            "starting_points_b": [
-                "10:15",
-                "15:35"
-            ]
+            "starting_points_a": [],
+            "starting_points_b": []
         },
         "saturday": {
-            "starting_points_a": [
-                "07:00",
-                "14:15"
-            ],
-            "starting_points_b": [
-                "10:15",
-                "15:35"
-            ]
+            "starting_points_a": [],
+            "starting_points_b": []
         },
         "sunday": {
-            "starting_points_a": [
-                "07:00",
-                "14:15"
-            ],
-            "starting_points_b": [
-                "10:15",
-                "15:35"
-            ]
+            "starting_points_a": [],
+            "starting_points_b": []
         }
     },
     {
