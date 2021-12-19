@@ -230,10 +230,7 @@
         "id": "2",
         "type": "BUS",
         "title": "Srpski šor - Pačirski put (KTC)",
-        "info": [
-            "J - Jadran",
-            "M - Mešc"
-        ],
+        "info": ["J - Jadran", "M - Mešc"],
         "weekday": {
             "starting_points_a": [
                 "04:45od M",
@@ -571,10 +568,7 @@
         "id": "4",
         "type": "BUS",
         "title": "V. Radanovac - Lifka",
-        "info": [
-            "Đ - Đački",
-            "G - Garaža"
-        ],
+        "info": ["Đ - Đački", "G - Garaža"],
         "weekday": {
             "starting_points_a": [
                 "04:50",
@@ -644,10 +638,7 @@
         "id": "6",
         "type": "BUS",
         "title": "Mali Bajmok - Palić - Vikend naselje",
-        "info": [
-            "a - Do Calzedonie (Gordona)",
-            "G - saobraća do/od garaže"
-        ],
+        "info": ["a - Do Calzedonie (Gordona)", "G - saobraća do/od garaže"],
         "weekday": {
             "starting_points_a": [
                 "04:45od G",
@@ -916,36 +907,22 @@
         "info": [],
         "weekday": {
             "starting_points_a": [],
-            "starting_points_b": [
-                "00:45",
-                "02:15",
-                "02:50"
-            ]
+            "starting_points_b": ["00:45", "02:15", "02:50"]
         },
         "saturday": {
             "starting_points_a": [],
-            "starting_points_b": [
-                "23:15"
-            ]
+            "starting_points_b": ["23:15"]
         },
         "sunday": {
-            "starting_points_a": [
-                "00:00",
-                "01:30",
-                "02:30"
-            ],
-            "starting_points_b": [
-                "23:15"
-            ]
+            "starting_points_a": ["00:00", "01:30", "02:30"],
+            "starting_points_b": ["23:15"]
         }
     },
     {
         "id": "8",
         "type": "BUS",
         "title": "Ž.Naselje - Lifka - Aleksandrovo",
-        "info": [
-            "Su - samo subotom"
-        ],
+        "info": ["Su - samo subotom"],
         "weekday": {
             "starting_points_a": [
                 "05:05",
@@ -987,9 +964,7 @@
         "id": "8A",
         "type": "BUS",
         "title": "Lifka-Jadran-Železničko Naselje",
-        "info": [
-            "Su - samo subotom"
-        ],
+        "info": ["Su - samo subotom"],
         "weekday": {
             "starting_points_a": [
                 "08:35a",
@@ -1085,10 +1060,7 @@
         "title": "Srpski šor- Hala sportova - Sutrans - Sever",
         "info": [],
         "weekday": {
-            "starting_points_a": [
-                "06:20",
-                "07:25"
-            ],
+            "starting_points_a": ["06:20", "07:25"],
             "starting_points_b": []
         },
         "saturday": {
@@ -1097,10 +1069,7 @@
         },
         "sunday": {
             "starting_points_a": [],
-            "starting_points_b": [
-                "15:15",
-                "16:15"
-            ]
+            "starting_points_b": ["15:15", "16:15"]
         }
     },
     {
@@ -1109,22 +1078,16 @@
         "title": "Palić (naselje) - Radanovac - Lifka",
         "info": [],
         "weekday": {
-            "starting_points_a": [
-                "06:15"
-            ],
+            "starting_points_a": ["06:15"],
             "starting_points_b": []
         },
         "saturday": {
             "starting_points_a": [],
-            "starting_points_b": [
-                "14:05"
-            ]
+            "starting_points_b": ["14:05"]
         },
         "sunday": {
             "starting_points_a": [],
-            "starting_points_b": [
-                "14:05"
-            ]
+            "starting_points_b": ["14:05"]
         }
     },
     {
@@ -1386,11 +1349,7 @@
         "id": "19",
         "type": "BUS",
         "title": "Subotica - Stari Žednik - Novi Žednik",
-        "info": [
-            "SZ - Stari Zednik",
-            "C - Čerepeš",
-            "D - Dački"
-        ],
+        "info": ["SZ - Stari Zednik", "C - Čerepeš", "D - Dački"],
         "weekday": {
             "starting_points_a": [
                 "06:00",
@@ -1482,9 +1441,7 @@
         "id": "22",
         "type": "BUS",
         "title": "Subotica - Zorka - Kelebija",
-        "info": [
-            "-"
-        ],
+        "info": ["-"],
         "weekday": {
             "starting_points_a": [
                 "04:40",
@@ -1611,32 +1568,14 @@
                 "19:05",
                 "21:15"
             ],
-            "starting_points_b": [
-                "05:45",
-                "08:45",
-                "11:00",
-                "14:00"
-            ]
+            "starting_points_b": ["05:45", "08:45", "11:00", "14:00"]
         },
         "saturday": {
-            "starting_points_a": [
-                "07:50",
-                "10:00",
-                "13:00"
-            ],
-            "starting_points_b": [
-                "05:45",
-                "08:45",
-                "11:00",
-                "14:00"
-            ]
+            "starting_points_a": ["07:50", "10:00", "13:00"],
+            "starting_points_b": ["05:45", "08:45", "11:00", "14:00"]
         },
         "sunday": {
-            "starting_points_a": [
-                "07:50",
-                "10:00",
-                "13:00"
-            ],
+            "starting_points_a": ["07:50", "10:00", "13:00"],
             "starting_points_b": [
                 "05:30",
                 "07:00",
@@ -1656,9 +1595,7 @@
         "id": "25",
         "type": "BUS",
         "title": "Subotica - Klisa - Dušanovo",
-        "info": [
-            "Đ - Đački"
-        ],
+        "info": ["Đ - Đački"],
         "weekday": {
             "starting_points_a": [
                 "05:35",
@@ -1681,13 +1618,7 @@
                 "20:10",
                 "22:30"
             ],
-            "starting_points_b": [
-                "06:00",
-                "08:00",
-                "11:45",
-                "17:20",
-                "19:15"
-            ]
+            "starting_points_b": ["06:00", "08:00", "11:45", "17:20", "19:15"]
         },
         "saturday": {
             "starting_points_a": [
@@ -1753,10 +1684,7 @@
         "id": "26",
         "type": "BUS",
         "title": "Subotica - Mišićevo -Bajmok",
-        "info": [
-            "R - Rata",
-            "C - centar Bajmok"
-        ],
+        "info": ["R - Rata", "C - centar Bajmok"],
         "weekday": {
             "starting_points_a": [
                 "05:40R",
@@ -1877,17 +1805,9 @@
         "id": "27",
         "type": "BUS",
         "title": "Subotica - Žednik - Tornjoš",
-        "info": [
-            "C - Cantavir",
-            "K - preko Klise",
-            "D - Dacki"
-        ],
+        "info": ["C - Cantavir", "K - preko Klise", "D - Dacki"],
         "weekday": {
-            "starting_points_a": [
-                "05:50od C",
-                "13:00",
-                "19:30K, Đ"
-            ],
+            "starting_points_a": ["05:50od C", "13:00", "19:30K, Đ"],
             "starting_points_b": []
         },
         "saturday": {
@@ -1896,11 +1816,7 @@
         },
         "sunday": {
             "starting_points_a": [],
-            "starting_points_b": [
-                "06:10",
-                "14:10",
-                "20:30K, Đ"
-            ]
+            "starting_points_b": ["06:10", "14:10", "20:30K, Đ"]
         }
     },
     {
@@ -2008,11 +1924,7 @@
         "id": "30",
         "type": "BUS",
         "title": "Subotica - Stari Žednik - Đurđin",
-        "info": [
-            "M - Misicevo",
-            "NZ - Novi Zednik",
-            "D - Dački"
-        ],
+        "info": ["M - Misicevo", "NZ - Novi Zednik", "D - Dački"],
         "weekday": {
             "starting_points_a": [
                 "05:35",
@@ -2138,11 +2050,7 @@
                 "20:00BV, M",
                 "22:30BV do H"
             ],
-            "starting_points_b": [
-                "04:42BV, M",
-                "06:53BV, M",
-                "14:05BV, M"
-            ]
+            "starting_points_b": ["04:42BV, M", "06:53BV, M", "14:05BV, M"]
         },
         "saturday": {
             "starting_points_a": [
@@ -2185,11 +2093,7 @@
         "id": "44",
         "type": "BUS",
         "title": "Subotica - Bački Vinogradi - Male Pijace",
-        "info": [
-            "BV - Backi Vinograd",
-            "D - Dacki",
-            "* - ne ulazi u BV"
-        ],
+        "info": ["BV - Backi Vinograd", "D - Dacki", "* - ne ulazi u BV"],
         "weekday": {
             "starting_points_a": [
                 "05:30*",
@@ -2199,22 +2103,14 @@
                 "14:45",
                 "19:45Đ , Š"
             ],
-            "starting_points_b": [
-                "06:15"
-            ]
+            "starting_points_b": ["06:15"]
         },
         "saturday": {
-            "starting_points_a": [
-                "13:15"
-            ],
-            "starting_points_b": [
-                "06:15"
-            ]
+            "starting_points_a": ["13:15"],
+            "starting_points_b": ["06:15"]
         },
         "sunday": {
-            "starting_points_a": [
-                "13:15"
-            ],
+            "starting_points_a": ["13:15"],
             "starting_points_b": [
                 "04:40",
                 "06:00",
@@ -2231,10 +2127,7 @@
         "id": "48",
         "type": "BUS",
         "title": "Subotica - Bikovo - Orom (Novo Selo)",
-        "info": [
-            "B - Bikovo",
-            "G - Gabric"
-        ],
+        "info": ["B - Bikovo", "G - Gabric"],
         "weekday": {
             "starting_points_a": [
                 "05:20",
@@ -2297,10 +2190,7 @@
         "id": "49",
         "type": "BUS",
         "title": "Subotica - Horgoš - Novi Kneževac",
-        "info": [
-            "BV - Bački Vinogradi",
-            "M - Martonoš"
-        ],
+        "info": ["BV - Bački Vinogradi", "M - Martonoš"],
         "weekday": {
             "starting_points_a": [
                 "04:40",
@@ -2310,12 +2200,7 @@
                 "15:10BV, M",
                 "19:20M"
             ],
-            "starting_points_b": [
-                "11:30BV",
-                "12:50BV",
-                "17:50BV, M",
-                "20:40BV"
-            ]
+            "starting_points_b": ["11:30BV", "12:50BV", "17:50BV, M", "20:40BV"]
         },
         "saturday": {
             "starting_points_a": [
@@ -2324,20 +2209,10 @@
                 "16:30BV",
                 "19:20BV, M"
             ],
-            "starting_points_b": [
-                "11:30BV",
-                "12:50BV",
-                "17:50BV, M",
-                "20:40BV"
-            ]
+            "starting_points_b": ["11:30BV", "12:50BV", "17:50BV, M", "20:40BV"]
         },
         "sunday": {
-            "starting_points_a": [
-                "10:00BV",
-                "11:40",
-                "16:30BV",
-                "19:20BV, M"
-            ],
+            "starting_points_a": ["10:00BV", "11:40", "16:30BV", "19:20BV, M"],
             "starting_points_b": [
                 "05:45od M",
                 "05:50",
@@ -2354,81 +2229,52 @@
         "title": "Subotica – Horgos - Segedin",
         "info": [],
         "weekday": {
-            "starting_points_a": [
-                "07:35"
-            ],
-            "starting_points_b": [
-                "15:40"
-            ]
+            "starting_points_a": ["07:35"],
+            "starting_points_b": ["15:40"]
         },
         "saturday": {
-            "starting_points_a": [
-                "07:35"
-            ],
-            "starting_points_b": [
-                "15:40"
-            ]
+            "starting_points_a": ["07:35"],
+            "starting_points_b": ["15:40"]
         },
         "sunday": {
-            "starting_points_a": [
-                "07:35"
-            ],
-            "starting_points_b": [
-                "15:40"
-            ]
+            "starting_points_a": ["07:35"],
+            "starting_points_b": ["15:40"]
         }
     },
     {
         "id": "54",
         "type": "BUS",
         "title": "Subotica - Senta - Bečej",
-        "info": [
-            "BV - Backi Vinogradi",
-            "M - Martonos"
-        ],
+        "info": ["BV - Backi Vinogradi", "M - Martonos"],
         "weekday": {
-            "starting_points_a": [
-                "14:15"
-            ],
-            "starting_points_b": [
-                "16:50"
-            ]
+            "starting_points_a": ["14:15"],
+            "starting_points_b": ["16:50"]
         },
         "saturday": {
-            "starting_points_a": [
-                "14:15BVM"
-            ],
-            "starting_points_b": [
-                "16:50"
-            ]
+            "starting_points_a": ["14:15BVM"],
+            "starting_points_b": ["16:50"]
         },
         "sunday": {
-            "starting_points_a": [
-                "14:15BVM"
-            ],
-            "starting_points_b": [
-                "16:50"
-            ]
+            "starting_points_a": ["14:15BVM"],
+            "starting_points_b": ["16:50"]
         }
     },
     {
         "id": "58",
         "type": "BUS",
         "title": "Subotica - Bajmok - Sombor",
-        "info": [
-            "Đ - Đački polazak"
-        ],
+        "info": ["Đ - Đački polazak"],
         "weekday": {
-            "starting_points_a": [],
-            "starting_points_b": []
+            "starting_points_a": ["07:00", "14:15"],
+            "starting_points_b": ["10:15", "15:35"]
         },
         "saturday": {
-            "starting_points_a": [],
-            "starting_points_b": []
+            "starting_points_a": ["07:00", "14:15"],
+            "starting_points_b": ["10:15", "15:35"]
         },
         "sunday": {
-            "starting_points_a": [],
-            "starting_points_b": []
+            "starting_points_a": ["07:00", "14:15"],
+            "starting_points_b": ["10:15", "15:35"]
         }
     },
     {
@@ -2437,9 +2283,7 @@
         "title": "Bačka Topola - Stara Moravica - Bajmok - Subotica",
         "info": [],
         "weekday": {
-            "starting_points_a": [
-                "07:15Đ"
-            ],
+            "starting_points_a": ["07:15Đ"],
             "starting_points_b": []
         },
         "saturday": {
@@ -2457,9 +2301,7 @@
         "title": "Subotica - Beograd",
         "info": [],
         "weekday": {
-            "starting_points_a": [
-                "06:15"
-            ],
+            "starting_points_a": ["06:15"],
             "starting_points_b": []
         },
         "saturday": {
@@ -2468,9 +2310,7 @@
         },
         "sunday": {
             "starting_points_a": [],
-            "starting_points_b": [
-                "15:00"
-            ]
+            "starting_points_b": ["15:00"]
         }
     },
     {
@@ -2488,43 +2328,25 @@
         },
         "sunday": {
             "starting_points_a": [],
-            "starting_points_b": [
-                "16:29"
-            ]
+            "starting_points_b": ["16:29"]
         }
     },
     {
         "id": "75",
         "type": "BUS",
         "title": "Novi Sad - Srbobran - Bačka Topola - Subotica",
-        "info": [
-            "Đ - Samo za vreme trajanja školske godine"
-        ],
+        "info": ["Đ - Samo za vreme trajanja školske godine"],
         "weekday": {
-            "starting_points_a": [
-                "11:40Đ",
-                "20:00"
-            ],
-            "starting_points_b": [
-                "11:45"
-            ]
+            "starting_points_a": ["11:40Đ", "20:00"],
+            "starting_points_b": ["11:45"]
         },
         "saturday": {
-            "starting_points_a": [
-                "20:00"
-            ],
-            "starting_points_b": [
-                "11:45"
-            ]
+            "starting_points_a": ["20:00"],
+            "starting_points_b": ["11:45"]
         },
         "sunday": {
-            "starting_points_a": [
-                "20:00"
-            ],
-            "starting_points_b": [
-                "06:15Đ",
-                "11:45"
-            ]
+            "starting_points_a": ["20:00"],
+            "starting_points_b": ["06:15Đ", "11:45"]
         }
     },
     {
@@ -2533,11 +2355,7 @@
         "title": "Subotica - Orom - Senta",
         "info": [],
         "weekday": {
-            "starting_points_a": [
-                "05:20Đ",
-                "11:30Đ",
-                "16:20Đ"
-            ],
+            "starting_points_a": ["05:20Đ", "11:30Đ", "16:20Đ"],
             "starting_points_b": []
         },
         "saturday": {
@@ -2546,11 +2364,7 @@
         },
         "sunday": {
             "starting_points_a": [],
-            "starting_points_b": [
-                "11:25Đ",
-                "13:45Đ",
-                "19:40Đ"
-            ]
+            "starting_points_b": ["11:25Đ", "13:45Đ", "19:40Đ"]
         }
     },
     {
@@ -2559,11 +2373,7 @@
         "title": "Subotica - Stari Žednik - Bačka Topola",
         "info": [],
         "weekday": {
-            "starting_points_a": [
-                "06:15Đ",
-                "12:00Đ",
-                "21:15Đ"
-            ],
+            "starting_points_a": ["06:15Đ", "12:00Đ", "21:15Đ"],
             "starting_points_b": []
         },
         "saturday": {
@@ -2572,11 +2382,7 @@
         },
         "sunday": {
             "starting_points_a": [],
-            "starting_points_b": [
-                "05:30preko Bajmoka, Đ",
-                "13:10Đ",
-                "19:10Đ"
-            ]
+            "starting_points_b": ["05:30preko Bajmoka, Đ", "13:10Đ", "19:10Đ"]
         }
     }
 ]
