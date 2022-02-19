@@ -2419,16 +2419,34 @@
             "Đ - Đački polazak"
         ],
         "weekday": {
-            "starting_points_a": [],
-            "starting_points_b": []
+            "starting_points_a": [
+                "07:00",
+                "14:15"
+            ],
+            "starting_points_b": [
+                "10:15",
+                "15:35"
+            ]
         },
         "saturday": {
-            "starting_points_a": [],
-            "starting_points_b": []
+            "starting_points_a": [
+                "07:00",
+                "14:15"
+            ],
+            "starting_points_b": [
+                "10:15",
+                "15:35"
+            ]
         },
         "sunday": {
-            "starting_points_a": [],
-            "starting_points_b": []
+            "starting_points_a": [
+                "07:00",
+                "14:15"
+            ],
+            "starting_points_b": [
+                "10:15",
+                "15:35"
+            ]
         }
     },
     {
