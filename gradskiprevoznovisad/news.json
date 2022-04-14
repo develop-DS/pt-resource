@@ -1,10 +1,19 @@
 [
     {
-        "date": "01.04.2022",
-        "title": "Linije 11A, 11B – Izmena trase 04. i 05. aprila",
+        "date": "11.04.2022",
+        "title": "Linija 72 – Privremeno skraćenje trase od 11.04.",
         "sections": [
             {
-                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, 4. i 5. aprila 2022. godine privremeno će biti izmenjena trasa autobuskih linija broj 11A i 11B. Zbog izgradnje vodovodnog i kanalizacionog priključka u ulicama Jovana Cvijića i Jaše Ignjatovića, autobuski saobraćaj će se odvijati na sledeći način:\n\nLINIJA 11A\n\nOd raskrsnice ulica Marka Miljanova i Filipa Višnjića autobusi će saobraćati desno u Filipa Višnjića do Venizelosove ulice, levo u Venizelosovu ulicu, desno u Temerinsku ulicu do Partizanske ulice, levo u Partizansku ulicu, levo u Kisačku ulicu do Bulevara Jaše Tomića i dalje nastavljati redovnom trasom kretanja.\n\nLINIJA 11B\n\nOd raskrsnice ulica Bulevara Jaše Tomića i Kisačka autobusi će saobraćati levo u Kisačku ulicu, desno u Partizansku ulicu, desno u Temerinsku ulicu, levo u Venizelosovu ulicu, desno u Ulicu Filipa Višnjića do Ulice Marka Miljanova i dalje nastavljati redovnom trasom kretanja.\n\nNa izmenjenom delu trase koristiće se privremena stajališta u ulici Filipa Višnjića broj 11 i Filipa Višnjića-preko puta „TEXNIX-a“."
+                "text": "Od 11. 04. 2022. godine na liniji 72 Novi Sad-Paragovo skraćuje se trasa na polascima koji saobraćaju do raskrsnice Venac. Autobusi će od navedenog datuma saobraćati do i od okretnice Paragovo. Očekivano važenje izmene je do 10. 05. 2022. godine."
+            }
+        ]
+    },
+    {
+        "date": "11.04.2022",
+        "title": "Linije 3 i 13 – Izmena trase 12. i 13. 04.",
+        "sections": [
+            {
+                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, 12. i 13. aprila privremeno će biti izmenjene trase autobuskih linija broj 3 i 13. Zbog radova na postavljanju usporivača saobraćaja u Ulici Janka Čmelika, od Ulice Oblačića Rada do Ulice Orlovića Pavla, autobuski saobraćaj na navedenim linijama odvijaće se na sledeći način: \n\nLINIJA BROJ 3 \n\nSmer iz Petrovaradina \n\nOd raskrsnice ulica Kornelija Stankovića i Milenka Grčića autobusi će saobraćati pravo Ulicom Kornelija Stankovića do kružnog toka u raskrsnici Bulevara Evrope i Kornelija Stankovića, gde će se polukružno okretati i izdržavati vreme do narednog polaska na autobuskom stajalištu Ulica Kornelija Stankovića/Bulevar Evrope (stajalište linije broj 7A).\n\nSmer sa Detelinare \n\nAutobusi će kao polazno stajalište koristiti stajalište Ulica Kornelija Stankovića/Bulevar Evrope (stajalište linije broj 7A), odakle će saobraćati pravo Ulicom Kornelija Stankovića i dalje nastavljati redovnom trasom kretanja.\n\nLINIJA BROJ 13 \n\nSmer sa Univerziteta \n\nAutobusi će saobraćati Bulevarom Evrope do kružnog toka u raskrsnici Bulevara Evrope i Kornelija Stankovića; gde će se polukružno okretati i izdržavati vreme do narednog polaska na autobuskom stajalištu Bulevar Evrope/Bulevar vojvode Stepe.\n\nSmer sa Detelinare \n\nKao polazno stajalište koristiće se stajalište Bulevar Evrope/Bulevar vojvode Stepe, odakle će autobusi saobraćati pravo Bulevarom Evrope i dalje nastavljati redovnom trasom kretanja."
             }
         ]
     },
@@ -65,15 +74,6 @@
         "sections": [
             {
                 "text": "Autobusko stajalište Bulevar Evrope/Cara Dušana (kod “Galensovih” zgrada) linije broj 13 u smeru B od Univertizeta do Detelinare privremeno se ukida od 26. 01. 2022. Stajalište će ponovo biti u funkciji nakon završetka radova na pešačkim površinama."
-            }
-        ]
-    },
-    {
-        "date": "26.11.2021",
-        "title": "Linija 17 - Privremena izmena trase od 27.11.",
-        "sections": [
-            {
-                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, od 27. novembra 2021. do 20. marta 2022. godine privremeno će biti izmenjena trasa autobuske linije broj 17. Zbog radova na rekonstrukciji i izgradnji podvožnjaka u Kisačkoj uliciu, autobuski saobraćaj na liniji 17 odvijaće se na sledeći način:\n\nSmer od Tržnog centra „BIG“ \n\nOd raskrsnice Sentandrejski put/Partizanska ulica autobusi će skretati levo u Partizansku ulicu, desno u Temerinsku ulicu do Kisačke ulice i dalje nastavljati redovnom trasom kretanja.\n\nSmer iz Centra\n\nOd raskrsnice Bulevar oslobođenja/Bulevar Jaše Tomića autobusi će skretati levo na Bulevar Jaše Tomića, desno u Rumenačku ulicu, desno u Partizansku ulicu (pored „Merkura“), levo u Industrijsku (trasom linije broj 10 do „Mašinoremonta“) i dalje nastavljati do Tržnog centra „BIG“. \n\nNA IZMENJENOM DELU TRASE KORISTIĆE SE REDOVNA STAJALIŠTA DRUGIH LINIJA."
             }
         ]
     }
