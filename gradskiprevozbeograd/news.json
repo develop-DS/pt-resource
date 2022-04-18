@@ -1,6 +1,30 @@
 [
     {
         "date": "",
+        "title": "Režim rada linija javnog prevoza putnika za vreme uskršnjih i prvomajskih praznika (2022)",
+        "sections": [
+            {
+                "text": "ℹ️"
+            },
+            {
+                "text": "Na svim gradskim, prigradskim i lokalnim linijama u Beogradu, za vreme uskršnjih praznika primenjivaće se sledeći redovi vožnje:"
+            },
+            {
+                "text": "• Petak, Subota, Ponedeljak (22.04. / 23.04. / 25.04.2022) – primenjuje se red vožnje za subotu\n• Za Uskrs 24.04.2022. – primenjuje se red vožnje za nedelju"
+            },
+            {
+                "text": "Za vreme prvomajskih praznika na gradskim, prigradskim i lokalnim linijama u Beogradu primenjivaće se sledeći redovi vožnje:"
+            },
+            {
+                "text": "• Ponedeljak, Utorak, 02.05. / 03.05.2022. – primenjuje se red vožnje za subotu\n• 01.05.2022. – primenjuje se red vožnje za nedelju"
+            },
+            {
+                "text": "Napomena: Tokom predstojećih praznika, od Velikog petka, 22.04.2022., zaključno sa ponedeljkom, 25.04.2022., te od 01.05. do 03.05.2022. minibus linije (E1, E2, E6, E9) neće raditi."
+            }
+        ]
+    },
+    {
+        "date": "",
         "title": "Od 01.04.2022. uspostavlja se nova linija 64 (Zvezdara – Zeleno brdo – Šumice)",
         "sections": [
             {
@@ -94,19 +118,46 @@
     },
     {
         "date": "",
-        "title": "Operativna izmena na tramvajskim linijama: 11, 13 zbog prekida napajanja električnom energijom u zoni Mosta na Adi (od 07.04.2022)",
+        "title": "Izmene na linijama: 19, 22, 29, 83, E1, 29N zbog radova u ulici Cara Nikolaja II (od 16.04.2022)",
         "sections": [
             {
-                "text": "Izmena aktivna do: n/a"
+                "text": "Izmena aktivna do: 18.04.2022."
             },
             {
-                "text": "Zbog hitnih radova na popravci elektro mreže na Mostu na Adi, od četvrtka 07.04.2022. od 21:55 do završetka radova, operativno je izmenjen režim rada linija JGP-a, na sledeći način:"
+                "text": "Zbog radova na izgradnji toplovodnog priključka u ulici Cara Nikolaja II, u visini kućnog broj 1, koje će izvoditi JKP „Beogradske elektrane” u periodu od subote 16.04.2022. do 18.04.2022. ulica Cara Nikolaja II će biti jednosmerna u smeru ka Crvenom krstu, na delu od Čuburske ulice do raskrsnice sa ulicom Maksima Gorkog, pri čemu se menja režim rada linija JGP-a, na sledeći način:"
             },
             {
-                "text": "• Tramvaji sa linije 11 u oba smera saobraćaju: Karađorđeva – Zemunski put – Stari savski most – Zemunski put – Milentija Popovića – Bulevar Milutina Milankovića – Antifašističke borbe – Jurija Gagarina i dalje redovnom trasom\n• Tramvaji sa linije 13 u oba smera saobraćaju: Jurija Gagarina – Antifašističke borbe – Bulevar Milutina Milankovića – Milentija Popovića – Zemunski put – Stari savski most – Karađorđeva – Savska – Bulevar vojvode Mišića – Petlja Radnička i dalje redovnom trasom"
+                "text": "Subota, nedelja i ponedeljak (16.04. / 17.04. / 18.04.2022) celodnevno:"
             },
             {
-                "text": "Na izmenjenom delu trase tramvaji sa navedenih linija koriste sva postojeća stajališta."
+                "text": "Trolejbuski saobraćaj:"
+            },
+            {
+                "text": "• Ukidaju se trolejbuske linije: 19, 22, 29\n• Uspostavlja se lokalna trolejbuska linija 22L (Studentski trg – Trg Slavija)\n• Uspostavljaju se lokalne autobuske linije: 22A (Trg Slavija – Kruševačka), 29A (Trg Slavija – Medaković 3)"
+            },
+            {
+                "text": "Trasa privremenih linija 22A, 29A:"
+            },
+            {
+                "text": "• u smeru ka periferiji, vozila saobraćaju redovnim trasama trolejbuskih linija od Trga Slavija\n• u smeru ka Trgu Slavija, redovnim trasama trolejbuskih linija do ul. Cara Nikolaja II, zatim – Maksima Gorkog – Krunska – Baba Višnjina – Njegoševa – Kursulina – Makenzijeva i Trg Slavija"
+            },
+            {
+                "text": "Autobuski saobraćaj:"
+            },
+            {
+                "text": "• Vozila sa linija 21A (21) (Trga Slavija – Učiteljsko naselje), 83 (Crveni krst – Zemun /Bačka/), E1 u smeru ka Crvenom krstu, će saobraćati redovnom trasom; u smeru ka Trgu Slavija, izmenjenom trasom (kao i linije 22A, 29A): Cara Nikolaja II – Maksima Gorkog – Krunska – Baba Višnjina – Njegoševa – Kursulina – Makenzijeva i dalje redovnom trasom\n• Vozila sa noćne linije 29N u zoni radova, saobraćaće kao vozila sa dnevne linije 29A"
+            },
+            {
+                "text": "Privremeno se ukidaju stajališta:"
+            },
+            {
+                "text": "• „Novopazarska“ u smeru ka Trgu Slavija, za linije: 19, 21A (21), 22, 29, 83\n• „Petrinjska“ i „Konjarnik“ u oba smera za liniju 19"
+            },
+            {
+                "text": "Privremeno se uspostavlja stajalište za linije 21A (21), 22A, 29A, 83: u ul. Cara Nikolaja II, 15m ispred raskrsnice sa ul. Maksima Gorkog, u smeru ka Trgu Slavija, odnosno na ED stub ispred kućnog broja 33."
+            },
+            {
+                "text": "Na izmenjenim delovima trasa, vozila će koristiti postojeća stajališta linija JGP-a."
             }
         ]
     },
@@ -167,72 +218,6 @@
             },
             {
                 "text": "• Dražanj /Centar/ – stajalište u ulici Beogradska, ispred zelene kuće – objekta sa adresom Sarajevska broj 1\n• Dražanj /Trafo/ – stajalište u ulici Beogradska, ispred trafoa, preko puta kućnog broja 65, neposredno ispred zone raskrsnice sa lokalnom saobraćajnicom\n• Dražanj /Rampa/ – stajalište u ulici Beogradska, ispred pružnog prelaza, preko puta ED stuba broj 5 koji se nalazi 30 metara ispred ED stuba broj 4, gledano u smeru ka autoputu"
-            }
-        ]
-    },
-    {
-        "date": "",
-        "title": "Nova organizacija rada linija u zoni Železničke stanice /Beograd centar/ (od 15.03.2022)",
-        "sections": [
-            {
-                "text": "ℹ️"
-            },
-            {
-                "text": "Završetkom radova na izgradnji i modernizaciji pruge za velike brzine do 200 kilometara na sat, na relaciji Beograd /Centar/ – Stara Pazova – Novi Sad, planirani su i prvi polasci voza na ovoj relaciji. Iz „Srbija voz“ a.d. saopšteno je da su predviđene tri kategorije polazaka:"
-            },
-            {
-                "text": "• „Inter siti“ – koji će stajati samo u Železničkoj stanici „Novi Beograd“ i do Novog Sada saobraćati za 36 minuta, sa ukupno pet polazaka dnevno iz Beograda i Novog Sada\n• „Regio Ekspres“ – koji će se zaustavljati i u manjim mestima između železničkih stanica u Novom Sadu i Beogradu, sa prosečnim vremenom putovanja od 49 minuta i imati ukupno četiri polaska iz Beograda i Novog Sada\n• „Regio“ – koji će stajati na svim stanicama na ovoj trasi i putovati oko 57 minuta, sa po devet polazaka iz Beograda i Novog Sada."
-            },
-            {
-                "text": "Povećanjem broja polazaka i uvođenjem najviših standarda putovanja na relaciji između najveća dva grada u Srbiji, očekivano je i povećanje broja korisnika koji će gravitirati ka Železničkoj stanici Beograd /Centar/."
-            },
-            {
-                "text": "Usled svega navedenog, počev od utorka, 15.03.2022. primenjivaće se nova organizacija linija javnog gradskog prevoza putnika u zoni Železničke stanice “Beograd /Centar/”:"
-            },
-            {
-                "text": "• Linija 36 (Železnička stanica Beograd /Centar/ – Trg Slavija – Železnička stanica Beograd /Centar/)"
-            },
-            {
-                "text": "Kružna autobuska liniji 36 je uvedena kako bi železnička stanica „Beograd /Centar/“ bila povezana sa centralnom zonom grada, odakle putnici mogu da prelaze na linije javnog prevoza putnika ka svim delovima grada Beograda. Navedena linija saobraća u oba smera ulicama: Železnička stanica „Beograd /Centar/“, Gučevska, Bulevar kneza Aleksandra Karađorđevića, Dinarska, Franše D’Eperea, Karađorđev park, Trg Slavija, Kneza Miloša, Savski trg, Palata pravde, Mostar, Ortopedski zavod, Železnička stanica „Beograd /Centar/“."
-            },
-            {
-                "text": "Do sada je interval nailaska vozila na liniji 36 iznosio 20 minuta. Uvođenjem dodatnih vozila, od 15.03.2022. na liniji 36, interval nailaska vozila na terminusu Železnička stanica „Beograd /Centar/“ biće 10 minuta, čime se unapređuje kvalitet opsluge korisnika železničkog prevoza putnika."
-            },
-            {
-                "text": "• Linija 38L (Pogon „Kosmaj“ – Železnička stanica Beograd /Centar/)"
-            },
-            {
-                "text": "Dosadašnja autobuska linija broj 38L se od 15.03.2022. objedinjuje sa autobuskom linijom 38A. Linija 38L, u novom režimu, saobraćaće na relaciji Pogon „Kosmaj“ – Železnička stanica Beograd /Centar/, sledećom trasom: POGON “KOSMAJ” – Auto put Beograd-Niš – Vladimira Tomanovića – Vojislava Ilića – Ustanička – Jovana Subotića – Bulevar Stefana Provenčanog – Bulevar Franše D’Eperea – Mostarska petlja – Bulevar vojvode Putnika – Bulevar kneza Aleksandra Karađorđevića – Novoizgrađena saobraćajnica pored Železničke stanice Beograd /Centar/ – ŽELEZNIČKA STANICA “BEOGRAD /CENTAR/” – Dragana Mancea – Gučevska."
-            },
-            {
-                "text": "Linija 38L u novom režimu saobraćaja imaće interval nailaska vozila od 30 minuta, umesto 40 – 60 minuta koliko je iznosio interval na liniji broj 38A koja je do sada saobraćala od Pogona „Kosmaj“ do Železničke stanice „Beograd /Centar/“."
-            },
-            {
-                "text": "Linija 38A (Pogon “Kosmaj” · Žel.St. Beograd /Centar/ · Žel.St. Topčider) prestaje sa radom."
-            },
-            {
-                "text": "• Linija 34 nastavlja sa funkcionisanjem u dosadašnjem režimu saobraćaja, trasom: Topčidersko brdo /Senjak/, Vojislava Vučkovića, Vase Pelagića, Topčiderska zvezda, Ortopedski zavod, Železnička stanica „Beograd /Centar/“, Gučevska, Bulevar kneza Aleksandra Karađorđevića, Stadion Partizan, Pedagoška akademija, Bolnica „Dragiša Mišović“, Paje Adamovića, Banjica, Dedinje (Ortopedska bolnica), Miloja Đaka, Omladinska, Baje Pivljanina, Pivljanina Baje 1, Pivljanina Baje 2, Milana Blagojevića Španca, Pere Velimirovića."
-            },
-            {
-                "text": "Novo stajalište za trolejbuske linije broj 40, 41: Za korisnike trolejbuskih linija broj: 40, 41 koji gravitiraju ka Železničkoj stanici „Beograd /Centar/“, uspostavlja se novo stajalište u Bulevaru kneza Aleksandra Karađorđevića, u smeru ka centru grada, neposredno pre raskrsnice sa pristupnim putem do same železničke stanice."
-            }
-        ]
-    },
-    {
-        "date": "",
-        "title": "Novi režim rada autobuskih linija: 708, 709 od 10.03.2022.",
-        "sections": [
-            {
-                "text": "ℹ️"
-            },
-            {
-                "text": "Tehničkim prijemom završenih radova na izgradnji novog nadvožnjaka iznad pruge u naselju Zemun polje, u produžetku novoizgrađene ulice S10 između Kurirske ulice i Puta za Novi Sad i ukidanjem pružnog prelaza sa ulicom Jurija Rakitina, od četvrtak 10.03.2022. počev od 17 časova promenjene su trase linija javnog prevoza u naselju Zemun polje u skladu sa novom organizacijom saobraćaja i to:"
-            },
-            {
-                "text": "• Autobuska linija 708 (Novi Beograd /Blok 70A/ – Zemun Polje) će saobraćati iz ulice Kurirska preko novoizgrađenog nadvožnjaka u produžetku ulice S10 do Autoputa za Novi Sad, Autoputem za Novi Sad i dalje preko ulice Jurija Rakitina do Zemun Polja\n• Autobuska linija 709 (Zemun /Novi Grad/ – Zemun Polje) će saobraćati do naselja Školsko dobro u Zemun Polju, gde će vršiti promenu smera kretanja na privremenoj okretnici neposredno ispred zone nekadašnjeg pružnog prelaza, odakle će iz ulice Kurirska preko novoizgrađenog nadvožnjaka u produžetku ulice S10 do Autoputa za Novi Sad, Autoputem za Novi Sad i dalje preko ulice Jurija Rakitina saobraćati do Zemun polja. Takođe, ova linija će biti produžena i u delu TC „Zmaj“ za oko 500 metara, do zgrade novoizgrađene železničke stanice „Zemun“."
-            },
-            {
-                "text": "Novom organizacijom linija u naselju Zemun Polje i dalje je omogućena veza stanovnika naselja Plavi Horizonti i Školsko dobro sa Zemun Poljem preko novoizgrađenog nadvožnjaka u produžetku ulice S10, a takođe sa linijama BG Voz-a preko novoizgrađenih železničkih stanica „Zemun“, „Zemun Polje“ i „Kamendin“ (preko linije broj 709)."
             }
         ]
     },
@@ -322,7 +307,7 @@
         "title": "Izmena u režimu rada linija: 702, 703 zbog radova na izgradnji deonice brze pruge Beograd /Centar/ – Stara Pazova (od 10.10.2021)",
         "sections": [
             {
-                "text": "Izmena aktivna do: 15.04.2022."
+                "text": "Izmena aktivna do: 30.06.2022."
             },
             {
                 "text": "U sklopu izvođenja radova na rekonstrukciji pruge Beograd centar – Stara Pazova, doći će do zatvaranja prelaza puta preko pruge u naselju Batajnica, pri čemu neće biti moguć saobraćaj između Batajnice i naselja Šangaj, Busije i Ugrinovci, u periodu od nedelje 10.10.2021. od 08:00 časova do završetka radova."
