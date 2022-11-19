@@ -1,0 +1,282 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Ulica Ruža",
+      "longitude": 21.9412413325343,
+      "latitude": 43.3354939708712
+    },
+    {
+      "id": "_2",
+      "label": "Ulica Borova",
+      "longitude": 21.9402863732189,
+      "latitude": 43.3335520605168
+    },
+    {
+      "id": "_3",
+      "label": "Matejevački put",
+      "longitude": 21.9368914403974,
+      "latitude": 43.3317130252575
+    },
+    {
+      "id": "_4",
+      "label": "OŠ Miroslav Antić",
+      "longitude": 21.9370041569245,
+      "latitude": 43.3294256444278
+    },
+    {
+      "id": "_5",
+      "label": "Naselje Beverli hils",
+      "longitude": 21.9371775753819,
+      "latitude": 43.3262771920847
+    },
+    {
+      "id": "_6",
+      "label": "Most Medijana",
+      "longitude": 21.9373014096717,
+      "latitude": 43.3239123020265
+    },
+    {
+      "id": "_7",
+      "label": "Brikolaž",
+      "longitude": 21.9353957727462,
+      "latitude": 43.3212238033044
+    },
+    {
+      "id": "_8",
+      "label": "Magdon",
+      "longitude": 21.9311320131181,
+      "latitude": 43.323620762213
+    },
+    {
+      "id": "_9",
+      "label": "Pijaca Duvanište",
+      "longitude": 21.9281578218491,
+      "latitude": 43.323443362156
+    },
+    {
+      "id": "_10",
+      "label": "Branka Miljkovića",
+      "longitude": 21.9275463578047,
+      "latitude": 43.3216713798432
+    },
+    {
+      "id": "_11",
+      "label": "Đerdapska",
+      "longitude": 21.9289763647735,
+      "latitude": 43.3189141908035
+    },
+    {
+      "id": "_12",
+      "label": "Stonoteniski dom",
+      "longitude": 21.9284666439966,
+      "latitude": 43.3162141965226
+    },
+    {
+      "id": "_13",
+      "label": "Trošarina",
+      "longitude": 21.9274852357686,
+      "latitude": 43.312814092748
+    },
+    {
+      "id": "_14",
+      "label": "Ćele kula",
+      "longitude": 21.9264666732397,
+      "latitude": 43.3118231681998
+    },
+    {
+      "id": "_15",
+      "label": "Vojna bolnica",
+      "longitude": 21.9213768479601,
+      "latitude": 43.3133803024156
+    },
+    {
+      "id": "_16",
+      "label": "Medicinski fakultet",
+      "longitude": 21.9161983170636,
+      "latitude": 43.3156130588459
+    },
+    {
+      "id": "_17",
+      "label": "Gradska bolnica",
+      "longitude": 21.9105455040249,
+      "latitude": 43.3181428266918
+    },
+    {
+      "id": "_18",
+      "label": "Crveni pevac",
+      "longitude": 21.9052139193894,
+      "latitude": 43.3200864481009
+    },
+    {
+      "id": "_19",
+      "label": "Trg kralja Milana (Spomenik)",
+      "longitude": 21.8958302411904,
+      "latitude": 43.3210067072558
+    },
+    {
+      "id": "_20",
+      "label": "Ured",
+      "longitude": 21.8913006731576,
+      "latitude": 43.3193390516789
+    },
+    {
+      "id": "_21",
+      "label": "Obilićev venac",
+      "longitude": 21.8871998293522,
+      "latitude": 43.3159431330133
+    },
+    {
+      "id": "_22",
+      "label": "Bubanj (okretnica)",
+      "longitude": 21.8765261532678,
+      "latitude": 43.310991843099
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Bubanj (okretnica)",
+      "longitude": 21.8768459517539,
+      "latitude": 43.310942575319
+    },
+    {
+      "id": "_2",
+      "label": "Zmaja od Noćaja",
+      "longitude": 21.8773219517633,
+      "latitude": 43.3121505609612
+    },
+    {
+      "id": "_3",
+      "label": "Obilićev venac rampa",
+      "longitude": 21.8854535337685,
+      "latitude": 43.3157316584352
+    },
+    {
+      "id": "_4",
+      "label": "Obilićev venac (Šojka)",
+      "longitude": 21.8905609206792,
+      "latitude": 43.3159709488717
+    },
+    {
+      "id": "_5",
+      "label": "Trg kralja Aleksandra",
+      "longitude": 21.8918020230148,
+      "latitude": 43.3183845408261
+    },
+    {
+      "id": "_6",
+      "label": "Trg kralja Milana",
+      "longitude": 21.896946556276,
+      "latitude": 43.3207908920573
+    },
+    {
+      "id": "_7",
+      "label": "Dom Vojske Srbije",
+      "longitude": 21.902075639307,
+      "latitude": 43.3203003501236
+    },
+    {
+      "id": "_8",
+      "label": "Trg Radničkog saveta",
+      "longitude": 21.9077620562237,
+      "latitude": 43.3191588136655
+    },
+    {
+      "id": "_9",
+      "label": "Gradska bolnica",
+      "longitude": 21.911791328114,
+      "latitude": 43.3173623190023
+    },
+    {
+      "id": "_10",
+      "label": "ATD",
+      "longitude": 21.9171793923648,
+      "latitude": 43.3149426403545
+    },
+    {
+      "id": "_11",
+      "label": "Vojna bolnica",
+      "longitude": 21.9214618057625,
+      "latitude": 43.3131293655137
+    },
+    {
+      "id": "_12",
+      "label": "Ćele kula",
+      "longitude": 21.9260087788505,
+      "latitude": 43.311706262001
+    },
+    {
+      "id": "_13",
+      "label": "Trošarina",
+      "longitude": 21.9277604615192,
+      "latitude": 43.3127542428627
+    },
+    {
+      "id": "_14",
+      "label": "Stonoteniski dom",
+      "longitude": 21.9285338982986,
+      "latitude": 43.3157743604999
+    },
+    {
+      "id": "_15",
+      "label": "Đerdapska",
+      "longitude": 21.9291327643192,
+      "latitude": 43.3194674284189
+    },
+    {
+      "id": "_16",
+      "label": "Branka Miljkovića",
+      "longitude": 21.9271533949205,
+      "latitude": 43.3224217245617
+    },
+    {
+      "id": "_17",
+      "label": "Pijaca Duvanište",
+      "longitude": 21.9279683923148,
+      "latitude": 43.3231496442662
+    },
+    {
+      "id": "_18",
+      "label": "Magdon",
+      "longitude": 21.931079640083,
+      "latitude": 43.3234213497097
+    },
+    {
+      "id": "_19",
+      "label": "Brikolaž",
+      "longitude": 21.9346290133764,
+      "latitude": 43.321231888891
+    },
+    {
+      "id": "_20",
+      "label": "Most Medijana",
+      "longitude": 21.9375699673798,
+      "latitude": 43.323737260334
+    },
+    {
+      "id": "_21",
+      "label": "Zorana Radosavljevića Čupe",
+      "longitude": 21.9374086809834,
+      "latitude": 43.3268712120297
+    },
+    {
+      "id": "_22",
+      "label": "Matejevački put",
+      "longitude": 21.9372157426745,
+      "latitude": 43.331152250099
+    },
+    {
+      "id": "_23",
+      "label": "Ulica Borova",
+      "longitude": 21.9404445793466,
+      "latitude": 43.3330970662099
+    },
+    {
+      "id": "_24",
+      "label": "Ulica Ruža",
+      "longitude": 21.9412413325343,
+      "latitude": 43.3354939708712
+    }
+  ]
+}

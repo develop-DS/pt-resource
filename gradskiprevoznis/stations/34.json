@@ -1,0 +1,540 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Aerodrom",
+      "longitude": 21.8670415309307,
+      "latitude": 43.3379599552589
+    },
+    {
+      "id": "_2",
+      "label": "Vazduhoplovaca",
+      "longitude": 21.8653815320217,
+      "latitude": 43.3422880209702
+    },
+    {
+      "id": "_3",
+      "label": "Naselje Ratko Jović",
+      "longitude": 21.8678149706393,
+      "latitude": 43.3442751259294
+    },
+    {
+      "id": "_4",
+      "label": "Ratka Jovića",
+      "longitude": 21.8708891187239,
+      "latitude": 43.3419022257677
+    },
+    {
+      "id": "_5",
+      "label": "MIN",
+      "longitude": 21.8759274047295,
+      "latitude": 43.3380558835071
+    },
+    {
+      "id": "_6",
+      "label": "Tempo",
+      "longitude": 21.8784520193647,
+      "latitude": 43.3361010799998
+    },
+    {
+      "id": "_7",
+      "label": "DIN",
+      "longitude": 21.8823420736979,
+      "latitude": 43.3330734525927
+    },
+    {
+      "id": "_8",
+      "label": "Logor",
+      "longitude": 21.8868925225776,
+      "latitude": 43.3293582215928
+    },
+    {
+      "id": "_9",
+      "label": "Autobuska stanica",
+      "longitude": 21.8900510173565,
+      "latitude": 43.3237524972742
+    },
+    {
+      "id": "_10",
+      "label": "Ured",
+      "longitude": 21.8913006731576,
+      "latitude": 43.3193390516789
+    },
+    {
+      "id": "_11",
+      "label": "Feroks",
+      "longitude": 21.8841748009106,
+      "latitude": 43.316474327193
+    },
+    {
+      "id": "_12",
+      "label": "Atina",
+      "longitude": 21.8770016192153,
+      "latitude": 43.3148985817805
+    },
+    {
+      "id": "_13",
+      "label": "Vojvode Gojka",
+      "longitude": 21.8848534666615,
+      "latitude": 43.3149909646606
+    },
+    {
+      "id": "_14",
+      "label": "Čarnojevića",
+      "longitude": 21.8891377772142,
+      "latitude": 43.3125667604876
+    },
+    {
+      "id": "_15",
+      "label": "Staro groblje",
+      "longitude": 21.8933507720252,
+      "latitude": 43.3120243357851
+    },
+    {
+      "id": "_16",
+      "label": "Čačanska",
+      "longitude": 21.8953516714838,
+      "latitude": 43.3126207700789
+    },
+    {
+      "id": "_17",
+      "label": "Palilulska pijaca",
+      "longitude": 21.900094136842,
+      "latitude": 43.3122071663571
+    },
+    {
+      "id": "_18",
+      "label": "Tehnogas",
+      "longitude": 21.9058190498541,
+      "latitude": 43.3120430201106
+    },
+    {
+      "id": "_19",
+      "label": "Pivara",
+      "longitude": 21.9100945557148,
+      "latitude": 43.3119009635746
+    },
+    {
+      "id": "_20",
+      "label": "Gradska bolnica (Zetska)",
+      "longitude": 21.9106418601857,
+      "latitude": 43.3146979622359
+    },
+    {
+      "id": "_21",
+      "label": "ATD",
+      "longitude": 21.9171793923648,
+      "latitude": 43.3149426403545
+    },
+    {
+      "id": "_22",
+      "label": "Vojna bolnica",
+      "longitude": 21.9214618057625,
+      "latitude": 43.3131293655137
+    },
+    {
+      "id": "_23",
+      "label": "Ćele kula",
+      "longitude": 21.9260087788505,
+      "latitude": 43.311706262001
+    },
+    {
+      "id": "_24",
+      "label": "Trošarina",
+      "longitude": 21.9277604615192,
+      "latitude": 43.3127542428627
+    },
+    {
+      "id": "_25",
+      "label": "Stonoteniski dom",
+      "longitude": 21.9285338982986,
+      "latitude": 43.3157743604999
+    },
+    {
+      "id": "_26",
+      "label": "Đerdapska",
+      "longitude": 21.9291327643192,
+      "latitude": 43.3194674284189
+    },
+    {
+      "id": "_27",
+      "label": "Branka Miljkovića",
+      "longitude": 21.9271533949205,
+      "latitude": 43.3224217245617
+    },
+    {
+      "id": "_28",
+      "label": "Proleterska",
+      "longitude": 21.9253248238754,
+      "latitude": 43.3276810228596
+    },
+    {
+      "id": "_29",
+      "label": "RK Sinđelić",
+      "longitude": 21.9232359965706,
+      "latitude": 43.3294659022254
+    },
+    {
+      "id": "_30",
+      "label": "Radoja Domanovića",
+      "longitude": 21.9185732748094,
+      "latitude": 43.3293595197778
+    },
+    {
+      "id": "_31",
+      "label": "OŠ Njegoš",
+      "longitude": 21.9148849998747,
+      "latitude": 43.3292721404488
+    },
+    {
+      "id": "_32",
+      "label": "Niteks",
+      "longitude": 21.9113148264066,
+      "latitude": 43.3291656949749
+    },
+    {
+      "id": "_33",
+      "label": "Jagodin mala",
+      "longitude": 21.9043660328877,
+      "latitude": 43.3277357079095
+    },
+    {
+      "id": "_34",
+      "label": "Kasarna Knez Mihailo",
+      "longitude": 21.9019382499628,
+      "latitude": 43.3278269469821
+    },
+    {
+      "id": "_35",
+      "label": "Restoran Indeks",
+      "longitude": 21.8939692268889,
+      "latitude": 43.3311159332223
+    },
+    {
+      "id": "_36",
+      "label": "Tehnički fakulteti",
+      "longitude": 21.8909941835883,
+      "latitude": 43.3297205305338
+    },
+    {
+      "id": "_37",
+      "label": "Logor",
+      "longitude": 21.8875487349086,
+      "latitude": 43.3290344529612
+    },
+    {
+      "id": "_38",
+      "label": "DIN",
+      "longitude": 21.8817421640371,
+      "latitude": 43.3338828528293
+    },
+    {
+      "id": "_39",
+      "label": "Tempo",
+      "longitude": 21.8794126967102,
+      "latitude": 43.3356741926269
+    },
+    {
+      "id": "_40",
+      "label": "Jastrebac",
+      "longitude": 21.8762735658457,
+      "latitude": 43.3381144363934
+    },
+    {
+      "id": "_41",
+      "label": "Ratka Jovića",
+      "longitude": 21.8704178880915,
+      "latitude": 43.3425845578957
+    },
+    {
+      "id": "_42",
+      "label": "Naselje Ratko Jović",
+      "longitude": 21.8677831675292,
+      "latitude": 43.3446390398645
+    },
+    {
+      "id": "_43",
+      "label": "Vazduhoplovaca",
+      "longitude": 21.8649557956683,
+      "latitude": 43.3420121955754
+    },
+    {
+      "id": "_44",
+      "label": "Aerodrom",
+      "longitude": 21.8665450390801,
+      "latitude": 43.3379097182524
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Aerodrom",
+      "longitude": 21.8670415309307,
+      "latitude": 43.3379599552589
+    },
+    {
+      "id": "_2",
+      "label": "Vazduhoplovaca",
+      "longitude": 21.8653815320217,
+      "latitude": 43.3422880209702
+    },
+    {
+      "id": "_3",
+      "label": "Naselje Ratko Jović",
+      "longitude": 21.8678149706393,
+      "latitude": 43.3442751259294
+    },
+    {
+      "id": "_4",
+      "label": "Ratka Jovića",
+      "longitude": 21.8708891187239,
+      "latitude": 43.3419022257677
+    },
+    {
+      "id": "_5",
+      "label": "MIN",
+      "longitude": 21.8759274047295,
+      "latitude": 43.3380558835071
+    },
+    {
+      "id": "_6",
+      "label": "Tempo",
+      "longitude": 21.8784520193647,
+      "latitude": 43.3361010799998
+    },
+    {
+      "id": "_7",
+      "label": "DIN",
+      "longitude": 21.8823420736979,
+      "latitude": 43.3330734525927
+    },
+    {
+      "id": "_8",
+      "label": "Logor",
+      "longitude": 21.8868925225776,
+      "latitude": 43.3293582215928
+    },
+    {
+      "id": "_9",
+      "label": "Tehnički fakulteti",
+      "longitude": 21.8916327430412,
+      "latitude": 43.3298757721499
+    },
+    {
+      "id": "_10",
+      "label": "Nišauto",
+      "longitude": 21.8957754936259,
+      "latitude": 43.3313484100188
+    },
+    {
+      "id": "_11",
+      "label": "Jagodin mala",
+      "longitude": 21.9045325044132,
+      "latitude": 43.3276533715926
+    },
+    {
+      "id": "_12",
+      "label": "Niteks",
+      "longitude": 21.9120239224549,
+      "latitude": 43.3290880127093
+    },
+    {
+      "id": "_13",
+      "label": "OŠ Njegoš",
+      "longitude": 21.915038860654,
+      "latitude": 43.329171886428
+    },
+    {
+      "id": "_14",
+      "label": "Bojnička",
+      "longitude": 21.9185246546896,
+      "latitude": 43.3292428879816
+    },
+    {
+      "id": "_15",
+      "label": "RK Sinđelić",
+      "longitude": 21.9222547146257,
+      "latitude": 43.3293208102607
+    },
+    {
+      "id": "_16",
+      "label": "Proleterska",
+      "longitude": 21.9251702714642,
+      "latitude": 43.3280585516846
+    },
+    {
+      "id": "_17",
+      "label": "Branka Miljkovića",
+      "longitude": 21.9275463578047,
+      "latitude": 43.3216713798432
+    },
+    {
+      "id": "_18",
+      "label": "Đerdapska",
+      "longitude": 21.9289763647735,
+      "latitude": 43.3189141908035
+    },
+    {
+      "id": "_19",
+      "label": "Stonoteniski dom",
+      "longitude": 21.9284666439966,
+      "latitude": 43.3162141965226
+    },
+    {
+      "id": "_20",
+      "label": "Trošarina",
+      "longitude": 21.9274852357686,
+      "latitude": 43.312814092748
+    },
+    {
+      "id": "_21",
+      "label": "Ćele kula",
+      "longitude": 21.9264666732397,
+      "latitude": 43.3118231681998
+    },
+    {
+      "id": "_22",
+      "label": "Vojna bolnica",
+      "longitude": 21.9213768479601,
+      "latitude": 43.3133803024156
+    },
+    {
+      "id": "_23",
+      "label": "Medicinski fakultet",
+      "longitude": 21.9161983170636,
+      "latitude": 43.3156130588459
+    },
+    {
+      "id": "_24",
+      "label": "Zetska",
+      "longitude": 21.9103090740705,
+      "latitude": 43.3166792183234
+    },
+    {
+      "id": "_25",
+      "label": "Niskogradnja",
+      "longitude": 21.9092904557823,
+      "latitude": 43.3120424040796
+    },
+    {
+      "id": "_26",
+      "label": "Tehnogas",
+      "longitude": 21.9052662549086,
+      "latitude": 43.3121734344406
+    },
+    {
+      "id": "_27",
+      "label": "Palilulska pijaca",
+      "longitude": 21.9006660787382,
+      "latitude": 43.3120370177931
+    },
+    {
+      "id": "_28",
+      "label": "Čačanska",
+      "longitude": 21.8956940475904,
+      "latitude": 43.3127657117907
+    },
+    {
+      "id": "_29",
+      "label": "Staro groblje",
+      "longitude": 21.8927902896728,
+      "latitude": 43.3121367463919
+    },
+    {
+      "id": "_30",
+      "label": "Čarnojevića",
+      "longitude": 21.888719878665,
+      "latitude": 43.3128202683513
+    },
+    {
+      "id": "_31",
+      "label": "Vojvode Gojka",
+      "longitude": 21.8854709302871,
+      "latitude": 43.3147251195946
+    },
+    {
+      "id": "_32",
+      "label": "Kajmakčalanska",
+      "longitude": 21.8779599328826,
+      "latitude": 43.3136471563371
+    },
+    {
+      "id": "_33",
+      "label": "Železnička stanica",
+      "longitude": 21.8789426196503,
+      "latitude": 43.3156199887215
+    },
+    {
+      "id": "_34",
+      "label": "Pirotska rampa",
+      "longitude": 21.8830330327269,
+      "latitude": 43.3159538659189
+    },
+    {
+      "id": "_35",
+      "label": "Kičevo",
+      "longitude": 21.8872228608338,
+      "latitude": 43.3173526389032
+    },
+    {
+      "id": "_36",
+      "label": "Trg kralja Aleksandra",
+      "longitude": 21.8918020230148,
+      "latitude": 43.3183845408261
+    },
+    {
+      "id": "_37",
+      "label": "Autobuska stanica",
+      "longitude": 21.8902451533189,
+      "latitude": 43.3252218774593
+    },
+    {
+      "id": "_38",
+      "label": "Logor",
+      "longitude": 21.8875487349086,
+      "latitude": 43.3290344529612
+    },
+    {
+      "id": "_39",
+      "label": "DIN",
+      "longitude": 21.8817421640371,
+      "latitude": 43.3338828528293
+    },
+    {
+      "id": "_40",
+      "label": "Tempo",
+      "longitude": 21.8794126967102,
+      "latitude": 43.3356741926269
+    },
+    {
+      "id": "_41",
+      "label": "Jastrebac",
+      "longitude": 21.8762735658457,
+      "latitude": 43.3381144363934
+    },
+    {
+      "id": "_42",
+      "label": "Ratka Jovića",
+      "longitude": 21.8704178880915,
+      "latitude": 43.3425845578957
+    },
+    {
+      "id": "_43",
+      "label": "Naselje Ratko Jović",
+      "longitude": 21.8677831675292,
+      "latitude": 43.3446390398645
+    },
+    {
+      "id": "_44",
+      "label": "Vazduhoplovaca",
+      "longitude": 21.8649557956683,
+      "latitude": 43.3420121955754
+    },
+    {
+      "id": "_45",
+      "label": "Aerodrom",
+      "longitude": 21.8665450390801,
+      "latitude": 43.3379097182524
+    }
+  ]
+}

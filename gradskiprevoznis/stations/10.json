@@ -1,0 +1,246 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Naselje 9. maj (okretnica)",
+      "longitude": 21.8177673574126,
+      "latitude": 43.3165179758755
+    },
+    {
+      "id": "_2",
+      "label": "Naselje 9. maj (podvožnjak)",
+      "longitude": 21.8249867756568,
+      "latitude": 43.3172383289485
+    },
+    {
+      "id": "_3",
+      "label": "Naselje 9. maj (kružna raskrsnica)",
+      "longitude": 21.8282236452329,
+      "latitude": 43.3177369706904
+    },
+    {
+      "id": "_4",
+      "label": "KP Dom",
+      "longitude": 21.8342855254191,
+      "latitude": 43.3178188068295
+    },
+    {
+      "id": "_5",
+      "label": "Naselje Milka Protić",
+      "longitude": 21.8377030242698,
+      "latitude": 43.3174606849964
+    },
+    {
+      "id": "_6",
+      "label": "Metro",
+      "longitude": 21.8422264704442,
+      "latitude": 43.3170222836346
+    },
+    {
+      "id": "_7",
+      "label": "Veterinarski zavod",
+      "longitude": 21.8479503396612,
+      "latitude": 43.3163857453271
+    },
+    {
+      "id": "_8",
+      "label": "Ledena stena",
+      "longitude": 21.8578406594633,
+      "latitude": 43.3158976921897
+    },
+    {
+      "id": "_9",
+      "label": "Ledena stena",
+      "longitude": 21.8661689785356,
+      "latitude": 43.3151596048934
+    },
+    {
+      "id": "_10",
+      "label": "Žitopek",
+      "longitude": 21.869968326309,
+      "latitude": 43.3153197240548
+    },
+    {
+      "id": "_11",
+      "label": "Železnička stanica",
+      "longitude": 21.8789426196503,
+      "latitude": 43.3156199887215
+    },
+    {
+      "id": "_12",
+      "label": "Pirotska rampa",
+      "longitude": 21.8830330327269,
+      "latitude": 43.3159538659189
+    },
+    {
+      "id": "_13",
+      "label": "Kičevo",
+      "longitude": 21.8872228608338,
+      "latitude": 43.3173526389032
+    },
+    {
+      "id": "_14",
+      "label": "Trg kralja Aleksandra",
+      "longitude": 21.8918020230148,
+      "latitude": 43.3183845408261
+    },
+    {
+      "id": "_15",
+      "label": "Trg kralja Milana",
+      "longitude": 21.896946556276,
+      "latitude": 43.3207908920573
+    },
+    {
+      "id": "_16",
+      "label": "Dom Vojske Srbije",
+      "longitude": 21.902075639307,
+      "latitude": 43.3203003501236
+    },
+    {
+      "id": "_17",
+      "label": "Trg Radničkog saveta",
+      "longitude": 21.9077620562237,
+      "latitude": 43.3191588136655
+    },
+    {
+      "id": "_18",
+      "label": "Gradska bolnica",
+      "longitude": 21.911791328114,
+      "latitude": 43.3173623190023
+    },
+    {
+      "id": "_19",
+      "label": "ATD",
+      "longitude": 21.9171793923648,
+      "latitude": 43.3149426403545
+    },
+    {
+      "id": "_20",
+      "label": "Vojna bolnica",
+      "longitude": 21.9214618057625,
+      "latitude": 43.3131293655137
+    },
+    {
+      "id": "_21",
+      "label": "Ćele kula",
+      "longitude": 21.9260087788505,
+      "latitude": 43.311706262001
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Ćele kula",
+      "longitude": 21.9264666732397,
+      "latitude": 43.3118231681998
+    },
+    {
+      "id": "_2",
+      "label": "Vojna bolnica",
+      "longitude": 21.9213768479601,
+      "latitude": 43.3133803024156
+    },
+    {
+      "id": "_3",
+      "label": "Medicinski fakultet",
+      "longitude": 21.9161983170636,
+      "latitude": 43.3156130588459
+    },
+    {
+      "id": "_4",
+      "label": "Gradska bolnica",
+      "longitude": 21.9105455040249,
+      "latitude": 43.3181428266918
+    },
+    {
+      "id": "_5",
+      "label": "Crveni pevac",
+      "longitude": 21.9052139193894,
+      "latitude": 43.3200864481009
+    },
+    {
+      "id": "_6",
+      "label": "Trg kralja Milana (Spomenik)",
+      "longitude": 21.8958302411904,
+      "latitude": 43.3210067072558
+    },
+    {
+      "id": "_7",
+      "label": "Šivara",
+      "longitude": 21.8884782066108,
+      "latitude": 43.3197355494934
+    },
+    {
+      "id": "_8",
+      "label": "Feroks",
+      "longitude": 21.8841748009106,
+      "latitude": 43.316474327193
+    },
+    {
+      "id": "_9",
+      "label": "Železnička stanica (Glavna pošta)",
+      "longitude": 21.876359694241,
+      "latitude": 43.3156938763504
+    },
+    {
+      "id": "_10",
+      "label": "Žitopek",
+      "longitude": 21.8704436078558,
+      "latitude": 43.315451124882
+    },
+    {
+      "id": "_11",
+      "label": "Ledena stena",
+      "longitude": 21.8662988440398,
+      "latitude": 43.3152756422237
+    },
+    {
+      "id": "_12",
+      "label": "Ledena stena",
+      "longitude": 21.8589191790085,
+      "latitude": 43.3159705907125
+    },
+    {
+      "id": "_13",
+      "label": "Veterinarski zavod",
+      "longitude": 21.8473107545799,
+      "latitude": 43.3166695559194
+    },
+    {
+      "id": "_14",
+      "label": "Metro",
+      "longitude": 21.8419929040778,
+      "latitude": 43.3172490540917
+    },
+    {
+      "id": "_15",
+      "label": "Naselje Milka Protić",
+      "longitude": 21.8382375505519,
+      "latitude": 43.3176007862765
+    },
+    {
+      "id": "_16",
+      "label": "KP Dom",
+      "longitude": 21.8342857774254,
+      "latitude": 43.3180168451592
+    },
+    {
+      "id": "_17",
+      "label": "Naselje 9. maj (kružna raskrsnica)",
+      "longitude": 21.8284178418141,
+      "latitude": 43.31787418817
+    },
+    {
+      "id": "_18",
+      "label": "Naselje 9. maj (podvožnjak)",
+      "longitude": 21.8244274812185,
+      "latitude": 43.3172693795095
+    },
+    {
+      "id": "_19",
+      "label": "Naselje 9. maj (okretnica)",
+      "longitude": 21.8177673574126,
+      "latitude": 43.3165179758755
+    }
+  ]
+}

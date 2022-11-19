@@ -1,0 +1,150 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Železnička stanica",
+      "longitude": 21.8789426196503,
+      "latitude": 43.3156199887215
+    },
+    {
+      "id": "_2",
+      "label": "Pirotska rampa",
+      "longitude": 21.8830330327269,
+      "latitude": 43.3159538659189
+    },
+    {
+      "id": "_3",
+      "label": "Kičevo",
+      "longitude": 21.8872228608338,
+      "latitude": 43.3173526389032
+    },
+    {
+      "id": "_4",
+      "label": "Trg kralja Aleksandra",
+      "longitude": 21.8918020230148,
+      "latitude": 43.3183845408261
+    },
+    {
+      "id": "_5",
+      "label": "Trg kralja Milana",
+      "longitude": 21.896946556276,
+      "latitude": 43.3207908920573
+    },
+    {
+      "id": "_6",
+      "label": "Učiteljski dom",
+      "longitude": 21.9011773494645,
+      "latitude": 43.3215821077519
+    },
+    {
+      "id": "_7",
+      "label": "Most mladosti",
+      "longitude": 21.9029739853228,
+      "latitude": 43.3246699209814
+    },
+    {
+      "id": "_8",
+      "label": "Jagodin mala",
+      "longitude": 21.9045325044132,
+      "latitude": 43.3276533715926
+    },
+    {
+      "id": "_9",
+      "label": "Branko Mišić Kamenko",
+      "longitude": 21.9080450612548,
+      "latitude": 43.3315034349144
+    },
+    {
+      "id": "_10",
+      "label": "Crkva Sv. Pantelejmon",
+      "longitude": 21.9103609261058,
+      "latitude": 43.3343043349695
+    },
+    {
+      "id": "_11",
+      "label": "Vase Pelagića",
+      "longitude": 21.9161991428767,
+      "latitude": 43.3338309019154
+    },
+    {
+      "id": "_12",
+      "label": "Studenička",
+      "longitude": 21.9219774056354,
+      "latitude": 43.3352642341204
+    },
+    {
+      "id": "_13",
+      "label": "Despota Đurđa",
+      "longitude": 21.9268436293006,
+      "latitude": 43.3354228344196
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Despota Đurđa",
+      "longitude": 21.9268436293006,
+      "latitude": 43.3354228344196
+    },
+    {
+      "id": "_2",
+      "label": "Studenička",
+      "longitude": 21.9224229413482,
+      "latitude": 43.3355306854074
+    },
+    {
+      "id": "_3",
+      "label": "Vase Pelagića",
+      "longitude": 21.9188400625372,
+      "latitude": 43.3346090162375
+    },
+    {
+      "id": "_4",
+      "label": "Crkva Sv. Pantelejmon",
+      "longitude": 21.9098786081856,
+      "latitude": 43.3345422302211
+    },
+    {
+      "id": "_5",
+      "label": "Branko Mišić Kamenko",
+      "longitude": 21.907820971313,
+      "latitude": 43.3313611900677
+    },
+    {
+      "id": "_6",
+      "label": "Jagodin mala",
+      "longitude": 21.9043660328877,
+      "latitude": 43.3277357079095
+    },
+    {
+      "id": "_7",
+      "label": "Crveni soliter",
+      "longitude": 21.9017639532257,
+      "latitude": 43.3228935358884
+    },
+    {
+      "id": "_8",
+      "label": "Trg kralja Milana (Spomenik)",
+      "longitude": 21.8958302411904,
+      "latitude": 43.3210067072558
+    },
+    {
+      "id": "_9",
+      "label": "Šivara",
+      "longitude": 21.8884782066108,
+      "latitude": 43.3197355494934
+    },
+    {
+      "id": "_10",
+      "label": "Feroks",
+      "longitude": 21.8841748009106,
+      "latitude": 43.316474327193
+    },
+    {
+      "id": "_11",
+      "label": "Železnička stanica",
+      "longitude": 21.8783711280025,
+      "latitude": 43.3158278328142
+    }
+  ]
+}

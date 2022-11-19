@@ -1,0 +1,138 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Trg kralja Aleksandra",
+      "longitude": 21.8918020230148,
+      "latitude": 43.3183845408261
+    },
+    {
+      "id": "_2",
+      "label": "Trg kralja Milana",
+      "longitude": 21.896946556276,
+      "latitude": 43.3207908920573
+    },
+    {
+      "id": "_3",
+      "label": "Učiteljski dom",
+      "longitude": 21.9011773494645,
+      "latitude": 43.3215821077519
+    },
+    {
+      "id": "_4",
+      "label": "Vojvode Mišića",
+      "longitude": 21.9081578552616,
+      "latitude": 43.3241966761189
+    },
+    {
+      "id": "_5",
+      "label": "Niš ekspres",
+      "longitude": 21.9130317845184,
+      "latitude": 43.321973926178
+    },
+    {
+      "id": "_6",
+      "label": "Bulevarska pijaca",
+      "longitude": 21.9174450461534,
+      "latitude": 43.3199671170503
+    },
+    {
+      "id": "_7",
+      "label": "Zona 1",
+      "longitude": 21.9204083709856,
+      "latitude": 43.3186253780657
+    },
+    {
+      "id": "_8",
+      "label": "Zona 2",
+      "longitude": 21.9232073938186,
+      "latitude": 43.3173515054891
+    },
+    {
+      "id": "_9",
+      "label": "OŠ Ćele kula",
+      "longitude": 21.9270509317332,
+      "latitude": 43.3153777403687
+    },
+    {
+      "id": "_10",
+      "label": "Trošarina",
+      "longitude": 21.9274852357686,
+      "latitude": 43.312814092748
+    },
+    {
+      "id": "_11",
+      "label": "Ćele kula",
+      "longitude": 21.9264666732397,
+      "latitude": 43.3118231681998
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Ćele kula",
+      "longitude": 21.9260087788505,
+      "latitude": 43.311706262001
+    },
+    {
+      "id": "_2",
+      "label": "Trošarina",
+      "longitude": 21.9277604615192,
+      "latitude": 43.3127542428627
+    },
+    {
+      "id": "_3",
+      "label": "OŠ Ćele kula",
+      "longitude": 21.9274111432727,
+      "latitude": 43.3153928158463
+    },
+    {
+      "id": "_4",
+      "label": "Zona 2",
+      "longitude": 21.9225375456048,
+      "latitude": 43.3178934332385
+    },
+    {
+      "id": "_5",
+      "label": "Trg Svetog Save",
+      "longitude": 21.918998805739,
+      "latitude": 43.3194973168798
+    },
+    {
+      "id": "_6",
+      "label": "Bulevarska pijaca",
+      "longitude": 21.9161825536266,
+      "latitude": 43.3207856274588
+    },
+    {
+      "id": "_7",
+      "label": "Niš ekspres",
+      "longitude": 21.9121048219566,
+      "latitude": 43.3226456760903
+    },
+    {
+      "id": "_8",
+      "label": "Vojvode Mišića",
+      "longitude": 21.9083329012653,
+      "latitude": 43.3243591150672
+    },
+    {
+      "id": "_9",
+      "label": "Crveni soliter",
+      "longitude": 21.9017639532257,
+      "latitude": 43.3228935358884
+    },
+    {
+      "id": "_10",
+      "label": "Trg kralja Milana (Spomenik)",
+      "longitude": 21.8958302411904,
+      "latitude": 43.3210067072558
+    },
+    {
+      "id": "_11",
+      "label": "Ured",
+      "longitude": 21.8913006731576,
+      "latitude": 43.3193390516789
+    }
+  ]
+}

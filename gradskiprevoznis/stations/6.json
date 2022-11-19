@@ -1,0 +1,174 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Železnička stanica",
+      "longitude": 21.8789426196503,
+      "latitude": 43.3156199887215
+    },
+    {
+      "id": "_2",
+      "label": "Pirotska rampa",
+      "longitude": 21.8830330327269,
+      "latitude": 43.3159538659189
+    },
+    {
+      "id": "_3",
+      "label": "Kičevo",
+      "longitude": 21.8872228608338,
+      "latitude": 43.3173526389032
+    },
+    {
+      "id": "_4",
+      "label": "Trg kralja Aleksandra",
+      "longitude": 21.8918020230148,
+      "latitude": 43.3183845408261
+    },
+    {
+      "id": "_5",
+      "label": "Trg kralja Milana",
+      "longitude": 21.896946556276,
+      "latitude": 43.3207908920573
+    },
+    {
+      "id": "_6",
+      "label": "Učiteljski dom",
+      "longitude": 21.9011773494645,
+      "latitude": 43.3215821077519
+    },
+    {
+      "id": "_7",
+      "label": "Vojvode Mišića",
+      "longitude": 21.9081578552616,
+      "latitude": 43.3241966761189
+    },
+    {
+      "id": "_8",
+      "label": "Niš ekspres",
+      "longitude": 21.9130317845184,
+      "latitude": 43.321973926178
+    },
+    {
+      "id": "_9",
+      "label": "Bulevarska pijaca",
+      "longitude": 21.9174450461534,
+      "latitude": 43.3199671170503
+    },
+    {
+      "id": "_10",
+      "label": "Romanijska",
+      "longitude": 21.9205038613177,
+      "latitude": 43.3197210280894
+    },
+    {
+      "id": "_11",
+      "label": "TC Merkator",
+      "longitude": 21.9231384066655,
+      "latitude": 43.3214154811058
+    },
+    {
+      "id": "_12",
+      "label": "Branka Miljkovića",
+      "longitude": 21.9275463578047,
+      "latitude": 43.3216713798432
+    },
+    {
+      "id": "_13",
+      "label": "OŠ Dušana Radovića",
+      "longitude": 21.9299411990285,
+      "latitude": 43.3191223722684
+    },
+    {
+      "id": "_14",
+      "label": "Duvanište (okretnica)",
+      "longitude": 21.9356133558169,
+      "latitude": 43.3191786085558
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Duvanište (okretnica)",
+      "longitude": 21.9353876976345,
+      "latitude": 43.3189356100538
+    },
+    {
+      "id": "_2",
+      "label": "OŠ Dušana Radovića",
+      "longitude": 21.931983988177,
+      "latitude": 43.3191957177747
+    },
+    {
+      "id": "_3",
+      "label": "Đerdapska",
+      "longitude": 21.9291327643192,
+      "latitude": 43.3194674284189
+    },
+    {
+      "id": "_4",
+      "label": "Branka Miljkovića",
+      "longitude": 21.9271533949205,
+      "latitude": 43.3224217245617
+    },
+    {
+      "id": "_5",
+      "label": "Branka Krsmanovića",
+      "longitude": 21.9214310525564,
+      "latitude": 43.3210260054792
+    },
+    {
+      "id": "_6",
+      "label": "Trg Svetog Save",
+      "longitude": 21.918998805739,
+      "latitude": 43.3194973168798
+    },
+    {
+      "id": "_7",
+      "label": "Bulevarska pijaca",
+      "longitude": 21.9161825536266,
+      "latitude": 43.3207856274588
+    },
+    {
+      "id": "_8",
+      "label": "Niš ekspres",
+      "longitude": 21.9121048219566,
+      "latitude": 43.3226456760903
+    },
+    {
+      "id": "_9",
+      "label": "Vojvode Mišića",
+      "longitude": 21.9083329012653,
+      "latitude": 43.3243591150672
+    },
+    {
+      "id": "_10",
+      "label": "Crveni soliter",
+      "longitude": 21.9017639532257,
+      "latitude": 43.3228935358884
+    },
+    {
+      "id": "_11",
+      "label": "Trg kralja Milana (Spomenik)",
+      "longitude": 21.8958302411904,
+      "latitude": 43.3210067072558
+    },
+    {
+      "id": "_12",
+      "label": "Šivara",
+      "longitude": 21.8884782066108,
+      "latitude": 43.3197355494934
+    },
+    {
+      "id": "_13",
+      "label": "Feroks",
+      "longitude": 21.8841748009106,
+      "latitude": 43.316474327193
+    },
+    {
+      "id": "_14",
+      "label": "Železnička stanica",
+      "longitude": 21.8783711280025,
+      "latitude": 43.3158278328142
+    }
+  ]
+}
