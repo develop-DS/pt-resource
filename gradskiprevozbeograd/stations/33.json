@@ -2,377 +2,353 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Железничка станица /Панчевачки мост/",
-      "longitude": 20.488906,
-      "latitude": 44.819423
+      "label": "Železnička stanica Pančevački most",
+      "longitude": 20.48889231611,
+      "latitude": 44.8194382780553
     },
     {
       "id": "_2",
-      "label": "Железничка станица Дунав",
-      "longitude": 20.480052,
-      "latitude": 44.818384
+      "label": "Železnička stanica Dunav",
+      "longitude": 20.4801009129362,
+      "latitude": 44.8184178433353
     },
     {
       "id": "_3",
-      "label": "Центар за Културу Влада Дивљан",
-      "longitude": 20.483095,
-      "latitude": 44.817383
+      "label": "Centar za kulturu Vlada Divljan",
+      "longitude": 20.4830256257873,
+      "latitude": 44.8174105100631
     },
     {
       "id": "_4",
-      "label": "Хала Александар Николић",
-      "longitude": 20.483346,
-      "latitude": 44.816235
+      "label": "Hala Aleksandar Nikolić",
+      "longitude": 20.4833119379615,
+      "latitude": 44.8162094638413
     },
     {
       "id": "_5",
-      "label": "Цвијићева",
-      "longitude": 20.479822,
-      "latitude": 44.811749
+      "label": "Cvijićeva",
+      "longitude": 20.4798443650928,
+      "latitude": 44.8117606356327
     },
     {
       "id": "_6",
-      "label": "27. марта",
-      "longitude": 20.476544,
-      "latitude": 44.810171
+      "label": "27. marta",
+      "longitude": 20.476428282711,
+      "latitude": 44.810076589348
     },
     {
       "id": "_7",
-      "label": "Правни факултет",
-      "longitude": 20.472169,
-      "latitude": 44.807783
+      "label": "Pravni fakultet",
+      "longitude": 20.472279999544,
+      "latitude": 44.8077429092955
     },
     {
       "id": "_8",
-      "label": "Трг Славија /Булевар Ослобођења/",
-      "longitude": 20.466047,
-      "latitude": 44.801404
+      "label": "Trg Slavija (Bulevar oslobođenja)",
+      "longitude": 20.4660196131815,
+      "latitude": 44.8014232725427
     },
     {
       "id": "_9",
-      "label": "Карађорђев парк",
-      "longitude": 20.465237,
-      "latitude": 44.797099
+      "label": "Karađorđev park",
+      "longitude": 20.4651954172747,
+      "latitude": 44.7970276562542
     },
     {
       "id": "_10",
-      "label": "Франше Д'Епереа",
-      "longitude": 20.466405,
-      "latitude": 44.792679
+      "label": "Franše D'Eperea",
+      "longitude": 20.466428073984,
+      "latitude": 44.7927226092191
     },
     {
       "id": "_11",
-      "label": "Трг Ослобођења",
-      "longitude": 20.466707,
-      "latitude": 44.786689
+      "label": "Trg oslobođenja",
+      "longitude": 20.4672988223481,
+      "latitude": 44.7862397716509
     },
     {
       "id": "_12",
-      "label": "Боже Jанковића",
-      "longitude": 20.469806,
-      "latitude": 44.783915
+      "label": "Kralja Vladimira",
+      "longitude": 20.4714618206852,
+      "latitude": 44.7820310239031
     },
     {
       "id": "_13",
-      "label": "Краља Владимира",
-      "longitude": 20.471384,
-      "latitude": 44.78206
+      "label": "Vitanovačka",
+      "longitude": 20.4745825877532,
+      "latitude": 44.7770343908444
     },
     {
       "id": "_14",
-      "label": "12 Београдска гимназија",
-      "longitude": 20.472837,
-      "latitude": 44.779927
+      "label": "Petrovačka",
+      "longitude": 20.4756785760107,
+      "latitude": 44.7748723042334
     },
     {
       "id": "_15",
-      "label": "Витановачка",
-      "longitude": 20.474519,
-      "latitude": 44.777066
+      "label": "Nikšićka",
+      "longitude": 20.4779177105912,
+      "latitude": 44.7714608699044
     },
     {
       "id": "_16",
-      "label": "Петровачка",
-      "longitude": 20.475769,
-      "latitude": 44.774644
+      "label": "Visoka škola elektrotehnike",
+      "longitude": 20.4794926165984,
+      "latitude": 44.7685539560792
     },
     {
       "id": "_17",
-      "label": "Никшићка",
-      "longitude": 20.477828,
-      "latitude": 44.771493
+      "label": "Saobraćajni fakultet",
+      "longitude": 20.4825168033552,
+      "latitude": 44.7651675846705
     },
     {
       "id": "_18",
-      "label": "Висока Школа Електротехнике",
-      "longitude": 20.479839,
-      "latitude": 44.768074
+      "label": "Voždovac",
+      "longitude": 20.4846821012142,
+      "latitude": 44.7608755175997
     },
     {
       "id": "_19",
-      "label": "Саобраћајни факултет",
-      "longitude": 20.482503,
-      "latitude": 44.765034
+      "label": "Milića Marinovića",
+      "longitude": 20.4900257164779,
+      "latitude": 44.7553430262604
     },
     {
       "id": "_20",
-      "label": "Вождовац",
-      "longitude": 20.484695,
-      "latitude": 44.760873
+      "label": "Beranska",
+      "longitude": 20.4923045236412,
+      "latitude": 44.7524120540454
     },
     {
       "id": "_21",
-      "label": "Милића Маринковића",
-      "longitude": 20.489923,
-      "latitude": 44.755421
+      "label": "Farmaceutski fakultet",
+      "longitude": 20.4960733596229,
+      "latitude": 44.7474338717119
     },
     {
       "id": "_22",
-      "label": "Беранска",
-      "longitude": 20.492269,
-      "latitude": 44.752471
+      "label": "Institut Torlak",
+      "longitude": 20.4974525720484,
+      "latitude": 44.7456579920976
     },
     {
       "id": "_23",
-      "label": "Фармацеутски Факултет",
-      "longitude": 20.496045,
-      "latitude": 44.747487
+      "label": "Kalemarska",
+      "longitude": 20.4996399282736,
+      "latitude": 44.7424060811015
     },
     {
       "id": "_24",
-      "label": "Институт Торлак",
-      "longitude": 20.497487,
-      "latitude": 44.74566
+      "label": "Oktobarska",
+      "longitude": 20.5026043976707,
+      "latitude": 44.7398000704797
     },
     {
       "id": "_25",
-      "label": "Калемарска",
-      "longitude": 20.499656,
-      "latitude": 44.742466
+      "label": "MZ Kumodraž",
+      "longitude": 20.5075259387185,
+      "latitude": 44.7389609240994
     },
     {
       "id": "_26",
-      "label": "Октобарска",
-      "longitude": 20.502559,
-      "latitude": 44.739843
+      "label": "Zemljoradnička",
+      "longitude": 20.5104530840961,
+      "latitude": 44.7398356092927
     },
     {
       "id": "_27",
-      "label": "МЗ Кумодраж",
-      "longitude": 20.507534,
-      "latitude": 44.738961
+      "label": "Kovačka",
+      "longitude": 20.5134965055792,
+      "latitude": 44.7413136877951
     },
     {
       "id": "_28",
-      "label": "Земљорадничка",
-      "longitude": 20.510409,
-      "latitude": 44.739811
+      "label": "Kumodraž 1",
+      "longitude": 20.5160860220434,
+      "latitude": 44.7424225874398
     },
     {
       "id": "_29",
-      "label": "Ковачка",
-      "longitude": 20.513448,
-      "latitude": 44.741303
-    },
-    {
-      "id": "_30",
-      "label": "Кумодраж 1",
-      "longitude": 20.516077,
-      "latitude": 44.742421
-    },
-    {
-      "id": "_31",
-      "label": "Кумодраж",
-      "longitude": 20.518346,
-      "latitude": 44.744946
+      "label": "Kumodraž",
+      "longitude": 20.5183357728467,
+      "latitude": 44.7449285460405
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Кумодраж",
-      "longitude": 20.518346,
-      "latitude": 44.744946
+      "label": "Kumodraž",
+      "longitude": 20.5183357728467,
+      "latitude": 44.7449285460405
     },
     {
       "id": "_2",
-      "label": "Кумодраж 1",
-      "longitude": 20.515952,
-      "latitude": 44.74261
+      "label": "Kumodraž 1",
+      "longitude": 20.5159079862239,
+      "latitude": 44.7425730307442
     },
     {
       "id": "_3",
-      "label": "Ковачка",
-      "longitude": 20.512513,
-      "latitude": 44.741215
+      "label": "Kovačka",
+      "longitude": 20.5128042931389,
+      "latitude": 44.7413413511049
     },
     {
       "id": "_4",
-      "label": "Земљорадничка",
-      "longitude": 20.510157,
-      "latitude": 44.739753
+      "label": "Zemljoradnička",
+      "longitude": 20.5102084753103,
+      "latitude": 44.739793167607
     },
     {
       "id": "_5",
-      "label": "МЗ Кумодраж",
-      "longitude": 20.507033,
-      "latitude": 44.738971
+      "label": "MZ Kumodraž",
+      "longitude": 20.5069954462318,
+      "latitude": 44.7389802462255
     },
     {
       "id": "_6",
-      "label": "Октобарска",
-      "longitude": 20.50174,
-      "latitude": 44.740443
+      "label": "Oktobarska",
+      "longitude": 20.5016156949038,
+      "latitude": 44.7405391522215
     },
     {
       "id": "_7",
-      "label": "Калемарска",
-      "longitude": 20.500317,
-      "latitude": 44.741789
+      "label": "Kalemarska",
+      "longitude": 20.5002154278956,
+      "latitude": 44.7418542107372
     },
     {
       "id": "_8",
-      "label": "Институт Торлак",
-      "longitude": 20.497428,
-      "latitude": 44.745967
+      "label": "Institut Torlak",
+      "longitude": 20.4973204000097,
+      "latitude": 44.7460479972539
     },
     {
       "id": "_9",
-      "label": "Кумодраж 2 ",
-      "longitude": 20.497862,
-      "latitude": 44.748694
+      "label": "Kumodraž 2",
+      "longitude": 20.4953661522802,
+      "latitude": 44.7486007160569
     },
     {
       "id": "_10",
-      "label": "Беранска",
-      "longitude": 20.491829,
-      "latitude": 44.753524
+      "label": "Beranska",
+      "longitude": 20.4917440118288,
+      "latitude": 44.7535417253199
     },
     {
       "id": "_11",
-      "label": "Милића Маринковића",
-      "longitude": 20.489246,
-      "latitude": 44.756
+      "label": "Milića Marinovića",
+      "longitude": 20.4891102525866,
+      "latitude": 44.7560355251027
     },
     {
       "id": "_12",
-      "label": "Вождовац",
-      "longitude": 20.484923,
-      "latitude": 44.760883
+      "label": "Voždovac",
+      "longitude": 20.4847999904828,
+      "latitude": 44.7609714426756
     },
     {
       "id": "_13",
-      "label": "Саобраћајни факултет",
-      "longitude": 20.482919,
-      "latitude": 44.764689
+      "label": "Saobraćajni fakultet",
+      "longitude": 20.4823006160142,
+      "latitude": 44.7658973770496
     },
     {
       "id": "_14",
-      "label": "Висока Школа Електротехнике",
-      "longitude": 20.479599,
-      "latitude": 44.768643
+      "label": "Visoka škola elektrotehnike",
+      "longitude": 20.4795392541324,
+      "latitude": 44.7687071606744
     },
     {
       "id": "_15",
-      "label": "Никшићка",
-      "longitude": 20.477892,
-      "latitude": 44.772008
+      "label": "Nikšićka",
+      "longitude": 20.4772010711223,
+      "latitude": 44.7730415348957
     },
     {
       "id": "_16",
-      "label": "Петровачка",
-      "longitude": 20.476256,
-      "latitude": 44.774365
+      "label": "Vitanovačka",
+      "longitude": 20.474630576442,
+      "latitude": 44.7773171973497
     },
     {
       "id": "_17",
-      "label": "Витановачка",
-      "longitude": 20.474691,
-      "latitude": 44.777267
+      "label": "Kralja Vladimira",
+      "longitude": 20.4718924358984,
+      "latitude": 44.7816442248745
     },
     {
       "id": "_18",
-      "label": "12 Београдска гимназија",
-      "longitude": 20.473438,
-      "latitude": 44.779408
+      "label": "Bože Jankovića",
+      "longitude": 20.470332526245,
+      "latitude": 44.7836547393734
     },
     {
       "id": "_19",
-      "label": "Краља Владимира",
-      "longitude": 20.471917,
-      "latitude": 44.781655
+      "label": "Trg oslobođenja",
+      "longitude": 20.4664128286546,
+      "latitude": 44.787218407701
     },
     {
       "id": "_20",
-      "label": "Боже Jанковића",
-      "longitude": 20.470401,
-      "latitude": 44.783644
+      "label": "Franše D'Eperea",
+      "longitude": 20.4666800433672,
+      "latitude": 44.7928101762883
     },
     {
       "id": "_21",
-      "label": "Трг Ослобођења",
-      "longitude": 20.466297,
-      "latitude": 44.788087
+      "label": "Karađorđev park",
+      "longitude": 20.4657590648182,
+      "latitude": 44.7982550256383
     },
     {
       "id": "_22",
-      "label": "Франше Д'Епереа",
-      "longitude": 20.466713,
-      "latitude": 44.792784
+      "label": "Trg Slavija (Bulevar oslobođenja)",
+      "longitude": 20.4664336279974,
+      "latitude": 44.8017635811315
     },
     {
       "id": "_23",
-      "label": "Карађорђев парк",
-      "longitude": 20.465719,
-      "latitude": 44.79816
+      "label": "Pravni fakultet",
+      "longitude": 20.4721432970724,
+      "latitude": 44.8074830940531
     },
     {
       "id": "_24",
-      "label": "Трг Славија /Булевар Ослобођења/",
-      "longitude": 20.46636,
-      "latitude": 44.801732
+      "label": "27. marta",
+      "longitude": 20.4757967270915,
+      "latitude": 44.809733524098
     },
     {
       "id": "_25",
-      "label": "Правни факултет",
-      "longitude": 20.472066,
-      "latitude": 44.807353
+      "label": "Cvijićeva",
+      "longitude": 20.4801457332771,
+      "latitude": 44.8117080039907
     },
     {
       "id": "_26",
-      "label": "27. марта",
-      "longitude": 20.475911,
-      "latitude": 44.809728
+      "label": "Hala Aleksandar Nikolić",
+      "longitude": 20.4823392424107,
+      "latitude": 44.8146913614024
     },
     {
       "id": "_27",
-      "label": "Цвијићева",
-      "longitude": 20.48006,
-      "latitude": 44.811676
+      "label": "Centar za kulturu Vlada Divljan",
+      "longitude": 20.4847907935109,
+      "latitude": 44.8176884331184
     },
     {
       "id": "_28",
-      "label": "Хала Александар Николић",
-      "longitude": 20.482322,
-      "latitude": 44.814619
+      "label": "Železnička stanica Dunav",
+      "longitude": 20.4815292839587,
+      "latitude": 44.8190326722746
     },
     {
       "id": "_29",
-      "label": "Центар за Културу Влада Дивљан",
-      "longitude": 20.484569,
-      "latitude": 44.817701
-    },
-    {
-      "id": "_30",
-      "label": "Железничка станица Дунав",
-      "longitude": 20.481436,
-      "latitude": 44.819018
-    },
-    {
-      "id": "_31",
-      "label": "Железничка станица /Панчевачки мост/",
-      "longitude": 20.488906,
-      "latitude": 44.819423
+      "label": "Železnička stanica Pančevački most",
+      "longitude": 20.4893948655977,
+      "latitude": 44.8192299262461
     }
   ]
 }

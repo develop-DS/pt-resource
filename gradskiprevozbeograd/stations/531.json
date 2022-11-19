@@ -2,161 +2,161 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Баново Брдо (Предграђе)",
-      "longitude": 20.413826,
-      "latitude": 44.768453
+      "label": "Banovo brdo",
+      "longitude": 20.4137007918389,
+      "latitude": 44.768049418063
     },
     {
       "id": "_2",
-      "label": "Јулино Брдо",
-      "longitude": 20.414025,
-      "latitude": 44.762507
+      "label": "Julino brdo",
+      "longitude": 20.4140163733096,
+      "latitude": 44.7625522766069
     },
     {
       "id": "_3",
-      "label": "Жарково споменик",
-      "longitude": 20.41512,
-      "latitude": 44.758555
+      "label": "Žarkovo",
+      "longitude": 20.4151557283503,
+      "latitude": 44.7585334682741
     },
     {
       "id": "_4",
-      "label": "Браће Вучковић",
-      "longitude": 20.413622,
-      "latitude": 44.753536
+      "label": "Braće Vučković",
+      "longitude": 20.4136230290898,
+      "latitude": 44.7534444620054
     },
     {
       "id": "_5",
-      "label": "Јабланичка",
-      "longitude": 20.411809,
-      "latitude": 44.748051
+      "label": "Jablanička",
+      "longitude": 20.4118393017084,
+      "latitude": 44.7479779594282
     },
     {
       "id": "_6",
-      "label": "Кнежевац",
-      "longitude": 20.41951,
-      "latitude": 44.733646
+      "label": "Kneževac",
+      "longitude": 20.4195843210249,
+      "latitude": 44.7336791921276
     },
     {
       "id": "_7",
-      "label": "Насеље Петлово Брдо",
-      "longitude": 20.417752,
-      "latitude": 44.723573
+      "label": "Naselje Petlovo brdo",
+      "longitude": 20.4175269197565,
+      "latitude": 44.7237165824988
     },
     {
       "id": "_8",
-      "label": "Рушањ /Ново Насеље/",
-      "longitude": 20.428594,
-      "latitude": 44.682234
+      "label": "Novo naselje (Rušanj)",
+      "longitude": 20.4285551066559,
+      "latitude": 44.6822532194612
     },
     {
       "id": "_9",
-      "label": "Рушањ /Илије Миличевића/",
-      "longitude": 20.431978,
-      "latitude": 44.679601
+      "label": "Ilije Milićevića",
+      "longitude": 20.4319338457345,
+      "latitude": 44.6795877942503
     },
     {
       "id": "_10",
-      "label": "Рушань /Ослобођења/",
-      "longitude": 20.436181,
-      "latitude": 44.682776
+      "label": "Oslobođenja",
+      "longitude": 20.4361794214014,
+      "latitude": 44.682767930414
     },
     {
       "id": "_11",
-      "label": "МЗ Рушањ",
-      "longitude": 20.439264,
-      "latitude": 44.682311
+      "label": "MZ Rušanj",
+      "longitude": 20.4392973798847,
+      "latitude": 44.6822828266929
     },
     {
       "id": "_12",
-      "label": "Рушань /Луке Ружића/",
-      "longitude": 20.445707,
-      "latitude": 44.681199
+      "label": "Luke Ružića",
+      "longitude": 20.4457737613661,
+      "latitude": 44.6812127285991
     },
     {
       "id": "_13",
-      "label": "Рушањ (13. септембар)",
-      "longitude": 20.451397,
-      "latitude": 44.682797
+      "label": "13. septembar",
+      "longitude": 20.4515111537768,
+      "latitude": 44.6827746123632
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Рушањ (13. септембар)",
-      "longitude": 20.451397,
-      "latitude": 44.682797
+      "label": "13. septembar",
+      "longitude": 20.4515111537768,
+      "latitude": 44.6827746123632
     },
     {
       "id": "_2",
-      "label": "Рушань /Луке Ружића/",
-      "longitude": 20.445539,
-      "latitude": 44.681253
+      "label": "Luke Ružića",
+      "longitude": 20.4454429562879,
+      "latitude": 44.6812453290926
     },
     {
       "id": "_3",
-      "label": "МЗ Рушањ",
-      "longitude": 20.439384,
-      "latitude": 44.682385
+      "label": "MZ Rušanj",
+      "longitude": 20.4392533343799,
+      "latitude": 44.6824032077711
     },
     {
       "id": "_4",
-      "label": "Рушань /Ослобођења/",
-      "longitude": 20.435709,
-      "latitude": 44.682751
+      "label": "Oslobođenja",
+      "longitude": 20.4356575641923,
+      "latitude": 44.6827275656191
     },
     {
       "id": "_5",
-      "label": "Рушањ /Илије Миличевића/",
-      "longitude": 20.431667,
-      "latitude": 44.679561
+      "label": "Ilije Milićevića",
+      "longitude": 20.4315838750031,
+      "latitude": 44.6795305490179
     },
     {
       "id": "_6",
-      "label": "Рушањ /Ново Насеље/",
-      "longitude": 20.428785,
-      "latitude": 44.682124
+      "label": "Novo naselje (Rušanj)",
+      "longitude": 20.4287549176062,
+      "latitude": 44.6822020162074
     },
     {
       "id": "_7",
-      "label": "Насеље Петлово Брдо",
-      "longitude": 20.417094,
-      "latitude": 44.721805
+      "label": "Naselje Petlovo brdo",
+      "longitude": 20.4181443852907,
+      "latitude": 44.7239871957598
     },
     {
       "id": "_8",
-      "label": "Кнежевац",
-      "longitude": 20.419412,
-      "latitude": 44.735146
+      "label": "Kneževac",
+      "longitude": 20.4193354172285,
+      "latitude": 44.7350908768268
     },
     {
       "id": "_9",
-      "label": "Јабланичка",
-      "longitude": 20.412284,
-      "latitude": 44.749631
+      "label": "Jablanička",
+      "longitude": 20.4121628799153,
+      "latitude": 44.7497021461355
     },
     {
       "id": "_10",
-      "label": "Браће Вучковић",
-      "longitude": 20.414707,
-      "latitude": 44.75463
+      "label": "Braće Vučković",
+      "longitude": 20.4146695050241,
+      "latitude": 44.754630556559
     },
     {
       "id": "_11",
-      "label": "Жарково споменик",
-      "longitude": 20.415492,
-      "latitude": 44.75952
+      "label": "Žarkovo",
+      "longitude": 20.4154615894523,
+      "latitude": 44.7595213843687
     },
     {
       "id": "_12",
-      "label": "Јулино Брдо",
-      "longitude": 20.41394,
-      "latitude": 44.763668
+      "label": "Julino brdo",
+      "longitude": 20.4139046683313,
+      "latitude": 44.7636100589606
     },
     {
       "id": "_13",
-      "label": "Баново Брдо (Предграђе)",
-      "longitude": 20.413826,
-      "latitude": 44.768453
+      "label": "Banovo brdo",
+      "longitude": 20.4137007918389,
+      "latitude": 44.768049418063
     }
   ]
 }

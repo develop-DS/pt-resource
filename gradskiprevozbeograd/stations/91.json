@@ -2,233 +2,215 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "ТЦ Галериja",
-      "longitude": 20.445457,
-      "latitude": 44.801256
+      "label": "TC Galerija",
+      "longitude": 20.4456286208991,
+      "latitude": 44.8013535627872
     },
     {
       "id": "_2",
-      "label": "Сајам",
-      "longitude": 20.441977,
-      "latitude": 44.796588
+      "label": "Sajam",
+      "longitude": 20.4415906546322,
+      "latitude": 44.7964130286058
     },
     {
       "id": "_3",
-      "label": "Петља Радничка",
-      "longitude": 20.426785,
-      "latitude": 44.792472
+      "label": "Čukarica",
+      "longitude": 20.4145017152671,
+      "latitude": 44.7863856515716
     },
     {
       "id": "_4",
-      "label": "Чукарица",
-      "longitude": 20.414505,
-      "latitude": 44.78645
+      "label": "Železnik R",
+      "longitude": 20.3589500715381,
+      "latitude": 44.7422083297655
     },
     {
       "id": "_5",
-      "label": "Железник Р",
-      "longitude": 20.359007,
-      "latitude": 44.742278
+      "label": "Železnički nadvožnjak",
+      "longitude": 20.3212902181307,
+      "latitude": 44.7354344273393
     },
     {
       "id": "_6",
-      "label": "Железнички надвожњак",
-      "longitude": 20.32139,
-      "latitude": 44.735491
+      "label": "MZ Ostružnica",
+      "longitude": 20.3148088183418,
+      "latitude": 44.7314990217166
     },
     {
       "id": "_7",
-      "label": "МЗ Остружница",
-      "longitude": 20.314874,
-      "latitude": 44.731568
+      "label": "Ostružnica (centar)",
+      "longitude": 20.3182270094875,
+      "latitude": 44.7289725017526
     },
     {
       "id": "_8",
-      "label": "Остружница /Центар/",
-      "longitude": 20.318197,
-      "latitude": 44.729028
+      "label": "Crkva",
+      "longitude": 20.3214769350805,
+      "latitude": 44.7280774199935
     },
     {
       "id": "_9",
-      "label": "Остружница /Црква/",
-      "longitude": 20.3214,
-      "latitude": 44.728157
+      "label": "Ljube Rankovića",
+      "longitude": 20.3241066649811,
+      "latitude": 44.7251356682985
     },
     {
       "id": "_10",
-      "label": "Остружница /Љубе Ранковића/",
-      "longitude": 20.32414,
-      "latitude": 44.725146
+      "label": "Petrovića brdo",
+      "longitude": 20.3261316062452,
+      "latitude": 44.7220733053076
     },
     {
       "id": "_11",
-      "label": "Петровића Брдо",
-      "longitude": 20.326222,
-      "latitude": 44.722026
+      "label": "Okretnica (česma)",
+      "longitude": 20.3322014457751,
+      "latitude": 44.7180553748127
     },
     {
       "id": "_12",
-      "label": "Окретница /Чесма/",
-      "longitude": 20.332459,
-      "latitude": 44.71773
+      "label": "Petrovića brdo",
+      "longitude": 20.3262674073443,
+      "latitude": 44.7221191018365
     },
     {
       "id": "_13",
-      "label": "Петровића Брдо",
-      "longitude": 20.326192,
-      "latitude": 44.722194
+      "label": "Ljube Rankovića",
+      "longitude": 20.3241594711796,
+      "latitude": 44.7253717706983
     },
     {
       "id": "_14",
-      "label": "Остружница /Љубе Ранковића/",
-      "longitude": 20.324182,
-      "latitude": 44.725293
+      "label": "Crkva",
+      "longitude": 20.3212420177602,
+      "latitude": 44.7283028205258
     },
     {
       "id": "_15",
-      "label": "Остружница /Црква/",
-      "longitude": 20.320979,
-      "latitude": 44.728357
+      "label": "OŠ Karađorđe",
+      "longitude": 20.3201828911609,
+      "latitude": 44.7262410229691
     },
     {
       "id": "_16",
-      "label": "Остружница /ОШ Карађорђе/",
-      "longitude": 20.320141,
-      "latitude": 44.726309
+      "label": "Stare barake",
+      "longitude": 20.3210340426242,
+      "latitude": 44.7223168158671
     },
     {
       "id": "_17",
-      "label": "Остружница /Старе Бараке/",
-      "longitude": 20.321059,
-      "latitude": 44.722379
+      "label": "Novo naselje (ulaz)",
+      "longitude": 20.32043591393,
+      "latitude": 44.718402016569
     },
     {
       "id": "_18",
-      "label": "Ново Насеље /Улаз/",
-      "longitude": 20.320456,
-      "latitude": 44.718371
+      "label": "Kosmajska",
+      "longitude": 20.3226532806727,
+      "latitude": 44.7150690620998
     },
     {
       "id": "_19",
-      "label": "Остружница /Космајска/",
-      "longitude": 20.322606,
-      "latitude": 44.715165
-    },
-    {
-      "id": "_20",
-      "label": "Остружница /Ново Насеље/ ",
-      "longitude": 20.31997,
-      "latitude": 44.713707
+      "label": "Ostružnica (Novo naselje)",
+      "longitude": 20.3199128151832,
+      "latitude": 44.7136884854183
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Остружница /Ново Насеље/ ",
-      "longitude": 20.31997,
-      "latitude": 44.713707
+      "label": "Ostružnica (Novo naselje)",
+      "longitude": 20.3199128151832,
+      "latitude": 44.7136884854183
     },
     {
       "id": "_2",
-      "label": "Остружница /Космајска/",
-      "longitude": 20.322789,
-      "latitude": 44.715097
+      "label": "Kosmajska",
+      "longitude": 20.3225193806773,
+      "latitude": 44.7155128547384
     },
     {
       "id": "_3",
-      "label": "Ново Насеље /Улаз/",
-      "longitude": 20.32057,
-      "latitude": 44.718411
+      "label": "Novo naselje (ulaz)",
+      "longitude": 20.320574247195,
+      "latitude": 44.7184460349736
     },
     {
       "id": "_4",
-      "label": "Остружница /Старе Бараке/",
-      "longitude": 20.321187,
-      "latitude": 44.722301
+      "label": "Stare barake",
+      "longitude": 20.3211718194889,
+      "latitude": 44.7224094284048
     },
     {
       "id": "_5",
-      "label": "Остружница /ОШ Карађорђе/",
-      "longitude": 20.320041,
-      "latitude": 44.726582
+      "label": "OŠ Karađorđe",
+      "longitude": 20.319970827911,
+      "latitude": 44.7266717486637
     },
     {
       "id": "_6",
-      "label": "Остружница /Центар/",
-      "longitude": 20.318374,
-      "latitude": 44.729034
+      "label": "Ostružnica (centar)",
+      "longitude": 20.3178422034368,
+      "latitude": 44.7294903923407
     },
     {
       "id": "_7",
-      "label": "МЗ Остружница",
-      "longitude": 20.315305,
-      "latitude": 44.731632
+      "label": "MZ Ostružnica",
+      "longitude": 20.3150084950393,
+      "latitude": 44.7314822158213
     },
     {
       "id": "_8",
-      "label": "Железнички надвожњак",
-      "longitude": 20.321337,
-      "latitude": 44.73524
+      "label": "Železnički nadvožnjak",
+      "longitude": 20.3217783588727,
+      "latitude": 44.7355849106175
     },
     {
       "id": "_9",
-      "label": "Железник Р",
-      "longitude": 20.361192,
-      "latitude": 44.742738
+      "label": "Železnik R",
+      "longitude": 20.3612220070836,
+      "latitude": 44.7427627874396
     },
     {
       "id": "_10",
-      "label": "Чукарица",
-      "longitude": 20.414985,
-      "latitude": 44.786371
+      "label": "Čukarica",
+      "longitude": 20.4151354377319,
+      "latitude": 44.786451881637
     },
     {
       "id": "_11",
-      "label": "Петља Радничка",
-      "longitude": 20.426938,
-      "latitude": 44.792201
+      "label": "Ada Ciganlija",
+      "longitude": 20.4199404372204,
+      "latitude": 44.7884471855672
     },
     {
       "id": "_12",
-      "label": "Господарска Механа",
-      "longitude": 20.433518,
-      "latitude": 44.794439
+      "label": "Ruska",
+      "longitude": 20.4381790000629,
+      "latitude": 44.7952642285528
     },
     {
       "id": "_13",
-      "label": "Руска",
-      "longitude": 20.438101,
-      "latitude": 44.79525
+      "label": "Sajam",
+      "longitude": 20.44208197302,
+      "latitude": 44.7963182238307
     },
     {
       "id": "_14",
-      "label": "Сајам",
-      "longitude": 20.441902,
-      "latitude": 44.796305
+      "label": "Palata pravde 1",
+      "longitude": 20.451327814778,
+      "latitude": 44.8034058554644
     },
     {
       "id": "_15",
-      "label": "Дурмиторска",
-      "longitude": 20.451504,
-      "latitude": 44.80211
+      "label": "Kula Beograd",
+      "longitude": 20.4486263639051,
+      "latitude": 44.8032813106928
     },
     {
       "id": "_16",
-      "label": "Палата Правде 1",
-      "longitude": 20.451548,
-      "latitude": 44.803288
-    },
-    {
-      "id": "_17",
-      "label": "Кула Београд",
-      "longitude": 20.448054,
-      "latitude": 44.80299
-    },
-    {
-      "id": "_18",
-      "label": "ТЦ Галериja",
-      "longitude": 20.445457,
-      "latitude": 44.801256
+      "label": "TC Galerija",
+      "longitude": 20.4456286208991,
+      "latitude": 44.8013535627872
     }
   ]
 }

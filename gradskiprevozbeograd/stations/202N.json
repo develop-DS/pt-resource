@@ -1,0 +1,402 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Trg republike",
+      "longitude": 20.4617425740777,
+      "latitude": 44.8166646919616
+    },
+    {
+      "id": "_2",
+      "label": "Pionirski park",
+      "longitude": 20.4651200189327,
+      "latitude": 44.8109999868147
+    },
+    {
+      "id": "_3",
+      "label": "Resavska",
+      "longitude": 20.4681162674703,
+      "latitude": 44.8090700158441
+    },
+    {
+      "id": "_4",
+      "label": "Pravni fakultet",
+      "longitude": 20.4719754000281,
+      "latitude": 44.8067605591121
+    },
+    {
+      "id": "_5",
+      "label": "Tehnički fakulteti",
+      "longitude": 20.475579409314,
+      "latitude": 44.805232765126
+    },
+    {
+      "id": "_6",
+      "label": "Vukov spomenik",
+      "longitude": 20.4783354886266,
+      "latitude": 44.8054847139866
+    },
+    {
+      "id": "_7",
+      "label": "Dalmatinska",
+      "longitude": 20.4802461581991,
+      "latitude": 44.8066957208867
+    },
+    {
+      "id": "_8",
+      "label": "Novo groblje",
+      "longitude": 20.4866497871415,
+      "latitude": 44.8107779308082
+    },
+    {
+      "id": "_9",
+      "label": "Vatrogasna komanda",
+      "longitude": 20.4889041974732,
+      "latitude": 44.8126202954361
+    },
+    {
+      "id": "_10",
+      "label": "Omladinski stadion",
+      "longitude": 20.4912152864622,
+      "latitude": 44.8146482563707
+    },
+    {
+      "id": "_11",
+      "label": "Vuka Vrčevića",
+      "longitude": 20.4954830533882,
+      "latitude": 44.8176369359186
+    },
+    {
+      "id": "_12",
+      "label": "Vojvode Micka Krstića",
+      "longitude": 20.5028801587146,
+      "latitude": 44.8175972135596
+    },
+    {
+      "id": "_13",
+      "label": "Diljska",
+      "longitude": 20.5109615243617,
+      "latitude": 44.8173799386268
+    },
+    {
+      "id": "_14",
+      "label": "Put za Adu Huju",
+      "longitude": 20.5142866250105,
+      "latitude": 44.8174120537577
+    },
+    {
+      "id": "_15",
+      "label": "Mirijevski bulevar",
+      "longitude": 20.5196727797822,
+      "latitude": 44.8174347142419
+    },
+    {
+      "id": "_16",
+      "label": "Rospi ćuprija",
+      "longitude": 20.5230954184101,
+      "latitude": 44.8176001737516
+    },
+    {
+      "id": "_17",
+      "label": "Trudbenička",
+      "longitude": 20.5284316669652,
+      "latitude": 44.8156711182624
+    },
+    {
+      "id": "_18",
+      "label": "Višnjička banja",
+      "longitude": 20.5326527621815,
+      "latitude": 44.8155893811077
+    },
+    {
+      "id": "_19",
+      "label": "Toplana",
+      "longitude": 20.5371520280417,
+      "latitude": 44.8145510604222
+    },
+    {
+      "id": "_20",
+      "label": "Novo naselje",
+      "longitude": 20.5418996400027,
+      "latitude": 44.8134235579533
+    },
+    {
+      "id": "_21",
+      "label": "Lešće",
+      "longitude": 20.543774803355,
+      "latitude": 44.8116257178208
+    },
+    {
+      "id": "_22",
+      "label": "Lešće (ulaz)",
+      "longitude": 20.5476882464974,
+      "latitude": 44.8100950782368
+    },
+    {
+      "id": "_23",
+      "label": "Srpska kruna",
+      "longitude": 20.5527136277702,
+      "latitude": 44.8076236888704
+    },
+    {
+      "id": "_24",
+      "label": "Slanci (ulaz)",
+      "longitude": 20.5568410884744,
+      "latitude": 44.8064751480484
+    },
+    {
+      "id": "_25",
+      "label": "Pekara",
+      "longitude": 20.5619762773375,
+      "latitude": 44.8071248121234
+    },
+    {
+      "id": "_26",
+      "label": "Izvorska",
+      "longitude": 20.5660921594016,
+      "latitude": 44.8075004137522
+    },
+    {
+      "id": "_27",
+      "label": "Slanci (škola)",
+      "longitude": 20.5706768358336,
+      "latitude": 44.808084609085
+    },
+    {
+      "id": "_28",
+      "label": "Veterinarska stanica",
+      "longitude": 20.5769197627914,
+      "latitude": 44.8090833172081
+    },
+    {
+      "id": "_29",
+      "label": "Veliko selo (ulaz)",
+      "longitude": 20.5857183841195,
+      "latitude": 44.8066423058699
+    },
+    {
+      "id": "_30",
+      "label": "Teslina",
+      "longitude": 20.5889697825987,
+      "latitude": 44.8062886005772
+    },
+    {
+      "id": "_31",
+      "label": "Omladinska",
+      "longitude": 20.5917696405139,
+      "latitude": 44.8079472952847
+    },
+    {
+      "id": "_32",
+      "label": "MZ Veliko selo",
+      "longitude": 20.5977609953146,
+      "latitude": 44.8106430813571
+    },
+    {
+      "id": "_33",
+      "label": "Veliko selo",
+      "longitude": 20.6014119694876,
+      "latitude": 44.8121479222327
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Veliko selo",
+      "longitude": 20.6014119694876,
+      "latitude": 44.8121479222327
+    },
+    {
+      "id": "_2",
+      "label": "MZ Veliko selo",
+      "longitude": 20.5976642679365,
+      "latitude": 44.8107363378818
+    },
+    {
+      "id": "_3",
+      "label": "Omladinska",
+      "longitude": 20.5915597644968,
+      "latitude": 44.8079501493706
+    },
+    {
+      "id": "_4",
+      "label": "Teslina",
+      "longitude": 20.5888326980378,
+      "latitude": 44.8063673060808
+    },
+    {
+      "id": "_5",
+      "label": "Veliko selo (ulaz)",
+      "longitude": 20.5854662539423,
+      "latitude": 44.8068987832763
+    },
+    {
+      "id": "_6",
+      "label": "Veterinarska stanica",
+      "longitude": 20.5767145070532,
+      "latitude": 44.8091455579243
+    },
+    {
+      "id": "_7",
+      "label": "Slanci (škola)",
+      "longitude": 20.570257014857,
+      "latitude": 44.8080992386159
+    },
+    {
+      "id": "_8",
+      "label": "Izvorska",
+      "longitude": 20.5665226350617,
+      "latitude": 44.8077522259024
+    },
+    {
+      "id": "_9",
+      "label": "Pekara",
+      "longitude": 20.5618512132358,
+      "latitude": 44.8072809270465
+    },
+    {
+      "id": "_10",
+      "label": "Slanci (ulaz)",
+      "longitude": 20.5564522507668,
+      "latitude": 44.8067382335112
+    },
+    {
+      "id": "_11",
+      "label": "Srpska kruna",
+      "longitude": 20.5522115713866,
+      "latitude": 44.8078107228102
+    },
+    {
+      "id": "_12",
+      "label": "Lešće (ulaz)",
+      "longitude": 20.5473111030396,
+      "latitude": 44.8104715725147
+    },
+    {
+      "id": "_13",
+      "label": "Lešće",
+      "longitude": 20.542805277794,
+      "latitude": 44.8124084207708
+    },
+    {
+      "id": "_14",
+      "label": "Novo naselje",
+      "longitude": 20.5414187661415,
+      "latitude": 44.8137996187271
+    },
+    {
+      "id": "_15",
+      "label": "Toplana",
+      "longitude": 20.5365779282551,
+      "latitude": 44.8148799274388
+    },
+    {
+      "id": "_16",
+      "label": "Višnjika banja",
+      "longitude": 20.5319963250262,
+      "latitude": 44.8157756974849
+    },
+    {
+      "id": "_17",
+      "label": "Trudbenička",
+      "longitude": 20.5270544898722,
+      "latitude": 44.8161730269356
+    },
+    {
+      "id": "_18",
+      "label": "Rospi ćuprija",
+      "longitude": 20.5218657930662,
+      "latitude": 44.8179838388451
+    },
+    {
+      "id": "_19",
+      "label": "Mirijevski bulevar",
+      "longitude": 20.5193544597331,
+      "latitude": 44.8177033675796
+    },
+    {
+      "id": "_20",
+      "label": "Put za Adu Huju",
+      "longitude": 20.5140747872485,
+      "latitude": 44.817645144763
+    },
+    {
+      "id": "_21",
+      "label": "Diljska",
+      "longitude": 20.5096519067719,
+      "latitude": 44.8176443378156
+    },
+    {
+      "id": "_22",
+      "label": "Vojvode Micka Krstića",
+      "longitude": 20.502974019314,
+      "latitude": 44.8178586059719
+    },
+    {
+      "id": "_23",
+      "label": "Vuka Vrčevića",
+      "longitude": 20.4967449953722,
+      "latitude": 44.8179214607077
+    },
+    {
+      "id": "_24",
+      "label": "SUP Palilula",
+      "longitude": 20.4937449077625,
+      "latitude": 44.8171541083316
+    },
+    {
+      "id": "_25",
+      "label": "Omladinski stadion",
+      "longitude": 20.4902263510143,
+      "latitude": 44.8140966974399
+    },
+    {
+      "id": "_26",
+      "label": "Vatrogasna komanda",
+      "longitude": 20.4879102459397,
+      "latitude": 44.8120704938242
+    },
+    {
+      "id": "_27",
+      "label": "Novo groblje",
+      "longitude": 20.4848471309767,
+      "latitude": 44.8099022992411
+    },
+    {
+      "id": "_28",
+      "label": "Dalmatinska",
+      "longitude": 20.480615642886,
+      "latitude": 44.8072229663571
+    },
+    {
+      "id": "_29",
+      "label": "Tehnički fakulteti",
+      "longitude": 20.4763383280773,
+      "latitude": 44.8051840333328
+    },
+    {
+      "id": "_30",
+      "label": "Pravni fakultet",
+      "longitude": 20.4723282741585,
+      "latitude": 44.8068809760732
+    },
+    {
+      "id": "_31",
+      "label": "Glavna pošta",
+      "longitude": 20.4672209588748,
+      "latitude": 44.8099244175882
+    },
+    {
+      "id": "_32",
+      "label": "Terazije",
+      "longitude": 20.4610734378326,
+      "latitude": 44.8132849311366
+    },
+    {
+      "id": "_33",
+      "label": "Trg republike",
+      "longitude": 20.4607188559041,
+      "latitude": 44.8155277458009
+    }
+  ]
+}

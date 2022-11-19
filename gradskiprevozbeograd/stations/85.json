@@ -2,455 +2,437 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Баново Брдо (Предграђе)",
-      "longitude": 20.413826,
-      "latitude": 44.768453
+      "label": "Banovo brdo",
+      "longitude": 20.4138049186733,
+      "latitude": 44.7684981299951
     },
     {
       "id": "_2",
-      "label": "Требевићка",
-      "longitude": 20.414341,
-      "latitude": 44.771477
+      "label": "Trebevićka",
+      "longitude": 20.4143679959541,
+      "latitude": 44.7715482675454
     },
     {
       "id": "_3",
-      "label": "Кијевска",
-      "longitude": 20.413824,
-      "latitude": 44.775796
+      "label": "Kijevska",
+      "longitude": 20.4138574029671,
+      "latitude": 44.7758312615877
     },
     {
       "id": "_4",
-      "label": "Дом здравља",
-      "longitude": 20.415907,
-      "latitude": 44.77903
+      "label": "Dom zdravlja",
+      "longitude": 20.4159577149361,
+      "latitude": 44.7790656243339
     },
     {
       "id": "_5",
-      "label": "Школа Jосиф Панчић",
-      "longitude": 20.41776,
-      "latitude": 44.78145
+      "label": "Škola Josif Pančić",
+      "longitude": 20.4177988662816,
+      "latitude": 44.7814508718708
     },
     {
       "id": "_6",
-      "label": "Кировљева",
-      "longitude": 20.417994,
-      "latitude": 44.784723
+      "label": "Kirovljeva",
+      "longitude": 20.4179117112584,
+      "latitude": 44.7848226834066
     },
     {
       "id": "_7",
-      "label": "Ада Циганлија",
-      "longitude": 20.419789,
-      "latitude": 44.7884
+      "label": "Ada Ciganlija",
+      "longitude": 20.4199404372204,
+      "latitude": 44.7884471855672
     },
     {
       "id": "_8",
-      "label": "Блок 42",
-      "longitude": 20.416233,
-      "latitude": 44.804082
+      "label": "Blok 42",
+      "longitude": 20.4161138241365,
+      "latitude": 44.8040491880885
     },
     {
       "id": "_9",
-      "label": "Марка Христића",
-      "longitude": 20.413107,
-      "latitude": 44.806197
+      "label": "Bulevar Crvene Armije",
+      "longitude": 20.4132201265708,
+      "latitude": 44.8051917615602
     },
     {
       "id": "_10",
-      "label": "Депо Сава",
-      "longitude": 20.410999,
-      "latitude": 44.806889
+      "label": "Depo Sava",
+      "longitude": 20.4109050542309,
+      "latitude": 44.8068574077947
     },
     {
       "id": "_11",
-      "label": "Насеље Белвил",
-      "longitude": 20.40837,
-      "latitude": 44.80685
+      "label": "Garaža Novi Beograd",
+      "longitude": 20.4057105618059,
+      "latitude": 44.8077251638974
     },
     {
       "id": "_12",
-      "label": "Гаража Нови Београд",
-      "longitude": 20.405845,
-      "latitude": 44.8077
+      "label": "Airport City",
+      "longitude": 20.4021643034095,
+      "latitude": 44.8118015189396
     },
     {
       "id": "_13",
-      "label": "Airport City",
-      "longitude": 20.402169,
-      "latitude": 44.811769
+      "label": "Milutina Milankovića",
+      "longitude": 20.4061096377425,
+      "latitude": 44.8161777845772
     },
     {
       "id": "_14",
-      "label": "Милутина Миланковића",
-      "longitude": 20.406143,
-      "latitude": 44.816157
+      "label": "Bulevar Zorana Đinđića",
+      "longitude": 20.4096906040503,
+      "latitude": 44.8201344585727
     },
     {
       "id": "_15",
-      "label": "Зорана Ђинђића булевар",
-      "longitude": 20.409686,
-      "latitude": 44.82009
+      "label": "GO Novi Beograd",
+      "longitude": 20.4126291400749,
+      "latitude": 44.8233929676509
     },
     {
       "id": "_16",
-      "label": "ГО Нови Београд",
-      "longitude": 20.412692,
-      "latitude": 44.823399
+      "label": "Arhiv",
+      "longitude": 20.4129568170485,
+      "latitude": 44.8255041291896
     },
     {
       "id": "_17",
-      "label": "Архив",
-      "longitude": 20.413009,
-      "latitude": 44.825508
+      "label": "Bulevar Maršala Tolbuhina",
+      "longitude": 20.4116238752931,
+      "latitude": 44.8292572905846
     },
     {
       "id": "_18",
-      "label": "Маршала Толбухина булевар",
-      "longitude": 20.411675,
-      "latitude": 44.829221
+      "label": "Džona Kenedija",
+      "longitude": 20.4099547130209,
+      "latitude": 44.8342182363595
     },
     {
       "id": "_19",
-      "label": "Џона Кенедија",
-      "longitude": 20.410005,
-      "latitude": 44.834184
+      "label": "Prve pruge (Retenzija)",
+      "longitude": 20.4106030093984,
+      "latitude": 44.836887217854
     },
     {
       "id": "_20",
-      "label": "Прве пруге ретензија",
-      "longitude": 20.410549,
-      "latitude": 44.836707
+      "label": "Aleksandra Dubčeka",
+      "longitude": 20.4106325818005,
+      "latitude": 44.8392074367307
     },
     {
       "id": "_21",
-      "label": "Александра Дубчека",
-      "longitude": 20.410665,
-      "latitude": 44.839212
+      "label": "KBC Zemun",
+      "longitude": 20.4063517433083,
+      "latitude": 44.8412354412422
     },
     {
       "id": "_22",
-      "label": "КБЦ Земун",
-      "longitude": 20.406449,
-      "latitude": 44.84118
+      "label": "Novogradska",
+      "longitude": 20.4019712562394,
+      "latitude": 44.8455396318512
     },
     {
       "id": "_23",
-      "label": "Новоградска",
-      "longitude": 20.402002,
-      "latitude": 44.845502
+      "label": "Ugrinovačka",
+      "longitude": 20.3991774761517,
+      "latitude": 44.8465779681986
     },
     {
       "id": "_24",
-      "label": "Угриновачка",
-      "longitude": 20.399368,
-      "latitude": 44.846516
+      "label": "Stadion Zemun",
+      "longitude": 20.3959444670565,
+      "latitude": 44.8477525152105
     },
     {
       "id": "_25",
-      "label": "Стадион Земун",
-      "longitude": 20.396038,
-      "latitude": 44.847749
+      "label": "Branka Pešića",
+      "longitude": 20.3912080891097,
+      "latitude": 44.8494391687723
     },
     {
       "id": "_26",
-      "label": "Бранка Пешића",
-      "longitude": 20.391377,
-      "latitude": 44.849368
+      "label": "Filipa Višnjića",
+      "longitude": 20.3874227684031,
+      "latitude": 44.8499319809851
     },
     {
       "id": "_27",
-      "label": "Филипа Вишњића",
-      "longitude": 20.387541,
-      "latitude": 44.849945
+      "label": "Zadrugarska",
+      "longitude": 20.3819749760604,
+      "latitude": 44.8501907334264
     },
     {
       "id": "_28",
-      "label": "Задругарска",
-      "longitude": 20.38207,
-      "latitude": 44.850208
+      "label": "Bačka",
+      "longitude": 20.3793491284847,
+      "latitude": 44.8506139254291
     },
     {
       "id": "_29",
-      "label": "Земун /Бачка/",
-      "longitude": 20.379404,
-      "latitude": 44.850518
+      "label": "Banatska",
+      "longitude": 20.3779253341391,
+      "latitude": 44.8583331448915
     },
     {
       "id": "_30",
-      "label": "Банатска",
-      "longitude": 20.377911,
-      "latitude": 44.8583
+      "label": "Groblje Zbeg",
+      "longitude": 20.4529223276776,
+      "latitude": 44.8990813655596
     },
     {
       "id": "_31",
-      "label": "Гробље Збег",
-      "longitude": 20.452642,
-      "latitude": 44.89949
+      "label": "Mali zbeg",
+      "longitude": 20.4564027458025,
+      "latitude": 44.8938512616383
     },
     {
       "id": "_32",
-      "label": "Мали Збег",
-      "longitude": 20.456399,
-      "latitude": 44.893838
+      "label": "Pretok",
+      "longitude": 20.4581746603036,
+      "latitude": 44.8912048199244
     },
     {
       "id": "_33",
-      "label": "Преток",
-      "longitude": 20.458186,
-      "latitude": 44.891203
+      "label": "Zrenjaninski put",
+      "longitude": 20.4598023501255,
+      "latitude": 44.8871717620513
     },
     {
       "id": "_34",
-      "label": "Зрењанински Пут",
-      "longitude": 20.459859,
-      "latitude": 44.887221
+      "label": "Drinske divizije",
+      "longitude": 20.4578940758053,
+      "latitude": 44.8854672736455
     },
     {
       "id": "_35",
-      "label": "Дринске Дивизије",
-      "longitude": 20.458022,
-      "latitude": 44.885571
+      "label": "Save Mrkalja",
+      "longitude": 20.454957197326,
+      "latitude": 44.882775135379
     },
     {
       "id": "_36",
-      "label": "Саве Мркаља",
-      "longitude": 20.454907,
-      "latitude": 44.882725
+      "label": "Kombinatova",
+      "longitude": 20.4520965351724,
+      "latitude": 44.8800832843137
     },
     {
       "id": "_37",
-      "label": "Комбинатова",
-      "longitude": 20.452111,
-      "latitude": 44.880093
+      "label": "Bele Bartoka",
+      "longitude": 20.4514405407691,
+      "latitude": 44.877173336995
     },
     {
       "id": "_38",
-      "label": "Беле Бартока",
-      "longitude": 20.451539,
-      "latitude": 44.877187
-    },
-    {
-      "id": "_39",
-      "label": "Борча 3",
-      "longitude": 20.448304,
-      "latitude": 44.874704
+      "label": "Borča 3",
+      "longitude": 20.4484449166286,
+      "latitude": 44.8746121381327
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Борча 3",
-      "longitude": 20.448304,
-      "latitude": 44.874704
+      "label": "Borča 3",
+      "longitude": 20.4484449166286,
+      "latitude": 44.8746121381327
     },
     {
       "id": "_2",
-      "label": "Беле Бартока",
-      "longitude": 20.451826,
-      "latitude": 44.877627
+      "label": "Bele Bartoka",
+      "longitude": 20.4518386123245,
+      "latitude": 44.8776414096
     },
     {
       "id": "_3",
-      "label": "Комбинатова",
-      "longitude": 20.452808,
-      "latitude": 44.880576
+      "label": "Kombinatova",
+      "longitude": 20.4529338648228,
+      "latitude": 44.8806848411228
     },
     {
       "id": "_4",
-      "label": "Саве Мркаља",
-      "longitude": 20.454772,
-      "latitude": 44.882439
+      "label": "Save Mrkalja",
+      "longitude": 20.4549161232786,
+      "latitude": 44.8825661538478
     },
     {
       "id": "_5",
-      "label": "Дринске Дивизије",
-      "longitude": 20.457599,
-      "latitude": 44.885009
+      "label": "Drinske divizije",
+      "longitude": 20.4576773385603,
+      "latitude": 44.8850900741041
     },
     {
       "id": "_6",
-      "label": "Братства и Јединства",
-      "longitude": 20.460235,
-      "latitude": 44.888513
+      "label": "Bratstva i jedinstva",
+      "longitude": 20.4601084635954,
+      "latitude": 44.8885573114419
     },
     {
       "id": "_7",
-      "label": "Преток",
-      "longitude": 20.457784,
-      "latitude": 44.892162
+      "label": "Pretok",
+      "longitude": 20.4576305086878,
+      "latitude": 44.8922623784065
     },
     {
       "id": "_8",
-      "label": "Мали Збег",
-      "longitude": 20.455845,
-      "latitude": 44.895071
+      "label": "Mali zbeg",
+      "longitude": 20.4557685618205,
+      "latitude": 44.8950523745025
     },
     {
       "id": "_9",
-      "label": "Гробље Збег",
-      "longitude": 20.452344,
-      "latitude": 44.900445
+      "label": "Groblje Zbeg",
+      "longitude": 20.4538291957137,
+      "latitude": 44.897976961232
     },
     {
       "id": "_10",
-      "label": "Банатска",
-      "longitude": 20.377917,
-      "latitude": 44.857588
+      "label": "Banatska",
+      "longitude": 20.3779346366211,
+      "latitude": 44.857465648138
     },
     {
       "id": "_11",
-      "label": "Земун /Бачка/ ",
-      "longitude": 20.38026,
-      "latitude": 44.849638
+      "label": "Bačka",
+      "longitude": 20.3801540593474,
+      "latitude": 44.8496373375589
     },
     {
       "id": "_12",
-      "label": "Задругарска",
-      "longitude": 20.383138,
-      "latitude": 44.85016
+      "label": "Zadrugarska",
+      "longitude": 20.3831869838483,
+      "latitude": 44.8501882595356
     },
     {
       "id": "_13",
-      "label": "Филипа Вишњића",
-      "longitude": 20.3868,
-      "latitude": 44.84985
+      "label": "Filipa Višnjića",
+      "longitude": 20.3869021806923,
+      "latitude": 44.849871602398
     },
     {
       "id": "_14",
-      "label": "Бранка Пешића",
-      "longitude": 20.392061,
-      "latitude": 44.849022
+      "label": "Branka Pešića",
+      "longitude": 20.3920623745898,
+      "latitude": 44.8490441243012
     },
     {
       "id": "_15",
-      "label": "Стадион Земун",
-      "longitude": 20.396917,
-      "latitude": 44.847263
+      "label": "Stadion Zemun",
+      "longitude": 20.3970201865796,
+      "latitude": 44.8472254074816
     },
     {
       "id": "_16",
-      "label": "Новоградска",
-      "longitude": 20.401562,
-      "latitude": 44.845558
+      "label": "Novogradska",
+      "longitude": 20.4016246423256,
+      "latitude": 44.8455396238713
     },
     {
       "id": "_17",
-      "label": "КБЦ Земун",
-      "longitude": 20.407075,
-      "latitude": 44.840334
+      "label": "KBC Zemun",
+      "longitude": 20.4070744215334,
+      "latitude": 44.8403284321712
     },
     {
       "id": "_18",
-      "label": "Александра Дубчека",
-      "longitude": 20.410782,
-      "latitude": 44.839011
+      "label": "Aleksandra Dubčeka",
+      "longitude": 20.4109439891515,
+      "latitude": 44.8389336523026
     },
     {
       "id": "_19",
-      "label": "22 октобра",
-      "longitude": 20.411215,
-      "latitude": 44.837909
+      "label": "Džona Kenedija",
+      "longitude": 20.4096906443783,
+      "latitude": 44.8340674860514
     },
     {
       "id": "_20",
-      "label": "Џона Кенедија",
-      "longitude": 20.40969,
-      "latitude": 44.834032
+      "label": "Bulevar Maršala Tolbuhina",
+      "longitude": 20.4111070310089,
+      "latitude": 44.8298414053327
     },
     {
       "id": "_21",
-      "label": "Маршала Толбухина булевар",
-      "longitude": 20.411088,
-      "latitude": 44.829865
+      "label": "Arhiv",
+      "longitude": 20.4120381076528,
+      "latitude": 44.8270653368328
     },
     {
       "id": "_22",
-      "label": "Архив",
-      "longitude": 20.412042,
-      "latitude": 44.827043
+      "label": "GO Novi Beograd",
+      "longitude": 20.4119222276615,
+      "latitude": 44.8230221655042
     },
     {
       "id": "_23",
-      "label": "ГО Нови Београд",
-      "longitude": 20.41197,
-      "latitude": 44.823102
+      "label": "Bulevar Zorana Đinđića",
+      "longitude": 20.409434007589,
+      "latitude": 44.8202501313123
     },
     {
       "id": "_24",
-      "label": "Зорана Ђинђића булевар",
-      "longitude": 20.409494,
-      "latitude": 44.820368
+      "label": "Milutina Milankovića",
+      "longitude": 20.4056530085192,
+      "latitude": 44.8160728247077
     },
     {
       "id": "_25",
-      "label": "Милутина Миланковића",
-      "longitude": 20.405636,
-      "latitude": 44.816096
+      "label": "Airport City",
+      "longitude": 20.4012577009893,
+      "latitude": 44.8111992211083
     },
     {
       "id": "_26",
-      "label": "Airport City",
-      "longitude": 20.401228,
-      "latitude": 44.811205
+      "label": "Garaža \"Novi Beograd\"",
+      "longitude": 20.4057902913792,
+      "latitude": 44.8073457967651
     },
     {
       "id": "_27",
-      "label": "Гаража Нови Београд",
-      "longitude": 20.405853,
-      "latitude": 44.807314
+      "label": "Bulevar Crvene Armije",
+      "longitude": 20.4128613314903,
+      "latitude": 44.8051701265005
     },
     {
       "id": "_28",
-      "label": "Марка Христића",
-      "longitude": 20.412836,
-      "latitude": 44.805167
+      "label": "Blok 42",
+      "longitude": 20.4185832082903,
+      "latitude": 44.8036117547834
     },
     {
       "id": "_29",
-      "label": "Блок 42",
-      "longitude": 20.418545,
-      "latitude": 44.803626
+      "label": "Kneza Višeslava",
+      "longitude": 20.4211209252658,
+      "latitude": 44.7831002074612
     },
     {
       "id": "_30",
-      "label": "Петља Радничка",
-      "longitude": 20.427017,
-      "latitude": 44.790992
+      "label": "Škola Josif Pančić",
+      "longitude": 20.4171984049806,
+      "latitude": 44.7810968392086
     },
     {
       "id": "_31",
-      "label": "Кнеза Вишеслава",
-      "longitude": 20.421204,
-      "latitude": 44.783099
+      "label": "Dom zdravlja",
+      "longitude": 20.4144724285048,
+      "latitude": 44.77774411363
     },
     {
       "id": "_32",
-      "label": "Школа Jосиф Панчић",
-      "longitude": 20.41738,
-      "latitude": 44.781286
+      "label": "Kijevska",
+      "longitude": 20.4135459176844,
+      "latitude": 44.775395889586
     },
     {
       "id": "_33",
-      "label": "Дом здравља",
-      "longitude": 20.414599,
-      "latitude": 44.777834
+      "label": "Trebevićka",
+      "longitude": 20.4140922912439,
+      "latitude": 44.7713254696764
     },
     {
       "id": "_34",
-      "label": "Кијевска",
-      "longitude": 20.41357,
-      "latitude": 44.775426
-    },
-    {
-      "id": "_35",
-      "label": "Требевићка",
-      "longitude": 20.414127,
-      "latitude": 44.771418
-    },
-    {
-      "id": "_36",
-      "label": "Баново Брдо (Предграђе)",
-      "longitude": 20.413826,
-      "latitude": 44.768453
+      "label": "Banovo brdo",
+      "longitude": 20.4138049186733,
+      "latitude": 44.7684981299951
     }
   ]
 }

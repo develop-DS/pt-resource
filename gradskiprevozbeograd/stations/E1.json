@@ -1,0 +1,390 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Bulevar kralja Aleksandra",
+      "longitude": 20.5176944350182,
+      "latitude": 44.7839787182907
+    },
+    {
+      "id": "_2",
+      "label": "Konjarnik",
+      "longitude": 20.5104823760785,
+      "latitude": 44.7823606690898
+    },
+    {
+      "id": "_3",
+      "label": "Petrinjska",
+      "longitude": 20.5055970497212,
+      "latitude": 44.7829697032573
+    },
+    {
+      "id": "_4",
+      "label": "Šumice",
+      "longitude": 20.5012977838359,
+      "latitude": 44.7838942610232
+    },
+    {
+      "id": "_5",
+      "label": "Rimska",
+      "longitude": 20.500120814078,
+      "latitude": 44.787042589884
+    },
+    {
+      "id": "_6",
+      "label": "Škola Vojislav Ilić",
+      "longitude": 20.497423174079,
+      "latitude": 44.7918221764687
+    },
+    {
+      "id": "_7",
+      "label": "Velimira Todorovića",
+      "longitude": 20.4943810962527,
+      "latitude": 44.7937149222967
+    },
+    {
+      "id": "_8",
+      "label": "Bregalnička",
+      "longitude": 20.4907486106064,
+      "latitude": 44.7951693901315
+    },
+    {
+      "id": "_9",
+      "label": "Crveni krst",
+      "longitude": 20.4859194528292,
+      "latitude": 44.7978585259903
+    },
+    {
+      "id": "_10",
+      "label": "Vojvode Dragomira",
+      "longitude": 20.4802070456083,
+      "latitude": 44.7980577850169
+    },
+    {
+      "id": "_11",
+      "label": "Novopazarska",
+      "longitude": 20.4740420932187,
+      "latitude": 44.7979774990468
+    },
+    {
+      "id": "_12",
+      "label": "Katanićeva",
+      "longitude": 20.4712045690011,
+      "latitude": 44.800052353489
+    },
+    {
+      "id": "_13",
+      "label": "Trg Slavija (Nemanjina)",
+      "longitude": 20.4645643189521,
+      "latitude": 44.8032487975536
+    },
+    {
+      "id": "_14",
+      "label": "Kneza Miloša",
+      "longitude": 20.461314907081,
+      "latitude": 44.8052350860987
+    },
+    {
+      "id": "_15",
+      "label": "Kamenička",
+      "longitude": 20.4562962076639,
+      "latitude": 44.8117342746216
+    },
+    {
+      "id": "_16",
+      "label": "Brankov most",
+      "longitude": 20.4520673994809,
+      "latitude": 44.8153355656855
+    },
+    {
+      "id": "_17",
+      "label": "Blok 21",
+      "longitude": 20.433509600562,
+      "latitude": 44.813738913336
+    },
+    {
+      "id": "_18",
+      "label": "Sava centar",
+      "longitude": 20.429376966835,
+      "latitude": 44.8091880699878
+    },
+    {
+      "id": "_19",
+      "label": "Blok 23",
+      "longitude": 20.4272059403329,
+      "latitude": 44.8067869745889
+    },
+    {
+      "id": "_20",
+      "label": "Milutina Milankovića",
+      "longitude": 20.4222768941996,
+      "latitude": 44.807174434539
+    },
+    {
+      "id": "_21",
+      "label": "Železnička stanica Novi Beograd",
+      "longitude": 20.4184994400701,
+      "latitude": 44.807184145511
+    },
+    {
+      "id": "_22",
+      "label": "Blok 42",
+      "longitude": 20.4161138241365,
+      "latitude": 44.8040491880885
+    },
+    {
+      "id": "_23",
+      "label": "Naselje Belvil",
+      "longitude": 20.4087912710902,
+      "latitude": 44.8043806592678
+    },
+    {
+      "id": "_24",
+      "label": "Agostina Neta",
+      "longitude": 20.402670230293,
+      "latitude": 44.804645928585
+    },
+    {
+      "id": "_25",
+      "label": "Omladinskih brigada",
+      "longitude": 20.3981750749657,
+      "latitude": 44.8046404276435
+    },
+    {
+      "id": "_26",
+      "label": "Blok 70",
+      "longitude": 20.3936830200988,
+      "latitude": 44.8043377814529
+    },
+    {
+      "id": "_27",
+      "label": "Gandijeva",
+      "longitude": 20.3867666614598,
+      "latitude": 44.8032966577503
+    },
+    {
+      "id": "_28",
+      "label": "Nehruova",
+      "longitude": 20.3797930284702,
+      "latitude": 44.8014862444975
+    },
+    {
+      "id": "_29",
+      "label": "OŠ Branko Radičević",
+      "longitude": 20.3750640665513,
+      "latitude": 44.7997362577074
+    },
+    {
+      "id": "_30",
+      "label": "Dr Ivana Ribara 1",
+      "longitude": 20.3720076477441,
+      "latitude": 44.7966975121338
+    },
+    {
+      "id": "_31",
+      "label": "Blok 45",
+      "longitude": 20.3751162660873,
+      "latitude": 44.7927636918094
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Blok 45",
+      "longitude": 20.3751291683801,
+      "latitude": 44.7929743516835
+    },
+    {
+      "id": "_2",
+      "label": "Dr Ivana Ribara 1",
+      "longitude": 20.372822056412,
+      "latitude": 44.795955006956
+    },
+    {
+      "id": "_3",
+      "label": "Dr Ivana Ribara",
+      "longitude": 20.3723636222563,
+      "latitude": 44.7981447883689
+    },
+    {
+      "id": "_4",
+      "label": "OŠ Branko Radičević",
+      "longitude": 20.3758104864697,
+      "latitude": 44.7996755264851
+    },
+    {
+      "id": "_5",
+      "label": "Nehruova",
+      "longitude": 20.3801345001671,
+      "latitude": 44.8012325038803
+    },
+    {
+      "id": "_6",
+      "label": "Gandijeva",
+      "longitude": 20.3890031634022,
+      "latitude": 44.8033859914348
+    },
+    {
+      "id": "_7",
+      "label": "Blok 70",
+      "longitude": 20.3938859295558,
+      "latitude": 44.8040328697862
+    },
+    {
+      "id": "_8",
+      "label": "Omladinskih brigada",
+      "longitude": 20.3982187854152,
+      "latitude": 44.8043256732423
+    },
+    {
+      "id": "_9",
+      "label": "Agostina Neta",
+      "longitude": 20.4050383387221,
+      "latitude": 44.8042352593398
+    },
+    {
+      "id": "_10",
+      "label": "Naselje Belvil",
+      "longitude": 20.4113692,
+      "latitude": 44.8039192
+    },
+    {
+      "id": "_11",
+      "label": "Blok 42",
+      "longitude": 20.4174981040421,
+      "latitude": 44.8046717945968
+    },
+    {
+      "id": "_12",
+      "label": "Železnička stanica Novi Beograd",
+      "longitude": 20.4188123909699,
+      "latitude": 44.8069877418935
+    },
+    {
+      "id": "_13",
+      "label": "Milutina Milankovića",
+      "longitude": 20.4229537163457,
+      "latitude": 44.8064884771245
+    },
+    {
+      "id": "_14",
+      "label": "Blok 23",
+      "longitude": 20.4277141637499,
+      "latitude": 44.8067841114559
+    },
+    {
+      "id": "_15",
+      "label": "Sava centar",
+      "longitude": 20.4306656730991,
+      "latitude": 44.810044028612
+    },
+    {
+      "id": "_16",
+      "label": "Blok 21",
+      "longitude": 20.4340503176078,
+      "latitude": 44.8137811800735
+    },
+    {
+      "id": "_17",
+      "label": "Brankov most",
+      "longitude": 20.4526067155746,
+      "latitude": 44.8149925584042
+    },
+    {
+      "id": "_18",
+      "label": "Zeleni venac",
+      "longitude": 20.4568381962374,
+      "latitude": 44.8143467033491
+    },
+    {
+      "id": "_19",
+      "label": "Vaznesenjska crkva",
+      "longitude": 20.4621321298156,
+      "latitude": 44.807904581549
+    },
+    {
+      "id": "_20",
+      "label": "Kneza Miloša",
+      "longitude": 20.4606080823449,
+      "latitude": 44.8053901574623
+    },
+    {
+      "id": "_21",
+      "label": "Trg Slavija (Nemanjina)",
+      "longitude": 20.4645567418167,
+      "latitude": 44.8029733763053
+    },
+    {
+      "id": "_22",
+      "label": "Katanićeva",
+      "longitude": 20.4717355606405,
+      "latitude": 44.7994842279664
+    },
+    {
+      "id": "_23",
+      "label": "Mačvanska",
+      "longitude": 20.4740772330908,
+      "latitude": 44.7977256727693
+    },
+    {
+      "id": "_24",
+      "label": "Vojvode Dragomira",
+      "longitude": 20.4791162226368,
+      "latitude": 44.7979178460651
+    },
+    {
+      "id": "_25",
+      "label": "Crveni krst",
+      "longitude": 20.4873972933218,
+      "latitude": 44.7973989593364
+    },
+    {
+      "id": "_26",
+      "label": "Bregalnička",
+      "longitude": 20.4907370115391,
+      "latitude": 44.7950505445845
+    },
+    {
+      "id": "_27",
+      "label": "Velimira Todorovića",
+      "longitude": 20.4950368418566,
+      "latitude": 44.7933020296051
+    },
+    {
+      "id": "_28",
+      "label": "Škola Vojislav Ilić",
+      "longitude": 20.4979375141849,
+      "latitude": 44.7908412949086
+    },
+    {
+      "id": "_29",
+      "label": "Rimska",
+      "longitude": 20.499699960586,
+      "latitude": 44.7874871347574
+    },
+    {
+      "id": "_30",
+      "label": "Šumice",
+      "longitude": 20.5022492654904,
+      "latitude": 44.7831622259354
+    },
+    {
+      "id": "_31",
+      "label": "Petrinjska",
+      "longitude": 20.5071650444596,
+      "latitude": 44.7825444661776
+    },
+    {
+      "id": "_32",
+      "label": "Konjarnik",
+      "longitude": 20.5113646280986,
+      "latitude": 44.7820314434885
+    },
+    {
+      "id": "_33",
+      "label": "Ustanička",
+      "longitude": 20.5172001841431,
+      "latitude": 44.7847596034066
+    }
+  ]
+}

@@ -1,0 +1,594 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Dorćol (Dunavska)",
+      "longitude": 20.4613457005631,
+      "latitude": 44.8281102046792
+    },
+    {
+      "id": "_2",
+      "label": "Despota Đurđa",
+      "longitude": 20.4616831482304,
+      "latitude": 44.8260851005774
+    },
+    {
+      "id": "_3",
+      "label": "Kralja Petra",
+      "longitude": 20.4602867462446,
+      "latitude": 44.8231213035395
+    },
+    {
+      "id": "_4",
+      "label": "Dorćol (Kneginje Ljubice)",
+      "longitude": 20.4641043800112,
+      "latitude": 44.8210603098234
+    },
+    {
+      "id": "_5",
+      "label": "Pijaca Skadarlija",
+      "longitude": 20.4670188803185,
+      "latitude": 44.8181778406019
+    },
+    {
+      "id": "_6",
+      "label": "Bulevar despota Stefana",
+      "longitude": 20.4692938734787,
+      "latitude": 44.8163434835923
+    },
+    {
+      "id": "_7",
+      "label": "Takovska",
+      "longitude": 20.4718837356293,
+      "latitude": 44.8135133831198
+    },
+    {
+      "id": "_8",
+      "label": "Palilulska pijaca",
+      "longitude": 20.4744349063776,
+      "latitude": 44.8104598570345
+    },
+    {
+      "id": "_9",
+      "label": "Pravni fakultet",
+      "longitude": 20.472279999544,
+      "latitude": 44.8077429092955
+    },
+    {
+      "id": "_10",
+      "label": "Trg Slavija (Bulevar oslobođenja)",
+      "longitude": 20.4660196131815,
+      "latitude": 44.8014232725427
+    },
+    {
+      "id": "_11",
+      "label": "Karađorđev park",
+      "longitude": 20.4651954172747,
+      "latitude": 44.7970276562542
+    },
+    {
+      "id": "_12",
+      "label": "Franše D'Eperea",
+      "longitude": 20.466428073984,
+      "latitude": 44.7927226092191
+    },
+    {
+      "id": "_13",
+      "label": "Trg oslobođenja",
+      "longitude": 20.4672988223481,
+      "latitude": 44.7862397716509
+    },
+    {
+      "id": "_14",
+      "label": "Kralja Vladimira",
+      "longitude": 20.4714618206852,
+      "latitude": 44.7820310239031
+    },
+    {
+      "id": "_15",
+      "label": "Vitanovačka",
+      "longitude": 20.4745825877532,
+      "latitude": 44.7770343908444
+    },
+    {
+      "id": "_16",
+      "label": "Petrovačka",
+      "longitude": 20.4756785760107,
+      "latitude": 44.7748723042334
+    },
+    {
+      "id": "_17",
+      "label": "Nikšićka",
+      "longitude": 20.4779177105912,
+      "latitude": 44.7714608699044
+    },
+    {
+      "id": "_18",
+      "label": "Visoka škola elektrotehnike",
+      "longitude": 20.4794926165984,
+      "latitude": 44.7685539560792
+    },
+    {
+      "id": "_19",
+      "label": "Saobraćajni fakultet",
+      "longitude": 20.4825168033552,
+      "latitude": 44.7651675846705
+    },
+    {
+      "id": "_20",
+      "label": "Voždovac (terminus)",
+      "longitude": 20.4835198646956,
+      "latitude": 44.7611744799175
+    },
+    {
+      "id": "_21",
+      "label": "Bebelova",
+      "longitude": 20.4832383922184,
+      "latitude": 44.7584445320514
+    },
+    {
+      "id": "_22",
+      "label": "Baštovanska",
+      "longitude": 20.4769166183889,
+      "latitude": 44.7563225830384
+    },
+    {
+      "id": "_23",
+      "label": "Kragujevačkih đaka",
+      "longitude": 20.47754078793,
+      "latitude": 44.7540449240459
+    },
+    {
+      "id": "_24",
+      "label": "Banjica 2",
+      "longitude": 20.4801848027573,
+      "latitude": 44.7518628235505
+    },
+    {
+      "id": "_25",
+      "label": "Riste Stefanovića",
+      "longitude": 20.4793635447923,
+      "latitude": 44.7502031706088
+    },
+    {
+      "id": "_26",
+      "label": "Voje Radića",
+      "longitude": 20.4769384854576,
+      "latitude": 44.7468514827878
+    },
+    {
+      "id": "_27",
+      "label": "Save Jovanovića",
+      "longitude": 20.4834053629237,
+      "latitude": 44.7424601556871
+    },
+    {
+      "id": "_28",
+      "label": "Jajinci (Dom zdravlja)",
+      "longitude": 20.4861169214133,
+      "latitude": 44.740265617896
+    },
+    {
+      "id": "_29",
+      "label": "Milutina Miljkovića",
+      "longitude": 20.4837925403637,
+      "latitude": 44.7352423866594
+    },
+    {
+      "id": "_30",
+      "label": "Kefalonijska",
+      "longitude": 20.4831979569665,
+      "latitude": 44.7305292944087
+    },
+    {
+      "id": "_31",
+      "label": "Spomen park Jajinci",
+      "longitude": 20.4862998309397,
+      "latitude": 44.7272439461864
+    },
+    {
+      "id": "_32",
+      "label": "Rakovica selo (spomen česma)",
+      "longitude": 20.4950647856393,
+      "latitude": 44.7265286685876
+    },
+    {
+      "id": "_33",
+      "label": "Rakovica selo",
+      "longitude": 20.4982911274066,
+      "latitude": 44.7215840013829
+    },
+    {
+      "id": "_34",
+      "label": "Kružni put",
+      "longitude": 20.5039882966384,
+      "latitude": 44.7187198665143
+    },
+    {
+      "id": "_35",
+      "label": "Beli potok (Kumbara)",
+      "longitude": 20.5060446317841,
+      "latitude": 44.710800016954
+    },
+    {
+      "id": "_36",
+      "label": "Put za Beli potok",
+      "longitude": 20.5092652072924,
+      "latitude": 44.7063247850939
+    },
+    {
+      "id": "_37",
+      "label": "OŠ Vasa Čarapić",
+      "longitude": 20.5111349654419,
+      "latitude": 44.7048766121865
+    },
+    {
+      "id": "_38",
+      "label": "Beli potok (ulaz)",
+      "longitude": 20.5133554341914,
+      "latitude": 44.7037322852179
+    },
+    {
+      "id": "_39",
+      "label": "Beli potok (centar)",
+      "longitude": 20.5186369825064,
+      "latitude": 44.7053672960471
+    },
+    {
+      "id": "_40",
+      "label": "Braće Jakovljević",
+      "longitude": 20.5215203329305,
+      "latitude": 44.7080126579632
+    },
+    {
+      "id": "_41",
+      "label": "Glumačka",
+      "longitude": 20.5242769848637,
+      "latitude": 44.7088916826156
+    },
+    {
+      "id": "_42",
+      "label": "Beli potok",
+      "longitude": 20.5268641427271,
+      "latitude": 44.7092047619982
+    },
+    {
+      "id": "_43",
+      "label": "Glumačka",
+      "longitude": 20.5241046204747,
+      "latitude": 44.7089809652127
+    },
+    {
+      "id": "_44",
+      "label": "Braće Jakovljević",
+      "longitude": 20.5216325243018,
+      "latitude": 44.7081823195969
+    },
+    {
+      "id": "_45",
+      "label": "Beli potok (centar)",
+      "longitude": 20.5194284482361,
+      "latitude": 44.7058007969207
+    },
+    {
+      "id": "_46",
+      "label": "Beli potok (ulaz)",
+      "longitude": 20.5149020714895,
+      "latitude": 44.7043976083952
+    },
+    {
+      "id": "_47",
+      "label": "OŠ Vasa Čarapić",
+      "longitude": 20.5112983046915,
+      "latitude": 44.7049619047375
+    },
+    {
+      "id": "_48",
+      "label": "Put za Beli potok",
+      "longitude": 20.5086364464305,
+      "latitude": 44.7063598943117
+    },
+    {
+      "id": "_49",
+      "label": "Pošta",
+      "longitude": 20.5043084320204,
+      "latitude": 44.7012384604296
+    },
+    {
+      "id": "_50",
+      "label": "Avala",
+      "longitude": 20.5018191701087,
+      "latitude": 44.6963102467437
+    },
+    {
+      "id": "_51",
+      "label": "MZ Pinosava",
+      "longitude": 20.4930597872123,
+      "latitude": 44.6954655223584
+    },
+    {
+      "id": "_52",
+      "label": "OŠ Vasa Čarapić",
+      "longitude": 20.4892199740096,
+      "latitude": 44.6950705112056
+    },
+    {
+      "id": "_53",
+      "label": "Zadruga",
+      "longitude": 20.483920689185,
+      "latitude": 44.696783748838
+    },
+    {
+      "id": "_54",
+      "label": "Groblje",
+      "longitude": 20.4785856853153,
+      "latitude": 44.6965274423701
+    },
+    {
+      "id": "_55",
+      "label": "Donji kraj",
+      "longitude": 20.475324655688,
+      "latitude": 44.6963163862862
+    },
+    {
+      "id": "_56",
+      "label": "Pinosava",
+      "longitude": 20.4708450618184,
+      "latitude": 44.6957972344891
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Pinosava",
+      "longitude": 20.4708450618184,
+      "latitude": 44.6957972344891
+    },
+    {
+      "id": "_2",
+      "label": "Donji kraj",
+      "longitude": 20.4748754567874,
+      "latitude": 44.6960371407522
+    },
+    {
+      "id": "_3",
+      "label": "Groblje",
+      "longitude": 20.4783639142149,
+      "latitude": 44.6962114448512
+    },
+    {
+      "id": "_4",
+      "label": "Zadruga",
+      "longitude": 20.4834413147682,
+      "latitude": 44.6967725925659
+    },
+    {
+      "id": "_5",
+      "label": "OŠ Vasa Čarapić",
+      "longitude": 20.4895845192313,
+      "latitude": 44.694937137294
+    },
+    {
+      "id": "_6",
+      "label": "MZ Pinosava",
+      "longitude": 20.4937589219824,
+      "latitude": 44.695450608588
+    },
+    {
+      "id": "_7",
+      "label": "Avala",
+      "longitude": 20.502043577643,
+      "latitude": 44.696628010097
+    },
+    {
+      "id": "_8",
+      "label": "Pošta",
+      "longitude": 20.5048371509229,
+      "latitude": 44.7016853273796
+    },
+    {
+      "id": "_9",
+      "label": "Put za Beli potok",
+      "longitude": 20.5085820784282,
+      "latitude": 44.7074216250521
+    },
+    {
+      "id": "_10",
+      "label": "Beli potok (Kumbara)",
+      "longitude": 20.5062572465612,
+      "latitude": 44.7107307340769
+    },
+    {
+      "id": "_11",
+      "label": "Kružni put",
+      "longitude": 20.504162221515,
+      "latitude": 44.7190482059349
+    },
+    {
+      "id": "_12",
+      "label": "Rakovica selo",
+      "longitude": 20.4975661062226,
+      "latitude": 44.7219300172401
+    },
+    {
+      "id": "_13",
+      "label": "Rakovica selo (spomen česma)",
+      "longitude": 20.4944744021448,
+      "latitude": 44.7264792717087
+    },
+    {
+      "id": "_14",
+      "label": "Spomen park Jajinci",
+      "longitude": 20.4842999484184,
+      "latitude": 44.7295496892026
+    },
+    {
+      "id": "_15",
+      "label": "Milutina Miljkovića",
+      "longitude": 20.4839292788514,
+      "latitude": 44.7351998032955
+    },
+    {
+      "id": "_16",
+      "label": "Jajinci (Dom zdravlja)",
+      "longitude": 20.4852827788957,
+      "latitude": 44.7412086418607
+    },
+    {
+      "id": "_17",
+      "label": "Save Jovanovića",
+      "longitude": 20.4832321340049,
+      "latitude": 44.7426285689467
+    },
+    {
+      "id": "_18",
+      "label": "Voje Radića",
+      "longitude": 20.477276790342,
+      "latitude": 44.7463040469182
+    },
+    {
+      "id": "_19",
+      "label": "Riste Stefanovića",
+      "longitude": 20.4801659780458,
+      "latitude": 44.7500088163803
+    },
+    {
+      "id": "_20",
+      "label": "Banjica 2",
+      "longitude": 20.480517163468,
+      "latitude": 44.7516987354478
+    },
+    {
+      "id": "_21",
+      "label": "Kragujevačkih đaka",
+      "longitude": 20.4770363141633,
+      "latitude": 44.754807593616
+    },
+    {
+      "id": "_22",
+      "label": "Baštovanska",
+      "longitude": 20.4772006355453,
+      "latitude": 44.7570456461003
+    },
+    {
+      "id": "_23",
+      "label": "Saobraćajni fakultet",
+      "longitude": 20.4823006160142,
+      "latitude": 44.7658973770496
+    },
+    {
+      "id": "_24",
+      "label": "Visoka škola elektrotehnike",
+      "longitude": 20.4795392541324,
+      "latitude": 44.7687071606744
+    },
+    {
+      "id": "_25",
+      "label": "Nikšićka",
+      "longitude": 20.4772010711223,
+      "latitude": 44.7730415348957
+    },
+    {
+      "id": "_26",
+      "label": "Vitanovačka",
+      "longitude": 20.474630576442,
+      "latitude": 44.7773171973497
+    },
+    {
+      "id": "_27",
+      "label": "Kralja Vladimira",
+      "longitude": 20.4718924358984,
+      "latitude": 44.7816442248745
+    },
+    {
+      "id": "_28",
+      "label": "Bože Jankovića",
+      "longitude": 20.470332526245,
+      "latitude": 44.7836547393734
+    },
+    {
+      "id": "_29",
+      "label": "Trg oslobođenja",
+      "longitude": 20.4664128286546,
+      "latitude": 44.787218407701
+    },
+    {
+      "id": "_30",
+      "label": "Franše D'Eperea",
+      "longitude": 20.4666800433672,
+      "latitude": 44.7928101762883
+    },
+    {
+      "id": "_31",
+      "label": "Karađorđev park",
+      "longitude": 20.4657590648182,
+      "latitude": 44.7982550256383
+    },
+    {
+      "id": "_32",
+      "label": "Trg Slavija (Bulevar oslobođenja)",
+      "longitude": 20.4664336279974,
+      "latitude": 44.8017635811315
+    },
+    {
+      "id": "_33",
+      "label": "Pravni fakultet",
+      "longitude": 20.4721432970724,
+      "latitude": 44.8074830940531
+    },
+    {
+      "id": "_34",
+      "label": "Palilulska pijaca",
+      "longitude": 20.4748550255486,
+      "latitude": 44.8104167826562
+    },
+    {
+      "id": "_35",
+      "label": "Takovska",
+      "longitude": 20.4724907468709,
+      "latitude": 44.8132191907578
+    },
+    {
+      "id": "_36",
+      "label": "Bulevar despota Stefana",
+      "longitude": 20.4693722603082,
+      "latitude": 44.8166210312405
+    },
+    {
+      "id": "_37",
+      "label": "Pijaca Skadarlija",
+      "longitude": 20.4670683534984,
+      "latitude": 44.8185740490402
+    },
+    {
+      "id": "_38",
+      "label": "Dorćol (Kneginje Ljubice)",
+      "longitude": 20.464340466377,
+      "latitude": 44.821237802558
+    },
+    {
+      "id": "_39",
+      "label": "Kralja Petra",
+      "longitude": 20.4602737388993,
+      "latitude": 44.8234326253102
+    },
+    {
+      "id": "_40",
+      "label": "Braće Baruh",
+      "longitude": 20.457223365058,
+      "latitude": 44.8250921444758
+    },
+    {
+      "id": "_41",
+      "label": "Solunska",
+      "longitude": 20.4560351924503,
+      "latitude": 44.8269278160156
+    },
+    {
+      "id": "_42",
+      "label": "Dorćol (Dunavska)",
+      "longitude": 20.4613457005631,
+      "latitude": 44.8281102046792
+    }
+  ]
+}

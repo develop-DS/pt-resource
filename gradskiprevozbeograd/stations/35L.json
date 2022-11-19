@@ -2,173 +2,161 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Омладински Стадион",
-      "longitude": 20.490085,
-      "latitude": 44.815368
+      "label": "Omladinski stadion (ulaz)",
+      "longitude": 20.4899881419036,
+      "latitude": 44.8153087746295
     },
     {
       "id": "_2",
-      "label": "Вука Врчевића",
-      "longitude": 20.495489,
-      "latitude": 44.817647
+      "label": "Vuka Vrčevića",
+      "longitude": 20.4954830533882,
+      "latitude": 44.8176369359186
     },
     {
       "id": "_3",
-      "label": "Војводе Мицка Крстића",
-      "longitude": 20.502792,
-      "latitude": 44.81758
+      "label": "Vojvode Micka Krstića",
+      "longitude": 20.5028801587146,
+      "latitude": 44.8175972135596
     },
     {
       "id": "_4",
-      "label": "Диљска",
-      "longitude": 20.510768,
-      "latitude": 44.817341
+      "label": "Diljska",
+      "longitude": 20.5109615243617,
+      "latitude": 44.8173799386268
     },
     {
       "id": "_5",
-      "label": "Пут за Аду Хују",
-      "longitude": 20.51428,
-      "latitude": 44.81741
+      "label": "Put za Adu Huju",
+      "longitude": 20.5142866250105,
+      "latitude": 44.8174120537577
     },
     {
       "id": "_6",
-      "label": "Миријевски булевар",
-      "longitude": 20.519635,
-      "latitude": 44.817408
+      "label": "Mirijevski bulevar",
+      "longitude": 20.5196727797822,
+      "latitude": 44.8174347142419
     },
     {
       "id": "_7",
-      "label": "Роспи Ћуприја",
-      "longitude": 20.523064,
-      "latitude": 44.817622
+      "label": "Rospi ćuprija",
+      "longitude": 20.5230954184101,
+      "latitude": 44.8176001737516
     },
     {
       "id": "_8",
-      "label": "Трудбеничка",
-      "longitude": 20.528393,
-      "latitude": 44.815664
+      "label": "Trudbenička",
+      "longitude": 20.5284316669652,
+      "latitude": 44.8156711182624
     },
     {
       "id": "_9",
-      "label": "Вишњичка Бања",
-      "longitude": 20.532628,
-      "latitude": 44.8156
+      "label": "Višnjička banja",
+      "longitude": 20.5326527621815,
+      "latitude": 44.8155893811077
     },
     {
       "id": "_10",
-      "label": "Топлана",
-      "longitude": 20.537285,
-      "latitude": 44.814511
+      "label": "Toplana",
+      "longitude": 20.5371520280417,
+      "latitude": 44.8145510604222
     },
     {
       "id": "_11",
-      "label": "Ново Насеље",
-      "longitude": 20.541585,
-      "latitude": 44.81359
+      "label": "Novo naselje",
+      "longitude": 20.5418996400027,
+      "latitude": 44.8134235579533
     },
     {
       "id": "_12",
-      "label": "Лешће",
-      "longitude": 20.543758,
-      "latitude": 44.811644
+      "label": "Lešće",
+      "longitude": 20.543774803355,
+      "latitude": 44.8116257178208
     },
     {
       "id": "_13",
-      "label": "Лешће /Гробље/",
-      "longitude": 20.546732,
-      "latitude": 44.810163
+      "label": "Lešće (groblje)",
+      "longitude": 20.5468381569559,
+      "latitude": 44.8101619235177
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Лешће /Гробље/",
-      "longitude": 20.546732,
-      "latitude": 44.810163
+      "label": "Lešće (groblje)",
+      "longitude": 20.5468381569559,
+      "latitude": 44.8101619235177
     },
     {
       "id": "_2",
-      "label": "Лешће",
-      "longitude": 20.542843,
-      "latitude": 44.812315
+      "label": "Lešće",
+      "longitude": 20.542805277794,
+      "latitude": 44.8124084207708
     },
     {
       "id": "_3",
-      "label": "Ново Насеље",
-      "longitude": 20.541179,
-      "latitude": 44.813881
+      "label": "Novo naselje",
+      "longitude": 20.5414187661415,
+      "latitude": 44.8137996187271
     },
     {
       "id": "_4",
-      "label": "Топлана",
-      "longitude": 20.536616,
-      "latitude": 44.814865
+      "label": "Toplana",
+      "longitude": 20.5365779282551,
+      "latitude": 44.8148799274388
     },
     {
       "id": "_5",
-      "label": "Вишњичка Бања",
-      "longitude": 20.532033,
-      "latitude": 44.815776
+      "label": "Višnjika banja",
+      "longitude": 20.5319963250262,
+      "latitude": 44.8157756974849
     },
     {
       "id": "_6",
-      "label": "Трудбеничка",
-      "longitude": 20.526989,
-      "latitude": 44.8162
+      "label": "Trudbenička",
+      "longitude": 20.5270544898722,
+      "latitude": 44.8161730269356
     },
     {
       "id": "_7",
-      "label": "Роспи Ћуприја",
-      "longitude": 20.521879,
-      "latitude": 44.817996
+      "label": "Rospi ćuprija",
+      "longitude": 20.5218657930662,
+      "latitude": 44.8179838388451
     },
     {
       "id": "_8",
-      "label": "Миријевски булевар",
-      "longitude": 20.519454,
-      "latitude": 44.817722
+      "label": "Mirijevski bulevar",
+      "longitude": 20.5193544597331,
+      "latitude": 44.8177033675796
     },
     {
       "id": "_9",
-      "label": "Пут за Аду Хују",
-      "longitude": 20.514094,
-      "latitude": 44.817643
+      "label": "Put za Adu Huju",
+      "longitude": 20.5140747872485,
+      "latitude": 44.817645144763
     },
     {
       "id": "_10",
-      "label": "Диљска",
-      "longitude": 20.509684,
-      "latitude": 44.817686
+      "label": "Diljska",
+      "longitude": 20.5096519067719,
+      "latitude": 44.8176443378156
     },
     {
       "id": "_11",
-      "label": "Војводе Мицка Крстића",
-      "longitude": 20.502955,
-      "latitude": 44.817856
+      "label": "Vojvode Micka Krstića",
+      "longitude": 20.502974019314,
+      "latitude": 44.8178586059719
     },
     {
       "id": "_12",
-      "label": "Вука Врчевића",
-      "longitude": 20.496788,
-      "latitude": 44.817933
+      "label": "Vuka Vrčevića",
+      "longitude": 20.4967449953722,
+      "latitude": 44.8179214607077
     },
     {
       "id": "_13",
-      "label": "СУП Палилула",
-      "longitude": 20.493847,
-      "latitude": 44.817223
-    },
-    {
-      "id": "_14",
-      "label": "Омладински Стадион",
-      "longitude": 20.489693,
-      "latitude": 44.815337
-    },
-    {
-      "id": "_15",
-      "label": "Омладински Стадион",
-      "longitude": 20.490085,
-      "latitude": 44.815368
+      "label": "Omladinski stadion (izlaz)",
+      "longitude": 20.4895760577327,
+      "latitude": 44.8152979432564
     }
   ]
 }

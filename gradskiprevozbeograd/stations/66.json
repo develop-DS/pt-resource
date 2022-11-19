@@ -2,149 +2,137 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Вуков Споменик",
-      "longitude": 20.47948,
-      "latitude": 44.804889
+      "label": "Vukov spomenik",
+      "longitude": 20.4795425077127,
+      "latitude": 44.8048044295645
     },
     {
       "id": "_2",
-      "label": "Далматинска",
-      "longitude": 20.480195,
-      "latitude": 44.806702
+      "label": "Dalmatinska",
+      "longitude": 20.4802461581991,
+      "latitude": 44.8066957208867
     },
     {
       "id": "_3",
-      "label": "Ново Гробље",
-      "longitude": 20.4867,
-      "latitude": 44.810848
+      "label": "Novo groblje",
+      "longitude": 20.4866497871415,
+      "latitude": 44.8107779308082
     },
     {
       "id": "_4",
-      "label": "Ватрогасна Команда",
-      "longitude": 20.488902,
-      "latitude": 44.812648
+      "label": "Vatrogasna komanda",
+      "longitude": 20.4889041974732,
+      "latitude": 44.8126202954361
     },
     {
       "id": "_5",
-      "label": "Омладински Стадион",
-      "longitude": 20.491066,
-      "latitude": 44.814554
+      "label": "Omladinski stadion",
+      "longitude": 20.4912152864622,
+      "latitude": 44.8146482563707
     },
     {
       "id": "_6",
-      "label": "ВМЦ Карабурма",
-      "longitude": 20.492355,
-      "latitude": 44.813076
+      "label": "VMC Karaburma",
+      "longitude": 20.4921812900411,
+      "latitude": 44.8134843964154
     },
     {
       "id": "_7",
-      "label": "Сервиси",
-      "longitude": 20.493273,
-      "latitude": 44.810421
+      "label": "Servisi",
+      "longitude": 20.493140296845,
+      "latitude": 44.8107977773614
     },
     {
       "id": "_8",
-      "label": "Љубице Луковић",
-      "longitude": 20.493703,
-      "latitude": 44.808217
+      "label": "Ljubice Luković",
+      "longitude": 20.493681324154,
+      "latitude": 44.8081921016566
     },
     {
       "id": "_9",
-      "label": "Панте Срећковића",
-      "longitude": 20.49386,
-      "latitude": 44.806418
+      "label": "Pante Srećkovića",
+      "longitude": 20.4938866067247,
+      "latitude": 44.8063931004817
     },
     {
       "id": "_10",
-      "label": "ОШ 1300 Каплара",
-      "longitude": 20.497575,
-      "latitude": 44.80562
+      "label": "OŠ 1300 kaplara",
+      "longitude": 20.4975773293454,
+      "latitude": 44.8055867572157
     },
     {
       "id": "_11",
-      "label": "Научно-технолошки парк Улаз",
-      "longitude": 20.501122,
-      "latitude": 44.805241
-    },
-    {
-      "id": "_12",
-      "label": "Научно-технолошки парк Звездара",
-      "longitude": 20.502015,
-      "latitude": 44.803797
+      "label": "Naučno-tehnološki park",
+      "longitude": 20.5021115745868,
+      "latitude": 44.8036932123871
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Научно-технолошки парк Звездара",
-      "longitude": 20.50142,
-      "latitude": 44.803973
+      "label": "Naučno-tehnološki park",
+      "longitude": 20.5014193350021,
+      "latitude": 44.8039313954143
     },
     {
       "id": "_2",
-      "label": "Научно-технолошки парк Улаз",
-      "longitude": 20.501226,
-      "latitude": 44.805236
+      "label": "OŠ 1300 kaplara",
+      "longitude": 20.4968096542017,
+      "latitude": 44.8057723847039
     },
     {
       "id": "_3",
-      "label": "ОШ 1300 Каплара",
-      "longitude": 20.496872,
-      "latitude": 44.805758
+      "label": "Pante Srećkovića",
+      "longitude": 20.4940659145766,
+      "latitude": 44.8061257048583
     },
     {
       "id": "_4",
-      "label": "Панте Срећковића",
-      "longitude": 20.494094,
-      "latitude": 44.806192
+      "label": "Ljubice Luković",
+      "longitude": 20.4938603253771,
+      "latitude": 44.8079607032141
     },
     {
       "id": "_5",
-      "label": "Љубице Луковић",
-      "longitude": 20.493915,
-      "latitude": 44.807959
+      "label": "Servisi",
+      "longitude": 20.4931805351922,
+      "latitude": 44.8111129384856
     },
     {
       "id": "_6",
-      "label": "Сервиси",
-      "longitude": 20.493279,
-      "latitude": 44.810924
+      "label": "VMC Karaburma",
+      "longitude": 20.492221446325,
+      "latitude": 44.8138085568892
     },
     {
       "id": "_7",
-      "label": "ВМЦ Карабурма",
-      "longitude": 20.492409,
-      "latitude": 44.813435
+      "label": "Omladinski stadion",
+      "longitude": 20.4902263510143,
+      "latitude": 44.8140966974399
     },
     {
       "id": "_8",
-      "label": "Омладински Стадион",
-      "longitude": 20.490454,
-      "latitude": 44.814262
+      "label": "Vatrogasna komanda",
+      "longitude": 20.4879102459397,
+      "latitude": 44.8120704938242
     },
     {
       "id": "_9",
-      "label": "Ватрогасна Команда",
-      "longitude": 20.487953,
-      "latitude": 44.812082
+      "label": "Novo groblje",
+      "longitude": 20.4848471309767,
+      "latitude": 44.8099022992411
     },
     {
       "id": "_10",
-      "label": "Ново Гробље",
-      "longitude": 20.484837,
-      "latitude": 44.809874
+      "label": "Dalmatinska",
+      "longitude": 20.480615642886,
+      "latitude": 44.8072229663571
     },
     {
       "id": "_11",
-      "label": "Далматинска",
-      "longitude": 20.480474,
-      "latitude": 44.807116
-    },
-    {
-      "id": "_12",
-      "label": "Вуков Споменик",
-      "longitude": 20.47948,
-      "latitude": 44.804889
+      "label": "Vukov spomenik",
+      "longitude": 20.4795425077127,
+      "latitude": 44.8048044295645
     }
   ]
 }

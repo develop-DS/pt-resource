@@ -1,0 +1,258 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Trg republike",
+      "longitude": 20.4621133312437,
+      "latitude": 44.8156764835046
+    },
+    {
+      "id": "_2",
+      "label": "Zeleni venac",
+      "longitude": 20.4568371536344,
+      "latitude": 44.8144582924763
+    },
+    {
+      "id": "_3",
+      "label": "Brankov most",
+      "longitude": 20.4522002771838,
+      "latitude": 44.8151886080544
+    },
+    {
+      "id": "_4",
+      "label": "Šest kaplara",
+      "longitude": 20.4334922138324,
+      "latitude": 44.8152633463044
+    },
+    {
+      "id": "_5",
+      "label": "Palata Srbija",
+      "longitude": 20.4295837328162,
+      "latitude": 44.816975485622
+    },
+    {
+      "id": "_6",
+      "label": "Španskih boraca",
+      "longitude": 20.4233603118083,
+      "latitude": 44.8197882167728
+    },
+    {
+      "id": "_7",
+      "label": "Blok 30",
+      "longitude": 20.4165827290295,
+      "latitude": 44.8228227777265
+    },
+    {
+      "id": "_8",
+      "label": "GO Novi Beograd",
+      "longitude": 20.4119222276615,
+      "latitude": 44.8230221655042
+    },
+    {
+      "id": "_9",
+      "label": "Bulevar Zorana Đinđića",
+      "longitude": 20.409434007589,
+      "latitude": 44.8202501313123
+    },
+    {
+      "id": "_10",
+      "label": "Milutina Milankovića",
+      "longitude": 20.4056530085192,
+      "latitude": 44.8160728247077
+    },
+    {
+      "id": "_11",
+      "label": "Omladinskih brigada 1",
+      "longitude": 20.404120322584,
+      "latitude": 44.8143729623115
+    },
+    {
+      "id": "_12",
+      "label": "Airport City",
+      "longitude": 20.4012577009893,
+      "latitude": 44.8111992211083
+    },
+    {
+      "id": "_13",
+      "label": "Tehnička škola Novi Beograd",
+      "longitude": 20.3991193444385,
+      "latitude": 44.8081893949723
+    },
+    {
+      "id": "_14",
+      "label": "Omladinskih brigada",
+      "longitude": 20.3981750749657,
+      "latitude": 44.8046404276435
+    },
+    {
+      "id": "_15",
+      "label": "Blok 70",
+      "longitude": 20.3936830200988,
+      "latitude": 44.8043377814529
+    },
+    {
+      "id": "_16",
+      "label": "Gandijeva",
+      "longitude": 20.3867666614598,
+      "latitude": 44.8032966577503
+    },
+    {
+      "id": "_17",
+      "label": "Pijaca blok 44",
+      "longitude": 20.3845394918383,
+      "latitude": 44.8028041510327
+    },
+    {
+      "id": "_18",
+      "label": "Nehruova",
+      "longitude": 20.3797930284702,
+      "latitude": 44.8014862444975
+    },
+    {
+      "id": "_19",
+      "label": "OŠ Branko Radičević",
+      "longitude": 20.3750640665513,
+      "latitude": 44.7997362577074
+    },
+    {
+      "id": "_20",
+      "label": "Dr Ivana Ribara 1",
+      "longitude": 20.3720076477441,
+      "latitude": 44.7966975121338
+    },
+    {
+      "id": "_21",
+      "label": "Blok 45",
+      "longitude": 20.3751162660873,
+      "latitude": 44.7927636918094
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Blok 45",
+      "longitude": 20.3751291683801,
+      "latitude": 44.7929743516835
+    },
+    {
+      "id": "_2",
+      "label": "Dr Ivana Ribara 1",
+      "longitude": 20.372822056412,
+      "latitude": 44.795955006956
+    },
+    {
+      "id": "_3",
+      "label": "Dr Ivana Ribara",
+      "longitude": 20.3723636222563,
+      "latitude": 44.7981447883689
+    },
+    {
+      "id": "_4",
+      "label": "OŠ Branko Radičević",
+      "longitude": 20.3758104864697,
+      "latitude": 44.7996755264851
+    },
+    {
+      "id": "_5",
+      "label": "Nehruova",
+      "longitude": 20.3801345001671,
+      "latitude": 44.8012325038803
+    },
+    {
+      "id": "_6",
+      "label": "Pijaca blok 44",
+      "longitude": 20.3838647400665,
+      "latitude": 44.8023019532235
+    },
+    {
+      "id": "_7",
+      "label": "Gandijeva",
+      "longitude": 20.3890031634022,
+      "latitude": 44.8033859914348
+    },
+    {
+      "id": "_8",
+      "label": "Blok 70",
+      "longitude": 20.3938859295558,
+      "latitude": 44.8040328697862
+    },
+    {
+      "id": "_9",
+      "label": "Omladinskih brigada",
+      "longitude": 20.3994128200582,
+      "latitude": 44.8054802730109
+    },
+    {
+      "id": "_10",
+      "label": "Tehnička škola Novi Beograd",
+      "longitude": 20.3997241379568,
+      "latitude": 44.8088747264064
+    },
+    {
+      "id": "_11",
+      "label": "Airport City",
+      "longitude": 20.4021643034095,
+      "latitude": 44.8118015189396
+    },
+    {
+      "id": "_12",
+      "label": "Milutina Milankovića",
+      "longitude": 20.4061096377425,
+      "latitude": 44.8161777845772
+    },
+    {
+      "id": "_13",
+      "label": "Bulevar Zorana Đinđića",
+      "longitude": 20.4096906040503,
+      "latitude": 44.8201344585727
+    },
+    {
+      "id": "_14",
+      "label": "GO Novi Beograd",
+      "longitude": 20.4126291400749,
+      "latitude": 44.8233929676509
+    },
+    {
+      "id": "_15",
+      "label": "Blok 30",
+      "longitude": 20.4184323780619,
+      "latitude": 44.821719831442
+    },
+    {
+      "id": "_16",
+      "label": "Španskih boraca",
+      "longitude": 20.4232029819831,
+      "latitude": 44.8195876365891
+    },
+    {
+      "id": "_17",
+      "label": "Palata Srbija",
+      "longitude": 20.4287330074861,
+      "latitude": 44.8170828462379
+    },
+    {
+      "id": "_18",
+      "label": "Šest kaplara",
+      "longitude": 20.4353431924352,
+      "latitude": 44.814485913854
+    },
+    {
+      "id": "_19",
+      "label": "Brankov most",
+      "longitude": 20.4526067155746,
+      "latitude": 44.8149925584042
+    },
+    {
+      "id": "_20",
+      "label": "Zeleni venac",
+      "longitude": 20.4568381962374,
+      "latitude": 44.8143467033491
+    },
+    {
+      "id": "_21",
+      "label": "Trg republike",
+      "longitude": 20.4621133312437,
+      "latitude": 44.8156764835046
+    }
+  ]
+}

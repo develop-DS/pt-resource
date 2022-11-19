@@ -2,233 +2,263 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Земун /Нови Град/",
-      "longitude": 20.368632,
-      "latitude": 44.842048
+      "label": "Zemun (Novi grad)",
+      "longitude": 20.3687279824001,
+      "latitude": 44.8421630394394
     },
     {
       "id": "_2",
-      "label": "ТЦ Змај",
-      "longitude": 20.368113,
-      "latitude": 44.836325
+      "label": "TC Zmaj",
+      "longitude": 20.3683729968334,
+      "latitude": 44.8364248150699
     },
     {
       "id": "_3",
-      "label": "Новосадски пут",
-      "longitude": 20.363256,
-      "latitude": 44.837141
+      "label": "Novosadski put",
+      "longitude": 20.3631917467679,
+      "latitude": 44.8371683123246
     },
     {
       "id": "_4",
-      "label": "Кинески тржни центар",
-      "longitude": 20.359747,
-      "latitude": 44.837758
+      "label": "Kineski tržni centar",
+      "longitude": 20.3596254231474,
+      "latitude": 44.8378108116753
     },
     {
       "id": "_5",
-      "label": "Железничка техничка станица",
-      "longitude": 20.356699,
-      "latitude": 44.838644
+      "label": "Železnička tehnička stanica",
+      "longitude": 20.3565494127722,
+      "latitude": 44.838715137386
     },
     {
       "id": "_6",
-      "label": "Железничка техничка станица 1",
-      "longitude": 20.353093,
-      "latitude": 44.840118
+      "label": "Železnička tehnička stanica 1",
+      "longitude": 20.3529736523047,
+      "latitude": 44.8401889278528
     },
     {
       "id": "_7",
-      "label": "Црква св. Атанасија Великог",
-      "longitude": 20.348787,
-      "latitude": 44.84508
+      "label": "Crkva Sv. Atanasija velikog",
+      "longitude": 20.348787382304,
+      "latitude": 44.8451005390687
     },
     {
       "id": "_8",
-      "label": "Милана Недељковића",
-      "longitude": 20.345168,
-      "latitude": 44.84588
+      "label": "Milana Nedeljkovića",
+      "longitude": 20.3451198387158,
+      "latitude": 44.845911199544
     },
     {
       "id": "_9",
-      "label": "Косте Цукића",
-      "longitude": 20.342219,
-      "latitude": 44.847887
+      "label": "Koste Cukića",
+      "longitude": 20.342098358637,
+      "latitude": 44.8479727777975
     },
     {
       "id": "_10",
-      "label": "Косте Алковића",
-      "longitude": 20.33927,
-      "latitude": 44.849897
+      "label": "Koste Alkovića",
+      "longitude": 20.3392551406639,
+      "latitude": 44.8499147100842
     },
     {
       "id": "_11",
-      "label": "Косте Бранковића",
-      "longitude": 20.336347,
-      "latitude": 44.851877
+      "label": "Koste Brankovića",
+      "longitude": 20.336284318678,
+      "latitude": 44.8519350274769
     },
     {
       "id": "_12",
-      "label": "Михајла Бандура",
-      "longitude": 20.330324,
-      "latitude": 44.855983
+      "label": "Mihajla Bandura",
+      "longitude": 20.3305765233474,
+      "latitude": 44.8558310028613
     },
     {
       "id": "_13",
-      "label": "Железничка станица Земун Поље",
-      "longitude": 20.333928,
-      "latitude": 44.857425
+      "label": "Železnička stanica Zemun polje",
+      "longitude": 20.334030419082,
+      "latitude": 44.8573918262608
     },
     {
       "id": "_14",
-      "label": "Страхиње Петровића",
-      "longitude": 20.329294,
-      "latitude": 44.858014
+      "label": "Strahinje Petrovića",
+      "longitude": 20.3291788662597,
+      "latitude": 44.858090694949
     },
     {
       "id": "_15",
-      "label": "Трафостаница",
-      "longitude": 20.325302,
-      "latitude": 44.860732
+      "label": "Trafostanica",
+      "longitude": 20.3251998720869,
+      "latitude": 44.8607797756268
     },
     {
       "id": "_16",
-      "label": "Школско Добро",
-      "longitude": 20.320259,
-      "latitude": 44.865235
+      "label": "Školsko dobro",
+      "longitude": 20.320214944977,
+      "latitude": 44.8652662435228
     },
     {
       "id": "_17",
-      "label": "Браће Крњешевац",
-      "longitude": 20.32396,
-      "latitude": 44.8684
+      "label": "Školsko dobro",
+      "longitude": 20.3203818688523,
+      "latitude": 44.8648442595843
     },
     {
       "id": "_18",
-      "label": "Вртић Бубамара",
-      "longitude": 20.322365,
-      "latitude": 44.870823
+      "label": "Institut za kukuruz",
+      "longitude": 20.329718432522,
+      "latitude": 44.8703024944262
     },
     {
       "id": "_19",
-      "label": "Фрање Крча",
-      "longitude": 20.324031,
-      "latitude": 44.872496
+      "label": "Braće Krnješevac",
+      "longitude": 20.3239933351845,
+      "latitude": 44.8683252571178
     },
     {
       "id": "_20",
-      "label": "Земун Поље",
-      "longitude": 20.318892,
-      "latitude": 44.875926
+      "label": "Vrtić Bubamara",
+      "longitude": 20.3224496979237,
+      "latitude": 44.8708987222292
+    },
+    {
+      "id": "_21",
+      "label": "Franje Krča",
+      "longitude": 20.3239237810028,
+      "latitude": 44.8725525214473
+    },
+    {
+      "id": "_22",
+      "label": "Zemun polje",
+      "longitude": 20.3188462382876,
+      "latitude": 44.8759926411738
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Земун Поље",
-      "longitude": 20.319177,
-      "latitude": 44.875603
+      "label": "Zemun polje",
+      "longitude": 20.3191950253324,
+      "latitude": 44.8756077379847
     },
     {
       "id": "_2",
-      "label": "Фрање Крча",
-      "longitude": 20.32384,
-      "latitude": 44.872077
+      "label": "Franje Krča",
+      "longitude": 20.3238279983627,
+      "latitude": 44.8720839861667
     },
     {
       "id": "_3",
-      "label": "Вртић Бубамара",
-      "longitude": 20.322444,
-      "latitude": 44.870085
+      "label": "Vrtić Bubamara",
+      "longitude": 20.3224519294646,
+      "latitude": 44.8700581884343
     },
     {
       "id": "_4",
-      "label": "Школско Добро",
-      "longitude": 20.320456,
-      "latitude": 44.864833
+      "label": "Braće Krnješevac",
+      "longitude": 20.3247336225484,
+      "latitude": 44.8682195683562
     },
     {
       "id": "_5",
-      "label": "Трафостаница",
-      "longitude": 20.325614,
-      "latitude": 44.860391
+      "label": "Institut za kukuruz",
+      "longitude": 20.3309166627944,
+      "latitude": 44.8706532725522
     },
     {
       "id": "_6",
-      "label": "Страхиње Петровића",
-      "longitude": 20.329636,
-      "latitude": 44.857669
+      "label": "Školsko dobro",
+      "longitude": 20.320214944977,
+      "latitude": 44.8652662435228
     },
     {
       "id": "_7",
-      "label": "Железничка станица Земун Поље",
-      "longitude": 20.333928,
-      "latitude": 44.857425
+      "label": "Školsko dobro",
+      "longitude": 20.3203818688523,
+      "latitude": 44.8648442595843
     },
     {
       "id": "_8",
-      "label": "Михајла Бандура",
-      "longitude": 20.329984,
-      "latitude": 44.856097
+      "label": "Trafostanica",
+      "longitude": 20.3255536687005,
+      "latitude": 44.8603876819246
     },
     {
       "id": "_9",
-      "label": "Косте Бранковића /Плави Хоризонти/",
-      "longitude": 20.337296,
-      "latitude": 44.852049
+      "label": "Strahinje Petrovića",
+      "longitude": 20.3295657016596,
+      "latitude": 44.857682582947
     },
     {
       "id": "_10",
-      "label": "Косте Алковића",
-      "longitude": 20.340045,
-      "latitude": 44.849235
+      "label": "Železnička stanica Zemun polje",
+      "longitude": 20.334030419082,
+      "latitude": 44.8573918262608
     },
     {
       "id": "_11",
-      "label": "Косте Цукића",
-      "longitude": 20.342852,
-      "latitude": 44.847323
+      "label": "Mihajla Bandura",
+      "longitude": 20.3311164379906,
+      "latitude": 44.8553121859969
     },
     {
       "id": "_12",
-      "label": "Милана Недељковића",
-      "longitude": 20.344356,
-      "latitude": 44.846299
+      "label": "Koste Brankovića (Plavi Horizonti)",
+      "longitude": 20.3373708816568,
+      "latitude": 44.8520637056758
     },
     {
       "id": "_13",
-      "label": "Црква св. Атанасија Великог",
-      "longitude": 20.348917,
-      "latitude": 44.844584
+      "label": "Koste Alkovića",
+      "longitude": 20.3400626840883,
+      "latitude": 44.8492120035593
     },
     {
       "id": "_14",
-      "label": "Железничка техничка станица 1",
-      "longitude": 20.352677,
-      "latitude": 44.840165
+      "label": "Koste Cukića",
+      "longitude": 20.3428344719554,
+      "latitude": 44.8473164387352
     },
     {
       "id": "_15",
-      "label": "Железничка техничка станица",
-      "longitude": 20.357656,
-      "latitude": 44.838198
+      "label": "Milana Nedeljkovića",
+      "longitude": 20.344300579469,
+      "latitude": 44.8463168927243
     },
     {
       "id": "_16",
-      "label": "Новосадски пут",
-      "longitude": 20.363614,
-      "latitude": 44.836989
+      "label": "Crkva Sv. Atanasija velikog",
+      "longitude": 20.3489029916664,
+      "latitude": 44.8444928313234
     },
     {
       "id": "_17",
-      "label": "ТЦ Змај",
-      "longitude": 20.368113,
-      "latitude": 44.836325
+      "label": "Železnička tehnička stanica 1",
+      "longitude": 20.3528860983657,
+      "latitude": 44.8401002388154
     },
     {
       "id": "_18",
-      "label": "Земун /Нови Град/",
-      "longitude": 20.368632,
-      "latitude": 44.842048
+      "label": "Železnička tehnička stanica",
+      "longitude": 20.3577088532123,
+      "latitude": 44.8381834692935
+    },
+    {
+      "id": "_19",
+      "label": "Novosadski put",
+      "longitude": 20.3636111677857,
+      "latitude": 44.8369834516906
+    },
+    {
+      "id": "_20",
+      "label": "TC Zmaj",
+      "longitude": 20.3683729968334,
+      "latitude": 44.8364248150699
+    },
+    {
+      "id": "_21",
+      "label": "Zemun (Novi grad)",
+      "longitude": 20.3687279824001,
+      "latitude": 44.8421630394394
     }
   ]
 }

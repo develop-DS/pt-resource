@@ -2,119 +2,112 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Нови Железник",
-      "longitude": 20.379832,
-      "latitude": 44.732081
-    }
-  ],
-  "direction_b": [
-    {
-      "id": "_1",
-      "label": "МЗ Нови Железник",
-      "longitude": 20.382857,
-      "latitude": 44.729282
+      "label": "Novi Železnik",
+      "longitude": 20.3798278387258,
+      "latitude": 44.7320725577112
     },
     {
       "id": "_2",
-      "label": "Авалска",
-      "longitude": 20.383335,
-      "latitude": 44.728643
+      "label": "MZ Novi Železnik",
+      "longitude": 20.3828525650017,
+      "latitude": 44.7292413861969
     },
     {
       "id": "_3",
-      "label": "Ново Насеље",
-      "longitude": 20.390916,
-      "latitude": 44.726055
+      "label": "Avalska",
+      "longitude": 20.3833637165451,
+      "latitude": 44.7286591583947
     },
     {
       "id": "_4",
-      "label": "Насеље Виногради",
-      "longitude": 20.399543,
-      "latitude": 44.722629
+      "label": "Novo naselje",
+      "longitude": 20.3919429272301,
+      "latitude": 44.7255604881017
     },
     {
       "id": "_5",
-      "label": "Петра Драпшина /прилаз/",
-      "longitude": 20.399849,
-      "latitude": 44.721089
+      "label": "Naselje Vinogradi",
+      "longitude": 20.3993827811111,
+      "latitude": 44.722689201746
     },
     {
       "id": "_6",
-      "label": "Петра Драпшина",
-      "longitude": 20.397542,
-      "latitude": 44.720783
+      "label": "Petra Drapšina (prilaz)",
+      "longitude": 20.399774035482,
+      "latitude": 44.7209795136864
     },
     {
       "id": "_7",
-      "label": "Петра Драпшина 2",
-      "longitude": 20.393464,
-      "latitude": 44.721806
+      "label": "Petra Drapšina",
+      "longitude": 20.3969114501812,
+      "latitude": 44.7209500970352
     },
     {
       "id": "_8",
-      "label": "Петра Драпшина 3",
-      "longitude": 20.39105,
-      "latitude": 44.7234
+      "label": "Petra Drapšina 2",
+      "longitude": 20.3936233849248,
+      "latitude": 44.7217787278315
     },
     {
       "id": "_9",
-      "label": "Чеде Златановића",
-      "longitude": 20.386515,
-      "latitude": 44.724994
+      "label": "Petra Drapšina 3",
+      "longitude": 20.3903647012773,
+      "latitude": 44.7236513809494
     },
     {
       "id": "_10",
-      "label": "Бранка Радичевића",
-      "longitude": 20.383195,
-      "latitude": 44.723195
+      "label": "Čede Zlatanovića",
+      "longitude": 20.3861756075732,
+      "latitude": 44.724906987276
     },
     {
       "id": "_11",
-      "label": "Милорада Ћирића",
-      "longitude": 20.379761,
-      "latitude": 44.724404
+      "label": "Branka Radičevića",
+      "longitude": 20.3832294148403,
+      "latitude": 44.7232172424923
     },
     {
       "id": "_12",
-      "label": "Илије Чалића",
-      "longitude": 20.376574,
-      "latitude": 44.724993
+      "label": "Milorada Ćirića ",
+      "longitude": 20.3797956694846,
+      "latitude": 44.7244190770749
     },
     {
       "id": "_13",
-      "label": "Милана Праизовића",
-      "longitude": 20.373824,
-      "latitude": 44.724592
+      "label": "Ilije Čalića",
+      "longitude": 20.3766080353668,
+      "latitude": 44.7250227690278
     },
     {
       "id": "_14",
-      "label": "Свете Милутиновића",
-      "longitude": 20.372045,
-      "latitude": 44.725235
+      "label": "Milana Praizovića",
+      "longitude": 20.3738908434139,
+      "latitude": 44.7246029803619
     },
     {
       "id": "_15",
-      "label": "Пијаца",
-      "longitude": 20.373901,
-      "latitude": 44.727133
+      "label": "Svete Milutinovića",
+      "longitude": 20.3695014665523,
+      "latitude": 44.7268288440577
     },
     {
       "id": "_16",
-      "label": "Железник Центар",
-      "longitude": 20.376315,
-      "latitude": 44.728545
+      "label": "Železnik (centar)",
+      "longitude": 20.3763203456209,
+      "latitude": 44.7285490703343
     },
     {
       "id": "_17",
-      "label": "МЗ Нови Железник",
-      "longitude": 20.382981,
-      "latitude": 44.729705
+      "label": "MZ Novi Železnik",
+      "longitude": 20.3829861317183,
+      "latitude": 44.7297424856469
     },
     {
       "id": "_18",
-      "label": "Нови Железник",
-      "longitude": 20.379832,
-      "latitude": 44.732081
+      "label": "Novi Železnik",
+      "longitude": 20.3803293064228,
+      "latitude": 44.7319312742437
     }
-  ]
+  ],
+  "direction_b": []
 }

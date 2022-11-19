@@ -2,167 +2,155 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Студентски трг",
-      "longitude": 20.457617,
-      "latitude": 44.81872
+      "label": "Studentski trg",
+      "longitude": 20.4586071294,
+      "latitude": 44.8179980685245
     },
     {
       "id": "_2",
-      "label": "Републике трг",
-      "longitude": 20.459936,
-      "latitude": 44.816921
+      "label": "Trg republike",
+      "longitude": 20.4621133312437,
+      "latitude": 44.8156764835046
     },
     {
       "id": "_3",
-      "label": "Републике трг",
-      "longitude": 20.461601,
-      "latitude": 44.815733
+      "label": "Politika",
+      "longitude": 20.4652170878748,
+      "latitude": 44.8152914119183
     },
     {
       "id": "_4",
-      "label": "Македонска /Политика/",
-      "longitude": 20.465155,
-      "latitude": 44.815233
+      "label": "27. marta",
+      "longitude": 20.4726994529203,
+      "latitude": 44.8136269283711
     },
     {
       "id": "_5",
-      "label": "27. марта",
-      "longitude": 20.472653,
-      "latitude": 44.813551
+      "label": "Jaše Prodanovića",
+      "longitude": 20.4773649490353,
+      "latitude": 44.8147336129992
     },
     {
       "id": "_6",
-      "label": "Јаше Продановића",
-      "longitude": 20.477352,
-      "latitude": 44.814728
+      "label": "Zdravka Čelara",
+      "longitude": 20.4794167062188,
+      "latitude": 44.8109505390785
     },
     {
       "id": "_7",
-      "label": "Здравка Челара",
-      "longitude": 20.479411,
-      "latitude": 44.810926
+      "label": "Podvožnjak",
+      "longitude": 20.4834992321345,
+      "latitude": 44.8062262322839
     },
     {
       "id": "_8",
-      "label": "Подвожњак",
-      "longitude": 20.483502,
-      "latitude": 44.806259
+      "label": "Marka Oreškovića",
+      "longitude": 20.4889363917629,
+      "latitude": 44.8029135437186
     },
     {
       "id": "_9",
-      "label": "Марка Орешковића",
-      "longitude": 20.488482,
-      "latitude": 44.803145
+      "label": "Šabačka",
+      "longitude": 20.4936242086954,
+      "latitude": 44.8011020146014
     },
     {
       "id": "_10",
-      "label": "Шабачка",
-      "longitude": 20.493561,
-      "latitude": 44.801132
+      "label": "Gradska bolnica",
+      "longitude": 20.5004067330094,
+      "latitude": 44.7996684098012
     },
     {
       "id": "_11",
-      "label": "Градска болница",
-      "longitude": 20.498916,
-      "latitude": 44.799939
+      "label": "Miloša Jankovića",
+      "longitude": 20.5032111368496,
+      "latitude": 44.7992756014387
     },
     {
       "id": "_12",
-      "label": "Милоша Јанковића",
-      "longitude": 20.503166,
-      "latitude": 44.799275
-    },
-    {
-      "id": "_13",
-      "label": "Звездара",
-      "longitude": 20.506933,
-      "latitude": 44.798216
+      "label": "Zvezdara",
+      "longitude": 20.5061988551618,
+      "latitude": 44.7981293508655
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Звездара",
-      "longitude": 20.506933,
-      "latitude": 44.798216
+      "label": "Zvezdara",
+      "longitude": 20.506903488842,
+      "latitude": 44.7982079759221
     },
     {
       "id": "_2",
-      "label": "Милоша Јанковића",
-      "longitude": 20.503829,
-      "latitude": 44.799319
+      "label": "Miloša Jankovića",
+      "longitude": 20.5037972751075,
+      "latitude": 44.7993177345869
     },
     {
       "id": "_3",
-      "label": "Градска болница",
-      "longitude": 20.49932,
-      "latitude": 44.800042
+      "label": "Gradska bolnica",
+      "longitude": 20.4992784746649,
+      "latitude": 44.8000504741206
     },
     {
       "id": "_4",
-      "label": "Чегарска",
-      "longitude": 20.495957,
-      "latitude": 44.80075
+      "label": "Čegarska",
+      "longitude": 20.4956516716367,
+      "latitude": 44.8008175560529
     },
     {
       "id": "_5",
-      "label": "Живојина Жујовића",
-      "longitude": 20.492849,
-      "latitude": 44.801539
+      "label": "Živojina Žujovića",
+      "longitude": 20.4926263299021,
+      "latitude": 44.8015997823515
     },
     {
       "id": "_6",
-      "label": "Марка Орешковића",
-      "longitude": 20.487022,
-      "latitude": 44.804067
+      "label": "Marka Oreškovića",
+      "longitude": 20.4869158958357,
+      "latitude": 44.8041158669852
     },
     {
       "id": "_7",
-      "label": "Подвожњак",
-      "longitude": 20.4839,
-      "latitude": 44.806163
+      "label": "Podvožnjak",
+      "longitude": 20.4838486041489,
+      "latitude": 44.8061738068414
     },
     {
       "id": "_8",
-      "label": "Здравка Челара",
-      "longitude": 20.479143,
-      "latitude": 44.811723
+      "label": "Zdravka Čelara",
+      "longitude": 20.4790834469861,
+      "latitude": 44.8117409851969
     },
     {
       "id": "_9",
-      "label": "Јаше Продановића",
-      "longitude": 20.476637,
-      "latitude": 44.815169
+      "label": "Jaše Prodanovića",
+      "longitude": 20.4765770716154,
+      "latitude": 44.8151763984472
     },
     {
       "id": "_10",
-      "label": "27. марта",
-      "longitude": 20.471343,
-      "latitude": 44.812951
+      "label": "27. marta",
+      "longitude": 20.4713609526436,
+      "latitude": 44.8128864091286
     },
     {
       "id": "_11",
-      "label": "Македонска /Политика/",
-      "longitude": 20.464989,
-      "latitude": 44.815456
+      "label": "Politika",
+      "longitude": 20.4648436112707,
+      "latitude": 44.8154822604605
     },
     {
       "id": "_12",
-      "label": "Републике трг",
-      "longitude": 20.46014,
-      "latitude": 44.816975
+      "label": "Trg republike",
+      "longitude": 20.4599736765335,
+      "latitude": 44.8170757580905
     },
     {
       "id": "_13",
-      "label": "Студентски трг",
-      "longitude": 20.457521,
-      "latitude": 44.819192
-    },
-    {
-      "id": "_14",
-      "label": "Студентски трг",
-      "longitude": 20.457617,
-      "latitude": 44.81872
+      "label": "Studentski trg",
+      "longitude": 20.457857285924,
+      "latitude": 44.8189520764281
     }
   ]
 }

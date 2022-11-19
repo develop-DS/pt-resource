@@ -2,311 +2,341 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Зелени венац",
-      "longitude": 20.456957,
-      "latitude": 44.814023
+      "label": "Zeleni venac",
+      "longitude": 20.4564744167176,
+      "latitude": 44.8140389969701
     },
     {
       "id": "_2",
-      "label": "Хотел Југославија",
-      "longitude": 20.419578,
-      "latitude": 44.829166
+      "label": "Hotel Jugoslavija",
+      "longitude": 20.4195414026107,
+      "latitude": 44.8291806377152
     },
     {
       "id": "_3",
-      "label": "Карађорђев трг",
-      "longitude": 20.416849,
-      "latitude": 44.838016
+      "label": "Karađorđev trg",
+      "longitude": 20.4167764798883,
+      "latitude": 44.8380347107505
     },
     {
       "id": "_4",
-      "label": "Земун /пошта/",
-      "longitude": 20.413464,
-      "latitude": 44.842112
+      "label": "Zemun (pošta)",
+      "longitude": 20.4133320184886,
+      "latitude": 44.8421929039194
     },
     {
       "id": "_5",
-      "label": "Наде Димић",
-      "longitude": 20.403032,
-      "latitude": 44.849098
+      "label": "Nade Dimić",
+      "longitude": 20.4028827140265,
+      "latitude": 44.8491657672126
     },
     {
       "id": "_6",
-      "label": "Тршћанска",
-      "longitude": 20.39062,
-      "latitude": 44.853758
+      "label": "Tršćanska",
+      "longitude": 20.3905122701023,
+      "latitude": 44.8537768135237
     },
     {
       "id": "_7",
-      "label": "Филипа Вишњића",
-      "longitude": 20.386725,
-      "latitude": 44.855268
+      "label": "Filipa Višnjića",
+      "longitude": 20.3867265075406,
+      "latitude": 44.8552415413263
     },
     {
       "id": "_8",
-      "label": "Земун /Горњи град/ ",
-      "longitude": 20.378181,
-      "latitude": 44.859074
+      "label": "Ruska",
+      "longitude": 20.3808914653133,
+      "latitude": 44.8578326286961
     },
     {
       "id": "_9",
-      "label": "Милице Шуваковић",
-      "longitude": 20.373728,
-      "latitude": 44.858848
+      "label": "Zemun (Gornji grad)",
+      "longitude": 20.3780768215081,
+      "latitude": 44.8590737214802
     },
     {
       "id": "_10",
-      "label": "Светозара Папића",
-      "longitude": 20.369968,
-      "latitude": 44.854535
+      "label": "Milice Šuvaković",
+      "longitude": 20.3736889186327,
+      "latitude": 44.858821253133
     },
     {
       "id": "_11",
-      "label": "Ратарски Пут",
-      "longitude": 20.370209,
-      "latitude": 44.848163
+      "label": "Svetozara Papića",
+      "longitude": 20.3699849079466,
+      "latitude": 44.854553219423
     },
     {
       "id": "_12",
-      "label": "Угриновачки Пут",
-      "longitude": 20.36753,
-      "latitude": 44.849999
+      "label": "Ratarski put",
+      "longitude": 20.3701676228709,
+      "latitude": 44.8482114019594
     },
     {
       "id": "_13",
-      "label": "Југа Гризеља",
-      "longitude": 20.365143,
-      "latitude": 44.851617
+      "label": "Ugrinovački put",
+      "longitude": 20.3674022709742,
+      "latitude": 44.8500590684051
     },
     {
       "id": "_14",
-      "label": "Љиљане Крстић",
-      "longitude": 20.361649,
-      "latitude": 44.853998
+      "label": "Juga Grizelja",
+      "longitude": 20.3650189246986,
+      "latitude": 44.8516657979556
     },
     {
       "id": "_15",
-      "label": "Угриновачки Пут 12.deo",
-      "longitude": 20.359149,
-      "latitude": 44.855719
+      "label": "Ljiljane Krstić",
+      "longitude": 20.3615844421344,
+      "latitude": 44.8540441826993
     },
     {
       "id": "_16",
-      "label": "Угриновачки Пут 26.deo",
-      "longitude": 20.356028,
-      "latitude": 44.857806
+      "label": "Ugrinovački put 12. deo",
+      "longitude": 20.3589252481437,
+      "latitude": 44.8558526353881
     },
     {
       "id": "_17",
-      "label": "Насеље Мала Пруга",
-      "longitude": 20.354351,
-      "latitude": 44.85893
+      "label": "Ugrinovački put 26. deo",
+      "longitude": 20.355878328598,
+      "latitude": 44.8579234319151
     },
     {
       "id": "_18",
-      "label": "Насеље Мала Пруга",
-      "longitude": 20.352184,
-      "latitude": 44.860963
+      "label": "Naselje Mala pruga",
+      "longitude": 20.3519385765772,
+      "latitude": 44.8606100651368
     },
     {
       "id": "_19",
-      "label": "Metro",
-      "longitude": 20.348812,
-      "latitude": 44.864094
+      "label": "Privredna zona (ulaz)",
+      "longitude": 20.3519486304836,
+      "latitude": 44.8624280101795
     },
     {
       "id": "_20",
-      "label": "Земун парк",
-      "longitude": 20.34427,
-      "latitude": 44.866554
+      "label": "Polimark",
+      "longitude": 20.3491608494156,
+      "latitude": 44.8639061263231
     },
     {
       "id": "_21",
-      "label": "Пут за Нови Сад",
-      "longitude": 20.335465,
-      "latitude": 44.872688
+      "label": "Zemun Park",
+      "longitude": 20.3442206541778,
+      "latitude": 44.8665922064327
     },
     {
       "id": "_22",
-      "label": "Институт за Кукуруз",
-      "longitude": 20.329783,
-      "latitude": 44.870345
+      "label": "Pupin Telekom",
+      "longitude": 20.3399684985473,
+      "latitude": 44.8694962213776
     },
     {
       "id": "_23",
-      "label": "Браће Крњешевац",
-      "longitude": 20.324437,
-      "latitude": 44.868184
+      "label": "Put za Novi Sad",
+      "longitude": 20.335508095428,
+      "latitude": 44.872643654094
     },
     {
       "id": "_24",
-      "label": "Вртић Бубамара",
-      "longitude": 20.322365,
-      "latitude": 44.870823
+      "label": "Institut za kukuruz",
+      "longitude": 20.329718432522,
+      "latitude": 44.8703024944262
     },
     {
       "id": "_25",
-      "label": "Фрање Крча",
-      "longitude": 20.324031,
-      "latitude": 44.872496
+      "label": "Braće Krnješevac",
+      "longitude": 20.3239933351845,
+      "latitude": 44.8683252571178
     },
     {
       "id": "_26",
-      "label": "Земун Поље",
-      "longitude": 20.318892,
-      "latitude": 44.875926
+      "label": "Vrtić Bubamara",
+      "longitude": 20.3224496979237,
+      "latitude": 44.8708987222292
+    },
+    {
+      "id": "_27",
+      "label": "Franje Krča",
+      "longitude": 20.3239237810028,
+      "latitude": 44.8725525214473
+    },
+    {
+      "id": "_28",
+      "label": "Zemun polje",
+      "longitude": 20.3188462382876,
+      "latitude": 44.8759926411738
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Земун Поље",
-      "longitude": 20.319177,
-      "latitude": 44.875603
+      "label": "Zemun polje",
+      "longitude": 20.3191950253324,
+      "latitude": 44.8756077379847
     },
     {
       "id": "_2",
-      "label": "Фрање Крча",
-      "longitude": 20.32384,
-      "latitude": 44.872077
+      "label": "Franje Krča",
+      "longitude": 20.3238279983627,
+      "latitude": 44.8720839861667
     },
     {
       "id": "_3",
-      "label": "Вртић Бубамара",
-      "longitude": 20.322444,
-      "latitude": 44.870085
+      "label": "Vrtić Bubamara",
+      "longitude": 20.3224519294646,
+      "latitude": 44.8700581884343
     },
     {
       "id": "_4",
-      "label": "Браће Крњешевац",
-      "longitude": 20.324632,
-      "latitude": 44.868144
+      "label": "Braće Krnješevac",
+      "longitude": 20.3247336225484,
+      "latitude": 44.8682195683562
     },
     {
       "id": "_5",
-      "label": "Институт за Кукуруз",
-      "longitude": 20.330849,
-      "latitude": 44.870649
+      "label": "Institut za kukuruz",
+      "longitude": 20.3309166627944,
+      "latitude": 44.8706532725522
     },
     {
       "id": "_6",
-      "label": "Пут за Нови Сад",
-      "longitude": 20.336232,
-      "latitude": 44.872541
+      "label": "Put za Novi Sad",
+      "longitude": 20.3364811747004,
+      "latitude": 44.8723271106666
     },
     {
       "id": "_7",
-      "label": "Земун парк",
-      "longitude": 20.344925,
-      "latitude": 44.866077
+      "label": "Pupin Telekom",
+      "longitude": 20.3404445105597,
+      "latitude": 44.8690363899861
     },
     {
       "id": "_8",
-      "label": "Metro",
-      "longitude": 20.348552,
-      "latitude": 44.86413
+      "label": "Zemun Park",
+      "longitude": 20.3449835610101,
+      "latitude": 44.8660476019544
     },
     {
       "id": "_9",
-      "label": "Насеље Мала Пруга",
-      "longitude": 20.352054,
-      "latitude": 44.861012
+      "label": "Polimark",
+      "longitude": 20.3503054896575,
+      "latitude": 44.8631656646408
     },
     {
       "id": "_10",
-      "label": "Угриновачки Пут 26.deo",
-      "longitude": 20.356145,
-      "latitude": 44.857591
+      "label": "Privredna zona (izlaz)",
+      "longitude": 20.3523930766206,
+      "latitude": 44.8620615442184
     },
     {
       "id": "_11",
-      "label": "Угриновачки Пут 12.deo",
-      "longitude": 20.358732,
-      "latitude": 44.855847
+      "label": "Naselje Mala pruga",
+      "longitude": 20.3520244970757,
+      "latitude": 44.8603945640089
     },
     {
       "id": "_12",
-      "label": "Љиљане Крстић",
-      "longitude": 20.361464,
-      "latitude": 44.853975
+      "label": "Ugrinovački put 26. deo",
+      "longitude": 20.3561806131936,
+      "latitude": 44.85759214999
     },
     {
       "id": "_13",
-      "label": "Југа Гризеља",
-      "longitude": 20.364488,
-      "latitude": 44.85193
+      "label": "Ugrinovački put 12. deo",
+      "longitude": 20.3590365777219,
+      "latitude": 44.8556246716322
     },
     {
       "id": "_14",
-      "label": "Угриновачки Пут",
-      "longitude": 20.367746,
-      "latitude": 44.849735
+      "label": "Ljiljane Krstić",
+      "longitude": 20.362070809647,
+      "latitude": 44.853535720488
     },
     {
       "id": "_15",
-      "label": "Ратарски Пут",
-      "longitude": 20.369548,
-      "latitude": 44.848491
+      "label": "Juga Grizelja",
+      "longitude": 20.3644087721254,
+      "latitude": 44.8519288014352
     },
     {
       "id": "_16",
-      "label": "Светозара Папића",
-      "longitude": 20.370512,
-      "latitude": 44.854715
+      "label": "Ugrinovački put",
+      "longitude": 20.3676665365169,
+      "latitude": 44.8497239460722
     },
     {
       "id": "_17",
-      "label": "Милице Шуваковић",
-      "longitude": 20.374066,
-      "latitude": 44.858851
+      "label": "Ratarski put",
+      "longitude": 20.3695220708732,
+      "latitude": 44.8484778382608
     },
     {
       "id": "_18",
-      "label": "Земун /Горњи град/ ",
-      "longitude": 20.378161,
-      "latitude": 44.858899
+      "label": "Svetozara Papića",
+      "longitude": 20.3703040153597,
+      "latitude": 44.8545279739107
     },
     {
       "id": "_19",
-      "label": "Филипа Вишњића",
-      "longitude": 20.38765,
-      "latitude": 44.854691
+      "label": "Milice Šuvaković",
+      "longitude": 20.3740953519663,
+      "latitude": 44.8589134668463
     },
     {
       "id": "_20",
-      "label": "Тршћанска",
-      "longitude": 20.391707,
-      "latitude": 44.853192
+      "label": "Zemun (Gornji grad)",
+      "longitude": 20.3783375530751,
+      "latitude": 44.8588303502097
     },
     {
       "id": "_21",
-      "label": "Наде Димић",
-      "longitude": 20.402386,
-      "latitude": 44.849203
+      "label": "Ruska",
+      "longitude": 20.381744584832,
+      "latitude": 44.8573278623746
     },
     {
       "id": "_22",
-      "label": "РК Београд",
-      "longitude": 20.412037,
-      "latitude": 44.843542
+      "label": "Filipa Višnjića",
+      "longitude": 20.3876555986787,
+      "latitude": 44.8547227377359
     },
     {
       "id": "_23",
-      "label": "Карађорђев трг",
-      "longitude": 20.417246,
-      "latitude": 44.837067
+      "label": "Tršćanska",
+      "longitude": 20.3917837899724,
+      "latitude": 44.8531734007697
     },
     {
       "id": "_24",
-      "label": "Хотел Југославија",
-      "longitude": 20.419637,
-      "latitude": 44.827156
+      "label": "Nade Dimić",
+      "longitude": 20.4024598432292,
+      "latitude": 44.8491977628024
     },
     {
       "id": "_25",
-      "label": "Зелени венац",
-      "longitude": 20.456957,
-      "latitude": 44.814023
+      "label": "RK Beograd",
+      "longitude": 20.4120435355163,
+      "latitude": 44.8435182287916
+    },
+    {
+      "id": "_26",
+      "label": "Karađorđev trg",
+      "longitude": 20.4173846006181,
+      "latitude": 44.8369272647968
+    },
+    {
+      "id": "_27",
+      "label": "Hotel Jugoslavija",
+      "longitude": 20.4196373463238,
+      "latitude": 44.8271724349496
+    },
+    {
+      "id": "_28",
+      "label": "Zeleni venac",
+      "longitude": 20.457370242161,
+      "latitude": 44.8139658411018
     }
   ]
 }

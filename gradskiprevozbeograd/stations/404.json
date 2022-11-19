@@ -2,227 +2,257 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Бела Река",
-      "longitude": 20.47428,
-      "latitude": 44.657504
+      "label": "Bela reka",
+      "longitude": 20.4741905235748,
+      "latitude": 44.6574737309464
     },
     {
       "id": "_2",
-      "label": "Хајдучки поток",
-      "longitude": 20.479534,
-      "latitude": 44.659992
+      "label": "Hajdučki potok",
+      "longitude": 20.4811136963015,
+      "latitude": 44.6610853478944
     },
     {
       "id": "_3",
-      "label": "Насеље Чесма",
-      "longitude": 20.485539,
-      "latitude": 44.664111
+      "label": "Naselje Česma",
+      "longitude": 20.4856356533048,
+      "latitude": 44.6642358191622
     },
     {
       "id": "_4",
-      "label": "Минел 2",
-      "longitude": 20.488901,
-      "latitude": 44.667388
+      "label": "Minel 2",
+      "longitude": 20.4888219804705,
+      "latitude": 44.6673081710375
     },
     {
       "id": "_5",
-      "label": "Минел 3",
-      "longitude": 20.492159,
-      "latitude": 44.668519
+      "label": "Minel 3",
+      "longitude": 20.4922593378544,
+      "latitude": 44.6685257949149
     },
     {
       "id": "_6",
-      "label": "Рипањ /ОШ Васа Чарапић/",
-      "longitude": 20.49968,
-      "latitude": 44.666716
+      "label": "OŠ Vojvoda Putnik",
+      "longitude": 20.4988995231587,
+      "latitude": 44.6671798131635
     },
     {
       "id": "_7",
-      "label": "Рипањ /Колонија/",
-      "longitude": 20.50396,
-      "latitude": 44.666204
+      "label": "Kolonija",
+      "longitude": 20.5041534272638,
+      "latitude": 44.6662828530317
     },
     {
       "id": "_8",
-      "label": "Железничка станица Рипањ",
-      "longitude": 20.50854,
-      "latitude": 44.661549
+      "label": "Železnička stanica Ripanj",
+      "longitude": 20.5081710300084,
+      "latitude": 44.6618200567552
     },
     {
       "id": "_9",
-      "label": "Пут за Миловановиће",
-      "longitude": 20.511472,
-      "latitude": 44.657867
+      "label": "Put za Milovanoviće",
+      "longitude": 20.5115031903138,
+      "latitude": 44.6578275888553
     },
     {
       "id": "_10",
-      "label": "Рипањ /Рашин Мајдан/",
-      "longitude": 20.510286,
-      "latitude": 44.649437
+      "label": "Timočki put (ulaz)",
+      "longitude": 20.5107556220034,
+      "latitude": 44.6525325398224
     },
     {
       "id": "_11",
-      "label": "Рипањ /Брдо/",
-      "longitude": 20.514291,
-      "latitude": 44.642963
+      "label": "Rašin majdan",
+      "longitude": 20.5102948378076,
+      "latitude": 44.6494400514266
     },
     {
       "id": "_12",
-      "label": "Рипањ /Центар/",
-      "longitude": 20.519844,
-      "latitude": 44.639046
+      "label": "Ripanj (brdo)",
+      "longitude": 20.5144335511505,
+      "latitude": 44.6429453857201
     },
     {
       "id": "_13",
-      "label": "Пут за Алуге",
-      "longitude": 20.526605,
-      "latitude": 44.635752
+      "label": "Ripanj (centar)",
+      "longitude": 20.5201901702418,
+      "latitude": 44.6388620815335
     },
     {
       "id": "_14",
-      "label": "Павићевац 1",
-      "longitude": 20.536151,
-      "latitude": 44.636103
+      "label": "Put za Aluge",
+      "longitude": 20.5267349204422,
+      "latitude": 44.6357249146586
     },
     {
       "id": "_15",
-      "label": "Павићевац 2",
-      "longitude": 20.546941,
-      "latitude": 44.633258
+      "label": "Pavićevac 1",
+      "longitude": 20.5357544851633,
+      "latitude": 44.6360677272566
     },
     {
       "id": "_16",
-      "label": "Прњавор /Школа/",
-      "longitude": 20.554159,
-      "latitude": 44.632356
+      "label": "Pavićevac 2",
+      "longitude": 20.5405641462185,
+      "latitude": 44.6341701117325
     },
     {
       "id": "_17",
-      "label": "Трешња",
-      "longitude": 20.555227,
-      "latitude": 44.620661
+      "label": "Pavićevac 3",
+      "longitude": 20.5472168464773,
+      "latitude": 44.633161554793
     },
     {
       "id": "_18",
-      "label": "Авалски Цвет",
-      "longitude": 20.556404,
-      "latitude": 44.614912
+      "label": "Prnjavor (škola)",
+      "longitude": 20.5542056498527,
+      "latitude": 44.6323429110284
     },
     {
       "id": "_19",
-      "label": "Трешња /окретница/ ",
-      "longitude": 20.555828,
-      "latitude": 44.608572
+      "label": "Trešnja",
+      "longitude": 20.5552822818384,
+      "latitude": 44.6206869213394
+    },
+    {
+      "id": "_20",
+      "label": "Avalski cvet",
+      "longitude": 20.5563664478914,
+      "latitude": 44.6149672213049
+    },
+    {
+      "id": "_21",
+      "label": "Trešnja (okretnica)",
+      "longitude": 20.5558600791248,
+      "latitude": 44.6086293769199
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Трешња /окретница/ ",
-      "longitude": 20.555828,
-      "latitude": 44.608572
+      "label": "Trešnja (okretnica)",
+      "longitude": 20.5558600791248,
+      "latitude": 44.6086293769199
     },
     {
       "id": "_2",
-      "label": "Авалски Цвет",
-      "longitude": 20.556281,
-      "latitude": 44.615295
+      "label": "Avalski cvet",
+      "longitude": 20.5566013046247,
+      "latitude": 44.6149015293374
     },
     {
       "id": "_3",
-      "label": "Трешња",
-      "longitude": 20.555476,
-      "latitude": 44.620766
+      "label": "Trešnja",
+      "longitude": 20.5555556014075,
+      "latitude": 44.6208697757036
     },
     {
       "id": "_4",
-      "label": "Прњавор /Школа/",
-      "longitude": 20.553235,
-      "latitude": 44.632971
+      "label": "Prnjavor (škola)",
+      "longitude": 20.5535456094567,
+      "latitude": 44.6329523343468
     },
     {
       "id": "_5",
-      "label": "Павићевац 2",
-      "longitude": 20.546479,
-      "latitude": 44.633441
+      "label": "Pavićevac 3",
+      "longitude": 20.5463522269235,
+      "latitude": 44.6334857358803
     },
     {
       "id": "_6",
-      "label": "Павићевац 1",
-      "longitude": 20.536037,
-      "latitude": 44.636213
+      "label": "Pavićevac 2",
+      "longitude": 20.5406691704675,
+      "latitude": 44.6342785294978
     },
     {
       "id": "_7",
-      "label": "Пут за Алуге",
-      "longitude": 20.526077,
-      "latitude": 44.636103
+      "label": "Pavićevac 1",
+      "longitude": 20.5360658556085,
+      "latitude": 44.636221982231
     },
     {
       "id": "_8",
-      "label": "Рипањ /Центар/",
-      "longitude": 20.520207,
-      "latitude": 44.638998
+      "label": "Put za Aluge",
+      "longitude": 20.5258385587698,
+      "latitude": 44.636214405794
     },
     {
       "id": "_9",
-      "label": "Рипањ /Брдо/",
-      "longitude": 20.514436,
-      "latitude": 44.643085
+      "label": "Ripanj (centar)",
+      "longitude": 20.5201057098974,
+      "latitude": 44.6390165250564
     },
     {
       "id": "_10",
-      "label": "Рипањ /Рашин Мајдан/",
-      "longitude": 20.510307,
-      "latitude": 44.649106
+      "label": "Ripanj (brdo)",
+      "longitude": 20.5143293636453,
+      "latitude": 44.6430439427221
     },
     {
       "id": "_11",
-      "label": "Пут за Миловановиће",
-      "longitude": 20.511751,
-      "latitude": 44.657496
+      "label": "Rašin majdan",
+      "longitude": 20.5103655368023,
+      "latitude": 44.6491271606097
     },
     {
       "id": "_12",
-      "label": "Железничка станица Рипањ",
-      "longitude": 20.508409,
-      "latitude": 44.661819
+      "label": "Timočki put (ulaz)",
+      "longitude": 20.5111916163361,
+      "latitude": 44.652863788799
     },
     {
       "id": "_13",
-      "label": "Рипањ /ОШ Васа Чарапић/",
-      "longitude": 20.499602,
-      "latitude": 44.666872
+      "label": "Put za Milovanoviće",
+      "longitude": 20.5117323428595,
+      "latitude": 44.6575657704677
     },
     {
       "id": "_14",
-      "label": "Минел 3",
-      "longitude": 20.491225,
-      "latitude": 44.668632
+      "label": "Železnička stanica Ripanj",
+      "longitude": 20.5076905201551,
+      "latitude": 44.6622769849241
     },
     {
       "id": "_15",
-      "label": "Минел 2",
-      "longitude": 20.488383,
-      "latitude": 44.667081
+      "label": "Kolonija",
+      "longitude": 20.5040817389706,
+      "latitude": 44.6664085399121
     },
     {
       "id": "_16",
-      "label": "Насеље Чесма",
-      "longitude": 20.485032,
-      "latitude": 44.664045
+      "label": "OŠ Vojvoda Putnik",
+      "longitude": 20.4984774777291,
+      "latitude": 44.6675703591727
     },
     {
       "id": "_17",
-      "label": "Хајдучки поток",
-      "longitude": 20.478003,
-      "latitude": 44.65965
+      "label": "Minel 3",
+      "longitude": 20.4918393976366,
+      "latitude": 44.6686679325112
     },
     {
       "id": "_18",
-      "label": "Бела Река",
-      "longitude": 20.47428,
-      "latitude": 44.657504
+      "label": "Minel 2",
+      "longitude": 20.4883551264951,
+      "latitude": 44.6670468980037
+    },
+    {
+      "id": "_19",
+      "label": "Naselje Česma",
+      "longitude": 20.4851570381812,
+      "latitude": 44.6641688749642
+    },
+    {
+      "id": "_20",
+      "label": "Hajdučki potok",
+      "longitude": 20.4805737763902,
+      "latitude": 44.6608255123616
+    },
+    {
+      "id": "_21",
+      "label": "Bela reka",
+      "longitude": 20.4741905235748,
+      "latitude": 44.6574737309464
     }
   ]
 }

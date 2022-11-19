@@ -1,0 +1,390 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Petlovo brdo",
+      "longitude": 20.4286847062703,
+      "latitude": 44.7185028542114
+    },
+    {
+      "id": "_2",
+      "label": "Rasinska",
+      "longitude": 20.4251124297695,
+      "latitude": 44.7203083403243
+    },
+    {
+      "id": "_3",
+      "label": "Milorada Draškovića",
+      "longitude": 20.4212655631949,
+      "latitude": 44.722031332057
+    },
+    {
+      "id": "_4",
+      "label": "Generala Zgonjanina",
+      "longitude": 20.4232374488839,
+      "latitude": 44.7250795500048
+    },
+    {
+      "id": "_5",
+      "label": "Jedanaeste krajiške divizije",
+      "longitude": 20.4262366618467,
+      "latitude": 44.7261277516846
+    },
+    {
+      "id": "_6",
+      "label": "Serdar Janka Vukotića",
+      "longitude": 20.4257564886931,
+      "latitude": 44.7279684788438
+    },
+    {
+      "id": "_7",
+      "label": "Labudovo brdo",
+      "longitude": 20.4215969873059,
+      "latitude": 44.7306132782993
+    },
+    {
+      "id": "_8",
+      "label": "Toplana",
+      "longitude": 20.4205717368156,
+      "latitude": 44.7346867448075
+    },
+    {
+      "id": "_9",
+      "label": "Vidikovački venac",
+      "longitude": 20.4209779222169,
+      "latitude": 44.7390446226948
+    },
+    {
+      "id": "_10",
+      "label": "MZ Vidikovac",
+      "longitude": 20.4232188466929,
+      "latitude": 44.7404832550238
+    },
+    {
+      "id": "_11",
+      "label": "Pilota Mihaila Petrovića",
+      "longitude": 20.4257466213177,
+      "latitude": 44.7440903909167
+    },
+    {
+      "id": "_12",
+      "label": "Ratka Mitrovića",
+      "longitude": 20.4307291785143,
+      "latitude": 44.7480138640291
+    },
+    {
+      "id": "_13",
+      "label": "Miloja Zakića",
+      "longitude": 20.4330958277555,
+      "latitude": 44.7500900974223
+    },
+    {
+      "id": "_14",
+      "label": "Luke Vojvodića",
+      "longitude": 20.4352120525176,
+      "latitude": 44.7519598571178
+    },
+    {
+      "id": "_15",
+      "label": "Pionirski grad",
+      "longitude": 20.4326098054667,
+      "latitude": 44.7597928783975
+    },
+    {
+      "id": "_16",
+      "label": "SC Košutnjak",
+      "longitude": 20.4286802270336,
+      "latitude": 44.7640355872308
+    },
+    {
+      "id": "_17",
+      "label": "Žarkovačka",
+      "longitude": 20.4204482738872,
+      "latitude": 44.767914516531
+    },
+    {
+      "id": "_18",
+      "label": "Petra Lekovića",
+      "longitude": 20.4170729542019,
+      "latitude": 44.7714198527806
+    },
+    {
+      "id": "_19",
+      "label": "Kijevska",
+      "longitude": 20.4138574029671,
+      "latitude": 44.7758312615877
+    },
+    {
+      "id": "_20",
+      "label": "Dom zdravlja",
+      "longitude": 20.4159577149361,
+      "latitude": 44.7790656243339
+    },
+    {
+      "id": "_21",
+      "label": "Škola Josif Pančić",
+      "longitude": 20.4177988662816,
+      "latitude": 44.7814508718708
+    },
+    {
+      "id": "_22",
+      "label": "Kirovljeva",
+      "longitude": 20.4179117112584,
+      "latitude": 44.7848226834066
+    },
+    {
+      "id": "_23",
+      "label": "Ada Ciganlija",
+      "longitude": 20.4199404372204,
+      "latitude": 44.7884471855672
+    },
+    {
+      "id": "_24",
+      "label": "Petlja Radnička",
+      "longitude": 20.4269260152845,
+      "latitude": 44.7922118123979
+    },
+    {
+      "id": "_25",
+      "label": "Gospodarska mehana",
+      "longitude": 20.4336164890262,
+      "latitude": 44.7944624326348
+    },
+    {
+      "id": "_26",
+      "label": "Ruska",
+      "longitude": 20.4381790000629,
+      "latitude": 44.7952642285528
+    },
+    {
+      "id": "_27",
+      "label": "Sajam",
+      "longitude": 20.44208197302,
+      "latitude": 44.7963182238307
+    },
+    {
+      "id": "_28",
+      "label": "Mostar",
+      "longitude": 20.4488893135074,
+      "latitude": 44.7982104318979
+    },
+    {
+      "id": "_29",
+      "label": "Višegradska",
+      "longitude": 20.4555782103808,
+      "latitude": 44.8017305887954
+    },
+    {
+      "id": "_30",
+      "label": "Birčaninova",
+      "longitude": 20.4595995767607,
+      "latitude": 44.8050884275429
+    },
+    {
+      "id": "_31",
+      "label": "London",
+      "longitude": 20.462903918343,
+      "latitude": 44.8078362004198
+    },
+    {
+      "id": "_32",
+      "label": "Terazije",
+      "longitude": 20.4610734378326,
+      "latitude": 44.8132849311366
+    },
+    {
+      "id": "_33",
+      "label": "Trg republike",
+      "longitude": 20.4607188559041,
+      "latitude": 44.8155277458009
+    },
+    {
+      "id": "_34",
+      "label": "Trg republike",
+      "longitude": 20.4617425740777,
+      "latitude": 44.8166646919616
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Trg republike",
+      "longitude": 20.4617425740777,
+      "latitude": 44.8166646919616
+    },
+    {
+      "id": "_2",
+      "label": "Trg republike",
+      "longitude": 20.4604999027432,
+      "latitude": 44.8154151225036
+    },
+    {
+      "id": "_3",
+      "label": "Pionirski park",
+      "longitude": 20.4651200189327,
+      "latitude": 44.8109999868147
+    },
+    {
+      "id": "_4",
+      "label": "Admirala Geprata",
+      "longitude": 20.4614722381804,
+      "latitude": 44.806810743113
+    },
+    {
+      "id": "_5",
+      "label": "Miloša Pocerca",
+      "longitude": 20.4560783569759,
+      "latitude": 44.8023161310522
+    },
+    {
+      "id": "_6",
+      "label": "Mostar",
+      "longitude": 20.4492660247473,
+      "latitude": 44.7987396141814
+    },
+    {
+      "id": "_7",
+      "label": "Sajam",
+      "longitude": 20.4415906546322,
+      "latitude": 44.7964130286058
+    },
+    {
+      "id": "_8",
+      "label": "Ruska",
+      "longitude": 20.4359385437038,
+      "latitude": 44.795085842923
+    },
+    {
+      "id": "_9",
+      "label": "Kneza Višeslava",
+      "longitude": 20.4211209252658,
+      "latitude": 44.7831002074612
+    },
+    {
+      "id": "_10",
+      "label": "Škola Josif Pančić",
+      "longitude": 20.4171984049806,
+      "latitude": 44.7810968392086
+    },
+    {
+      "id": "_11",
+      "label": "Dom zdravlja",
+      "longitude": 20.4144724285048,
+      "latitude": 44.77774411363
+    },
+    {
+      "id": "_12",
+      "label": "Kijevska",
+      "longitude": 20.4135459176844,
+      "latitude": 44.775395889586
+    },
+    {
+      "id": "_13",
+      "label": "Petra Lekovića",
+      "longitude": 20.416986414045,
+      "latitude": 44.7712304215954
+    },
+    {
+      "id": "_14",
+      "label": "Žarkovačka",
+      "longitude": 20.4197343446528,
+      "latitude": 44.7680567006046
+    },
+    {
+      "id": "_15",
+      "label": "SC Košutnjak",
+      "longitude": 20.4279251302428,
+      "latitude": 44.7642604138909
+    },
+    {
+      "id": "_16",
+      "label": "Pionirski grad",
+      "longitude": 20.4328789437315,
+      "latitude": 44.7593946266901
+    },
+    {
+      "id": "_17",
+      "label": "Luke Vojvodića",
+      "longitude": 20.434822226557,
+      "latitude": 44.7517851445866
+    },
+    {
+      "id": "_18",
+      "label": "Miloja Zakića",
+      "longitude": 20.4331993870593,
+      "latitude": 44.750349798233
+    },
+    {
+      "id": "_19",
+      "label": "Ratka Mitrovića",
+      "longitude": 20.4309078428306,
+      "latitude": 44.7483405369102
+    },
+    {
+      "id": "_20",
+      "label": "Pilota Mihaila Petrovića",
+      "longitude": 20.4245192708822,
+      "latitude": 44.7428026925389
+    },
+    {
+      "id": "_21",
+      "label": "MZ Vidikovac",
+      "longitude": 20.4224925086193,
+      "latitude": 44.7401286147071
+    },
+    {
+      "id": "_22",
+      "label": "Vidikovački venac",
+      "longitude": 20.4200310609752,
+      "latitude": 44.7385214599684
+    },
+    {
+      "id": "_23",
+      "label": "Toplana",
+      "longitude": 20.420591322832,
+      "latitude": 44.7339866712728
+    },
+    {
+      "id": "_24",
+      "label": "Labudovo brdo",
+      "longitude": 20.4221462260359,
+      "latitude": 44.7304810516745
+    },
+    {
+      "id": "_25",
+      "label": "Serdar Janka Vukotića",
+      "longitude": 20.4259855982253,
+      "latitude": 44.7272658523726
+    },
+    {
+      "id": "_26",
+      "label": "Jedanaeste krajiške divizije",
+      "longitude": 20.4258494088084,
+      "latitude": 44.72622481033
+    },
+    {
+      "id": "_27",
+      "label": "Generala Zgonjanina",
+      "longitude": 20.4223723051648,
+      "latitude": 44.7247386094468
+    },
+    {
+      "id": "_28",
+      "label": "Milorada Draškovića",
+      "longitude": 20.4211436439221,
+      "latitude": 44.7215969329854
+    },
+    {
+      "id": "_29",
+      "label": "Rasinska",
+      "longitude": 20.4255159791221,
+      "latitude": 44.7200907701323
+    },
+    {
+      "id": "_30",
+      "label": "Petlovo brdo",
+      "longitude": 20.4286851618675,
+      "latitude": 44.7181986675915
+    }
+  ]
+}

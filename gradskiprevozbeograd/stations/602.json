@@ -2,323 +2,317 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Блок 44",
-      "longitude": 20.384012,
-      "latitude": 44.797035
+      "label": "Blok 44",
+      "longitude": 20.3840096936993,
+      "latitude": 44.7969732022516
     },
     {
       "id": "_2",
-      "label": "Дом здравља",
-      "longitude": 20.382696,
-      "latitude": 44.799171
+      "label": "Dom zdravlja Blok 44",
+      "longitude": 20.3826724191373,
+      "latitude": 44.7991169026448
     },
     {
       "id": "_3",
-      "label": "Црква Св.Георгија",
-      "longitude": 20.37552,
-      "latitude": 44.807663
+      "label": "Crkva Sv. Georgija",
+      "longitude": 20.375560014463,
+      "latitude": 44.8076945502935
     },
     {
       "id": "_4",
-      "label": "Душана Вукасовића",
-      "longitude": 20.370577,
-      "latitude": 44.805657
+      "label": "Dušana Vukasovića",
+      "longitude": 20.3705756133067,
+      "latitude": 44.8056838016113
     },
     {
       "id": "_5",
-      "label": "Сурчинска",
-      "longitude": 20.36693,
-      "latitude": 44.804164
+      "label": "Surčinska",
+      "longitude": 20.3667746038276,
+      "latitude": 44.8041509518377
     },
     {
       "id": "_6",
-      "label": "Виноградска /Улаз/",
-      "longitude": 20.357954,
-      "latitude": 44.800701
+      "label": "Vinogradska (ulaz)",
+      "longitude": 20.3606702816091,
+      "latitude": 44.8017321998586
     },
     {
       "id": "_7",
-      "label": "МЗ Ледине",
-      "longitude": 20.350332,
-      "latitude": 44.798135
+      "label": "Vinogradska (Plandište)",
+      "longitude": 20.3561131244888,
+      "latitude": 44.800041783209
     },
     {
       "id": "_8",
-      "label": "Воденичарска",
-      "longitude": 20.339913,
-      "latitude": 44.796187
+      "label": "MZ Ledine",
+      "longitude": 20.3496285159837,
+      "latitude": 44.7980252826072
     },
     {
       "id": "_9",
-      "label": "Сурчин /Улаз/",
-      "longitude": 20.331176,
-      "latitude": 44.794924
+      "label": "Vodeničarska",
+      "longitude": 20.3398306653121,
+      "latitude": 44.7962017713091
     },
     {
       "id": "_10",
-      "label": "МЗ Нови Сурчин",
-      "longitude": 20.324128,
-      "latitude": 44.794587
+      "label": "GO Surčin (ulaz)",
+      "longitude": 20.3312327592691,
+      "latitude": 44.794936997708
     },
     {
       "id": "_11",
-      "label": "Сурчин /Канал Галовица/",
-      "longitude": 20.316278,
-      "latitude": 44.794664
+      "label": "MZ Novi Surčin",
+      "longitude": 20.324108151439,
+      "latitude": 44.7946072265736
     },
     {
       "id": "_12",
-      "label": "Сурчин /Силоси/",
-      "longitude": 20.305773,
-      "latitude": 44.793251
+      "label": "Kanal Galovica",
+      "longitude": 20.315851548827,
+      "latitude": 44.7946752400342
     },
     {
       "id": "_13",
-      "label": "Сурчин Насеље /Виноградска/",
-      "longitude": 20.299104,
-      "latitude": 44.792805
+      "label": "Silosi",
+      "longitude": 20.3057169108983,
+      "latitude": 44.7932499701129
     },
     {
       "id": "_14",
-      "label": "Сурчин Насеље /Улаз/",
-      "longitude": 20.293811,
-      "latitude": 44.791433
+      "label": "Vinogradska (Surčin naselje)",
+      "longitude": 20.2990690905301,
+      "latitude": 44.7928189287525
     },
     {
       "id": "_15",
-      "label": "Сурчин /Ритска/",
-      "longitude": 20.286673,
-      "latitude": 44.789682
+      "label": "Surčin naselje (ulaz)",
+      "longitude": 20.2936943285258,
+      "latitude": 44.7914306004245
     },
     {
       "id": "_16",
-      "label": "Сурчин /Драгомира Момчиловића/",
-      "longitude": 20.278303,
-      "latitude": 44.789165
+      "label": "Ritska",
+      "longitude": 20.2864151158825,
+      "latitude": 44.7895406011675
     },
     {
       "id": "_17",
-      "label": "Сурчин /Центар/",
-      "longitude": 20.269677,
-      "latitude": 44.790965
+      "label": "Dragomira Momčilovića",
+      "longitude": 20.2782048499077,
+      "latitude": 44.7891886016318
     },
     {
       "id": "_18",
-      "label": "Сурчин /Партизанска/",
-      "longitude": 20.261782,
-      "latitude": 44.789434
+      "label": "Surčin (centar)",
+      "longitude": 20.269576440419,
+      "latitude": 44.7909428436165
     },
     {
       "id": "_19",
-      "label": "Сурчин /Млин/",
-      "longitude": 20.256119,
-      "latitude": 44.787255
+      "label": "Krušedolska",
+      "longitude": 20.2618605005293,
+      "latitude": 44.7894750736203
     },
     {
       "id": "_20",
-      "label": "Сурчин /Браће Николић/",
-      "longitude": 20.253929,
-      "latitude": 44.783456
+      "label": "Surčin (mlin)",
+      "longitude": 20.2560733648775,
+      "latitude": 44.7872237587599
     },
     {
       "id": "_21",
-      "label": "Сурчин /Римски Канал/",
-      "longitude": 20.250407,
-      "latitude": 44.781256
+      "label": "Braće Nikolić",
+      "longitude": 20.2538782515217,
+      "latitude": 44.7833846722943
     },
     {
       "id": "_22",
-      "label": "Жичка",
-      "longitude": 20.244194,
-      "latitude": 44.783269
+      "label": "Put za SRC",
+      "longitude": 20.250345076553,
+      "latitude": 44.7812287146776
     },
     {
       "id": "_23",
-      "label": "Дон Кихотова",
-      "longitude": 20.240798,
-      "latitude": 44.782807
+      "label": "SRC Surčin (ulaz)",
+      "longitude": 20.2361042282002,
+      "latitude": 44.7879563315462
     },
     {
       "id": "_24",
-      "label": "Парк Кључ",
-      "longitude": 20.235613,
-      "latitude": 44.782051
-    },
-    {
-      "id": "_25",
-      "label": "Јаковичка",
-      "longitude": 20.232531,
-      "latitude": 44.78638
-    },
-    {
-      "id": "_26",
-      "label": "СРЦ Сурчин",
-      "longitude": 20.231581,
-      "latitude": 44.788034
+      "label": "SRC Surčin",
+      "longitude": 20.2316678381447,
+      "latitude": 44.7880022649368
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "СРЦ Сурчин",
-      "longitude": 20.231581,
-      "latitude": 44.788034
+      "label": "SRC Surčin",
+      "longitude": 20.2316678381447,
+      "latitude": 44.7880022649368
     },
     {
       "id": "_2",
-      "label": "Јаковичка",
-      "longitude": 20.232356,
-      "latitude": 44.786294
+      "label": "SRC Surčin (ulaz)",
+      "longitude": 20.2341755833699,
+      "latitude": 44.7880601864808
     },
     {
       "id": "_3",
-      "label": "Парк Кључ",
-      "longitude": 20.235656,
-      "latitude": 44.781996
+      "label": "Jakovička SRC",
+      "longitude": 20.2323753716575,
+      "latitude": 44.7863888861903
     },
     {
       "id": "_4",
-      "label": "Дон Кихотова",
-      "longitude": 20.24071,
-      "latitude": 44.782719
+      "label": "Park Ključ",
+      "longitude": 20.2357882434567,
+      "latitude": 44.7820019126042
     },
     {
       "id": "_5",
-      "label": "Жичка",
-      "longitude": 20.244497,
-      "latitude": 44.783248
+      "label": "Don Kihotova",
+      "longitude": 20.2407203034196,
+      "latitude": 44.7826691705837
     },
     {
       "id": "_6",
-      "label": "Пут за СРЦ Сурчин",
-      "longitude": 20.249286,
-      "latitude": 44.78131
+      "label": "Žička",
+      "longitude": 20.2444477813481,
+      "latitude": 44.7831752864372
     },
     {
       "id": "_7",
-      "label": "Сурчин /Браће Николић/",
-      "longitude": 20.254282,
-      "latitude": 44.783804
+      "label": "Put za SRC",
+      "longitude": 20.2502028713941,
+      "latitude": 44.7810855910504
     },
     {
       "id": "_8",
-      "label": "Сурчин /Млин/",
-      "longitude": 20.256218,
-      "latitude": 44.787163
+      "label": "Braće Nikolić",
+      "longitude": 20.254356505014,
+      "latitude": 44.7839295592062
     },
     {
       "id": "_9",
-      "label": "Сурчин /Партизанска/",
-      "longitude": 20.262169,
-      "latitude": 44.789417
+      "label": "Surčin (mlin)",
+      "longitude": 20.2562724203282,
+      "latitude": 44.7872718485651
     },
     {
       "id": "_10",
-      "label": "Сурчин /Центар/",
-      "longitude": 20.270199,
-      "latitude": 44.790644
+      "label": "Krušedolska",
+      "longitude": 20.2624342595165,
+      "latitude": 44.7894751680994
     },
     {
       "id": "_11",
-      "label": "Сурчин /Драгомира Момчиловића/",
-      "longitude": 20.279643,
-      "latitude": 44.789217
+      "label": "Surčin (centar)",
+      "longitude": 20.2704291239255,
+      "latitude": 44.7902697086563
     },
     {
       "id": "_12",
-      "label": "Сурчин /Ритска/",
-      "longitude": 20.287562,
-      "latitude": 44.789617
+      "label": "Dragomira Momčilovića",
+      "longitude": 20.2797310458474,
+      "latitude": 44.7892252023128
     },
     {
       "id": "_13",
-      "label": "Сурчин Насеље /Улаз/",
-      "longitude": 20.294181,
-      "latitude": 44.791416
+      "label": "Ritska",
+      "longitude": 20.2875792269722,
+      "latitude": 44.7896306392077
     },
     {
       "id": "_14",
-      "label": "Сурчин Насеље /Виноградска/",
-      "longitude": 20.299565,
-      "latitude": 44.792788
+      "label": "Surčin naselje (ulaz)",
+      "longitude": 20.2941465059744,
+      "latitude": 44.7914531850933
     },
     {
       "id": "_15",
-      "label": "Сурчин /Силоси/",
-      "longitude": 20.305846,
-      "latitude": 44.793177
+      "label": "Vinogradska (Surčin naselje)",
+      "longitude": 20.2995926596043,
+      "latitude": 44.7927915309213
     },
     {
       "id": "_16",
-      "label": "Сурчин /Канал Галовица/",
-      "longitude": 20.316517,
-      "latitude": 44.794617
+      "label": "Silosi",
+      "longitude": 20.3060433314953,
+      "latitude": 44.7932213483664
     },
     {
       "id": "_17",
-      "label": "МЗ Нови Сурчин",
-      "longitude": 20.323302,
-      "latitude": 44.79452
+      "label": "Kanal Galovica",
+      "longitude": 20.3164513375034,
+      "latitude": 44.7946158214198
     },
     {
       "id": "_18",
-      "label": "Сурчин /Улаз/",
-      "longitude": 20.330384,
-      "latitude": 44.794791
+      "label": "MZ Novi Surčin",
+      "longitude": 20.3248225109667,
+      "latitude": 44.7944764430506
     },
     {
       "id": "_19",
-      "label": "Воденичарска",
-      "longitude": 20.339274,
-      "latitude": 44.79602
+      "label": "GO Surčin (ulaz)",
+      "longitude": 20.33098144476,
+      "latitude": 44.7948095376177
     },
     {
       "id": "_20",
-      "label": "МЗ Ледине",
-      "longitude": 20.350574,
-      "latitude": 44.7981
+      "label": "Vodeničarska",
+      "longitude": 20.3390974972401,
+      "latitude": 44.7959869575952
     },
     {
       "id": "_21",
-      "label": "Виноградска /Улаз/",
-      "longitude": 20.357884,
-      "latitude": 44.800588
+      "label": "MZ Ledine",
+      "longitude": 20.350873491079,
+      "latitude": 44.7981421326033
     },
     {
       "id": "_22",
-      "label": "Сурчинска",
-      "longitude": 20.367118,
-      "latitude": 44.803938
+      "label": "Vinogradska (Plandište)",
+      "longitude": 20.3568697167817,
+      "latitude": 44.800206221489
     },
     {
       "id": "_23",
-      "label": "Душана Вукасовића",
-      "longitude": 20.372277,
-      "latitude": 44.806038
+      "label": "Vinogradska (ulaz)",
+      "longitude": 20.3615597051529,
+      "latitude": 44.8020053420809
     },
     {
       "id": "_24",
-      "label": "ОШ Јован Стерија Поповић",
-      "longitude": 20.376725,
-      "latitude": 44.80719
+      "label": "Surčinska",
+      "longitude": 20.367092552685,
+      "latitude": 44.8039745164506
     },
     {
       "id": "_25",
-      "label": "Дом здравља",
-      "longitude": 20.382628,
-      "latitude": 44.798875
+      "label": "Dušana Vukasovića",
+      "longitude": 20.3723030905809,
+      "latitude": 44.8060910504505
     },
     {
       "id": "_26",
-      "label": "Блок 44",
-      "longitude": 20.384115,
-      "latitude": 44.796457
+      "label": "OŠ Jovan Sterija Popović",
+      "longitude": 20.3767059199884,
+      "latitude": 44.8071716122244
     },
     {
       "id": "_27",
-      "label": "Блок 44",
-      "longitude": 20.384012,
-      "latitude": 44.797035
+      "label": "Dom zdravlja Blok 44",
+      "longitude": 20.3826264733544,
+      "latitude": 44.7989204652257
+    },
+    {
+      "id": "_28",
+      "label": "Blok 44",
+      "longitude": 20.3841961040927,
+      "latitude": 44.7963190363067
     }
   ]
 }

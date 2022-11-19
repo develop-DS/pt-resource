@@ -2,94 +2,185 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Железничка станица Београд Центар",
-      "longitude": 20.452828,
-      "latitude": 44.793324
+      "label": "Železnička stanica BGD centar",
+      "longitude": 20.4539804454148,
+      "latitude": 44.7925740557622
     },
     {
       "id": "_2",
-      "label": "Ортопедски завод",
-      "longitude": 20.44875,
-      "latitude": 44.795071
+      "label": "Gučevska",
+      "longitude": 20.4580126416515,
+      "latitude": 44.7925211767222
     },
     {
       "id": "_3",
-      "label": "Мостар",
-      "longitude": 20.44927,
-      "latitude": 44.798762
+      "label": "Bulevar kneza Aleksandra Karađorđevića",
+      "longitude": 20.4560364486608,
+      "latitude": 44.7900369467188
     },
     {
       "id": "_4",
-      "label": "ТЦ Галериja",
-      "longitude": 20.446516,
-      "latitude": 44.801717
+      "label": "Dinarska",
+      "longitude": 20.4630243271085,
+      "latitude": 44.7876741781154
     },
     {
       "id": "_5",
-      "label": "Кула Београд",
-      "longitude": 20.449181,
-      "latitude": 44.803316
+      "label": "Franše D'Eperea",
+      "longitude": 20.4666800433672,
+      "latitude": 44.7928101762883
     },
     {
       "id": "_6",
-      "label": "БАС",
-      "longitude": 20.45325,
-      "latitude": 44.810376
+      "label": "Karađorđev park",
+      "longitude": 20.4657590648182,
+      "latitude": 44.7982550256383
     },
     {
       "id": "_7",
-      "label": "Савски трг",
-      "longitude": 20.457707,
-      "latitude": 44.807165
+      "label": "Trg Slavija (Bulevar oslobođenja)",
+      "longitude": 20.4664336279974,
+      "latitude": 44.8017635811315
     },
     {
       "id": "_8",
-      "label": "Кнеза Милоша",
-      "longitude": 20.460619,
-      "latitude": 44.805382
+      "label": "Trg Slavija (Nemanjina)",
+      "longitude": 20.4645643189521,
+      "latitude": 44.8032487975536
     },
     {
       "id": "_9",
-      "label": "Трг Славија /Немањина/",
-      "longitude": 20.464392,
-      "latitude": 44.803074
+      "label": "Kneza Miloša",
+      "longitude": 20.461314907081,
+      "latitude": 44.8052350860987
     },
     {
       "id": "_10",
-      "label": "Трг Славија /Булевар Ослобођења/",
-      "longitude": 20.466047,
-      "latitude": 44.801404
+      "label": "Savski trg",
+      "longitude": 20.4551155399825,
+      "latitude": 44.8071299145412
     },
     {
       "id": "_11",
-      "label": "Карађорђев парк",
-      "longitude": 20.465237,
-      "latitude": 44.797099
+      "label": "Palata pravde",
+      "longitude": 20.4528657838574,
+      "latitude": 44.8043923494829
     },
     {
       "id": "_12",
-      "label": "Франше Д'Епереа",
-      "longitude": 20.466405,
-      "latitude": 44.792679
+      "label": "Mostar",
+      "longitude": 20.4488893135074,
+      "latitude": 44.7982104318979
     },
     {
       "id": "_13",
-      "label": "Трг Ослобођења",
-      "longitude": 20.463844,
-      "latitude": 44.787847
+      "label": "Ortopedski zavod",
+      "longitude": 20.449645218621,
+      "latitude": 44.7931293143198
     },
     {
       "id": "_14",
-      "label": "Кнеза Алекстандра Карађорђевића булевар",
-      "longitude": 20.455919,
-      "latitude": 44.7898
+      "label": "Železnička stanica BGD centar",
+      "longitude": 20.4539804454148,
+      "latitude": 44.7925740557622
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Železnička stanica BGD centar",
+      "longitude": 20.4543971451321,
+      "latitude": 44.7926138361431
+    },
+    {
+      "id": "_2",
+      "label": "Ortopedski zavod",
+      "longitude": 20.4487869469579,
+      "latitude": 44.7951410939727
+    },
+    {
+      "id": "_3",
+      "label": "Mostar",
+      "longitude": 20.4492660247473,
+      "latitude": 44.7987396141814
+    },
+    {
+      "id": "_4",
+      "label": "TC Galerija",
+      "longitude": 20.4461890099644,
+      "latitude": 44.8014426648003
+    },
+    {
+      "id": "_5",
+      "label": "Kula Beograd",
+      "longitude": 20.4490089204697,
+      "latitude": 44.8031967529456
+    },
+    {
+      "id": "_6",
+      "label": "Ekonomski fakultet",
+      "longitude": 20.454085060951,
+      "latitude": 44.8107842250184
+    },
+    {
+      "id": "_7",
+      "label": "Savski trg",
+      "longitude": 20.4578441127691,
+      "latitude": 44.8070780430471
+    },
+    {
+      "id": "_8",
+      "label": "Kneza Miloša",
+      "longitude": 20.4606080823449,
+      "latitude": 44.8053901574623
+    },
+    {
+      "id": "_9",
+      "label": "Trg Slavija (Nemanjina)",
+      "longitude": 20.4645567418167,
+      "latitude": 44.8029733763053
+    },
+    {
+      "id": "_10",
+      "label": "Trg Slavija (Bulevar oslobođenja)",
+      "longitude": 20.4660196131815,
+      "latitude": 44.8014232725427
+    },
+    {
+      "id": "_11",
+      "label": "Karađorđev park",
+      "longitude": 20.4651954172747,
+      "latitude": 44.7970276562542
+    },
+    {
+      "id": "_12",
+      "label": "Franše D'Eperea",
+      "longitude": 20.466428073984,
+      "latitude": 44.7927226092191
+    },
+    {
+      "id": "_13",
+      "label": "Dinarska",
+      "longitude": 20.4598269282814,
+      "latitude": 44.7876861693489
+    },
+    {
+      "id": "_14",
+      "label": "Bulevar kneza Aleksandra Karađorđevića",
+      "longitude": 20.4559346728239,
+      "latitude": 44.7898384738614
     },
     {
       "id": "_15",
-      "label": "Гучевска",
-      "longitude": 20.45798,
-      "latitude": 44.792471
+      "label": "Gučevska",
+      "longitude": 20.4580126416515,
+      "latitude": 44.7925211767222
+    },
+    {
+      "id": "_16",
+      "label": "Železnička stanica BGD centar",
+      "longitude": 20.4543971451321,
+      "latitude": 44.7926138361431
     }
-  ],
-  "direction_b": []
+  ]
 }

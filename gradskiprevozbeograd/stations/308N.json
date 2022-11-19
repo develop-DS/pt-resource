@@ -1,0 +1,234 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Trg Slavija",
+      "longitude": 20.4668319426505,
+      "latitude": 44.8027139840699
+    },
+    {
+      "id": "_2",
+      "label": "Pravni fakultet",
+      "longitude": 20.4719754000281,
+      "latitude": 44.8067605591121
+    },
+    {
+      "id": "_3",
+      "label": "Tehnički fakulteti",
+      "longitude": 20.475579409314,
+      "latitude": 44.805232765126
+    },
+    {
+      "id": "_4",
+      "label": "Batutova",
+      "longitude": 20.4995074794414,
+      "latitude": 44.7951755178051
+    },
+    {
+      "id": "_5",
+      "label": "Pijaca Zvezdara",
+      "longitude": 20.5047073011366,
+      "latitude": 44.7930867763058
+    },
+    {
+      "id": "_6",
+      "label": "Dr Velizara Kosanovića",
+      "longitude": 20.5089844562786,
+      "latitude": 44.7924607823968
+    },
+    {
+      "id": "_7",
+      "label": "Mite Ružića",
+      "longitude": 20.5136194698621,
+      "latitude": 44.7904394134507
+    },
+    {
+      "id": "_8",
+      "label": "Koste Trifkovića",
+      "longitude": 20.5162784323904,
+      "latitude": 44.7886255365273
+    },
+    {
+      "id": "_9",
+      "label": "Ustanička",
+      "longitude": 20.5211262691793,
+      "latitude": 44.7837068972296
+    },
+    {
+      "id": "_10",
+      "label": "Bajdina",
+      "longitude": 20.525773951973,
+      "latitude": 44.7793703939793
+    },
+    {
+      "id": "_11",
+      "label": "Mirijevska",
+      "longitude": 20.5298996603957,
+      "latitude": 44.7776288417081
+    },
+    {
+      "id": "_12",
+      "label": "OŠ Dragojlo Dudić",
+      "longitude": 20.534610090852,
+      "latitude": 44.7754161330401
+    },
+    {
+      "id": "_13",
+      "label": "Narodnog fronta",
+      "longitude": 20.5355520354592,
+      "latitude": 44.7710551472137
+    },
+    {
+      "id": "_14",
+      "label": "Žikina (prilaz)",
+      "longitude": 20.5336174420926,
+      "latitude": 44.7671522824769
+    },
+    {
+      "id": "_15",
+      "label": "Naselje Klenak",
+      "longitude": 20.5327593216355,
+      "latitude": 44.7638855395823
+    },
+    {
+      "id": "_16",
+      "label": "Lipovačka",
+      "longitude": 20.530704555237,
+      "latitude": 44.7614688665202
+    },
+    {
+      "id": "_17",
+      "label": "MZ VML",
+      "longitude": 20.5252044903782,
+      "latitude": 44.7602511077882
+    },
+    {
+      "id": "_18",
+      "label": "Vizantijska",
+      "longitude": 20.5254063681446,
+      "latitude": 44.7577968491516
+    },
+    {
+      "id": "_19",
+      "label": "VML",
+      "longitude": 20.5292411104202,
+      "latitude": 44.7562359031719
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "VML",
+      "longitude": 20.5292411104202,
+      "latitude": 44.7562359031719
+    },
+    {
+      "id": "_2",
+      "label": "Vizantijska",
+      "longitude": 20.5255945667829,
+      "latitude": 44.7579524201915
+    },
+    {
+      "id": "_3",
+      "label": "MZ VML",
+      "longitude": 20.5254135895288,
+      "latitude": 44.7600125827056
+    },
+    {
+      "id": "_4",
+      "label": "Lipovačka",
+      "longitude": 20.5306681394065,
+      "latitude": 44.7612851257408
+    },
+    {
+      "id": "_5",
+      "label": "Naselje Klenak",
+      "longitude": 20.5331223450496,
+      "latitude": 44.7642991978584
+    },
+    {
+      "id": "_6",
+      "label": "Žikina (prilaz)",
+      "longitude": 20.5341924856853,
+      "latitude": 44.7679123824852
+    },
+    {
+      "id": "_7",
+      "label": "Narodnog fronta",
+      "longitude": 20.5357570590433,
+      "latitude": 44.7713277638622
+    },
+    {
+      "id": "_8",
+      "label": "OŠ Dragojlo Dudić",
+      "longitude": 20.5335783691153,
+      "latitude": 44.7761373133847
+    },
+    {
+      "id": "_9",
+      "label": "Mirijevska",
+      "longitude": 20.5289299736302,
+      "latitude": 44.7781666423269
+    },
+    {
+      "id": "_10",
+      "label": "Bajdina",
+      "longitude": 20.5234526159313,
+      "latitude": 44.7810887013782
+    },
+    {
+      "id": "_11",
+      "label": "Ustanička",
+      "longitude": 20.5207501046355,
+      "latitude": 44.783964515289
+    },
+    {
+      "id": "_12",
+      "label": "Koste Trifkovića",
+      "longitude": 20.5159594017901,
+      "latitude": 44.7893009589398
+    },
+    {
+      "id": "_13",
+      "label": "Mite Ružića",
+      "longitude": 20.5127317422065,
+      "latitude": 44.791107016141
+    },
+    {
+      "id": "_14",
+      "label": "Dr Velizara Kosanovića",
+      "longitude": 20.5109171575512,
+      "latitude": 44.7919776567746
+    },
+    {
+      "id": "_15",
+      "label": "Pijaca Zvezdara",
+      "longitude": 20.5047686392372,
+      "latitude": 44.7933048301686
+    },
+    {
+      "id": "_16",
+      "label": "Batutova",
+      "longitude": 20.499690518538,
+      "latitude": 44.7953491071302
+    },
+    {
+      "id": "_17",
+      "label": "Tehnički fakulteti",
+      "longitude": 20.4763383280773,
+      "latitude": 44.8051840333328
+    },
+    {
+      "id": "_18",
+      "label": "Pravni fakultet",
+      "longitude": 20.4723282741585,
+      "latitude": 44.8068809760732
+    },
+    {
+      "id": "_19",
+      "label": "Trg Slavija",
+      "longitude": 20.4668319426505,
+      "latitude": 44.8027139840699
+    }
+  ]
+}

@@ -2,179 +2,185 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Земун /Ослобођења Кеј/",
-      "longitude": 20.415797,
-      "latitude": 44.843491
+      "label": "Kej oslobođenja",
+      "longitude": 20.4159911940337,
+      "latitude": 44.8436751886467
     },
     {
       "id": "_2",
-      "label": "Бранка Радичевића трг",
-      "longitude": 20.409721,
-      "latitude": 44.845945
+      "label": "Trg Branka Radičevića",
+      "longitude": 20.4095407482245,
+      "latitude": 44.8460720216037
     },
     {
       "id": "_3",
-      "label": "Наде Димић",
-      "longitude": 20.403032,
-      "latitude": 44.849098
+      "label": "Nade Dimić",
+      "longitude": 20.4028827140265,
+      "latitude": 44.8491657672126
     },
     {
       "id": "_4",
-      "label": "Дунавска",
-      "longitude": 20.397903,
-      "latitude": 44.850993
+      "label": "Dunavska",
+      "longitude": 20.3978588906259,
+      "latitude": 44.8510077899931
     },
     {
       "id": "_5",
-      "label": "Тршћанска",
-      "longitude": 20.39062,
-      "latitude": 44.853758
+      "label": "Tršćanska",
+      "longitude": 20.3905122701023,
+      "latitude": 44.8537768135237
     },
     {
       "id": "_6",
-      "label": "Филипа Вишњића",
-      "longitude": 20.386725,
-      "latitude": 44.855268
+      "label": "Filipa Višnjića",
+      "longitude": 20.3867265075406,
+      "latitude": 44.8552415413263
     },
     {
       "id": "_7",
-      "label": "Земун /Горњи град/ ",
-      "longitude": 20.378181,
-      "latitude": 44.859074
+      "label": "Ruska",
+      "longitude": 20.3808914653133,
+      "latitude": 44.8578326286961
     },
     {
       "id": "_8",
-      "label": "Геомашина",
-      "longitude": 20.364079,
-      "latitude": 44.865225
+      "label": "Zemun (Gornji grad)",
+      "longitude": 20.3780768215081,
+      "latitude": 44.8590737214802
     },
     {
       "id": "_9",
-      "label": "Предузеће Галеника Магмасил",
-      "longitude": 20.358868,
-      "latitude": 44.867472
+      "label": "Geomašina",
+      "longitude": 20.3639440423549,
+      "latitude": 44.8652364128365
     },
     {
       "id": "_10",
-      "label": "Coca Cola",
-      "longitude": 20.353822,
-      "latitude": 44.869657
+      "label": "Preduzeće Galenika Magmasil",
+      "longitude": 20.3587940672045,
+      "latitude": 44.8674899859596
     },
     {
       "id": "_11",
-      "label": "Електронска Индустрија",
-      "longitude": 20.343885,
-      "latitude": 44.873977
+      "label": "Coca-Cola",
+      "longitude": 20.3537456511705,
+      "latitude": 44.8696791024904
     },
     {
       "id": "_12",
-      "label": "Пут за 13. мај",
-      "longitude": 20.334089,
-      "latitude": 44.878237
+      "label": "Elektronska industrija",
+      "longitude": 20.3437621054869,
+      "latitude": 44.8740105149142
     },
     {
       "id": "_13",
-      "label": "13. Мај /Улаз/",
-      "longitude": 20.33998,
-      "latitude": 44.883842
+      "label": "Put za 13. maj",
+      "longitude": 20.3338282734333,
+      "latitude": 44.8782909433028
     },
     {
       "id": "_14",
-      "label": "13. Мај",
-      "longitude": 20.342495,
-      "latitude": 44.885935
+      "label": "13. maj (ulaz)",
+      "longitude": 20.3400451115645,
+      "latitude": 44.8838867395472
+    },
+    {
+      "id": "_15",
+      "label": "13. maj",
+      "longitude": 20.3425477005664,
+      "latitude": 44.8860069804522
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "13. Мај",
-      "longitude": 20.342495,
-      "latitude": 44.885935
+      "label": "13. maj",
+      "longitude": 20.3425477005664,
+      "latitude": 44.8860069804522
     },
     {
       "id": "_2",
-      "label": "13. Мај /Улаз/",
-      "longitude": 20.340193,
-      "latitude": 44.88415
+      "label": "13. maj (ulaz)",
+      "longitude": 20.3396365398839,
+      "latitude": 44.8837493956579
     },
     {
       "id": "_3",
-      "label": "Пут за 13. мај",
-      "longitude": 20.33432,
-      "latitude": 44.87794
+      "label": "Put za 13. maj",
+      "longitude": 20.3345166004831,
+      "latitude": 44.8778701684718
     },
     {
       "id": "_4",
-      "label": "Електронска Индустрија",
-      "longitude": 20.344019,
-      "latitude": 44.873693
+      "label": "Elektronska industrija",
+      "longitude": 20.3440687716763,
+      "latitude": 44.8737530863696
     },
     {
       "id": "_5",
-      "label": "Coca Cola",
-      "longitude": 20.3562,
-      "latitude": 44.868458
+      "label": "Coca-Cola",
+      "longitude": 20.3562573258036,
+      "latitude": 44.8684639094224
     },
     {
       "id": "_6",
-      "label": "Предузеће Галеника Магмасил",
-      "longitude": 20.360226,
-      "latitude": 44.866699
+      "label": "Preduzeće Galenika Magmasil",
+      "longitude": 20.3601357810916,
+      "latitude": 44.8667757265705
     },
     {
       "id": "_7",
-      "label": "Геомашина",
-      "longitude": 20.365093,
-      "latitude": 44.864612
+      "label": "Geomašina",
+      "longitude": 20.3649880697733,
+      "latitude": 44.8646554360307
     },
     {
       "id": "_8",
-      "label": "Земун /Горњи град/ ",
-      "longitude": 20.378161,
-      "latitude": 44.858899
+      "label": "Zemun (Gornji grad)",
+      "longitude": 20.3783375530751,
+      "latitude": 44.8588303502097
     },
     {
       "id": "_9",
-      "label": "Руска",
-      "longitude": 20.381617,
-      "latitude": 44.857375
+      "label": "Ruska",
+      "longitude": 20.381744584832,
+      "latitude": 44.8573278623746
     },
     {
       "id": "_10",
-      "label": "Филипа Вишњића",
-      "longitude": 20.38765,
-      "latitude": 44.854691
+      "label": "Filipa Višnjića",
+      "longitude": 20.3876555986787,
+      "latitude": 44.8547227377359
     },
     {
       "id": "_11",
-      "label": "Тршћанска",
-      "longitude": 20.391707,
-      "latitude": 44.853192
+      "label": "Tršćanska",
+      "longitude": 20.3917837899724,
+      "latitude": 44.8531734007697
     },
     {
       "id": "_12",
-      "label": "Дунавска",
-      "longitude": 20.396803,
-      "latitude": 44.85126
+      "label": "Dunavska",
+      "longitude": 20.3969153254232,
+      "latitude": 44.8512296185574
     },
     {
       "id": "_13",
-      "label": "Наде Димић",
-      "longitude": 20.402386,
-      "latitude": 44.849203
+      "label": "Nade Dimić",
+      "longitude": 20.4024598432292,
+      "latitude": 44.8491977628024
     },
     {
       "id": "_14",
-      "label": "Бранка Радичевића трг",
-      "longitude": 20.408472,
-      "latitude": 44.84641
+      "label": "Trg Branka Radičevića",
+      "longitude": 20.408636759713,
+      "latitude": 44.8463949450253
     },
     {
       "id": "_15",
-      "label": "Земун /Ослобођења Кеј/",
-      "longitude": 20.415797,
-      "latitude": 44.843491
+      "label": "Kej oslobođenja",
+      "longitude": 20.4159911940337,
+      "latitude": 44.8436751886467
     }
   ]
 }

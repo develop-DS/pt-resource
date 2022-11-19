@@ -2,275 +2,287 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Борча 3",
-      "longitude": 20.448304,
-      "latitude": 44.874704
+      "label": "Borča 3",
+      "longitude": 20.4487321036547,
+      "latitude": 44.8747575091995
     },
     {
       "id": "_2",
-      "label": "Беле Бартока",
-      "longitude": 20.451826,
-      "latitude": 44.877627
+      "label": "Bele Bartoka",
+      "longitude": 20.4518386123245,
+      "latitude": 44.8776414096
     },
     {
       "id": "_3",
-      "label": "Комбинатова",
-      "longitude": 20.452808,
-      "latitude": 44.880576
+      "label": "Kombinatova",
+      "longitude": 20.4529338648228,
+      "latitude": 44.8806848411228
     },
     {
       "id": "_4",
-      "label": "Михајла Шолохова",
-      "longitude": 20.456392,
-      "latitude": 44.87908
+      "label": "Mihajla Šolohova",
+      "longitude": 20.4563793559971,
+      "latitude": 44.879061523216
     },
     {
       "id": "_5",
-      "label": "Милана Ајваза",
-      "longitude": 20.459081,
-      "latitude": 44.877397
+      "label": "Milana Ajvaza",
+      "longitude": 20.4590020770869,
+      "latitude": 44.8774234252863
     },
     {
       "id": "_6",
-      "label": "Ваљевског Одреда",
-      "longitude": 20.462886,
-      "latitude": 44.875434
+      "label": "Valjevskog odreda",
+      "longitude": 20.4628655275921,
+      "latitude": 44.8754563026721
     },
     {
       "id": "_7",
-      "label": "Попова Бара",
-      "longitude": 20.468854,
-      "latitude": 44.880464
+      "label": "Popova bara",
+      "longitude": 20.4694618821182,
+      "latitude": 44.881027033668
     },
     {
       "id": "_8",
-      "label": "Пут за Овчу",
-      "longitude": 20.476837,
-      "latitude": 44.88127
+      "label": "Mihaila Petrovića",
+      "longitude": 20.4726671988003,
+      "latitude": 44.8815475749535
     },
     {
       "id": "_9",
-      "label": "Миргородска",
-      "longitude": 20.482675,
-      "latitude": 44.881334
+      "label": "Put za Ovču",
+      "longitude": 20.4769608545235,
+      "latitude": 44.8812612443177
     },
     {
       "id": "_10",
-      "label": "Бранислава Циге Јеринића",
-      "longitude": 20.491715,
-      "latitude": 44.882102
+      "label": "Mirgorodska",
+      "longitude": 20.4828687157376,
+      "latitude": 44.8813600125448
     },
     {
       "id": "_11",
-      "label": "Ефеска",
-      "longitude": 20.496776,
-      "latitude": 44.882614
+      "label": "Branislava Cige Jerinića",
+      "longitude": 20.4917152998459,
+      "latitude": 44.8820924864876
     },
     {
       "id": "_12",
-      "label": "Војвођански Салаши",
-      "longitude": 20.504254,
-      "latitude": 44.883606
+      "label": "Efeska",
+      "longitude": 20.4966424344398,
+      "latitude": 44.8826091673597
     },
     {
       "id": "_13",
-      "label": "Атови",
-      "longitude": 20.510614,
-      "latitude": 44.884416
+      "label": "Vojvođanski salaši",
+      "longitude": 20.5041151940666,
+      "latitude": 44.8835776318719
     },
     {
       "id": "_14",
-      "label": "Агро Кока",
-      "longitude": 20.517122,
-      "latitude": 44.885327
+      "label": "Atovi",
+      "longitude": 20.510690535986,
+      "latitude": 44.8844157939792
     },
     {
       "id": "_15",
-      "label": "Овча /Излаз/",
-      "longitude": 20.523299,
-      "latitude": 44.886388
+      "label": "Agro-koka",
+      "longitude": 20.5153388105037,
+      "latitude": 44.885020473175
     },
     {
       "id": "_16",
-      "label": "Овча /Улаз/",
-      "longitude": 20.530137,
-      "latitude": 44.887037
+      "label": "Ovča (izlaz)",
+      "longitude": 20.5233382296281,
+      "latitude": 44.8863678766631
     },
     {
       "id": "_17",
-      "label": "Овча /Центар/",
-      "longitude": 20.535209,
-      "latitude": 44.888035
+      "label": "Ovča (ulaz)",
+      "longitude": 20.5301461277611,
+      "latitude": 44.8870132960377
     },
     {
       "id": "_18",
-      "label": "Овча /Његошева/",
-      "longitude": 20.53616,
-      "latitude": 44.885666
+      "label": "Ovča (centar)",
+      "longitude": 20.5348282971214,
+      "latitude": 44.8881788833171
     },
     {
       "id": "_19",
-      "label": "Железничка Рампа",
-      "longitude": 20.539336,
-      "latitude": 44.875399
+      "label": "Njegoševa",
+      "longitude": 20.5361988423278,
+      "latitude": 44.8855458005601
     },
     {
       "id": "_20",
-      "label": "Овча /Железничка станица/",
-      "longitude": 20.543227,
-      "latitude": 44.875284
+      "label": "Železnička rampa",
+      "longitude": 20.5390814449843,
+      "latitude": 44.875800237906
+    },
+    {
+      "id": "_21",
+      "label": "Ovča (Železnička stanica)",
+      "longitude": 20.5434995698431,
+      "latitude": 44.8753625142111
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Овча /Железничка станица/",
-      "longitude": 20.543227,
-      "latitude": 44.875284
+      "label": "Ovča (Železnička stanica)",
+      "longitude": 20.5434995698431,
+      "latitude": 44.8753625142111
     },
     {
       "id": "_2",
-      "label": "Железничка Рампа",
-      "longitude": 20.539182,
-      "latitude": 44.875843
+      "label": "Železničlka rampa",
+      "longitude": 20.538961161744,
+      "latitude": 44.8762839241372
     },
     {
       "id": "_3",
-      "label": "Овча /Његошева/",
-      "longitude": 20.536242,
-      "latitude": 44.885791
+      "label": "Njegoševa",
+      "longitude": 20.5362854529681,
+      "latitude": 44.8857963339315
     },
     {
       "id": "_4",
-      "label": "Овча /Боља/",
-      "longitude": 20.538839,
-      "latitude": 44.887491
+      "label": "Bolja",
+      "longitude": 20.53870027571,
+      "latitude": 44.8874529514584
     },
     {
       "id": "_5",
-      "label": "Овча /Ницу Рада/",
-      "longitude": 20.542068,
-      "latitude": 44.888326
+      "label": "Nicu Rada",
+      "longitude": 20.5421620787376,
+      "latitude": 44.8883217485363
     },
     {
       "id": "_6",
-      "label": "Овча /Београдска/",
-      "longitude": 20.542748,
-      "latitude": 44.890255
+      "label": "Ovča (Beogradska)",
+      "longitude": 20.5427340899065,
+      "latitude": 44.890275098348
     },
     {
       "id": "_7",
-      "label": "Овча (Жарка Зрењанина)",
-      "longitude": 20.53838,
-      "latitude": 44.889176
+      "label": "Žarka Zrenjanina",
+      "longitude": 20.5383042731592,
+      "latitude": 44.8891738463062
     },
     {
       "id": "_8",
-      "label": "Овча /Центар/",
-      "longitude": 20.534681,
-      "latitude": 44.888263
+      "label": "Ovča (centar)",
+      "longitude": 20.5348374866327,
+      "latitude": 44.8882959128185
     },
     {
       "id": "_9",
-      "label": "Овча /Улаз/",
-      "longitude": 20.529519,
-      "latitude": 44.886971
+      "label": "Ovča (ulaz)",
+      "longitude": 20.5294933415493,
+      "latitude": 44.8869602263714
     },
     {
       "id": "_10",
-      "label": "Овча /Излаз/",
-      "longitude": 20.522836,
-      "latitude": 44.886431
+      "label": "Ovča (izlaz)",
+      "longitude": 20.5227781247517,
+      "latitude": 44.8864375452913
     },
     {
       "id": "_11",
-      "label": "Агро Кока",
-      "longitude": 20.515963,
-      "latitude": 44.885256
+      "label": "Agro-koka",
+      "longitude": 20.5159999763295,
+      "latitude": 44.8852788456584
     },
     {
       "id": "_12",
-      "label": "Атови",
-      "longitude": 20.509608,
-      "latitude": 44.884383
+      "label": "Atovi",
+      "longitude": 20.5097184312101,
+      "latitude": 44.8844062468502
     },
     {
       "id": "_13",
-      "label": "Војвођански Салаши",
-      "longitude": 20.503693,
-      "latitude": 44.883619
+      "label": "Vojvođanski salaši",
+      "longitude": 20.5037753897709,
+      "latitude": 44.8836427591291
     },
     {
       "id": "_14",
-      "label": "Ефеска",
-      "longitude": 20.497313,
-      "latitude": 44.882801
+      "label": "Efeska",
+      "longitude": 20.4974077033987,
+      "latitude": 44.882819507228
     },
     {
       "id": "_15",
-      "label": "Бранислава Циге Јеринића",
-      "longitude": 20.491182,
-      "latitude": 44.882188
+      "label": "Branislava Cige Jerinića",
+      "longitude": 20.4910866903596,
+      "latitude": 44.8821796951729
     },
     {
       "id": "_16",
-      "label": "Миргородска",
-      "longitude": 20.48218,
-      "latitude": 44.881357
+      "label": "Mirgorodska",
+      "longitude": 20.4820967698427,
+      "latitude": 44.8813385328124
     },
     {
       "id": "_17",
-      "label": "Пут за Овчу",
-      "longitude": 20.476421,
-      "latitude": 44.881395
+      "label": "Put za Ovču",
+      "longitude": 20.4764102215107,
+      "latitude": 44.8814027240837
     },
     {
       "id": "_18",
-      "label": "Попова Бара",
-      "longitude": 20.468888,
-      "latitude": 44.880672
+      "label": "Mihaila Petrovića",
+      "longitude": 20.4718654091144,
+      "latitude": 44.8817454746657
     },
     {
       "id": "_19",
-      "label": "Борча Раскршће",
-      "longitude": 20.465917,
-      "latitude": 44.878107
+      "label": "Popova bara",
+      "longitude": 20.4686616700074,
+      "latitude": 44.8804995651763
     },
     {
       "id": "_20",
-      "label": "Ваљевског Одреда",
-      "longitude": 20.462196,
-      "latitude": 44.875522
+      "label": "Borča raskršće",
+      "longitude": 20.4659366685636,
+      "latitude": 44.8781380666315
     },
     {
       "id": "_21",
-      "label": "Милана Ајваза",
-      "longitude": 20.459632,
-      "latitude": 44.877148
+      "label": "Valjevskog odreda",
+      "longitude": 20.4621002617329,
+      "latitude": 44.8755427121218
     },
     {
       "id": "_22",
-      "label": "Михајла Шолохова",
-      "longitude": 20.456976,
-      "latitude": 44.878847
+      "label": "Milana Ajvaza",
+      "longitude": 20.459693494969,
+      "latitude": 44.8771153031148
     },
     {
       "id": "_23",
-      "label": "Комбинатова",
-      "longitude": 20.452111,
-      "latitude": 44.880093
+      "label": "Mihajla Šolohova",
+      "longitude": 20.456777794913,
+      "latitude": 44.878955417221
     },
     {
       "id": "_24",
-      "label": "Беле Бартока",
-      "longitude": 20.451539,
-      "latitude": 44.877187
+      "label": "Kombinatova",
+      "longitude": 20.4520965351724,
+      "latitude": 44.8800832843137
     },
     {
       "id": "_25",
-      "label": "Борча 3",
-      "longitude": 20.448304,
-      "latitude": 44.874704
+      "label": "Bele Bartoka",
+      "longitude": 20.4514405407691,
+      "latitude": 44.877173336995
+    },
+    {
+      "id": "_26",
+      "label": "Borča 3",
+      "longitude": 20.4487321036547,
+      "latitude": 44.8747575091995
     }
   ]
 }

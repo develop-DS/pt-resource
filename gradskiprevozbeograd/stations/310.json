@@ -2,113 +2,137 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Шумице Терминус",
-      "longitude": 20.500787,
-      "latitude": 44.783994
+      "label": "Šumice (Terminus)",
+      "longitude": 20.5008437908852,
+      "latitude": 44.7837860928328
     },
     {
       "id": "_2",
-      "label": "Шумице",
-      "longitude": 20.502268,
-      "latitude": 44.783154
+      "label": "Šumice",
+      "longitude": 20.5022492654904,
+      "latitude": 44.7831622259354
     },
     {
       "id": "_3",
-      "label": "Петрињска",
-      "longitude": 20.50716,
-      "latitude": 44.782581
+      "label": "Petrinjska",
+      "longitude": 20.5071650444596,
+      "latitude": 44.7825444661776
     },
     {
       "id": "_4",
-      "label": "Коњарник",
-      "longitude": 20.511114,
-      "latitude": 44.782083
+      "label": "Konjarnik",
+      "longitude": 20.5113646280986,
+      "latitude": 44.7820314434885
     },
     {
       "id": "_5",
-      "label": "ОШ Десанка Максимовић",
-      "longitude": 20.517166,
-      "latitude": 44.782414
+      "label": "OŠ Desanka Maksimović",
+      "longitude": 20.5170860006677,
+      "latitude": 44.7823760370229
     },
     {
       "id": "_6",
-      "label": "Првомајска",
-      "longitude": 20.519956,
-      "latitude": 44.781415
+      "label": "Živka Davidovića",
+      "longitude": 20.521002743422,
+      "latitude": 44.7827470277229
     },
     {
       "id": "_7",
-      "label": "Маге Магазиновић",
-      "longitude": 20.519424,
-      "latitude": 44.778719
+      "label": "Prvomajska",
+      "longitude": 20.5199093674958,
+      "latitude": 44.7814069244403
     },
     {
       "id": "_8",
-      "label": "Босанска",
-      "longitude": 20.519647,
-      "latitude": 44.776161
+      "label": "Mage Magazinović",
+      "longitude": 20.5193065728361,
+      "latitude": 44.7791167102164
     },
     {
       "id": "_9",
-      "label": "Коларска",
-      "longitude": 20.523239,
-      "latitude": 44.774064
+      "label": "Jerusalimska",
+      "longitude": 20.5193851356648,
+      "latitude": 44.7772523264392
     },
     {
       "id": "_10",
-      "label": "20. Октобра",
-      "longitude": 20.526141,
-      "latitude": 44.774675
+      "label": "Bosanska",
+      "longitude": 20.5196164738348,
+      "latitude": 44.7761661452408
     },
     {
       "id": "_11",
-      "label": "Мали Мокри Луг /Црква/",
-      "longitude": 20.531009,
-      "latitude": 44.774049
+      "label": "Kolarska",
+      "longitude": 20.5229030438399,
+      "latitude": 44.7741351438701
+    },
+    {
+      "id": "_12",
+      "label": "20. oktobra",
+      "longitude": 20.5266096141417,
+      "latitude": 44.7744960696629
+    },
+    {
+      "id": "_13",
+      "label": "Mali Mokri Lug (crkva)",
+      "longitude": 20.5311112747408,
+      "latitude": 44.7740321628076
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Мали Мокри Луг /Црква/",
-      "longitude": 20.531009,
-      "latitude": 44.774049
+      "label": "Mali Mokri Lug (crkva)",
+      "longitude": 20.5311112747408,
+      "latitude": 44.7740321628076
     },
     {
       "id": "_2",
-      "label": "Народног Фронта",
-      "longitude": 20.52915,
-      "latitude": 44.777219
+      "label": "OŠ Dragojlo Dudić",
+      "longitude": 20.5335783691153,
+      "latitude": 44.7761373133847
     },
     {
       "id": "_3",
-      "label": "Пијаца ММЛ",
-      "longitude": 20.521611,
-      "latitude": 44.782282
+      "label": "Narodnog fronta",
+      "longitude": 20.5291143276598,
+      "latitude": 44.7772440416485
     },
     {
       "id": "_4",
-      "label": "ОШ Десанка Максимовић",
-      "longitude": 20.51675,
-      "latitude": 44.782402
+      "label": "Pijaca",
+      "longitude": 20.5230713440269,
+      "latitude": 44.7810475201527
     },
     {
       "id": "_5",
-      "label": "Коњарник",
-      "longitude": 20.510946,
-      "latitude": 44.782343
+      "label": "Živka Davidovića",
+      "longitude": 20.5211950324782,
+      "latitude": 44.7827208310648
     },
     {
       "id": "_6",
-      "label": "Петрињска",
-      "longitude": 20.505783,
-      "latitude": 44.782979
+      "label": "OŠ Desanka Maksimović",
+      "longitude": 20.5166285510837,
+      "latitude": 44.7823777117947
     },
     {
       "id": "_7",
-      "label": "Шумице Терминус",
-      "longitude": 20.500787,
-      "latitude": 44.783994
+      "label": "Konjarnik",
+      "longitude": 20.5108922777747,
+      "latitude": 44.7823030190255
+    },
+    {
+      "id": "_8",
+      "label": "Petrinjska",
+      "longitude": 20.5055970497212,
+      "latitude": 44.7829697032573
+    },
+    {
+      "id": "_9",
+      "label": "Šumice (Terminus)",
+      "longitude": 20.5008437908852,
+      "latitude": 44.7837860928328
     }
   ]
 }

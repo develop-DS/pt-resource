@@ -1,0 +1,342 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Kumodraž",
+      "longitude": 20.5183357728467,
+      "latitude": 44.7449285460405
+    },
+    {
+      "id": "_2",
+      "label": "Kumodraž 1",
+      "longitude": 20.5159079862239,
+      "latitude": 44.7425730307442
+    },
+    {
+      "id": "_3",
+      "label": "Kovačka",
+      "longitude": 20.5128042931389,
+      "latitude": 44.7413413511049
+    },
+    {
+      "id": "_4",
+      "label": "Zemljoradnička",
+      "longitude": 20.5102084753103,
+      "latitude": 44.739793167607
+    },
+    {
+      "id": "_5",
+      "label": "MZ Kumodraž",
+      "longitude": 20.5069954462318,
+      "latitude": 44.7389802462255
+    },
+    {
+      "id": "_6",
+      "label": "Oktobarska",
+      "longitude": 20.5016156949038,
+      "latitude": 44.7405391522215
+    },
+    {
+      "id": "_7",
+      "label": "Kalemarska",
+      "longitude": 20.5002154278956,
+      "latitude": 44.7418542107372
+    },
+    {
+      "id": "_8",
+      "label": "Institut Torlak",
+      "longitude": 20.4973204000097,
+      "latitude": 44.7460479972539
+    },
+    {
+      "id": "_9",
+      "label": "Kumodraž 2",
+      "longitude": 20.4953661522802,
+      "latitude": 44.7486007160569
+    },
+    {
+      "id": "_10",
+      "label": "Beranska",
+      "longitude": 20.4917440118288,
+      "latitude": 44.7535417253199
+    },
+    {
+      "id": "_11",
+      "label": "Milića Marinovića",
+      "longitude": 20.4891102525866,
+      "latitude": 44.7560355251027
+    },
+    {
+      "id": "_12",
+      "label": "Voždovac",
+      "longitude": 20.4847999904828,
+      "latitude": 44.7609714426756
+    },
+    {
+      "id": "_13",
+      "label": "Saobraćajni fakultet",
+      "longitude": 20.4823006160142,
+      "latitude": 44.7658973770496
+    },
+    {
+      "id": "_14",
+      "label": "Visoka škola elektrotehnike",
+      "longitude": 20.4795392541324,
+      "latitude": 44.7687071606744
+    },
+    {
+      "id": "_15",
+      "label": "Nikšićka",
+      "longitude": 20.4772010711223,
+      "latitude": 44.7730415348957
+    },
+    {
+      "id": "_16",
+      "label": "Vitanovačka",
+      "longitude": 20.474630576442,
+      "latitude": 44.7773171973497
+    },
+    {
+      "id": "_17",
+      "label": "Kralja Vladimira",
+      "longitude": 20.4718924358984,
+      "latitude": 44.7816442248745
+    },
+    {
+      "id": "_18",
+      "label": "Bože Jankovića",
+      "longitude": 20.470332526245,
+      "latitude": 44.7836547393734
+    },
+    {
+      "id": "_19",
+      "label": "Trg oslobođenja",
+      "longitude": 20.4664128286546,
+      "latitude": 44.787218407701
+    },
+    {
+      "id": "_20",
+      "label": "Franše D'Eperea",
+      "longitude": 20.4666800433672,
+      "latitude": 44.7928101762883
+    },
+    {
+      "id": "_21",
+      "label": "Karađorđev park",
+      "longitude": 20.4657590648182,
+      "latitude": 44.7982550256383
+    },
+    {
+      "id": "_22",
+      "label": "Trg Slavija (Bulevar oslobođenja)",
+      "longitude": 20.4664336279974,
+      "latitude": 44.8017635811315
+    },
+    {
+      "id": "_23",
+      "label": "Trg Slavija",
+      "longitude": 20.4661770642646,
+      "latitude": 44.8035496964553
+    },
+    {
+      "id": "_24",
+      "label": "RK Beograđanka",
+      "longitude": 20.4640038424677,
+      "latitude": 44.8075533585267
+    },
+    {
+      "id": "_25",
+      "label": "Terazije",
+      "longitude": 20.4610734378326,
+      "latitude": 44.8132849311366
+    },
+    {
+      "id": "_26",
+      "label": "Trg republike",
+      "longitude": 20.4607188559041,
+      "latitude": 44.8155277458009
+    },
+    {
+      "id": "_27",
+      "label": "Trg republike",
+      "longitude": 20.4599736765335,
+      "latitude": 44.8170757580905
+    },
+    {
+      "id": "_28",
+      "label": "Studentski trg",
+      "longitude": 20.457857285924,
+      "latitude": 44.8189520764281
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Studentski trg",
+      "longitude": 20.4577794214602,
+      "latitude": 44.8186241261782
+    },
+    {
+      "id": "_2",
+      "label": "Trg republike",
+      "longitude": 20.4597077308709,
+      "latitude": 44.8171213036315
+    },
+    {
+      "id": "_3",
+      "label": "Trg republike",
+      "longitude": 20.4604999027432,
+      "latitude": 44.8154151225036
+    },
+    {
+      "id": "_4",
+      "label": "Terazije",
+      "longitude": 20.4610174422408,
+      "latitude": 44.8127788949127
+    },
+    {
+      "id": "_5",
+      "label": "RK Beograđanka",
+      "longitude": 20.4640015397818,
+      "latitude": 44.8072545633009
+    },
+    {
+      "id": "_6",
+      "label": "Trg Slavija",
+      "longitude": 20.4662567717776,
+      "latitude": 44.8031288888232
+    },
+    {
+      "id": "_7",
+      "label": "Trg Slavija (Bulevar oslobođenja)",
+      "longitude": 20.4660196131815,
+      "latitude": 44.8014232725427
+    },
+    {
+      "id": "_8",
+      "label": "Karađorđev park",
+      "longitude": 20.4651954172747,
+      "latitude": 44.7970276562542
+    },
+    {
+      "id": "_9",
+      "label": "Franše D'Eperea",
+      "longitude": 20.466428073984,
+      "latitude": 44.7927226092191
+    },
+    {
+      "id": "_10",
+      "label": "Trg oslobođenja",
+      "longitude": 20.4672988223481,
+      "latitude": 44.7862397716509
+    },
+    {
+      "id": "_11",
+      "label": "Kralja Vladimira",
+      "longitude": 20.4714618206852,
+      "latitude": 44.7820310239031
+    },
+    {
+      "id": "_12",
+      "label": "Vitanovačka",
+      "longitude": 20.4745825877532,
+      "latitude": 44.7770343908444
+    },
+    {
+      "id": "_13",
+      "label": "Petrovačka",
+      "longitude": 20.4756785760107,
+      "latitude": 44.7748723042334
+    },
+    {
+      "id": "_14",
+      "label": "Nikšićka",
+      "longitude": 20.4779177105912,
+      "latitude": 44.7714608699044
+    },
+    {
+      "id": "_15",
+      "label": "Visoka škola elektrotehnike",
+      "longitude": 20.4794926165984,
+      "latitude": 44.7685539560792
+    },
+    {
+      "id": "_16",
+      "label": "Saobraćajni fakultet",
+      "longitude": 20.4825168033552,
+      "latitude": 44.7651675846705
+    },
+    {
+      "id": "_17",
+      "label": "Voždovac",
+      "longitude": 20.4846821012142,
+      "latitude": 44.7608755175997
+    },
+    {
+      "id": "_18",
+      "label": "Milića Marinovića",
+      "longitude": 20.4900257164779,
+      "latitude": 44.7553430262604
+    },
+    {
+      "id": "_19",
+      "label": "Beranska",
+      "longitude": 20.4923045236412,
+      "latitude": 44.7524120540454
+    },
+    {
+      "id": "_20",
+      "label": "Farmaceutski fakultet",
+      "longitude": 20.4960733596229,
+      "latitude": 44.7474338717119
+    },
+    {
+      "id": "_21",
+      "label": "Institut Torlak",
+      "longitude": 20.4974525720484,
+      "latitude": 44.7456579920976
+    },
+    {
+      "id": "_22",
+      "label": "Kalemarska",
+      "longitude": 20.4996399282736,
+      "latitude": 44.7424060811015
+    },
+    {
+      "id": "_23",
+      "label": "Oktobarska",
+      "longitude": 20.5026043976707,
+      "latitude": 44.7398000704797
+    },
+    {
+      "id": "_24",
+      "label": "MZ Kumodraž",
+      "longitude": 20.5075259387185,
+      "latitude": 44.7389609240994
+    },
+    {
+      "id": "_25",
+      "label": "Zemljoradnička",
+      "longitude": 20.5104530840961,
+      "latitude": 44.7398356092927
+    },
+    {
+      "id": "_26",
+      "label": "Kovačka",
+      "longitude": 20.5134965055792,
+      "latitude": 44.7413136877951
+    },
+    {
+      "id": "_27",
+      "label": "Kumodraž 1",
+      "longitude": 20.5160860220434,
+      "latitude": 44.7424225874398
+    },
+    {
+      "id": "_28",
+      "label": "Kumodraž",
+      "longitude": 20.5183357728467,
+      "latitude": 44.7449285460405
+    }
+  ]
+}

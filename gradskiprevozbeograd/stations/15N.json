@@ -1,0 +1,276 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Trg republike",
+      "longitude": 20.4617425740777,
+      "latitude": 44.8166646919616
+    },
+    {
+      "id": "_2",
+      "label": "Zeleni venac",
+      "longitude": 20.4568371536344,
+      "latitude": 44.8144582924763
+    },
+    {
+      "id": "_3",
+      "label": "Brankov most",
+      "longitude": 20.4522002771838,
+      "latitude": 44.8151886080544
+    },
+    {
+      "id": "_4",
+      "label": "Šest kaplara",
+      "longitude": 20.4334922138324,
+      "latitude": 44.8152633463044
+    },
+    {
+      "id": "_5",
+      "label": "Palata Srbija",
+      "longitude": 20.4295837328162,
+      "latitude": 44.816975485622
+    },
+    {
+      "id": "_6",
+      "label": "Španskih boraca",
+      "longitude": 20.4233603118083,
+      "latitude": 44.8197882167728
+    },
+    {
+      "id": "_7",
+      "label": "Blok 30",
+      "longitude": 20.4165827290295,
+      "latitude": 44.8228227777265
+    },
+    {
+      "id": "_8",
+      "label": "Ulaz u Pariske komune",
+      "longitude": 20.4119895565675,
+      "latitude": 44.8248656094871
+    },
+    {
+      "id": "_9",
+      "label": "Fontana",
+      "longitude": 20.407628611625,
+      "latitude": 44.8266736684514
+    },
+    {
+      "id": "_10",
+      "label": "Studentska",
+      "longitude": 20.4023678868337,
+      "latitude": 44.8261802027231
+    },
+    {
+      "id": "_11",
+      "label": "Studentski grad",
+      "longitude": 20.3984521306407,
+      "latitude": 44.8274574593508
+    },
+    {
+      "id": "_12",
+      "label": "Pariske komune",
+      "longitude": 20.4001034066394,
+      "latitude": 44.8316508746266
+    },
+    {
+      "id": "_13",
+      "label": "Paviljoni",
+      "longitude": 20.4015647620767,
+      "latitude": 44.8351503116112
+    },
+    {
+      "id": "_14",
+      "label": "Birotehnička škola",
+      "longitude": 20.4032653411432,
+      "latitude": 44.8390199514812
+    },
+    {
+      "id": "_15",
+      "label": "Prilaz",
+      "longitude": 20.403429836462,
+      "latitude": 44.8414758654433
+    },
+    {
+      "id": "_16",
+      "label": "Zlatiborska",
+      "longitude": 20.3960208655267,
+      "latitude": 44.8411401043499
+    },
+    {
+      "id": "_17",
+      "label": "Bosanska",
+      "longitude": 20.3897463439512,
+      "latitude": 44.8414308690138
+    },
+    {
+      "id": "_18",
+      "label": "Rada Končara",
+      "longitude": 20.3835267035069,
+      "latitude": 44.8422651523699
+    },
+    {
+      "id": "_19",
+      "label": "Prvomajska",
+      "longitude": 20.3796665616237,
+      "latitude": 44.8429318956947
+    },
+    {
+      "id": "_20",
+      "label": "Vojni put",
+      "longitude": 20.3762719659402,
+      "latitude": 44.8414681657469
+    },
+    {
+      "id": "_21",
+      "label": "Branko Plećaš",
+      "longitude": 20.3743588863482,
+      "latitude": 44.8396380490463
+    },
+    {
+      "id": "_22",
+      "label": "OŠ Gavrilo Princip",
+      "longitude": 20.3712859724594,
+      "latitude": 44.8400352176704
+    },
+    {
+      "id": "_23",
+      "label": "Zemun (Novi grad)",
+      "longitude": 20.3686725786025,
+      "latitude": 44.8419071492534
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Zemun (Novi grad)",
+      "longitude": 20.3686725786025,
+      "latitude": 44.8419071492534
+    },
+    {
+      "id": "_2",
+      "label": "OŠ Gavrilo Princip",
+      "longitude": 20.3716392482535,
+      "latitude": 44.8398841629729
+    },
+    {
+      "id": "_3",
+      "label": "Branko Plećaš",
+      "longitude": 20.3759425074896,
+      "latitude": 44.8396394788829
+    },
+    {
+      "id": "_4",
+      "label": "Vojni put",
+      "longitude": 20.3766956524302,
+      "latitude": 44.8425342077564
+    },
+    {
+      "id": "_5",
+      "label": "Prvomajska",
+      "longitude": 20.3797352975625,
+      "latitude": 44.8426550836463
+    },
+    {
+      "id": "_6",
+      "label": "Rada Končara",
+      "longitude": 20.3854354484707,
+      "latitude": 44.8419118186068
+    },
+    {
+      "id": "_7",
+      "label": "Bosanska",
+      "longitude": 20.390725550375,
+      "latitude": 44.8411750906423
+    },
+    {
+      "id": "_8",
+      "label": "Zlatiborska",
+      "longitude": 20.3955286988905,
+      "latitude": 44.841029517593
+    },
+    {
+      "id": "_9",
+      "label": "Prilaz",
+      "longitude": 20.4037439572691,
+      "latitude": 44.8404497583993
+    },
+    {
+      "id": "_10",
+      "label": "Paviljoni",
+      "longitude": 20.4014943709723,
+      "latitude": 44.835353332729
+    },
+    {
+      "id": "_11",
+      "label": "Pariske komune",
+      "longitude": 20.399786131086,
+      "latitude": 44.8312676360823
+    },
+    {
+      "id": "_12",
+      "label": "Studentski grad",
+      "longitude": 20.3991145103976,
+      "latitude": 44.8262621981325
+    },
+    {
+      "id": "_13",
+      "label": "Studentska",
+      "longitude": 20.4031927311623,
+      "latitude": 44.8268864589955
+    },
+    {
+      "id": "_14",
+      "label": "Fontana",
+      "longitude": 20.4094089526943,
+      "latitude": 44.8257001039461
+    },
+    {
+      "id": "_15",
+      "label": "GO Novi Beograd",
+      "longitude": 20.4143294950621,
+      "latitude": 44.8235618536657
+    },
+    {
+      "id": "_16",
+      "label": "Blok 30",
+      "longitude": 20.4184323780619,
+      "latitude": 44.821719831442
+    },
+    {
+      "id": "_17",
+      "label": "Španskih boraca",
+      "longitude": 20.4232029819831,
+      "latitude": 44.8195876365891
+    },
+    {
+      "id": "_18",
+      "label": "Palata Srbija",
+      "longitude": 20.4287330074861,
+      "latitude": 44.8170828462379
+    },
+    {
+      "id": "_19",
+      "label": "Šest kaplara",
+      "longitude": 20.4353431924352,
+      "latitude": 44.814485913854
+    },
+    {
+      "id": "_20",
+      "label": "Brankov most",
+      "longitude": 20.4526067155746,
+      "latitude": 44.8149925584042
+    },
+    {
+      "id": "_21",
+      "label": "Zeleni venac",
+      "longitude": 20.4568381962374,
+      "latitude": 44.8143467033491
+    },
+    {
+      "id": "_22",
+      "label": "Trg republike",
+      "longitude": 20.4610306188357,
+      "latitude": 44.8162671711599
+    }
+  ]
+}

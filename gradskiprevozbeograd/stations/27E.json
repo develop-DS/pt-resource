@@ -2,305 +2,329 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Блок 20",
-      "longitude": 20.438489,
-      "latitude": 44.811496
+      "label": "Novi Beograd (Blok 20)",
+      "longitude": 20.4384791395679,
+      "latitude": 44.811565661641
     },
     {
       "id": "_2",
-      "label": "Блок 21",
-      "longitude": 20.433838,
-      "latitude": 44.813579
+      "label": "Blok 21",
+      "longitude": 20.4340503176078,
+      "latitude": 44.8137811800735
     },
     {
       "id": "_3",
-      "label": "Бранков мост",
-      "longitude": 20.452631,
-      "latitude": 44.814962
+      "label": "Brankov most",
+      "longitude": 20.4526067155746,
+      "latitude": 44.8149925584042
     },
     {
       "id": "_4",
-      "label": "Зелени венац",
-      "longitude": 20.456666,
-      "latitude": 44.814357
+      "label": "Zeleni venac",
+      "longitude": 20.4568381962374,
+      "latitude": 44.8143467033491
     },
     {
       "id": "_5",
-      "label": "Дом Омладине",
-      "longitude": 20.462522,
-      "latitude": 44.815372
+      "label": "Dom omladine",
+      "longitude": 20.4624699332322,
+      "latitude": 44.8153973695586
     },
     {
       "id": "_6",
-      "label": "Џорџа Вашингтона",
-      "longitude": 20.469867,
-      "latitude": 44.816793
+      "label": "Džordža Vašingtona",
+      "longitude": 20.4698685349023,
+      "latitude": 44.8168285139703
     },
     {
       "id": "_7",
-      "label": "Цвијићева",
-      "longitude": 20.477542,
-      "latitude": 44.817127
+      "label": "Cvijićeva",
+      "longitude": 20.4775075852578,
+      "latitude": 44.8171515332769
     },
     {
       "id": "_8",
-      "label": "Центар за Културу Влада Дивљан",
-      "longitude": 20.483095,
-      "latitude": 44.817383
+      "label": "Centar za kulturu Vlada Divljan",
+      "longitude": 20.4830256257873,
+      "latitude": 44.8174105100631
     },
     {
       "id": "_9",
-      "label": "Генерала Арачића",
-      "longitude": 20.497164,
-      "latitude": 44.813799
+      "label": "Generala Aračića",
+      "longitude": 20.4971830122624,
+      "latitude": 44.8137656023914
     },
     {
       "id": "_10",
-      "label": "Маријане Грегоран",
-      "longitude": 20.500168,
-      "latitude": 44.813369
+      "label": "Marijane Gregoran",
+      "longitude": 20.5001752632761,
+      "latitude": 44.8133700924916
     },
     {
       "id": "_11",
-      "label": "Астрономска",
-      "longitude": 20.513898,
-      "latitude": 44.808086
+      "label": "Triglavska",
+      "longitude": 20.5068702109895,
+      "latitude": 44.8116801390382
     },
     {
       "id": "_12",
-      "label": "Ћалије",
-      "longitude": 20.517206,
-      "latitude": 44.805525
+      "label": "Oštreljska",
+      "longitude": 20.5094035776371,
+      "latitude": 44.8108090399142
     },
     {
       "id": "_13",
-      "label": "Симе Тројановића",
-      "longitude": 20.519438,
-      "latitude": 44.801987
+      "label": "Astronomska",
+      "longitude": 20.5138944420675,
+      "latitude": 44.8080580882236
     },
     {
       "id": "_14",
-      "label": "Николе Доксата",
-      "longitude": 20.520958,
-      "latitude": 44.799542
+      "label": "Ćalije",
+      "longitude": 20.5173095515758,
+      "latitude": 44.8054050355837
     },
     {
       "id": "_15",
-      "label": "Босутска",
-      "longitude": 20.521977,
-      "latitude": 44.796688
+      "label": "Sime Trojanovića",
+      "longitude": 20.5194421805089,
+      "latitude": 44.8018807629976
     },
     {
       "id": "_16",
-      "label": "Ладне Воде",
-      "longitude": 20.523508,
-      "latitude": 44.794395
+      "label": "Nikole Doksata",
+      "longitude": 20.5209404735679,
+      "latitude": 44.7995309440232
     },
     {
       "id": "_17",
-      "label": "Витезова Карађорђеве Звезде",
-      "longitude": 20.524461,
-      "latitude": 44.792647
+      "label": "Bosutska",
+      "longitude": 20.5219804416519,
+      "latitude": 44.796644623939
     },
     {
       "id": "_18",
-      "label": "Селиште",
-      "longitude": 20.527502,
-      "latitude": 44.790237
+      "label": "Ladne vode",
+      "longitude": 20.523503344497,
+      "latitude": 44.7943470690466
     },
     {
       "id": "_19",
-      "label": "Стојчино Брдо",
-      "longitude": 20.530843,
-      "latitude": 44.789233
+      "label": "Vitezova Karađorđeve zvezde",
+      "longitude": 20.5245415152447,
+      "latitude": 44.7925820603455
     },
     {
       "id": "_20",
-      "label": "Миријевски Венац",
-      "longitude": 20.533603,
-      "latitude": 44.789411
+      "label": "Selište",
+      "longitude": 20.5275184582277,
+      "latitude": 44.7901770676703
     },
     {
       "id": "_21",
-      "label": "Матице Српске",
-      "longitude": 20.538479,
-      "latitude": 44.789911
+      "label": "Stojčino brdo",
+      "longitude": 20.5308598491488,
+      "latitude": 44.7892494141877
     },
     {
       "id": "_22",
-      "label": "Александра Белића",
-      "longitude": 20.544229,
-      "latitude": 44.788446
+      "label": "Mirijevski venac",
+      "longitude": 20.5336635718338,
+      "latitude": 44.7894840238412
     },
     {
       "id": "_23",
-      "label": "Миливоја Перовића",
-      "longitude": 20.546401,
-      "latitude": 44.787712
+      "label": "Matice srpske",
+      "longitude": 20.5384753748977,
+      "latitude": 44.7898922445669
     },
     {
       "id": "_24",
-      "label": "Миријево 4",
-      "longitude": 20.545712,
-      "latitude": 44.786258
+      "label": "Aleksandra Belića",
+      "longitude": 20.544191393406,
+      "latitude": 44.7884571448695
+    },
+    {
+      "id": "_25",
+      "label": "Milivoja Perovića",
+      "longitude": 20.5463942152596,
+      "latitude": 44.7876361066309
+    },
+    {
+      "id": "_26",
+      "label": "Mirijevo 4",
+      "longitude": 20.5460076774845,
+      "latitude": 44.7859930586112
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Миријево 4",
-      "longitude": 20.545712,
-      "latitude": 44.786258
+      "label": "Mirijevo 4",
+      "longitude": 20.5457581865867,
+      "latitude": 44.7862242609182
     },
     {
       "id": "_2",
-      "label": "Миливоја Перовића",
-      "longitude": 20.546199,
-      "latitude": 44.788394
+      "label": "Milivoja Perovića",
+      "longitude": 20.5460760061422,
+      "latitude": 44.7885762037019
     },
     {
       "id": "_3",
-      "label": "Александра Белића",
-      "longitude": 20.543599,
-      "latitude": 44.788745
+      "label": "Aleksandra Belića",
+      "longitude": 20.5436433897678,
+      "latitude": 44.7887195557276
     },
     {
       "id": "_4",
-      "label": "Матице Српске",
-      "longitude": 20.538215,
-      "latitude": 44.78994
+      "label": "Matice srpske",
+      "longitude": 20.5382146838846,
+      "latitude": 44.7899361943702
     },
     {
       "id": "_5",
-      "label": "Миријевски Венац",
-      "longitude": 20.533378,
-      "latitude": 44.789421
+      "label": "Mirijevski venac",
+      "longitude": 20.5333305913389,
+      "latitude": 44.7894016750489
     },
     {
       "id": "_6",
-      "label": "Стојчино Брдо",
-      "longitude": 20.530141,
-      "latitude": 44.789407
+      "label": "Stojčino brdo",
+      "longitude": 20.5301761936522,
+      "latitude": 44.789399611522
     },
     {
       "id": "_7",
-      "label": "Селиште",
-      "longitude": 20.527705,
-      "latitude": 44.790595
+      "label": "Selište",
+      "longitude": 20.527653675794,
+      "latitude": 44.7906456010852
     },
     {
       "id": "_8",
-      "label": "Витезова Карађорђеве Звезде",
-      "longitude": 20.525342,
-      "latitude": 44.792528
+      "label": "Vitezova Karađorđeve zvezde",
+      "longitude": 20.5251434432951,
+      "latitude": 44.7925413534455
     },
     {
       "id": "_9",
-      "label": "Ладне Воде",
-      "longitude": 20.523239,
-      "latitude": 44.795157
+      "label": "Ladne vode",
+      "longitude": 20.5230707419731,
+      "latitude": 44.7953154246626
     },
     {
       "id": "_10",
-      "label": "Босутска",
-      "longitude": 20.522004,
-      "latitude": 44.797121
+      "label": "Bosutska",
+      "longitude": 20.5219635603711,
+      "latitude": 44.7971611277782
     },
     {
       "id": "_11",
-      "label": "Николе Доксата",
-      "longitude": 20.520561,
-      "latitude": 44.800164
+      "label": "Nikole Doksata",
+      "longitude": 20.5205280201776,
+      "latitude": 44.8001915887999
     },
     {
       "id": "_12",
-      "label": "Симе Тројановића",
-      "longitude": 20.519452,
-      "latitude": 44.802307
+      "label": "Sime Trojanovića",
+      "longitude": 20.5194053029073,
+      "latitude": 44.8023665838492
     },
     {
       "id": "_13",
-      "label": "Ћалије",
-      "longitude": 20.517999,
-      "latitude": 44.804835
+      "label": "Ćalije",
+      "longitude": 20.5179358394237,
+      "latitude": 44.8048820940423
     },
     {
       "id": "_14",
-      "label": "Астрономска",
-      "longitude": 20.514308,
-      "latitude": 44.807934
+      "label": "Astronomska",
+      "longitude": 20.5142620374571,
+      "latitude": 44.8079408502817
     },
     {
       "id": "_15",
-      "label": "Маријане Грегоран",
-      "longitude": 20.500649,
-      "latitude": 44.813358
+      "label": "Oštreljska",
+      "longitude": 20.5101538691377,
+      "latitude": 44.8105890555507
     },
     {
       "id": "_16",
-      "label": "Генерала Арачића",
-      "longitude": 20.496565,
-      "latitude": 44.813969
+      "label": "Triglavska",
+      "longitude": 20.5069173514973,
+      "latitude": 44.8117865359343
     },
     {
       "id": "_17",
-      "label": "Омладински Стадион",
-      "longitude": 20.49129,
-      "latitude": 44.815392
+      "label": "Marijane Gregoran",
+      "longitude": 20.5006534022813,
+      "latitude": 44.8133433749893
     },
     {
       "id": "_18",
-      "label": "Центар за Културу Влада Дивљан",
-      "longitude": 20.484569,
-      "latitude": 44.817701
+      "label": "Generala Aračića",
+      "longitude": 20.4965036485415,
+      "latitude": 44.8139606138908
     },
     {
       "id": "_19",
-      "label": "Jована Авакумовића",
-      "longitude": 20.479492,
-      "latitude": 44.817376
+      "label": "Omladinski stadion",
+      "longitude": 20.4914570748019,
+      "latitude": 44.8153368912815
     },
     {
       "id": "_20",
-      "label": "Цвијићева",
-      "longitude": 20.475941,
-      "latitude": 44.817221
+      "label": "Centar za kulturu Vlada Divljan",
+      "longitude": 20.4847907935109,
+      "latitude": 44.8176884331184
     },
     {
       "id": "_21",
-      "label": "Џорџа Вашингтона",
-      "longitude": 20.469985,
-      "latitude": 44.816963
+      "label": "Jovana Avakumovića",
+      "longitude": 20.4794960488007,
+      "latitude": 44.8173405594268
     },
     {
       "id": "_22",
-      "label": "Скадарска",
-      "longitude": 20.463735,
-      "latitude": 44.816621
+      "label": "Cvijićeva",
+      "longitude": 20.4759899695334,
+      "latitude": 44.817189611341
     },
     {
       "id": "_23",
-      "label": "Зелени венац",
-      "longitude": 20.457023,
-      "latitude": 44.814487
+      "label": "Džordža Vašingtona",
+      "longitude": 20.4700243278074,
+      "latitude": 44.8169372277923
     },
     {
       "id": "_24",
-      "label": "Бранков мост",
-      "longitude": 20.452342,
-      "latitude": 44.815215
+      "label": "Skadarska",
+      "longitude": 20.4637812526913,
+      "latitude": 44.8166112403289
     },
     {
       "id": "_25",
-      "label": "Шест Каплара",
-      "longitude": 20.435174,
-      "latitude": 44.815521
+      "label": "Zeleni venac",
+      "longitude": 20.4568371536344,
+      "latitude": 44.8144582924763
     },
     {
       "id": "_26",
-      "label": "Блок 20",
-      "longitude": 20.438489,
-      "latitude": 44.811496
+      "label": "Brankov most",
+      "longitude": 20.4522002771838,
+      "latitude": 44.8151886080544
+    },
+    {
+      "id": "_27",
+      "label": "Šest kaplara",
+      "longitude": 20.4349985848582,
+      "latitude": 44.8153391715752
+    },
+    {
+      "id": "_28",
+      "label": "Novi Beograd (Blok 20)",
+      "longitude": 20.4384791395679,
+      "latitude": 44.811565661641
     }
   ]
 }

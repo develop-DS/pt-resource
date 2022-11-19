@@ -2,359 +2,383 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Требеж /окретница/",
-      "longitude": 20.428806,
-      "latitude": 44.642343
+      "label": "Bela reka",
+      "longitude": 20.4741905235748,
+      "latitude": 44.6574737309464
     },
     {
       "id": "_2",
-      "label": "29.новембра",
-      "longitude": 20.427196,
-      "latitude": 44.645514
+      "label": "Hajdučki potok",
+      "longitude": 20.4811136963015,
+      "latitude": 44.6610853478944
     },
     {
       "id": "_3",
-      "label": "Требеж",
-      "longitude": 20.431195,
-      "latitude": 44.648588
+      "label": "Naselje Česma",
+      "longitude": 20.4856356533048,
+      "latitude": 44.6642358191622
     },
     {
       "id": "_4",
-      "label": "Липовачки Пут 6 део",
-      "longitude": 20.436759,
-      "latitude": 44.646746
+      "label": "Minel 2",
+      "longitude": 20.4888219804705,
+      "latitude": 44.6673081710375
     },
     {
       "id": "_5",
-      "label": "Липовачки Пут 5 део",
-      "longitude": 20.446461,
-      "latitude": 44.64447
+      "label": "Minel 3",
+      "longitude": 20.4922593378544,
+      "latitude": 44.6685257949149
     },
     {
       "id": "_6",
-      "label": "Липовачки Пут 4 део",
-      "longitude": 20.453472,
-      "latitude": 44.643865
+      "label": "OŠ Vojvoda Putnik",
+      "longitude": 20.4988995231587,
+      "latitude": 44.6671798131635
     },
     {
       "id": "_7",
-      "label": "Дрењак",
-      "longitude": 20.45713,
-      "latitude": 44.638221
+      "label": "Kolonija",
+      "longitude": 20.5041534272638,
+      "latitude": 44.6662828530317
     },
     {
       "id": "_8",
-      "label": "Тимочки пут /Излаз/",
-      "longitude": 20.466849,
-      "latitude": 44.636112
+      "label": "Železnička stanica Ripanj",
+      "longitude": 20.5081710300084,
+      "latitude": 44.6618200567552
     },
     {
       "id": "_9",
-      "label": "Пут за Забран",
-      "longitude": 20.473857,
-      "latitude": 44.637662
+      "label": "Put za Milovanoviće",
+      "longitude": 20.5115031903138,
+      "latitude": 44.6578275888553
     },
     {
       "id": "_10",
-      "label": "Паланачки поток",
-      "longitude": 20.487422,
-      "latitude": 44.64114
+      "label": "Timočki put (ulaz)",
+      "longitude": 20.5107556220034,
+      "latitude": 44.6525325398224
     },
     {
       "id": "_11",
-      "label": "Оклисак - Трафо",
-      "longitude": 20.493284,
-      "latitude": 44.64439
+      "label": "Timočki put 1. deo",
+      "longitude": 20.5074606008434,
+      "latitude": 44.6500489112932
     },
     {
       "id": "_12",
-      "label": "Тимочки пут /Средњи део/",
-      "longitude": 20.494707,
-      "latitude": 44.648133
+      "label": "Timočki put 2. deo",
+      "longitude": 20.505386193618,
+      "latitude": 44.6484632307492
     },
     {
       "id": "_13",
-      "label": "Ливадице",
-      "longitude": 20.497726,
-      "latitude": 44.647823
+      "label": "Livadice",
+      "longitude": 20.4975972842377,
+      "latitude": 44.6478948187426
     },
     {
       "id": "_14",
-      "label": "Тимочки пут /2. део/",
-      "longitude": 20.505611,
-      "latitude": 44.648557
+      "label": "Timočki put (srednji deo)",
+      "longitude": 20.4941437208849,
+      "latitude": 44.6480956457249
     },
     {
       "id": "_15",
-      "label": "Тимочки пут /Улаз/",
-      "longitude": 20.510225,
-      "latitude": 44.652311
+      "label": "Oklisak (trafo)",
+      "longitude": 20.493229609814,
+      "latitude": 44.644468300016
     },
     {
       "id": "_16",
-      "label": "Пут за Миловановиће",
-      "longitude": 20.511751,
-      "latitude": 44.657496
+      "label": "Palanački potok",
+      "longitude": 20.4874436612906,
+      "latitude": 44.6412602822874
     },
     {
       "id": "_17",
-      "label": "Железничка станица Рипањ",
-      "longitude": 20.508409,
-      "latitude": 44.661819
+      "label": "Put za Zabran",
+      "longitude": 20.4732805427085,
+      "latitude": 44.6378320321058
     },
     {
       "id": "_18",
-      "label": "Рипањ /Колонија/",
-      "longitude": 20.504163,
-      "latitude": 44.666328
+      "label": "Timočki put (izlaz)",
+      "longitude": 20.4648060804061,
+      "latitude": 44.6363348547466
     },
     {
       "id": "_19",
-      "label": "Рипањ /ОШ Васа Чарапић/",
-      "longitude": 20.499602,
-      "latitude": 44.666872
+      "label": "Timočki put",
+      "longitude": 20.4619860665934,
+      "latitude": 44.6351408936591
     },
     {
       "id": "_20",
-      "label": "Минел 3",
-      "longitude": 20.491225,
-      "latitude": 44.668632
+      "label": "Drenjak",
+      "longitude": 20.457285259872,
+      "latitude": 44.6383352849545
     },
     {
       "id": "_21",
-      "label": "Минел 2",
-      "longitude": 20.488383,
-      "latitude": 44.667081
+      "label": "Lipovački put 4. deo",
+      "longitude": 20.4534500087516,
+      "latitude": 44.6443559412265
     },
     {
       "id": "_22",
-      "label": "Насеље Чесма",
-      "longitude": 20.485032,
-      "latitude": 44.664045
+      "label": "Lipovački put 5. deo",
+      "longitude": 20.4451343220607,
+      "latitude": 44.6444132253765
     },
     {
       "id": "_23",
-      "label": "Хајдучки поток",
-      "longitude": 20.478003,
-      "latitude": 44.65965
+      "label": "Petkovići raskrsnica",
+      "longitude": 20.4413059504563,
+      "latitude": 44.6413599173745
     },
     {
       "id": "_24",
-      "label": "Бела Река",
-      "longitude": 20.47428,
-      "latitude": 44.657504
+      "label": "Petkovići - trafo",
+      "longitude": 20.4348725147916,
+      "latitude": 44.6329585945395
+    },
+    {
+      "id": "_25",
+      "label": "Simić R",
+      "longitude": 20.4293160093615,
+      "latitude": 44.6263144273425
+    },
+    {
+      "id": "_26",
+      "label": "Kuzmanovići R",
+      "longitude": 20.4293454577598,
+      "latitude": 44.6212278759604
+    },
+    {
+      "id": "_27",
+      "label": "Manastir",
+      "longitude": 20.4300987556937,
+      "latitude": 44.6165967098334
+    },
+    {
+      "id": "_28",
+      "label": "Stara lipovica - okretnica",
+      "longitude": 20.4306639197652,
+      "latitude": 44.6139373655741
+    },
+    {
+      "id": "_29",
+      "label": "Manastir",
+      "longitude": 20.4306082240019,
+      "latitude": 44.6162950453652
+    },
+    {
+      "id": "_30",
+      "label": "Kuzmanovići R",
+      "longitude": 20.4294982808867,
+      "latitude": 44.6210630393147
+    },
+    {
+      "id": "_31",
+      "label": "Simić R",
+      "longitude": 20.4293822510478,
+      "latitude": 44.6265001530482
+    },
+    {
+      "id": "_32",
+      "label": "Petkovići - trafo",
+      "longitude": 20.4350461444477,
+      "latitude": 44.632990049052
+    },
+    {
+      "id": "_33",
+      "label": "Petkovići raskrsnica",
+      "longitude": 20.4412546427303,
+      "latitude": 44.6411886714581
+    },
+    {
+      "id": "_34",
+      "label": "Lipovački put 6. deo",
+      "longitude": 20.4364540517092,
+      "latitude": 44.6469808536605
+    },
+    {
+      "id": "_35",
+      "label": "Trebež",
+      "longitude": 20.4304785470407,
+      "latitude": 44.6490338937959
+    },
+    {
+      "id": "_36",
+      "label": "29. novembra",
+      "longitude": 20.4272586837237,
+      "latitude": 44.6459399377594
+    },
+    {
+      "id": "_37",
+      "label": "Trebež (okretnica)",
+      "longitude": 20.428755649447,
+      "latitude": 44.642399685717
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Бела Река",
-      "longitude": 20.47428,
-      "latitude": 44.657504
+      "label": "Trebež (okretnica)",
+      "longitude": 20.428755649447,
+      "latitude": 44.642399685717
     },
     {
       "id": "_2",
-      "label": "Хајдучки поток",
-      "longitude": 20.479534,
-      "latitude": 44.659992
+      "label": "29. novembra",
+      "longitude": 20.4274696019902,
+      "latitude": 44.6460291885113
     },
     {
       "id": "_3",
-      "label": "Насеље Чесма",
-      "longitude": 20.485539,
-      "latitude": 44.664111
+      "label": "Trebež",
+      "longitude": 20.4310187652065,
+      "latitude": 44.6487107824153
     },
     {
       "id": "_4",
-      "label": "Минел 2",
-      "longitude": 20.488901,
-      "latitude": 44.667388
+      "label": "Lipovački put 6. deo",
+      "longitude": 20.436674997034,
+      "latitude": 44.6468163427655
     },
     {
       "id": "_5",
-      "label": "Минел 3",
-      "longitude": 20.492159,
-      "latitude": 44.668519
+      "label": "Lipovački put 5. deo",
+      "longitude": 20.445931211818,
+      "latitude": 44.6443954770243
     },
     {
       "id": "_6",
-      "label": "Рипањ /ОШ Васа Чарапић/",
-      "longitude": 20.49968,
-      "latitude": 44.666716
+      "label": "Lipovački put 4. deo",
+      "longitude": 20.4534095043167,
+      "latitude": 44.6441037542247
     },
     {
       "id": "_7",
-      "label": "Рипањ /Колонија/",
-      "longitude": 20.50396,
-      "latitude": 44.666204
+      "label": "Drenjak",
+      "longitude": 20.4568724150279,
+      "latitude": 44.6385421268258
     },
     {
       "id": "_8",
-      "label": "Железничка станица Рипањ",
-      "longitude": 20.50854,
-      "latitude": 44.661549
+      "label": "Timočki put",
+      "longitude": 20.4623713460191,
+      "latitude": 44.6351858984896
     },
     {
       "id": "_9",
-      "label": "Пут за Миловановиће",
-      "longitude": 20.511472,
-      "latitude": 44.657867
+      "label": "Timočki put (izlaz)",
+      "longitude": 20.4646332972729,
+      "latitude": 44.6362080515616
     },
     {
       "id": "_10",
-      "label": "Тимочки пут /Улаз/",
-      "longitude": 20.509597,
-      "latitude": 44.652131
+      "label": "Put za Zabran",
+      "longitude": 20.4737455992706,
+      "latitude": 44.637699168668
     },
     {
       "id": "_11",
-      "label": "Тимочки пут /2. део/",
-      "longitude": 20.505387,
-      "latitude": 44.648462
+      "label": "Palanački potok",
+      "longitude": 20.487825708483,
+      "latitude": 44.6413933847363
     },
     {
       "id": "_12",
-      "label": "Ливадице",
-      "longitude": 20.497581,
-      "latitude": 44.647862
+      "label": "Oklisak (trafo)",
+      "longitude": 20.493396019219,
+      "latitude": 44.6447588277678
     },
     {
       "id": "_13",
-      "label": "Тимочки пут /Средњи део/",
-      "longitude": 20.49419,
-      "latitude": 44.64809
+      "label": "Timočki put (srednji deo)",
+      "longitude": 20.4944884437583,
+      "latitude": 44.6481781624555
     },
     {
       "id": "_14",
-      "label": "Оклисак - Трафо",
-      "longitude": 20.493284,
-      "latitude": 44.644819
+      "label": "Livadice",
+      "longitude": 20.4979460770263,
+      "latitude": 44.6477973471976
     },
     {
       "id": "_15",
-      "label": "Паланачки поток",
-      "longitude": 20.487759,
-      "latitude": 44.641514
+      "label": "Timočki put 2. deo",
+      "longitude": 20.5056753281304,
+      "latitude": 44.6485616737935
     },
     {
       "id": "_16",
-      "label": "Пут за Забран",
-      "longitude": 20.473775,
-      "latitude": 44.637761
+      "label": "Timočki put 1. deo",
+      "longitude": 20.5077575836712,
+      "latitude": 44.6501149835062
     },
     {
       "id": "_17",
-      "label": "Тимочки пут /Излаз/",
-      "longitude": 20.466487,
-      "latitude": 44.636209
+      "label": "Timočki put (ulaz)",
+      "longitude": 20.5111916163361,
+      "latitude": 44.652863788799
     },
     {
       "id": "_18",
-      "label": "Дрењак",
-      "longitude": 20.457589,
-      "latitude": 44.637929
+      "label": "Put za Milovanoviće",
+      "longitude": 20.5117323428595,
+      "latitude": 44.6575657704677
     },
     {
       "id": "_19",
-      "label": "Липовачки Пут 4 део",
-      "longitude": 20.453438,
-      "latitude": 44.644307
+      "label": "Železnička stanica Ripanj",
+      "longitude": 20.5076905201551,
+      "latitude": 44.6622769849241
     },
     {
       "id": "_20",
-      "label": "Липовачки Пут 5 део",
-      "longitude": 20.445305,
-      "latitude": 44.644424
+      "label": "Kolonija",
+      "longitude": 20.5040817389706,
+      "latitude": 44.6664085399121
     },
     {
       "id": "_21",
-      "label": "Петковићи /Р/",
-      "longitude": 20.4415,
-      "latitude": 44.641438
+      "label": "OŠ Vojvoda Putnik",
+      "longitude": 20.4984774777291,
+      "latitude": 44.6675703591727
     },
     {
       "id": "_22",
-      "label": "Петковићи /Трафо/",
-      "longitude": 20.43494,
-      "latitude": 44.633177
+      "label": "Minel 3",
+      "longitude": 20.4918393976366,
+      "latitude": 44.6686679325112
     },
     {
       "id": "_23",
-      "label": "Симићи /Р/",
-      "longitude": 20.429186,
-      "latitude": 44.626606
+      "label": "Minel 2",
+      "longitude": 20.4883551264951,
+      "latitude": 44.6670468980037
     },
     {
       "id": "_24",
-      "label": "Кузмановићи /Р/",
-      "longitude": 20.429305,
-      "latitude": 44.6212
+      "label": "Naselje Česma",
+      "longitude": 20.4851570381812,
+      "latitude": 44.6641688749642
     },
     {
       "id": "_25",
-      "label": "Манастир",
-      "longitude": 20.429994,
-      "latitude": 44.616594
+      "label": "Hajdučki potok",
+      "longitude": 20.4805737763902,
+      "latitude": 44.6608255123616
     },
     {
       "id": "_26",
-      "label": "Стара Липовица /окретница/",
-      "longitude": 20.43059,
-      "latitude": 44.613972
-    },
-    {
-      "id": "_27",
-      "label": "Манастир",
-      "longitude": 20.430424,
-      "latitude": 44.616381
-    },
-    {
-      "id": "_28",
-      "label": "Кузмановићи /Р/",
-      "longitude": 20.429445,
-      "latitude": 44.621288
-    },
-    {
-      "id": "_29",
-      "label": "Симићи /Р/",
-      "longitude": 20.42934,
-      "latitude": 44.626559
-    },
-    {
-      "id": "_30",
-      "label": "Петковићи /Трафо/",
-      "longitude": 20.435079,
-      "latitude": 44.633199
-    },
-    {
-      "id": "_31",
-      "label": "Петковићи /Р/",
-      "longitude": 20.441442,
-      "latitude": 44.641344
-    },
-    {
-      "id": "_32",
-      "label": "Липовачки Пут 6 део",
-      "longitude": 20.436449,
-      "latitude": 44.646961
-    },
-    {
-      "id": "_33",
-      "label": "Требеж",
-      "longitude": 20.430577,
-      "latitude": 44.648992
-    },
-    {
-      "id": "_34",
-      "label": "29.новембра",
-      "longitude": 20.427108,
-      "latitude": 44.645243
-    },
-    {
-      "id": "_35",
-      "label": "Требеж /окретница/",
-      "longitude": 20.428806,
-      "latitude": 44.642343
+      "label": "Bela reka",
+      "longitude": 20.4741905235748,
+      "latitude": 44.6574737309464
     }
   ]
 }

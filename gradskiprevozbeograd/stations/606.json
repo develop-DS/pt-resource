@@ -2,149 +2,173 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Добановци /Гробље/",
-      "longitude": 20.236304,
-      "latitude": 44.837335
+      "label": "Dobanovci (groblje)",
+      "longitude": 20.2362944088761,
+      "latitude": 44.8373109748853
     },
     {
       "id": "_2",
-      "label": "Добановци /Партизанска/",
-      "longitude": 20.232123,
-      "latitude": 44.831174
+      "label": "Partizanska",
+      "longitude": 20.2320376582636,
+      "latitude": 44.8311448727147
     },
     {
       "id": "_3",
-      "label": "Добановци /Земунска/",
-      "longitude": 20.228334,
-      "latitude": 44.829748
+      "label": "Zemunska",
+      "longitude": 20.2283378469199,
+      "latitude": 44.8297610913239
     },
     {
       "id": "_4",
-      "label": "Добановци /Центар/",
-      "longitude": 20.222657,
-      "latitude": 44.828027
+      "label": "Dobanovci (centar)",
+      "longitude": 20.2224490712667,
+      "latitude": 44.8282867596434
     },
     {
       "id": "_5",
-      "label": "Добановци /Жарка Јелића/",
-      "longitude": 20.219508,
-      "latitude": 44.832075
+      "label": "Žarka Jelića",
+      "longitude": 20.2195399289747,
+      "latitude": 44.8320827652834
     },
     {
       "id": "_6",
-      "label": "Добановци /Словачки Дом/",
-      "longitude": 20.21757,
-      "latitude": 44.834555
+      "label": "Slovački dom",
+      "longitude": 20.2175322642321,
+      "latitude": 44.8346555247056
     },
     {
       "id": "_7",
-      "label": "Добановци /Фрушкогорска/",
-      "longitude": 20.2154,
-      "latitude": 44.837852
+      "label": "Fruškogorska",
+      "longitude": 20.2155911547732,
+      "latitude": 44.8375310859837
     },
     {
       "id": "_8",
-      "label": "Добановци /Улаз/",
-      "longitude": 20.213928,
-      "latitude": 44.840308
+      "label": "Dobanovci (ulaz)",
+      "longitude": 20.2138887279203,
+      "latitude": 44.8403272554713
     },
     {
       "id": "_9",
-      "label": "Грмовац /Улаз/",
-      "longitude": 20.166459,
-      "latitude": 44.855643
+      "label": "Pumpa",
+      "longitude": 20.1880397284147,
+      "latitude": 44.8498663968943
     },
     {
       "id": "_10",
-      "label": "Грмовац",
-      "longitude": 20.161586,
-      "latitude": 44.85562
+      "label": "Grmovac (ulaz)",
+      "longitude": 20.1662671759698,
+      "latitude": 44.8556730425443
     },
     {
       "id": "_11",
-      "label": "Грмовац /Црква/",
-      "longitude": 20.156777,
-      "latitude": 44.855665
+      "label": "Grmovac",
+      "longitude": 20.1613840106265,
+      "latitude": 44.8556283965893
     },
     {
       "id": "_12",
-      "label": "Грмовац /25.Нова/",
-      "longitude": 20.147287,
-      "latitude": 44.855407
+      "label": "Grmovac (crkva)",
+      "longitude": 20.155501428244,
+      "latitude": 44.8555761776879
+    },
+    {
+      "id": "_13",
+      "label": "Grmovac (20. nova)",
+      "longitude": 20.1525285811043,
+      "latitude": 44.8555452213862
+    },
+    {
+      "id": "_14",
+      "label": "Grmovac (25. nova)",
+      "longitude": 20.1472218310564,
+      "latitude": 44.8553978409504
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Грмовац /25.Нова/",
-      "longitude": 20.147287,
-      "latitude": 44.855407
+      "label": "Grmovac (25. nova)",
+      "longitude": 20.1472218310564,
+      "latitude": 44.8553978409504
     },
     {
       "id": "_2",
-      "label": "Грмовац /Црква/",
-      "longitude": 20.157128,
-      "latitude": 44.855481
+      "label": "Grmovac (20. nova)",
+      "longitude": 20.1531701664163,
+      "latitude": 44.8554509725622
     },
     {
       "id": "_3",
-      "label": "Грмовац",
-      "longitude": 20.161972,
-      "latitude": 44.855511
+      "label": "Grmovac (crkva)",
+      "longitude": 20.1571729286799,
+      "latitude": 44.8554804956105
     },
     {
       "id": "_4",
-      "label": "Грмовац /Улаз/",
-      "longitude": 20.166922,
-      "latitude": 44.855546
+      "label": "Grmovac",
+      "longitude": 20.1620434246478,
+      "latitude": 44.8555252289794
     },
     {
       "id": "_5",
-      "label": "Добановци /Улаз/",
-      "longitude": 20.21366,
-      "latitude": 44.840467
+      "label": "Grmovac (ulaz)",
+      "longitude": 20.1670277903216,
+      "latitude": 44.8555705826899
     },
     {
       "id": "_6",
-      "label": "Добановци /Фрушкогорска/",
-      "longitude": 20.215192,
-      "latitude": 44.837928
+      "label": "Pumpa",
+      "longitude": 20.1882851000718,
+      "latitude": 44.8496899464064
     },
     {
       "id": "_7",
-      "label": "Добановци /Словачки Дом/",
-      "longitude": 20.217412,
-      "latitude": 44.834542
+      "label": "Dobanovci (ulaz)",
+      "longitude": 20.2136362023358,
+      "latitude": 44.8404803135294
     },
     {
       "id": "_8",
-      "label": "Добановци /Жарка Јелића/",
-      "longitude": 20.219912,
-      "latitude": 44.831338
+      "label": "Fruškogorska",
+      "longitude": 20.2151628686123,
+      "latitude": 44.8379619279548
     },
     {
       "id": "_9",
-      "label": "Добановци /Центар/",
-      "longitude": 20.223782,
-      "latitude": 44.827931
+      "label": "Slovački dom",
+      "longitude": 20.2170484900605,
+      "latitude": 44.8350769955099
     },
     {
       "id": "_10",
-      "label": "Добановци /Земунска/",
-      "longitude": 20.227627,
-      "latitude": 44.829385
+      "label": "Žarka Jelića",
+      "longitude": 20.2192238850183,
+      "latitude": 44.8322606017945
     },
     {
       "id": "_11",
-      "label": "Добановци /Партизанска/",
-      "longitude": 20.232738,
-      "latitude": 44.831312
+      "label": "Dobanovci (centar)",
+      "longitude": 20.2237137604068,
+      "latitude": 44.8279047572098
     },
     {
       "id": "_12",
-      "label": "Добановци /Гробље/",
-      "longitude": 20.236304,
-      "latitude": 44.837335
+      "label": "Zemunska",
+      "longitude": 20.2289787824514,
+      "latitude": 44.8298751999834
+    },
+    {
+      "id": "_13",
+      "label": "Partizanska",
+      "longitude": 20.2337567753909,
+      "latitude": 44.831977135789
+    },
+    {
+      "id": "_14",
+      "label": "Dobanovci (groblje)",
+      "longitude": 20.2359949256436,
+      "latitude": 44.8364252290671
     }
   ]
 }

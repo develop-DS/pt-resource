@@ -2,365 +2,377 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Омладински Стадион",
-      "longitude": 20.490085,
-      "latitude": 44.815368
+      "label": "Omladinski stadion (ulaz)",
+      "longitude": 20.4901007929794,
+      "latitude": 44.8154388682299
     },
     {
       "id": "_2",
-      "label": "МЗ Крњача",
-      "longitude": 20.494105,
-      "latitude": 44.837744
+      "label": "MZ Krnjača",
+      "longitude": 20.4941835071208,
+      "latitude": 44.8376623052089
     },
     {
       "id": "_3",
-      "label": "Блок Бранко Момиров",
-      "longitude": 20.491051,
-      "latitude": 44.841315
+      "label": "Blok Branka Momirova",
+      "longitude": 20.4908417975942,
+      "latitude": 44.8414147132766
     },
     {
       "id": "_4",
-      "label": "Партизански Блок",
-      "longitude": 20.488307,
-      "latitude": 44.84637
+      "label": "Partizanski blok",
+      "longitude": 20.4881921537112,
+      "latitude": 44.846397637296
     },
     {
       "id": "_5",
-      "label": "Блок Сутјеска",
-      "longitude": 20.486444,
-      "latitude": 44.849427
+      "label": "Blok Sutjeska",
+      "longitude": 20.4863259678953,
+      "latitude": 44.8494311207245
     },
     {
       "id": "_6",
-      "label": "Пиротско Насеље",
-      "longitude": 20.483699,
-      "latitude": 44.853545
+      "label": "Pirotsko naselje",
+      "longitude": 20.4836376503621,
+      "latitude": 44.8535552105582
     },
     {
       "id": "_7",
-      "label": "Пакрачка",
-      "longitude": 20.480411,
-      "latitude": 44.85847
+      "label": "Pakračka",
+      "longitude": 20.4803037155818,
+      "latitude": 44.8585204610583
     },
     {
       "id": "_8",
-      "label": "Себеш Суви",
-      "longitude": 20.478215,
-      "latitude": 44.861742
+      "label": "Sebeš suvi",
+      "longitude": 20.4780975569801,
+      "latitude": 44.8618402458717
     },
     {
       "id": "_9",
-      "label": "Себешка Река",
-      "longitude": 20.473805,
-      "latitude": 44.868343
+      "label": "Sebeška reka",
+      "longitude": 20.4737486457741,
+      "latitude": 44.8683809788243
     },
     {
       "id": "_10",
-      "label": "Себеш Мокри",
-      "longitude": 20.470407,
-      "latitude": 44.873404
+      "label": "Sebeš mokri",
+      "longitude": 20.4703541554214,
+      "latitude": 44.8734140439099
     },
     {
       "id": "_11",
-      "label": "Борча Раскршће",
-      "longitude": 20.467627,
-      "latitude": 44.877582
+      "label": "Borča raskršće",
+      "longitude": 20.4675850646196,
+      "latitude": 44.8775409654627
     },
     {
       "id": "_12",
-      "label": "Косовопољска",
-      "longitude": 20.46341,
-      "latitude": 44.883767
+      "label": "Kosovopoljska",
+      "longitude": 20.4633688578965,
+      "latitude": 44.8837093251119
     },
     {
       "id": "_13",
-      "label": "Братства и Јединства",
-      "longitude": 20.460235,
-      "latitude": 44.888513
+      "label": "Bratstva i jedinstva",
+      "longitude": 20.4601084635954,
+      "latitude": 44.8885573114419
     },
     {
       "id": "_14",
-      "label": "Преток",
-      "longitude": 20.457784,
-      "latitude": 44.892162
+      "label": "Pretok",
+      "longitude": 20.4576305086878,
+      "latitude": 44.8922623784065
     },
     {
       "id": "_15",
-      "label": "Мали Збег",
-      "longitude": 20.455845,
-      "latitude": 44.895071
+      "label": "Mali zbeg",
+      "longitude": 20.4557685618205,
+      "latitude": 44.8950523745025
     },
     {
       "id": "_16",
-      "label": "Гробље Збег",
-      "longitude": 20.452344,
-      "latitude": 44.900445
+      "label": "Groblje Zbeg",
+      "longitude": 20.4538291957137,
+      "latitude": 44.897976961232
     },
     {
       "id": "_17",
-      "label": "Расадник",
-      "longitude": 20.447482,
-      "latitude": 44.907712
+      "label": "Put za Kovilovo",
+      "longitude": 20.4433726952914,
+      "latitude": 44.9135856255537
     },
     {
       "id": "_18",
-      "label": "Пут за Ковилово",
-      "longitude": 20.443536,
-      "latitude": 44.913456
+      "label": "Put za Jabučki rit",
+      "longitude": 20.440545660414,
+      "latitude": 44.9178015749069
     },
     {
       "id": "_19",
-      "label": "Пут за Јабучки Рит",
-      "longitude": 20.44069,
-      "latitude": 44.917713
+      "label": "Frikom",
+      "longitude": 20.4378028558233,
+      "latitude": 44.9219098717405
     },
     {
       "id": "_20",
-      "label": "Фриком",
-      "longitude": 20.437975,
-      "latitude": 44.921868
+      "label": "PK Beograd",
+      "longitude": 20.4375972831387,
+      "latitude": 44.9300334740218
     },
     {
       "id": "_21",
-      "label": "ПК Београд",
-      "longitude": 20.437629,
-      "latitude": 44.92988
+      "label": "Naselje Tovilište",
+      "longitude": 20.4334216236699,
+      "latitude": 44.94634670625
     },
     {
       "id": "_22",
-      "label": "Насеље Товилиште",
-      "longitude": 20.437541,
-      "latitude": 44.933219
+      "label": "KP dom",
+      "longitude": 20.4281132819616,
+      "latitude": 44.9541587632969
     },
     {
       "id": "_23",
-      "label": "КП Дом",
-      "longitude": 20.428278,
-      "latitude": 44.954116
+      "label": "Sefkereški kanal",
+      "longitude": 20.4185197456246,
+      "latitude": 44.9719885193896
     },
     {
       "id": "_24",
-      "label": "Сефкерешки Канал",
-      "longitude": 20.418633,
-      "latitude": 44.971982
+      "label": "Put za Vrbovski",
+      "longitude": 20.4122699298122,
+      "latitude": 44.9926405608816
     },
     {
       "id": "_25",
-      "label": "Пут за Врбовски",
-      "longitude": 20.412367,
-      "latitude": 44.992459
+      "label": "Besni fok",
+      "longitude": 20.4090805388082,
+      "latitude": 45.0019113839974
     },
     {
       "id": "_26",
-      "label": "Бесни Фок",
-      "longitude": 20.409092,
-      "latitude": 45.001861
+      "label": "Preliv",
+      "longitude": 20.3989191138555,
+      "latitude": 45.021264482156
     },
     {
       "id": "_27",
-      "label": "Прелив",
-      "longitude": 20.398975,
-      "latitude": 45.021265
+      "label": "Nasipska čuvarnica",
+      "longitude": 20.3937504476545,
+      "latitude": 45.0327832350732
     },
     {
       "id": "_28",
-      "label": "Насипска Чуварница",
-      "longitude": 20.393785,
-      "latitude": 45.032668
+      "label": "Japanski cvet",
+      "longitude": 20.3913259187153,
+      "latitude": 45.052062800978
     },
     {
       "id": "_29",
-      "label": "Јапански Цвет",
-      "longitude": 20.391435,
-      "latitude": 45.051974
-    },
-    {
-      "id": "_30",
-      "label": "Дунавац",
-      "longitude": 20.38554,
-      "latitude": 45.067537
+      "label": "Dunavac",
+      "longitude": 20.3832898676346,
+      "latitude": 45.0672194106928
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Дунавац",
-      "longitude": 20.38554,
-      "latitude": 45.067537
+      "label": "Dunavac",
+      "longitude": 20.3832898676346,
+      "latitude": 45.0672194106928
     },
     {
       "id": "_2",
-      "label": "Јапански Цвет",
-      "longitude": 20.392025,
-      "latitude": 45.050392
+      "label": "Japanski cvet",
+      "longitude": 20.3920878949072,
+      "latitude": 45.0503552041297
     },
     {
       "id": "_3",
-      "label": "Насипска Чуварница",
-      "longitude": 20.393498,
-      "latitude": 45.033612
+      "label": "Nasipska čuvarnica",
+      "longitude": 20.393539031267,
+      "latitude": 45.0335776446804
     },
     {
       "id": "_4",
-      "label": "Прелив",
-      "longitude": 20.39809,
-      "latitude": 45.021847
+      "label": "Preliv",
+      "longitude": 20.3981314436297,
+      "latitude": 45.0218434992644
     },
     {
       "id": "_5",
-      "label": "Бесни Фок",
-      "longitude": 20.408751,
-      "latitude": 45.002064
+      "label": "Besni fok",
+      "longitude": 20.4089101514766,
+      "latitude": 45.0019519024866
     },
     {
       "id": "_6",
-      "label": "Пут за Врбовски",
-      "longitude": 20.412187,
-      "latitude": 44.991935
+      "label": "Put za Vrbovski",
+      "longitude": 20.412252698524,
+      "latitude": 44.9918413398444
     },
     {
       "id": "_7",
-      "label": "Сефкерешки Канал",
-      "longitude": 20.417852,
-      "latitude": 44.972971
+      "label": "Sefkereški kanal",
+      "longitude": 20.417972949843,
+      "latitude": 44.9729072718031
     },
     {
       "id": "_8",
-      "label": "КП Дом",
-      "longitude": 20.427245,
-      "latitude": 44.954651
+      "label": "KP dom",
+      "longitude": 20.4273102979147,
+      "latitude": 44.9546155215837
     },
     {
       "id": "_9",
-      "label": "Насеље Товилиште",
-      "longitude": 20.437084,
-      "latitude": 44.933868
+      "label": "Skladište",
+      "longitude": 20.4332511887766,
+      "latitude": 44.9464106594334
     },
     {
       "id": "_10",
-      "label": "ПК Београд",
-      "longitude": 20.436978,
-      "latitude": 44.928624
+      "label": "Padinska skela",
+      "longitude": 20.4242963222723,
+      "latitude": 44.9454553374919
     },
     {
       "id": "_11",
-      "label": "Фриком",
-      "longitude": 20.438595,
-      "latitude": 44.920405
+      "label": "Ratomira Stojadinovića",
+      "longitude": 20.4283695427275,
+      "latitude": 44.941821984016
     },
     {
       "id": "_12",
-      "label": "Пут за Јабучки Рит",
-      "longitude": 20.441749,
-      "latitude": 44.915741
+      "label": "Marije Ilić Agapove",
+      "longitude": 20.4323147356985,
+      "latitude": 44.9372375204365
     },
     {
       "id": "_13",
-      "label": "Пут за Ковилово",
-      "longitude": 20.443986,
-      "latitude": 44.912405
+      "label": "Naselje Tovilište",
+      "longitude": 20.4354499925363,
+      "latitude": 44.9353541337153
     },
     {
       "id": "_14",
-      "label": "Расадник",
-      "longitude": 20.448196,
-      "latitude": 44.906168
+      "label": "Naselje Tovilište 1",
+      "longitude": 20.4371546663162,
+      "latitude": 44.9338614211451
     },
     {
       "id": "_15",
-      "label": "Гробље Збег",
-      "longitude": 20.452642,
-      "latitude": 44.89949
+      "label": "PK Beograd",
+      "longitude": 20.4370301286255,
+      "latitude": 44.9284288095138
     },
     {
       "id": "_16",
-      "label": "Мали Збег",
-      "longitude": 20.456399,
-      "latitude": 44.893838
+      "label": "Frikom",
+      "longitude": 20.4386228090009,
+      "latitude": 44.920430793462
     },
     {
       "id": "_17",
-      "label": "Преток",
-      "longitude": 20.458186,
-      "latitude": 44.891203
+      "label": "Put za Jabučki rit",
+      "longitude": 20.4417457476846,
+      "latitude": 44.9157663657918
     },
     {
       "id": "_18",
-      "label": "Братства и Јединства",
-      "longitude": 20.460969,
-      "latitude": 44.886993
+      "label": "Put za Kovilovo",
+      "longitude": 20.444007257894,
+      "latitude": 44.9123935866201
     },
     {
       "id": "_19",
-      "label": "Косовопољска",
-      "longitude": 20.464099,
-      "latitude": 44.882347
+      "label": "Groblje Zbeg",
+      "longitude": 20.4529223276776,
+      "latitude": 44.8990813655596
     },
     {
       "id": "_20",
-      "label": "Борча Раскршће",
-      "longitude": 20.467531,
-      "latitude": 44.877219
+      "label": "Mali zbeg",
+      "longitude": 20.4564027458025,
+      "latitude": 44.8938512616383
     },
     {
       "id": "_21",
-      "label": "Себеш Мокри",
-      "longitude": 20.470556,
-      "latitude": 44.872697
+      "label": "Pretok",
+      "longitude": 20.4581746603036,
+      "latitude": 44.8912048199244
     },
     {
       "id": "_22",
-      "label": "Себешка Река",
-      "longitude": 20.473635,
-      "latitude": 44.868102
+      "label": "Bratstva i jedinstva",
+      "longitude": 20.4610376509133,
+      "latitude": 44.8869255875895
     },
     {
       "id": "_23",
-      "label": "Себеш Суви",
-      "longitude": 20.478635,
-      "latitude": 44.860618
+      "label": "Kosovopoljska",
+      "longitude": 20.464092658278,
+      "latitude": 44.8823681953597
     },
     {
       "id": "_24",
-      "label": "Пакрачка",
-      "longitude": 20.480785,
-      "latitude": 44.857411
+      "label": "Borča raskršće",
+      "longitude": 20.4675835368457,
+      "latitude": 44.8771557830855
     },
     {
       "id": "_25",
-      "label": "Пиротско Насеље",
-      "longitude": 20.484112,
-      "latitude": 44.852438
+      "label": "Sebeš mokri",
+      "longitude": 20.4705528288382,
+      "latitude": 44.8727238045324
     },
     {
       "id": "_26",
-      "label": "Блок Сутјеска",
-      "longitude": 20.486769,
-      "latitude": 44.848453
+      "label": "Sebeška reka",
+      "longitude": 20.4736906620926,
+      "latitude": 44.8680765319421
     },
     {
       "id": "_27",
-      "label": "Партизански Блок",
-      "longitude": 20.488131,
-      "latitude": 44.846097
+      "label": "Sebeš suvi",
+      "longitude": 20.4786295214143,
+      "latitude": 44.8606565365871
     },
     {
       "id": "_28",
-      "label": "Блок Бранко Момиров",
-      "longitude": 20.490776,
-      "latitude": 44.841187
+      "label": "Pakračka",
+      "longitude": 20.4807459919225,
+      "latitude": 44.8574533279554
     },
     {
       "id": "_29",
-      "label": "Омладински Стадион",
-      "longitude": 20.489693,
-      "latitude": 44.815337
+      "label": "Pirotsko naselje",
+      "longitude": 20.4840466935259,
+      "latitude": 44.8525149126039
     },
     {
       "id": "_30",
-      "label": "Омладински Стадион",
-      "longitude": 20.490085,
-      "latitude": 44.815368
+      "label": "Blok Sutjeska",
+      "longitude": 20.4867212487704,
+      "latitude": 44.8485077439287
+    },
+    {
+      "id": "_31",
+      "label": "Partizanski blok",
+      "longitude": 20.488254243672,
+      "latitude": 44.8459551401503
+    },
+    {
+      "id": "_32",
+      "label": "Blok Branka Momirova",
+      "longitude": 20.4908213801493,
+      "latitude": 44.8411464382178
+    },
+    {
+      "id": "_33",
+      "label": "Omladinski stadion (izlaz)",
+      "longitude": 20.4895760577327,
+      "latitude": 44.8152979432564
     }
   ]
 }

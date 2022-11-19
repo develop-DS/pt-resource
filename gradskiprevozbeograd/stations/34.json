@@ -2,257 +2,263 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Топчидерско Брдо /Сењак/",
-      "longitude": 20.442979,
-      "latitude": 44.795724
+      "label": "Topčidersko brdo (Senjak)",
+      "longitude": 20.4430356220121,
+      "latitude": 44.7957234874612
     },
     {
       "id": "_2",
-      "label": "Војислава Вучковића",
-      "longitude": 20.441828,
-      "latitude": 44.792684
+      "label": "Vojislava Vučkovića",
+      "longitude": 20.4418217878563,
+      "latitude": 44.7926109426166
     },
     {
       "id": "_3",
-      "label": "Васе Пелагића",
-      "longitude": 20.440839,
-      "latitude": 44.788761
+      "label": "Vase Pelagića",
+      "longitude": 20.4408353065082,
+      "latitude": 44.7887363287841
     },
     {
       "id": "_4",
-      "label": "Топчидерска Звезда",
-      "longitude": 20.444119,
-      "latitude": 44.788765
+      "label": "Topčiderska zvezda",
+      "longitude": 20.4441078798942,
+      "latitude": 44.7887990299809
     },
     {
       "id": "_5",
-      "label": "Железничка станица Београд Центар",
-      "longitude": 20.453604,
-      "latitude": 44.792783
+      "label": "Ortopedski zavod",
+      "longitude": 20.449645218621,
+      "latitude": 44.7931293143198
     },
     {
       "id": "_6",
-      "label": "Гучевска",
-      "longitude": 20.45798,
-      "latitude": 44.792471
+      "label": "Železnička stanica BGD centar",
+      "longitude": 20.4539804454148,
+      "latitude": 44.7925740557622
     },
     {
       "id": "_7",
-      "label": "Кнеза Алекстандра Карађорђевића булевар",
-      "longitude": 20.456129,
-      "latitude": 44.790091
+      "label": "Gučevska",
+      "longitude": 20.4580126416515,
+      "latitude": 44.7925211767222
     },
     {
       "id": "_8",
-      "label": "Стадион Партизан",
-      "longitude": 20.457395,
-      "latitude": 44.786356
+      "label": "Bulevar kneza Aleksandra Karađorđevića",
+      "longitude": 20.4560364486608,
+      "latitude": 44.7900369467188
     },
     {
       "id": "_9",
-      "label": "Педагошка академија",
-      "longitude": 20.457929,
-      "latitude": 44.781761
+      "label": "Stadion Partizan",
+      "longitude": 20.4574207698052,
+      "latitude": 44.7863284818667
     },
     {
       "id": "_10",
-      "label": "Драгише Мишовић болница",
-      "longitude": 20.458095,
-      "latitude": 44.77771
+      "label": "Pedagoška akademija",
+      "longitude": 20.4579487668183,
+      "latitude": 44.7817411973179
     },
     {
       "id": "_11",
-      "label": "Паје Адамова",
-      "longitude": 20.46258,
-      "latitude": 44.772745
+      "label": "Bolnica Dragiša Mišović",
+      "longitude": 20.4581004763674,
+      "latitude": 44.7776615063441
     },
     {
       "id": "_12",
-      "label": "Бањица",
-      "longitude": 20.465972,
-      "latitude": 44.769418
+      "label": "Paje Adamova",
+      "longitude": 20.4625884363578,
+      "latitude": 44.7727454426712
     },
     {
       "id": "_13",
-      "label": "Дедиње Ортопедска болница",
-      "longitude": 20.46371,
-      "latitude": 44.766278
+      "label": "Banjica",
+      "longitude": 20.4659948316041,
+      "latitude": 44.7694170982456
     },
     {
       "id": "_14",
-      "label": "Милоја Ђака",
-      "longitude": 20.459286,
-      "latitude": 44.764318
+      "label": "Dedinje (Ortopedska bolnica)",
+      "longitude": 20.4634876477858,
+      "latitude": 44.7662015476653
     },
     {
       "id": "_15",
-      "label": "Омладинска",
-      "longitude": 20.458661,
-      "latitude": 44.768063
+      "label": "Miloja Đaka",
+      "longitude": 20.4592965444209,
+      "latitude": 44.764518749193
     },
     {
       "id": "_16",
-      "label": "Пивљанина Баје",
-      "longitude": 20.4558,
-      "latitude": 44.769465
+      "label": "Omladinska",
+      "longitude": 20.4586581400408,
+      "latitude": 44.7679661844288
     },
     {
       "id": "_17",
-      "label": "Пивљанина Баје",
-      "longitude": 20.454421,
-      "latitude": 44.765833
+      "label": "Baje Pivljanina",
+      "longitude": 20.4557509652322,
+      "latitude": 44.769482362511
     },
     {
       "id": "_18",
-      "label": "Пивљанина Баје 1",
-      "longitude": 20.453281,
-      "latitude": 44.761497
+      "label": "Pivljanina Baje 1",
+      "longitude": 20.4544214295134,
+      "latitude": 44.7657592158318
     },
     {
       "id": "_19",
-      "label": "Милана Благојевића Шпанца",
-      "longitude": 20.452417,
-      "latitude": 44.757927
+      "label": "Pivljanina Baje 1",
+      "longitude": 20.4532369381971,
+      "latitude": 44.761404970373
     },
     {
       "id": "_20",
-      "label": "Пере Велимировића",
-      "longitude": 20.460092,
-      "latitude": 44.757208
+      "label": "Milana Blagojevića Španca",
+      "longitude": 20.4523024095586,
+      "latitude": 44.7578888665784
+    },
+    {
+      "id": "_21",
+      "label": "Pere Velimirovića",
+      "longitude": 20.4600218368766,
+      "latitude": 44.7571406885234
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Пере Велимировића",
-      "longitude": 20.460005,
-      "latitude": 44.757804
+      "label": "Pere Velimirovića",
+      "longitude": 20.4600108951973,
+      "latitude": 44.7577760095292
     },
     {
       "id": "_2",
-      "label": "Милана Благојевића Шпанца",
-      "longitude": 20.451783,
-      "latitude": 44.758067
+      "label": "Milana Blagojevića Španca",
+      "longitude": 20.4516414062816,
+      "latitude": 44.7580657015407
     },
     {
       "id": "_3",
-      "label": "Пивљанина Баје 1",
-      "longitude": 20.45297,
-      "latitude": 44.760495
+      "label": "Pivljanina Baje 1",
+      "longitude": 20.4530108384999,
+      "latitude": 44.7604625340327
     },
     {
       "id": "_4",
-      "label": "Пивљанина Баје",
-      "longitude": 20.454564,
-      "latitude": 44.765806
+      "label": "Pivljanina Baje",
+      "longitude": 20.4545596920516,
+      "latitude": 44.7658336698806
     },
     {
       "id": "_5",
-      "label": "Пивљанина Баје",
-      "longitude": 20.455234,
-      "latitude": 44.769559
+      "label": "Baje Pivljanina",
+      "longitude": 20.4553084071397,
+      "latitude": 44.7695234604931
     },
     {
       "id": "_6",
-      "label": "Омладинска",
-      "longitude": 20.458536,
-      "latitude": 44.768019
+      "label": "Omladinska",
+      "longitude": 20.458482605277,
+      "latitude": 44.7678231625569
     },
     {
       "id": "_7",
-      "label": "Милоја Ђака",
-      "longitude": 20.4602,
-      "latitude": 44.763852
+      "label": "Miloja Đaka",
+      "longitude": 20.459738734037,
+      "latitude": 44.7639682566305
     },
     {
       "id": "_8",
-      "label": "Дедиње Ортопедска болница",
-      "longitude": 20.464077,
-      "latitude": 44.766334
+      "label": "Dedinje (Ortopedska bolnica)",
+      "longitude": 20.4639794118787,
+      "latitude": 44.7663010415335
     },
     {
       "id": "_9",
-      "label": "Бањица",
-      "longitude": 20.465763,
-      "latitude": 44.769938
+      "label": "Banjica",
+      "longitude": 20.4656895425013,
+      "latitude": 44.7699196542528
     },
     {
       "id": "_10",
-      "label": "Паје Адамова",
-      "longitude": 20.462307,
-      "latitude": 44.773349
+      "label": "Paje Adamova",
+      "longitude": 20.4618812747399,
+      "latitude": 44.7738004797968
     },
     {
       "id": "_11",
-      "label": "Драгише Мишовић болница",
-      "longitude": 20.458522,
-      "latitude": 44.777634
+      "label": "Bolnica Dragiša Mišović",
+      "longitude": 20.4584663318714,
+      "latitude": 44.7777226308253
     },
     {
       "id": "_12",
-      "label": "Педагошка академија",
-      "longitude": 20.458016,
-      "latitude": 44.782698
+      "label": "Pedagoška akademija",
+      "longitude": 20.4579774380025,
+      "latitude": 44.7827330855492
     },
     {
       "id": "_13",
-      "label": "Стадион Партизан",
-      "longitude": 20.45764,
-      "latitude": 44.78595
+      "label": "Stadion Partizan",
+      "longitude": 20.4576188802743,
+      "latitude": 44.785953236666
     },
     {
       "id": "_14",
-      "label": "Кнеза Алекстандра Карађорђевића булевар",
-      "longitude": 20.455919,
-      "latitude": 44.7898
+      "label": "Bulevar kneza Aleksandra Karađorđevića",
+      "longitude": 20.4559346728239,
+      "latitude": 44.7898384738614
     },
     {
       "id": "_15",
-      "label": "Гучевска",
-      "longitude": 20.45798,
-      "latitude": 44.792471
+      "label": "Gučevska",
+      "longitude": 20.4580126416515,
+      "latitude": 44.7925211767222
     },
     {
       "id": "_16",
-      "label": "Железничка станица Београд Центар",
-      "longitude": 20.452828,
-      "latitude": 44.793324
+      "label": "Železnička stanica BGD centar",
+      "longitude": 20.4543971451321,
+      "latitude": 44.7926138361431
     },
     {
       "id": "_17",
-      "label": "Козјачка",
-      "longitude": 20.447823,
-      "latitude": 44.793773
+      "label": "Kozjačka",
+      "longitude": 20.4478097356035,
+      "latitude": 44.793698266477
     },
     {
       "id": "_18",
-      "label": "Топчидерска Звезда",
-      "longitude": 20.443955,
-      "latitude": 44.7894
+      "label": "Topčiderska zvezda",
+      "longitude": 20.443900833997,
+      "latitude": 44.7893056018222
     },
     {
       "id": "_19",
-      "label": "Васе Пелагића",
-      "longitude": 20.440924,
-      "latitude": 44.788976
+      "label": "Vase Pelagića",
+      "longitude": 20.4409132092715,
+      "latitude": 44.7890462933501
     },
     {
       "id": "_20",
-      "label": "Војислава Вучковића",
-      "longitude": 20.441519,
-      "latitude": 44.791679
+      "label": "Vojislava Vučkovića",
+      "longitude": 20.4415388205174,
+      "latitude": 44.7918068051626
     },
     {
       "id": "_21",
-      "label": "Сењачка",
-      "longitude": 20.442634,
-      "latitude": 44.794273
+      "label": "Senjačka",
+      "longitude": 20.4426568784014,
+      "latitude": 44.7943591160719
     },
     {
       "id": "_22",
-      "label": "Топчидерско Брдо /Сењак/",
-      "longitude": 20.442979,
-      "latitude": 44.795724
+      "label": "Topčidersko brdo (Senjak)",
+      "longitude": 20.4430356220121,
+      "latitude": 44.7957234874612
     }
   ]
 }

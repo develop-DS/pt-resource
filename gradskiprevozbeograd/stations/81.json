@@ -2,251 +2,257 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Нови Београд /Павильони/",
-      "longitude": 20.404296,
-      "latitude": 44.830109
+      "label": "Novi Beograd (Paviljoni)",
+      "longitude": 20.4042673503249,
+      "latitude": 44.8301210659387
     },
     {
       "id": "_2",
-      "label": "Џона Кенедија",
-      "longitude": 20.410005,
-      "latitude": 44.834184
+      "label": "Džona Kenedija",
+      "longitude": 20.4099547130209,
+      "latitude": 44.8342182363595
     },
     {
       "id": "_3",
-      "label": "Прве пруге ретензија",
-      "longitude": 20.410549,
-      "latitude": 44.836707
+      "label": "Prve pruge (Retenzija)",
+      "longitude": 20.4106030093984,
+      "latitude": 44.836887217854
     },
     {
       "id": "_4",
-      "label": "Александра Дубчека",
-      "longitude": 20.410665,
-      "latitude": 44.839212
+      "label": "Aleksandra Dubčeka",
+      "longitude": 20.4106325818005,
+      "latitude": 44.8392074367307
     },
     {
       "id": "_5",
-      "label": "КБЦ Земун",
-      "longitude": 20.406449,
-      "latitude": 44.84118
+      "label": "KBC Zemun",
+      "longitude": 20.4063517433083,
+      "latitude": 44.8412354412422
     },
     {
       "id": "_6",
-      "label": "Новоградска",
-      "longitude": 20.402002,
-      "latitude": 44.845502
+      "label": "Novogradska",
+      "longitude": 20.4019712562394,
+      "latitude": 44.8455396318512
     },
     {
       "id": "_7",
-      "label": "Угриновачка",
-      "longitude": 20.399368,
-      "latitude": 44.846516
+      "label": "Ugrinovačka",
+      "longitude": 20.3991774761517,
+      "latitude": 44.8465779681986
     },
     {
       "id": "_8",
-      "label": "Стадион Земун",
-      "longitude": 20.396038,
-      "latitude": 44.847749
+      "label": "Stadion Zemun",
+      "longitude": 20.3959444670565,
+      "latitude": 44.8477525152105
     },
     {
       "id": "_9",
-      "label": "Бранка Пешића",
-      "longitude": 20.391377,
-      "latitude": 44.849368
+      "label": "Branka Pešića",
+      "longitude": 20.3912080891097,
+      "latitude": 44.8494391687723
     },
     {
       "id": "_10",
-      "label": "Филипа Вишњића",
-      "longitude": 20.387541,
-      "latitude": 44.849945
+      "label": "Filipa Višnjića",
+      "longitude": 20.3874227684031,
+      "latitude": 44.8499319809851
     },
     {
       "id": "_11",
-      "label": "Задругарска",
-      "longitude": 20.38207,
-      "latitude": 44.850208
+      "label": "Zadrugarska",
+      "longitude": 20.3819749760604,
+      "latitude": 44.8501907334264
     },
     {
       "id": "_12",
-      "label": "Главни Поштански Центар",
-      "longitude": 20.373315,
-      "latitude": 44.848199
+      "label": "Glavni poštanski centar",
+      "longitude": 20.3732426570165,
+      "latitude": 44.8481274570928
     },
     {
       "id": "_13",
-      "label": "Ратарски Пут",
-      "longitude": 20.370209,
-      "latitude": 44.848163
+      "label": "Ratarski put",
+      "longitude": 20.3701676228709,
+      "latitude": 44.8482114019594
     },
     {
       "id": "_14",
-      "label": "Угриновачки Пут",
-      "longitude": 20.36753,
-      "latitude": 44.849999
+      "label": "Ugrinovački put",
+      "longitude": 20.3674022709742,
+      "latitude": 44.8500590684051
     },
     {
       "id": "_15",
-      "label": "Југа Гризеља",
-      "longitude": 20.365143,
-      "latitude": 44.851617
+      "label": "Juga Grizelja",
+      "longitude": 20.3650189246986,
+      "latitude": 44.8516657979556
     },
     {
       "id": "_16",
-      "label": "Љиљане Крстић",
-      "longitude": 20.360847,
-      "latitude": 44.853711
+      "label": "Ljiljane Krstić",
+      "longitude": 20.3607023864,
+      "latitude": 44.8537188873032
     },
     {
       "id": "_17",
-      "label": "Алтина",
-      "longitude": 20.355017,
-      "latitude": 44.853121
+      "label": "Altina",
+      "longitude": 20.3549649288793,
+      "latitude": 44.8531323861415
     },
     {
       "id": "_18",
-      "label": "Кортесарова",
-      "longitude": 20.348703,
-      "latitude": 44.852258
+      "label": "Kortesarova",
+      "longitude": 20.3486583986147,
+      "latitude": 44.8523083790887
     },
     {
       "id": "_19",
-      "label": "Константина Кавафија",
-      "longitude": 20.346727,
-      "latitude": 44.85352
+      "label": "Konstantina Kavafija",
+      "longitude": 20.3466654192542,
+      "latitude": 44.8535749625535
     },
     {
       "id": "_20",
-      "label": "Дијега Ривере",
-      "longitude": 20.341071,
-      "latitude": 44.85712
+      "label": "Emila Zatopeka",
+      "longitude": 20.3440144129871,
+      "latitude": 44.8552913203357
     },
     {
       "id": "_21",
-      "label": "Алтина 1",
-      "longitude": 20.339581,
-      "latitude": 44.859311
+      "label": "Dijega Rivere",
+      "longitude": 20.3410067282132,
+      "latitude": 44.8572053542237
+    },
+    {
+      "id": "_22",
+      "label": "Altina 1",
+      "longitude": 20.3396187567071,
+      "latitude": 44.8593140384936
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Алтина 1",
-      "longitude": 20.339581,
-      "latitude": 44.859311
+      "label": "Altina 1",
+      "longitude": 20.3396187567071,
+      "latitude": 44.8593140384936
     },
     {
       "id": "_2",
-      "label": "Дијега Ривере",
-      "longitude": 20.341398,
-      "latitude": 44.856786
+      "label": "Dijega Rivere",
+      "longitude": 20.3414365927657,
+      "latitude": 44.8567884498168
     },
     {
       "id": "_3",
-      "label": "Константина Кавафија",
-      "longitude": 20.347073,
-      "latitude": 44.85317
+      "label": "Emila Zatopeka",
+      "longitude": 20.3444697883891,
+      "latitude": 44.8548529516396
     },
     {
       "id": "_4",
-      "label": "Епископа Николаја",
-      "longitude": 20.349951,
-      "latitude": 44.85136
+      "label": "Konstantina Kavafija",
+      "longitude": 20.3470569995472,
+      "latitude": 44.8531812171434
     },
     {
       "id": "_5",
-      "label": "Алтина",
-      "longitude": 20.355434,
-      "latitude": 44.85308
+      "label": "Episkopa Nikolaja",
+      "longitude": 20.3499750147441,
+      "latitude": 44.8513295104154
     },
     {
       "id": "_6",
-      "label": "Љиљане Крстић",
-      "longitude": 20.361432,
-      "latitude": 44.853683
+      "label": "Altina",
+      "longitude": 20.3554185752031,
+      "latitude": 44.8530683414264
     },
     {
       "id": "_7",
-      "label": "Југа Гризеља",
-      "longitude": 20.364488,
-      "latitude": 44.85193
+      "label": "Ljiljane Krstić",
+      "longitude": 20.362070809647,
+      "latitude": 44.853535720488
     },
     {
       "id": "_8",
-      "label": "Угриновачки Пут",
-      "longitude": 20.367746,
-      "latitude": 44.849735
+      "label": "Juga Grizelja",
+      "longitude": 20.3644087721254,
+      "latitude": 44.8519288014352
     },
     {
       "id": "_9",
-      "label": "Ратарски Пут",
-      "longitude": 20.369548,
-      "latitude": 44.848491
+      "label": "Ugrinovački put",
+      "longitude": 20.3676665365169,
+      "latitude": 44.8497239460722
     },
     {
       "id": "_10",
-      "label": "Главни Поштански Центар",
-      "longitude": 20.373554,
-      "latitude": 44.848084
+      "label": "Ratarski put",
+      "longitude": 20.3695220708732,
+      "latitude": 44.8484778382608
     },
     {
       "id": "_11",
-      "label": "Задругарска",
-      "longitude": 20.383138,
-      "latitude": 44.85016
+      "label": "Glavni poštanski centar",
+      "longitude": 20.3735921263533,
+      "latitude": 44.8480987685252
     },
     {
       "id": "_12",
-      "label": "Филипа Вишњића",
-      "longitude": 20.385831,
-      "latitude": 44.849951
+      "label": "Zadrugarska",
+      "longitude": 20.3831869838483,
+      "latitude": 44.8501882595356
     },
     {
       "id": "_13",
-      "label": "Бранка Пешића",
-      "longitude": 20.392061,
-      "latitude": 44.849022
+      "label": "Filipa Višnjića",
+      "longitude": 20.3869021806923,
+      "latitude": 44.849871602398
     },
     {
       "id": "_14",
-      "label": "Стадион Земун",
-      "longitude": 20.396917,
-      "latitude": 44.847263
+      "label": "Branka Pešića",
+      "longitude": 20.3920623745898,
+      "latitude": 44.8490441243012
     },
     {
       "id": "_15",
-      "label": "Новоградска",
-      "longitude": 20.401562,
-      "latitude": 44.845558
+      "label": "Stadion Zemun",
+      "longitude": 20.3970201865796,
+      "latitude": 44.8472254074816
     },
     {
       "id": "_16",
-      "label": "КБЦ Земун",
-      "longitude": 20.407075,
-      "latitude": 44.840334
+      "label": "Novogradska",
+      "longitude": 20.4016246423256,
+      "latitude": 44.8455396238713
     },
     {
       "id": "_17",
-      "label": "Александра Дубчека",
-      "longitude": 20.410782,
-      "latitude": 44.839011
+      "label": "KBC Zemun",
+      "longitude": 20.4070744215334,
+      "latitude": 44.8403284321712
     },
     {
       "id": "_18",
-      "label": "Џона Кенедија",
-      "longitude": 20.40969,
-      "latitude": 44.834032
+      "label": "Aleksandra Dubčeka",
+      "longitude": 20.4109439891515,
+      "latitude": 44.8389336523026
     },
     {
       "id": "_19",
-      "label": "Нови Београд /Павильони/",
-      "longitude": 20.404759,
-      "latitude": 44.830423
+      "label": "Džona Kenedija",
+      "longitude": 20.4096906443783,
+      "latitude": 44.8340674860514
     },
     {
       "id": "_20",
-      "label": "Нови Београд /Павильони/",
-      "longitude": 20.404296,
-      "latitude": 44.830109
+      "label": "Novi Beograd (Paviljoni)",
+      "longitude": 20.404901375786,
+      "latitude": 44.8304501391773
     }
   ]
 }

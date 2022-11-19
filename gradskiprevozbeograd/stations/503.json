@@ -2,287 +2,293 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Вождовац",
-      "longitude": 20.483671,
-      "latitude": 44.761082
+      "label": "Železnička stanica Resnik",
+      "longitude": 20.4496804405428,
+      "latitude": 44.7046325830713
     },
     {
       "id": "_2",
-      "label": "Баштованска",
-      "longitude": 20.476919,
-      "latitude": 44.756344
+      "label": "Aleksandra Vojinovića",
+      "longitude": 20.4511403584804,
+      "latitude": 44.7066609068699
     },
     {
       "id": "_3",
-      "label": "Крагујевачких Ђака",
-      "longitude": 20.477445,
-      "latitude": 44.754155
+      "label": "13. oktobra",
+      "longitude": 20.4528498395663,
+      "latitude": 44.7106181342404
     },
     {
       "id": "_4",
-      "label": "Бањица 2",
-      "longitude": 20.479505,
-      "latitude": 44.752659
+      "label": "MZ Resnik",
+      "longitude": 20.4529888850891,
+      "latitude": 44.7135562932403
     },
     {
       "id": "_5",
-      "label": "Ристе Стефановића",
-      "longitude": 20.479556,
-      "latitude": 44.750202
+      "label": "Palih boraca",
+      "longitude": 20.4482534947105,
+      "latitude": 44.7172774844387
     },
     {
       "id": "_6",
-      "label": "Воје Радића",
-      "longitude": 20.476952,
-      "latitude": 44.7468
+      "label": "Josipa Telarevića",
+      "longitude": 20.4521525194926,
+      "latitude": 44.7190205052489
     },
     {
       "id": "_7",
-      "label": "Саве Јовановића",
-      "longitude": 20.483254,
-      "latitude": 44.742505
+      "label": "Brđanska",
+      "longitude": 20.4571818320303,
+      "latitude": 44.7165263001475
     },
     {
       "id": "_8",
-      "label": "Јајинци /Дом Здравља/",
-      "longitude": 20.486063,
-      "latitude": 44.740254
+      "label": "Podavalska (izlaz)",
+      "longitude": 20.4597349126622,
+      "latitude": 44.7147924125194
     },
     {
       "id": "_9",
-      "label": "Милутина Миланковића",
-      "longitude": 20.483879,
-      "latitude": 44.735386
+      "label": "Resnik (ulaz)",
+      "longitude": 20.4652582629203,
+      "latitude": 44.7164310271084
     },
     {
       "id": "_10",
-      "label": "Кефалониска",
-      "longitude": 20.483183,
-      "latitude": 44.730499
+      "label": "Dugo polje",
+      "longitude": 20.4935896494342,
+      "latitude": 44.715839564286
     },
     {
       "id": "_11",
-      "label": "Спомен Парк Јајинци",
-      "longitude": 20.486254,
-      "latitude": 44.727318
+      "label": "Rakovica selo",
+      "longitude": 20.4975661062226,
+      "latitude": 44.7219300172401
     },
     {
       "id": "_12",
-      "label": "Раковица /Спомен чесма/",
-      "longitude": 20.494937,
-      "latitude": 44.726457
+      "label": "Rakovica selo (spomen česma)",
+      "longitude": 20.4944744021448,
+      "latitude": 44.7264792717087
     },
     {
       "id": "_13",
-      "label": "Раковица",
-      "longitude": 20.498176,
-      "latitude": 44.721619
+      "label": "Spomen park Jajinci",
+      "longitude": 20.4842999484184,
+      "latitude": 44.7295496892026
     },
     {
       "id": "_14",
-      "label": "Кружни пут",
-      "longitude": 20.503997,
-      "latitude": 44.718832
+      "label": "Milutina Miljkovića",
+      "longitude": 20.4839292788514,
+      "latitude": 44.7351998032955
     },
     {
       "id": "_15",
-      "label": "Дуго Поље",
-      "longitude": 20.492983,
-      "latitude": 44.715836
+      "label": "Jajinci (Dom zdravlja)",
+      "longitude": 20.4852827788957,
+      "latitude": 44.7412086418607
     },
     {
       "id": "_16",
-      "label": "Ресник /Улаз/",
-      "longitude": 20.464361,
-      "latitude": 44.716122
+      "label": "Save Jovanovića",
+      "longitude": 20.4832321340049,
+      "latitude": 44.7426285689467
     },
     {
       "id": "_17",
-      "label": "Ресник /Авалска/",
-      "longitude": 20.459843,
-      "latitude": 44.714834
+      "label": "Voje Radića",
+      "longitude": 20.477276790342,
+      "latitude": 44.7463040469182
     },
     {
       "id": "_18",
-      "label": "Ресник /Брђанска/",
-      "longitude": 20.457328,
-      "latitude": 44.716545
+      "label": "Riste Stefanovića",
+      "longitude": 20.4801659780458,
+      "latitude": 44.7500088163803
     },
     {
       "id": "_19",
-      "label": "Ресник /Јосипа Теларевића/",
-      "longitude": 20.451628,
-      "latitude": 44.71871
+      "label": "Banjica 2",
+      "longitude": 20.480517163468,
+      "latitude": 44.7516987354478
     },
     {
       "id": "_20",
-      "label": "Ресник /Палих Бораца/",
-      "longitude": 20.44851,
-      "latitude": 44.717438
+      "label": "Kragujevačkih đaka",
+      "longitude": 20.4770363141633,
+      "latitude": 44.754807593616
     },
     {
       "id": "_21",
-      "label": "MZ Resnik",
-      "longitude": 20.453546,
-      "latitude": 44.712731
+      "label": "Baštovanska",
+      "longitude": 20.4772006355453,
+      "latitude": 44.7570456461003
     },
     {
       "id": "_22",
-      "label": "Ресник /Милорада Јанковића Доце/",
-      "longitude": 20.452673,
-      "latitude": 44.710599
+      "label": "Paunova",
+      "longitude": 20.4769460779112,
+      "latitude": 44.7609197174914
     },
     {
       "id": "_23",
-      "label": "Ресник /Александра Војиновића/",
-      "longitude": 20.451309,
-      "latitude": 44.706904
-    },
-    {
-      "id": "_24",
-      "label": "Железничка Станица Ресник",
-      "longitude": 20.449657,
-      "latitude": 44.704584
+      "label": "Voždovac (terminus)",
+      "longitude": 20.4838255016865,
+      "latitude": 44.7608950672445
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Железничка Станица Ресник",
-      "longitude": 20.449657,
-      "latitude": 44.704584
+      "label": "Voždovac (terminus)",
+      "longitude": 20.4838255016865,
+      "latitude": 44.7608950672445
     },
     {
       "id": "_2",
-      "label": "Ресник /Александра Војиновића/",
-      "longitude": 20.45109,
-      "latitude": 44.706559
+      "label": "Vračarska",
+      "longitude": 20.4809740744214,
+      "latitude": 44.7572553547893
     },
     {
       "id": "_3",
-      "label": "Ресник /Милорада Јанковића Доце/",
-      "longitude": 20.452941,
-      "latitude": 44.710584
+      "label": "Banjica",
+      "longitude": 20.4777009401858,
+      "latitude": 44.7574839095154
     },
     {
       "id": "_4",
-      "label": "MZ Resnik",
-      "longitude": 20.453618,
-      "latitude": 44.712799
+      "label": "Raška",
+      "longitude": 20.4675635831909,
+      "latitude": 44.7548054323683
     },
     {
       "id": "_5",
-      "label": "Ресник /Палих Бораца/",
-      "longitude": 20.448303,
-      "latitude": 44.717271
+      "label": "Pere Velimirovića",
+      "longitude": 20.4600218368766,
+      "latitude": 44.7571406885234
     },
     {
       "id": "_6",
-      "label": "Ресник /Јосипа Теларевића/",
-      "longitude": 20.452091,
-      "latitude": 44.718942
+      "label": "Srpskih udarnih brigada",
+      "longitude": 20.4563627580518,
+      "latitude": 44.7542903323306
     },
     {
       "id": "_7",
-      "label": "Ресник /Брђанска/",
-      "longitude": 20.457189,
-      "latitude": 44.716559
+      "label": "Kanarevo brdo",
+      "longitude": 20.4550937068251,
+      "latitude": 44.7519642112501
     },
     {
       "id": "_8",
-      "label": "Ресник /Улаз/",
-      "longitude": 20.465376,
-      "latitude": 44.716496
+      "label": "Vareška",
+      "longitude": 20.455719864568,
+      "latitude": 44.7498306732597
     },
     {
       "id": "_9",
-      "label": "Дуго Поље",
-      "longitude": 20.493574,
-      "latitude": 44.715834
+      "label": "Stanka Paunovića",
+      "longitude": 20.4522648700849,
+      "latitude": 44.7484480890725
     },
     {
       "id": "_10",
-      "label": "Кружни пут",
-      "longitude": 20.504136,
-      "latitude": 44.719281
+      "label": "Miljakovac 1",
+      "longitude": 20.4497333172447,
+      "latitude": 44.7482559832715
     },
     {
       "id": "_11",
-      "label": "Раковица",
-      "longitude": 20.497496,
-      "latitude": 44.721935
+      "label": "GO Rakovica",
+      "longitude": 20.4461644023972,
+      "latitude": 44.7437371968833
     },
     {
       "id": "_12",
-      "label": "Раковица /Спомен чесма/",
-      "longitude": 20.494422,
-      "latitude": 44.72645
+      "label": "Miška Kranjca",
+      "longitude": 20.4421078008058,
+      "latitude": 44.7429993718767
     },
     {
       "id": "_13",
-      "label": "Спомен Парк Јајинци",
-      "longitude": 20.484364,
-      "latitude": 44.729512
+      "label": "Miška Kranjca",
+      "longitude": 20.440890114521,
+      "latitude": 44.7422482743837
     },
     {
       "id": "_14",
-      "label": "Милутина Миланковића",
-      "longitude": 20.483813,
-      "latitude": 44.734982
+      "label": "Ulica Oslobođenja",
+      "longitude": 20.4385425050469,
+      "latitude": 44.7389861405659
     },
     {
       "id": "_15",
-      "label": "Јајинци /Дом Здравља/",
-      "longitude": 20.485296,
-      "latitude": 44.741233
+      "label": "Slavka Rodića",
+      "longitude": 20.4340422345425,
+      "latitude": 44.7389910264503
     },
     {
       "id": "_16",
-      "label": "Саве Јовановића",
-      "longitude": 20.483303,
-      "latitude": 44.742605
+      "label": "Kneževac",
+      "longitude": 20.431480993017,
+      "latitude": 44.7346423343423
     },
     {
       "id": "_17",
-      "label": "Воје Радића",
-      "longitude": 20.477345,
-      "latitude": 44.74627
+      "label": "Deponija",
+      "longitude": 20.4348327832827,
+      "latitude": 44.7288235227788
     },
     {
       "id": "_18",
-      "label": "Ристе Стефановића",
-      "longitude": 20.480525,
-      "latitude": 44.749952
+      "label": "Kijevo",
+      "longitude": 20.4379855967489,
+      "latitude": 44.7252427482934
     },
     {
       "id": "_19",
-      "label": "Бањица 2",
-      "longitude": 20.480558,
-      "latitude": 44.751678
+      "label": "Ispod tunela",
+      "longitude": 20.4427250011704,
+      "latitude": 44.7244090999394
     },
     {
       "id": "_20",
-      "label": "Крагујевачких Ђака",
-      "longitude": 20.477068,
-      "latitude": 44.754789
+      "label": "Spomenik",
+      "longitude": 20.4462411239974,
+      "latitude": 44.7226369918408
     },
     {
       "id": "_21",
-      "label": "Баштованска",
-      "longitude": 20.47722,
-      "latitude": 44.756977
+      "label": "Resnik (izlaz)",
+      "longitude": 20.4479518789858,
+      "latitude": 44.7192721607595
     },
     {
       "id": "_22",
-      "label": "Паунова",
-      "longitude": 20.476934,
-      "latitude": 44.760861
+      "label": "MZ Resnik",
+      "longitude": 20.452931859021,
+      "latitude": 44.7134462252688
     },
     {
       "id": "_23",
-      "label": "Вождовац",
-      "longitude": 20.483671,
-      "latitude": 44.761082
+      "label": "13. oktobra",
+      "longitude": 20.4526827807709,
+      "latitude": 44.7106677356935
+    },
+    {
+      "id": "_24",
+      "label": "Aleksandra Vojinovića",
+      "longitude": 20.4512667225399,
+      "latitude": 44.7069117026575
+    },
+    {
+      "id": "_25",
+      "label": "Železnička stanica Resnik",
+      "longitude": 20.4493815046096,
+      "latitude": 44.7044835538808
     }
   ]
 }

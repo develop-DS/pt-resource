@@ -2,143 +2,167 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Дорћол /СРЦ Милалн Мушкатировић/",
-      "longitude": 20.456261,
-      "latitude": 44.829766
+      "label": "Dorćol (SRC Milan Gale Muškatirović)",
+      "longitude": 20.4562490991147,
+      "latitude": 44.8297456732142
     },
     {
       "id": "_2",
-      "label": "Браће Барух",
-      "longitude": 20.456947,
-      "latitude": 44.82494
+      "label": "Braće Baruh",
+      "longitude": 20.4569313944278,
+      "latitude": 44.8249413711738
     },
     {
       "id": "_3",
-      "label": "Краља Петра",
-      "longitude": 20.460279,
-      "latitude": 44.823157
+      "label": "Kralja Petra",
+      "longitude": 20.4602867462446,
+      "latitude": 44.8231213035395
     },
     {
       "id": "_4",
-      "label": "Дорћол /Кнегиње Љубице/",
-      "longitude": 20.463047,
-      "latitude": 44.821661
+      "label": "Dorćol (Kneginje Ljubice)",
+      "longitude": 20.4641043800112,
+      "latitude": 44.8210603098234
     },
     {
       "id": "_5",
-      "label": "Пијаца Скадарлија",
-      "longitude": 20.467158,
-      "latitude": 44.818104
+      "label": "Pijaca Skadarlija",
+      "longitude": 20.4670188803185,
+      "latitude": 44.8181778406019
     },
     {
       "id": "_6",
-      "label": "Булевар Деспота Стефана",
-      "longitude": 20.469302,
-      "latitude": 44.816371
+      "label": "Bulevar despota Stefana",
+      "longitude": 20.4692938734787,
+      "latitude": 44.8163434835923
     },
     {
       "id": "_7",
-      "label": "Таковска",
-      "longitude": 20.47179,
-      "latitude": 44.813666
+      "label": "Takovska",
+      "longitude": 20.4718837356293,
+      "latitude": 44.8135133831198
     },
     {
       "id": "_8",
-      "label": "Палилулска Пијаца",
-      "longitude": 20.474163,
-      "latitude": 44.810844
+      "label": "Palilulska pijaca",
+      "longitude": 20.4744349063776,
+      "latitude": 44.8104598570345
     },
     {
       "id": "_9",
-      "label": "Машински Факултет",
-      "longitude": 20.477037,
-      "latitude": 44.807615
+      "label": "Mašinski fakultet",
+      "longitude": 20.476835962319,
+      "latitude": 44.8077619695552
     },
     {
       "id": "_10",
-      "label": "Вуков Споменик",
-      "longitude": 20.47948,
-      "latitude": 44.804889
+      "label": "Dalmatinska",
+      "longitude": 20.4802461581991,
+      "latitude": 44.8066957208867
+    },
+    {
+      "id": "_11",
+      "label": "Novo groblje",
+      "longitude": 20.4866497871415,
+      "latitude": 44.8107779308082
+    },
+    {
+      "id": "_12",
+      "label": "Vatrogasna komanda",
+      "longitude": 20.4889041974732,
+      "latitude": 44.8126202954361
+    },
+    {
+      "id": "_13",
+      "label": "Omladinski stadion",
+      "longitude": 20.4912152864622,
+      "latitude": 44.8146482563707
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Вуков Споменик",
-      "longitude": 20.47948,
-      "latitude": 44.804889
+      "label": "Omladinski stadion",
+      "longitude": 20.4902263510143,
+      "latitude": 44.8140966974399
     },
     {
       "id": "_2",
-      "label": "Вуков Споменик",
-      "longitude": 20.478154,
-      "latitude": 44.805407
+      "label": "Vatrogasna komanda",
+      "longitude": 20.4879102459397,
+      "latitude": 44.8120704938242
     },
     {
       "id": "_3",
-      "label": "Машински Факултет",
-      "longitude": 20.477381,
-      "latitude": 44.807561
+      "label": "Novo groblje",
+      "longitude": 20.4848471309767,
+      "latitude": 44.8099022992411
     },
     {
       "id": "_4",
-      "label": "Палилулска Пијаца",
-      "longitude": 20.474696,
-      "latitude": 44.810584
+      "label": "Dalmatinska",
+      "longitude": 20.480615642886,
+      "latitude": 44.8072229663571
     },
     {
       "id": "_5",
-      "label": "Таковска",
-      "longitude": 20.472556,
-      "latitude": 44.813108
+      "label": "Mašinski fakultet",
+      "longitude": 20.4773121674271,
+      "latitude": 44.8076651445898
     },
     {
       "id": "_6",
-      "label": "Булевар Деспота Стефана",
-      "longitude": 20.46942,
-      "latitude": 44.816567
+      "label": "Palilulska pijaca",
+      "longitude": 20.4748550255486,
+      "latitude": 44.8104167826562
     },
     {
       "id": "_7",
-      "label": "Пијаца Скадарлија",
-      "longitude": 20.467069,
-      "latitude": 44.818513
+      "label": "Takovska",
+      "longitude": 20.4724907468709,
+      "latitude": 44.8132191907578
     },
     {
       "id": "_8",
-      "label": "Дорћол /Кнегиње Љубице/",
-      "longitude": 20.464324,
-      "latitude": 44.821208
+      "label": "Bulevar despota Stefana",
+      "longitude": 20.4693722603082,
+      "latitude": 44.8166210312405
     },
     {
       "id": "_9",
-      "label": "Краља Петра",
-      "longitude": 20.460245,
-      "latitude": 44.82341
+      "label": "Pijaca Skadarlija",
+      "longitude": 20.4670683534984,
+      "latitude": 44.8185740490402
     },
     {
       "id": "_10",
-      "label": "Браће Барух",
-      "longitude": 20.45714,
-      "latitude": 44.825098
+      "label": "Dorćol (Kneginje Ljubice)",
+      "longitude": 20.464340466377,
+      "latitude": 44.821237802558
     },
     {
       "id": "_11",
-      "label": "Солунска",
-      "longitude": 20.456064,
-      "latitude": 44.8269
+      "label": "Kralja Petra",
+      "longitude": 20.4602737388993,
+      "latitude": 44.8234326253102
     },
     {
       "id": "_12",
-      "label": "Дорћол /СРЦ Милалн Мушкатировић/",
-      "longitude": 20.455852,
-      "latitude": 44.829556
+      "label": "Braće Baruh",
+      "longitude": 20.457223365058,
+      "latitude": 44.8250921444758
     },
     {
       "id": "_13",
-      "label": "Дорћол /СРЦ Милалн Мушкатировић/",
-      "longitude": 20.456261,
-      "latitude": 44.829766
+      "label": "Solunska",
+      "longitude": 20.4560351924503,
+      "latitude": 44.8269278160156
+    },
+    {
+      "id": "_14",
+      "label": "Dorćol (SRC Milan Gale Muškatirović)",
+      "longitude": 20.4558572208037,
+      "latitude": 44.8297276163418
     }
   ]
 }

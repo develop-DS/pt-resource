@@ -2,203 +2,185 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "ТЦ Галериja",
-      "longitude": 20.445457,
-      "latitude": 44.801256
+      "label": "TC Galerija",
+      "longitude": 20.4456286208991,
+      "latitude": 44.8013535627872
     },
     {
       "id": "_2",
-      "label": "Сајам",
-      "longitude": 20.441977,
-      "latitude": 44.796588
+      "label": "Sajam",
+      "longitude": 20.4415906546322,
+      "latitude": 44.7964130286058
     },
     {
       "id": "_3",
-      "label": "Петља Радничка",
-      "longitude": 20.426785,
-      "latitude": 44.792472
+      "label": "Čukarica",
+      "longitude": 20.4145017152671,
+      "latitude": 44.7863856515716
     },
     {
       "id": "_4",
-      "label": "Чукарица",
-      "longitude": 20.414505,
-      "latitude": 44.78645
+      "label": "Železnik R",
+      "longitude": 20.3589500715381,
+      "latitude": 44.7422083297655
     },
     {
       "id": "_5",
-      "label": "Железник Р",
-      "longitude": 20.359007,
-      "latitude": 44.742278
+      "label": "Ostružnica 1",
+      "longitude": 20.3210717392176,
+      "latitude": 44.7335972061237
     },
     {
       "id": "_6",
-      "label": "Остружница 1",
-      "longitude": 20.321097,
-      "latitude": 44.733654
+      "label": "Ostružnica 2",
+      "longitude": 20.3145425020959,
+      "latitude": 44.7236605299118
     },
     {
       "id": "_7",
-      "label": "Остружница 2",
-      "longitude": 20.31452,
-      "latitude": 44.723713
+      "label": "Pećani",
+      "longitude": 20.3168674129367,
+      "latitude": 44.6965529664518
     },
     {
       "id": "_8",
-      "label": "Пећани",
-      "longitude": 20.316867,
-      "latitude": 44.69657
+      "label": "Zelengora",
+      "longitude": 20.3116150901158,
+      "latitude": 44.6895701694761
     },
     {
       "id": "_9",
-      "label": "Умка /Зеленгора/",
-      "longitude": 20.311634,
-      "latitude": 44.689638
+      "label": "Umka (centar)",
+      "longitude": 20.3034499389404,
+      "latitude": 44.6785807791686
     },
     {
       "id": "_10",
-      "label": "Умка /Центар/",
-      "longitude": 20.304244,
-      "latitude": 44.679815
+      "label": "Rucka 1",
+      "longitude": 20.3024140390074,
+      "latitude": 44.6755469690061
     },
     {
       "id": "_11",
-      "label": "Руцка 1",
-      "longitude": 20.305873,
-      "latitude": 44.664491
+      "label": "Rucka 2",
+      "longitude": 20.3046500159533,
+      "latitude": 44.6714458746415
     },
     {
       "id": "_12",
-      "label": "Руцка 2",
-      "longitude": 20.308229,
-      "latitude": 44.66222
+      "label": "Rucka 3",
+      "longitude": 20.3060549003861,
+      "latitude": 44.664241990688
     },
     {
       "id": "_13",
-      "label": "Руцка 3",
-      "longitude": 20.311093,
-      "latitude": 44.66019
+      "label": "Rucka 4",
+      "longitude": 20.3098542961162,
+      "latitude": 44.6609512193089
     },
     {
       "id": "_14",
-      "label": "Руцка 4",
-      "longitude": 20.313363,
-      "latitude": 44.658379
-    },
-    {
-      "id": "_15",
-      "label": "Руцка (Окретница)",
-      "longitude": 20.315086,
-      "latitude": 44.656009
+      "label": "Rucka (okretnica)",
+      "longitude": 20.3148906528659,
+      "latitude": 44.656011762476
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Руцка (Окретница)",
-      "longitude": 20.315086,
-      "latitude": 44.656009
+      "label": "Rucka (okretnica)",
+      "longitude": 20.3148906528659,
+      "latitude": 44.656011762476
     },
     {
       "id": "_2",
-      "label": "Руцка 4",
-      "longitude": 20.313259,
-      "latitude": 44.658624
+      "label": "Rucka 4",
+      "longitude": 20.3098449223652,
+      "latitude": 44.6611041587668
     },
     {
       "id": "_3",
-      "label": "Руцка 3",
-      "longitude": 20.310883,
-      "latitude": 44.660401
+      "label": "Rucka 3",
+      "longitude": 20.3060548978213,
+      "latitude": 44.6644543848514
     },
     {
       "id": "_4",
-      "label": "Руцка 2",
-      "longitude": 20.308579,
-      "latitude": 44.662074
+      "label": "Rucka 2",
+      "longitude": 20.3047749069066,
+      "latitude": 44.6715492292781
     },
     {
       "id": "_5",
-      "label": "Руцка 1",
-      "longitude": 20.305755,
-      "latitude": 44.664727
+      "label": "Rucka 1",
+      "longitude": 20.3024089777482,
+      "latitude": 44.6757593319646
     },
     {
       "id": "_6",
-      "label": "Умка /Центар/",
-      "longitude": 20.305341,
-      "latitude": 44.681084
+      "label": "Umka (centar)",
+      "longitude": 20.3051606406909,
+      "latitude": 44.6808878931564
     },
     {
       "id": "_7",
-      "label": "Умка /Зеленгора/",
-      "longitude": 20.312023,
-      "latitude": 44.689724
+      "label": "Zelengora",
+      "longitude": 20.3120479690909,
+      "latitude": 44.6898787585724
     },
     {
       "id": "_8",
-      "label": "Пећани",
-      "longitude": 20.3177,
-      "latitude": 44.697674
+      "label": "Pećani",
+      "longitude": 20.3175732163403,
+      "latitude": 44.6976983327742
     },
     {
       "id": "_9",
-      "label": "Остружница 2",
-      "longitude": 20.314727,
-      "latitude": 44.722489
+      "label": "Ostružnica 2",
+      "longitude": 20.3146318941812,
+      "latitude": 44.7225001080304
     },
     {
       "id": "_10",
-      "label": "Остружница 1",
-      "longitude": 20.320936,
-      "latitude": 44.733296
+      "label": "Ostružnica 1",
+      "longitude": 20.3209580667347,
+      "latitude": 44.7333841411753
     },
     {
       "id": "_11",
-      "label": "Железник Р",
-      "longitude": 20.361192,
-      "latitude": 44.742738
+      "label": "Železnik R",
+      "longitude": 20.3612220070836,
+      "latitude": 44.7427627874396
     },
     {
       "id": "_12",
-      "label": "Чукарица",
-      "longitude": 20.414985,
-      "latitude": 44.786371
+      "label": "Čukarica",
+      "longitude": 20.4151354377319,
+      "latitude": 44.786451881637
     },
     {
       "id": "_13",
-      "label": "Петља Радничка",
-      "longitude": 20.426938,
-      "latitude": 44.792201
+      "label": "Sajam",
+      "longitude": 20.44208197302,
+      "latitude": 44.7963182238307
     },
     {
       "id": "_14",
-      "label": "Сајам",
-      "longitude": 20.441902,
-      "latitude": 44.796305
+      "label": "Palata pravde 1",
+      "longitude": 20.451327814778,
+      "latitude": 44.8034058554644
     },
     {
       "id": "_15",
-      "label": "Дурмиторска",
-      "longitude": 20.451504,
-      "latitude": 44.80211
+      "label": "Kula Beograd",
+      "longitude": 20.4486263639051,
+      "latitude": 44.8032813106928
     },
     {
       "id": "_16",
-      "label": "Палата Правде 1",
-      "longitude": 20.451548,
-      "latitude": 44.803288
-    },
-    {
-      "id": "_17",
-      "label": "Кула Београд",
-      "longitude": 20.448054,
-      "latitude": 44.80299
-    },
-    {
-      "id": "_18",
-      "label": "ТЦ Галериja",
-      "longitude": 20.445457,
-      "latitude": 44.801256
+      "label": "TC Galerija",
+      "longitude": 20.4456286208991,
+      "latitude": 44.8013535627872
     }
   ]
 }

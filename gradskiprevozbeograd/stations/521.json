@@ -2,185 +2,191 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Видиковац",
-      "longitude": 20.420455,
-      "latitude": 44.731819
+      "label": "Vidikovac",
+      "longitude": 20.4204195933122,
+      "latitude": 44.732211073104
     },
     {
       "id": "_2",
-      "label": "Насеље Петлово Брдо",
-      "longitude": 20.417752,
-      "latitude": 44.723573
+      "label": "Naselje Petlovo brdo",
+      "longitude": 20.4175269197565,
+      "latitude": 44.7237165824988
     },
     {
       "id": "_3",
-      "label": "Насеље Виногради",
-      "longitude": 20.399927,
-      "latitude": 44.722573
+      "label": "Kružni put",
+      "longitude": 20.4141428888961,
+      "latitude": 44.7191807633773
     },
     {
       "id": "_4",
-      "label": "Ново Насеље",
-      "longitude": 20.391376,
-      "latitude": 44.725927
+      "label": "Naselje Vinogradi",
+      "longitude": 20.3997160935078,
+      "latitude": 44.7226837470572
     },
     {
       "id": "_5",
-      "label": "Авалска",
-      "longitude": 20.382653,
-      "latitude": 44.728747
+      "label": "Novo naselje",
+      "longitude": 20.3914090101616,
+      "latitude": 44.725915842423
     },
     {
       "id": "_6",
-      "label": "Железник Центар",
-      "longitude": 20.375802,
-      "latitude": 44.72865
+      "label": "Avalska",
+      "longitude": 20.3824840427314,
+      "latitude": 44.7287534210231
     },
     {
       "id": "_7",
-      "label": "Пијаца",
-      "longitude": 20.37347,
-      "latitude": 44.72712
+      "label": "Železnik (centar)",
+      "longitude": 20.3755819153061,
+      "latitude": 44.7286566474289
     },
     {
       "id": "_8",
-      "label": "Свете Милутиновића",
-      "longitude": 20.369802,
-      "latitude": 44.726212
+      "label": "Pijaca",
+      "longitude": 20.3732785221698,
+      "latitude": 44.7270745414992
     },
     {
       "id": "_9",
-      "label": "Нићифоровићева",
-      "longitude": 20.368821,
-      "latitude": 44.723328
+      "label": "Svete Milutinovića",
+      "longitude": 20.369762884564,
+      "latitude": 44.7262363037897
     },
     {
       "id": "_10",
-      "label": "Железничка Рампа",
-      "longitude": 20.367413,
-      "latitude": 44.720355
+      "label": "Nićiforovićeva",
+      "longitude": 20.3687852793162,
+      "latitude": 44.723252038817
     },
     {
       "id": "_11",
-      "label": "Стевана Филиповића",
-      "longitude": 20.368145,
-      "latitude": 44.716726
+      "label": "Železnička rampa",
+      "longitude": 20.3674155515417,
+      "latitude": 44.7203519981372
     },
     {
       "id": "_12",
-      "label": "Жикице Јовановића",
-      "longitude": 20.368152,
-      "latitude": 44.714751
+      "label": "Stevana Filipovića",
+      "longitude": 20.3681417208355,
+      "latitude": 44.7167093356986
     },
     {
       "id": "_13",
-      "label": "Ђуре Јакшића",
-      "longitude": 20.37369,
-      "latitude": 44.714675
+      "label": "Žikice Jovanovića",
+      "longitude": 20.3681386982941,
+      "latitude": 44.7146591931956
     },
     {
       "id": "_14",
-      "label": "Градине",
-      "longitude": 20.376121,
-      "latitude": 44.713821
+      "label": "Đure Jakšića",
+      "longitude": 20.3740917549206,
+      "latitude": 44.7145928459882
     },
     {
       "id": "_15",
-      "label": "Железник /Тараиш/",
-      "longitude": 20.378597,
-      "latitude": 44.71305
+      "label": "Gradine",
+      "longitude": 20.3761670993109,
+      "latitude": 44.7138517821651
+    },
+    {
+      "id": "_16",
+      "label": "Železnik (Tariš)",
+      "longitude": 20.3788693595418,
+      "latitude": 44.7132580728187
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Железник /Тараиш/",
-      "longitude": 20.378618,
-      "latitude": 44.713121
+      "label": "Železnik (Tariš)",
+      "longitude": 20.3788155165039,
+      "latitude": 44.7130993868199
     },
     {
       "id": "_2",
-      "label": "Градине",
-      "longitude": 20.376096,
-      "latitude": 44.713921
+      "label": "Gradine",
+      "longitude": 20.3755609583704,
+      "latitude": 44.7141166734061
     },
     {
       "id": "_3",
-      "label": "Ђуре Јакшића",
-      "longitude": 20.373412,
-      "latitude": 44.71482
+      "label": "Đure Jakšića",
+      "longitude": 20.3735741752104,
+      "latitude": 44.7148366107921
     },
     {
       "id": "_4",
-      "label": "Жикице Јовановића",
-      "longitude": 20.368584,
-      "latitude": 44.714361
+      "label": "Žikice Jovanovića",
+      "longitude": 20.3688231077357,
+      "latitude": 44.714396572174
     },
     {
       "id": "_5",
-      "label": "Стевана Филиповића",
-      "longitude": 20.368213,
-      "latitude": 44.717523
+      "label": "Stevana Filipovića",
+      "longitude": 20.3682337964369,
+      "latitude": 44.7175306131515
     },
     {
       "id": "_6",
-      "label": "Железничка Рампа",
-      "longitude": 20.367376,
-      "latitude": 44.720658
+      "label": "Železnička rampa",
+      "longitude": 20.3673719962228,
+      "latitude": 44.72064334705
     },
     {
       "id": "_7",
-      "label": "Нићифоровићева",
-      "longitude": 20.369037,
-      "latitude": 44.723354
+      "label": "Nićiforovićeva",
+      "longitude": 20.3687731925329,
+      "latitude": 44.7229693828654
     },
     {
       "id": "_8",
-      "label": "Свете Милутиновића",
-      "longitude": 20.369493,
-      "latitude": 44.726799
+      "label": "Svete Milutinovića",
+      "longitude": 20.3695014665523,
+      "latitude": 44.7268288440577
     },
     {
       "id": "_9",
-      "label": "Пијаца",
-      "longitude": 20.373901,
-      "latitude": 44.727133
+      "label": "Pijaca",
+      "longitude": 20.3741147738254,
+      "latitude": 44.7272609020472
     },
     {
       "id": "_10",
-      "label": "Железник Центар",
-      "longitude": 20.376315,
-      "latitude": 44.728545
+      "label": "Železnik (centar)",
+      "longitude": 20.3763203456209,
+      "latitude": 44.7285490703343
     },
     {
       "id": "_11",
-      "label": "Авалска",
-      "longitude": 20.383335,
-      "latitude": 44.728643
+      "label": "Avalska",
+      "longitude": 20.3833637165451,
+      "latitude": 44.7286591583947
     },
     {
       "id": "_12",
-      "label": "Ново Насеље",
-      "longitude": 20.390916,
-      "latitude": 44.726055
+      "label": "Novo naselje",
+      "longitude": 20.3919429272301,
+      "latitude": 44.7255604881017
     },
     {
       "id": "_13",
-      "label": "Насеље Виногради",
-      "longitude": 20.399543,
-      "latitude": 44.722629
+      "label": "Naselje Vinogradi",
+      "longitude": 20.3993827811111,
+      "latitude": 44.722689201746
     },
     {
       "id": "_14",
-      "label": "Насеље Петлово Брдо",
-      "longitude": 20.417094,
-      "latitude": 44.721805
+      "label": "Naselje Petlovo brdo",
+      "longitude": 20.4181443852907,
+      "latitude": 44.7239871957598
     },
     {
       "id": "_15",
-      "label": "Видиковац",
-      "longitude": 20.420455,
-      "latitude": 44.731819
+      "label": "Vidikovac",
+      "longitude": 20.4204195933122,
+      "latitude": 44.732211073104
     }
   ]
 }

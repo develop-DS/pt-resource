@@ -2,35 +2,161 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Падинска Скела 1",
-      "longitude": 20.424452,
-      "latitude": 44.945471
+      "label": "Padinska skela",
+      "longitude": 20.424549820332,
+      "latitude": 44.9449400487075
     },
     {
       "id": "_2",
-      "label": "Широка Греда",
-      "longitude": 20.387712,
-      "latitude": 44.957094
+      "label": "Ratomira Stojadinovića",
+      "longitude": 20.4283695427275,
+      "latitude": 44.941821984016
+    },
+    {
+      "id": "_3",
+      "label": "Marije Ilić Agapove",
+      "longitude": 20.4323147356985,
+      "latitude": 44.9372375204365
+    },
+    {
+      "id": "_4",
+      "label": "Naselje Tovilište",
+      "longitude": 20.4354499925363,
+      "latitude": 44.9353541337153
+    },
+    {
+      "id": "_5",
+      "label": "KP dom",
+      "longitude": 20.4281132819616,
+      "latitude": 44.9541587632969
+    },
+    {
+      "id": "_6",
+      "label": "Sefkereški kanal",
+      "longitude": 20.4185197456246,
+      "latitude": 44.9719885193896
+    },
+    {
+      "id": "_7",
+      "label": "Put za Vrbovski",
+      "longitude": 20.4122699298122,
+      "latitude": 44.9926405608816
+    },
+    {
+      "id": "_8",
+      "label": "Besni fok",
+      "longitude": 20.407082780426,
+      "latitude": 44.99461889465
+    },
+    {
+      "id": "_9",
+      "label": "Ambulanta",
+      "longitude": 20.396733968342,
+      "latitude": 44.9938485883955
+    },
+    {
+      "id": "_10",
+      "label": "Vodovodna stanica",
+      "longitude": 20.3859216628911,
+      "latitude": 44.9877923061433
+    },
+    {
+      "id": "_11",
+      "label": "Vrbovski (ulaz)",
+      "longitude": 20.3591738370094,
+      "latitude": 44.9800415735639
+    },
+    {
+      "id": "_12",
+      "label": "Vrbovski",
+      "longitude": 20.3562439345212,
+      "latitude": 44.9780741204103
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Широка Греда",
-      "longitude": 20.387712,
-      "latitude": 44.957094
+      "label": "Vrbovski",
+      "longitude": 20.3562439345212,
+      "latitude": 44.9780741204103
     },
     {
       "id": "_2",
-      "label": "Падинска Скела",
-      "longitude": 20.424607,
-      "latitude": 44.945009
+      "label": "Vrbovski (ulaz)",
+      "longitude": 20.3589641273413,
+      "latitude": 44.9797434256564
     },
     {
       "id": "_3",
-      "label": "Падинска Скела 1",
-      "longitude": 20.424452,
-      "latitude": 44.945471
+      "label": "Vodovodna stanica",
+      "longitude": 20.3861702615558,
+      "latitude": 44.9877882375154
+    },
+    {
+      "id": "_4",
+      "label": "Ambulanta",
+      "longitude": 20.3971680134748,
+      "latitude": 44.9938202732727
+    },
+    {
+      "id": "_5",
+      "label": "Besni fok",
+      "longitude": 20.4074237723597,
+      "latitude": 44.9945126660204
+    },
+    {
+      "id": "_6",
+      "label": "Put za Vrbovski",
+      "longitude": 20.412252698524,
+      "latitude": 44.9918413398444
+    },
+    {
+      "id": "_7",
+      "label": "Sefkereški kanal",
+      "longitude": 20.417972949843,
+      "latitude": 44.9729072718031
+    },
+    {
+      "id": "_8",
+      "label": "KP dom",
+      "longitude": 20.4273102979147,
+      "latitude": 44.9546155215837
+    },
+    {
+      "id": "_9",
+      "label": "Naselje Tovilište",
+      "longitude": 20.4360516721038,
+      "latitude": 44.9352383018753
+    },
+    {
+      "id": "_10",
+      "label": "Marije Ilić Agapove",
+      "longitude": 20.4320657912273,
+      "latitude": 44.9378158449887
+    },
+    {
+      "id": "_11",
+      "label": "Ratomira Stojadinovića",
+      "longitude": 20.4287176070256,
+      "latitude": 44.9417337247083
+    },
+    {
+      "id": "_12",
+      "label": "Padinska skela 1",
+      "longitude": 20.4244991011304,
+      "latitude": 44.945452755285
+    },
+    {
+      "id": "_13",
+      "label": "Široka greda",
+      "longitude": 20.3872641732088,
+      "latitude": 44.9573477460187
+    },
+    {
+      "id": "_14",
+      "label": "Padinska skela",
+      "longitude": 20.4251665231332,
+      "latitude": 44.9448549474565
     }
   ]
 }

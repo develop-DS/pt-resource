@@ -1,0 +1,552 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Trg republike",
+      "longitude": 20.4621728619757,
+      "latitude": 44.8166217119896
+    },
+    {
+      "id": "_2",
+      "label": "Pionirski park",
+      "longitude": 20.4651200189327,
+      "latitude": 44.8109999868147
+    },
+    {
+      "id": "_3",
+      "label": "Admirala Geprata",
+      "longitude": 20.4614722381804,
+      "latitude": 44.806810743113
+    },
+    {
+      "id": "_4",
+      "label": "Miloša Pocerca",
+      "longitude": 20.4560783569759,
+      "latitude": 44.8023161310522
+    },
+    {
+      "id": "_5",
+      "label": "Mostar",
+      "longitude": 20.4492660247473,
+      "latitude": 44.7987396141814
+    },
+    {
+      "id": "_6",
+      "label": "Sajam",
+      "longitude": 20.4415906546322,
+      "latitude": 44.7964130286058
+    },
+    {
+      "id": "_7",
+      "label": "Ruska",
+      "longitude": 20.4359385437038,
+      "latitude": 44.795085842923
+    },
+    {
+      "id": "_8",
+      "label": "Petlja Radnička",
+      "longitude": 20.4267571122724,
+      "latitude": 44.7924097733453
+    },
+    {
+      "id": "_9",
+      "label": "Čukarica",
+      "longitude": 20.4145017152671,
+      "latitude": 44.7863856515716
+    },
+    {
+      "id": "_10",
+      "label": "Svetolika Lazarevića Laze",
+      "longitude": 20.4124687132794,
+      "latitude": 44.7837257834688
+    },
+    {
+      "id": "_11",
+      "label": "Obalskih radnika",
+      "longitude": 20.4093990887355,
+      "latitude": 44.7806321651596
+    },
+    {
+      "id": "_12",
+      "label": "MZ Čukarička padina",
+      "longitude": 20.4078598830849,
+      "latitude": 44.7766734149018
+    },
+    {
+      "id": "_13",
+      "label": "Inos",
+      "longitude": 20.4074435283103,
+      "latitude": 44.7691692100635
+    },
+    {
+      "id": "_14",
+      "label": "Kontaktor",
+      "longitude": 20.4065681983337,
+      "latitude": 44.7670461802203
+    },
+    {
+      "id": "_15",
+      "label": "Ateks",
+      "longitude": 20.404568984732,
+      "latitude": 44.762419024777
+    },
+    {
+      "id": "_16",
+      "label": "Bele vode",
+      "longitude": 20.4036720870075,
+      "latitude": 44.7550220871687
+    },
+    {
+      "id": "_17",
+      "label": "Železnički tunel",
+      "longitude": 20.4000710949176,
+      "latitude": 44.7492669509591
+    },
+    {
+      "id": "_18",
+      "label": "Rupčine",
+      "longitude": 20.3962647255957,
+      "latitude": 44.7463382980396
+    },
+    {
+      "id": "_19",
+      "label": "Savska terasa",
+      "longitude": 20.3921323401039,
+      "latitude": 44.7434671867988
+    },
+    {
+      "id": "_20",
+      "label": "Put za ŽTP",
+      "longitude": 20.3893737315543,
+      "latitude": 44.7408822363754
+    },
+    {
+      "id": "_21",
+      "label": "Ranžirna stanica",
+      "longitude": 20.3857120650103,
+      "latitude": 44.7379845967094
+    },
+    {
+      "id": "_22",
+      "label": "Železnik (ulaz)",
+      "longitude": 20.3803074157722,
+      "latitude": 44.7354140191758
+    },
+    {
+      "id": "_23",
+      "label": "Zlatanovići",
+      "longitude": 20.3765578976882,
+      "latitude": 44.7339573520046
+    },
+    {
+      "id": "_24",
+      "label": "Novi Železnik",
+      "longitude": 20.3803293064228,
+      "latitude": 44.7319312742437
+    },
+    {
+      "id": "_25",
+      "label": "Radnih akcija",
+      "longitude": 20.3746824980462,
+      "latitude": 44.729413116956
+    },
+    {
+      "id": "_26",
+      "label": "Pijaca",
+      "longitude": 20.3732785221698,
+      "latitude": 44.7270745414992
+    },
+    {
+      "id": "_27",
+      "label": "Svete Milutinovića",
+      "longitude": 20.369762884564,
+      "latitude": 44.7262363037897
+    },
+    {
+      "id": "_28",
+      "label": "Nićiforovićeva",
+      "longitude": 20.3687852793162,
+      "latitude": 44.723252038817
+    },
+    {
+      "id": "_29",
+      "label": "Železnička rampa",
+      "longitude": 20.3674155515417,
+      "latitude": 44.7203519981372
+    },
+    {
+      "id": "_30",
+      "label": "Stevana Filipovića",
+      "longitude": 20.3681417208355,
+      "latitude": 44.7167093356986
+    },
+    {
+      "id": "_31",
+      "label": "Žikice Jovanovića",
+      "longitude": 20.3681386982941,
+      "latitude": 44.7146591931956
+    },
+    {
+      "id": "_32",
+      "label": "Sare Bernar",
+      "longitude": 20.3782640636061,
+      "latitude": 44.6966359624108
+    },
+    {
+      "id": "_33",
+      "label": "Gorica",
+      "longitude": 20.3805063699559,
+      "latitude": 44.6922256413411
+    },
+    {
+      "id": "_34",
+      "label": "Sremčica (ulaz)",
+      "longitude": 20.3814500516285,
+      "latitude": 44.6877074786876
+    },
+    {
+      "id": "_35",
+      "label": "Šumske ekonomije",
+      "longitude": 20.3835030316087,
+      "latitude": 44.6839674499762
+    },
+    {
+      "id": "_36",
+      "label": "Obrenovačka",
+      "longitude": 20.3850362693173,
+      "latitude": 44.6821217387664
+    },
+    {
+      "id": "_37",
+      "label": "Sremčica (centar)",
+      "longitude": 20.3909236740775,
+      "latitude": 44.6766615220655
+    },
+    {
+      "id": "_38",
+      "label": "Jeličićev venac",
+      "longitude": 20.394118285206,
+      "latitude": 44.6736563316899
+    },
+    {
+      "id": "_39",
+      "label": "Tomaška",
+      "longitude": 20.3963580758952,
+      "latitude": 44.6705056327438
+    },
+    {
+      "id": "_40",
+      "label": "Tesarska",
+      "longitude": 20.3994542340361,
+      "latitude": 44.6654856270972
+    },
+    {
+      "id": "_41",
+      "label": "Mirkovićeva",
+      "longitude": 20.3982263279668,
+      "latitude": 44.662998858303
+    },
+    {
+      "id": "_42",
+      "label": "Vašarska",
+      "longitude": 20.3975717495712,
+      "latitude": 44.6597069095947
+    },
+    {
+      "id": "_43",
+      "label": "Sremčica (izlaz)",
+      "longitude": 20.3993898118444,
+      "latitude": 44.6553155593345
+    },
+    {
+      "id": "_44",
+      "label": "Sremčica",
+      "longitude": 20.4038242662481,
+      "latitude": 44.6504986174882
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Sremčica",
+      "longitude": 20.4039412301242,
+      "latitude": 44.650650421652
+    },
+    {
+      "id": "_2",
+      "label": "Sremčica (izlaz)",
+      "longitude": 20.3990146225862,
+      "latitude": 44.6559975763644
+    },
+    {
+      "id": "_3",
+      "label": "Vašarska",
+      "longitude": 20.3976903799216,
+      "latitude": 44.660431113522
+    },
+    {
+      "id": "_4",
+      "label": "Mirkovićeva",
+      "longitude": 20.3986616252028,
+      "latitude": 44.6633431322397
+    },
+    {
+      "id": "_5",
+      "label": "Tesarska",
+      "longitude": 20.3995768212108,
+      "latitude": 44.6658282595486
+    },
+    {
+      "id": "_6",
+      "label": "Tomaška",
+      "longitude": 20.3962509601812,
+      "latitude": 44.6708632587685
+    },
+    {
+      "id": "_7",
+      "label": "Jeličićev venac",
+      "longitude": 20.3940620462969,
+      "latitude": 44.6739710254803
+    },
+    {
+      "id": "_8",
+      "label": "Sremčica (centar)",
+      "longitude": 20.3906728221413,
+      "latitude": 44.6770093792689
+    },
+    {
+      "id": "_9",
+      "label": "Obrenovačka",
+      "longitude": 20.3860459794723,
+      "latitude": 44.6811101796167
+    },
+    {
+      "id": "_10",
+      "label": "Šumske ekonomije",
+      "longitude": 20.3827480022077,
+      "latitude": 44.6854609424165
+    },
+    {
+      "id": "_11",
+      "label": "Sremčica (ulaz)",
+      "longitude": 20.3815543741844,
+      "latitude": 44.6885774140809
+    },
+    {
+      "id": "_12",
+      "label": "Gorica",
+      "longitude": 20.3803438152524,
+      "latitude": 44.6932759292628
+    },
+    {
+      "id": "_13",
+      "label": "Sare Bernar",
+      "longitude": 20.3782571773501,
+      "latitude": 44.6972821038149
+    },
+    {
+      "id": "_14",
+      "label": "Žikice Jovanovića",
+      "longitude": 20.3682200016937,
+      "latitude": 44.7141448596952
+    },
+    {
+      "id": "_15",
+      "label": "Stevana Filipovića",
+      "longitude": 20.3682337964369,
+      "latitude": 44.7175306131515
+    },
+    {
+      "id": "_16",
+      "label": "Železnička rampa",
+      "longitude": 20.3673719962228,
+      "latitude": 44.72064334705
+    },
+    {
+      "id": "_17",
+      "label": "Nićiforovićeva",
+      "longitude": 20.3687731925329,
+      "latitude": 44.7229693828654
+    },
+    {
+      "id": "_18",
+      "label": "Svete Milutinovića",
+      "longitude": 20.3695014665523,
+      "latitude": 44.7268288440577
+    },
+    {
+      "id": "_19",
+      "label": "Pijaca",
+      "longitude": 20.3741147738254,
+      "latitude": 44.7272609020472
+    },
+    {
+      "id": "_20",
+      "label": "Radnih akcija",
+      "longitude": 20.3747926138117,
+      "latitude": 44.7309166592682
+    },
+    {
+      "id": "_21",
+      "label": "Novi Železnik",
+      "longitude": 20.3803293064228,
+      "latitude": 44.7319312742437
+    },
+    {
+      "id": "_22",
+      "label": "Zlatanovići",
+      "longitude": 20.3767124625287,
+      "latitude": 44.7339077942203
+    },
+    {
+      "id": "_23",
+      "label": "Železnik (ulaz)",
+      "longitude": 20.381086211494,
+      "latitude": 44.7355550196931
+    },
+    {
+      "id": "_24",
+      "label": "Ranžirna stanica",
+      "longitude": 20.385285157052,
+      "latitude": 44.7375179276797
+    },
+    {
+      "id": "_25",
+      "label": "Put za ŽTP",
+      "longitude": 20.3908183025308,
+      "latitude": 44.7418474801032
+    },
+    {
+      "id": "_26",
+      "label": "Savska terasa",
+      "longitude": 20.3933367126285,
+      "latitude": 44.7442259332722
+    },
+    {
+      "id": "_27",
+      "label": "Rupčine",
+      "longitude": 20.3971497176097,
+      "latitude": 44.7467299373675
+    },
+    {
+      "id": "_28",
+      "label": "Železnički tunel",
+      "longitude": 20.4005808089505,
+      "latitude": 44.7495612038497
+    },
+    {
+      "id": "_29",
+      "label": "Bele vode",
+      "longitude": 20.40378260312,
+      "latitude": 44.7553304485051
+    },
+    {
+      "id": "_30",
+      "label": "Ateks",
+      "longitude": 20.4052759705345,
+      "latitude": 44.763695236505
+    },
+    {
+      "id": "_31",
+      "label": "Kontaktor",
+      "longitude": 20.406478120376,
+      "latitude": 44.7664643402674
+    },
+    {
+      "id": "_32",
+      "label": "Inos",
+      "longitude": 20.4078541849221,
+      "latitude": 44.7697833031114
+    },
+    {
+      "id": "_33",
+      "label": "MZ Čukarička padina",
+      "longitude": 20.4082502530515,
+      "latitude": 44.7773000004035
+    },
+    {
+      "id": "_34",
+      "label": "Obalskih radnika",
+      "longitude": 20.409834496281,
+      "latitude": 44.7813075744098
+    },
+    {
+      "id": "_35",
+      "label": "Svetolika Lazarevića Laze",
+      "longitude": 20.4126930555031,
+      "latitude": 44.7842849056458
+    },
+    {
+      "id": "_36",
+      "label": "Čukarica",
+      "longitude": 20.4151354377319,
+      "latitude": 44.786451881637
+    },
+    {
+      "id": "_37",
+      "label": "Ada Ciganlija",
+      "longitude": 20.4199404372204,
+      "latitude": 44.7884471855672
+    },
+    {
+      "id": "_38",
+      "label": "Petlja Radnička",
+      "longitude": 20.4269260152845,
+      "latitude": 44.7922118123979
+    },
+    {
+      "id": "_39",
+      "label": "Gospodarska mehana",
+      "longitude": 20.4336164890262,
+      "latitude": 44.7944624326348
+    },
+    {
+      "id": "_40",
+      "label": "Ruska",
+      "longitude": 20.4381790000629,
+      "latitude": 44.7952642285528
+    },
+    {
+      "id": "_41",
+      "label": "Sajam",
+      "longitude": 20.44208197302,
+      "latitude": 44.7963182238307
+    },
+    {
+      "id": "_42",
+      "label": "Mostar",
+      "longitude": 20.4488893135074,
+      "latitude": 44.7982104318979
+    },
+    {
+      "id": "_43",
+      "label": "Višegradska",
+      "longitude": 20.4555782103808,
+      "latitude": 44.8017305887954
+    },
+    {
+      "id": "_44",
+      "label": "Birčaninova",
+      "longitude": 20.4595995767607,
+      "latitude": 44.8050884275429
+    },
+    {
+      "id": "_45",
+      "label": "London",
+      "longitude": 20.462903918343,
+      "latitude": 44.8078362004198
+    },
+    {
+      "id": "_46",
+      "label": "Pionirski park",
+      "longitude": 20.4641117754345,
+      "latitude": 44.8120284281989
+    },
+    {
+      "id": "_47",
+      "label": "Trg republike",
+      "longitude": 20.4610306188357,
+      "latitude": 44.8162671711599
+    }
+  ]
+}

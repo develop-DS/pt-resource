@@ -1,0 +1,204 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Studentski trg",
+      "longitude": 20.4577794214602,
+      "latitude": 44.8186241261782
+    },
+    {
+      "id": "_2",
+      "label": "Trg republike",
+      "longitude": 20.4597077308709,
+      "latitude": 44.8171213036315
+    },
+    {
+      "id": "_3",
+      "label": "Trg republike",
+      "longitude": 20.4604999027432,
+      "latitude": 44.8154151225036
+    },
+    {
+      "id": "_4",
+      "label": "Terazije",
+      "longitude": 20.4610174422408,
+      "latitude": 44.8127788949127
+    },
+    {
+      "id": "_5",
+      "label": "RK Beograđanka",
+      "longitude": 20.4640015397818,
+      "latitude": 44.8072545633009
+    },
+    {
+      "id": "_6",
+      "label": "Trg Slavija",
+      "longitude": 20.4662567717776,
+      "latitude": 44.8031288888232
+    },
+    {
+      "id": "_7",
+      "label": "Karađorđev park",
+      "longitude": 20.4651954172747,
+      "latitude": 44.7970276562542
+    },
+    {
+      "id": "_8",
+      "label": "Južni bulevar",
+      "longitude": 20.4685408667047,
+      "latitude": 44.7913806804655
+    },
+    {
+      "id": "_9",
+      "label": "Stratimirovićeva",
+      "longitude": 20.4755587775862,
+      "latitude": 44.7878905393033
+    },
+    {
+      "id": "_10",
+      "label": "Dušanovac (pošta)",
+      "longitude": 20.4798815168838,
+      "latitude": 44.7863982851301
+    },
+    {
+      "id": "_11",
+      "label": "Grčića Milenka",
+      "longitude": 20.486696956045,
+      "latitude": 44.7842276754218
+    },
+    {
+      "id": "_12",
+      "label": "Dom zdravlja Voždovac",
+      "longitude": 20.4918068881353,
+      "latitude": 44.7839804274133
+    },
+    {
+      "id": "_13",
+      "label": "Hotel Srbija",
+      "longitude": 20.4961716228287,
+      "latitude": 44.7839780703331
+    },
+    {
+      "id": "_14",
+      "label": "Šumice",
+      "longitude": 20.5022492654904,
+      "latitude": 44.7831622259354
+    },
+    {
+      "id": "_15",
+      "label": "Petrinjska",
+      "longitude": 20.5071650444596,
+      "latitude": 44.7825444661776
+    },
+    {
+      "id": "_16",
+      "label": "Konjarnik",
+      "longitude": 20.5113646280986,
+      "latitude": 44.7820314434885
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Konjarnik",
+      "longitude": 20.5113223809463,
+      "latitude": 44.7822472533972
+    },
+    {
+      "id": "_2",
+      "label": "Petrinjska",
+      "longitude": 20.5055970497212,
+      "latitude": 44.7829697032573
+    },
+    {
+      "id": "_3",
+      "label": "Šumice",
+      "longitude": 20.4998872053095,
+      "latitude": 44.7836379360318
+    },
+    {
+      "id": "_4",
+      "label": "Hotel Srbija",
+      "longitude": 20.4937971026732,
+      "latitude": 44.7841332150496
+    },
+    {
+      "id": "_5",
+      "label": "Grčića Milenka",
+      "longitude": 20.4864835556317,
+      "latitude": 44.7843527147831
+    },
+    {
+      "id": "_6",
+      "label": "Dušanovac (pošta)",
+      "longitude": 20.4814776549723,
+      "latitude": 44.7859663289161
+    },
+    {
+      "id": "_7",
+      "label": "GO Voždovac",
+      "longitude": 20.4782796333072,
+      "latitude": 44.7871865756287
+    },
+    {
+      "id": "_8",
+      "label": "Stratimirovićeva",
+      "longitude": 20.4720918286331,
+      "latitude": 44.789474765186
+    },
+    {
+      "id": "_9",
+      "label": "Južni bulevar",
+      "longitude": 20.4698260904744,
+      "latitude": 44.7906972594037
+    },
+    {
+      "id": "_10",
+      "label": "Franše D'Eperea",
+      "longitude": 20.4666800433672,
+      "latitude": 44.7928101762883
+    },
+    {
+      "id": "_11",
+      "label": "Karađorđev park",
+      "longitude": 20.4657590648182,
+      "latitude": 44.7982550256383
+    },
+    {
+      "id": "_12",
+      "label": "Trg Slavija",
+      "longitude": 20.4661770642646,
+      "latitude": 44.8035496964553
+    },
+    {
+      "id": "_13",
+      "label": "RK Beograđanka",
+      "longitude": 20.4640038424677,
+      "latitude": 44.8075533585267
+    },
+    {
+      "id": "_14",
+      "label": "Terazije",
+      "longitude": 20.4610734378326,
+      "latitude": 44.8132849311366
+    },
+    {
+      "id": "_15",
+      "label": "Trg republike",
+      "longitude": 20.4607188559041,
+      "latitude": 44.8155277458009
+    },
+    {
+      "id": "_16",
+      "label": "Trg republike",
+      "longitude": 20.4599736765335,
+      "latitude": 44.8170757580905
+    },
+    {
+      "id": "_17",
+      "label": "Studentski trg",
+      "longitude": 20.457857285924,
+      "latitude": 44.8189520764281
+    }
+  ]
+}

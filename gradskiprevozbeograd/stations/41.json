@@ -2,245 +2,245 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Студентски трг",
-      "longitude": 20.457617,
-      "latitude": 44.81872
+      "label": "Studentski trg",
+      "longitude": 20.4586071294,
+      "latitude": 44.8179980685245
     },
     {
       "id": "_2",
-      "label": "Републике трг",
-      "longitude": 20.459804,
-      "latitude": 44.817039
+      "label": "Trg republike",
+      "longitude": 20.4621133312437,
+      "latitude": 44.8156764835046
     },
     {
       "id": "_3",
-      "label": "Македонска /Политика/",
-      "longitude": 20.465155,
-      "latitude": 44.815233
+      "label": "Politika",
+      "longitude": 20.4652170878748,
+      "latitude": 44.8152914119183
     },
     {
       "id": "_4",
-      "label": "Главна пошта",
-      "longitude": 20.467249,
-      "latitude": 44.811134
+      "label": "Glavna pošta",
+      "longitude": 20.4673236226048,
+      "latitude": 44.8111380304863
     },
     {
       "id": "_5",
-      "label": "Адмирала Гепрата",
-      "longitude": 20.461481,
-      "latitude": 44.806904
+      "label": "Admirala Geprata",
+      "longitude": 20.4614722381804,
+      "latitude": 44.806810743113
     },
     {
       "id": "_6",
-      "label": "Милоша Поцерца",
-      "longitude": 20.455948,
-      "latitude": 44.802316
+      "label": "Miloša Pocerca",
+      "longitude": 20.4560783569759,
+      "latitude": 44.8023161310522
     },
     {
       "id": "_7",
-      "label": "Ортопедски завод",
-      "longitude": 20.449905,
-      "latitude": 44.793227
+      "label": "Ortopedski zavod",
+      "longitude": 20.4498717686176,
+      "latitude": 44.7932293959097
     },
     {
       "id": "_8",
-      "label": "Музеј Историје Југославије",
-      "longitude": 20.45433,
-      "latitude": 44.789727
+      "label": "Muzej istorije Jugoslavije",
+      "longitude": 20.4542572183171,
+      "latitude": 44.7897459116437
     },
     {
       "id": "_9",
-      "label": "Стадион Партизан",
-      "longitude": 20.457395,
-      "latitude": 44.786356
+      "label": "Stadion Partizan",
+      "longitude": 20.4574207698052,
+      "latitude": 44.7863284818667
     },
     {
       "id": "_10",
-      "label": "Педагошка академија",
-      "longitude": 20.457929,
-      "latitude": 44.781761
+      "label": "Pedagoška akademija",
+      "longitude": 20.4579487668183,
+      "latitude": 44.7817411973179
     },
     {
       "id": "_11",
-      "label": "Драгише Мишовић болница",
-      "longitude": 20.458095,
-      "latitude": 44.77771
+      "label": "Bolnica Dragiša Mišović",
+      "longitude": 20.4581004763674,
+      "latitude": 44.7776615063441
     },
     {
       "id": "_12",
-      "label": "Паје Адамова",
-      "longitude": 20.46258,
-      "latitude": 44.772745
+      "label": "Paje Adamova",
+      "longitude": 20.4625884363578,
+      "latitude": 44.7727454426712
     },
     {
       "id": "_13",
-      "label": "Бањица",
-      "longitude": 20.465972,
-      "latitude": 44.769418
+      "label": "Banjica",
+      "longitude": 20.4659948316041,
+      "latitude": 44.7694170982456
     },
     {
       "id": "_14",
-      "label": "Војномедицинска академија",
-      "longitude": 20.470091,
-      "latitude": 44.765664
+      "label": "Vojnomedicinska akademija",
+      "longitude": 20.4701203403659,
+      "latitude": 44.7655951952454
     },
     {
       "id": "_15",
-      "label": "Пливалиште Бањица",
-      "longitude": 20.472412,
-      "latitude": 44.763107
+      "label": "Plivalište Banjica",
+      "longitude": 20.4724374903204,
+      "latitude": 44.763049984826
     },
     {
       "id": "_16",
-      "label": "Паунова",
-      "longitude": 20.476294,
-      "latitude": 44.759966
+      "label": "Paunova",
+      "longitude": 20.4762859888743,
+      "latitude": 44.7599408157266
     },
     {
       "id": "_17",
-      "label": "Баштованска",
-      "longitude": 20.476919,
-      "latitude": 44.756344
+      "label": "Baštovanska",
+      "longitude": 20.4769166183889,
+      "latitude": 44.7563225830384
     },
     {
       "id": "_18",
-      "label": "Крагујевачких Ђака",
-      "longitude": 20.477445,
-      "latitude": 44.754155
+      "label": "Kragujevačkih đaka",
+      "longitude": 20.47754078793,
+      "latitude": 44.7540449240459
     },
     {
       "id": "_19",
-      "label": "Бањица 2",
-      "longitude": 20.479971,
-      "latitude": 44.751885
+      "label": "Banjica 2",
+      "longitude": 20.4800463956474,
+      "latitude": 44.7518045990063
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Бањица 2",
-      "longitude": 20.479971,
-      "latitude": 44.751885
+      "label": "Banjica 2",
+      "longitude": 20.4800463956474,
+      "latitude": 44.7518045990063
     },
     {
       "id": "_2",
-      "label": "Крагујевачких Ђака",
-      "longitude": 20.477068,
-      "latitude": 44.754789
+      "label": "Kragujevačkih đaka",
+      "longitude": 20.4770363141633,
+      "latitude": 44.754807593616
     },
     {
       "id": "_3",
-      "label": "Баштованска",
-      "longitude": 20.47722,
-      "latitude": 44.756977
+      "label": "Baštovanska",
+      "longitude": 20.4772006355453,
+      "latitude": 44.7570456461003
     },
     {
       "id": "_4",
-      "label": "Паунова",
-      "longitude": 20.476387,
-      "latitude": 44.760463
+      "label": "Paunova",
+      "longitude": 20.4755839751161,
+      "latitude": 44.761098763206
     },
     {
       "id": "_5",
-      "label": "Пливалиште Бањица",
-      "longitude": 20.471852,
-      "latitude": 44.763972
+      "label": "Plivalište Banjica",
+      "longitude": 20.4718053283322,
+      "latitude": 44.7639470370081
     },
     {
       "id": "_6",
-      "label": "Војномедицинска академија",
-      "longitude": 20.469515,
-      "latitude": 44.766554
+      "label": "Vojnomedicinska akademija",
+      "longitude": 20.4694651303413,
+      "latitude": 44.766519126433
     },
     {
       "id": "_7",
-      "label": "Бањица",
-      "longitude": 20.465763,
-      "latitude": 44.769938
+      "label": "Banjica",
+      "longitude": 20.4656895425013,
+      "latitude": 44.7699196542528
     },
     {
       "id": "_8",
-      "label": "Паје Адамова",
-      "longitude": 20.462307,
-      "latitude": 44.773349
+      "label": "Paje Adamova",
+      "longitude": 20.4618812747399,
+      "latitude": 44.7738004797968
     },
     {
       "id": "_9",
-      "label": "Драгише Мишовић болница",
-      "longitude": 20.458522,
-      "latitude": 44.777634
+      "label": "Bolnica Dragiša Mišović",
+      "longitude": 20.4584663318714,
+      "latitude": 44.7777226308253
     },
     {
       "id": "_10",
-      "label": "Педагошка академија",
-      "longitude": 20.458016,
-      "latitude": 44.782698
+      "label": "Pedagoška akademija",
+      "longitude": 20.4579774380025,
+      "latitude": 44.7827330855492
     },
     {
       "id": "_11",
-      "label": "Стадион Партизан",
-      "longitude": 20.45764,
-      "latitude": 44.78595
+      "label": "Stadion Partizan",
+      "longitude": 20.4576188802743,
+      "latitude": 44.785953236666
     },
     {
       "id": "_12",
-      "label": "Музеј Историје Југославије",
-      "longitude": 20.453448,
-      "latitude": 44.790971
+      "label": "Muzej istorije Jugoslavije",
+      "longitude": 20.4534498365352,
+      "latitude": 44.7909372099593
     },
     {
       "id": "_13",
-      "label": "Ортопедски завод",
-      "longitude": 20.44875,
-      "latitude": 44.795071
+      "label": "Železnička stanica BGD centar",
+      "longitude": 20.4501800537109,
+      "latitude": 44.7933387756348
     },
     {
       "id": "_14",
-      "label": "Вишеградска",
-      "longitude": 20.455605,
-      "latitude": 44.801665
+      "label": "Ortopedski zavod",
+      "longitude": 20.4487869469579,
+      "latitude": 44.7951410939727
     },
     {
       "id": "_15",
-      "label": "Бирчанинова",
-      "longitude": 20.459485,
-      "latitude": 44.804943
+      "label": "Višegradska",
+      "longitude": 20.4555782103808,
+      "latitude": 44.8017305887954
     },
     {
       "id": "_16",
-      "label": "Лондон",
-      "longitude": 20.46289,
-      "latitude": 44.807787
+      "label": "Birčaninova",
+      "longitude": 20.4595995767607,
+      "latitude": 44.8050884275429
     },
     {
       "id": "_17",
-      "label": "Главна пошта",
-      "longitude": 20.468349,
-      "latitude": 44.811278
+      "label": "London",
+      "longitude": 20.462903918343,
+      "latitude": 44.8078362004198
     },
     {
       "id": "_18",
-      "label": "Македонска /Политика/",
-      "longitude": 20.464288,
-      "latitude": 44.815594
+      "label": "Glavna pošta",
+      "longitude": 20.4683308484124,
+      "latitude": 44.811319092304
     },
     {
       "id": "_19",
-      "label": "Републике трг",
-      "longitude": 20.46014,
-      "latitude": 44.816975
+      "label": "Politika",
+      "longitude": 20.4648436112707,
+      "latitude": 44.8154822604605
     },
     {
       "id": "_20",
-      "label": "Студентски трг",
-      "longitude": 20.457521,
-      "latitude": 44.819192
+      "label": "Trg republike",
+      "longitude": 20.4599736765335,
+      "latitude": 44.8170757580905
     },
     {
       "id": "_21",
-      "label": "Студентски трг",
-      "longitude": 20.457617,
-      "latitude": 44.81872
+      "label": "Studentski trg",
+      "longitude": 20.457857285924,
+      "latitude": 44.8189520764281
     }
   ]
 }

@@ -2,449 +2,425 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Блок 70А",
-      "longitude": 20.400289,
-      "latitude": 44.798191
+      "label": "Blok 70A",
+      "longitude": 20.4002598318885,
+      "latitude": 44.7981248813153
     },
     {
       "id": "_2",
-      "label": "Јурија Гагарина",
-      "longitude": 20.399837,
-      "latitude": 44.80173
+      "label": "Jurija Gagarina",
+      "longitude": 20.3997797625758,
+      "latitude": 44.8017743845405
     },
     {
       "id": "_3",
-      "label": "Омладинских Бригада",
-      "longitude": 20.399462,
-      "latitude": 44.805303
+      "label": "Omladinskih brigada",
+      "longitude": 20.3994128200582,
+      "latitude": 44.8054802730109
     },
     {
       "id": "_4",
-      "label": "Техничка Школа Нови Београд",
-      "longitude": 20.399493,
-      "latitude": 44.8083
+      "label": "Tehnička škola Novi Beograd",
+      "longitude": 20.3997241379568,
+      "latitude": 44.8088747264064
     },
     {
       "id": "_5",
       "label": "Airport City",
-      "longitude": 20.402169,
-      "latitude": 44.811769
+      "longitude": 20.4021643034095,
+      "latitude": 44.8118015189396
     },
     {
       "id": "_6",
-      "label": "Милутина Миланковића",
-      "longitude": 20.406143,
-      "latitude": 44.816157
+      "label": "Milutina Milankovića",
+      "longitude": 20.4061096377425,
+      "latitude": 44.8161777845772
     },
     {
       "id": "_7",
-      "label": "Зорана Ђинђића булевар",
-      "longitude": 20.409686,
-      "latitude": 44.82009
+      "label": "Bulevar Zorana Đinđića",
+      "longitude": 20.4096906040503,
+      "latitude": 44.8201344585727
     },
     {
       "id": "_8",
-      "label": "ГО Нови Београд",
-      "longitude": 20.412692,
-      "latitude": 44.823399
+      "label": "GO Novi Beograd",
+      "longitude": 20.4126291400749,
+      "latitude": 44.8233929676509
     },
     {
       "id": "_9",
-      "label": "Улаз у Париске Комуне",
-      "longitude": 20.412174,
-      "latitude": 44.824819
+      "label": "Ulaz u Pariske komune",
+      "longitude": 20.4119895565675,
+      "latitude": 44.8248656094871
     },
     {
       "id": "_10",
-      "label": "Фонтана",
-      "longitude": 20.407634,
-      "latitude": 44.826675
+      "label": "Fontana",
+      "longitude": 20.407628611625,
+      "latitude": 44.8266736684514
     },
     {
       "id": "_11",
-      "label": "Студентска",
-      "longitude": 20.402402,
-      "latitude": 44.826224
+      "label": "Studentska",
+      "longitude": 20.4023678868337,
+      "latitude": 44.8261802027231
     },
     {
       "id": "_12",
-      "label": "Студентски Град",
-      "longitude": 20.396761,
-      "latitude": 44.826849
+      "label": "Studentski grad",
+      "longitude": 20.3967364686231,
+      "latitude": 44.8268076831677
     },
     {
       "id": "_13",
-      "label": "СЦ 11. Април",
-      "longitude": 20.392948,
-      "latitude": 44.826456
+      "label": "SC 11. april",
+      "longitude": 20.3929608220216,
+      "latitude": 44.8265213750828
     },
     {
       "id": "_14",
-      "label": "Стојана Аралице",
-      "longitude": 20.388553,
-      "latitude": 44.822795
+      "label": "Stojana Aralice",
+      "longitude": 20.3885133877361,
+      "latitude": 44.8227827518357
     },
     {
       "id": "_15",
-      "label": "Николе Добровића",
-      "longitude": 20.384681,
-      "latitude": 44.818887
+      "label": "Nikole Dobrovića",
+      "longitude": 20.3846246013936,
+      "latitude": 44.8188813611224
     },
     {
       "id": "_16",
-      "label": "Др Хуга Клајна",
-      "longitude": 20.381233,
-      "latitude": 44.819916
+      "label": "Dr Huga Klajna",
+      "longitude": 20.3812427971832,
+      "latitude": 44.8198981075577
     },
     {
       "id": "_17",
-      "label": "Бежанијска Коса /Излаз/",
-      "longitude": 20.37223,
-      "latitude": 44.821437
+      "label": "Bežanijska kosa (izlaz)",
+      "longitude": 20.3778592872527,
+      "latitude": 44.8205907620209
     },
     {
       "id": "_18",
-      "label": "Ново Бежанијско Гробље",
-      "longitude": 20.366858,
-      "latitude": 44.82223
+      "label": "Novo Bežanijsko groblje",
+      "longitude": 20.366718844589,
+      "latitude": 44.8222576825034
     },
     {
       "id": "_19",
-      "label": "Кванташка Пијаца",
-      "longitude": 20.362518,
-      "latitude": 44.827212
+      "label": "Kvantaška pijaca",
+      "longitude": 20.362512843145,
+      "latitude": 44.8273496933581
     },
     {
       "id": "_20",
-      "label": "Новосадски пут",
-      "longitude": 20.363256,
-      "latitude": 44.837141
+      "label": "Novosadski put",
+      "longitude": 20.3631917467679,
+      "latitude": 44.8371683123246
     },
     {
       "id": "_21",
-      "label": "Кинески тржни центар",
-      "longitude": 20.359747,
-      "latitude": 44.837758
+      "label": "Kineski tržni centar",
+      "longitude": 20.3596254231474,
+      "latitude": 44.8378108116753
     },
     {
       "id": "_22",
-      "label": "Железничка техничка станица",
-      "longitude": 20.356699,
-      "latitude": 44.838644
+      "label": "Železnička tehnička stanica",
+      "longitude": 20.3565494127722,
+      "latitude": 44.838715137386
     },
     {
       "id": "_23",
-      "label": "Железничка техничка станица 1",
-      "longitude": 20.353093,
-      "latitude": 44.840118
+      "label": "Železnička tehnička stanica 1",
+      "longitude": 20.3529736523047,
+      "latitude": 44.8401889278528
     },
     {
       "id": "_24",
-      "label": "Црква св. Атанасија Великог",
-      "longitude": 20.348787,
-      "latitude": 44.84508
+      "label": "Crkva Sv. Atanasija velikog",
+      "longitude": 20.348787382304,
+      "latitude": 44.8451005390687
     },
     {
       "id": "_25",
-      "label": "Милана Недељковића",
-      "longitude": 20.345168,
-      "latitude": 44.84588
+      "label": "Milana Nedeljkovića",
+      "longitude": 20.3451198387158,
+      "latitude": 44.845911199544
     },
     {
       "id": "_26",
-      "label": "Косте Цукића",
-      "longitude": 20.342219,
-      "latitude": 44.847887
+      "label": "Koste Cukića",
+      "longitude": 20.342098358637,
+      "latitude": 44.8479727777975
     },
     {
       "id": "_27",
-      "label": "Косте Алковића",
-      "longitude": 20.33927,
-      "latitude": 44.849897
+      "label": "Koste Alkovića",
+      "longitude": 20.3392551406639,
+      "latitude": 44.8499147100842
     },
     {
       "id": "_28",
-      "label": "Косте Бранковића",
-      "longitude": 20.336347,
-      "latitude": 44.851877
+      "label": "Koste Brankovića",
+      "longitude": 20.336284318678,
+      "latitude": 44.8519350274769
     },
     {
       "id": "_29",
-      "label": "Михајла Бандура",
-      "longitude": 20.330324,
-      "latitude": 44.855983
+      "label": "Mihajla Bandura",
+      "longitude": 20.3305765233474,
+      "latitude": 44.8558310028613
     },
     {
       "id": "_30",
-      "label": "Железничка станица Земун Поље",
-      "longitude": 20.333928,
-      "latitude": 44.857425
+      "label": "Železnička stanica Zemun polje",
+      "longitude": 20.334030419082,
+      "latitude": 44.8573918262608
     },
     {
       "id": "_31",
-      "label": "Страхиње Петровића",
-      "longitude": 20.329294,
-      "latitude": 44.858014
+      "label": "Strahinje Petrovića",
+      "longitude": 20.3291788662597,
+      "latitude": 44.858090694949
     },
     {
       "id": "_32",
-      "label": "Трафостаница",
-      "longitude": 20.325302,
-      "latitude": 44.860732
+      "label": "Trafostanica",
+      "longitude": 20.3251998720869,
+      "latitude": 44.8607797756268
     },
     {
       "id": "_33",
-      "label": "Школско Добро",
-      "longitude": 20.320259,
-      "latitude": 44.865235
+      "label": "Institut za kukuruz",
+      "longitude": 20.3292684497233,
+      "latitude": 44.8715669824627
     },
     {
       "id": "_34",
-      "label": "Браће Крњешевац",
-      "longitude": 20.324632,
-      "latitude": 44.868144
+      "label": "Đure Gajića",
+      "longitude": 20.3270056308461,
+      "latitude": 44.8730890230276
     },
     {
       "id": "_35",
-      "label": "Институт за Кукуруз",
-      "longitude": 20.32936,
-      "latitude": 44.871498
+      "label": "Franje Krča",
+      "longitude": 20.3239237810028,
+      "latitude": 44.8725525214473
     },
     {
       "id": "_36",
-      "label": "Ђуре Гајића",
-      "longitude": 20.327073,
-      "latitude": 44.873029
-    },
-    {
-      "id": "_37",
-      "label": "Фрање Крча",
-      "longitude": 20.324031,
-      "latitude": 44.872496
-    },
-    {
-      "id": "_38",
-      "label": "Земун Поље",
-      "longitude": 20.318892,
-      "latitude": 44.875926
+      "label": "Zemun polje",
+      "longitude": 20.3188462382876,
+      "latitude": 44.8759926411738
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Земун Поље",
-      "longitude": 20.319177,
-      "latitude": 44.875603
+      "label": "Zemun polje",
+      "longitude": 20.3191950253324,
+      "latitude": 44.8756077379847
     },
     {
       "id": "_2",
-      "label": "Фрање Крча",
-      "longitude": 20.324753,
-      "latitude": 44.872597
+      "label": "Franje Krča",
+      "longitude": 20.3247833277557,
+      "latitude": 44.8726439821491
     },
     {
       "id": "_3",
-      "label": "Ђуре Гајића",
-      "longitude": 20.327537,
-      "latitude": 44.872587
+      "label": "Đure Gajića",
+      "longitude": 20.3275635204559,
+      "latitude": 44.8725649303925
     },
     {
       "id": "_4",
-      "label": "Институт за Кукуруз",
-      "longitude": 20.329783,
-      "latitude": 44.870345
+      "label": "Institut za kukuruz",
+      "longitude": 20.3309166627944,
+      "latitude": 44.8706532725522
     },
     {
       "id": "_5",
-      "label": "Браће Крњешевац",
-      "longitude": 20.324437,
-      "latitude": 44.868184
+      "label": "Trafostanica",
+      "longitude": 20.3255536687005,
+      "latitude": 44.8603876819246
     },
     {
       "id": "_6",
-      "label": "Школско Добро",
-      "longitude": 20.320456,
-      "latitude": 44.864833
+      "label": "Strahinje Petrovića",
+      "longitude": 20.3295657016596,
+      "latitude": 44.857682582947
     },
     {
       "id": "_7",
-      "label": "Трафостаница",
-      "longitude": 20.325614,
-      "latitude": 44.860391
+      "label": "Železnička stanica Zemun polje",
+      "longitude": 20.334030419082,
+      "latitude": 44.8573918262608
     },
     {
       "id": "_8",
-      "label": "Страхиње Петровића",
-      "longitude": 20.329636,
-      "latitude": 44.857669
+      "label": "Mihajla Bandura",
+      "longitude": 20.3311164379906,
+      "latitude": 44.8553121859969
     },
     {
       "id": "_9",
-      "label": "Железничка станица Земун Поље",
-      "longitude": 20.333928,
-      "latitude": 44.857425
+      "label": "Koste Brankovića (Plavi Horizonti)",
+      "longitude": 20.3373708816568,
+      "latitude": 44.8520637056758
     },
     {
       "id": "_10",
-      "label": "Михајла Бандура",
-      "longitude": 20.329984,
-      "latitude": 44.856097
+      "label": "Koste Alkovića",
+      "longitude": 20.3400626840883,
+      "latitude": 44.8492120035593
     },
     {
       "id": "_11",
-      "label": "Косте Бранковића /Плави Хоризонти/",
-      "longitude": 20.337296,
-      "latitude": 44.852049
+      "label": "Koste Cukića",
+      "longitude": 20.3428344719554,
+      "latitude": 44.8473164387352
     },
     {
       "id": "_12",
-      "label": "Косте Алковића",
-      "longitude": 20.340045,
-      "latitude": 44.849235
+      "label": "Milana Nedeljkovića",
+      "longitude": 20.344300579469,
+      "latitude": 44.8463168927243
     },
     {
       "id": "_13",
-      "label": "Косте Цукића",
-      "longitude": 20.342852,
-      "latitude": 44.847323
+      "label": "Crkva Sv. Atanasija velikog",
+      "longitude": 20.3489029916664,
+      "latitude": 44.8444928313234
     },
     {
       "id": "_14",
-      "label": "Милана Недељковића",
-      "longitude": 20.344356,
-      "latitude": 44.846299
+      "label": "Železnička tehnička stanica 1",
+      "longitude": 20.3528860983657,
+      "latitude": 44.8401002388154
     },
     {
       "id": "_15",
-      "label": "Црква св. Атанасија Великог",
-      "longitude": 20.348917,
-      "latitude": 44.844584
+      "label": "Železnička tehnička stanica",
+      "longitude": 20.3577088532123,
+      "latitude": 44.8381834692935
     },
     {
       "id": "_16",
-      "label": "Железничка техничка станица 1",
-      "longitude": 20.352677,
-      "latitude": 44.840165
+      "label": "Novosadski put",
+      "longitude": 20.3636111677857,
+      "latitude": 44.8369834516906
     },
     {
       "id": "_17",
-      "label": "Железничка техничка станица",
-      "longitude": 20.357656,
-      "latitude": 44.838198
+      "label": "Kvantaška pijaca",
+      "longitude": 20.3618231165154,
+      "latitude": 44.8256701493535
     },
     {
       "id": "_18",
-      "label": "Новосадски пут",
-      "longitude": 20.363614,
-      "latitude": 44.836989
+      "label": "Novo Bežanijsko groblje",
+      "longitude": 20.3649887518079,
+      "latitude": 44.8222805123104
     },
     {
       "id": "_19",
-      "label": "Кванташка Пијаца",
-      "longitude": 20.361781,
-      "latitude": 44.825769
+      "label": "Bežanijska kosa (ulaz)",
+      "longitude": 20.375949122658,
+      "latitude": 44.8206667778483
     },
     {
       "id": "_20",
-      "label": "Ново Бежанијско Гробље",
-      "longitude": 20.365131,
-      "latitude": 44.822233
+      "label": "Dr Huga Klajna",
+      "longitude": 20.3795897282646,
+      "latitude": 44.820056566852
     },
     {
       "id": "_21",
-      "label": "Бежанијска Коса /Излаз/",
-      "longitude": 20.376003,
-      "latitude": 44.820646
+      "label": "Marka Čelebonovića",
+      "longitude": 20.3828784712497,
+      "latitude": 44.819233758115
     },
     {
       "id": "_22",
-      "label": "Др Хуга Клајна",
-      "longitude": 20.379572,
-      "latitude": 44.820023
+      "label": "Nikole Dobrovića",
+      "longitude": 20.3859879984617,
+      "latitude": 44.8190884584444
     },
     {
       "id": "_23",
-      "label": "Марка Челебоновића",
-      "longitude": 20.382865,
-      "latitude": 44.819195
+      "label": "Stojana Aralice",
+      "longitude": 20.3882200888873,
+      "latitude": 44.822055827201
     },
     {
       "id": "_24",
-      "label": "Николе Добровића",
-      "longitude": 20.385959,
-      "latitude": 44.81904
+      "label": "SC 11. april",
+      "longitude": 20.3939468037829,
+      "latitude": 44.8270449610979
     },
     {
       "id": "_25",
-      "label": "Стојана Аралице",
-      "longitude": 20.388207,
-      "latitude": 44.822023
+      "label": "Studentski grad",
+      "longitude": 20.3991145103976,
+      "latitude": 44.8262621981325
     },
     {
       "id": "_26",
-      "label": "СЦ 11. Април",
-      "longitude": 20.393915,
-      "latitude": 44.827041
+      "label": "Studentska",
+      "longitude": 20.4031927311623,
+      "latitude": 44.8268864589955
     },
     {
       "id": "_27",
-      "label": "Студентски Град",
-      "longitude": 20.398985,
-      "latitude": 44.826272
+      "label": "Fontana",
+      "longitude": 20.4094089526943,
+      "latitude": 44.8257001039461
     },
     {
       "id": "_28",
-      "label": "Студентска",
-      "longitude": 20.403212,
-      "latitude": 44.826838
+      "label": "GO Novi Beograd",
+      "longitude": 20.4119222276615,
+      "latitude": 44.8230221655042
     },
     {
       "id": "_29",
-      "label": "Фонтана",
-      "longitude": 20.40947,
-      "latitude": 44.825671
+      "label": "Bulevar Zorana Đinđića",
+      "longitude": 20.409434007589,
+      "latitude": 44.8202501313123
     },
     {
       "id": "_30",
-      "label": "ГО Нови Београд",
-      "longitude": 20.41197,
-      "latitude": 44.823102
+      "label": "Milutina Milankovića",
+      "longitude": 20.4056530085192,
+      "latitude": 44.8160728247077
     },
     {
       "id": "_31",
-      "label": "Зорана Ђинђића булевар",
-      "longitude": 20.409494,
-      "latitude": 44.820368
+      "label": "Airport City",
+      "longitude": 20.4012577009893,
+      "latitude": 44.8111992211083
     },
     {
       "id": "_32",
-      "label": "Милутина Миланковића",
-      "longitude": 20.405636,
-      "latitude": 44.816096
+      "label": "Tehnička škola Novi Beograd",
+      "longitude": 20.3991193444385,
+      "latitude": 44.8081893949723
     },
     {
       "id": "_33",
-      "label": "Airport City",
-      "longitude": 20.401228,
-      "latitude": 44.811205
+      "label": "Jurija Gagarina",
+      "longitude": 20.3996501849434,
+      "latitude": 44.801591915606
     },
     {
       "id": "_34",
-      "label": "Техничка Школа Нови Београд",
-      "longitude": 20.399107,
-      "latitude": 44.808235
-    },
-    {
-      "id": "_35",
-      "label": "Јурија Гагарина",
-      "longitude": 20.399686,
-      "latitude": 44.801089
-    },
-    {
-      "id": "_36",
-      "label": "Блок 70А",
-      "longitude": 20.400289,
-      "latitude": 44.798191
+      "label": "Blok 70A",
+      "longitude": 20.4000718982624,
+      "latitude": 44.7979637064807
     }
   ]
 }

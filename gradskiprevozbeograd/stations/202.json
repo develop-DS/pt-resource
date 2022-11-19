@@ -2,287 +2,299 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Омладински Стадион",
-      "longitude": 20.490085,
-      "latitude": 44.815368
+      "label": "Omladinski stadion (ulaz)",
+      "longitude": 20.4899881419036,
+      "latitude": 44.8153087746295
     },
     {
       "id": "_2",
-      "label": "Вука Врчевића",
-      "longitude": 20.495489,
-      "latitude": 44.817647
+      "label": "Vuka Vrčevića",
+      "longitude": 20.4954830533882,
+      "latitude": 44.8176369359186
     },
     {
       "id": "_3",
-      "label": "Војводе Мицка Крстића",
-      "longitude": 20.501067,
-      "latitude": 44.817644
+      "label": "Vojvode Micka Krstića",
+      "longitude": 20.5028801587146,
+      "latitude": 44.8175972135596
     },
     {
       "id": "_4",
-      "label": "Диљска",
-      "longitude": 20.510768,
-      "latitude": 44.817341
+      "label": "Diljska",
+      "longitude": 20.5109615243617,
+      "latitude": 44.8173799386268
     },
     {
       "id": "_5",
-      "label": "Пут за Аду Хују",
-      "longitude": 20.51428,
-      "latitude": 44.81741
+      "label": "Put za Adu Huju",
+      "longitude": 20.5142866250105,
+      "latitude": 44.8174120537577
     },
     {
       "id": "_6",
-      "label": "Миријевски булевар",
-      "longitude": 20.519635,
-      "latitude": 44.817408
+      "label": "Mirijevski bulevar",
+      "longitude": 20.5196727797822,
+      "latitude": 44.8174347142419
     },
     {
       "id": "_7",
-      "label": "Роспи Ћуприја",
-      "longitude": 20.523064,
-      "latitude": 44.817622
+      "label": "Rospi ćuprija",
+      "longitude": 20.5230954184101,
+      "latitude": 44.8176001737516
     },
     {
       "id": "_8",
-      "label": "Трудбеничка",
-      "longitude": 20.528393,
-      "latitude": 44.815664
+      "label": "Trudbenička",
+      "longitude": 20.5284316669652,
+      "latitude": 44.8156711182624
     },
     {
       "id": "_9",
-      "label": "Вишњичка Бања",
-      "longitude": 20.532628,
-      "latitude": 44.8156
+      "label": "Višnjička banja",
+      "longitude": 20.5326527621815,
+      "latitude": 44.8155893811077
     },
     {
       "id": "_10",
-      "label": "Топлана",
-      "longitude": 20.537285,
-      "latitude": 44.814511
+      "label": "Toplana",
+      "longitude": 20.5371520280417,
+      "latitude": 44.8145510604222
     },
     {
       "id": "_11",
-      "label": "Ново Насеље",
-      "longitude": 20.541585,
-      "latitude": 44.81359
+      "label": "Novo naselje",
+      "longitude": 20.5418996400027,
+      "latitude": 44.8134235579533
     },
     {
       "id": "_12",
-      "label": "Лешће",
-      "longitude": 20.543758,
-      "latitude": 44.811644
+      "label": "Lešće",
+      "longitude": 20.543774803355,
+      "latitude": 44.8116257178208
     },
     {
       "id": "_13",
-      "label": "Лешће /Улаз/",
-      "longitude": 20.547796,
-      "latitude": 44.810049
+      "label": "Lešće (ulaz)",
+      "longitude": 20.5476882464974,
+      "latitude": 44.8100950782368
     },
     {
       "id": "_14",
-      "label": "Српска Круна",
-      "longitude": 20.552666,
-      "latitude": 44.807665
+      "label": "Srpska kruna",
+      "longitude": 20.5527136277702,
+      "latitude": 44.8076236888704
     },
     {
       "id": "_15",
-      "label": "Сланци /Улаз/",
-      "longitude": 20.557,
-      "latitude": 44.806432
+      "label": "Slanci (ulaz)",
+      "longitude": 20.5568410884744,
+      "latitude": 44.8064751480484
     },
     {
       "id": "_16",
-      "label": "Сланци /Пекара/",
-      "longitude": 20.561946,
-      "latitude": 44.807133
+      "label": "Pekara",
+      "longitude": 20.5619762773375,
+      "latitude": 44.8071248121234
     },
     {
       "id": "_17",
-      "label": "Сланци /Изворска/",
-      "longitude": 20.56664,
-      "latitude": 44.807657
+      "label": "Izvorska",
+      "longitude": 20.5660921594016,
+      "latitude": 44.8075004137522
     },
     {
       "id": "_18",
-      "label": "Сланци /Школа/",
-      "longitude": 20.570636,
-      "latitude": 44.808082
+      "label": "Slanci (škola)",
+      "longitude": 20.5706768358336,
+      "latitude": 44.808084609085
     },
     {
       "id": "_19",
-      "label": "Ветеринарска станица",
-      "longitude": 20.576875,
-      "latitude": 44.809103
+      "label": "Veterinarska stanica",
+      "longitude": 20.5769197627914,
+      "latitude": 44.8090833172081
     },
     {
       "id": "_20",
-      "label": "Теслина",
-      "longitude": 20.58888,
-      "latitude": 44.806309
+      "label": "Veliko selo (ulaz)",
+      "longitude": 20.5857183841195,
+      "latitude": 44.8066423058699
     },
     {
       "id": "_21",
-      "label": "Велико Село (Омладинска)",
-      "longitude": 20.591644,
-      "latitude": 44.807907
+      "label": "Teslina",
+      "longitude": 20.5889697825987,
+      "latitude": 44.8062886005772
     },
     {
       "id": "_22",
-      "label": "МЗ Велико Село",
-      "longitude": 20.597745,
-      "latitude": 44.810667
+      "label": "Omladinska",
+      "longitude": 20.5917696405139,
+      "latitude": 44.8079472952847
     },
     {
       "id": "_23",
-      "label": "Велико Село",
-      "longitude": 20.60142,
-      "latitude": 44.812208
+      "label": "MZ Veliko selo",
+      "longitude": 20.5977609953146,
+      "latitude": 44.8106430813571
+    },
+    {
+      "id": "_24",
+      "label": "Veliko selo",
+      "longitude": 20.6014119694876,
+      "latitude": 44.8121479222327
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Велико Село",
-      "longitude": 20.60142,
-      "latitude": 44.812208
+      "label": "Veliko selo",
+      "longitude": 20.6014119694876,
+      "latitude": 44.8121479222327
     },
     {
       "id": "_2",
-      "label": "МЗ Велико Село",
-      "longitude": 20.597623,
-      "latitude": 44.810713
+      "label": "MZ Veliko selo",
+      "longitude": 20.5976642679365,
+      "latitude": 44.8107363378818
     },
     {
       "id": "_3",
-      "label": "Велико Село (Омладинска)",
-      "longitude": 20.591508,
-      "latitude": 44.807916
+      "label": "Omladinska",
+      "longitude": 20.5915597644968,
+      "latitude": 44.8079501493706
     },
     {
       "id": "_4",
-      "label": "Теслина",
-      "longitude": 20.588913,
-      "latitude": 44.806387
+      "label": "Teslina",
+      "longitude": 20.5888326980378,
+      "latitude": 44.8063673060808
     },
     {
       "id": "_5",
-      "label": "Ветеринарска станица",
-      "longitude": 20.576744,
-      "latitude": 44.809125
+      "label": "Veliko selo (ulaz)",
+      "longitude": 20.5854662539423,
+      "latitude": 44.8068987832763
     },
     {
       "id": "_6",
-      "label": "Сланци /Школа/",
-      "longitude": 20.570328,
-      "latitude": 44.808123
+      "label": "Veterinarska stanica",
+      "longitude": 20.5767145070532,
+      "latitude": 44.8091455579243
     },
     {
       "id": "_7",
-      "label": "Сланци /Изворска/",
-      "longitude": 20.566141,
-      "latitude": 44.807623
+      "label": "Slanci (škola)",
+      "longitude": 20.570257014857,
+      "latitude": 44.8080992386159
     },
     {
       "id": "_8",
-      "label": "Сланци /Пекара/",
-      "longitude": 20.5619,
-      "latitude": 44.807228
+      "label": "Izvorska",
+      "longitude": 20.5665226350617,
+      "latitude": 44.8077522259024
     },
     {
       "id": "_9",
-      "label": "Сланци /Улаз/",
-      "longitude": 20.556739,
-      "latitude": 44.806617
+      "label": "Pekara",
+      "longitude": 20.5618512132358,
+      "latitude": 44.8072809270465
     },
     {
       "id": "_10",
-      "label": "Српска Круна",
-      "longitude": 20.55244,
-      "latitude": 44.807773
+      "label": "Slanci (ulaz)",
+      "longitude": 20.5564522507668,
+      "latitude": 44.8067382335112
     },
     {
       "id": "_11",
-      "label": "Лешће /Улаз/",
-      "longitude": 20.547283,
-      "latitude": 44.810465
+      "label": "Srpska kruna",
+      "longitude": 20.5522115713866,
+      "latitude": 44.8078107228102
     },
     {
       "id": "_12",
-      "label": "Лешће",
-      "longitude": 20.542843,
-      "latitude": 44.812315
+      "label": "Lešće (ulaz)",
+      "longitude": 20.5473111030396,
+      "latitude": 44.8104715725147
     },
     {
       "id": "_13",
-      "label": "Ново Насеље",
-      "longitude": 20.541179,
-      "latitude": 44.813881
+      "label": "Lešće",
+      "longitude": 20.542805277794,
+      "latitude": 44.8124084207708
     },
     {
       "id": "_14",
-      "label": "Топлана",
-      "longitude": 20.536616,
-      "latitude": 44.814865
+      "label": "Novo naselje",
+      "longitude": 20.5414187661415,
+      "latitude": 44.8137996187271
     },
     {
       "id": "_15",
-      "label": "Вишњичка Бања",
-      "longitude": 20.532033,
-      "latitude": 44.815776
+      "label": "Toplana",
+      "longitude": 20.5365779282551,
+      "latitude": 44.8148799274388
     },
     {
       "id": "_16",
-      "label": "Трудбеничка",
-      "longitude": 20.526989,
-      "latitude": 44.8162
+      "label": "Višnjika banja",
+      "longitude": 20.5319963250262,
+      "latitude": 44.8157756974849
     },
     {
       "id": "_17",
-      "label": "Роспи Ћуприја",
-      "longitude": 20.521879,
-      "latitude": 44.817996
+      "label": "Trudbenička",
+      "longitude": 20.5270544898722,
+      "latitude": 44.8161730269356
     },
     {
       "id": "_18",
-      "label": "Миријевски булевар",
-      "longitude": 20.519454,
-      "latitude": 44.817722
+      "label": "Rospi ćuprija",
+      "longitude": 20.5218657930662,
+      "latitude": 44.8179838388451
     },
     {
       "id": "_19",
-      "label": "Пут за Аду Хују",
-      "longitude": 20.514094,
-      "latitude": 44.817643
+      "label": "Mirijevski bulevar",
+      "longitude": 20.5193544597331,
+      "latitude": 44.8177033675796
     },
     {
       "id": "_20",
-      "label": "Диљска",
-      "longitude": 20.509684,
-      "latitude": 44.817686
+      "label": "Put za Adu Huju",
+      "longitude": 20.5140747872485,
+      "latitude": 44.817645144763
     },
     {
       "id": "_21",
-      "label": "Војводе Мицка Крстића",
-      "longitude": 20.502955,
-      "latitude": 44.817856
+      "label": "Diljska",
+      "longitude": 20.5096519067719,
+      "latitude": 44.8176443378156
     },
     {
       "id": "_22",
-      "label": "Вука Врчевића",
-      "longitude": 20.496788,
-      "latitude": 44.817933
+      "label": "Vojvode Micka Krstića",
+      "longitude": 20.502974019314,
+      "latitude": 44.8178586059719
     },
     {
       "id": "_23",
-      "label": "Омладински Стадион",
-      "longitude": 20.489693,
-      "latitude": 44.815337
+      "label": "Vuka Vrčevića",
+      "longitude": 20.4967449953722,
+      "latitude": 44.8179214607077
     },
     {
       "id": "_24",
-      "label": "Омладински Стадион",
-      "longitude": 20.490085,
-      "latitude": 44.815368
+      "label": "SUP Palilula",
+      "longitude": 20.4937449077625,
+      "latitude": 44.8171541083316
+    },
+    {
+      "id": "_25",
+      "label": "Omladinski stadion (izlaz)",
+      "longitude": 20.4895760577327,
+      "latitude": 44.8152979432564
     }
   ]
 }

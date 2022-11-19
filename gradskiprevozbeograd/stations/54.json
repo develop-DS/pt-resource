@@ -2,353 +2,365 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Миљаковац 1",
-      "longitude": 20.449829,
-      "latitude": 44.748294
+      "label": "Miljakovac 1",
+      "longitude": 20.4482912468677,
+      "latitude": 44.7482400583482
     },
     {
       "id": "_2",
-      "label": "ГО Раковица",
-      "longitude": 20.446224,
-      "latitude": 44.743757
+      "label": "GO Rakovica",
+      "longitude": 20.4461644023972,
+      "latitude": 44.7437371968833
     },
     {
       "id": "_3",
-      "label": "Мишка Крањца",
-      "longitude": 20.442148,
-      "latitude": 44.742989
+      "label": "Miška Kranjca",
+      "longitude": 20.4421078008058,
+      "latitude": 44.7429993718767
     },
     {
       "id": "_4",
-      "label": "Ослобођења",
-      "longitude": 20.438615,
-      "latitude": 44.739084
+      "label": "Ulica Oslobođenja",
+      "longitude": 20.4385425050469,
+      "latitude": 44.7389861405659
     },
     {
       "id": "_5",
-      "label": "Кнежевац",
-      "longitude": 20.431475,
-      "latitude": 44.73467
+      "label": "Kneževac",
+      "longitude": 20.431480993017,
+      "latitude": 44.7346423343423
     },
     {
       "id": "_6",
-      "label": "Вијадукт",
-      "longitude": 20.434023,
-      "latitude": 44.725634
+      "label": "Vijadukt",
+      "longitude": 20.434005659359,
+      "latitude": 44.7255939677267
     },
     {
       "id": "_7",
-      "label": "Усек",
-      "longitude": 20.43204,
-      "latitude": 44.720128
+      "label": "Usek",
+      "longitude": 20.4320086105699,
+      "latitude": 44.7201447002967
     },
     {
       "id": "_8",
-      "label": "Петлово Брдо",
-      "longitude": 20.42342,
-      "latitude": 44.717784
+      "label": "Petlovo brdo",
+      "longitude": 20.4231876513799,
+      "latitude": 44.7178633671689
     },
     {
       "id": "_9",
-      "label": "Насеље Виногради",
-      "longitude": 20.399927,
-      "latitude": 44.722573
+      "label": "Kružni put",
+      "longitude": 20.4141428888961,
+      "latitude": 44.7191807633773
     },
     {
       "id": "_10",
-      "label": "Ново Насеље",
-      "longitude": 20.391376,
-      "latitude": 44.725927
+      "label": "Naselje Vinogradi",
+      "longitude": 20.3997160935078,
+      "latitude": 44.7226837470572
     },
     {
       "id": "_11",
-      "label": "Авалска",
-      "longitude": 20.382653,
-      "latitude": 44.728747
+      "label": "Novo naselje",
+      "longitude": 20.3914090101616,
+      "latitude": 44.725915842423
     },
     {
       "id": "_12",
-      "label": "Железник Центар",
-      "longitude": 20.375802,
-      "latitude": 44.72865
+      "label": "Avalska",
+      "longitude": 20.3824840427314,
+      "latitude": 44.7287534210231
     },
     {
       "id": "_13",
-      "label": "Пијаца",
-      "longitude": 20.37347,
-      "latitude": 44.72712
+      "label": "Železnik (centar)",
+      "longitude": 20.3755819153061,
+      "latitude": 44.7286566474289
     },
     {
       "id": "_14",
-      "label": "Иво Лола Рибар",
-      "longitude": 20.368155,
-      "latitude": 44.727538
+      "label": "Pijaca",
+      "longitude": 20.3732785221698,
+      "latitude": 44.7270745414992
     },
     {
       "id": "_15",
-      "label": "Железник /Савска/",
-      "longitude": 20.366262,
-      "latitude": 44.730833
+      "label": "Ivo Lola Ribar",
+      "longitude": 20.3681757295203,
+      "latitude": 44.7275451190615
     },
     {
       "id": "_16",
-      "label": "Конграп",
-      "longitude": 20.362296,
-      "latitude": 44.733203
+      "label": "Železnik (Savska)",
+      "longitude": 20.3661724737743,
+      "latitude": 44.7308891339087
     },
     {
       "id": "_17",
-      "label": "Пут за Железник",
-      "longitude": 20.360494,
-      "latitude": 44.741829
+      "label": "Kongrap",
+      "longitude": 20.3621920829937,
+      "latitude": 44.7332825676823
     },
     {
       "id": "_18",
-      "label": "Семе",
-      "longitude": 20.358007,
-      "latitude": 44.746105
+      "label": "Put za Železnik",
+      "longitude": 20.3604494938084,
+      "latitude": 44.7418153195525
     },
     {
       "id": "_19",
-      "label": "Боре Станковића",
-      "longitude": 20.356542,
-      "latitude": 44.748781
+      "label": "Seme",
+      "longitude": 20.3579840672537,
+      "latitude": 44.7462167596292
     },
     {
       "id": "_20",
-      "label": "Београделектро",
-      "longitude": 20.354572,
-      "latitude": 44.752315
+      "label": "Bore Stankovića",
+      "longitude": 20.3565150748113,
+      "latitude": 44.7488724134781
     },
     {
       "id": "_21",
-      "label": "Југолек",
-      "longitude": 20.35244,
-      "latitude": 44.756145
+      "label": "Beogradelektro",
+      "longitude": 20.3545305167178,
+      "latitude": 44.7524521064821
     },
     {
       "id": "_22",
-      "label": "Бродотехника",
-      "longitude": 20.350321,
-      "latitude": 44.761703
+      "label": "Jugolek",
+      "longitude": 20.3524555008328,
+      "latitude": 44.7561932448908
     },
     {
       "id": "_23",
-      "label": "ББП Макиш",
-      "longitude": 20.353568,
-      "latitude": 44.764916
+      "label": "Brodotehnika",
+      "longitude": 20.3503321352868,
+      "latitude": 44.761751989127
     },
     {
       "id": "_24",
-      "label": "Неопланта",
-      "longitude": 20.358062,
-      "latitude": 44.76861
+      "label": "BBP Makiš",
+      "longitude": 20.3535434278804,
+      "latitude": 44.764911001063
     },
     {
       "id": "_25",
-      "label": "МЗ Макиш",
-      "longitude": 20.362216,
-      "latitude": 44.770416
+      "label": "Neoplanta",
+      "longitude": 20.3579878855353,
+      "latitude": 44.768544811484
+    },
+    {
+      "id": "_26",
+      "label": "MZ Makiš",
+      "longitude": 20.3621817052253,
+      "latitude": 44.7704293328263
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "МЗ Макиш",
-      "longitude": 20.362216,
-      "latitude": 44.770416
+      "label": "MZ Makiš",
+      "longitude": 20.3621817052253,
+      "latitude": 44.7704293328263
     },
     {
       "id": "_2",
-      "label": "Неопланта",
-      "longitude": 20.357359,
-      "latitude": 44.768158
+      "label": "Neoplanta",
+      "longitude": 20.3572273041581,
+      "latitude": 44.7680923704282
     },
     {
       "id": "_3",
-      "label": "ББП Макиш",
-      "longitude": 20.353273,
-      "latitude": 44.76479
+      "label": "BBP Makiš",
+      "longitude": 20.3532839941,
+      "latitude": 44.7648393411258
     },
     {
       "id": "_4",
-      "label": "Бродотехника",
-      "longitude": 20.350905,
-      "latitude": 44.762508
+      "label": "Brodotehnika",
+      "longitude": 20.3508772245552,
+      "latitude": 44.7624858442257
     },
     {
       "id": "_5",
-      "label": "Југолек",
-      "longitude": 20.352213,
-      "latitude": 44.756337
+      "label": "Jugolek",
+      "longitude": 20.3522139114528,
+      "latitude": 44.756337673862
     },
     {
       "id": "_6",
-      "label": "Београделектро",
-      "longitude": 20.354241,
-      "latitude": 44.752701
+      "label": "Beogradelektro",
+      "longitude": 20.3542836968941,
+      "latitude": 44.7526145097152
     },
     {
       "id": "_7",
-      "label": "Боре Станковића",
-      "longitude": 20.356216,
-      "latitude": 44.74913
+      "label": "Bore Stankovića",
+      "longitude": 20.3562349447877,
+      "latitude": 44.7490796321897
     },
     {
       "id": "_8",
-      "label": "Семе",
-      "longitude": 20.35772,
-      "latitude": 44.746388
+      "label": "Seme",
+      "longitude": 20.3577297071212,
+      "latitude": 44.7463791282679
     },
     {
       "id": "_9",
-      "label": "Пут за Железник",
-      "longitude": 20.360214,
-      "latitude": 44.741819
+      "label": "Put za Železnik",
+      "longitude": 20.3602750077101,
+      "latitude": 44.7418359452787
     },
     {
       "id": "_10",
-      "label": "Конграп",
-      "longitude": 20.36203,
-      "latitude": 44.733265
+      "label": "Kongrap",
+      "longitude": 20.3620484353252,
+      "latitude": 44.7332565695253
     },
     {
       "id": "_11",
-      "label": "Железник /Савска/",
-      "longitude": 20.36634,
-      "latitude": 44.730581
+      "label": "Železnik (Savska)",
+      "longitude": 20.3664030200553,
+      "latitude": 44.7305862198754
     },
     {
       "id": "_12",
-      "label": "Иво Лола Рибар",
-      "longitude": 20.368011,
-      "latitude": 44.727393
+      "label": "Ivo Lola Ribar",
+      "longitude": 20.3680511326661,
+      "latitude": 44.7273932382177
     },
     {
       "id": "_13",
-      "label": "Пијаца",
-      "longitude": 20.373901,
-      "latitude": 44.727133
+      "label": "Pijaca",
+      "longitude": 20.3741147738254,
+      "latitude": 44.7272609020472
     },
     {
       "id": "_14",
-      "label": "Железник Центар",
-      "longitude": 20.376315,
-      "latitude": 44.728545
+      "label": "Železnik (centar)",
+      "longitude": 20.3763203456209,
+      "latitude": 44.7285490703343
     },
     {
       "id": "_15",
-      "label": "Авалска",
-      "longitude": 20.383335,
-      "latitude": 44.728643
+      "label": "Avalska",
+      "longitude": 20.3833637165451,
+      "latitude": 44.7286591583947
     },
     {
       "id": "_16",
-      "label": "Ново Насеље",
-      "longitude": 20.390916,
-      "latitude": 44.726055
+      "label": "Novo naselje",
+      "longitude": 20.3919429272301,
+      "latitude": 44.7255604881017
     },
     {
       "id": "_17",
-      "label": "Насеље Виногради",
-      "longitude": 20.399543,
-      "latitude": 44.722629
+      "label": "Naselje Vinogradi",
+      "longitude": 20.3993827811111,
+      "latitude": 44.722689201746
     },
     {
       "id": "_18",
-      "label": "Петлово Брдо",
-      "longitude": 20.424268,
-      "latitude": 44.717364
+      "label": "Kružni put",
+      "longitude": 20.4154413644053,
+      "latitude": 44.7188110212702
     },
     {
       "id": "_19",
-      "label": "Усек",
-      "longitude": 20.432345,
-      "latitude": 44.72028
+      "label": "Petlovo brdo",
+      "longitude": 20.4244376368993,
+      "latitude": 44.7173134660682
     },
     {
       "id": "_20",
-      "label": "Вијадукт",
-      "longitude": 20.434208,
-      "latitude": 44.725397
+      "label": "Usek",
+      "longitude": 20.4323879258882,
+      "latitude": 44.7203391706399
     },
     {
       "id": "_21",
-      "label": "Кнежевац",
-      "longitude": 20.431639,
-      "latitude": 44.734622
+      "label": "Vijadukt",
+      "longitude": 20.434214534006,
+      "latitude": 44.7254042052709
     },
     {
       "id": "_22",
-      "label": "Ослобођења",
-      "longitude": 20.437452,
-      "latitude": 44.738609
+      "label": "Kneževac",
+      "longitude": 20.4315839089465,
+      "latitude": 44.7344466520491
     },
     {
       "id": "_23",
-      "label": "Мишка Крањца",
-      "longitude": 20.442684,
-      "latitude": 44.742862
+      "label": "Ulica Oslobođenja",
+      "longitude": 20.4375793608356,
+      "latitude": 44.7385638395998
     },
     {
       "id": "_24",
-      "label": "ГО Раковица",
-      "longitude": 20.445579,
-      "latitude": 44.74334
+      "label": "Miška Kranjca",
+      "longitude": 20.4427275651333,
+      "latitude": 44.7428943883828
     },
     {
       "id": "_25",
-      "label": "Миљаковац 1",
-      "longitude": 20.449918,
-      "latitude": 44.748084
+      "label": "GO Rakovica",
+      "longitude": 20.4451590305898,
+      "latitude": 44.743226559933
     },
     {
       "id": "_26",
-      "label": "Божидара Стојановића",
-      "longitude": 20.452727,
-      "latitude": 44.750122
+      "label": "Miljakovac 1",
+      "longitude": 20.4499009458732,
+      "latitude": 44.7481577912253
     },
     {
       "id": "_27",
-      "label": "ОШ Ђуро Јакшић",
-      "longitude": 20.450825,
-      "latitude": 44.75302
+      "label": "Božidara Stojanovića",
+      "longitude": 20.4527290096962,
+      "latitude": 44.7501260336921
     },
     {
       "id": "_28",
-      "label": "Канарево Брдо /Дом Здравља/",
-      "longitude": 20.45388,
-      "latitude": 44.754687
+      "label": "OŠ Đuro Jakšić",
+      "longitude": 20.4508686289955,
+      "latitude": 44.7532166138453
     },
     {
       "id": "_29",
-      "label": "Српских Ударних Бригада",
-      "longitude": 20.456413,
-      "latitude": 44.754325
+      "label": "Kanarevo brdo (Dom zdravlja)",
+      "longitude": 20.4539263546421,
+      "latitude": 44.7546981448019
     },
     {
       "id": "_30",
-      "label": "Канарево Брдо",
-      "longitude": 20.455084,
-      "latitude": 44.752032
+      "label": "Srpskih udarnih brigada",
+      "longitude": 20.4563627580518,
+      "latitude": 44.7542903323306
     },
     {
       "id": "_31",
-      "label": "Варешка",
-      "longitude": 20.455731,
-      "latitude": 44.749852
+      "label": "Kanarevo brdo",
+      "longitude": 20.4550937068251,
+      "latitude": 44.7519642112501
     },
     {
       "id": "_32",
-      "label": "Станка Пауновића",
-      "longitude": 20.452276,
-      "latitude": 44.748464
+      "label": "Vareška",
+      "longitude": 20.455719864568,
+      "latitude": 44.7498306732597
     },
     {
       "id": "_33",
-      "label": "Миљаковац 1",
-      "longitude": 20.449829,
-      "latitude": 44.748294
+      "label": "Stanka Paunovića",
+      "longitude": 20.4522648700849,
+      "latitude": 44.7484480890725
+    },
+    {
+      "id": "_34",
+      "label": "Miljakovac 1",
+      "longitude": 20.4497333172447,
+      "latitude": 44.7482559832715
     }
   ]
 }

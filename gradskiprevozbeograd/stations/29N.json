@@ -1,0 +1,228 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Studentski trg",
+      "longitude": 20.4577794214602,
+      "latitude": 44.8186241261782
+    },
+    {
+      "id": "_2",
+      "label": "Trg republike",
+      "longitude": 20.4597077308709,
+      "latitude": 44.8171213036315
+    },
+    {
+      "id": "_3",
+      "label": "Trg republike",
+      "longitude": 20.4604999027432,
+      "latitude": 44.8154151225036
+    },
+    {
+      "id": "_4",
+      "label": "Terazije",
+      "longitude": 20.4610174422408,
+      "latitude": 44.8127788949127
+    },
+    {
+      "id": "_5",
+      "label": "RK Beograđanka",
+      "longitude": 20.4640015397818,
+      "latitude": 44.8072545633009
+    },
+    {
+      "id": "_6",
+      "label": "Trg Slavija",
+      "longitude": 20.4662567717776,
+      "latitude": 44.8031288888232
+    },
+    {
+      "id": "_7",
+      "label": "Katanićeva",
+      "longitude": 20.4717355606405,
+      "latitude": 44.7994842279664
+    },
+    {
+      "id": "_8",
+      "label": "Mačvanska",
+      "longitude": 20.4740772330908,
+      "latitude": 44.7977256727693
+    },
+    {
+      "id": "_9",
+      "label": "Vojvode Dragomira",
+      "longitude": 20.4791162226368,
+      "latitude": 44.7979178460651
+    },
+    {
+      "id": "_10",
+      "label": "Crveni krst",
+      "longitude": 20.4873972933218,
+      "latitude": 44.7973989593364
+    },
+    {
+      "id": "_11",
+      "label": "Bregalnička",
+      "longitude": 20.4907370115391,
+      "latitude": 44.7950505445845
+    },
+    {
+      "id": "_12",
+      "label": "Velimira Todorovića",
+      "longitude": 20.4950368418566,
+      "latitude": 44.7933020296051
+    },
+    {
+      "id": "_13",
+      "label": "Škola Vojislav Ilić",
+      "longitude": 20.4979375141849,
+      "latitude": 44.7908412949086
+    },
+    {
+      "id": "_14",
+      "label": "Rimska",
+      "longitude": 20.499699960586,
+      "latitude": 44.7874871347574
+    },
+    {
+      "id": "_15",
+      "label": "Šumice",
+      "longitude": 20.5013687183876,
+      "latitude": 44.78298921242
+    },
+    {
+      "id": "_16",
+      "label": "Medaković 2",
+      "longitude": 20.4997318423423,
+      "latitude": 44.7749526675893
+    },
+    {
+      "id": "_17",
+      "label": "Svetozara Radojčića",
+      "longitude": 20.5022425526906,
+      "latitude": 44.7721215130103
+    },
+    {
+      "id": "_18",
+      "label": "Medaković 3",
+      "longitude": 20.5081174156766,
+      "latitude": 44.7724204240193
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Medaković 3",
+      "longitude": 20.5079197948223,
+      "latitude": 44.7721837878915
+    },
+    {
+      "id": "_2",
+      "label": "Svetozara Radojčića",
+      "longitude": 20.5027279457175,
+      "latitude": 44.7720930181474
+    },
+    {
+      "id": "_3",
+      "label": "Medaković 2",
+      "longitude": 20.5002480892655,
+      "latitude": 44.7757486795342
+    },
+    {
+      "id": "_4",
+      "label": "Vladimira Tomanovića",
+      "longitude": 20.5020656605764,
+      "latitude": 44.7818762908247
+    },
+    {
+      "id": "_5",
+      "label": "Šumice",
+      "longitude": 20.5012977838359,
+      "latitude": 44.7838942610232
+    },
+    {
+      "id": "_6",
+      "label": "Rimska",
+      "longitude": 20.500120814078,
+      "latitude": 44.787042589884
+    },
+    {
+      "id": "_7",
+      "label": "Škola Vojislav Ilić",
+      "longitude": 20.497423174079,
+      "latitude": 44.7918221764687
+    },
+    {
+      "id": "_8",
+      "label": "Velimira Todorovića",
+      "longitude": 20.4943810962527,
+      "latitude": 44.7937149222967
+    },
+    {
+      "id": "_9",
+      "label": "Bregalnička",
+      "longitude": 20.4907486106064,
+      "latitude": 44.7951693901315
+    },
+    {
+      "id": "_10",
+      "label": "Crveni krst",
+      "longitude": 20.4859194528292,
+      "latitude": 44.7978585259903
+    },
+    {
+      "id": "_11",
+      "label": "Vojvode Dragomira",
+      "longitude": 20.4802070456083,
+      "latitude": 44.7980577850169
+    },
+    {
+      "id": "_12",
+      "label": "Novopazarska",
+      "longitude": 20.4740420932187,
+      "latitude": 44.7979774990468
+    },
+    {
+      "id": "_13",
+      "label": "Katanićeva",
+      "longitude": 20.4712045690011,
+      "latitude": 44.800052353489
+    },
+    {
+      "id": "_14",
+      "label": "Trg Slavija",
+      "longitude": 20.4661770642646,
+      "latitude": 44.8035496964553
+    },
+    {
+      "id": "_15",
+      "label": "RK Beograđanka",
+      "longitude": 20.4640038424677,
+      "latitude": 44.8075533585267
+    },
+    {
+      "id": "_16",
+      "label": "Terazije",
+      "longitude": 20.4610734378326,
+      "latitude": 44.8132849311366
+    },
+    {
+      "id": "_17",
+      "label": "Trg republike",
+      "longitude": 20.4607188559041,
+      "latitude": 44.8155277458009
+    },
+    {
+      "id": "_18",
+      "label": "Trg republike",
+      "longitude": 20.4599736765335,
+      "latitude": 44.8170757580905
+    },
+    {
+      "id": "_19",
+      "label": "Studentski trg",
+      "longitude": 20.457857285924,
+      "latitude": 44.8189520764281
+    }
+  ]
+}

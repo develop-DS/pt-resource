@@ -2,329 +2,335 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Омладински Стадион",
-      "longitude": 20.490085,
-      "latitude": 44.815368
+      "label": "Omladinski stadion (ulaz)",
+      "longitude": 20.4901007929794,
+      "latitude": 44.8154388682299
     },
     {
       "id": "_2",
-      "label": "МЗ Крњача",
-      "longitude": 20.494105,
-      "latitude": 44.837744
+      "label": "MZ Krnjača",
+      "longitude": 20.4941835071208,
+      "latitude": 44.8376623052089
     },
     {
       "id": "_3",
-      "label": "Блок Бранко Момиров",
-      "longitude": 20.491051,
-      "latitude": 44.841315
+      "label": "Blok Branka Momirova",
+      "longitude": 20.4908417975942,
+      "latitude": 44.8414147132766
     },
     {
       "id": "_4",
-      "label": "Партизански Блок",
-      "longitude": 20.488307,
-      "latitude": 44.84637
+      "label": "Partizanski blok",
+      "longitude": 20.4881921537112,
+      "latitude": 44.846397637296
     },
     {
       "id": "_5",
-      "label": "Блок Сутјеска",
-      "longitude": 20.486444,
-      "latitude": 44.849427
+      "label": "Blok Sutjeska",
+      "longitude": 20.4863259678953,
+      "latitude": 44.8494311207245
     },
     {
       "id": "_6",
-      "label": "Пиротско Насеље",
-      "longitude": 20.483699,
-      "latitude": 44.853545
+      "label": "Pirotsko naselje",
+      "longitude": 20.4836376503621,
+      "latitude": 44.8535552105582
     },
     {
       "id": "_7",
-      "label": "Пакрачка",
-      "longitude": 20.480411,
-      "latitude": 44.85847
+      "label": "Pakračka",
+      "longitude": 20.4803037155818,
+      "latitude": 44.8585204610583
     },
     {
       "id": "_8",
-      "label": "Себеш Суви",
-      "longitude": 20.478215,
-      "latitude": 44.861742
+      "label": "Sebeš suvi",
+      "longitude": 20.4780975569801,
+      "latitude": 44.8618402458717
     },
     {
       "id": "_9",
-      "label": "Себешка Река",
-      "longitude": 20.473805,
-      "latitude": 44.868343
+      "label": "Sebeška reka",
+      "longitude": 20.4737486457741,
+      "latitude": 44.8683809788243
     },
     {
       "id": "_10",
-      "label": "Себеш Мокри",
-      "longitude": 20.470407,
-      "latitude": 44.873404
+      "label": "Sebeš mokri",
+      "longitude": 20.4703541554214,
+      "latitude": 44.8734140439099
     },
     {
       "id": "_11",
-      "label": "Борча Раскршће",
-      "longitude": 20.467627,
-      "latitude": 44.877582
+      "label": "Borča raskršće",
+      "longitude": 20.4675850646196,
+      "latitude": 44.8775409654627
     },
     {
       "id": "_12",
-      "label": "Попова Бара",
-      "longitude": 20.468854,
-      "latitude": 44.880464
+      "label": "Popova bara",
+      "longitude": 20.4694618821182,
+      "latitude": 44.881027033668
     },
     {
       "id": "_13",
-      "label": "Пут за Овчу",
-      "longitude": 20.476837,
-      "latitude": 44.88127
+      "label": "Mihaila Petrovića",
+      "longitude": 20.4726671988003,
+      "latitude": 44.8815475749535
     },
     {
       "id": "_14",
-      "label": "Миргородска",
-      "longitude": 20.482675,
-      "latitude": 44.881334
+      "label": "Put za Ovču",
+      "longitude": 20.4769608545235,
+      "latitude": 44.8812612443177
     },
     {
       "id": "_15",
-      "label": "Бранислава Циге Јеринића",
-      "longitude": 20.491715,
-      "latitude": 44.882102
+      "label": "Mirgorodska",
+      "longitude": 20.4828687157376,
+      "latitude": 44.8813600125448
     },
     {
       "id": "_16",
-      "label": "Ефеска",
-      "longitude": 20.496776,
-      "latitude": 44.882614
+      "label": "Branislava Cige Jerinića",
+      "longitude": 20.4917152998459,
+      "latitude": 44.8820924864876
     },
     {
       "id": "_17",
-      "label": "Војвођански Салаши",
-      "longitude": 20.504254,
-      "latitude": 44.883606
+      "label": "Efeska",
+      "longitude": 20.4966424344398,
+      "latitude": 44.8826091673597
     },
     {
       "id": "_18",
-      "label": "Атови",
-      "longitude": 20.510614,
-      "latitude": 44.884416
+      "label": "Vojvođanski salaši",
+      "longitude": 20.5041151940666,
+      "latitude": 44.8835776318719
     },
     {
       "id": "_19",
-      "label": "Агро Кока",
-      "longitude": 20.517122,
-      "latitude": 44.885327
+      "label": "Atovi",
+      "longitude": 20.510690535986,
+      "latitude": 44.8844157939792
     },
     {
       "id": "_20",
-      "label": "Овча /Излаз/",
-      "longitude": 20.523299,
-      "latitude": 44.886388
+      "label": "Agro-koka",
+      "longitude": 20.5153388105037,
+      "latitude": 44.885020473175
     },
     {
       "id": "_21",
-      "label": "Овча /Улаз/",
-      "longitude": 20.530137,
-      "latitude": 44.887037
+      "label": "Ovča (izlaz)",
+      "longitude": 20.5233382296281,
+      "latitude": 44.8863678766631
     },
     {
       "id": "_22",
-      "label": "Овча /Центар/",
-      "longitude": 20.535209,
-      "latitude": 44.888035
+      "label": "Ovča (ulaz)",
+      "longitude": 20.5301461277611,
+      "latitude": 44.8870132960377
     },
     {
       "id": "_23",
-      "label": "Овча /Његошева/",
-      "longitude": 20.53616,
-      "latitude": 44.885666
+      "label": "Ovča (centar)",
+      "longitude": 20.5348282971214,
+      "latitude": 44.8881788833171
     },
     {
       "id": "_24",
-      "label": "Железничка Рампа",
-      "longitude": 20.539336,
-      "latitude": 44.875399
+      "label": "Njegoševa",
+      "longitude": 20.5361988423278,
+      "latitude": 44.8855458005601
     },
     {
       "id": "_25",
-      "label": "Овча /Железничка станица/",
-      "longitude": 20.543227,
-      "latitude": 44.875284
+      "label": "Železnička rampa",
+      "longitude": 20.5390814449843,
+      "latitude": 44.875800237906
+    },
+    {
+      "id": "_26",
+      "label": "Ovča (Železnička stanica)",
+      "longitude": 20.5434995698431,
+      "latitude": 44.8753625142111
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Овча /Железничка станица/",
-      "longitude": 20.543227,
-      "latitude": 44.875284
+      "label": "Ovča (Železnička stanica)",
+      "longitude": 20.5434995698431,
+      "latitude": 44.8753625142111
     },
     {
       "id": "_2",
-      "label": "Железничка Рампа",
-      "longitude": 20.539182,
-      "latitude": 44.875843
+      "label": "Železničlka rampa",
+      "longitude": 20.538961161744,
+      "latitude": 44.8762839241372
     },
     {
       "id": "_3",
-      "label": "Овча /Његошева/",
-      "longitude": 20.536242,
-      "latitude": 44.885791
+      "label": "Njegoševa",
+      "longitude": 20.5362854529681,
+      "latitude": 44.8857963339315
     },
     {
       "id": "_4",
-      "label": "Овча /Боља/",
-      "longitude": 20.538839,
-      "latitude": 44.887491
+      "label": "Bolja",
+      "longitude": 20.53870027571,
+      "latitude": 44.8874529514584
     },
     {
       "id": "_5",
-      "label": "Овча /Ницу Рада/",
-      "longitude": 20.542068,
-      "latitude": 44.888326
+      "label": "Nicu Rada",
+      "longitude": 20.5421620787376,
+      "latitude": 44.8883217485363
     },
     {
       "id": "_6",
-      "label": "Овча /Београдска/",
-      "longitude": 20.542748,
-      "latitude": 44.890255
+      "label": "Ovča (Beogradska)",
+      "longitude": 20.5427340899065,
+      "latitude": 44.890275098348
     },
     {
       "id": "_7",
-      "label": "Овча (Жарка Зрењанина)",
-      "longitude": 20.53838,
-      "latitude": 44.889176
+      "label": "Žarka Zrenjanina",
+      "longitude": 20.5383042731592,
+      "latitude": 44.8891738463062
     },
     {
       "id": "_8",
-      "label": "Овча /Центар/",
-      "longitude": 20.534681,
-      "latitude": 44.888263
+      "label": "Ovča (centar)",
+      "longitude": 20.5348374866327,
+      "latitude": 44.8882959128185
     },
     {
       "id": "_9",
-      "label": "Овча /Улаз/",
-      "longitude": 20.529519,
-      "latitude": 44.886971
+      "label": "Ovča (ulaz)",
+      "longitude": 20.5294933415493,
+      "latitude": 44.8869602263714
     },
     {
       "id": "_10",
-      "label": "Овча /Излаз/",
-      "longitude": 20.522836,
-      "latitude": 44.886431
+      "label": "Ovča (izlaz)",
+      "longitude": 20.5227781247517,
+      "latitude": 44.8864375452913
     },
     {
       "id": "_11",
-      "label": "Агро Кока",
-      "longitude": 20.515963,
-      "latitude": 44.885256
+      "label": "Agro-koka",
+      "longitude": 20.5159999763295,
+      "latitude": 44.8852788456584
     },
     {
       "id": "_12",
-      "label": "Атови",
-      "longitude": 20.509608,
-      "latitude": 44.884383
+      "label": "Atovi",
+      "longitude": 20.5097184312101,
+      "latitude": 44.8844062468502
     },
     {
       "id": "_13",
-      "label": "Војвођански Салаши",
-      "longitude": 20.503693,
-      "latitude": 44.883619
+      "label": "Vojvođanski salaši",
+      "longitude": 20.5037753897709,
+      "latitude": 44.8836427591291
     },
     {
       "id": "_14",
-      "label": "Ефеска",
-      "longitude": 20.497313,
-      "latitude": 44.882801
+      "label": "Efeska",
+      "longitude": 20.4974077033987,
+      "latitude": 44.882819507228
     },
     {
       "id": "_15",
-      "label": "Бранислава Циге Јеринића",
-      "longitude": 20.491182,
-      "latitude": 44.882188
+      "label": "Branislava Cige Jerinića",
+      "longitude": 20.4910866903596,
+      "latitude": 44.8821796951729
     },
     {
       "id": "_16",
-      "label": "Миргородска",
-      "longitude": 20.48218,
-      "latitude": 44.881357
+      "label": "Mirgorodska",
+      "longitude": 20.4820967698427,
+      "latitude": 44.8813385328124
     },
     {
       "id": "_17",
-      "label": "Пут за Овчу",
-      "longitude": 20.476421,
-      "latitude": 44.881395
+      "label": "Put za Ovču",
+      "longitude": 20.4764102215107,
+      "latitude": 44.8814027240837
     },
     {
       "id": "_18",
-      "label": "Попова Бара",
-      "longitude": 20.468888,
-      "latitude": 44.880672
+      "label": "Mihaila Petrovića",
+      "longitude": 20.4718654091144,
+      "latitude": 44.8817454746657
     },
     {
       "id": "_19",
-      "label": "Борча Раскршће",
-      "longitude": 20.467531,
-      "latitude": 44.877219
+      "label": "Popova bara",
+      "longitude": 20.4686616700074,
+      "latitude": 44.8804995651763
     },
     {
       "id": "_20",
-      "label": "Себеш Мокри",
-      "longitude": 20.470556,
-      "latitude": 44.872697
+      "label": "Borča raskršće",
+      "longitude": 20.4675835368457,
+      "latitude": 44.8771557830855
     },
     {
       "id": "_21",
-      "label": "Себешка Река",
-      "longitude": 20.473635,
-      "latitude": 44.868102
+      "label": "Sebeš mokri",
+      "longitude": 20.4705528288382,
+      "latitude": 44.8727238045324
     },
     {
       "id": "_22",
-      "label": "Себеш Суви",
-      "longitude": 20.478635,
-      "latitude": 44.860618
+      "label": "Sebeška reka",
+      "longitude": 20.4736906620926,
+      "latitude": 44.8680765319421
     },
     {
       "id": "_23",
-      "label": "Пакрачка",
-      "longitude": 20.480785,
-      "latitude": 44.857411
+      "label": "Sebeš suvi",
+      "longitude": 20.4786295214143,
+      "latitude": 44.8606565365871
     },
     {
       "id": "_24",
-      "label": "Пиротско Насеље",
-      "longitude": 20.484112,
-      "latitude": 44.852438
+      "label": "Pakračka",
+      "longitude": 20.4807459919225,
+      "latitude": 44.8574533279554
     },
     {
       "id": "_25",
-      "label": "Блок Сутјеска",
-      "longitude": 20.486769,
-      "latitude": 44.848453
+      "label": "Pirotsko naselje",
+      "longitude": 20.4840466935259,
+      "latitude": 44.8525149126039
     },
     {
       "id": "_26",
-      "label": "Партизански Блок",
-      "longitude": 20.488131,
-      "latitude": 44.846097
+      "label": "Blok Sutjeska",
+      "longitude": 20.4867212487704,
+      "latitude": 44.8485077439287
     },
     {
       "id": "_27",
-      "label": "Блок Бранко Момиров",
-      "longitude": 20.490776,
-      "latitude": 44.841187
+      "label": "Partizanski blok",
+      "longitude": 20.488254243672,
+      "latitude": 44.8459551401503
     },
     {
       "id": "_28",
-      "label": "Омладински Стадион",
-      "longitude": 20.489693,
-      "latitude": 44.815337
+      "label": "Blok Branka Momirova",
+      "longitude": 20.4908213801493,
+      "latitude": 44.8411464382178
     },
     {
       "id": "_29",
-      "label": "Омладински Стадион",
-      "longitude": 20.490085,
-      "latitude": 44.815368
+      "label": "Omladinski stadion (izlaz)",
+      "longitude": 20.4895760577327,
+      "latitude": 44.8152979432564
     }
   ]
 }

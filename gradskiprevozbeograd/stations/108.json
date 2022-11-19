@@ -2,191 +2,185 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Омладински Стадион",
-      "longitude": 20.490085,
-      "latitude": 44.815368
+      "label": "Omladinski stadion (ulaz)",
+      "longitude": 20.4899881419036,
+      "latitude": 44.8153087746295
     },
     {
       "id": "_2",
-      "label": "Блок Браће Марић",
-      "longitude": 20.500748,
-      "latitude": 44.840133
+      "label": "Blok Braća Marić",
+      "longitude": 20.500764489909,
+      "latitude": 44.8401641745819
     },
     {
       "id": "_3",
-      "label": "Јанко Лисјак",
-      "longitude": 20.509476,
-      "latitude": 44.843929
+      "label": "Janko Lisjak",
+      "longitude": 20.5095108050078,
+      "latitude": 44.8439636607123
     },
     {
       "id": "_4",
-      "label": "Прогрес",
-      "longitude": 20.514414,
-      "latitude": 44.846033
+      "label": "Progres",
+      "longitude": 20.5144519802946,
+      "latitude": 44.8460635437679
     },
     {
       "id": "_5",
-      "label": "Политика",
-      "longitude": 20.519116,
-      "latitude": 44.847544
+      "label": "Politika",
+      "longitude": 20.5191630315859,
+      "latitude": 44.8475808830213
     },
     {
       "id": "_6",
-      "label": "Хидротехника",
-      "longitude": 20.527652,
-      "latitude": 44.849822
+      "label": "Hidrotehnika",
+      "longitude": 20.5277014206277,
+      "latitude": 44.8498535907642
     },
     {
       "id": "_7",
-      "label": "Рафинерија",
-      "longitude": 20.53207,
-      "latitude": 44.850991
+      "label": "Rafinerija",
+      "longitude": 20.5321324599329,
+      "latitude": 44.8510326619359
     },
     {
       "id": "_8",
-      "label": "Балкан",
-      "longitude": 20.537299,
-      "latitude": 44.852387
+      "label": "Balkan",
+      "longitude": 20.5372580353076,
+      "latitude": 44.8523979507856
     },
     {
       "id": "_9",
-      "label": "Радиостаница",
-      "longitude": 20.54444,
-      "latitude": 44.854287
+      "label": "Radiostanica",
+      "longitude": 20.5444620530173,
+      "latitude": 44.8543130398228
     },
     {
       "id": "_10",
-      "label": "Насеље Илић",
-      "longitude": 20.554706,
-      "latitude": 44.857023
+      "label": "Naselje Ilić",
+      "longitude": 20.554593419692,
+      "latitude": 44.8570076164766
     },
     {
       "id": "_11",
-      "label": "Десети километар",
-      "longitude": 20.562026,
-      "latitude": 44.858965
+      "label": "Deseti kilometar",
+      "longitude": 20.561950100881,
+      "latitude": 44.8589653900664
     },
     {
       "id": "_12",
-      "label": "Сибница",
-      "longitude": 20.590325,
-      "latitude": 44.866445
+      "label": "Sibnica",
+      "longitude": 20.5904297225535,
+      "latitude": 44.8665003850741
     },
     {
       "id": "_13",
-      "label": "МЗ Рева /Мали Рај/",
-      "longitude": 20.595362,
-      "latitude": 44.867767
+      "label": "MZ Reva (Mali raj)",
+      "longitude": 20.595449508996,
+      "latitude": 44.8678230838986
     },
     {
       "id": "_14",
-      "label": "Сибничка 4.Део",
-      "longitude": 20.606873,
-      "latitude": 44.869658
+      "label": "Sibnička nova 4. deo",
+      "longitude": 20.6069504065473,
+      "latitude": 44.8696934737403
     },
     {
       "id": "_15",
-      "label": "Рева /Дубока Бара/",
-      "longitude": 20.615032,
-      "latitude": 44.870207
+      "label": "Reva (Duboka bara)",
+      "longitude": 20.615231194656,
+      "latitude": 44.8702164571237
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Рева /Дубока Бара/",
-      "longitude": 20.615032,
-      "latitude": 44.870207
+      "label": "Reva (Duboka bara)",
+      "longitude": 20.615231194656,
+      "latitude": 44.8702164571237
     },
     {
       "id": "_2",
-      "label": "Сибничка 4.Део",
-      "longitude": 20.605557,
-      "latitude": 44.86979
+      "label": "Sibnička nova 4. deo",
+      "longitude": 20.6055047005639,
+      "latitude": 44.869760516735
     },
     {
       "id": "_3",
-      "label": "МЗ Рева /Мали Рај/",
-      "longitude": 20.594783,
-      "latitude": 44.86781
+      "label": "MZ Reva (Mali raj)",
+      "longitude": 20.595087433615,
+      "latitude": 44.867843407459
     },
     {
       "id": "_4",
-      "label": "Сибница",
-      "longitude": 20.588529,
-      "latitude": 44.866139
+      "label": "Sibnica",
+      "longitude": 20.5884559446902,
+      "latitude": 44.8660919584447
     },
     {
       "id": "_5",
-      "label": "Десети километар",
-      "longitude": 20.560732,
-      "latitude": 44.858894
+      "label": "Deseti kilometar",
+      "longitude": 20.5606374015912,
+      "latitude": 44.8588739819644
     },
     {
       "id": "_6",
-      "label": "Насеље Илић",
-      "longitude": 20.553379,
-      "latitude": 44.856939
+      "label": "Naselje Ilić",
+      "longitude": 20.5533842905173,
+      "latitude": 44.8569471246956
     },
     {
       "id": "_7",
-      "label": "Радиостаница",
-      "longitude": 20.543129,
-      "latitude": 44.854213
+      "label": "Radiostanica",
+      "longitude": 20.5431949355306,
+      "latitude": 44.8542342111855
     },
     {
       "id": "_8",
-      "label": "Балкан",
-      "longitude": 20.53606,
-      "latitude": 44.852336
+      "label": "Balkan",
+      "longitude": 20.5360162583409,
+      "latitude": 44.852320944472
     },
     {
       "id": "_9",
-      "label": "Рафинерија",
-      "longitude": 20.530819,
-      "latitude": 44.850938
+      "label": "Rafinerija",
+      "longitude": 20.5308225644982,
+      "latitude": 44.8509355227397
     },
     {
       "id": "_10",
-      "label": "Хидротехника",
-      "longitude": 20.526531,
-      "latitude": 44.849794
+      "label": "Hidrotehnika",
+      "longitude": 20.5265177728828,
+      "latitude": 44.8497929192591
     },
     {
       "id": "_11",
-      "label": "Политика",
-      "longitude": 20.517849,
-      "latitude": 44.847463
+      "label": "Politika",
+      "longitude": 20.5179012630834,
+      "latitude": 44.8474891967867
     },
     {
       "id": "_12",
-      "label": "Прогрес",
-      "longitude": 20.513071,
-      "latitude": 44.845795
+      "label": "Progres",
+      "longitude": 20.5132821303963,
+      "latitude": 44.8458768007834
     },
     {
       "id": "_13",
-      "label": "Јанко Лисјак",
-      "longitude": 20.508373,
-      "latitude": 44.84375
+      "label": "Janko Lisjak",
+      "longitude": 20.5083916873006,
+      "latitude": 44.8437680848338
     },
     {
       "id": "_14",
-      "label": "Блок Браће Марић",
-      "longitude": 20.499603,
-      "latitude": 44.839936
+      "label": "Blok Braća Marić",
+      "longitude": 20.4996786719085,
+      "latitude": 44.8399326600864
     },
     {
       "id": "_15",
-      "label": "Омладински Стадион",
-      "longitude": 20.489693,
-      "latitude": 44.815337
-    },
-    {
-      "id": "_16",
-      "label": "Омладински Стадион",
-      "longitude": 20.490085,
-      "latitude": 44.815368
+      "label": "Omladinski stadion (izlaz)",
+      "longitude": 20.4895760577327,
+      "latitude": 44.8152979432564
     }
   ]
 }

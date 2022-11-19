@@ -2,101 +2,137 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Погон Космај",
-      "longitude": 20.517325,
-      "latitude": 44.772199
+      "label": "Pogon Kosmaj",
+      "longitude": 20.5172308597793,
+      "latitude": 44.7722179204217
     },
     {
       "id": "_2",
-      "label": "СП Ласта",
-      "longitude": 20.518389,
-      "latitude": 44.771802
+      "label": "SP Lasta",
+      "longitude": 20.5184292058015,
+      "latitude": 44.7718359708436
     },
     {
       "id": "_3",
-      "label": "Владимира Томановића",
-      "longitude": 20.5021,
-      "latitude": 44.781843
+      "label": "Vladimira Tomanovića",
+      "longitude": 20.5020656605764,
+      "latitude": 44.7818762908247
     },
     {
       "id": "_4",
-      "label": "Шумице",
-      "longitude": 20.500191,
-      "latitude": 44.783646
+      "label": "Šumice",
+      "longitude": 20.4998872053095,
+      "latitude": 44.7836379360318
     },
     {
       "id": "_5",
-      "label": "Хотел Србија",
-      "longitude": 20.493834,
-      "latitude": 44.784184
+      "label": "Hotel Srbija",
+      "longitude": 20.4937971026732,
+      "latitude": 44.7841332150496
     },
     {
       "id": "_6",
-      "label": "Грчића Миленка",
-      "longitude": 20.486505,
-      "latitude": 44.784398
+      "label": "Grčića Milenka",
+      "longitude": 20.4864835556317,
+      "latitude": 44.7843527147831
     },
     {
       "id": "_7",
-      "label": "Душановац /Пошта/",
-      "longitude": 20.481333,
-      "latitude": 44.784836
+      "label": "Dušanovac (pošta)",
+      "longitude": 20.481344054214,
+      "latitude": 44.7847921816981
     },
     {
       "id": "_8",
-      "label": "Дом Здравља Вождовац",
-      "longitude": 20.473891,
-      "latitude": 44.787634
+      "label": "Dom zdravlja Voždovac",
+      "longitude": 20.4738168860646,
+      "latitude": 44.7876593766134
     },
     {
       "id": "_9",
-      "label": "Франше Д'Епереа",
-      "longitude": 20.468254,
-      "latitude": 44.790876
+      "label": "Franše D'Eperea",
+      "longitude": 20.4682170383353,
+      "latitude": 44.7908590058077
     },
     {
       "id": "_10",
-      "label": "Делиградска",
-      "longitude": 20.457582,
-      "latitude": 44.795793
+      "label": "Deligradska",
+      "longitude": 20.4574991397711,
+      "latitude": 44.795814386296
     },
     {
       "id": "_11",
-      "label": "Мостар",
-      "longitude": 20.44927,
-      "latitude": 44.798762
+      "label": "Mostar",
+      "longitude": 20.4492660247473,
+      "latitude": 44.7987396141814
+    },
+    {
+      "id": "_12",
+      "label": "Ortopedski zavod",
+      "longitude": 20.449645218621,
+      "latitude": 44.7931293143198
+    },
+    {
+      "id": "_13",
+      "label": "Železnička stanica BGD centar",
+      "longitude": 20.4539804454148,
+      "latitude": 44.7925740557622
+    },
+    {
+      "id": "_14",
+      "label": "Gučevska",
+      "longitude": 20.4580126416515,
+      "latitude": 44.7925211767222
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Мостар",
-      "longitude": 20.448834,
-      "latitude": 44.798229
+      "label": "Gučevska",
+      "longitude": 20.4580126416515,
+      "latitude": 44.7925211767222
     },
     {
       "id": "_2",
-      "label": "Делиградска",
-      "longitude": 20.457354,
-      "latitude": 44.795328
+      "label": "Železnička stanica BGD centar",
+      "longitude": 20.4543971451321,
+      "latitude": 44.7926138361431
     },
     {
       "id": "_3",
-      "label": "Франше Д'Епереа",
-      "longitude": 20.466418,
-      "latitude": 44.791518
+      "label": "Ortopedski zavod",
+      "longitude": 20.4487869469579,
+      "latitude": 44.7951410939727
     },
     {
       "id": "_4",
-      "label": "Погон Космај",
-      "longitude": 20.517407,
-      "latitude": 44.772262
+      "label": "Mostar",
+      "longitude": 20.4488893135074,
+      "latitude": 44.7982104318979
     },
     {
       "id": "_5",
-      "label": "Погон Космај",
-      "longitude": 20.517325,
-      "latitude": 44.772199
+      "label": "Deligradska",
+      "longitude": 20.457407735647,
+      "latitude": 44.7953153789886
+    },
+    {
+      "id": "_6",
+      "label": "Franše D'Eperea",
+      "longitude": 20.4664495230787,
+      "latitude": 44.7914861699274
+    },
+    {
+      "id": "_7",
+      "label": "Toplice Milana",
+      "longitude": 20.4981507045294,
+      "latitude": 44.7807324949586
+    },
+    {
+      "id": "_8",
+      "label": "Pogon Kosmaj",
+      "longitude": 20.5172308597793,
+      "latitude": 44.7722179204217
     }
   ]
 }

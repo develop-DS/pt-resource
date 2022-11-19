@@ -2,59 +2,58 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Културни центар Београд",
-      "longitude": 20.459332,
-      "latitude": 44.815674
-    }
-  ],
-  "direction_b": [
-    {
-      "id": "_1",
-      "label": "Делијска чесма",
-      "longitude": 20.457347,
-      "latitude": 44.817797
+      "label": "Obilićev venac",
+      "longitude": 20.4578124917441,
+      "latitude": 44.815892029172
     },
     {
       "id": "_2",
-      "label": "Студентски трг",
-      "longitude": 20.457377,
-      "latitude": 44.8188
+      "label": "Kulturni centar Beograd",
+      "longitude": 20.4592840482435,
+      "latitude": 44.8156379871712
     },
     {
       "id": "_3",
-      "label": "Калемегдан",
-      "longitude": 20.454367,
-      "latitude": 44.819278
+      "label": "Delijska česma",
+      "longitude": 20.4574912356194,
+      "latitude": 44.8178002082769
     },
     {
       "id": "_4",
-      "label": "Конак Књегиње Љубице",
-      "longitude": 20.451972,
-      "latitude": 44.817533
+      "label": "Studentski trg",
+      "longitude": 20.4574417046119,
+      "latitude": 44.8187719217104
     },
     {
       "id": "_5",
-      "label": "Косанчићев венац",
-      "longitude": 20.452754,
-      "latitude": 44.816428
+      "label": "Kalemegdan",
+      "longitude": 20.4544773962429,
+      "latitude": 44.8193626337204
     },
     {
       "id": "_6",
-      "label": "Топличин венац",
-      "longitude": 20.455537,
-      "latitude": 44.816665
+      "label": "Konak kneginje Ljubice",
+      "longitude": 20.4519528168994,
+      "latitude": 44.8175650989728
     },
     {
       "id": "_7",
-      "label": "Обилићев венац",
-      "longitude": 20.457904,
-      "latitude": 44.815909
+      "label": "Kosančićev venac",
+      "longitude": 20.4515348290118,
+      "latitude": 44.8160349835921
     },
     {
       "id": "_8",
-      "label": "Културни центар Београд",
-      "longitude": 20.459332,
-      "latitude": 44.815674
+      "label": "Topličin venac",
+      "longitude": 20.4557309813012,
+      "latitude": 44.8156607862891
+    },
+    {
+      "id": "_9",
+      "label": "Obilićev venac",
+      "longitude": 20.4578124917441,
+      "latitude": 44.815892029172
     }
-  ]
+  ],
+  "direction_b": []
 }

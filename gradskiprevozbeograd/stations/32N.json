@@ -1,0 +1,318 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Trg republike",
+      "longitude": 20.4613578847858,
+      "latitude": 44.8166988848543
+    },
+    {
+      "id": "_2",
+      "label": "Bulevar despota Stefana",
+      "longitude": 20.4692938734787,
+      "latitude": 44.8163434835923
+    },
+    {
+      "id": "_3",
+      "label": "Takovska",
+      "longitude": 20.4718837356293,
+      "latitude": 44.8135133831198
+    },
+    {
+      "id": "_4",
+      "label": "Palilulska pijaca",
+      "longitude": 20.4744349063776,
+      "latitude": 44.8104598570345
+    },
+    {
+      "id": "_5",
+      "label": "Mašinski fakultet",
+      "longitude": 20.476835962319,
+      "latitude": 44.8077619695552
+    },
+    {
+      "id": "_6",
+      "label": "Dalmatinska",
+      "longitude": 20.4802461581991,
+      "latitude": 44.8066957208867
+    },
+    {
+      "id": "_7",
+      "label": "Novo groblje",
+      "longitude": 20.4866497871415,
+      "latitude": 44.8107779308082
+    },
+    {
+      "id": "_8",
+      "label": "Vatrogasna komanda",
+      "longitude": 20.4889041974732,
+      "latitude": 44.8126202954361
+    },
+    {
+      "id": "_9",
+      "label": "Omladinski stadion",
+      "longitude": 20.4912152864622,
+      "latitude": 44.8146482563707
+    },
+    {
+      "id": "_10",
+      "label": "Vuka Vrčevića",
+      "longitude": 20.4954830533882,
+      "latitude": 44.8176369359186
+    },
+    {
+      "id": "_11",
+      "label": "Vojvode Micka Krstića",
+      "longitude": 20.5010463013331,
+      "latitude": 44.8176522536747
+    },
+    {
+      "id": "_12",
+      "label": "Patrisa Lumumbe",
+      "longitude": 20.5062611125488,
+      "latitude": 44.81462576483
+    },
+    {
+      "id": "_13",
+      "label": "Diljska",
+      "longitude": 20.5109346294533,
+      "latitude": 44.8130600542843
+    },
+    {
+      "id": "_14",
+      "label": "Stevana Hristića",
+      "longitude": 20.51301382532,
+      "latitude": 44.8129788977167
+    },
+    {
+      "id": "_15",
+      "label": "Husinjskih rudara",
+      "longitude": 20.5179695312854,
+      "latitude": 44.8127172267434
+    },
+    {
+      "id": "_16",
+      "label": "Salvadora Aljendea",
+      "longitude": 20.5218185783682,
+      "latitude": 44.8104996397428
+    },
+    {
+      "id": "_17",
+      "label": "Karaburma 2",
+      "longitude": 20.5222276506891,
+      "latitude": 44.8068709320311
+    },
+    {
+      "id": "_18",
+      "label": "Pere Ćetkovića",
+      "longitude": 20.5248386582202,
+      "latitude": 44.8057262269258
+    },
+    {
+      "id": "_19",
+      "label": "Mirijevsko brdo",
+      "longitude": 20.524387974241,
+      "latitude": 44.8082802284206
+    },
+    {
+      "id": "_20",
+      "label": "Marijane Gregoran",
+      "longitude": 20.523109073281,
+      "latitude": 44.8113077649312
+    },
+    {
+      "id": "_21",
+      "label": "Pogon Karaburma",
+      "longitude": 20.5205896478246,
+      "latitude": 44.8141915197281
+    },
+    {
+      "id": "_22",
+      "label": "Rospi ćuprija",
+      "longitude": 20.523653021203,
+      "latitude": 44.8180632636969
+    },
+    {
+      "id": "_23",
+      "label": "Marina",
+      "longitude": 20.5264545037059,
+      "latitude": 44.8187408160903
+    },
+    {
+      "id": "_24",
+      "label": "FK Banja",
+      "longitude": 20.5314647685216,
+      "latitude": 44.8199223068472
+    },
+    {
+      "id": "_25",
+      "label": "Višnjička banja",
+      "longitude": 20.5368436026984,
+      "latitude": 44.8215298415887
+    },
+    {
+      "id": "_26",
+      "label": "Despotovačka",
+      "longitude": 20.5413630156956,
+      "latitude": 44.8247212065633
+    },
+    {
+      "id": "_27",
+      "label": "Lovačka",
+      "longitude": 20.5439542018543,
+      "latitude": 44.8271271933727
+    },
+    {
+      "id": "_28",
+      "label": "Višnjica",
+      "longitude": 20.5482909788245,
+      "latitude": 44.8308179277071
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Višnjica",
+      "longitude": 20.5476956999385,
+      "latitude": 44.8306049967175
+    },
+    {
+      "id": "_2",
+      "label": "Lovačka",
+      "longitude": 20.544155084588,
+      "latitude": 44.8276355627783
+    },
+    {
+      "id": "_3",
+      "label": "Despotovačka",
+      "longitude": 20.5411133209638,
+      "latitude": 44.8243134314258
+    },
+    {
+      "id": "_4",
+      "label": "Višnjička banja",
+      "longitude": 20.5372603213429,
+      "latitude": 44.8219185004947
+    },
+    {
+      "id": "_5",
+      "label": "FK Banja",
+      "longitude": 20.5306309823071,
+      "latitude": 44.8198289065479
+    },
+    {
+      "id": "_6",
+      "label": "Marina",
+      "longitude": 20.52680215649,
+      "latitude": 44.8189042406189
+    },
+    {
+      "id": "_7",
+      "label": "Rospi ćuprija",
+      "longitude": 20.5218657930662,
+      "latitude": 44.8179838388451
+    },
+    {
+      "id": "_8",
+      "label": "Pogon Karaburma",
+      "longitude": 20.5207882837203,
+      "latitude": 44.8134075905959
+    },
+    {
+      "id": "_9",
+      "label": "Karaburma 2",
+      "longitude": 20.5222276506891,
+      "latitude": 44.8068709320311
+    },
+    {
+      "id": "_10",
+      "label": "Salvadora Aljendea",
+      "longitude": 20.5221358265856,
+      "latitude": 44.8100473843558
+    },
+    {
+      "id": "_11",
+      "label": "Husinjskih rudara",
+      "longitude": 20.5177146065819,
+      "latitude": 44.8129663429274
+    },
+    {
+      "id": "_12",
+      "label": "Stevana Hristića",
+      "longitude": 20.5137995167317,
+      "latitude": 44.8130632235533
+    },
+    {
+      "id": "_13",
+      "label": "Diljska",
+      "longitude": 20.5102837396024,
+      "latitude": 44.8131832728994
+    },
+    {
+      "id": "_14",
+      "label": "Patrisa Lumumbe",
+      "longitude": 20.5064098866519,
+      "latitude": 44.81467500203
+    },
+    {
+      "id": "_15",
+      "label": "Vuka Vrčevića",
+      "longitude": 20.4967449953722,
+      "latitude": 44.8179214607077
+    },
+    {
+      "id": "_16",
+      "label": "SUP Palilula",
+      "longitude": 20.4937449077625,
+      "latitude": 44.8171541083316
+    },
+    {
+      "id": "_17",
+      "label": "Omladinski stadion",
+      "longitude": 20.4902263510143,
+      "latitude": 44.8140966974399
+    },
+    {
+      "id": "_18",
+      "label": "Vatrogasna komanda",
+      "longitude": 20.4879102459397,
+      "latitude": 44.8120704938242
+    },
+    {
+      "id": "_19",
+      "label": "Novo groblje",
+      "longitude": 20.4848471309767,
+      "latitude": 44.8099022992411
+    },
+    {
+      "id": "_20",
+      "label": "Dalmatinska",
+      "longitude": 20.480615642886,
+      "latitude": 44.8072229663571
+    },
+    {
+      "id": "_21",
+      "label": "Mašinski fakultet",
+      "longitude": 20.4773121674271,
+      "latitude": 44.8076651445898
+    },
+    {
+      "id": "_22",
+      "label": "Palilulska pijaca",
+      "longitude": 20.4748550255486,
+      "latitude": 44.8104167826562
+    },
+    {
+      "id": "_23",
+      "label": "Politika",
+      "longitude": 20.4648436112707,
+      "latitude": 44.8154822604605
+    },
+    {
+      "id": "_24",
+      "label": "Trg republike",
+      "longitude": 20.4610306188357,
+      "latitude": 44.8162671711599
+    }
+  ]
+}

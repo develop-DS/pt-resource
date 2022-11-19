@@ -2,107 +2,77 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Кумодраж 2 ",
-      "longitude": 20.497862,
-      "latitude": 44.748694
+      "label": "Trg Slavija",
+      "longitude": 20.4658913763059,
+      "latitude": 44.8027240093001
     },
     {
       "id": "_2",
-      "label": "Фармацеутски Факултет",
-      "longitude": 20.495442,
-      "latitude": 44.74862
+      "label": "Trg Slavija (Nemanjina)",
+      "longitude": 20.4645643189521,
+      "latitude": 44.8032487975536
     },
     {
       "id": "_3",
-      "label": "Беранска",
-      "longitude": 20.491829,
-      "latitude": 44.753524
+      "label": "Kneza Miloša",
+      "longitude": 20.461314907081,
+      "latitude": 44.8052350860987
     },
     {
       "id": "_4",
-      "label": "Милића Маринковића",
-      "longitude": 20.489246,
-      "latitude": 44.756
+      "label": "Nemanjina",
+      "longitude": 20.4583623579774,
+      "latitude": 44.8078994480017
     },
     {
       "id": "_5",
-      "label": "Вождовац",
-      "longitude": 20.484923,
-      "latitude": 44.760883
+      "label": "Ekonomski fakultet",
+      "longitude": 20.4527682918772,
+      "latitude": 44.8107221552626
     },
     {
       "id": "_6",
-      "label": "Врачарска 1",
-      "longitude": 20.481079,
-      "latitude": 44.757182
-    },
-    {
-      "id": "_7",
-      "label": "Баштованска",
-      "longitude": 20.476919,
-      "latitude": 44.756344
-    },
-    {
-      "id": "_8",
-      "label": "Крагујевачких Ђака",
-      "longitude": 20.477445,
-      "latitude": 44.754155
-    },
-    {
-      "id": "_9",
-      "label": "Бањица 2",
-      "longitude": 20.479971,
-      "latitude": 44.751885
+      "label": "Novi Beograd (Blok 20)",
+      "longitude": 20.4380491650084,
+      "latitude": 44.8112605381285
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Бањица 2",
-      "longitude": 20.479971,
-      "latitude": 44.751885
+      "label": "Novi Beograd (Blok 20)",
+      "longitude": 20.4380491650084,
+      "latitude": 44.8112605381285
     },
     {
       "id": "_2",
-      "label": "Крагујевачких Ђака",
-      "longitude": 20.477068,
-      "latitude": 44.754789
+      "label": "Ekonomski fakultet",
+      "longitude": 20.454085060951,
+      "latitude": 44.8107842250184
     },
     {
       "id": "_3",
-      "label": "Баштованска",
-      "longitude": 20.47722,
-      "latitude": 44.756977
+      "label": "Savski trg",
+      "longitude": 20.4578441127691,
+      "latitude": 44.8070780430471
     },
     {
       "id": "_4",
-      "label": "Врачарска 1",
-      "longitude": 20.480966,
-      "latitude": 44.757127
+      "label": "Kneza Miloša",
+      "longitude": 20.4606080823449,
+      "latitude": 44.8053901574623
     },
     {
       "id": "_5",
-      "label": "Вождовац",
-      "longitude": 20.484695,
-      "latitude": 44.760873
+      "label": "Trg Slavija (Nemanjina)",
+      "longitude": 20.4645567418167,
+      "latitude": 44.8029733763053
     },
     {
       "id": "_6",
-      "label": "Милића Маринковића",
-      "longitude": 20.489923,
-      "latitude": 44.755421
-    },
-    {
-      "id": "_7",
-      "label": "Беранска",
-      "longitude": 20.492269,
-      "latitude": 44.752471
-    },
-    {
-      "id": "_8",
-      "label": "Кумодраж 2 ",
-      "longitude": 20.497862,
-      "latitude": 44.748694
+      "label": "Trg Slavija",
+      "longitude": 20.4658913763059,
+      "latitude": 44.8027240093001
     }
   ]
 }

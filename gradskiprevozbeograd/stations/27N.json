@@ -1,0 +1,354 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Trg republike",
+      "longitude": 20.4617425740777,
+      "latitude": 44.8166646919616
+    },
+    {
+      "id": "_2",
+      "label": "Bulevar despota Stefana",
+      "longitude": 20.4692938734787,
+      "latitude": 44.8163434835923
+    },
+    {
+      "id": "_3",
+      "label": "Takovska",
+      "longitude": 20.4718837356293,
+      "latitude": 44.8135133831198
+    },
+    {
+      "id": "_4",
+      "label": "Palilulska pijaca",
+      "longitude": 20.4744349063776,
+      "latitude": 44.8104598570345
+    },
+    {
+      "id": "_5",
+      "label": "Mašinski fakultet",
+      "longitude": 20.476835962319,
+      "latitude": 44.8077619695552
+    },
+    {
+      "id": "_6",
+      "label": "Dalmatinska",
+      "longitude": 20.4802461581991,
+      "latitude": 44.8066957208867
+    },
+    {
+      "id": "_7",
+      "label": "Braće Ribnikar",
+      "longitude": 20.4839245386133,
+      "latitude": 44.8084438304238
+    },
+    {
+      "id": "_8",
+      "label": "Veljka Dugoševića",
+      "longitude": 20.4912996318641,
+      "latitude": 44.8052945203722
+    },
+    {
+      "id": "_9",
+      "label": "Pante Srećkovića",
+      "longitude": 20.4940659145766,
+      "latitude": 44.8061257048583
+    },
+    {
+      "id": "_10",
+      "label": "Ljubice Luković",
+      "longitude": 20.4938603253771,
+      "latitude": 44.8079607032141
+    },
+    {
+      "id": "_11",
+      "label": "Servisi",
+      "longitude": 20.4931805351922,
+      "latitude": 44.8111129384856
+    },
+    {
+      "id": "_12",
+      "label": "VMC Karaburma",
+      "longitude": 20.492221446325,
+      "latitude": 44.8138085568892
+    },
+    {
+      "id": "_13",
+      "label": "Generala Aračića",
+      "longitude": 20.4971830122624,
+      "latitude": 44.8137656023914
+    },
+    {
+      "id": "_14",
+      "label": "Marijane Gregoran",
+      "longitude": 20.5001752632761,
+      "latitude": 44.8133700924916
+    },
+    {
+      "id": "_15",
+      "label": "Triglavska",
+      "longitude": 20.5068702109895,
+      "latitude": 44.8116801390382
+    },
+    {
+      "id": "_16",
+      "label": "Oštreljska",
+      "longitude": 20.5094035776371,
+      "latitude": 44.8108090399142
+    },
+    {
+      "id": "_17",
+      "label": "Astronomska",
+      "longitude": 20.5138944420675,
+      "latitude": 44.8080580882236
+    },
+    {
+      "id": "_18",
+      "label": "Ćalije",
+      "longitude": 20.5173095515758,
+      "latitude": 44.8054050355837
+    },
+    {
+      "id": "_19",
+      "label": "Sime Trojanovića",
+      "longitude": 20.5194421805089,
+      "latitude": 44.8018807629976
+    },
+    {
+      "id": "_20",
+      "label": "Nikole Doksata",
+      "longitude": 20.5209404735679,
+      "latitude": 44.7995309440232
+    },
+    {
+      "id": "_21",
+      "label": "Bosutska",
+      "longitude": 20.5219804416519,
+      "latitude": 44.796644623939
+    },
+    {
+      "id": "_22",
+      "label": "Ladne vode",
+      "longitude": 20.523503344497,
+      "latitude": 44.7943470690466
+    },
+    {
+      "id": "_23",
+      "label": "Vitezova Karađorđeve zvezde",
+      "longitude": 20.5245415152447,
+      "latitude": 44.7925820603455
+    },
+    {
+      "id": "_24",
+      "label": "Selište",
+      "longitude": 20.5275184582277,
+      "latitude": 44.7901770676703
+    },
+    {
+      "id": "_25",
+      "label": "Stojčino brdo",
+      "longitude": 20.5308598491488,
+      "latitude": 44.7892494141877
+    },
+    {
+      "id": "_26",
+      "label": "Mirijevski venac",
+      "longitude": 20.5336635718338,
+      "latitude": 44.7894840238412
+    },
+    {
+      "id": "_27",
+      "label": "Matice srpske",
+      "longitude": 20.5384753748977,
+      "latitude": 44.7898922445669
+    },
+    {
+      "id": "_28",
+      "label": "Semjuela Beketa",
+      "longitude": 20.5406720438741,
+      "latitude": 44.7905094219603
+    },
+    {
+      "id": "_29",
+      "label": "Mirijevo 3",
+      "longitude": 20.536889059854,
+      "latitude": 44.7938960609304
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Mirijevo 3",
+      "longitude": 20.5368446846388,
+      "latitude": 44.79343690469
+    },
+    {
+      "id": "_2",
+      "label": "Semjuela Beketa",
+      "longitude": 20.540520519036,
+      "latitude": 44.7904926165988
+    },
+    {
+      "id": "_3",
+      "label": "Matice srpske",
+      "longitude": 20.5382146838846,
+      "latitude": 44.7899361943702
+    },
+    {
+      "id": "_4",
+      "label": "Mirijevski venac",
+      "longitude": 20.5333305913389,
+      "latitude": 44.7894016750489
+    },
+    {
+      "id": "_5",
+      "label": "Stojčino brdo",
+      "longitude": 20.5301761936522,
+      "latitude": 44.789399611522
+    },
+    {
+      "id": "_6",
+      "label": "Selište",
+      "longitude": 20.527653675794,
+      "latitude": 44.7906456010852
+    },
+    {
+      "id": "_7",
+      "label": "Vitezova Karađorđeve zvezde",
+      "longitude": 20.5251434432951,
+      "latitude": 44.7925413534455
+    },
+    {
+      "id": "_8",
+      "label": "Ladne vode",
+      "longitude": 20.5230707419731,
+      "latitude": 44.7953154246626
+    },
+    {
+      "id": "_9",
+      "label": "Bosutska",
+      "longitude": 20.5219635603711,
+      "latitude": 44.7971611277782
+    },
+    {
+      "id": "_10",
+      "label": "Nikole Doksata",
+      "longitude": 20.5205280201776,
+      "latitude": 44.8001915887999
+    },
+    {
+      "id": "_11",
+      "label": "Sime Trojanovića",
+      "longitude": 20.5194053029073,
+      "latitude": 44.8023665838492
+    },
+    {
+      "id": "_12",
+      "label": "Ćalije",
+      "longitude": 20.5179358394237,
+      "latitude": 44.8048820940423
+    },
+    {
+      "id": "_13",
+      "label": "Astronomska",
+      "longitude": 20.5142620374571,
+      "latitude": 44.8079408502817
+    },
+    {
+      "id": "_14",
+      "label": "Oštreljska",
+      "longitude": 20.5101538691377,
+      "latitude": 44.8105890555507
+    },
+    {
+      "id": "_15",
+      "label": "Triglavska",
+      "longitude": 20.5069173514973,
+      "latitude": 44.8117865359343
+    },
+    {
+      "id": "_16",
+      "label": "Marijane Gregoran",
+      "longitude": 20.5006534022813,
+      "latitude": 44.8133433749893
+    },
+    {
+      "id": "_17",
+      "label": "Generala Aračića",
+      "longitude": 20.4965036485415,
+      "latitude": 44.8139606138908
+    },
+    {
+      "id": "_18",
+      "label": "VMC Karaburma",
+      "longitude": 20.4921812900411,
+      "latitude": 44.8134843964154
+    },
+    {
+      "id": "_19",
+      "label": "Servisi",
+      "longitude": 20.493140296845,
+      "latitude": 44.8107977773614
+    },
+    {
+      "id": "_20",
+      "label": "Ljubice Luković",
+      "longitude": 20.493681324154,
+      "latitude": 44.8081921016566
+    },
+    {
+      "id": "_21",
+      "label": "Pante Srećkovića",
+      "longitude": 20.4938866067247,
+      "latitude": 44.8063931004817
+    },
+    {
+      "id": "_22",
+      "label": "Veljka Dugoševića",
+      "longitude": 20.4924069397001,
+      "latitude": 44.805303022458
+    },
+    {
+      "id": "_23",
+      "label": "Toplička",
+      "longitude": 20.4901367759814,
+      "latitude": 44.8058545314381
+    },
+    {
+      "id": "_24",
+      "label": "Braće Ribnikar",
+      "longitude": 20.4844339566731,
+      "latitude": 44.8083075271765
+    },
+    {
+      "id": "_25",
+      "label": "Dalmatinska",
+      "longitude": 20.480615642886,
+      "latitude": 44.8072229663571
+    },
+    {
+      "id": "_26",
+      "label": "Mašinski fakultet",
+      "longitude": 20.4773121674271,
+      "latitude": 44.8076651445898
+    },
+    {
+      "id": "_27",
+      "label": "Palilulska pijaca",
+      "longitude": 20.4748550255486,
+      "latitude": 44.8104167826562
+    },
+    {
+      "id": "_28",
+      "label": "Politika",
+      "longitude": 20.4648436112707,
+      "latitude": 44.8154822604605
+    },
+    {
+      "id": "_29",
+      "label": "Trg republike",
+      "longitude": 20.4610306188357,
+      "latitude": 44.8162671711599
+    }
+  ]
+}

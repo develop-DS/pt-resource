@@ -2,149 +2,293 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Вождовац",
-      "longitude": 20.483671,
-      "latitude": 44.761082
+      "label": "Voždovac (terminus)",
+      "longitude": 20.4838255016865,
+      "latitude": 44.7608950672445
+    },
+    {
+      "id": "_2",
+      "label": "Baštovanska",
+      "longitude": 20.4769166183889,
+      "latitude": 44.7563225830384
+    },
+    {
+      "id": "_3",
+      "label": "Kragujevačkih đaka",
+      "longitude": 20.47754078793,
+      "latitude": 44.7540449240459
+    },
+    {
+      "id": "_4",
+      "label": "Banjica 2",
+      "longitude": 20.4801848027573,
+      "latitude": 44.7518628235505
+    },
+    {
+      "id": "_5",
+      "label": "Riste Stefanovića",
+      "longitude": 20.4793635447923,
+      "latitude": 44.7502031706088
+    },
+    {
+      "id": "_6",
+      "label": "Voje Radića",
+      "longitude": 20.4769384854576,
+      "latitude": 44.7468514827878
+    },
+    {
+      "id": "_7",
+      "label": "Olge Jojić",
+      "longitude": 20.4755948319108,
+      "latitude": 44.7440410662617
+    },
+    {
+      "id": "_8",
+      "label": "Milke Bosnić",
+      "longitude": 20.4753259799291,
+      "latitude": 44.7416423350405
+    },
+    {
+      "id": "_9",
+      "label": "Ane Dobeš",
+      "longitude": 20.4768473126667,
+      "latitude": 44.7389997870132
+    },
+    {
+      "id": "_10",
+      "label": "Milutina Miljkovića",
+      "longitude": 20.477464579112,
+      "latitude": 44.7363441050571
+    },
+    {
+      "id": "_11",
+      "label": "Donje naselje",
+      "longitude": 20.4756148198708,
+      "latitude": 44.7348003283782
+    },
+    {
+      "id": "_12",
+      "label": "Vukosave Oljače",
+      "longitude": 20.4790547298001,
+      "latitude": 44.731342130319
+    },
+    {
+      "id": "_13",
+      "label": "Olimpska",
+      "longitude": 20.481892487798,
+      "latitude": 44.7296810408926
+    },
+    {
+      "id": "_14",
+      "label": "Torlački vis",
+      "longitude": 20.4949687888699,
+      "latitude": 44.7341167539976
+    },
+    {
+      "id": "_15",
+      "label": "Brdska",
+      "longitude": 20.4984568546865,
+      "latitude": 44.7360777712876
+    },
+    {
+      "id": "_16",
+      "label": "Šljivarska",
+      "longitude": 20.5021260930821,
+      "latitude": 44.7387342395864
+    },
+    {
+      "id": "_17",
+      "label": "Oktobarska",
+      "longitude": 20.5016156949038,
+      "latitude": 44.7405391522215
+    },
+    {
+      "id": "_18",
+      "label": "Kalemarska",
+      "longitude": 20.5002154278956,
+      "latitude": 44.7418542107372
+    },
+    {
+      "id": "_19",
+      "label": "Institut Torlak",
+      "longitude": 20.4973204000097,
+      "latitude": 44.7460479972539
+    },
+    {
+      "id": "_20",
+      "label": "Kumodraž 2",
+      "longitude": 20.4953661522802,
+      "latitude": 44.7486007160569
+    },
+    {
+      "id": "_21",
+      "label": "Beranska",
+      "longitude": 20.4917440118288,
+      "latitude": 44.7535417253199
+    },
+    {
+      "id": "_22",
+      "label": "Milića Marinovića",
+      "longitude": 20.4891102525866,
+      "latitude": 44.7560355251027
+    },
+    {
+      "id": "_23",
+      "label": "Voždovac",
+      "longitude": 20.4847999904828,
+      "latitude": 44.7609714426756
+    },
+    {
+      "id": "_24",
+      "label": "Voždovac (terminus)",
+      "longitude": 20.4838255016865,
+      "latitude": 44.7608950672445
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Милића Маринковића",
-      "longitude": 20.489923,
-      "latitude": 44.755421
+      "label": "Voždovac (terminus)",
+      "longitude": 20.4835198646956,
+      "latitude": 44.7611744799175
     },
     {
       "id": "_2",
-      "label": "Беранска",
-      "longitude": 20.492269,
-      "latitude": 44.752471
+      "label": "Milića Marinovića",
+      "longitude": 20.4900257164779,
+      "latitude": 44.7553430262604
     },
     {
       "id": "_3",
-      "label": "Фармацеутски Факултет",
-      "longitude": 20.496045,
-      "latitude": 44.747487
+      "label": "Beranska",
+      "longitude": 20.4923045236412,
+      "latitude": 44.7524120540454
     },
     {
       "id": "_4",
-      "label": "Институт Торлак",
-      "longitude": 20.497487,
-      "latitude": 44.74566
+      "label": "Farmaceutski fakultet",
+      "longitude": 20.4960733596229,
+      "latitude": 44.7474338717119
     },
     {
       "id": "_5",
-      "label": "Калемарска",
-      "longitude": 20.499656,
-      "latitude": 44.742466
+      "label": "Institut Torlak",
+      "longitude": 20.4974525720484,
+      "latitude": 44.7456579920976
     },
     {
       "id": "_6",
-      "label": "Шљиварска",
-      "longitude": 20.501902,
-      "latitude": 44.738334
+      "label": "Kalemarska",
+      "longitude": 20.4996399282736,
+      "latitude": 44.7424060811015
     },
     {
       "id": "_7",
-      "label": "Брдска",
-      "longitude": 20.498856,
-      "latitude": 44.736294
+      "label": "Šljivarska",
+      "longitude": 20.5020092894194,
+      "latitude": 44.7391045180914
     },
     {
       "id": "_8",
-      "label": "Торлачки вис",
-      "longitude": 20.494847,
-      "latitude": 44.734088
+      "label": "Brdska",
+      "longitude": 20.4982716665874,
+      "latitude": 44.7361759580739
     },
     {
       "id": "_9",
-      "label": "Кефалониска",
-      "longitude": 20.483183,
-      "latitude": 44.730499
+      "label": "Torlački vis",
+      "longitude": 20.4946149065034,
+      "latitude": 44.7338668061307
     },
     {
       "id": "_10",
-      "label": "Олимпска",
-      "longitude": 20.481946,
-      "latitude": 44.72979
+      "label": "Kefalonijska",
+      "longitude": 20.4831979569665,
+      "latitude": 44.7305292944087
     },
     {
       "id": "_11",
-      "label": "Вукосаве Ољаче",
-      "longitude": 20.479001,
-      "latitude": 44.731531
+      "label": "Olimpska",
+      "longitude": 20.4818020542578,
+      "latitude": 44.729912823679
     },
     {
       "id": "_12",
-      "label": "Доње Насеље",
-      "longitude": 20.475546,
-      "latitude": 44.734914
+      "label": "Vukosave Oljače",
+      "longitude": 20.4790172741466,
+      "latitude": 44.7315777511596
     },
     {
       "id": "_13",
-      "label": "Милутина Миљковића",
-      "longitude": 20.47744,
-      "latitude": 44.736289
+      "label": "Donje naselje",
+      "longitude": 20.4756284164842,
+      "latitude": 44.7349731837086
     },
     {
       "id": "_14",
-      "label": "Ане Добеш",
-      "longitude": 20.477234,
-      "latitude": 44.738804
+      "label": "Milutina Miljkovića",
+      "longitude": 20.4778523415459,
+      "latitude": 44.7364700650301
     },
     {
       "id": "_15",
-      "label": "Милке Боснић",
-      "longitude": 20.475463,
-      "latitude": 44.74134
+      "label": "Ane Dobeš",
+      "longitude": 20.4771766637623,
+      "latitude": 44.7388824926676
     },
     {
       "id": "_16",
-      "label": "Олге Јојић",
-      "longitude": 20.475669,
-      "latitude": 44.743704
+      "label": "Milke Bosnić",
+      "longitude": 20.4756875962422,
+      "latitude": 44.7418707785502
     },
     {
       "id": "_17",
-      "label": "Воје Радића",
-      "longitude": 20.477345,
-      "latitude": 44.74627
+      "label": "Olge Jojić",
+      "longitude": 20.4758366000919,
+      "latitude": 44.7443985561798
     },
     {
       "id": "_18",
-      "label": "Ристе Стефановића",
-      "longitude": 20.480525,
-      "latitude": 44.749952
+      "label": "Voje Radića",
+      "longitude": 20.477276790342,
+      "latitude": 44.7463040469182
     },
     {
       "id": "_19",
-      "label": "Бањица 2",
-      "longitude": 20.480558,
-      "latitude": 44.751678
+      "label": "Riste Stefanovića",
+      "longitude": 20.4801659780458,
+      "latitude": 44.7500088163803
     },
     {
       "id": "_20",
-      "label": "Крагујевачких Ђака",
-      "longitude": 20.477068,
-      "latitude": 44.754789
+      "label": "Banjica 2",
+      "longitude": 20.480517163468,
+      "latitude": 44.7516987354478
     },
     {
       "id": "_21",
-      "label": "Баштованска",
-      "longitude": 20.47722,
-      "latitude": 44.756977
+      "label": "Kragujevačkih đaka",
+      "longitude": 20.4770363141633,
+      "latitude": 44.754807593616
     },
     {
       "id": "_22",
-      "label": "Паунова",
-      "longitude": 20.476934,
-      "latitude": 44.760861
+      "label": "Baštovanska",
+      "longitude": 20.4772006355453,
+      "latitude": 44.7570456461003
     },
     {
       "id": "_23",
-      "label": "Вождовац",
-      "longitude": 20.483671,
-      "latitude": 44.761082
+      "label": "Paunova",
+      "longitude": 20.4769460779112,
+      "latitude": 44.7609197174914
+    },
+    {
+      "id": "_24",
+      "label": "Voždovac (terminus)",
+      "longitude": 20.4835198646956,
+      "latitude": 44.7611744799175
     }
   ]
 }

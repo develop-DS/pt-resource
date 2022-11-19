@@ -2,191 +2,137 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Студентски трг",
-      "longitude": 20.457617,
-      "latitude": 44.81872
+      "label": "Trg Slavija",
+      "longitude": 20.4658913763059,
+      "latitude": 44.8027240093001
     },
     {
       "id": "_2",
-      "label": "Републике трг",
-      "longitude": 20.459936,
-      "latitude": 44.816921
+      "label": "Katanićeva",
+      "longitude": 20.4717355606405,
+      "latitude": 44.7994842279664
     },
     {
       "id": "_3",
-      "label": "Теразије",
-      "longitude": 20.460957,
-      "latitude": 44.812833
+      "label": "Mačvanska",
+      "longitude": 20.4740772330908,
+      "latitude": 44.7977256727693
     },
     {
       "id": "_4",
-      "label": "РК Београђанка",
-      "longitude": 20.463956,
-      "latitude": 44.807358
+      "label": "Vojvode Dragomira",
+      "longitude": 20.4791162226368,
+      "latitude": 44.7979178460651
     },
     {
       "id": "_5",
-      "label": "Славија трг",
-      "longitude": 20.466117,
-      "latitude": 44.80331
+      "label": "Crveni krst",
+      "longitude": 20.4873972933218,
+      "latitude": 44.7973989593364
     },
     {
       "id": "_6",
-      "label": "Катанићева",
-      "longitude": 20.47171,
-      "latitude": 44.799496
+      "label": "Bregalnička",
+      "longitude": 20.4907370115391,
+      "latitude": 44.7950505445845
     },
     {
       "id": "_7",
-      "label": "Мачванска",
-      "longitude": 20.474003,
-      "latitude": 44.797792
+      "label": "Velimira Todorovića",
+      "longitude": 20.4950368418566,
+      "latitude": 44.7933020296051
     },
     {
       "id": "_8",
-      "label": "Војводе Драгомира",
-      "longitude": 20.47912,
-      "latitude": 44.797943
+      "label": "Škola Vojislav Ilić",
+      "longitude": 20.4968660642852,
+      "latitude": 44.791355358691
     },
     {
       "id": "_9",
-      "label": "Црвени Крст",
-      "longitude": 20.487434,
-      "latitude": 44.79738
+      "label": "Bačvanska",
+      "longitude": 20.4943641095269,
+      "latitude": 44.7910149806456
     },
     {
       "id": "_10",
-      "label": "Брегалничка",
-      "longitude": 20.49072,
-      "latitude": 44.795052
+      "label": "Grčića Milenka",
+      "longitude": 20.4908465977597,
+      "latitude": 44.7914818073972
     },
     {
       "id": "_11",
-      "label": "Велимира Тодоровића",
-      "longitude": 20.495017,
-      "latitude": 44.793313
-    },
-    {
-      "id": "_12",
-      "label": "Школа Војислав Илић",
-      "longitude": 20.496914,
-      "latitude": 44.791356
-    },
-    {
-      "id": "_13",
-      "label": "Бачванска",
-      "longitude": 20.494414,
-      "latitude": 44.791043
-    },
-    {
-      "id": "_14",
-      "label": "Грчића Миленка",
-      "longitude": 20.490892,
-      "latitude": 44.791479
-    },
-    {
-      "id": "_15",
-      "label": "Крушевачка",
-      "longitude": 20.484845,
-      "latitude": 44.790645
+      "label": "Kruševačka",
+      "longitude": 20.4848100377437,
+      "latitude": 44.7906809076115
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Крушевачка",
-      "longitude": 20.484845,
-      "latitude": 44.790645
+      "label": "Kruševačka",
+      "longitude": 20.4855469153869,
+      "latitude": 44.7908156065379
     },
     {
       "id": "_2",
-      "label": "Грчића Миленка",
-      "longitude": 20.489165,
-      "latitude": 44.791622
+      "label": "Grčića Milenka",
+      "longitude": 20.4893062824142,
+      "latitude": 44.7915919583987
     },
     {
       "id": "_3",
-      "label": "Бачванска",
-      "longitude": 20.49365,
-      "latitude": 44.790881
+      "label": "Bačvanska",
+      "longitude": 20.4937157349717,
+      "latitude": 44.7908735293819
     },
     {
       "id": "_4",
-      "label": "Школа Војислав Илић",
-      "longitude": 20.497478,
-      "latitude": 44.79181
+      "label": "Škola Vojislav Ilić",
+      "longitude": 20.497423174079,
+      "latitude": 44.7918221764687
     },
     {
       "id": "_5",
-      "label": "Велимира Тодоровића",
-      "longitude": 20.49448,
-      "latitude": 44.793702
+      "label": "Velimira Todorovića",
+      "longitude": 20.4943810962527,
+      "latitude": 44.7937149222967
     },
     {
       "id": "_6",
-      "label": "Брегалничка",
-      "longitude": 20.490773,
-      "latitude": 44.795202
+      "label": "Bregalnička",
+      "longitude": 20.4907486106064,
+      "latitude": 44.7951693901315
     },
     {
       "id": "_7",
-      "label": "Црвени Крст",
-      "longitude": 20.485841,
-      "latitude": 44.797918
+      "label": "Crveni krst",
+      "longitude": 20.4859194528292,
+      "latitude": 44.7978585259903
     },
     {
       "id": "_8",
-      "label": "Војводе Драгомира",
-      "longitude": 20.48034,
-      "latitude": 44.798093
+      "label": "Vojvode Dragomira",
+      "longitude": 20.4802070456083,
+      "latitude": 44.7980577850169
     },
     {
       "id": "_9",
-      "label": "Новопазарска",
-      "longitude": 20.474232,
-      "latitude": 44.797895
+      "label": "Novopazarska",
+      "longitude": 20.4740420932187,
+      "latitude": 44.7979774990468
     },
     {
       "id": "_10",
-      "label": "Катанићева",
-      "longitude": 20.471268,
-      "latitude": 44.800046
+      "label": "Katanićeva",
+      "longitude": 20.4712045690011,
+      "latitude": 44.800052353489
     },
     {
       "id": "_11",
-      "label": "Славија трг",
-      "longitude": 20.466271,
-      "latitude": 44.803522
-    },
-    {
-      "id": "_12",
-      "label": "РК Београђанка",
-      "longitude": 20.464026,
-      "latitude": 44.807609
-    },
-    {
-      "id": "_13",
-      "label": "Теразије",
-      "longitude": 20.461159,
-      "latitude": 44.813172
-    },
-    {
-      "id": "_14",
-      "label": "Републике трг",
-      "longitude": 20.46014,
-      "latitude": 44.816975
-    },
-    {
-      "id": "_15",
-      "label": "Студентски трг",
-      "longitude": 20.457521,
-      "latitude": 44.819192
-    },
-    {
-      "id": "_16",
-      "label": "Студентски трг",
-      "longitude": 20.457617,
-      "latitude": 44.81872
+      "label": "Trg Slavija",
+      "longitude": 20.4668319426505,
+      "latitude": 44.8027139840699
     }
   ]
 }

@@ -2,299 +2,281 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "ТЦ Галериja",
-      "longitude": 20.445457,
-      "latitude": 44.801256
+      "label": "TC Galerija",
+      "longitude": 20.4456286208991,
+      "latitude": 44.8013535627872
     },
     {
       "id": "_2",
-      "label": "Сајам",
-      "longitude": 20.441977,
-      "latitude": 44.796588
+      "label": "Sajam",
+      "longitude": 20.4415906546322,
+      "latitude": 44.7964130286058
     },
     {
       "id": "_3",
-      "label": "Петља Радничка",
-      "longitude": 20.426785,
-      "latitude": 44.792472
+      "label": "Čukarica",
+      "longitude": 20.4145017152671,
+      "latitude": 44.7863856515716
     },
     {
       "id": "_4",
-      "label": "Чукарица",
-      "longitude": 20.414505,
-      "latitude": 44.78645
+      "label": "SRC Makiš",
+      "longitude": 20.4056899721295,
+      "latitude": 44.7850065959287
     },
     {
       "id": "_5",
-      "label": "СРЦ Макиш",
-      "longitude": 20.405798,
-      "latitude": 44.785015
+      "label": "Makiška",
+      "longitude": 20.394280565743,
+      "latitude": 44.7831415922493
     },
     {
       "id": "_6",
-      "label": "Макишка",
-      "longitude": 20.394273,
-      "latitude": 44.783155
+      "label": "Reni bunar",
+      "longitude": 20.3816645764824,
+      "latitude": 44.7785960748417
     },
     {
       "id": "_7",
-      "label": "Рени Бунар",
-      "longitude": 20.381683,
-      "latitude": 44.778624
+      "label": "Taložnik",
+      "longitude": 20.374392272692,
+      "latitude": 44.775241185318
     },
     {
       "id": "_8",
-      "label": "Таложник",
-      "longitude": 20.374462,
-      "latitude": 44.775272
+      "label": "Vodovod",
+      "longitude": 20.369454515776,
+      "latitude": 44.7733836240053
     },
     {
       "id": "_9",
-      "label": "Водовод",
-      "longitude": 20.369567,
-      "latitude": 44.773411
+      "label": "MZ Makiš",
+      "longitude": 20.3619773478308,
+      "latitude": 44.7708619760293
     },
     {
       "id": "_10",
-      "label": "МЗ Макиш",
-      "longitude": 20.362033,
-      "latitude": 44.770854
+      "label": "Neoplanta",
+      "longitude": 20.3572273041581,
+      "latitude": 44.7680923704282
     },
     {
       "id": "_11",
-      "label": "Неопланта",
-      "longitude": 20.357359,
-      "latitude": 44.768158
+      "label": "BBP Makiš",
+      "longitude": 20.3532839941,
+      "latitude": 44.7648393411258
     },
     {
       "id": "_12",
-      "label": "ББП Макиш",
-      "longitude": 20.353273,
-      "latitude": 44.76479
+      "label": "Brodotehnika",
+      "longitude": 20.3508772245552,
+      "latitude": 44.7624858442257
     },
     {
       "id": "_13",
-      "label": "Бродотехника",
-      "longitude": 20.350905,
-      "latitude": 44.762508
+      "label": "Ribokombinat",
+      "longitude": 20.3464142369268,
+      "latitude": 44.7578832899133
     },
     {
       "id": "_14",
-      "label": "Рибокомбинат",
-      "longitude": 20.346428,
-      "latitude": 44.757886
+      "label": "Mike Alasa",
+      "longitude": 20.3425986714038,
+      "latitude": 44.7532752722366
     },
     {
       "id": "_15",
-      "label": "Мике Аласа",
-      "longitude": 20.342605,
-      "latitude": 44.753299
+      "label": "Mostogradnja",
+      "longitude": 20.3386682103208,
+      "latitude": 44.7470501282825
     },
     {
       "id": "_16",
-      "label": "Мостоградња",
-      "longitude": 20.338732,
-      "latitude": 44.747112
+      "label": "Nadvožnjak",
+      "longitude": 20.3261044309748,
+      "latitude": 44.7383913128746
     },
     {
       "id": "_17",
-      "label": "Надвожњак",
-      "longitude": 20.326126,
-      "latitude": 44.738423
+      "label": "Železnički nadvožnjak",
+      "longitude": 20.3212902181307,
+      "latitude": 44.7354344273393
     },
     {
       "id": "_18",
-      "label": "Железнички надвожњак",
-      "longitude": 20.32139,
-      "latitude": 44.735491
+      "label": "MZ Ostružnica",
+      "longitude": 20.3148088183418,
+      "latitude": 44.7314990217166
     },
     {
       "id": "_19",
-      "label": "МЗ Остружница",
-      "longitude": 20.314874,
-      "latitude": 44.731568
+      "label": "Savska",
+      "longitude": 20.3115768907888,
+      "latitude": 44.726787238148
     },
     {
       "id": "_20",
-      "label": "Остружница /Савска/",
-      "longitude": 20.31158,
-      "latitude": 44.726753
+      "label": "Lole Ribara",
+      "longitude": 20.3112927925932,
+      "latitude": 44.7230542728865
     },
     {
       "id": "_21",
-      "label": "Остружница /Лоле Рибара/",
-      "longitude": 20.311323,
-      "latitude": 44.722999
-    },
-    {
-      "id": "_22",
-      "label": "Остружница /Караула/",
-      "longitude": 20.309738,
-      "latitude": 44.718106
+      "label": "Ostružnica (karaula)",
+      "longitude": 20.3097855729407,
+      "latitude": 44.7181511888054
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Остружница /Караула/",
-      "longitude": 20.309738,
-      "latitude": 44.718106
+      "label": "Ostružnica (karaula)",
+      "longitude": 20.3097855729407,
+      "latitude": 44.7181511888054
     },
     {
       "id": "_2",
-      "label": "Остружница /Лоле Рибара/",
-      "longitude": 20.311355,
-      "latitude": 44.722816
+      "label": "Lole Ribara",
+      "longitude": 20.3115227074893,
+      "latitude": 44.7232536466205
     },
     {
       "id": "_3",
-      "label": "Остружница /Савска/",
-      "longitude": 20.311667,
-      "latitude": 44.727069
+      "label": "Savska",
+      "longitude": 20.3117684522317,
+      "latitude": 44.7266011956244
     },
     {
       "id": "_4",
-      "label": "МЗ Остружница",
-      "longitude": 20.315305,
-      "latitude": 44.731632
+      "label": "MZ Ostružnica",
+      "longitude": 20.3150084950393,
+      "latitude": 44.7314822158213
     },
     {
       "id": "_5",
-      "label": "Железнички надвожњак",
-      "longitude": 20.321337,
-      "latitude": 44.73524
+      "label": "Železnički nadvožnjak",
+      "longitude": 20.3217783588727,
+      "latitude": 44.7355849106175
     },
     {
       "id": "_6",
-      "label": "Надвожњак",
-      "longitude": 20.326544,
-      "latitude": 44.738555
+      "label": "Nadvožnjak",
+      "longitude": 20.3266853544178,
+      "latitude": 44.7386017181126
     },
     {
       "id": "_7",
-      "label": "Мостоградња",
-      "longitude": 20.338218,
-      "latitude": 44.746484
+      "label": "Mostogradnja",
+      "longitude": 20.3382899909432,
+      "latitude": 44.7465493666038
     },
     {
       "id": "_8",
-      "label": "Мике Аласа",
-      "longitude": 20.342874,
-      "latitude": 44.753493
+      "label": "Mike Alasa",
+      "longitude": 20.3429112315317,
+      "latitude": 44.7535578520857
     },
     {
       "id": "_9",
-      "label": "Рибокомбинат",
-      "longitude": 20.346613,
-      "latitude": 44.757931
+      "label": "Ribokombinat",
+      "longitude": 20.3466860389846,
+      "latitude": 44.7579748351589
     },
     {
       "id": "_10",
-      "label": "Бродотехника",
-      "longitude": 20.350321,
-      "latitude": 44.761703
+      "label": "Brodotehnika",
+      "longitude": 20.3503321352868,
+      "latitude": 44.761751989127
     },
     {
       "id": "_11",
-      "label": "ББП Макиш",
-      "longitude": 20.353568,
-      "latitude": 44.764916
+      "label": "BBP Makiš",
+      "longitude": 20.3535434278804,
+      "latitude": 44.764911001063
     },
     {
       "id": "_12",
-      "label": "Неопланта",
-      "longitude": 20.358062,
-      "latitude": 44.76861
+      "label": "Neoplanta",
+      "longitude": 20.3579878855353,
+      "latitude": 44.768544811484
     },
     {
       "id": "_13",
-      "label": "МЗ Макиш",
-      "longitude": 20.362312,
-      "latitude": 44.770859
+      "label": "MZ Makiš",
+      "longitude": 20.3622731390043,
+      "latitude": 44.7708474223205
     },
     {
       "id": "_14",
-      "label": "Водовод",
-      "longitude": 20.370047,
-      "latitude": 44.773399
+      "label": "Vodovod",
+      "longitude": 20.3699819583076,
+      "latitude": 44.7734459204679
     },
     {
       "id": "_15",
-      "label": "Таложник",
-      "longitude": 20.374552,
-      "latitude": 44.775178
+      "label": "Taložnik",
+      "longitude": 20.374657761764,
+      "latitude": 44.7752264342161
     },
     {
       "id": "_16",
-      "label": "Рени Бунар",
-      "longitude": 20.382273,
-      "latitude": 44.778792
+      "label": "Reni bunar",
+      "longitude": 20.3822895040937,
+      "latitude": 44.7787650350141
     },
     {
       "id": "_17",
-      "label": "Макишка",
-      "longitude": 20.394858,
-      "latitude": 44.783219
+      "label": "Makiška",
+      "longitude": 20.3947959572298,
+      "latitude": 44.7831587125059
     },
     {
       "id": "_18",
-      "label": "СРЦ Макиш",
-      "longitude": 20.406127,
-      "latitude": 44.784916
+      "label": "SRC Makiš",
+      "longitude": 20.4061661056327,
+      "latitude": 44.7849100668924
     },
     {
       "id": "_19",
-      "label": "Чукарица",
-      "longitude": 20.414985,
-      "latitude": 44.786371
+      "label": "Čukarica",
+      "longitude": 20.4151354377319,
+      "latitude": 44.786451881637
     },
     {
       "id": "_20",
-      "label": "Петља Радничка",
-      "longitude": 20.426938,
-      "latitude": 44.792201
+      "label": "Ada Ciganlija",
+      "longitude": 20.4199404372204,
+      "latitude": 44.7884471855672
     },
     {
       "id": "_21",
-      "label": "Господарска Механа",
-      "longitude": 20.433518,
-      "latitude": 44.794439
+      "label": "Ruska",
+      "longitude": 20.4381790000629,
+      "latitude": 44.7952642285528
     },
     {
       "id": "_22",
-      "label": "Руска",
-      "longitude": 20.438101,
-      "latitude": 44.79525
+      "label": "Sajam",
+      "longitude": 20.44208197302,
+      "latitude": 44.7963182238307
     },
     {
       "id": "_23",
-      "label": "Сајам",
-      "longitude": 20.441902,
-      "latitude": 44.796305
+      "label": "Palata pravde 1",
+      "longitude": 20.451327814778,
+      "latitude": 44.8034058554644
     },
     {
       "id": "_24",
-      "label": "Дурмиторска",
-      "longitude": 20.451504,
-      "latitude": 44.80211
+      "label": "Kula Beograd",
+      "longitude": 20.4486263639051,
+      "latitude": 44.8032813106928
     },
     {
       "id": "_25",
-      "label": "Палата Правде 1",
-      "longitude": 20.451548,
-      "latitude": 44.803288
-    },
-    {
-      "id": "_26",
-      "label": "Кула Београд",
-      "longitude": 20.448054,
-      "latitude": 44.80299
-    },
-    {
-      "id": "_27",
-      "label": "ТЦ Галериja",
-      "longitude": 20.445457,
-      "latitude": 44.801256
+      "label": "TC Galerija",
+      "longitude": 20.4456286208991,
+      "latitude": 44.8013535627872
     }
   ]
 }

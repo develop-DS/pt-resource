@@ -1,0 +1,42 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Slavija",
+      "longitude": 20.4657375577188,
+      "latitude": 44.8035062531306
+    },
+    {
+      "id": "_2",
+      "label": "Fontana",
+      "longitude": 20.407628611625,
+      "latitude": 44.8266736684514
+    },
+    {
+      "id": "_3",
+      "label": "Aerodrom Nikola Tesla",
+      "longitude": 20.2908553153935,
+      "latitude": 44.8192180286035
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Aerodrom Nikola Tesla",
+      "longitude": 20.2908553153935,
+      "latitude": 44.8192180286035
+    },
+    {
+      "id": "_2",
+      "label": "Fontana",
+      "longitude": 20.4094089526943,
+      "latitude": 44.8257001039461
+    },
+    {
+      "id": "_3",
+      "label": "Slavija",
+      "longitude": 20.4657375577188,
+      "latitude": 44.8035062531306
+    }
+  ]
+}

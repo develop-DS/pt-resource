@@ -1,0 +1,300 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Trg republike",
+      "longitude": 20.4604999027432,
+      "latitude": 44.8154151225036
+    },
+    {
+      "id": "_2",
+      "label": "Terazije",
+      "longitude": 20.4610174422408,
+      "latitude": 44.8127788949127
+    },
+    {
+      "id": "_3",
+      "label": "RK Beograđanka",
+      "longitude": 20.4640015397818,
+      "latitude": 44.8072545633009
+    },
+    {
+      "id": "_4",
+      "label": "Trg Slavija (Bulevar oslobođenja)",
+      "longitude": 20.4660196131815,
+      "latitude": 44.8014232725427
+    },
+    {
+      "id": "_5",
+      "label": "Karađorđev park",
+      "longitude": 20.4651954172747,
+      "latitude": 44.7970276562542
+    },
+    {
+      "id": "_6",
+      "label": "Franše D'Eperea",
+      "longitude": 20.466428073984,
+      "latitude": 44.7927226092191
+    },
+    {
+      "id": "_7",
+      "label": "Trg oslobođenja",
+      "longitude": 20.4657117279396,
+      "latitude": 44.7853990331727
+    },
+    {
+      "id": "_8",
+      "label": "Veljka Lukića Kurjaka",
+      "longitude": 20.4685292323061,
+      "latitude": 44.7793698047498
+    },
+    {
+      "id": "_9",
+      "label": "Atletska dvorana",
+      "longitude": 20.4725745916742,
+      "latitude": 44.7763664104377
+    },
+    {
+      "id": "_10",
+      "label": "Fakultet organizacionih nauka",
+      "longitude": 20.4759000209455,
+      "latitude": 44.7704833173397
+    },
+    {
+      "id": "_11",
+      "label": "Mosorska",
+      "longitude": 20.4779357661841,
+      "latitude": 44.7652188339304
+    },
+    {
+      "id": "_12",
+      "label": "Crkva Sv. Vasilija Ostroškog",
+      "longitude": 20.47912928592,
+      "latitude": 44.7625639751582
+    },
+    {
+      "id": "_13",
+      "label": "Paunova",
+      "longitude": 20.4755839751161,
+      "latitude": 44.761098763206
+    },
+    {
+      "id": "_14",
+      "label": "Pet solitera",
+      "longitude": 20.4729731720706,
+      "latitude": 44.759411206158
+    },
+    {
+      "id": "_15",
+      "label": "Raška",
+      "longitude": 20.4675635831909,
+      "latitude": 44.7548054323683
+    },
+    {
+      "id": "_16",
+      "label": "Pere Velimirovića",
+      "longitude": 20.4600218368766,
+      "latitude": 44.7571406885234
+    },
+    {
+      "id": "_17",
+      "label": "Srpskih udarnih brigada",
+      "longitude": 20.4563627580518,
+      "latitude": 44.7542903323306
+    },
+    {
+      "id": "_18",
+      "label": "Kanarevo brdo",
+      "longitude": 20.4550937068251,
+      "latitude": 44.7519642112501
+    },
+    {
+      "id": "_19",
+      "label": "Slavoljuba Vuksanovića",
+      "longitude": 20.4567601397535,
+      "latitude": 44.7479744809625
+    },
+    {
+      "id": "_20",
+      "label": "Narod. heroja Velizara Stankovića",
+      "longitude": 20.4582534311743,
+      "latitude": 44.7457406340339
+    },
+    {
+      "id": "_21",
+      "label": "Miljakovac 2",
+      "longitude": 20.4608866056305,
+      "latitude": 44.7477707523809
+    },
+    {
+      "id": "_22",
+      "label": "Nikole Marakovića",
+      "longitude": 20.4618767652381,
+      "latitude": 44.7458494799946
+    },
+    {
+      "id": "_23",
+      "label": "Miljakovačka šuma",
+      "longitude": 20.4631173974723,
+      "latitude": 44.7405833065322
+    },
+    {
+      "id": "_24",
+      "label": "Miljakovac 3",
+      "longitude": 20.4631999122392,
+      "latitude": 44.7379305989967
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Miljakovac 3",
+      "longitude": 20.4631999122392,
+      "latitude": 44.7379305989967
+    },
+    {
+      "id": "_2",
+      "label": "Miljakovačka šuma",
+      "longitude": 20.4632513519921,
+      "latitude": 44.7411203115367
+    },
+    {
+      "id": "_3",
+      "label": "Nikole Marakovića",
+      "longitude": 20.4619612054487,
+      "latitude": 44.7460046695714
+    },
+    {
+      "id": "_4",
+      "label": "Miljakovac 2",
+      "longitude": 20.459877029552,
+      "latitude": 44.7476922076474
+    },
+    {
+      "id": "_5",
+      "label": "Narod. heroja Velizara Stankovića",
+      "longitude": 20.4581560541011,
+      "latitude": 44.7458913679972
+    },
+    {
+      "id": "_6",
+      "label": "Slavoljuba Vuksanovića",
+      "longitude": 20.4569459241086,
+      "latitude": 44.7483659441273
+    },
+    {
+      "id": "_7",
+      "label": "Kanarevo brdo",
+      "longitude": 20.4552760762549,
+      "latitude": 44.7527210451366
+    },
+    {
+      "id": "_8",
+      "label": "Srpskih udarnih brigada",
+      "longitude": 20.4571105884134,
+      "latitude": 44.7548194505904
+    },
+    {
+      "id": "_9",
+      "label": "Pere Velimirovića",
+      "longitude": 20.4611463658405,
+      "latitude": 44.7570991769595
+    },
+    {
+      "id": "_10",
+      "label": "Raška",
+      "longitude": 20.4697494855673,
+      "latitude": 44.7544339701027
+    },
+    {
+      "id": "_11",
+      "label": "Pet solitera",
+      "longitude": 20.4731324077689,
+      "latitude": 44.7599609133722
+    },
+    {
+      "id": "_12",
+      "label": "Paunova",
+      "longitude": 20.4769460779112,
+      "latitude": 44.7609197174914
+    },
+    {
+      "id": "_13",
+      "label": "Crkva Sv. Vasilija Ostroškog",
+      "longitude": 20.479352212498,
+      "latitude": 44.762779177256
+    },
+    {
+      "id": "_14",
+      "label": "Mosorska",
+      "longitude": 20.4781342512001,
+      "latitude": 44.7656247185955
+    },
+    {
+      "id": "_15",
+      "label": "Fakultet organizacionih nauka",
+      "longitude": 20.4756927347024,
+      "latitude": 44.7713355315863
+    },
+    {
+      "id": "_16",
+      "label": "Atletska dvorana",
+      "longitude": 20.471717284381,
+      "latitude": 44.7775522115032
+    },
+    {
+      "id": "_17",
+      "label": "Veljka Lukića Kurjaka",
+      "longitude": 20.468350457316,
+      "latitude": 44.7801285408056
+    },
+    {
+      "id": "_18",
+      "label": "Trg oslobođenja",
+      "longitude": 20.4659369887447,
+      "latitude": 44.7870164037455
+    },
+    {
+      "id": "_19",
+      "label": "Franše D'Eperea",
+      "longitude": 20.4666800433672,
+      "latitude": 44.7928101762883
+    },
+    {
+      "id": "_20",
+      "label": "Karađorđev park",
+      "longitude": 20.4657590648182,
+      "latitude": 44.7982550256383
+    },
+    {
+      "id": "_21",
+      "label": "Trg Slavija (Bulevar oslobođenja)",
+      "longitude": 20.4664336279974,
+      "latitude": 44.8017635811315
+    },
+    {
+      "id": "_22",
+      "label": "Trg Slavija",
+      "longitude": 20.4661770642646,
+      "latitude": 44.8035496964553
+    },
+    {
+      "id": "_23",
+      "label": "RK Beograđanka",
+      "longitude": 20.4640038424677,
+      "latitude": 44.8075533585267
+    },
+    {
+      "id": "_24",
+      "label": "Terazije",
+      "longitude": 20.4610734378326,
+      "latitude": 44.8132849311366
+    },
+    {
+      "id": "_25",
+      "label": "Trg republike",
+      "longitude": 20.4607188559041,
+      "latitude": 44.8155277458009
+    }
+  ]
+}

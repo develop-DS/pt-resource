@@ -2,329 +2,311 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Бежанијска Коса",
-      "longitude": 20.362961,
-      "latitude": 44.807929
+      "label": "Bežanijska kosa",
+      "longitude": 20.3629099828965,
+      "latitude": 44.807977744453
     },
     {
       "id": "_2",
-      "label": "Магеланова",
-      "longitude": 20.365487,
-      "latitude": 44.808696
+      "label": "Magelanova",
+      "longitude": 20.3654305309729,
+      "latitude": 44.8086954849317
     },
     {
       "id": "_3",
-      "label": "Милана Вујаклије",
-      "longitude": 20.368345,
-      "latitude": 44.810452
+      "label": "Milana Vujaklije",
+      "longitude": 20.3683518676013,
+      "latitude": 44.8104629231948
     },
     {
       "id": "_4",
-      "label": "Марка Ристића",
-      "longitude": 20.371318,
-      "latitude": 44.8125
+      "label": "Marka Ristića",
+      "longitude": 20.3713206990743,
+      "latitude": 44.8125311306877
     },
     {
       "id": "_5",
-      "label": "Љубинке Бобић",
-      "longitude": 20.374658,
-      "latitude": 44.81527
+      "label": "Ljubinke Bobić",
+      "longitude": 20.3747217064913,
+      "latitude": 44.8153449780179
     },
     {
       "id": "_6",
-      "label": "Пеђе Милосављевића",
-      "longitude": 20.377003,
-      "latitude": 44.817809
+      "label": "Peđe Milosavljevića",
+      "longitude": 20.3770113689394,
+      "latitude": 44.8178287077819
     },
     {
       "id": "_7",
-      "label": "Др Хуга Клајна",
-      "longitude": 20.379572,
-      "latitude": 44.820023
+      "label": "Dr Huga Klajna",
+      "longitude": 20.3795897282646,
+      "latitude": 44.820056566852
     },
     {
       "id": "_8",
-      "label": "Марка Челебоновића",
-      "longitude": 20.382865,
-      "latitude": 44.819195
+      "label": "Marka Čelebonovića",
+      "longitude": 20.3828784712497,
+      "latitude": 44.819233758115
     },
     {
       "id": "_9",
-      "label": "Николе Добровића",
-      "longitude": 20.386197,
-      "latitude": 44.818022
+      "label": "Nikole Dobrovića",
+      "longitude": 20.3861960216156,
+      "latitude": 44.8180690271801
     },
     {
       "id": "_10",
-      "label": "Генерала Недељковића",
-      "longitude": 20.389008,
-      "latitude": 44.81676
+      "label": "Generala Nedeljkovića",
+      "longitude": 20.3890347208839,
+      "latitude": 44.8167378582987
     },
     {
       "id": "_11",
-      "label": "Железничка Станица Тошин Бунар",
-      "longitude": 20.395311,
-      "latitude": 44.816818
+      "label": "Železnička stanica Tošin bunar",
+      "longitude": 20.3953373586664,
+      "latitude": 44.8168900558092
     },
     {
       "id": "_12",
-      "label": "Милутина Миланковића",
-      "longitude": 20.396229,
-      "latitude": 44.820269
+      "label": "Milutina Milankovića",
+      "longitude": 20.3962247743002,
+      "latitude": 44.8203145464976
     },
     {
       "id": "_13",
-      "label": "Студентски Град",
-      "longitude": 20.398985,
-      "latitude": 44.826272
+      "label": "Studentski grad",
+      "longitude": 20.3991145103976,
+      "latitude": 44.8262621981325
     },
     {
       "id": "_14",
-      "label": "Народних Хероја",
-      "longitude": 20.40685,
-      "latitude": 44.822562
+      "label": "Narodnih heroja",
+      "longitude": 20.4068354807409,
+      "latitude": 44.8226089928459
     },
     {
       "id": "_15",
-      "label": "Црква Светог Димитрија",
-      "longitude": 20.411475,
-      "latitude": 44.820452
+      "label": "Crkva Svetog Dimitrija",
+      "longitude": 20.4115992131335,
+      "latitude": 44.8204556487537
     },
     {
       "id": "_16",
-      "label": "Уметности булевар",
-      "longitude": 20.415443,
-      "latitude": 44.818618
+      "label": "Bulevar umetnosti",
+      "longitude": 20.4153473421191,
+      "latitude": 44.8186713127311
     },
     {
       "id": "_17",
-      "label": "Београдска Арена",
-      "longitude": 20.419275,
-      "latitude": 44.814507
+      "label": "Beogradska arena",
+      "longitude": 20.4192907313359,
+      "latitude": 44.8145317677931
     },
     {
       "id": "_18",
-      "label": "Београдска Арена (Антифашистичке Борбе)",
-      "longitude": 20.422468,
-      "latitude": 44.811108
+      "label": "Beogradska arena (Antifašističke borbe)",
+      "longitude": 20.4225797313787,
+      "latitude": 44.8110493567159
     },
     {
       "id": "_19",
-      "label": "Сава центар",
-      "longitude": 20.431066,
-      "latitude": 44.807169
+      "label": "Sava centar",
+      "longitude": 20.4310428058399,
+      "latitude": 44.8071624502829
     },
     {
       "id": "_20",
-      "label": "Мостар",
-      "longitude": 20.450497,
-      "latitude": 44.797577
+      "label": "Mostar",
+      "longitude": 20.450601984349,
+      "latitude": 44.7975436797197
     },
     {
       "id": "_21",
-      "label": "Делиградска",
-      "longitude": 20.457354,
-      "latitude": 44.795328
+      "label": "Deligradska",
+      "longitude": 20.457407735647,
+      "latitude": 44.7953153789886
     },
     {
       "id": "_22",
-      "label": "Франше Д'Епереа",
-      "longitude": 20.466418,
-      "latitude": 44.791518
+      "label": "Franše D'Eperea",
+      "longitude": 20.4664495230787,
+      "latitude": 44.7914861699274
     },
     {
       "id": "_23",
-      "label": "Топлице Милана",
-      "longitude": 20.498253,
-      "latitude": 44.780739
+      "label": "Toplice Milana",
+      "longitude": 20.4981507045294,
+      "latitude": 44.7807324949586
     },
     {
       "id": "_24",
-      "label": "Погон Космај",
-      "longitude": 20.517934,
-      "latitude": 44.771691
+      "label": "Pogon Kosmaj",
+      "longitude": 20.5178666704556,
+      "latitude": 44.7717220150215
     },
     {
       "id": "_25",
-      "label": "Траншпед",
-      "longitude": 20.576179,
-      "latitude": 44.703829
+      "label": "Tranšped",
+      "longitude": 20.5723906411889,
+      "latitude": 44.7037386762859
     },
     {
       "id": "_26",
-      "label": "Аструд Линдгрен",
-      "longitude": 20.572507,
-      "latitude": 44.70359
-    },
-    {
-      "id": "_27",
       "label": "IKEA",
-      "longitude": 20.561369,
-      "latitude": 44.709795
+      "longitude": 20.561656194545,
+      "latitude": 44.7095282191039
     }
   ],
   "direction_b": [
     {
       "id": "_1",
       "label": "IKEA",
-      "longitude": 20.561369,
-      "latitude": 44.709795
+      "longitude": 20.561656194545,
+      "latitude": 44.7095282191039
     },
     {
       "id": "_2",
-      "label": "Траншпед",
-      "longitude": 20.576179,
-      "latitude": 44.703829
+      "label": "Tranšped",
+      "longitude": 20.5761982772002,
+      "latitude": 44.7038553810673
     },
     {
       "id": "_3",
-      "label": "СП Ласта",
-      "longitude": 20.518389,
-      "latitude": 44.771802
+      "label": "SP Lasta",
+      "longitude": 20.5184292058015,
+      "latitude": 44.7718359708436
     },
     {
       "id": "_4",
-      "label": "Владимира Томановића",
-      "longitude": 20.500362,
-      "latitude": 44.781482
+      "label": "Vladimira Tomanovića",
+      "longitude": 20.5005378495837,
+      "latitude": 44.781444873477
     },
     {
       "id": "_5",
-      "label": "Дом Здравља Вождовац",
-      "longitude": 20.473891,
-      "latitude": 44.787634
+      "label": "Dom zdravlja Voždovac",
+      "longitude": 20.4738168860646,
+      "latitude": 44.7876593766134
     },
     {
       "id": "_6",
-      "label": "Франше Д'Епереа",
-      "longitude": 20.468254,
-      "latitude": 44.790876
+      "label": "Franše D'Eperea",
+      "longitude": 20.4682170383353,
+      "latitude": 44.7908590058077
     },
     {
       "id": "_7",
-      "label": "Делиградска",
-      "longitude": 20.457582,
-      "latitude": 44.795793
+      "label": "Deligradska",
+      "longitude": 20.4574991397711,
+      "latitude": 44.795814386296
     },
     {
       "id": "_8",
-      "label": "Мостар",
-      "longitude": 20.450743,
-      "latitude": 44.797795
+      "label": "Mostar",
+      "longitude": 20.4506983085648,
+      "latitude": 44.7977835288804
     },
     {
       "id": "_9",
-      "label": "Сава центар",
-      "longitude": 20.431435,
-      "latitude": 44.807619
+      "label": "Sava centar",
+      "longitude": 20.4312350069175,
+      "latitude": 44.8076745767943
     },
     {
       "id": "_10",
-      "label": "Београдска Арена (Антифашистичке Борбе)",
-      "longitude": 20.42257,
-      "latitude": 44.811682
+      "label": "Beogradska arena (Antifašističke borbe)",
+      "longitude": 20.4223401252013,
+      "latitude": 44.8117519132287
     },
     {
       "id": "_11",
-      "label": "Београдска Арена",
-      "longitude": 20.420243,
-      "latitude": 44.815187
+      "label": "Beogradska arena",
+      "longitude": 20.4202850873395,
+      "latitude": 44.8152333603724
     },
     {
       "id": "_12",
-      "label": "Београдска Арена",
-      "longitude": 20.420471,
-      "latitude": 44.816811
+      "label": "Bulevar umetnosti",
+      "longitude": 20.4135011553039,
+      "latitude": 44.8199362185566
     },
     {
       "id": "_13",
-      "label": "Уметности булевар",
-      "longitude": 20.413618,
-      "latitude": 44.81993
+      "label": "Narodnih heroja",
+      "longitude": 20.4054974244163,
+      "latitude": 44.8236172093808
     },
     {
       "id": "_14",
-      "label": "Народних Хероја",
-      "longitude": 20.405556,
-      "latitude": 44.823624
+      "label": "Studentski grad",
+      "longitude": 20.3978587116193,
+      "latitude": 44.8261458177772
     },
     {
       "id": "_15",
-      "label": "Студентски Град",
-      "longitude": 20.397825,
-      "latitude": 44.826127
+      "label": "SC Vizura",
+      "longitude": 20.3960791986334,
+      "latitude": 44.8209383460596
     },
     {
       "id": "_16",
-      "label": "СЦ Визура",
-      "longitude": 20.39605,
-      "latitude": 44.820912
+      "label": "Železnička stanica Tošin bunar",
+      "longitude": 20.3950441292173,
+      "latitude": 44.8171224968428
     },
     {
       "id": "_17",
-      "label": "Железничка Станица Тошин Бунар",
-      "longitude": 20.395056,
-      "latitude": 44.817184
+      "label": "Generala Nedeljkovića",
+      "longitude": 20.3889763275072,
+      "latitude": 44.8170003330754
     },
     {
       "id": "_18",
-      "label": "Генерала Недељковића",
-      "longitude": 20.389061,
-      "latitude": 44.817015
+      "label": "Nikole Dobrovića",
+      "longitude": 20.3846246013936,
+      "latitude": 44.8188813611224
     },
     {
       "id": "_19",
-      "label": "Николе Добровића",
-      "longitude": 20.384681,
-      "latitude": 44.818887
+      "label": "Dr Huga Klajna",
+      "longitude": 20.3812427971832,
+      "latitude": 44.8198981075577
     },
     {
       "id": "_20",
-      "label": "Др Хуга Клајна",
-      "longitude": 20.381233,
-      "latitude": 44.819916
+      "label": "Peđe Milosavljevića",
+      "longitude": 20.377193666527,
+      "latitude": 44.8182796737714
     },
     {
       "id": "_21",
-      "label": "Пеђе Милосављевића",
-      "longitude": 20.377241,
-      "latitude": 44.818302
+      "label": "Ljubinke Bobić",
+      "longitude": 20.3736175621704,
+      "latitude": 44.8145577935708
     },
     {
       "id": "_22",
-      "label": "Љубинке Бобић",
-      "longitude": 20.373596,
-      "latitude": 44.814532
+      "label": "Marka Ristića",
+      "longitude": 20.3705913134171,
+      "latitude": 44.8121707482186
     },
     {
       "id": "_23",
-      "label": "Марка Ристића",
-      "longitude": 20.370513,
-      "latitude": 44.812145
+      "label": "Milana Vujaklije",
+      "longitude": 20.3676372068389,
+      "latitude": 44.8101476004795
     },
     {
       "id": "_24",
-      "label": "Милана Вујаклије",
-      "longitude": 20.367604,
-      "latitude": 44.810142
+      "label": "Magelanova",
+      "longitude": 20.3645464955715,
+      "latitude": 44.808381005192
     },
     {
       "id": "_25",
-      "label": "Магеланова",
-      "longitude": 20.364791,
-      "latitude": 44.808505
-    },
-    {
-      "id": "_26",
-      "label": "Бежанијска Коса",
-      "longitude": 20.363143,
-      "latitude": 44.808284
-    },
-    {
-      "id": "_27",
-      "label": "Бежанијска Коса",
-      "longitude": 20.362961,
-      "latitude": 44.807929
+      "label": "Bežanijska kosa",
+      "longitude": 20.3629099828965,
+      "latitude": 44.807977744453
     }
   ]
 }

@@ -1,0 +1,264 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Trg republike",
+      "longitude": 20.4621133312437,
+      "latitude": 44.8156764835046
+    },
+    {
+      "id": "_2",
+      "label": "Zeleni venac",
+      "longitude": 20.4568371536344,
+      "latitude": 44.8144582924763
+    },
+    {
+      "id": "_3",
+      "label": "Brankov most",
+      "longitude": 20.4522002771838,
+      "latitude": 44.8151886080544
+    },
+    {
+      "id": "_4",
+      "label": "Šest kaplara",
+      "longitude": 20.4334922138324,
+      "latitude": 44.8152633463044
+    },
+    {
+      "id": "_5",
+      "label": "Palata Srbija",
+      "longitude": 20.4295837328162,
+      "latitude": 44.816975485622
+    },
+    {
+      "id": "_6",
+      "label": "Španskih boraca",
+      "longitude": 20.4233603118083,
+      "latitude": 44.8197882167728
+    },
+    {
+      "id": "_7",
+      "label": "Blok 30",
+      "longitude": 20.4165827290295,
+      "latitude": 44.8228227777265
+    },
+    {
+      "id": "_8",
+      "label": "Ulaz u Pariske komune",
+      "longitude": 20.4119895565675,
+      "latitude": 44.8248656094871
+    },
+    {
+      "id": "_9",
+      "label": "Fontana",
+      "longitude": 20.407628611625,
+      "latitude": 44.8266736684514
+    },
+    {
+      "id": "_10",
+      "label": "Studentska",
+      "longitude": 20.4023678868337,
+      "latitude": 44.8261802027231
+    },
+    {
+      "id": "_11",
+      "label": "Studentski grad",
+      "longitude": 20.3967364686231,
+      "latitude": 44.8268076831677
+    },
+    {
+      "id": "_12",
+      "label": "SC 11. april",
+      "longitude": 20.3929608220216,
+      "latitude": 44.8265213750828
+    },
+    {
+      "id": "_13",
+      "label": "Stojana Aralice",
+      "longitude": 20.3885133877361,
+      "latitude": 44.8227827518357
+    },
+    {
+      "id": "_14",
+      "label": "Nikole Dobrovića",
+      "longitude": 20.3846246013936,
+      "latitude": 44.8188813611224
+    },
+    {
+      "id": "_15",
+      "label": "Dr Huga Klajna",
+      "longitude": 20.3812427971832,
+      "latitude": 44.8198981075577
+    },
+    {
+      "id": "_16",
+      "label": "Peđe Milosavljevića",
+      "longitude": 20.377193666527,
+      "latitude": 44.8182796737714
+    },
+    {
+      "id": "_17",
+      "label": "Ljubinke Bobić",
+      "longitude": 20.3736175621704,
+      "latitude": 44.8145577935708
+    },
+    {
+      "id": "_18",
+      "label": "Marka Ristića",
+      "longitude": 20.3705913134171,
+      "latitude": 44.8121707482186
+    },
+    {
+      "id": "_19",
+      "label": "Milana Vujaklije",
+      "longitude": 20.3676372068389,
+      "latitude": 44.8101476004795
+    },
+    {
+      "id": "_20",
+      "label": "Magelanova",
+      "longitude": 20.3645464955715,
+      "latitude": 44.808381005192
+    },
+    {
+      "id": "_21",
+      "label": "Bežanijska kosa",
+      "longitude": 20.3629099828965,
+      "latitude": 44.807977744453
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Bežanijska kosa",
+      "longitude": 20.3629099828965,
+      "latitude": 44.807977744453
+    },
+    {
+      "id": "_2",
+      "label": "Magelanova",
+      "longitude": 20.3654305309729,
+      "latitude": 44.8086954849317
+    },
+    {
+      "id": "_3",
+      "label": "Milana Vujaklije",
+      "longitude": 20.3683518676013,
+      "latitude": 44.8104629231948
+    },
+    {
+      "id": "_4",
+      "label": "Marka Ristića",
+      "longitude": 20.3713206990743,
+      "latitude": 44.8125311306877
+    },
+    {
+      "id": "_5",
+      "label": "Ljubinke Bobić",
+      "longitude": 20.3747217064913,
+      "latitude": 44.8153449780179
+    },
+    {
+      "id": "_6",
+      "label": "Peđe Milosavljevića",
+      "longitude": 20.3770113689394,
+      "latitude": 44.8178287077819
+    },
+    {
+      "id": "_7",
+      "label": "Dr Huga Klajna",
+      "longitude": 20.3795897282646,
+      "latitude": 44.820056566852
+    },
+    {
+      "id": "_8",
+      "label": "Marka Čelebonovića",
+      "longitude": 20.3828784712497,
+      "latitude": 44.819233758115
+    },
+    {
+      "id": "_9",
+      "label": "Nikole Dobrovića",
+      "longitude": 20.3859879984617,
+      "latitude": 44.8190884584444
+    },
+    {
+      "id": "_10",
+      "label": "Stojana Aralice",
+      "longitude": 20.3882200888873,
+      "latitude": 44.822055827201
+    },
+    {
+      "id": "_11",
+      "label": "SC 11. april",
+      "longitude": 20.3939468037829,
+      "latitude": 44.8270449610979
+    },
+    {
+      "id": "_12",
+      "label": "Studentski grad",
+      "longitude": 20.3991145103976,
+      "latitude": 44.8262621981325
+    },
+    {
+      "id": "_13",
+      "label": "Studentska",
+      "longitude": 20.4031927311623,
+      "latitude": 44.8268864589955
+    },
+    {
+      "id": "_14",
+      "label": "Fontana",
+      "longitude": 20.4094089526943,
+      "latitude": 44.8257001039461
+    },
+    {
+      "id": "_15",
+      "label": "GO Novi Beograd",
+      "longitude": 20.4143294950621,
+      "latitude": 44.8235618536657
+    },
+    {
+      "id": "_16",
+      "label": "Blok 30",
+      "longitude": 20.4184323780619,
+      "latitude": 44.821719831442
+    },
+    {
+      "id": "_17",
+      "label": "Španskih boraca",
+      "longitude": 20.4232029819831,
+      "latitude": 44.8195876365891
+    },
+    {
+      "id": "_18",
+      "label": "Palata Srbija",
+      "longitude": 20.4287330074861,
+      "latitude": 44.8170828462379
+    },
+    {
+      "id": "_19",
+      "label": "Šest kaplara",
+      "longitude": 20.4353431924352,
+      "latitude": 44.814485913854
+    },
+    {
+      "id": "_20",
+      "label": "Brankov most",
+      "longitude": 20.4526067155746,
+      "latitude": 44.8149925584042
+    },
+    {
+      "id": "_21",
+      "label": "Zeleni venac",
+      "longitude": 20.4568381962374,
+      "latitude": 44.8143467033491
+    },
+    {
+      "id": "_22",
+      "label": "Trg republike",
+      "longitude": 20.4610306188357,
+      "latitude": 44.8162671711599
+    }
+  ]
+}

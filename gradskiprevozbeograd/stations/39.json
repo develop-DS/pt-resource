@@ -2,287 +2,299 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Славија /Бирчанинова/",
-      "longitude": 20.465466,
-      "latitude": 44.800629
+      "label": "Birčaninova",
+      "longitude": 20.4653549758887,
+      "latitude": 44.8005706209813
     },
     {
       "id": "_2",
-      "label": "Карађорђев парк",
-      "longitude": 20.465237,
-      "latitude": 44.797099
+      "label": "Karađorđev park",
+      "longitude": 20.4651954172747,
+      "latitude": 44.7970276562542
     },
     {
       "id": "_3",
-      "label": "Франше Д'Епереа",
-      "longitude": 20.466405,
-      "latitude": 44.792679
+      "label": "Franše D'Eperea",
+      "longitude": 20.466428073984,
+      "latitude": 44.7927226092191
     },
     {
       "id": "_4",
-      "label": "Трг Ослобођења",
-      "longitude": 20.467494,
-      "latitude": 44.786665
+      "label": "Trg oslobođenja",
+      "longitude": 20.4704645363851,
+      "latitude": 44.7863678182162
     },
     {
       "id": "_5",
-      "label": "Прешернова",
-      "longitude": 20.474107,
-      "latitude": 44.785278
+      "label": "Prešernova",
+      "longitude": 20.4741010406086,
+      "latitude": 44.7853027930892
     },
     {
       "id": "_6",
-      "label": "Универзитет Сингидунум",
-      "longitude": 20.477265,
-      "latitude": 44.782598
+      "label": "Univerzitet Singidunum",
+      "longitude": 20.4772260666708,
+      "latitude": 44.7826405993841
     },
     {
       "id": "_7",
-      "label": "Витановачка",
-      "longitude": 20.479255,
-      "latitude": 44.779612
+      "label": "Vitanovačka",
+      "longitude": 20.4792553488666,
+      "latitude": 44.7795467723283
     },
     {
       "id": "_8",
-      "label": "Бјеловарска",
-      "longitude": 20.481482,
-      "latitude": 44.77512
+      "label": "Bjelovarska",
+      "longitude": 20.4814858402251,
+      "latitude": 44.7751164788882
     },
     {
       "id": "_9",
-      "label": "Дарвинова",
-      "longitude": 20.482222,
-      "latitude": 44.772329
+      "label": "Darvinova",
+      "longitude": 20.4831902124771,
+      "latitude": 44.7715639303424
     },
     {
       "id": "_10",
-      "label": "Кумодрашка",
-      "longitude": 20.484489,
-      "latitude": 44.769337
+      "label": "Bulevar Peka Dapčevića",
+      "longitude": 20.4844556468609,
+      "latitude": 44.7693359233229
     },
     {
       "id": "_11",
-      "label": "Ватроспрем",
-      "longitude": 20.48767,
-      "latitude": 44.7649
+      "label": "Vatrosprem",
+      "longitude": 20.4876939797418,
+      "latitude": 44.7648416264806
     },
     {
       "id": "_12",
-      "label": "Ратка Митровића",
-      "longitude": 20.490139,
-      "latitude": 44.762678
+      "label": "Voždovački kružni put",
+      "longitude": 20.4901130956205,
+      "latitude": 44.7626780952706
     },
     {
       "id": "_13",
-      "label": "Предузеће Изолација",
-      "longitude": 20.494409,
-      "latitude": 44.758992
+      "label": "Preduzeće Izolacija",
+      "longitude": 20.4940202470405,
+      "latitude": 44.7593259334503
     },
     {
       "id": "_14",
-      "label": "Предузеће Петар Велебит",
-      "longitude": 20.497385,
-      "latitude": 44.756145
+      "label": "Pukovnika Petra Mišića",
+      "longitude": 20.495548724812,
+      "latitude": 44.7578567251857
     },
     {
       "id": "_15",
-      "label": "Душана Јовановића",
-      "longitude": 20.499972,
-      "latitude": 44.75396
+      "label": "Preduzeće Petar Velebit",
+      "longitude": 20.497408024917,
+      "latitude": 44.7560973576265
     },
     {
       "id": "_16",
-      "label": "Пут за Кумодрашко Гробље",
-      "longitude": 20.50268,
-      "latitude": 44.751824
+      "label": "Dušana Jovanovića",
+      "longitude": 20.5000110835118,
+      "latitude": 44.7539020200267
     },
     {
       "id": "_17",
-      "label": "Јунска",
-      "longitude": 20.50064,
-      "latitude": 44.749938
+      "label": "Put za Kumodraško groblje",
+      "longitude": 20.5027449966558,
+      "latitude": 44.7517413877051
     },
     {
       "id": "_18",
-      "label": "Кумодраж 2 ",
-      "longitude": 20.497862,
-      "latitude": 44.748694
+      "label": "Junska",
+      "longitude": 20.5006966959727,
+      "latitude": 44.7499451717096
     },
     {
       "id": "_19",
-      "label": "Фармацеутски Факултет",
-      "longitude": 20.496045,
-      "latitude": 44.747487
+      "label": "Kumodraž 2",
+      "longitude": 20.497830817934,
+      "latitude": 44.7486601231353
     },
     {
       "id": "_20",
-      "label": "Институт Торлак",
-      "longitude": 20.497487,
-      "latitude": 44.74566
+      "label": "Farmaceutski fakultet",
+      "longitude": 20.4960733596229,
+      "latitude": 44.7474338717119
     },
     {
       "id": "_21",
-      "label": "Калемарска",
-      "longitude": 20.499656,
-      "latitude": 44.742466
+      "label": "Institut Torlak",
+      "longitude": 20.4974525720484,
+      "latitude": 44.7456579920976
     },
     {
       "id": "_22",
-      "label": "Октобарска",
-      "longitude": 20.502559,
-      "latitude": 44.739843
+      "label": "Kalemarska",
+      "longitude": 20.4996399282736,
+      "latitude": 44.7424060811015
     },
     {
       "id": "_23",
-      "label": "МЗ Кумодраж",
-      "longitude": 20.506299,
-      "latitude": 44.738647
+      "label": "Oktobarska",
+      "longitude": 20.5026043976707,
+      "latitude": 44.7398000704797
     },
     {
       "id": "_24",
-      "label": "Топола",
-      "longitude": 20.504413,
-      "latitude": 44.739963
+      "label": "MZ Kumodraž",
+      "longitude": 20.5064352323021,
+      "latitude": 44.7386322527837
     },
     {
       "id": "_25",
-      "label": "Цветна",
-      "longitude": 20.504484,
-      "latitude": 44.741741
+      "label": "Topola",
+      "longitude": 20.5043004185415,
+      "latitude": 44.739924402097
     },
     {
       "id": "_26",
-      "label": "Кумодраж 1",
-      "longitude": 20.499879,
-      "latitude": 44.745161
+      "label": "Cvetna",
+      "longitude": 20.5043250812397,
+      "latitude": 44.74207362185
+    },
+    {
+      "id": "_27",
+      "label": "Kumodraž 1",
+      "longitude": 20.5013529470972,
+      "latitude": 44.7440946667664
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Кумодраж 1",
-      "longitude": 20.499879,
-      "latitude": 44.745161
+      "label": "Kumodraž 1",
+      "longitude": 20.5013529470972,
+      "latitude": 44.7440946667664
     },
     {
       "id": "_2",
-      "label": "Институт Торлак",
-      "longitude": 20.497428,
-      "latitude": 44.745967
+      "label": "Institut Torlak",
+      "longitude": 20.4973204000097,
+      "latitude": 44.7460479972539
     },
     {
       "id": "_3",
-      "label": "Кумодраж 2 ",
-      "longitude": 20.499069,
-      "latitude": 44.748957
+      "label": "Kumodraž 2",
+      "longitude": 20.4989446883812,
+      "latitude": 44.7489547786108
     },
     {
       "id": "_4",
-      "label": "Јунска",
-      "longitude": 20.501147,
-      "latitude": 44.749991
+      "label": "Junska",
+      "longitude": 20.501145634513,
+      "latitude": 44.7500227204236
     },
     {
       "id": "_5",
-      "label": "Пут за Кумодрашко Гробље",
-      "longitude": 20.502293,
-      "latitude": 44.75237
+      "label": "Put za Kumodraško groblje",
+      "longitude": 20.5022342337492,
+      "latitude": 44.7523943463275
     },
     {
       "id": "_6",
-      "label": "Душана Јовановића",
-      "longitude": 20.500054,
-      "latitude": 44.754152
+      "label": "Dušana Jovanovića",
+      "longitude": 20.4999247625715,
+      "latitude": 44.7542472292638
     },
     {
       "id": "_7",
-      "label": "Предузеће Петар Велебит",
-      "longitude": 20.497355,
-      "latitude": 44.756477
+      "label": "Preduzeće Petar Velebit",
+      "longitude": 20.4972346971492,
+      "latitude": 44.756569978196
     },
     {
       "id": "_8",
-      "label": "Предузеће Изолација",
-      "longitude": 20.493618,
-      "latitude": 44.760018
+      "label": "Pukovnika Petra Mišića",
+      "longitude": 20.4952480101286,
+      "latitude": 44.7584511773668
     },
     {
       "id": "_9",
-      "label": "Ратка Митровића",
-      "longitude": 20.49065,
-      "latitude": 44.762536
+      "label": "Preduzeće Izolacija",
+      "longitude": 20.4939998129319,
+      "latitude": 44.7596426295598
     },
     {
       "id": "_10",
-      "label": "Ватроспрем",
-      "longitude": 20.488236,
-      "latitude": 44.764683
+      "label": "Voždovački kružni put",
+      "longitude": 20.4905762920301,
+      "latitude": 44.7625793564963
     },
     {
       "id": "_11",
-      "label": "Кумодрашка",
-      "longitude": 20.484767,
-      "latitude": 44.769019
+      "label": "Vatrosprem",
+      "longitude": 20.4882082947954,
+      "latitude": 44.7646783283965
     },
     {
       "id": "_12",
-      "label": "Дарвинова",
-      "longitude": 20.482327,
-      "latitude": 44.772721
+      "label": "Bulevar Peka Dapčevića",
+      "longitude": 20.4847612112989,
+      "latitude": 44.7690691076492
     },
     {
       "id": "_13",
-      "label": "Бјеловарска",
-      "longitude": 20.481327,
-      "latitude": 44.775906
+      "label": "Darvinova",
+      "longitude": 20.4822503534218,
+      "latitude": 44.7729726294759
     },
     {
       "id": "_14",
-      "label": "Витановачка",
-      "longitude": 20.479826,
-      "latitude": 44.779011
+      "label": "Bjelovarska",
+      "longitude": 20.481293796213,
+      "latitude": 44.7759669715648
     },
     {
       "id": "_15",
-      "label": "Универзитет Сингидунум",
-      "longitude": 20.477296,
-      "latitude": 44.78279
+      "label": "Vitanovačka",
+      "longitude": 20.479767755688,
+      "latitude": 44.7790487197807
     },
     {
       "id": "_16",
-      "label": "Прешернова",
-      "longitude": 20.473222,
-      "latitude": 44.785892
+      "label": "Univerzitet Singidunum",
+      "longitude": 20.477180986972,
+      "latitude": 44.782876182784
     },
     {
       "id": "_17",
-      "label": "Трг Ослобођења",
-      "longitude": 20.466297,
-      "latitude": 44.788087
+      "label": "Prešernova",
+      "longitude": 20.4731885623187,
+      "latitude": 44.785870980307
     },
     {
       "id": "_18",
-      "label": "Франше Д'Епереа",
-      "longitude": 20.466713,
-      "latitude": 44.792784
+      "label": "Trg oslobođenja",
+      "longitude": 20.4663379359464,
+      "latitude": 44.7876680376035
     },
     {
       "id": "_19",
-      "label": "Карађорђев парк",
-      "longitude": 20.465719,
-      "latitude": 44.79816
+      "label": "Franše D'Eperea",
+      "longitude": 20.4666800433672,
+      "latitude": 44.7928101762883
     },
     {
       "id": "_20",
-      "label": "Трг Славија /Булевар Ослобођења/",
-      "longitude": 20.46636,
-      "latitude": 44.801732
+      "label": "Karađorđev park",
+      "longitude": 20.4657590648182,
+      "latitude": 44.7982550256383
     },
     {
       "id": "_21",
-      "label": "Славија /Бирчанинова/",
-      "longitude": 20.465466,
-      "latitude": 44.800629
+      "label": "Trg Slavija (Bulevar oslobođenja)",
+      "longitude": 20.4664336279974,
+      "latitude": 44.8017635811315
+    },
+    {
+      "id": "_22",
+      "label": "Trg Slavija (Tiršova)",
+      "longitude": 20.4648776777364,
+      "latitude": 44.7994164545255
     }
   ]
 }

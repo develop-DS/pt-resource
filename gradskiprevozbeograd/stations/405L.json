@@ -2,185 +2,178 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Барајево /АС/",
-      "longitude": 20.412796,
-      "latitude": 44.580956
+      "label": "Glumčevo brdo",
+      "longitude": 20.4550210329829,
+      "latitude": 44.6150996300795
     },
     {
       "id": "_2",
-      "label": "Барајево /Центар/",
-      "longitude": 20.415639,
-      "latitude": 44.578031
+      "label": "Glumčevo brdo 1",
+      "longitude": 20.4611971079111,
+      "latitude": 44.6176127503912
     },
     {
       "id": "_3",
-      "label": "Барајево /Миодрага Вуковића/",
-      "longitude": 20.422205,
-      "latitude": 44.582135
+      "label": "Glumčevo brdo (Gorčinac)",
+      "longitude": 20.4661314558633,
+      "latitude": 44.618168602965
     },
     {
       "id": "_4",
-      "label": "Караула",
-      "longitude": 20.428635,
-      "latitude": 44.588471
+      "label": "Brđanska",
+      "longitude": 20.4687702212404,
+      "latitude": 44.6231469522158
     },
     {
       "id": "_5",
-      "label": "Среднjи Краj",
-      "longitude": 20.428849,
-      "latitude": 44.591853
+      "label": "Nenadovac 1",
+      "longitude": 20.4652292873156,
+      "latitude": 44.6247846724775
     },
     {
       "id": "_6",
-      "label": "Миодрага Вуковића",
-      "longitude": 20.429796,
-      "latitude": 44.597158
+      "label": "Nenadovac 2",
+      "longitude": 20.454317786349,
+      "latitude": 44.6229567368826
     },
     {
       "id": "_7",
-      "label": "Табориште",
-      "longitude": 20.431019,
-      "latitude": 44.601077
+      "label": "Nenadovac 3",
+      "longitude": 20.4506100095196,
+      "latitude": 44.6216520688547
     },
     {
       "id": "_8",
-      "label": "Глумчево Брдо 2",
-      "longitude": 20.434033,
-      "latitude": 44.604789
+      "label": "Nenadovac 4",
+      "longitude": 20.4439194699454,
+      "latitude": 44.6207702537232
     },
     {
       "id": "_9",
-      "label": "Глумчево Брдо 3",
-      "longitude": 20.440308,
-      "latitude": 44.608633
+      "label": "Nenadovac 5",
+      "longitude": 20.4378938456383,
+      "latitude": 44.6157549849291
     },
     {
       "id": "_10",
-      "label": "Стеванчевића Крај",
-      "longitude": 20.44458,
-      "latitude": 44.611515
+      "label": "Nenadovac 6",
+      "longitude": 20.4339062583201,
+      "latitude": 44.6122002427774
     },
     {
       "id": "_11",
-      "label": "Глумичево Брдо /Школа/",
-      "longitude": 20.447858,
-      "latitude": 44.614247
+      "label": "Nenadovac",
+      "longitude": 20.4305162076605,
+      "latitude": 44.6096941087461
     },
     {
       "id": "_12",
-      "label": "Глумчево Брдо",
-      "longitude": 20.454727,
-      "latitude": 44.615068
-    }
-  ],
-  "direction_b": [
-    {
-      "id": "_1",
-      "label": "Глумчево Брдо",
-      "longitude": 20.454727,
-      "latitude": 44.615068
-    },
-    {
-      "id": "_2",
-      "label": "Глумчево Брдо 1",
-      "longitude": 20.461172,
-      "latitude": 44.61759
-    },
-    {
-      "id": "_3",
-      "label": "Глумчево Брдо /Горчинац/",
-      "longitude": 20.466104,
-      "latitude": 44.618142
-    },
-    {
-      "id": "_4",
-      "label": "Драженовац /Брђанска/",
-      "longitude": 20.468952,
-      "latitude": 44.623672
-    },
-    {
-      "id": "_5",
-      "label": "Ненадовац 1",
-      "longitude": 20.465968,
-      "latitude": 44.624694
-    },
-    {
-      "id": "_6",
-      "label": "Ненадовац 2",
-      "longitude": 20.453935,
-      "latitude": 44.622922
-    },
-    {
-      "id": "_7",
-      "label": "Ненадовац 3",
-      "longitude": 20.450438,
-      "latitude": 44.621617
-    },
-    {
-      "id": "_8",
-      "label": "Ненадовац 4",
-      "longitude": 20.44392,
-      "latitude": 44.620721
-    },
-    {
-      "id": "_9",
-      "label": "Ненадовац 5",
-      "longitude": 20.437809,
-      "latitude": 44.615633
-    },
-    {
-      "id": "_10",
-      "label": "Ненадовац 6",
-      "longitude": 20.434565,
-      "latitude": 44.612489
-    },
-    {
-      "id": "_11",
-      "label": "Ненадовац",
-      "longitude": 20.430451,
-      "latitude": 44.609675
-    },
-    {
-      "id": "_12",
-      "label": "Табориште",
-      "longitude": 20.430552,
-      "latitude": 44.60093
+      "label": "Taborište",
+      "longitude": 20.4305758132242,
+      "latitude": 44.6009753516922
     },
     {
       "id": "_13",
-      "label": "Миодрага Вуковића",
-      "longitude": 20.429573,
-      "latitude": 44.597057
+      "label": "Miodraga Vukovića",
+      "longitude": 20.429531997024,
+      "latitude": 44.5969184296596
     },
     {
       "id": "_14",
-      "label": "Среднjи Краj",
-      "longitude": 20.428723,
-      "latitude": 44.591429
+      "label": "Srednji kraj",
+      "longitude": 20.4287065141927,
+      "latitude": 44.5911526076362
     },
     {
       "id": "_15",
-      "label": "Караула",
-      "longitude": 20.428586,
-      "latitude": 44.588642
+      "label": "Karaula",
+      "longitude": 20.4287029875432,
+      "latitude": 44.5889314216418
     },
     {
       "id": "_16",
-      "label": "Барајево /Миодрага Вуковића/",
-      "longitude": 20.422042,
-      "latitude": 44.582156
+      "label": "Barajevo (Miodraga Vukovića)",
+      "longitude": 20.4225795367102,
+      "latitude": 44.5825504482293
     },
     {
       "id": "_17",
-      "label": "Барајево /Центар/",
-      "longitude": 20.415382,
-      "latitude": 44.578077
+      "label": "Barajevo - centar",
+      "longitude": 20.4152699431458,
+      "latitude": 44.5780710763609
     },
     {
       "id": "_18",
-      "label": "Барајево /АС/",
-      "longitude": 20.412796,
-      "latitude": 44.580956
+      "label": "Barajevo AS",
+      "longitude": 20.4132950378123,
+      "latitude": 44.5801309664163
+    },
+    {
+      "id": "_19",
+      "label": "Barajevo - centar",
+      "longitude": 20.4155777110895,
+      "latitude": 44.5780186454856
+    },
+    {
+      "id": "_20",
+      "label": "Barajevo (Miodraga Vukovića)",
+      "longitude": 20.4224236942093,
+      "latitude": 44.5822634673635
+    },
+    {
+      "id": "_21",
+      "label": "Karaula R",
+      "longitude": 20.4288297497826,
+      "latitude": 44.5888474540336
+    },
+    {
+      "id": "_22",
+      "label": "Srednji kraj",
+      "longitude": 20.4288502562932,
+      "latitude": 44.5919111124122
+    },
+    {
+      "id": "_23",
+      "label": "Miodraga Vukovića",
+      "longitude": 20.4299417821587,
+      "latitude": 44.5972642613805
+    },
+    {
+      "id": "_24",
+      "label": "Taborište",
+      "longitude": 20.4312143108407,
+      "latitude": 44.6013817126611
+    },
+    {
+      "id": "_25",
+      "label": "Glumčevo brdo 2",
+      "longitude": 20.4340455669944,
+      "latitude": 44.6048282584866
+    },
+    {
+      "id": "_26",
+      "label": "Glumčevo brdo 3",
+      "longitude": 20.4401853837837,
+      "latitude": 44.6085537195416
+    },
+    {
+      "id": "_27",
+      "label": "Stevančevića kraj",
+      "longitude": 20.4444195405892,
+      "latitude": 44.6113660523157
+    },
+    {
+      "id": "_28",
+      "label": "Glumčevo brdo (Škola)",
+      "longitude": 20.4475912740599,
+      "latitude": 44.6141155175844
+    },
+    {
+      "id": "_29",
+      "label": "Glumčevo brdo",
+      "longitude": 20.4550210329829,
+      "latitude": 44.6150996300795
     }
-  ]
+  ],
+  "direction_b": []
 }

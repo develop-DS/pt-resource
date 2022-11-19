@@ -2,467 +2,485 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Блок 45",
-      "longitude": 20.375226,
-      "latitude": 44.792987
+      "label": "Blok 45",
+      "longitude": 20.3751291683801,
+      "latitude": 44.7929743516835
     },
     {
       "id": "_2",
-      "label": "Др Ивана Рибара 1",
-      "longitude": 20.372973,
-      "latitude": 44.795844
+      "label": "Dr Ivana Ribara 1",
+      "longitude": 20.372822056412,
+      "latitude": 44.795955006956
     },
     {
       "id": "_3",
-      "label": "Др Ивана Рибара",
-      "longitude": 20.37037,
-      "latitude": 44.799263
+      "label": "Dr Ivana Ribara",
+      "longitude": 20.3702628435876,
+      "latitude": 44.7993158104791
     },
     {
       "id": "_4",
-      "label": "Блок 61",
-      "longitude": 20.36842,
-      "latitude": 44.801578
+      "label": "Blok 61",
+      "longitude": 20.3683801673472,
+      "latitude": 44.8015787397054
     },
     {
       "id": "_5",
-      "label": "Недељка Гвозденовића",
-      "longitude": 20.359788,
-      "latitude": 44.807719
+      "label": "Nedeljka Gvozdenovića",
+      "longitude": 20.3596966512311,
+      "latitude": 44.8077258570245
     },
     {
       "id": "_6",
-      "label": "Биодекор",
-      "longitude": 20.35217,
-      "latitude": 44.806391
+      "label": "Biodekor",
+      "longitude": 20.35238378008,
+      "latitude": 44.8064374490621
     },
     {
       "id": "_7",
-      "label": "Ледине",
-      "longitude": 20.348501,
-      "latitude": 44.805249
+      "label": "Ledine",
+      "longitude": 20.3484786557574,
+      "latitude": 44.8052093865501
     },
     {
       "id": "_8",
-      "label": "СЦ Младост",
-      "longitude": 20.340393,
-      "latitude": 44.802799
+      "label": "SC Mladost",
+      "longitude": 20.3403779844709,
+      "latitude": 44.8027691885813
     },
     {
       "id": "_9",
-      "label": "Вила Мара",
-      "longitude": 20.335425,
-      "latitude": 44.801285
+      "label": "Vila Mara",
+      "longitude": 20.3353947024312,
+      "latitude": 44.8012464841295
     },
     {
       "id": "_10",
-      "label": "Ново Насеље",
-      "longitude": 20.329624,
-      "latitude": 44.800009
+      "label": "Novo naselje",
+      "longitude": 20.3296298247723,
+      "latitude": 44.8000033794298
     },
     {
       "id": "_11",
-      "label": "Викенд Насеље",
-      "longitude": 20.324796,
-      "latitude": 44.799291
+      "label": "Vikend naselje",
+      "longitude": 20.3247211787591,
+      "latitude": 44.7992816043444
     },
     {
       "id": "_12",
-      "label": "Малињак",
-      "longitude": 20.319089,
-      "latitude": 44.798475
+      "label": "Malinjak",
+      "longitude": 20.3191312062218,
+      "latitude": 44.7984655778568
     },
     {
       "id": "_13",
-      "label": "Галовица",
-      "longitude": 20.311908,
-      "latitude": 44.797436
+      "label": "Galovica",
+      "longitude": 20.3118556244609,
+      "latitude": 44.7974051823851
     },
     {
       "id": "_14",
-      "label": "Орешац",
-      "longitude": 20.305336,
-      "latitude": 44.796485
+      "label": "Orešac",
+      "longitude": 20.3052767749274,
+      "latitude": 44.7964475432666
     },
     {
       "id": "_15",
-      "label": "Сурчин /Улаз/",
-      "longitude": 20.297673,
-      "latitude": 44.795377
+      "label": "Surčin (ulaz)",
+      "longitude": 20.2975926668554,
+      "latitude": 44.7953477636655
     },
     {
       "id": "_16",
-      "label": "Сурчин /Црква/",
-      "longitude": 20.290595,
-      "latitude": 44.794388
+      "label": "Crkva",
+      "longitude": 20.2906025174149,
+      "latitude": 44.7943687583691
     },
     {
       "id": "_17",
-      "label": "Сурчин /Марка Рaba/",
-      "longitude": 20.284828,
-      "latitude": 44.793543
+      "label": "Marka Raba",
+      "longitude": 20.284743514014,
+      "latitude": 44.7935133841489
     },
     {
       "id": "_18",
-      "label": "Сурчин /Скопљанска/",
-      "longitude": 20.278425,
-      "latitude": 44.792613
+      "label": "Skopljanska",
+      "longitude": 20.2782943207582,
+      "latitude": 44.7925675983652
     },
     {
       "id": "_19",
-      "label": "Сурчин /Центар/",
-      "longitude": 20.269677,
-      "latitude": 44.790965
+      "label": "Surčin (centar)",
+      "longitude": 20.269576440419,
+      "latitude": 44.7909428436165
     },
     {
       "id": "_20",
-      "label": "Сурчин /Партизанска/",
-      "longitude": 20.261782,
-      "latitude": 44.789434
+      "label": "Krušedolska",
+      "longitude": 20.2618605005293,
+      "latitude": 44.7894750736203
     },
     {
       "id": "_21",
-      "label": "Сурчин /Млин/",
-      "longitude": 20.256119,
-      "latitude": 44.787255
+      "label": "Surčin (mlin)",
+      "longitude": 20.2560733648775,
+      "latitude": 44.7872237587599
     },
     {
       "id": "_22",
-      "label": "Сурчин /Браће Николић/",
-      "longitude": 20.253929,
-      "latitude": 44.783456
+      "label": "Braće Nikolić",
+      "longitude": 20.2538782515217,
+      "latitude": 44.7833846722943
     },
     {
       "id": "_23",
-      "label": "Сурчин /Римски Канал/",
-      "longitude": 20.250407,
-      "latitude": 44.781256
+      "label": "Put za SRC",
+      "longitude": 20.250345076553,
+      "latitude": 44.7812287146776
     },
     {
       "id": "_24",
-      "label": "Пут за Јаково",
-      "longitude": 20.240361,
-      "latitude": 44.776113
+      "label": "Rimski kanal",
+      "longitude": 20.2456151916687,
+      "latitude": 44.7784204051218
     },
     {
       "id": "_25",
-      "label": "Месара",
-      "longitude": 20.233614,
-      "latitude": 44.776337
+      "label": "Put za Jakovo",
+      "longitude": 20.2402757330775,
+      "latitude": 44.7760776363002
     },
     {
       "id": "_26",
-      "label": "Бечмен /Улаз/",
-      "longitude": 20.22649,
-      "latitude": 44.777313
+      "label": "Mesara",
+      "longitude": 20.233552776799,
+      "latitude": 44.7763568479383
     },
     {
       "id": "_27",
-      "label": "Насеље Бечмен",
-      "longitude": 20.219693,
-      "latitude": 44.778278
+      "label": "Ulaz u Bečmen",
+      "longitude": 20.226464190823,
+      "latitude": 44.7773315629952
     },
     {
       "id": "_28",
-      "label": "Бечмен /Максин Сокак/",
-      "longitude": 20.211681,
-      "latitude": 44.779215
+      "label": "Bečmen (naselje)",
+      "longitude": 20.219632821767,
+      "latitude": 44.7783291890007
     },
     {
       "id": "_29",
-      "label": "Бечмен /Центар/",
-      "longitude": 20.20252,
-      "latitude": 44.780796
+      "label": "Maksin sokak",
+      "longitude": 20.2119502678448,
+      "latitude": 44.7792755566465
     },
     {
       "id": "_30",
-      "label": "Бечменских Илегалаца",
-      "longitude": 20.19569,
-      "latitude": 44.782435
+      "label": "Bečmen (centar)",
+      "longitude": 20.2024794943152,
+      "latitude": 44.7808659415123
     },
     {
       "id": "_31",
-      "label": "Бечмен /Економија/",
-      "longitude": 20.185534,
-      "latitude": 44.78649
+      "label": "Bečmenskih ilegalaca",
+      "longitude": 20.1956865590311,
+      "latitude": 44.7824959713055
     },
     {
       "id": "_32",
-      "label": "Бечмен /Забран/",
-      "longitude": 20.177164,
-      "latitude": 44.78839
+      "label": "Bečmen (izlaz)",
+      "longitude": 20.1908572671676,
+      "latitude": 44.7844688668509
     },
     {
       "id": "_33",
-      "label": "Шумско Газдинство",
-      "longitude": 20.16507,
-      "latitude": 44.791025
+      "label": "Bečmen ekonomija",
+      "longitude": 20.1858889047908,
+      "latitude": 44.7864225700791
     },
     {
       "id": "_34",
-      "label": "Змај Огњеног Вука",
-      "longitude": 20.155124,
-      "latitude": 44.793177
+      "label": "Bečmen (Zabran)",
+      "longitude": 20.1771251664903,
+      "latitude": 44.7884622503363
     },
     {
       "id": "_35",
-      "label": "Петровчић /Улаз/",
-      "longitude": 20.151232,
-      "latitude": 44.793644
+      "label": "Šumsko gazdinstvo",
+      "longitude": 20.1649425648283,
+      "latitude": 44.7910919541133
     },
     {
       "id": "_36",
-      "label": "Петровчић /Центар/",
-      "longitude": 20.14413,
-      "latitude": 44.794167
+      "label": "Zmaj Ognjenog Vuka",
+      "longitude": 20.1550788597509,
+      "latitude": 44.7932335107519
     },
     {
       "id": "_37",
-      "label": "Петровчић",
-      "longitude": 20.135324,
-      "latitude": 44.795118
+      "label": "Petrovčić (ulaz)",
+      "longitude": 20.1510248849603,
+      "latitude": 44.7937165091504
     },
     {
       "id": "_38",
-      "label": "Прека Калдрма",
-      "longitude": 20.100824,
-      "latitude": 44.805943
+      "label": "Petrovčić (centar)",
+      "longitude": 20.144914249607,
+      "latitude": 44.794130030836
+    },
+    {
+      "id": "_39",
+      "label": "Petrovčić",
+      "longitude": 20.1354430170777,
+      "latitude": 44.7951244771742
+    },
+    {
+      "id": "_40",
+      "label": "Preka kaldrma",
+      "longitude": 20.1004376623868,
+      "latitude": 44.8062212921379
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Прека Калдрма",
-      "longitude": 20.100824,
-      "latitude": 44.805943
+      "label": "Preka kaldrma",
+      "longitude": 20.1011407977982,
+      "latitude": 44.8058776313721
     },
     {
       "id": "_2",
-      "label": "Петровчић",
-      "longitude": 20.135271,
-      "latitude": 44.795034
+      "label": "Petrovčić",
+      "longitude": 20.1357266276251,
+      "latitude": 44.7949214279618
     },
     {
       "id": "_3",
-      "label": "Петровчић /Центар/",
-      "longitude": 20.144487,
-      "latitude": 44.794041
+      "label": "Petrovčić (centar)",
+      "longitude": 20.1445337897264,
+      "latitude": 44.7940461939475
     },
     {
       "id": "_4",
-      "label": "Петровчић /Улаз/",
-      "longitude": 20.151662,
-      "latitude": 44.793533
+      "label": "Petrovčić (ulaz)",
+      "longitude": 20.1517829699048,
+      "latitude": 44.7935601336392
     },
     {
       "id": "_5",
-      "label": "Змај Огњеног Вука",
-      "longitude": 20.155566,
-      "latitude": 44.792988
+      "label": "Zmaj Ognjenog Vuka",
+      "longitude": 20.1556359081316,
+      "latitude": 44.792994630575
     },
     {
       "id": "_6",
-      "label": "Шумско Газдинство",
-      "longitude": 20.166115,
-      "latitude": 44.790672
+      "label": "Šumsko gazdinstvo",
+      "longitude": 20.1661663185758,
+      "latitude": 44.790713887982
     },
     {
       "id": "_7",
-      "label": "Бечмен /Забран/",
-      "longitude": 20.17819,
-      "latitude": 44.788035
+      "label": "Bečmen (Zabran)",
+      "longitude": 20.1782854779611,
+      "latitude": 44.7880925979422
     },
     {
       "id": "_8",
-      "label": "Бечмен /Економија/",
-      "longitude": 20.185889,
-      "latitude": 44.786255
+      "label": "Bečmen ekonomija",
+      "longitude": 20.185941491267,
+      "latitude": 44.7862771508838
     },
     {
       "id": "_9",
-      "label": "Бечменских Илегалаца",
-      "longitude": 20.196499,
-      "latitude": 44.781984
+      "label": "Bečmen (izlaz)",
+      "longitude": 20.1914561220525,
+      "latitude": 44.7841149123806
     },
     {
       "id": "_10",
-      "label": "Бечмен /Центар/",
-      "longitude": 20.203414,
-      "latitude": 44.780523
+      "label": "Bečmenskih ilegalaca",
+      "longitude": 20.1958027411339,
+      "latitude": 44.7823185954982
     },
     {
       "id": "_11",
-      "label": "Бечмен /Максин Сокак/",
-      "longitude": 20.211239,
-      "latitude": 44.77917
+      "label": "Bečmen (centar)",
+      "longitude": 20.2033298504485,
+      "latitude": 44.780592871262
     },
     {
       "id": "_12",
-      "label": "Насеље Бечмен",
-      "longitude": 20.22014,
-      "latitude": 44.778128
+      "label": "Maksin sokak",
+      "longitude": 20.2113595113082,
+      "latitude": 44.7792318935533
     },
     {
       "id": "_13",
-      "label": "Бечмен /Улаз/",
-      "longitude": 20.225964,
-      "latitude": 44.777284
+      "label": "Bečmen (naselje)",
+      "longitude": 20.2202823538712,
+      "latitude": 44.7781356205347
     },
     {
       "id": "_14",
-      "label": "Месара",
-      "longitude": 20.234314,
-      "latitude": 44.776172
+      "label": "Ulaz u Bečmen",
+      "longitude": 20.2260300569619,
+      "latitude": 44.7772926329134
     },
     {
       "id": "_15",
-      "label": "Пут за Јаково",
-      "longitude": 20.241081,
-      "latitude": 44.776291
+      "label": "Mesara",
+      "longitude": 20.2342706301142,
+      "latitude": 44.7761510574112
     },
     {
       "id": "_16",
-      "label": "Сурчин /Римски Канал/",
-      "longitude": 20.250146,
-      "latitude": 44.781052
+      "label": "Put za Jakovo",
+      "longitude": 20.2412146727844,
+      "latitude": 44.7763556451547
     },
     {
       "id": "_17",
-      "label": "Сурчин /Браће Николић/",
-      "longitude": 20.254282,
-      "latitude": 44.783804
+      "label": "Rimski kanal",
+      "longitude": 20.2473377853238,
+      "latitude": 44.7790743025036
     },
     {
       "id": "_18",
-      "label": "Сурчин /Млин/",
-      "longitude": 20.256218,
-      "latitude": 44.787163
+      "label": "Put za SRC",
+      "longitude": 20.2502028713941,
+      "latitude": 44.7810855910504
     },
     {
       "id": "_19",
-      "label": "Сурчин /Партизанска/",
-      "longitude": 20.262169,
-      "latitude": 44.789417
+      "label": "Braće Nikolić",
+      "longitude": 20.254356505014,
+      "latitude": 44.7839295592062
     },
     {
       "id": "_20",
-      "label": "Сурчин /Центар/",
-      "longitude": 20.271055,
-      "latitude": 44.791081
+      "label": "Surčin (mlin)",
+      "longitude": 20.2562724203282,
+      "latitude": 44.7872718485651
     },
     {
       "id": "_21",
-      "label": "Сурчин /Скопљанска/",
-      "longitude": 20.280024,
-      "latitude": 44.792684
+      "label": "Krušedolska",
+      "longitude": 20.2624342595165,
+      "latitude": 44.7894751680994
     },
     {
       "id": "_22",
-      "label": "Сурчин /Марка Рaba/",
-      "longitude": 20.286345,
-      "latitude": 44.793611
+      "label": "Surčin (centar)",
+      "longitude": 20.2710959276357,
+      "latitude": 44.7911145102775
     },
     {
       "id": "_23",
-      "label": "Сурчин /Црква/",
-      "longitude": 20.290656,
-      "latitude": 44.794234
+      "label": "Skopljanska",
+      "longitude": 20.2800239299124,
+      "latitude": 44.7927188702734
     },
     {
       "id": "_24",
-      "label": "Сурчин /Улаз/",
-      "longitude": 20.297581,
-      "latitude": 44.795203
+      "label": "Marka Raba",
+      "longitude": 20.2864707081862,
+      "latitude": 44.793659143584
     },
     {
       "id": "_25",
-      "label": "Орешац",
-      "longitude": 20.305618,
-      "latitude": 44.796375
+      "label": "Crkva",
+      "longitude": 20.2908991251996,
+      "latitude": 44.7942985974551
     },
     {
       "id": "_26",
-      "label": "Галовица",
-      "longitude": 20.312473,
-      "latitude": 44.797347
+      "label": "Surčin (ulaz)",
+      "longitude": 20.297800912615,
+      "latitude": 44.7952680437376
     },
     {
       "id": "_27",
-      "label": "Малињак",
-      "longitude": 20.319398,
-      "latitude": 44.798368
+      "label": "Orešac",
+      "longitude": 20.3055531545006,
+      "latitude": 44.7963772217066
     },
     {
       "id": "_28",
-      "label": "Викенд Насеље",
-      "longitude": 20.325288,
-      "latitude": 44.799241
+      "label": "Galovica",
+      "longitude": 20.3125636059471,
+      "latitude": 44.7973914314327
     },
     {
       "id": "_29",
-      "label": "Ново Насеље",
-      "longitude": 20.330517,
-      "latitude": 44.799973
+      "label": "Malinjak",
+      "longitude": 20.3194907853936,
+      "latitude": 44.7984137158296
     },
     {
       "id": "_30",
-      "label": "Вила Мара",
-      "longitude": 20.334089,
-      "latitude": 44.800675
+      "label": "Vikend naselje",
+      "longitude": 20.3252701365787,
+      "latitude": 44.7992488386447
     },
     {
       "id": "_31",
-      "label": "СЦ Младост",
-      "longitude": 20.341994,
-      "latitude": 44.803095
+      "label": "Novo naselje",
+      "longitude": 20.3304816124944,
+      "latitude": 44.8000173568798
     },
     {
       "id": "_32",
-      "label": "Ледине",
-      "longitude": 20.348707,
-      "latitude": 44.805139
+      "label": "Vila Mara",
+      "longitude": 20.3341745158971,
+      "latitude": 44.8007282298825
     },
     {
       "id": "_33",
-      "label": "Биодекор",
-      "longitude": 20.35338,
-      "latitude": 44.806629
+      "label": "SC Mladost",
+      "longitude": 20.3419693171963,
+      "latitude": 44.8031167161313
     },
     {
       "id": "_34",
-      "label": "Недељка Гвозденовића",
-      "longitude": 20.36023,
-      "latitude": 44.807547
+      "label": "Ledine",
+      "longitude": 20.3487973784396,
+      "latitude": 44.8051949981605
     },
     {
       "id": "_35",
-      "label": "Блок 61",
-      "longitude": 20.366515,
-      "latitude": 44.803176
+      "label": "Biodekor",
+      "longitude": 20.3533902928537,
+      "latitude": 44.806642919573
     },
     {
       "id": "_36",
-      "label": "Насеље Др Ивана Рибара",
-      "longitude": 20.369503,
-      "latitude": 44.799806
+      "label": "Nedeljka Gvozdenovića",
+      "longitude": 20.3602447283376,
+      "latitude": 44.8075489258295
     },
     {
       "id": "_37",
-      "label": "Др Ивана Рибара 1",
-      "longitude": 20.371992,
-      "latitude": 44.796736
+      "label": "Blok 61",
+      "longitude": 20.3665909669199,
+      "latitude": 44.8031383895825
     },
     {
       "id": "_38",
-      "label": "Блок 45",
-      "longitude": 20.374888,
-      "latitude": 44.793072
+      "label": "Naselje Dr Ivana Ribara",
+      "longitude": 20.3695220637996,
+      "latitude": 44.7997887155459
     },
     {
       "id": "_39",
-      "label": "Блок 45",
-      "longitude": 20.375226,
-      "latitude": 44.792987
+      "label": "Dr Ivana Ribara 1",
+      "longitude": 20.3720076477441,
+      "latitude": 44.7966975121338
+    },
+    {
+      "id": "_40",
+      "label": "Blok 45",
+      "longitude": 20.3751162660873,
+      "latitude": 44.7927636918094
     }
   ]
 }

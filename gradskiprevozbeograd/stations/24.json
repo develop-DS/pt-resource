@@ -2,191 +2,185 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Дорћол /СРЦ Милалн Мушкатировић/",
-      "longitude": 20.456261,
-      "latitude": 44.829766
+      "label": "Dorćol (SRC Milan Gale Muškatirović)",
+      "longitude": 20.4562490991147,
+      "latitude": 44.8297456732142
     },
     {
       "id": "_2",
-      "label": "Браће Барух",
-      "longitude": 20.456947,
-      "latitude": 44.82494
+      "label": "Braće Baruh",
+      "longitude": 20.4569313944278,
+      "latitude": 44.8249413711738
     },
     {
       "id": "_3",
-      "label": "Краља Петра",
-      "longitude": 20.460279,
-      "latitude": 44.823157
+      "label": "Kralja Petra",
+      "longitude": 20.4602867462446,
+      "latitude": 44.8231213035395
     },
     {
       "id": "_4",
-      "label": "Дорћол /Кнегиње Љубице/",
-      "longitude": 20.463047,
-      "latitude": 44.821661
+      "label": "Dorćol (Kneginje Ljubice)",
+      "longitude": 20.4641043800112,
+      "latitude": 44.8210603098234
     },
     {
       "id": "_5",
-      "label": "Душанова",
-      "longitude": 20.465345,
-      "latitude": 44.819495
+      "label": "Dušanova",
+      "longitude": 20.4653654226732,
+      "latitude": 44.8195092765921
     },
     {
       "id": "_6",
-      "label": "Републике трг",
-      "longitude": 20.460629,
-      "latitude": 44.815743
+      "label": "Trg republike",
+      "longitude": 20.4604999027432,
+      "latitude": 44.8154151225036
     },
     {
       "id": "_7",
-      "label": "Теразије",
-      "longitude": 20.460957,
-      "latitude": 44.812833
+      "label": "Pionirski park",
+      "longitude": 20.4651200189327,
+      "latitude": 44.8109999868147
     },
     {
       "id": "_8",
-      "label": "Пионирски Парк",
-      "longitude": 20.465054,
-      "latitude": 44.810986
+      "label": "Resavska",
+      "longitude": 20.4681162674703,
+      "latitude": 44.8090700158441
     },
     {
       "id": "_9",
-      "label": "Ресавска",
-      "longitude": 20.467976,
-      "latitude": 44.809155
+      "label": "Tašmajdan",
+      "longitude": 20.4690965276981,
+      "latitude": 44.8080468088252
     },
     {
       "id": "_10",
-      "label": "Ташмајдан",
-      "longitude": 20.469061,
-      "latitude": 44.80803
+      "label": "Cvetni trg",
+      "longitude": 20.4668402827853,
+      "latitude": 44.8048379137722
     },
     {
       "id": "_11",
-      "label": "Цветни трг",
-      "longitude": 20.466852,
-      "latitude": 44.804867
+      "label": "Smiljanićeva",
+      "longitude": 20.470226736811,
+      "latitude": 44.8027711047466
     },
     {
       "id": "_12",
-      "label": "Смиљанићева",
-      "longitude": 20.47024,
-      "latitude": 44.802792
+      "label": "GO Vračar",
+      "longitude": 20.4735138373865,
+      "latitude": 44.8007613358418
     },
     {
       "id": "_13",
-      "label": "ГО Врачар",
-      "longitude": 20.473461,
-      "latitude": 44.800774
+      "label": "Mačvanska",
+      "longitude": 20.4740772330908,
+      "latitude": 44.7977256727693
     },
     {
       "id": "_14",
-      "label": "Мачванска",
-      "longitude": 20.474003,
-      "latitude": 44.797792
+      "label": "Internacionalnih brigada",
+      "longitude": 20.4737834821202,
+      "latitude": 44.794707677064
     },
     {
       "id": "_15",
-      "label": "Интернационалних Бригада",
-      "longitude": 20.473642,
-      "latitude": 44.794673
-    },
-    {
-      "id": "_16",
-      "label": "Неимар",
-      "longitude": 20.473179,
-      "latitude": 44.794003
+      "label": "Neimar",
+      "longitude": 20.4731504925018,
+      "latitude": 44.7939848085578
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Неимар",
-      "longitude": 20.473179,
-      "latitude": 44.794003
+      "label": "Neimar",
+      "longitude": 20.4731504925018,
+      "latitude": 44.7939848085578
     },
     {
       "id": "_2",
-      "label": "Новопазарска",
-      "longitude": 20.474232,
-      "latitude": 44.797895
+      "label": "Novopazarska",
+      "longitude": 20.4740420932187,
+      "latitude": 44.7979774990468
     },
     {
       "id": "_3",
-      "label": "ГО Врачар",
-      "longitude": 20.472896,
-      "latitude": 44.801294
+      "label": "GO Vračar",
+      "longitude": 20.4728541194797,
+      "latitude": 44.801307279366
     },
     {
       "id": "_4",
-      "label": "Смиљанићева",
-      "longitude": 20.470036,
-      "latitude": 44.803042
+      "label": "Smiljanićeva",
+      "longitude": 20.4700321449211,
+      "latitude": 44.8030401924118
     },
     {
       "id": "_5",
-      "label": "Цветни трг",
-      "longitude": 20.467475,
-      "latitude": 44.804592
+      "label": "Cvetni trg",
+      "longitude": 20.4675152403305,
+      "latitude": 44.8045710616939
     },
     {
       "id": "_6",
-      "label": "Ташмајдан",
-      "longitude": 20.470398,
-      "latitude": 44.807364
+      "label": "Tašmajdan",
+      "longitude": 20.4704048875061,
+      "latitude": 44.8073616903843
     },
     {
       "id": "_7",
-      "label": "Главна пошта",
-      "longitude": 20.467193,
-      "latitude": 44.809968
+      "label": "Glavna pošta",
+      "longitude": 20.4672209588748,
+      "latitude": 44.8099244175882
     },
     {
       "id": "_8",
-      "label": "Теразије",
-      "longitude": 20.461159,
-      "latitude": 44.813172
+      "label": "Pionirski park",
+      "longitude": 20.4641117754345,
+      "latitude": 44.8120284281989
     },
     {
       "id": "_9",
-      "label": "Душанова",
-      "longitude": 20.46469,
-      "latitude": 44.818927
+      "label": "Trg republike",
+      "longitude": 20.4610306188357,
+      "latitude": 44.8162671711599
     },
     {
       "id": "_10",
-      "label": "Дорћол /Кнегиње Љубице/",
-      "longitude": 20.464324,
-      "latitude": 44.821208
+      "label": "Dušanova",
+      "longitude": 20.4647230266077,
+      "latitude": 44.8189663109434
     },
     {
       "id": "_11",
-      "label": "Краља Петра",
-      "longitude": 20.460245,
-      "latitude": 44.82341
+      "label": "Dorćol (Kneginje Ljubice)",
+      "longitude": 20.464340466377,
+      "latitude": 44.821237802558
     },
     {
       "id": "_12",
-      "label": "Браће Барух",
-      "longitude": 20.45714,
-      "latitude": 44.825098
+      "label": "Kralja Petra",
+      "longitude": 20.4602737388993,
+      "latitude": 44.8234326253102
     },
     {
       "id": "_13",
-      "label": "Солунска",
-      "longitude": 20.456064,
-      "latitude": 44.8269
+      "label": "Braće Baruh",
+      "longitude": 20.457223365058,
+      "latitude": 44.8250921444758
     },
     {
       "id": "_14",
-      "label": "Дорћол /СРЦ Милалн Мушкатировић/",
-      "longitude": 20.455852,
-      "latitude": 44.829556
+      "label": "Solunska",
+      "longitude": 20.4560351924503,
+      "latitude": 44.8269278160156
     },
     {
       "id": "_15",
-      "label": "Дорћол /СРЦ Милалн Мушкатировић/",
-      "longitude": 20.456261,
-      "latitude": 44.829766
+      "label": "Dorćol (SRC Milan Gale Muškatirović)",
+      "longitude": 20.4558572208037,
+      "latitude": 44.8297276163418
     }
   ]
 }

@@ -2,245 +2,263 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Савски трг",
-      "longitude": 20.455434,
-      "latitude": 44.806951
+      "label": "Beograd na vodi",
+      "longitude": 20.444451559849,
+      "latitude": 44.8011117700695
     },
     {
       "id": "_2",
-      "label": "Економски факултет",
-      "longitude": 20.453377,
-      "latitude": 44.810779
+      "label": "TC Galerija",
+      "longitude": 20.4461890099644,
+      "latitude": 44.8014426648003
     },
     {
       "id": "_3",
-      "label": "БАС",
-      "longitude": 20.45216,
-      "latitude": 44.809838
+      "label": "Kula Beograd",
+      "longitude": 20.4490089204697,
+      "latitude": 44.8031967529456
     },
     {
       "id": "_4",
-      "label": "Палата Правде 1",
-      "longitude": 20.451419,
-      "latitude": 44.80302
+      "label": "Palata pravde 1",
+      "longitude": 20.4515238525443,
+      "latitude": 44.8029928139838
     },
     {
       "id": "_5",
-      "label": "Сајам",
-      "longitude": 20.441977,
-      "latitude": 44.796588
+      "label": "Sajam",
+      "longitude": 20.4415906546322,
+      "latitude": 44.7964130286058
     },
     {
       "id": "_6",
-      "label": "Руска",
-      "longitude": 20.436034,
-      "latitude": 44.795118
+      "label": "Ruska",
+      "longitude": 20.4359385437038,
+      "latitude": 44.795085842923
     },
     {
       "id": "_7",
-      "label": "Топчидерска Позорница",
-      "longitude": 20.437404,
-      "latitude": 44.783686
+      "label": "Careva Ćuprija",
+      "longitude": 20.4313998866122,
+      "latitude": 44.7863925993012
     },
     {
       "id": "_8",
-      "label": "Топчидерски Парк",
-      "longitude": 20.438312,
-      "latitude": 44.781009
+      "label": "Topčiderski park",
+      "longitude": 20.4386716729782,
+      "latitude": 44.7811445274598
     },
     {
       "id": "_9",
-      "label": "Железничка Станица Топчидер",
-      "longitude": 20.436921,
-      "latitude": 44.777073
+      "label": "Železnička stanica Topčider",
+      "longitude": 20.4370279404151,
+      "latitude": 44.7768112765591
     },
     {
       "id": "_10",
-      "label": "Топчидерска Окретница",
-      "longitude": 20.437677,
-      "latitude": 44.773599
+      "label": "Topčiderska okretnica",
+      "longitude": 20.4375713837296,
+      "latitude": 44.7741824643451
     },
     {
       "id": "_11",
-      "label": "Патријарха Павла",
-      "longitude": 20.444835,
-      "latitude": 44.764637
+      "label": "Patrijarha Pavla",
+      "longitude": 20.4439525669235,
+      "latitude": 44.7654865641054
     },
     {
       "id": "_12",
-      "label": "Расадник",
-      "longitude": 20.44529,
-      "latitude": 44.760721
+      "label": "Rasadnik",
+      "longitude": 20.4452857588381,
+      "latitude": 44.7607597612478
     },
     {
       "id": "_13",
-      "label": "Кошутњак",
-      "longitude": 20.445716,
-      "latitude": 44.756685
+      "label": "Košutnjak",
+      "longitude": 20.4459376605244,
+      "latitude": 44.7565430200934
     },
     {
       "id": "_14",
-      "label": "Варешка",
-      "longitude": 20.445779,
-      "latitude": 44.750436
+      "label": "Vareška",
+      "longitude": 20.4456326265932,
+      "latitude": 44.7502557580952
     },
     {
       "id": "_15",
-      "label": "Железничка Станица Раковица",
-      "longitude": 20.443699,
-      "latitude": 44.746984
+      "label": "Železnička stanica Rakovica",
+      "longitude": 20.4437394346187,
+      "latitude": 44.7469545321351
     },
     {
       "id": "_16",
-      "label": "Мишка Крањца",
-      "longitude": 20.441164,
-      "latitude": 44.74342
+      "label": "Miška Kranjca",
+      "longitude": 20.440890114521,
+      "latitude": 44.7422482743837
     },
     {
       "id": "_17",
-      "label": "Ослобођења",
-      "longitude": 20.438615,
-      "latitude": 44.739084
+      "label": "Ulica Oslobođenja",
+      "longitude": 20.4385425050469,
+      "latitude": 44.7389861405659
     },
     {
       "id": "_18",
-      "label": "Славка Родића",
-      "longitude": 20.434151,
-      "latitude": 44.739081
+      "label": "Slavka Rodića",
+      "longitude": 20.4340422345425,
+      "latitude": 44.7389910264503
     },
     {
       "id": "_19",
-      "label": "Кнежевац",
-      "longitude": 20.43224,
-      "latitude": 44.734358
+      "label": "Kneževac",
+      "longitude": 20.4322205918256,
+      "latitude": 44.7344120064862
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Кнежевац",
-      "longitude": 20.43224,
-      "latitude": 44.734358
+      "label": "Kneževac",
+      "longitude": 20.4322205918256,
+      "latitude": 44.7344120064862
     },
     {
       "id": "_2",
-      "label": "Кнежевац",
-      "longitude": 20.431639,
-      "latitude": 44.734622
+      "label": "Slavka Rodića",
+      "longitude": 20.43417651004,
+      "latitude": 44.7389466906129
     },
     {
       "id": "_3",
-      "label": "Славка Родића",
-      "longitude": 20.434272,
-      "latitude": 44.739043
+      "label": "Ulica Oslobođenja",
+      "longitude": 20.4375793608356,
+      "latitude": 44.7385638395998
     },
     {
       "id": "_4",
-      "label": "Ослобођења",
-      "longitude": 20.437452,
-      "latitude": 44.738609
+      "label": "Miška Kranjca",
+      "longitude": 20.4410785183948,
+      "latitude": 44.7423535881592
     },
     {
       "id": "_5",
-      "label": "Мишка Крањца",
-      "longitude": 20.441282,
-      "latitude": 44.743426
+      "label": "Železnička stanica Rakovica",
+      "longitude": 20.4445507205808,
+      "latitude": 44.7482238101506
     },
     {
       "id": "_6",
-      "label": "Железничка Станица Раковица",
-      "longitude": 20.444217,
-      "latitude": 44.747317
+      "label": "Vareška",
+      "longitude": 20.4458814606513,
+      "latitude": 44.7503847547966
     },
     {
       "id": "_7",
-      "label": "Варешка",
-      "longitude": 20.446293,
-      "latitude": 44.750839
+      "label": "Košutnjak",
+      "longitude": 20.4464420407147,
+      "latitude": 44.7575372388214
     },
     {
       "id": "_8",
-      "label": "Кошутњак",
-      "longitude": 20.446043,
-      "latitude": 44.75746
+      "label": "Rasadnik",
+      "longitude": 20.4457123641058,
+      "latitude": 44.7605483601434
     },
     {
       "id": "_9",
-      "label": "Расадник",
-      "longitude": 20.445412,
-      "latitude": 44.760689
+      "label": "Partijarha Pavla",
+      "longitude": 20.4439486250967,
+      "latitude": 44.7662330665014
     },
     {
       "id": "_10",
-      "label": "Патријарха Павла",
-      "longitude": 20.444815,
-      "latitude": 44.764852
+      "label": "Topčiderska okretnica",
+      "longitude": 20.4376882998616,
+      "latitude": 44.7743738286475
     },
     {
       "id": "_11",
-      "label": "Топчидерска Окретница",
-      "longitude": 20.437781,
-      "latitude": 44.773973
+      "label": "Železnička stanica Topčider",
+      "longitude": 20.4374246820786,
+      "latitude": 44.7768114228804
     },
     {
       "id": "_12",
-      "label": "Железничка Станица Топчидер",
-      "longitude": 20.437485,
-      "latitude": 44.776808
+      "label": "Dom garde",
+      "longitude": 20.4393058669951,
+      "latitude": 44.7764372502548
     },
     {
       "id": "_13",
-      "label": "Дом Гарде",
-      "longitude": 20.440074,
-      "latitude": 44.776536
+      "label": "Topčiderski park",
+      "longitude": 20.4408621559264,
+      "latitude": 44.7822603717312
     },
     {
       "id": "_14",
-      "label": "Топчидерски Парк",
-      "longitude": 20.440939,
-      "latitude": 44.782232
+      "label": "Careva Ćuprija",
+      "longitude": 20.4315600840708,
+      "latitude": 44.7865776477405
     },
     {
       "id": "_15",
-      "label": "Топчидерска Позорница",
-      "longitude": 20.437136,
-      "latitude": 44.78387
+      "label": "Gospodarska mehana",
+      "longitude": 20.4336164890262,
+      "latitude": 44.7944624326348
     },
     {
       "id": "_16",
-      "label": "Господарска Механа",
-      "longitude": 20.433518,
-      "latitude": 44.794439
+      "label": "Ruska",
+      "longitude": 20.4381790000629,
+      "latitude": 44.7952642285528
     },
     {
       "id": "_17",
-      "label": "Руска",
-      "longitude": 20.438101,
-      "latitude": 44.79525
+      "label": "Sajam",
+      "longitude": 20.44208197302,
+      "latitude": 44.7963182238307
     },
     {
       "id": "_18",
-      "label": "Сајам",
-      "longitude": 20.441902,
-      "latitude": 44.796305
+      "label": "Durmitorska",
+      "longitude": 20.45156951314,
+      "latitude": 44.8021722742319
     },
     {
       "id": "_19",
-      "label": "Дурмиторска",
-      "longitude": 20.451504,
-      "latitude": 44.80211
+      "label": "Palata pravde",
+      "longitude": 20.453773328507,
+      "latitude": 44.8049402456002
     },
     {
       "id": "_20",
-      "label": "Палата Правде",
-      "longitude": 20.453797,
-      "latitude": 44.804909
+      "label": "Savski trg",
+      "longitude": 20.4554103831243,
+      "latitude": 44.806963923035
     },
     {
       "id": "_21",
-      "label": "Савски трг",
-      "longitude": 20.455434,
-      "latitude": 44.806951
+      "label": "Savski most",
+      "longitude": 20.4522672077257,
+      "latitude": 44.8099970348462
+    },
+    {
+      "id": "_22",
+      "label": "Savski park",
+      "longitude": 20.4510402334204,
+      "latitude": 44.8055212704295
+    },
+    {
+      "id": "_23",
+      "label": "Kula Beograd",
+      "longitude": 20.4486263639051,
+      "latitude": 44.8032813106928
+    },
+    {
+      "id": "_24",
+      "label": "TC Galerija",
+      "longitude": 20.4456286208991,
+      "latitude": 44.8013535627872
     }
   ]
 }

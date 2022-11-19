@@ -2,167 +2,323 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Железничка Станица Ресник",
-      "longitude": 20.449657,
-      "latitude": 44.704584
+      "label": "Kneževac",
+      "longitude": 20.4322205918256,
+      "latitude": 44.7344120064862
     },
     {
       "id": "_2",
-      "label": "Ресник /Александра Војиновића/",
-      "longitude": 20.45109,
-      "latitude": 44.706559
+      "label": "Ulica Oslobođenja",
+      "longitude": 20.4388675549668,
+      "latitude": 44.7380121699384
     },
     {
       "id": "_3",
-      "label": "Ресник /Милорада Јанковића Доце/",
-      "longitude": 20.452941,
-      "latitude": 44.710584
+      "label": "Servis DMB",
+      "longitude": 20.4449028176888,
+      "latitude": 44.7359212141638
     },
     {
       "id": "_4",
-      "label": "MZ Resnik",
-      "longitude": 20.453618,
-      "latitude": 44.712799
+      "label": "Manastir Rakovica",
+      "longitude": 20.4468951100856,
+      "latitude": 44.7322085821483
     },
     {
       "id": "_5",
-      "label": "Vrtić",
-      "longitude": 20.452341,
-      "latitude": 44.71409
+      "label": "Josipa Telarevića (izlaz)",
+      "longitude": 20.4474599982376,
+      "latitude": 44.7280228654403
     },
     {
       "id": "_6",
-      "label": "Braće Jeremića",
-      "longitude": 20.451464,
-      "latitude": 44.71521
+      "label": "Ličkih brigada",
+      "longitude": 20.4499061381898,
+      "latitude": 44.7221866399259
     },
     {
       "id": "_7",
-      "label": "Ресник /Јосипа Теларевића/",
-      "longitude": 20.451659,
-      "latitude": 44.719097
+      "label": "Rađevska",
+      "longitude": 20.450851368275,
+      "latitude": 44.7204704315922
     },
     {
       "id": "_8",
-      "label": "Rađevska",
-      "longitude": 20.451116,
-      "latitude": 44.720301
+      "label": "Josipa Telarevića",
+      "longitude": 20.4515498632455,
+      "latitude": 44.7186774385306
     },
     {
       "id": "_9",
-      "label": "Ličkih brigada",
-      "longitude": 20.450278,
-      "latitude": 44.722391
+      "label": "Braće Jeremić",
+      "longitude": 20.4511177996031,
+      "latitude": 44.7168394392159
     },
     {
       "id": "_10",
-      "label": "Јосипа Теларевића",
-      "longitude": 20.448589,
-      "latitude": 44.726959
+      "label": "Vrtić",
+      "longitude": 20.4521221970377,
+      "latitude": 44.7141857354041
     },
     {
       "id": "_11",
-      "label": "Манастир Раковица",
-      "longitude": 20.447407,
-      "latitude": 44.731308
+      "label": "13. oktobra",
+      "longitude": 20.4526827807709,
+      "latitude": 44.7106677356935
     },
     {
       "id": "_12",
-      "label": "Сервис ДМБ",
-      "longitude": 20.445108,
-      "latitude": 44.736037
+      "label": "Aleksandra Vojinovića",
+      "longitude": 20.4512667225399,
+      "latitude": 44.7069117026575
     },
     {
       "id": "_13",
-      "label": "Ослобођења",
-      "longitude": 20.439095,
-      "latitude": 44.738052
+      "label": "Železnička stanica Resnik",
+      "longitude": 20.4493815046096,
+      "latitude": 44.7044835538808
     },
     {
       "id": "_14",
-      "label": "Кнежевац",
-      "longitude": 20.43224,
-      "latitude": 44.734358
+      "label": "Pružni prelaz",
+      "longitude": 20.4509231981025,
+      "latitude": 44.7021114227648
+    },
+    {
+      "id": "_15",
+      "label": "Resnički put",
+      "longitude": 20.4514038075437,
+      "latitude": 44.6985048420997
+    },
+    {
+      "id": "_16",
+      "label": "Orlovac",
+      "longitude": 20.4437200223973,
+      "latitude": 44.6915542689906
+    },
+    {
+      "id": "_17",
+      "label": "Oslobođenja 2",
+      "longitude": 20.4414494093188,
+      "latitude": 44.6901968797612
+    },
+    {
+      "id": "_18",
+      "label": "Oslobođenja 1",
+      "longitude": 20.4393813530492,
+      "latitude": 44.6893030205407
+    },
+    {
+      "id": "_19",
+      "label": "Drage Vukićević",
+      "longitude": 20.4385165951195,
+      "latitude": 44.6866060755936
+    },
+    {
+      "id": "_20",
+      "label": "Oslobođenja",
+      "longitude": 20.4356575641923,
+      "latitude": 44.6827275656191
+    },
+    {
+      "id": "_21",
+      "label": "Ilije Milićevića",
+      "longitude": 20.4315838750031,
+      "latitude": 44.6795305490179
+    },
+    {
+      "id": "_22",
+      "label": "Milorada Živkovića",
+      "longitude": 20.434386863323,
+      "latitude": 44.6784716349643
+    },
+    {
+      "id": "_23",
+      "label": "Jove Mitrovića",
+      "longitude": 20.4375411965685,
+      "latitude": 44.6781163543185
+    },
+    {
+      "id": "_24",
+      "label": "Drobnjački kraj 2",
+      "longitude": 20.4397438281093,
+      "latitude": 44.6770345641157
+    },
+    {
+      "id": "_25",
+      "label": "Drobnjački kraj 1",
+      "longitude": 20.4434037263882,
+      "latitude": 44.6760300082353
+    },
+    {
+      "id": "_26",
+      "label": "Rušanj (Drobnjački kraj)",
+      "longitude": 20.4464390794655,
+      "latitude": 44.6754327113691
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Кнежевац",
-      "longitude": 20.43224,
-      "latitude": 44.734358
+      "label": "Rušanj (Drobnjački kraj)",
+      "longitude": 20.4464390794655,
+      "latitude": 44.6754327113691
     },
     {
       "id": "_2",
-      "label": "Сервис ДМБ",
-      "longitude": 20.444839,
-      "latitude": 44.735893
+      "label": "Drobnjački kraj 1",
+      "longitude": 20.4437383651712,
+      "latitude": 44.6761216285843
     },
     {
       "id": "_3",
-      "label": "Манастир Раковица",
-      "longitude": 20.446908,
-      "latitude": 44.732276
+      "label": "Drobnjački kraj 2",
+      "longitude": 20.4403600415863,
+      "latitude": 44.6769637738565
     },
     {
       "id": "_4",
-      "label": "Јосипа Теларевића",
-      "longitude": 20.44739,
-      "latitude": 44.728093
+      "label": "Jove Mitrovića",
+      "longitude": 20.4380797542902,
+      "latitude": 44.6782521895174
     },
     {
       "id": "_5",
-      "label": "Ličkih brigada",
-      "longitude": 20.450199,
-      "latitude": 44.722454
+      "label": "Milorada Živkovića",
+      "longitude": 20.4340816016506,
+      "latitude": 44.6787329217301
     },
     {
       "id": "_6",
-      "label": "Rađevska",
-      "longitude": 20.451018,
-      "latitude": 44.720242
+      "label": "Ilije Milićevića",
+      "longitude": 20.4319338457345,
+      "latitude": 44.6795877942503
     },
     {
       "id": "_7",
-      "label": "Ресник /Јосипа Теларевића/",
-      "longitude": 20.451628,
-      "latitude": 44.71871
+      "label": "Oslobođenja",
+      "longitude": 20.4361794214014,
+      "latitude": 44.682767930414
     },
     {
       "id": "_8",
-      "label": "Braće Jeremića",
-      "longitude": 20.451377,
-      "latitude": 44.715171
+      "label": "Drage Vukićević",
+      "longitude": 20.438542163061,
+      "latitude": 44.6870957855329
     },
     {
       "id": "_9",
-      "label": "Vrtić",
-      "longitude": 20.452289,
-      "latitude": 44.714046
+      "label": "Oslobođenja 1",
+      "longitude": 20.4391509570148,
+      "latitude": 44.6891219001087
     },
     {
       "id": "_10",
-      "label": "MZ Resnik",
-      "longitude": 20.453546,
-      "latitude": 44.712731
+      "label": "Oslobođenja 2",
+      "longitude": 20.4418014269197,
+      "latitude": 44.6903263889808
     },
     {
       "id": "_11",
-      "label": "Ресник /Милорада Јанковића Доце/",
-      "longitude": 20.452673,
-      "latitude": 44.710599
+      "label": "Orlovac",
+      "longitude": 20.4437816595475,
+      "latitude": 44.6914411714393
     },
     {
       "id": "_12",
-      "label": "Ресник /Александра Војиновића/",
-      "longitude": 20.451309,
-      "latitude": 44.706904
+      "label": "Resnički put",
+      "longitude": 20.4515659411719,
+      "latitude": 44.6987072105393
     },
     {
       "id": "_13",
-      "label": "Железничка Станица Ресник",
-      "longitude": 20.449657,
-      "latitude": 44.704584
+      "label": "Pružni prelaz",
+      "longitude": 20.4508030954963,
+      "latitude": 44.7025374335658
+    },
+    {
+      "id": "_14",
+      "label": "Železnička stanica Resnik",
+      "longitude": 20.4496804405428,
+      "latitude": 44.7046325830713
+    },
+    {
+      "id": "_15",
+      "label": "Aleksandra Vojinovića",
+      "longitude": 20.4511403584804,
+      "latitude": 44.7066609068699
+    },
+    {
+      "id": "_16",
+      "label": "13. oktobra",
+      "longitude": 20.4528498395663,
+      "latitude": 44.7106181342404
+    },
+    {
+      "id": "_17",
+      "label": "MZ Resnik",
+      "longitude": 20.4529888850891,
+      "latitude": 44.7135562932403
+    },
+    {
+      "id": "_18",
+      "label": "Vrtić",
+      "longitude": 20.4520535758477,
+      "latitude": 44.714503996309
+    },
+    {
+      "id": "_19",
+      "label": "Braće Jeremić",
+      "longitude": 20.4513748172899,
+      "latitude": 44.7163528861172
+    },
+    {
+      "id": "_20",
+      "label": "Josipa Telarevića",
+      "longitude": 20.4516254145407,
+      "latitude": 44.7192339792938
+    },
+    {
+      "id": "_21",
+      "label": "Rađevska",
+      "longitude": 20.4507754809902,
+      "latitude": 44.7207544578648
+    },
+    {
+      "id": "_22",
+      "label": "Ličkih brigada",
+      "longitude": 20.4500457682372,
+      "latitude": 44.7221045123712
+    },
+    {
+      "id": "_23",
+      "label": "Josipa Telarevića (izlaz)",
+      "longitude": 20.4484310506556,
+      "latitude": 44.7270645744988
+    },
+    {
+      "id": "_24",
+      "label": "Manastir Rakovica",
+      "longitude": 20.447268056308,
+      "latitude": 44.7314904074296
+    },
+    {
+      "id": "_25",
+      "label": "Servis DMB",
+      "longitude": 20.4449775432326,
+      "latitude": 44.7360295714115
+    },
+    {
+      "id": "_26",
+      "label": "Ulica Oslobođenja",
+      "longitude": 20.4389297497124,
+      "latitude": 44.738109670244
+    },
+    {
+      "id": "_27",
+      "label": "Kneževac",
+      "longitude": 20.4322205918256,
+      "latitude": 44.7344120064862
     }
   ]
 }

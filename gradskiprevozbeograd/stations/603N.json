@@ -1,0 +1,648 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Trg republike",
+      "longitude": 20.4621133312437,
+      "latitude": 44.8156764835046
+    },
+    {
+      "id": "_2",
+      "label": "Zeleni venac",
+      "longitude": 20.4568371536344,
+      "latitude": 44.8144582924763
+    },
+    {
+      "id": "_3",
+      "label": "Brankov most",
+      "longitude": 20.4522002771838,
+      "latitude": 44.8151886080544
+    },
+    {
+      "id": "_4",
+      "label": "Šest kaplara",
+      "longitude": 20.4334922138324,
+      "latitude": 44.8152633463044
+    },
+    {
+      "id": "_5",
+      "label": "Palata Srbija",
+      "longitude": 20.4295837328162,
+      "latitude": 44.816975485622
+    },
+    {
+      "id": "_6",
+      "label": "Španskih boraca",
+      "longitude": 20.4233603118083,
+      "latitude": 44.8197882167728
+    },
+    {
+      "id": "_7",
+      "label": "Blok 30",
+      "longitude": 20.4165827290295,
+      "latitude": 44.8228227777265
+    },
+    {
+      "id": "_8",
+      "label": "Ulaz u Pariske komune",
+      "longitude": 20.4119895565675,
+      "latitude": 44.8248656094871
+    },
+    {
+      "id": "_9",
+      "label": "Fontana",
+      "longitude": 20.407628611625,
+      "latitude": 44.8266736684514
+    },
+    {
+      "id": "_10",
+      "label": "Studentska",
+      "longitude": 20.4023678868337,
+      "latitude": 44.8261802027231
+    },
+    {
+      "id": "_11",
+      "label": "Studentski grad",
+      "longitude": 20.3978587116193,
+      "latitude": 44.8261458177772
+    },
+    {
+      "id": "_12",
+      "label": "SC Vizura",
+      "longitude": 20.3960791986334,
+      "latitude": 44.8209383460596
+    },
+    {
+      "id": "_13",
+      "label": "Železnička stanica Tošin bunar",
+      "longitude": 20.3950441292173,
+      "latitude": 44.8171224968428
+    },
+    {
+      "id": "_14",
+      "label": "Stari aerodrom",
+      "longitude": 20.3926850087571,
+      "latitude": 44.8139547969209
+    },
+    {
+      "id": "_15",
+      "label": "IMT",
+      "longitude": 20.3896383766496,
+      "latitude": 44.8124735002385
+    },
+    {
+      "id": "_16",
+      "label": "Gandijeva",
+      "longitude": 20.3814254977605,
+      "latitude": 44.8101022162771
+    },
+    {
+      "id": "_17",
+      "label": "Crkva Sv. Georgija",
+      "longitude": 20.375560014463,
+      "latitude": 44.8076945502935
+    },
+    {
+      "id": "_18",
+      "label": "Dušana Vukasovića",
+      "longitude": 20.3705756133067,
+      "latitude": 44.8056838016113
+    },
+    {
+      "id": "_19",
+      "label": "Surčinska",
+      "longitude": 20.3667746038276,
+      "latitude": 44.8041509518377
+    },
+    {
+      "id": "_20",
+      "label": "Nedeljka Gvozdenovića",
+      "longitude": 20.3596966512311,
+      "latitude": 44.8077258570245
+    },
+    {
+      "id": "_21",
+      "label": "Biodekor",
+      "longitude": 20.35238378008,
+      "latitude": 44.8064374490621
+    },
+    {
+      "id": "_22",
+      "label": "Ledine",
+      "longitude": 20.3484786557574,
+      "latitude": 44.8052093865501
+    },
+    {
+      "id": "_23",
+      "label": "SC Mladost",
+      "longitude": 20.3403779844709,
+      "latitude": 44.8027691885813
+    },
+    {
+      "id": "_24",
+      "label": "Vila Mara",
+      "longitude": 20.3353947024312,
+      "latitude": 44.8012464841295
+    },
+    {
+      "id": "_25",
+      "label": "Novo naselje",
+      "longitude": 20.3296298247723,
+      "latitude": 44.8000033794298
+    },
+    {
+      "id": "_26",
+      "label": "Vikend naselje",
+      "longitude": 20.3247211787591,
+      "latitude": 44.7992816043444
+    },
+    {
+      "id": "_27",
+      "label": "Malinjak",
+      "longitude": 20.3191312062218,
+      "latitude": 44.7984655778568
+    },
+    {
+      "id": "_28",
+      "label": "Galovica",
+      "longitude": 20.3118556244609,
+      "latitude": 44.7974051823851
+    },
+    {
+      "id": "_29",
+      "label": "Orešac",
+      "longitude": 20.3052767749274,
+      "latitude": 44.7964475432666
+    },
+    {
+      "id": "_30",
+      "label": "Surčin (ulaz)",
+      "longitude": 20.2975926668554,
+      "latitude": 44.7953477636655
+    },
+    {
+      "id": "_31",
+      "label": "Crkva",
+      "longitude": 20.2906025174149,
+      "latitude": 44.7943687583691
+    },
+    {
+      "id": "_32",
+      "label": "Marka Raba",
+      "longitude": 20.284743514014,
+      "latitude": 44.7935133841489
+    },
+    {
+      "id": "_33",
+      "label": "Skopljanska",
+      "longitude": 20.2782943207582,
+      "latitude": 44.7925675983652
+    },
+    {
+      "id": "_34",
+      "label": "Surčin (centar)",
+      "longitude": 20.2695318128028,
+      "latitude": 44.7920801028838
+    },
+    {
+      "id": "_35",
+      "label": "Braće Suzić",
+      "longitude": 20.2645527666198,
+      "latitude": 44.7978313677871
+    },
+    {
+      "id": "_36",
+      "label": "Surčin (izlaz)",
+      "longitude": 20.2578418076631,
+      "latitude": 44.801731700791
+    },
+    {
+      "id": "_37",
+      "label": "Surčinska petlja",
+      "longitude": 20.2508879405748,
+      "latitude": 44.8061646211505
+    },
+    {
+      "id": "_38",
+      "label": "Industrijska zona Dobanovci",
+      "longitude": 20.2425204367059,
+      "latitude": 44.8115003299375
+    },
+    {
+      "id": "_39",
+      "label": "Naselje PIK",
+      "longitude": 20.234148743957,
+      "latitude": 44.8168443920196
+    },
+    {
+      "id": "_40",
+      "label": "Bezdan",
+      "longitude": 20.2295018326871,
+      "latitude": 44.8198190747623
+    },
+    {
+      "id": "_41",
+      "label": "Stevana Jovanovića",
+      "longitude": 20.2252409060354,
+      "latitude": 44.8247238712656
+    },
+    {
+      "id": "_42",
+      "label": "Dobanovci (centar)",
+      "longitude": 20.2224490712667,
+      "latitude": 44.8282867596434
+    },
+    {
+      "id": "_43",
+      "label": "Žarka Jelića",
+      "longitude": 20.2195399289747,
+      "latitude": 44.8320827652834
+    },
+    {
+      "id": "_44",
+      "label": "Slovački dom",
+      "longitude": 20.2175322642321,
+      "latitude": 44.8346555247056
+    },
+    {
+      "id": "_45",
+      "label": "Fruškogorska",
+      "longitude": 20.2155911547732,
+      "latitude": 44.8375310859837
+    },
+    {
+      "id": "_46",
+      "label": "Dobanovci (ulaz)",
+      "longitude": 20.2138887279203,
+      "latitude": 44.8403272554713
+    },
+    {
+      "id": "_47",
+      "label": "Dobanovačka petlja",
+      "longitude": 20.2087161946911,
+      "latitude": 44.848603559445
+    },
+    {
+      "id": "_48",
+      "label": "Naselje Okrajak",
+      "longitude": 20.2061034996013,
+      "latitude": 44.8527828334687
+    },
+    {
+      "id": "_49",
+      "label": "Partizanska 2",
+      "longitude": 20.2049005623378,
+      "latitude": 44.8607894036844
+    },
+    {
+      "id": "_50",
+      "label": "Partizanska 1",
+      "longitude": 20.2041172461717,
+      "latitude": 44.8699147957354
+    },
+    {
+      "id": "_51",
+      "label": "Ugrinovci (ulaz)",
+      "longitude": 20.1997652287699,
+      "latitude": 44.871457579851
+    },
+    {
+      "id": "_52",
+      "label": "Beogradska",
+      "longitude": 20.1930606147748,
+      "latitude": 44.8736064109345
+    },
+    {
+      "id": "_53",
+      "label": "Ugrinovci (centar)",
+      "longitude": 20.1873364308896,
+      "latitude": 44.8756628132005
+    },
+    {
+      "id": "_54",
+      "label": "Ugrinovci",
+      "longitude": 20.179976332839,
+      "latitude": 44.8780906041667
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Ugrinovci",
+      "longitude": 20.179976332839,
+      "latitude": 44.8780906041667
+    },
+    {
+      "id": "_2",
+      "label": "Ugrinovci (centar)",
+      "longitude": 20.1876892307921,
+      "latitude": 44.8754151314391
+    },
+    {
+      "id": "_3",
+      "label": "Beogradska",
+      "longitude": 20.1936422950503,
+      "latitude": 44.8732793278145
+    },
+    {
+      "id": "_4",
+      "label": "Ugrinovci (ulaz)",
+      "longitude": 20.2002849899575,
+      "latitude": 44.8712110251089
+    },
+    {
+      "id": "_5",
+      "label": "Partizanska 1",
+      "longitude": 20.2040102320246,
+      "latitude": 44.8694136838073
+    },
+    {
+      "id": "_6",
+      "label": "Partizanska 2",
+      "longitude": 20.2048090492489,
+      "latitude": 44.8600814120091
+    },
+    {
+      "id": "_7",
+      "label": "Naselje Okrajak",
+      "longitude": 20.2063612812351,
+      "latitude": 44.8520664626499
+    },
+    {
+      "id": "_8",
+      "label": "Dobanovačka petlja",
+      "longitude": 20.2084123570238,
+      "latitude": 44.848804848429
+    },
+    {
+      "id": "_9",
+      "label": "Dobanovci (ulaz)",
+      "longitude": 20.2136362023358,
+      "latitude": 44.8404803135294
+    },
+    {
+      "id": "_10",
+      "label": "Fruškogorska",
+      "longitude": 20.2151628686123,
+      "latitude": 44.8379619279548
+    },
+    {
+      "id": "_11",
+      "label": "Slovački dom",
+      "longitude": 20.2170484900605,
+      "latitude": 44.8350769955099
+    },
+    {
+      "id": "_12",
+      "label": "Žarka Jelića",
+      "longitude": 20.2192238850183,
+      "latitude": 44.8322606017945
+    },
+    {
+      "id": "_13",
+      "label": "Dobanovci (centar)",
+      "longitude": 20.2230851930841,
+      "latitude": 44.82724713314
+    },
+    {
+      "id": "_14",
+      "label": "Stevana Jovanovića",
+      "longitude": 20.2250278784447,
+      "latitude": 44.8247674280868
+    },
+    {
+      "id": "_15",
+      "label": "Bezdan",
+      "longitude": 20.2291492230838,
+      "latitude": 44.8199012984255
+    },
+    {
+      "id": "_16",
+      "label": "Naselje PIK",
+      "longitude": 20.2332224796672,
+      "latitude": 44.8172827731437
+    },
+    {
+      "id": "_17",
+      "label": "Industrijska zona Dobanovci",
+      "longitude": 20.2435011335066,
+      "latitude": 44.8109470384094
+    },
+    {
+      "id": "_18",
+      "label": "Surčinska petlja",
+      "longitude": 20.2507776332165,
+      "latitude": 44.8060919037217
+    },
+    {
+      "id": "_19",
+      "label": "Surčin (izlaz)",
+      "longitude": 20.2584247643347,
+      "latitude": 44.8012189012682
+    },
+    {
+      "id": "_20",
+      "label": "Braće Suzić",
+      "longitude": 20.2655174481933,
+      "latitude": 44.7975099713163
+    },
+    {
+      "id": "_21",
+      "label": "Surčin (centar)",
+      "longitude": 20.2710959276357,
+      "latitude": 44.7911145102775
+    },
+    {
+      "id": "_22",
+      "label": "Skopljanska",
+      "longitude": 20.2800239299124,
+      "latitude": 44.7927188702734
+    },
+    {
+      "id": "_23",
+      "label": "Marka Raba",
+      "longitude": 20.2864707081862,
+      "latitude": 44.793659143584
+    },
+    {
+      "id": "_24",
+      "label": "Crkva",
+      "longitude": 20.2908991251996,
+      "latitude": 44.7942985974551
+    },
+    {
+      "id": "_25",
+      "label": "Surčin (ulaz)",
+      "longitude": 20.297800912615,
+      "latitude": 44.7952680437376
+    },
+    {
+      "id": "_26",
+      "label": "Orešac",
+      "longitude": 20.3055531545006,
+      "latitude": 44.7963772217066
+    },
+    {
+      "id": "_27",
+      "label": "Galovica",
+      "longitude": 20.3125636059471,
+      "latitude": 44.7973914314327
+    },
+    {
+      "id": "_28",
+      "label": "Malinjak",
+      "longitude": 20.3194907853936,
+      "latitude": 44.7984137158296
+    },
+    {
+      "id": "_29",
+      "label": "Vikend naselje",
+      "longitude": 20.3252701365787,
+      "latitude": 44.7992488386447
+    },
+    {
+      "id": "_30",
+      "label": "Novo naselje",
+      "longitude": 20.3304816124944,
+      "latitude": 44.8000173568798
+    },
+    {
+      "id": "_31",
+      "label": "Vila Mara",
+      "longitude": 20.3341745158971,
+      "latitude": 44.8007282298825
+    },
+    {
+      "id": "_32",
+      "label": "SC Mladost",
+      "longitude": 20.3419693171963,
+      "latitude": 44.8031167161313
+    },
+    {
+      "id": "_33",
+      "label": "Ledine",
+      "longitude": 20.3487973784396,
+      "latitude": 44.8051949981605
+    },
+    {
+      "id": "_34",
+      "label": "Biodekor",
+      "longitude": 20.3533902928537,
+      "latitude": 44.806642919573
+    },
+    {
+      "id": "_35",
+      "label": "Nedeljka Gvozdenovića",
+      "longitude": 20.3602447283376,
+      "latitude": 44.8075489258295
+    },
+    {
+      "id": "_36",
+      "label": "Surčinska",
+      "longitude": 20.367092552685,
+      "latitude": 44.8039745164506
+    },
+    {
+      "id": "_37",
+      "label": "Dušana Vukasovića",
+      "longitude": 20.3723030905809,
+      "latitude": 44.8060910504505
+    },
+    {
+      "id": "_38",
+      "label": "Crkva Sv. Georgija",
+      "longitude": 20.3770480216612,
+      "latitude": 44.8080428259182
+    },
+    {
+      "id": "_39",
+      "label": "Gandijeva",
+      "longitude": 20.3834241270228,
+      "latitude": 44.8107105483979
+    },
+    {
+      "id": "_40",
+      "label": "IMT",
+      "longitude": 20.3912076546,
+      "latitude": 44.8128076243592
+    },
+    {
+      "id": "_41",
+      "label": "Železnička stanica Tošin bunar",
+      "longitude": 20.3953373586664,
+      "latitude": 44.8168900558092
+    },
+    {
+      "id": "_42",
+      "label": "Milutina Milankovića",
+      "longitude": 20.3962247743002,
+      "latitude": 44.8203145464976
+    },
+    {
+      "id": "_43",
+      "label": "Studentski grad",
+      "longitude": 20.3991145103976,
+      "latitude": 44.8262621981325
+    },
+    {
+      "id": "_44",
+      "label": "Studentska",
+      "longitude": 20.4031927311623,
+      "latitude": 44.8268864589955
+    },
+    {
+      "id": "_45",
+      "label": "Fontana",
+      "longitude": 20.4094089526943,
+      "latitude": 44.8257001039461
+    },
+    {
+      "id": "_46",
+      "label": "GO Novi Beograd",
+      "longitude": 20.4143294950621,
+      "latitude": 44.8235618536657
+    },
+    {
+      "id": "_47",
+      "label": "Blok 30",
+      "longitude": 20.4184323780619,
+      "latitude": 44.821719831442
+    },
+    {
+      "id": "_48",
+      "label": "Španskih boraca",
+      "longitude": 20.4232029819831,
+      "latitude": 44.8195876365891
+    },
+    {
+      "id": "_49",
+      "label": "Palata Srbija",
+      "longitude": 20.4287330074861,
+      "latitude": 44.8170828462379
+    },
+    {
+      "id": "_50",
+      "label": "Šest kaplara",
+      "longitude": 20.4353431924352,
+      "latitude": 44.814485913854
+    },
+    {
+      "id": "_51",
+      "label": "Brankov most",
+      "longitude": 20.4526067155746,
+      "latitude": 44.8149925584042
+    },
+    {
+      "id": "_52",
+      "label": "Zeleni venac",
+      "longitude": 20.4568381962374,
+      "latitude": 44.8143467033491
+    },
+    {
+      "id": "_53",
+      "label": "Trg republike",
+      "longitude": 20.4621133312437,
+      "latitude": 44.8156764835046
+    }
+  ]
+}

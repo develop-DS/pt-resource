@@ -2,305 +2,335 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Вождовац",
-      "longitude": 20.483671,
-      "latitude": 44.761082
+      "label": "Voždovac (terminus)",
+      "longitude": 20.4835198646956,
+      "latitude": 44.7611744799175
     },
     {
       "id": "_2",
-      "label": "Милића Маринковића",
-      "longitude": 20.489923,
-      "latitude": 44.755421
+      "label": "Milića Marinovića",
+      "longitude": 20.4900257164779,
+      "latitude": 44.7553430262604
     },
     {
       "id": "_3",
-      "label": "Беранска",
-      "longitude": 20.492269,
-      "latitude": 44.752471
+      "label": "Beranska",
+      "longitude": 20.4923045236412,
+      "latitude": 44.7524120540454
     },
     {
       "id": "_4",
-      "label": "Фармацеутски Факултет",
-      "longitude": 20.496045,
-      "latitude": 44.747487
+      "label": "Farmaceutski fakultet",
+      "longitude": 20.4960733596229,
+      "latitude": 44.7474338717119
     },
     {
       "id": "_5",
-      "label": "Институт Торлак",
-      "longitude": 20.497487,
-      "latitude": 44.74566
+      "label": "Institut Torlak",
+      "longitude": 20.4974525720484,
+      "latitude": 44.7456579920976
     },
     {
       "id": "_6",
-      "label": "Калемарска",
-      "longitude": 20.499656,
-      "latitude": 44.742466
+      "label": "Kalemarska",
+      "longitude": 20.4996399282736,
+      "latitude": 44.7424060811015
     },
     {
       "id": "_7",
-      "label": "Октобарска",
-      "longitude": 20.502559,
-      "latitude": 44.739843
+      "label": "Oktobarska",
+      "longitude": 20.5026043976707,
+      "latitude": 44.7398000704797
     },
     {
       "id": "_8",
-      "label": "МЗ Кумодраж",
-      "longitude": 20.507534,
-      "latitude": 44.738961
+      "label": "MZ Kumodraž",
+      "longitude": 20.5075259387185,
+      "latitude": 44.7389609240994
     },
     {
       "id": "_9",
-      "label": "Земљорадничка /Улаз/",
-      "longitude": 20.51118,
-      "latitude": 44.739185
+      "label": "Zemljoradnička (ulaz)",
+      "longitude": 20.5104776077007,
+      "latitude": 44.7393209345122
     },
     {
       "id": "_10",
-      "label": "Петровданска",
-      "longitude": 20.513364,
-      "latitude": 44.738183
+      "label": "Petrovdanska",
+      "longitude": 20.513317889799,
+      "latitude": 44.7382044555008
     },
     {
       "id": "_11",
-      "label": "Ђурђевданска",
-      "longitude": 20.512914,
-      "latitude": 44.73627
+      "label": "Đurđevdanska",
+      "longitude": 20.5129122714088,
+      "latitude": 44.7362750117988
     },
     {
       "id": "_12",
-      "label": "Забран Торлак",
-      "longitude": 20.511244,
-      "latitude": 44.734329
+      "label": "Zabran Torlak",
+      "longitude": 20.5112165264284,
+      "latitude": 44.734320281211
     },
     {
       "id": "_13",
-      "label": "Земљорадничка /Пут за Депонију/",
-      "longitude": 20.511294,
-      "latitude": 44.730978
+      "label": "Zemljoradnička (put za deponiju)",
+      "longitude": 20.5110839887301,
+      "latitude": 44.7314542284188
     },
     {
       "id": "_14",
-      "label": "Раковица /Горњи крај/",
-      "longitude": 20.507773,
-      "latitude": 44.724603
+      "label": "Rakovica selo (Gornji kraj)",
+      "longitude": 20.5073370857208,
+      "latitude": 44.7257414273253
     },
     {
       "id": "_15",
-      "label": "Земљорадничка /Излаз/",
-      "longitude": 20.504399,
-      "latitude": 44.719478
+      "label": "Zemljoradnička (izlaz) - Osečinska",
+      "longitude": 20.5049562411985,
+      "latitude": 44.7230582850645
     },
     {
       "id": "_16",
-      "label": "Бели Поток /Кумбара/",
-      "longitude": 20.506052,
-      "latitude": 44.710784
+      "label": "Kružni put",
+      "longitude": 20.5039882966384,
+      "latitude": 44.7187198665143
     },
     {
       "id": "_17",
-      "label": "Пут за Бели Поток",
-      "longitude": 20.509185,
-      "latitude": 44.706415
+      "label": "1000 ruža",
+      "longitude": 20.503981240868,
+      "latitude": 44.7165925190105
     },
     {
       "id": "_18",
-      "label": "Бели Поток /ОШ Васа Чарапић/",
-      "longitude": 20.511186,
-      "latitude": 44.704853
+      "label": "Beli potok (Kumbara)",
+      "longitude": 20.5060446317841,
+      "latitude": 44.710800016954
     },
     {
       "id": "_19",
-      "label": "Бели Поток /Улаз/",
-      "longitude": 20.513324,
-      "latitude": 44.703776
+      "label": "Put za Beli potok",
+      "longitude": 20.5092652072924,
+      "latitude": 44.7063247850939
     },
     {
       "id": "_20",
-      "label": "Бели Поток /Центар/",
-      "longitude": 20.518537,
-      "latitude": 44.70534
+      "label": "OŠ Vasa Čarapić",
+      "longitude": 20.5111349654419,
+      "latitude": 44.7048766121865
     },
     {
       "id": "_21",
-      "label": "Савез Бораца 1",
-      "longitude": 20.518501,
-      "latitude": 44.707407
+      "label": "Beli potok (ulaz)",
+      "longitude": 20.5133554341914,
+      "latitude": 44.7037322852179
     },
     {
       "id": "_22",
-      "label": "Пошта",
-      "longitude": 20.518407,
-      "latitude": 44.709428
+      "label": "Beli potok (centar)",
+      "longitude": 20.5186369825064,
+      "latitude": 44.7053672960471
     },
     {
       "id": "_23",
-      "label": "Савез Бораца",
-      "longitude": 20.518577,
-      "latitude": 44.711267
+      "label": "Saveza boraca 1",
+      "longitude": 20.5186334134732,
+      "latitude": 44.7073310137262
     },
     {
       "id": "_24",
-      "label": "Бели Поток (Насеље Колонија)",
-      "longitude": 20.518348,
-      "latitude": 44.712638
+      "label": "Pošta",
+      "longitude": 20.5184444189024,
+      "latitude": 44.7094361481991
     },
     {
       "id": "_25",
-      "label": "Бели Поток (Железничка станица)",
-      "longitude": 20.51735,
-      "latitude": 44.714149
+      "label": "Saveza boraca",
+      "longitude": 20.5186024876468,
+      "latitude": 44.7113879427707
+    },
+    {
+      "id": "_26",
+      "label": "Beli potok (Naselje Kolonija)",
+      "longitude": 20.5183396390555,
+      "latitude": 44.7126521957094
+    },
+    {
+      "id": "_27",
+      "label": "Beli potok (Železnička stanica)",
+      "longitude": 20.519835028559,
+      "latitude": 44.7119114858111
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Бели Поток (Железничка станица)",
-      "longitude": 20.51735,
-      "latitude": 44.714149
+      "label": "Beli potok (Železnička stanica)",
+      "longitude": 20.519835028559,
+      "latitude": 44.7119114858111
     },
     {
       "id": "_2",
-      "label": "Бели Поток (Насеље Колонија)",
-      "longitude": 20.518251,
-      "latitude": 44.712561
+      "label": "Beli potok (Naselje Kolonija)",
+      "longitude": 20.5182020885919,
+      "latitude": 44.7124968240488
     },
     {
       "id": "_3",
-      "label": "Савез Бораца",
-      "longitude": 20.518454,
-      "latitude": 44.711313
+      "label": "Saveza boraca",
+      "longitude": 20.5184519330223,
+      "latitude": 44.7112793152055
     },
     {
       "id": "_4",
-      "label": "Пошта",
-      "longitude": 20.518226,
-      "latitude": 44.709439
+      "label": "Pošta",
+      "longitude": 20.5181945720931,
+      "latitude": 44.7094315001169
     },
     {
       "id": "_5",
-      "label": "Савез Бораца 1",
-      "longitude": 20.518134,
-      "latitude": 44.707668
+      "label": "Saveza boraca 1",
+      "longitude": 20.5181492070143,
+      "latitude": 44.7075881736501
     },
     {
       "id": "_6",
-      "label": "Бели Поток /Центар/",
-      "longitude": 20.519059,
-      "latitude": 44.705587
+      "label": "Beli potok (centar)",
+      "longitude": 20.5194284482361,
+      "latitude": 44.7058007969207
     },
     {
       "id": "_7",
-      "label": "Бели Поток /Улаз/",
-      "longitude": 20.515032,
-      "latitude": 44.7044
+      "label": "Beli potok (ulaz)",
+      "longitude": 20.5149020714895,
+      "latitude": 44.7043976083952
     },
     {
       "id": "_8",
-      "label": "Бели Поток /ОШ Васа Чарапић/",
-      "longitude": 20.511299,
-      "latitude": 44.704982
+      "label": "OŠ Vasa Čarapić",
+      "longitude": 20.5112983046915,
+      "latitude": 44.7049619047375
     },
     {
       "id": "_9",
-      "label": "Пут за Бели Поток",
-      "longitude": 20.509121,
-      "latitude": 44.706585
+      "label": "Put za Beli potok",
+      "longitude": 20.5090404280527,
+      "latitude": 44.7066424130728
     },
     {
       "id": "_10",
-      "label": "Бели Поток /Кумбара/",
-      "longitude": 20.50627,
-      "latitude": 44.710732
+      "label": "Beli potok (Kumbara)",
+      "longitude": 20.5062572465612,
+      "latitude": 44.7107307340769
     },
     {
       "id": "_11",
-      "label": "Земљорадничка /Излаз/",
-      "longitude": 20.504441,
-      "latitude": 44.719233
+      "label": "1000 ruža",
+      "longitude": 20.504123244111,
+      "latitude": 44.7164953146469
     },
     {
       "id": "_12",
-      "label": "Раковица /Горњи крај/",
-      "longitude": 20.507897,
-      "latitude": 44.724882
+      "label": "Kružni put",
+      "longitude": 20.5044383942832,
+      "latitude": 44.7192275919824
     },
     {
       "id": "_13",
-      "label": "Земљорадничка /Пут за Депонију/",
-      "longitude": 20.511475,
-      "latitude": 44.730786
+      "label": "Zemljoradnička (izlaz) - Osečinska",
+      "longitude": 20.5052334364042,
+      "latitude": 44.7228218889536
     },
     {
       "id": "_14",
-      "label": "Забран Торлак",
-      "longitude": 20.511365,
-      "latitude": 44.734656
+      "label": "Rakovica selo (Gornji kraj)",
+      "longitude": 20.5076089613691,
+      "latitude": 44.7255374015095
     },
     {
       "id": "_15",
-      "label": "Ђурђевданска",
-      "longitude": 20.51314,
-      "latitude": 44.736571
+      "label": "Zemljoradnička (put za deponiju)",
+      "longitude": 20.5112793908036,
+      "latitude": 44.7313380649499
     },
     {
       "id": "_16",
-      "label": "Петровданска",
-      "longitude": 20.51351,
-      "latitude": 44.738024
+      "label": "Zabran Torlak",
+      "longitude": 20.5113485998453,
+      "latitude": 44.7342290470489
     },
     {
       "id": "_17",
-      "label": "Земљорадничка /Улаз/",
-      "longitude": 20.510624,
-      "latitude": 44.739389
+      "label": "Đurđevdanska",
+      "longitude": 20.5131544335805,
+      "latitude": 44.7366090258078
     },
     {
       "id": "_18",
-      "label": "МЗ Кумодраж",
-      "longitude": 20.507033,
-      "latitude": 44.738971
+      "label": "Petrovdanska",
+      "longitude": 20.5132949690928,
+      "latitude": 44.7385301453364
     },
     {
       "id": "_19",
-      "label": "Октобарска",
-      "longitude": 20.50174,
-      "latitude": 44.740443
+      "label": "Zemljoradnička (ulaz)",
+      "longitude": 20.5103351782355,
+      "latitude": 44.7394409222592
     },
     {
       "id": "_20",
-      "label": "Калемарска",
-      "longitude": 20.500317,
-      "latitude": 44.741789
+      "label": "MZ Kumodraž",
+      "longitude": 20.5069954462318,
+      "latitude": 44.7389802462255
     },
     {
       "id": "_21",
-      "label": "Институт Торлак",
-      "longitude": 20.497428,
-      "latitude": 44.745967
+      "label": "Oktobarska",
+      "longitude": 20.5016156949038,
+      "latitude": 44.7405391522215
     },
     {
       "id": "_22",
-      "label": "Фармацеутски Факултет",
-      "longitude": 20.495442,
-      "latitude": 44.74862
+      "label": "Kalemarska",
+      "longitude": 20.5002154278956,
+      "latitude": 44.7418542107372
     },
     {
       "id": "_23",
-      "label": "Беранска",
-      "longitude": 20.491829,
-      "latitude": 44.753524
+      "label": "Institut Torlak",
+      "longitude": 20.4973204000097,
+      "latitude": 44.7460479972539
     },
     {
       "id": "_24",
-      "label": "Милића Маринковића",
-      "longitude": 20.489246,
-      "latitude": 44.756
+      "label": "Kumodraž 2",
+      "longitude": 20.4953661522802,
+      "latitude": 44.7486007160569
     },
     {
       "id": "_25",
-      "label": "Вождовац",
-      "longitude": 20.483671,
-      "latitude": 44.761082
+      "label": "Beranska",
+      "longitude": 20.4917440118288,
+      "latitude": 44.7535417253199
+    },
+    {
+      "id": "_26",
+      "label": "Milića Marinovića",
+      "longitude": 20.4891102525866,
+      "latitude": 44.7560355251027
+    },
+    {
+      "id": "_27",
+      "label": "Voždovac",
+      "longitude": 20.4847999904828,
+      "latitude": 44.7609714426756
+    },
+    {
+      "id": "_28",
+      "label": "Voždovac (terminus)",
+      "longitude": 20.4835198646956,
+      "latitude": 44.7611744799175
     }
   ]
 }

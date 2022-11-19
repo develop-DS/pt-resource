@@ -1,0 +1,882 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Trg republike",
+      "longitude": 20.4621133312437,
+      "latitude": 44.8156764835046
+    },
+    {
+      "id": "_2",
+      "label": "Politika",
+      "longitude": 20.4652170878748,
+      "latitude": 44.8152914119183
+    },
+    {
+      "id": "_3",
+      "label": "27. marta",
+      "longitude": 20.4726994529203,
+      "latitude": 44.8136269283711
+    },
+    {
+      "id": "_4",
+      "label": "Jaše Prodanovića",
+      "longitude": 20.4773649490353,
+      "latitude": 44.8147336129992
+    },
+    {
+      "id": "_5",
+      "label": "Zdravka Čelara",
+      "longitude": 20.4794167062188,
+      "latitude": 44.8109505390785
+    },
+    {
+      "id": "_6",
+      "label": "Podvožnjak",
+      "longitude": 20.4834992321345,
+      "latitude": 44.8062262322839
+    },
+    {
+      "id": "_7",
+      "label": "Marka Oreškovića",
+      "longitude": 20.4889363917629,
+      "latitude": 44.8029135437186
+    },
+    {
+      "id": "_8",
+      "label": "Šabačka",
+      "longitude": 20.4936242086954,
+      "latitude": 44.8011020146014
+    },
+    {
+      "id": "_9",
+      "label": "Gradska bolnica",
+      "longitude": 20.4989711501709,
+      "latitude": 44.7999231394852
+    },
+    {
+      "id": "_10",
+      "label": "Batutova",
+      "longitude": 20.4995074794414,
+      "latitude": 44.7951755178051
+    },
+    {
+      "id": "_11",
+      "label": "Pijaca Zvezdara",
+      "longitude": 20.5047073011366,
+      "latitude": 44.7930867763058
+    },
+    {
+      "id": "_12",
+      "label": "Dr Velizara Kosanovića",
+      "longitude": 20.5089844562786,
+      "latitude": 44.7924607823968
+    },
+    {
+      "id": "_13",
+      "label": "Mite Ružića",
+      "longitude": 20.5136194698621,
+      "latitude": 44.7904394134507
+    },
+    {
+      "id": "_14",
+      "label": "Koste Trifkovića",
+      "longitude": 20.5162784323904,
+      "latitude": 44.7886255365273
+    },
+    {
+      "id": "_15",
+      "label": "Ustanička",
+      "longitude": 20.5211262691793,
+      "latitude": 44.7837068972296
+    },
+    {
+      "id": "_16",
+      "label": "Bajdina",
+      "longitude": 20.525773951973,
+      "latitude": 44.7793703939793
+    },
+    {
+      "id": "_17",
+      "label": "Mirijevska",
+      "longitude": 20.5298996603957,
+      "latitude": 44.7776288417081
+    },
+    {
+      "id": "_18",
+      "label": "OŠ Dragojlo Dudić",
+      "longitude": 20.534610090852,
+      "latitude": 44.7754161330401
+    },
+    {
+      "id": "_19",
+      "label": "Pirandelova",
+      "longitude": 20.5404161759326,
+      "latitude": 44.7771296376794
+    },
+    {
+      "id": "_20",
+      "label": "Nine Kirsanove",
+      "longitude": 20.5480874884963,
+      "latitude": 44.7762529223648
+    },
+    {
+      "id": "_21",
+      "label": "Novo naselje",
+      "longitude": 20.5540902297077,
+      "latitude": 44.7724749593316
+    },
+    {
+      "id": "_22",
+      "label": "Put za Kaluđericu",
+      "longitude": 20.5604030358932,
+      "latitude": 44.7676827109783
+    },
+    {
+      "id": "_23",
+      "label": "Put za Institut",
+      "longitude": 20.5643554081088,
+      "latitude": 44.7645425089661
+    },
+    {
+      "id": "_24",
+      "label": "Filipa Kljajića",
+      "longitude": 20.5660517531518,
+      "latitude": 44.7623620261194
+    },
+    {
+      "id": "_25",
+      "label": "Stara Kaluđerica",
+      "longitude": 20.5696466787473,
+      "latitude": 44.7592994837846
+    },
+    {
+      "id": "_26",
+      "label": "Čardak",
+      "longitude": 20.5759198835739,
+      "latitude": 44.7564519348523
+    },
+    {
+      "id": "_27",
+      "label": "Hotel Radmilovac",
+      "longitude": 20.5807793173361,
+      "latitude": 44.7537590836894
+    },
+    {
+      "id": "_28",
+      "label": "Petra Kočića",
+      "longitude": 20.5839089990382,
+      "latitude": 44.7509337792772
+    },
+    {
+      "id": "_29",
+      "label": "Dušana Petrovića Šaneta",
+      "longitude": 20.5877762855893,
+      "latitude": 44.7484116235288
+    },
+    {
+      "id": "_30",
+      "label": "Zdravstvena stanica Leštane i Vinča",
+      "longitude": 20.5999967560157,
+      "latitude": 44.7464658894715
+    },
+    {
+      "id": "_31",
+      "label": "Babin lug",
+      "longitude": 20.6044270470909,
+      "latitude": 44.7486717311774
+    },
+    {
+      "id": "_32",
+      "label": "Vinča (ulaz)",
+      "longitude": 20.6065393646555,
+      "latitude": 44.7500595234142
+    },
+    {
+      "id": "_33",
+      "label": "Mike Petrovića Alasa",
+      "longitude": 20.6109255368812,
+      "latitude": 44.7532783177662
+    },
+    {
+      "id": "_34",
+      "label": "Svetosavska",
+      "longitude": 20.6134246171631,
+      "latitude": 44.7558174407451
+    },
+    {
+      "id": "_35",
+      "label": "Vinča (škola)",
+      "longitude": 20.6163368879295,
+      "latitude": 44.7581742954794
+    },
+    {
+      "id": "_36",
+      "label": "Vinčanska",
+      "longitude": 20.621692672588,
+      "latitude": 44.7624290580386
+    },
+    {
+      "id": "_37",
+      "label": "Miloša Obrenovića",
+      "longitude": 20.6160881051607,
+      "latitude": 44.7648871707104
+    },
+    {
+      "id": "_38",
+      "label": "Vinča",
+      "longitude": 20.6107169839487,
+      "latitude": 44.7671244079453
+    },
+    {
+      "id": "_39",
+      "label": "Miloša Obrenovića",
+      "longitude": 20.61600532452,
+      "latitude": 44.7647968982472
+    },
+    {
+      "id": "_40",
+      "label": "Vinčanska",
+      "longitude": 20.6214184451585,
+      "latitude": 44.7622517631935
+    },
+    {
+      "id": "_41",
+      "label": "Vinča (škola)",
+      "longitude": 20.6164615754299,
+      "latitude": 44.7584213008404
+    },
+    {
+      "id": "_42",
+      "label": "Svetosavska",
+      "longitude": 20.6134758763704,
+      "latitude": 44.7560876015278
+    },
+    {
+      "id": "_43",
+      "label": "Mike Petrovića Alasa",
+      "longitude": 20.610831512937,
+      "latitude": 44.7533625959154
+    },
+    {
+      "id": "_44",
+      "label": "Vinča (ulaz)",
+      "longitude": 20.6068852343124,
+      "latitude": 44.7504602900436
+    },
+    {
+      "id": "_45",
+      "label": "Babin lug",
+      "longitude": 20.6032021677059,
+      "latitude": 44.7482805253743
+    },
+    {
+      "id": "_46",
+      "label": "Zdravstvena stanica Leštane i Vinča",
+      "longitude": 20.5986012992368,
+      "latitude": 44.7455484620032
+    },
+    {
+      "id": "_47",
+      "label": "Skladište boja",
+      "longitude": 20.5938605800395,
+      "latitude": 44.7390214705683
+    },
+    {
+      "id": "_48",
+      "label": "Elektrodistribucija",
+      "longitude": 20.5898322071992,
+      "latitude": 44.7354829031032
+    },
+    {
+      "id": "_49",
+      "label": "Stari put za Boleč",
+      "longitude": 20.5843817300238,
+      "latitude": 44.7306629058054
+    },
+    {
+      "id": "_50",
+      "label": "Leštane (ulaz)",
+      "longitude": 20.5758661804926,
+      "latitude": 44.7283944737615
+    },
+    {
+      "id": "_51",
+      "label": "Leštane",
+      "longitude": 20.57539749252,
+      "latitude": 44.7303474678706
+    },
+    {
+      "id": "_52",
+      "label": "Leštane (izlaz)",
+      "longitude": 20.5757805831376,
+      "latitude": 44.7280125722643
+    },
+    {
+      "id": "_53",
+      "label": "Stari put za Boleč",
+      "longitude": 20.5839111949252,
+      "latitude": 44.7300780253441
+    },
+    {
+      "id": "_54",
+      "label": "Elektrodistribucija",
+      "longitude": 20.5896778101796,
+      "latitude": 44.7351745640121
+    },
+    {
+      "id": "_55",
+      "label": "Skladište boja",
+      "longitude": 20.5942081230911,
+      "latitude": 44.7391594927724
+    },
+    {
+      "id": "_56",
+      "label": "Boleč (pumpa)",
+      "longitude": 20.6066576798746,
+      "latitude": 44.7418720650132
+    },
+    {
+      "id": "_57",
+      "label": "Boleč (crkva)",
+      "longitude": 20.6087356344537,
+      "latitude": 44.7359213942257
+    },
+    {
+      "id": "_58",
+      "label": "Boleč (groblje)",
+      "longitude": 20.6045987179423,
+      "latitude": 44.7337671223864
+    },
+    {
+      "id": "_59",
+      "label": "1. maja",
+      "longitude": 20.6037310289569,
+      "latitude": 44.7317644119381
+    },
+    {
+      "id": "_60",
+      "label": "Boleč (centar)",
+      "longitude": 20.6044077528416,
+      "latitude": 44.7284080717298
+    },
+    {
+      "id": "_61",
+      "label": "Virska",
+      "longitude": 20.6067672593117,
+      "latitude": 44.7237237444025
+    },
+    {
+      "id": "_62",
+      "label": "Boleč",
+      "longitude": 20.6076463412687,
+      "latitude": 44.722148206834
+    },
+    {
+      "id": "_63",
+      "label": "Virska",
+      "longitude": 20.6065953356815,
+      "latitude": 44.7245097267987
+    },
+    {
+      "id": "_64",
+      "label": "Boleč (centar)",
+      "longitude": 20.6041290423326,
+      "latitude": 44.7289236925061
+    },
+    {
+      "id": "_65",
+      "label": "1. maja",
+      "longitude": 20.6039223206568,
+      "latitude": 44.7314824821686
+    },
+    {
+      "id": "_66",
+      "label": "Boleč (groblje)",
+      "longitude": 20.6049941470303,
+      "latitude": 44.7339178761143
+    },
+    {
+      "id": "_67",
+      "label": "Boleč (crkva)",
+      "longitude": 20.608582744034,
+      "latitude": 44.7357498804609
+    },
+    {
+      "id": "_68",
+      "label": "Boleč raskršće",
+      "longitude": 20.6114945404098,
+      "latitude": 44.7357201596251
+    },
+    {
+      "id": "_69",
+      "label": "Svetosavska",
+      "longitude": 20.6152647052369,
+      "latitude": 44.7364888089789
+    },
+    {
+      "id": "_70",
+      "label": "Mali lug",
+      "longitude": 20.6188970228018,
+      "latitude": 44.7386608211817
+    },
+    {
+      "id": "_71",
+      "label": "Prokop",
+      "longitude": 20.6250375734642,
+      "latitude": 44.7388376039734
+    },
+    {
+      "id": "_72",
+      "label": "Kralja Petra I",
+      "longitude": 20.6303145242093,
+      "latitude": 44.7390076837573
+    },
+    {
+      "id": "_73",
+      "label": "Duboko",
+      "longitude": 20.6378606547418,
+      "latitude": 44.7389596960806
+    },
+    {
+      "id": "_74",
+      "label": "Ritopek (ulaz)",
+      "longitude": 20.644461414162,
+      "latitude": 44.7382243189039
+    },
+    {
+      "id": "_75",
+      "label": "Ritopek (škola)",
+      "longitude": 20.6507004622932,
+      "latitude": 44.7379824428237
+    },
+    {
+      "id": "_76",
+      "label": "Ritopek (centar)",
+      "longitude": 20.6545554665845,
+      "latitude": 44.7386096579439
+    },
+    {
+      "id": "_77",
+      "label": "Ritopek",
+      "longitude": 20.6579315741896,
+      "latitude": 44.7386611430408
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Ritopek",
+      "longitude": 20.6579315741896,
+      "latitude": 44.7386611430408
+    },
+    {
+      "id": "_2",
+      "label": "Ritopek (centar)",
+      "longitude": 20.6548840766539,
+      "latitude": 44.73855664626
+    },
+    {
+      "id": "_3",
+      "label": "Ritopek (škola)",
+      "longitude": 20.6507654207001,
+      "latitude": 44.7380996353891
+    },
+    {
+      "id": "_4",
+      "label": "Ritopek (ulaz)",
+      "longitude": 20.6446073888326,
+      "latitude": 44.738305766778
+    },
+    {
+      "id": "_5",
+      "label": "Duboko",
+      "longitude": 20.6381122176263,
+      "latitude": 44.7391170816425
+    },
+    {
+      "id": "_6",
+      "label": "Kralja Petra I",
+      "longitude": 20.6303213940092,
+      "latitude": 44.73911930139
+    },
+    {
+      "id": "_7",
+      "label": "Prokop",
+      "longitude": 20.624766242798,
+      "latitude": 44.7390113118977
+    },
+    {
+      "id": "_8",
+      "label": "Mali lug",
+      "longitude": 20.618767715093,
+      "latitude": 44.7387395893365
+    },
+    {
+      "id": "_9",
+      "label": "Svetosavska",
+      "longitude": 20.6153570595023,
+      "latitude": 44.7366529115415
+    },
+    {
+      "id": "_10",
+      "label": "Boleč raskršće",
+      "longitude": 20.6112002536803,
+      "latitude": 44.7359243566244
+    },
+    {
+      "id": "_11",
+      "label": "Boleč (crkva)",
+      "longitude": 20.6087356344537,
+      "latitude": 44.7359213942257
+    },
+    {
+      "id": "_12",
+      "label": "Boleč (groblje)",
+      "longitude": 20.6045987179423,
+      "latitude": 44.7337671223864
+    },
+    {
+      "id": "_13",
+      "label": "1. maja",
+      "longitude": 20.6037310289569,
+      "latitude": 44.7317644119381
+    },
+    {
+      "id": "_14",
+      "label": "Boleč (centar)",
+      "longitude": 20.6044077528416,
+      "latitude": 44.7284080717298
+    },
+    {
+      "id": "_15",
+      "label": "Virska",
+      "longitude": 20.6067672593117,
+      "latitude": 44.7237237444025
+    },
+    {
+      "id": "_16",
+      "label": "Boleč",
+      "longitude": 20.6076463412687,
+      "latitude": 44.722148206834
+    },
+    {
+      "id": "_17",
+      "label": "Virska",
+      "longitude": 20.6065953356815,
+      "latitude": 44.7245097267987
+    },
+    {
+      "id": "_18",
+      "label": "Boleč (centar)",
+      "longitude": 20.6041290423326,
+      "latitude": 44.7289236925061
+    },
+    {
+      "id": "_19",
+      "label": "1. maja",
+      "longitude": 20.6039223206568,
+      "latitude": 44.7314824821686
+    },
+    {
+      "id": "_20",
+      "label": "Boleč (groblje)",
+      "longitude": 20.6049941470303,
+      "latitude": 44.7339178761143
+    },
+    {
+      "id": "_21",
+      "label": "Boleč (crkva)",
+      "longitude": 20.608582744034,
+      "latitude": 44.7357498804609
+    },
+    {
+      "id": "_22",
+      "label": "Boleč (pumpa)",
+      "longitude": 20.6058502486018,
+      "latitude": 44.7428862580469
+    },
+    {
+      "id": "_23",
+      "label": "Zdravstvena stanica Leštane i Vinča",
+      "longitude": 20.5999967560157,
+      "latitude": 44.7464658894715
+    },
+    {
+      "id": "_24",
+      "label": "Babin lug",
+      "longitude": 20.6044270470909,
+      "latitude": 44.7486717311774
+    },
+    {
+      "id": "_25",
+      "label": "Vinča (ulaz)",
+      "longitude": 20.6065393646555,
+      "latitude": 44.7500595234142
+    },
+    {
+      "id": "_26",
+      "label": "Mike Petrovića Alasa",
+      "longitude": 20.6109255368812,
+      "latitude": 44.7532783177662
+    },
+    {
+      "id": "_27",
+      "label": "Svetosavska",
+      "longitude": 20.6134246171631,
+      "latitude": 44.7558174407451
+    },
+    {
+      "id": "_28",
+      "label": "Vinča (škola)",
+      "longitude": 20.6163368879295,
+      "latitude": 44.7581742954794
+    },
+    {
+      "id": "_29",
+      "label": "Vinčanska",
+      "longitude": 20.621692672588,
+      "latitude": 44.7624290580386
+    },
+    {
+      "id": "_30",
+      "label": "Miloša Obrenovića",
+      "longitude": 20.6160881051607,
+      "latitude": 44.7648871707104
+    },
+    {
+      "id": "_31",
+      "label": "Vinča",
+      "longitude": 20.6107169839487,
+      "latitude": 44.7671244079453
+    },
+    {
+      "id": "_32",
+      "label": "Miloša Obrenovića",
+      "longitude": 20.61600532452,
+      "latitude": 44.7647968982472
+    },
+    {
+      "id": "_33",
+      "label": "Vinčanska",
+      "longitude": 20.6214184451585,
+      "latitude": 44.7622517631935
+    },
+    {
+      "id": "_34",
+      "label": "Vinča (škola)",
+      "longitude": 20.6164615754299,
+      "latitude": 44.7584213008404
+    },
+    {
+      "id": "_35",
+      "label": "Svetosavska",
+      "longitude": 20.6134758763704,
+      "latitude": 44.7560876015278
+    },
+    {
+      "id": "_36",
+      "label": "Mike Petrovića Alasa",
+      "longitude": 20.610831512937,
+      "latitude": 44.7533625959154
+    },
+    {
+      "id": "_37",
+      "label": "Vinča (ulaz)",
+      "longitude": 20.6068852343124,
+      "latitude": 44.7504602900436
+    },
+    {
+      "id": "_38",
+      "label": "Zdravstvena stanica Leštane i Vinča",
+      "longitude": 20.5972741950904,
+      "latitude": 44.7460783975069
+    },
+    {
+      "id": "_39",
+      "label": "Dušana Petrovića Šaneta",
+      "longitude": 20.5867063635104,
+      "latitude": 44.7489819565803
+    },
+    {
+      "id": "_40",
+      "label": "Petra Kočića",
+      "longitude": 20.5837554331597,
+      "latitude": 44.7512158112213
+    },
+    {
+      "id": "_41",
+      "label": "Hotel Radmilovac",
+      "longitude": 20.5812719621827,
+      "latitude": 44.753397295478
+    },
+    {
+      "id": "_42",
+      "label": "Čardak",
+      "longitude": 20.5755914667119,
+      "latitude": 44.756801707084
+    },
+    {
+      "id": "_43",
+      "label": "Stara Kaluđerica",
+      "longitude": 20.5690651482041,
+      "latitude": 44.7597076860465
+    },
+    {
+      "id": "_44",
+      "label": "Filipa Kljajića",
+      "longitude": 20.5658614548905,
+      "latitude": 44.7628112872914
+    },
+    {
+      "id": "_45",
+      "label": "Put za Institut",
+      "longitude": 20.5632938157039,
+      "latitude": 44.7656166301699
+    },
+    {
+      "id": "_46",
+      "label": "Put za Kaluđericu",
+      "longitude": 20.5604624247003,
+      "latitude": 44.7678485307922
+    },
+    {
+      "id": "_47",
+      "label": "Novo naselje",
+      "longitude": 20.5534572735197,
+      "latitude": 44.7729674776248
+    },
+    {
+      "id": "_48",
+      "label": "Nine Kirsanove",
+      "longitude": 20.5482842677119,
+      "latitude": 44.7762950945512
+    },
+    {
+      "id": "_49",
+      "label": "Pirandelova",
+      "longitude": 20.5392764238933,
+      "latitude": 44.7768172851161
+    },
+    {
+      "id": "_50",
+      "label": "OŠ Dragojlo Dudić",
+      "longitude": 20.5335783691153,
+      "latitude": 44.7761373133847
+    },
+    {
+      "id": "_51",
+      "label": "Mirijevska",
+      "longitude": 20.5289299736302,
+      "latitude": 44.7781666423269
+    },
+    {
+      "id": "_52",
+      "label": "Bajdina",
+      "longitude": 20.5234526159313,
+      "latitude": 44.7810887013782
+    },
+    {
+      "id": "_53",
+      "label": "Ustanička",
+      "longitude": 20.5207501046355,
+      "latitude": 44.783964515289
+    },
+    {
+      "id": "_54",
+      "label": "Koste Trifkovića",
+      "longitude": 20.5159594017901,
+      "latitude": 44.7893009589398
+    },
+    {
+      "id": "_55",
+      "label": "Mite Ružića",
+      "longitude": 20.5127317422065,
+      "latitude": 44.791107016141
+    },
+    {
+      "id": "_56",
+      "label": "Dr Velizara Kosanovića",
+      "longitude": 20.5109171575512,
+      "latitude": 44.7919776567746
+    },
+    {
+      "id": "_57",
+      "label": "Pijaca Zvezdara",
+      "longitude": 20.5047686392372,
+      "latitude": 44.7933048301686
+    },
+    {
+      "id": "_58",
+      "label": "Batutova",
+      "longitude": 20.499690518538,
+      "latitude": 44.7953491071302
+    },
+    {
+      "id": "_59",
+      "label": "Gradska bolnica",
+      "longitude": 20.4992784746649,
+      "latitude": 44.8000504741206
+    },
+    {
+      "id": "_60",
+      "label": "Čegarska",
+      "longitude": 20.4956516716367,
+      "latitude": 44.8008175560529
+    },
+    {
+      "id": "_61",
+      "label": "Živojina Žujovića",
+      "longitude": 20.4926263299021,
+      "latitude": 44.8015997823515
+    },
+    {
+      "id": "_62",
+      "label": "Marka Oreškovića",
+      "longitude": 20.4869158958357,
+      "latitude": 44.8041158669852
+    },
+    {
+      "id": "_63",
+      "label": "Podvožnjak",
+      "longitude": 20.4838486041489,
+      "latitude": 44.8061738068414
+    },
+    {
+      "id": "_64",
+      "label": "Bistrička",
+      "longitude": 20.4803050739064,
+      "latitude": 44.8102886003303
+    },
+    {
+      "id": "_65",
+      "label": "Zdravka Čelara",
+      "longitude": 20.4790834469861,
+      "latitude": 44.8117409851969
+    },
+    {
+      "id": "_66",
+      "label": "Jaše Prodanovića",
+      "longitude": 20.4765770716154,
+      "latitude": 44.8151763984472
+    },
+    {
+      "id": "_67",
+      "label": "27. marta",
+      "longitude": 20.4713609526436,
+      "latitude": 44.8128864091286
+    },
+    {
+      "id": "_68",
+      "label": "Politika",
+      "longitude": 20.4648436112707,
+      "latitude": 44.8154822604605
+    },
+    {
+      "id": "_69",
+      "label": "Trg republike",
+      "longitude": 20.4610306188357,
+      "latitude": 44.8162671711599
+    }
+  ]
+}

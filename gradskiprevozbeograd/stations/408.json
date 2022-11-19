@@ -2,425 +2,473 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Вождовац",
-      "longitude": 20.483671,
-      "latitude": 44.761082
+      "label": "Voždovac (terminus)",
+      "longitude": 20.4835198646956,
+      "latitude": 44.7611744799175
     },
     {
       "id": "_2",
-      "label": "Баштованска",
-      "longitude": 20.476919,
-      "latitude": 44.756344
+      "label": "Baštovanska",
+      "longitude": 20.4769166183889,
+      "latitude": 44.7563225830384
     },
     {
       "id": "_3",
-      "label": "Крагујевачких Ђака",
-      "longitude": 20.477445,
-      "latitude": 44.754155
+      "label": "Kragujevačkih đaka",
+      "longitude": 20.47754078793,
+      "latitude": 44.7540449240459
     },
     {
       "id": "_4",
-      "label": "Бањица 2",
-      "longitude": 20.479505,
-      "latitude": 44.752659
+      "label": "Banjica 2",
+      "longitude": 20.4801848027573,
+      "latitude": 44.7518628235505
     },
     {
       "id": "_5",
-      "label": "Ристе Стефановића",
-      "longitude": 20.479556,
-      "latitude": 44.750202
+      "label": "Riste Stefanovića",
+      "longitude": 20.4793635447923,
+      "latitude": 44.7502031706088
     },
     {
       "id": "_6",
-      "label": "Воје Радића",
-      "longitude": 20.476952,
-      "latitude": 44.7468
+      "label": "Voje Radića",
+      "longitude": 20.4769384854576,
+      "latitude": 44.7468514827878
     },
     {
       "id": "_7",
-      "label": "Саве Јовановића",
-      "longitude": 20.483254,
-      "latitude": 44.742505
+      "label": "Save Jovanovića",
+      "longitude": 20.4834053629237,
+      "latitude": 44.7424601556871
     },
     {
       "id": "_8",
-      "label": "Јајинци /Дом Здравља/",
-      "longitude": 20.486063,
-      "latitude": 44.740254
+      "label": "Jajinci (Dom zdravlja)",
+      "longitude": 20.4861169214133,
+      "latitude": 44.740265617896
     },
     {
       "id": "_9",
-      "label": "Милутина Миланковића",
-      "longitude": 20.483879,
-      "latitude": 44.735386
+      "label": "Milutina Miljkovića",
+      "longitude": 20.4837925403637,
+      "latitude": 44.7352423866594
     },
     {
       "id": "_10",
-      "label": "Кефалониска",
-      "longitude": 20.483183,
-      "latitude": 44.730499
+      "label": "Kefalonijska",
+      "longitude": 20.4831979569665,
+      "latitude": 44.7305292944087
     },
     {
       "id": "_11",
-      "label": "Спомен Парк Јајинци",
-      "longitude": 20.486254,
-      "latitude": 44.727318
+      "label": "Spomen park Jajinci",
+      "longitude": 20.4862998309397,
+      "latitude": 44.7272439461864
     },
     {
       "id": "_12",
-      "label": "Раковица /Спомен чесма/",
-      "longitude": 20.494937,
-      "latitude": 44.726457
+      "label": "Rakovica selo (spomen česma)",
+      "longitude": 20.4950647856393,
+      "latitude": 44.7265286685876
     },
     {
       "id": "_13",
-      "label": "Раковица",
-      "longitude": 20.498176,
-      "latitude": 44.721619
+      "label": "Rakovica selo",
+      "longitude": 20.4982911274066,
+      "latitude": 44.7215840013829
     },
     {
       "id": "_14",
-      "label": "Кружни пут",
-      "longitude": 20.503997,
-      "latitude": 44.718832
+      "label": "Kružni put",
+      "longitude": 20.5039882966384,
+      "latitude": 44.7187198665143
     },
     {
       "id": "_15",
-      "label": "Бели Поток /Кумбара/",
-      "longitude": 20.506052,
-      "latitude": 44.710784
+      "label": "1000 ruža",
+      "longitude": 20.503981240868,
+      "latitude": 44.7165925190105
     },
     {
       "id": "_16",
-      "label": "Бели Поток /Пошта/",
-      "longitude": 20.504294,
-      "latitude": 44.701261
+      "label": "Beli potok (Kumbara)",
+      "longitude": 20.5060446317841,
+      "latitude": 44.710800016954
     },
     {
       "id": "_17",
-      "label": "Врх Авала",
-      "longitude": 20.501843,
-      "latitude": 44.696315
+      "label": "Put za Beli potok",
+      "longitude": 20.5086364464305,
+      "latitude": 44.7063598943117
     },
     {
       "id": "_18",
-      "label": "Шумарева Кућа",
-      "longitude": 20.517958,
-      "latitude": 44.68037
+      "label": "Pošta",
+      "longitude": 20.5043084320204,
+      "latitude": 44.7012384604296
     },
     {
       "id": "_19",
-      "label": "Пут за Зуце",
-      "longitude": 20.532806,
-      "latitude": 44.680717
+      "label": "Avala",
+      "longitude": 20.5018191701087,
+      "latitude": 44.6963102467437
     },
     {
       "id": "_20",
-      "label": "Капија Шумадије",
-      "longitude": 20.541844,
-      "latitude": 44.670115
+      "label": "Šumareva kuća",
+      "longitude": 20.5180962401562,
+      "latitude": 44.6803602265222
     },
     {
       "id": "_21",
-      "label": "Шупља Стена",
-      "longitude": 20.542045,
-      "latitude": 44.666013
+      "label": "Put za Zuce",
+      "longitude": 20.5329492080462,
+      "latitude": 44.6805421999326
     },
     {
       "id": "_22",
-      "label": "Раскрсница Врчин",
-      "longitude": 20.543438,
-      "latitude": 44.662644
+      "label": "Đurđevdan",
+      "longitude": 20.5395705359939,
+      "latitude": 44.6742781225901
     },
     {
       "id": "_23",
-      "label": "Расадник",
-      "longitude": 20.550302,
-      "latitude": 44.654793
+      "label": "Kapija Šumadije",
+      "longitude": 20.5418833962195,
+      "latitude": 44.6701348896609
     },
     {
       "id": "_24",
-      "label": "Прњавор /Улаз/",
-      "longitude": 20.553713,
-      "latitude": 44.647603
+      "label": "Šuplja stena",
+      "longitude": 20.5421050667283,
+      "latitude": 44.6659850882
     },
     {
       "id": "_25",
-      "label": "Средњи Прњавор",
-      "longitude": 20.551769,
-      "latitude": 44.641229
+      "label": "Raskrnica-Vrčin",
+      "longitude": 20.5433869682786,
+      "latitude": 44.6626746813631
     },
     {
       "id": "_26",
-      "label": "Прњавор /Школа/",
-      "longitude": 20.554159,
-      "latitude": 44.632356
+      "label": "Rasadnik",
+      "longitude": 20.5500907295608,
+      "latitude": 44.6551161348796
     },
     {
       "id": "_27",
-      "label": "Трешња",
-      "longitude": 20.555227,
-      "latitude": 44.620661
+      "label": "Prnjavor (ulaz)",
+      "longitude": 20.5537583597234,
+      "latitude": 44.6477056257911
     },
     {
       "id": "_28",
-      "label": "Авалски Цвет",
-      "longitude": 20.556404,
-      "latitude": 44.614912
+      "label": "Srednji prnjavor",
+      "longitude": 20.5518285122638,
+      "latitude": 44.6412452633069
     },
     {
       "id": "_29",
-      "label": "Трешња /Школа/",
-      "longitude": 20.556002,
-      "latitude": 44.608349
+      "label": "Prnjavor (škola)",
+      "longitude": 20.5542056498527,
+      "latitude": 44.6323429110284
     },
     {
       "id": "_30",
-      "label": "Трешња /Ковиона/",
-      "longitude": 20.567611,
-      "latitude": 44.59687
+      "label": "Trešnja",
+      "longitude": 20.5552822818384,
+      "latitude": 44.6206869213394
     },
     {
       "id": "_31",
-      "label": "Раља /13. Октобра/",
-      "longitude": 20.564773,
-      "latitude": 44.584366
+      "label": "Avalski cvet",
+      "longitude": 20.5563664478914,
+      "latitude": 44.6149672213049
     },
     {
       "id": "_32",
-      "label": "Раља /Ливница/",
-      "longitude": 20.565508,
-      "latitude": 44.577221
+      "label": "Trešnja (okretnica)",
+      "longitude": 20.5559977762364,
+      "latitude": 44.6084139129647
     },
     {
       "id": "_33",
-      "label": "Раља /Центар/",
-      "longitude": 20.558295,
-      "latitude": 44.573919
+      "label": "Trešnja (Koviona)",
+      "longitude": 20.5676555842814,
+      "latitude": 44.5969187660806
     },
     {
       "id": "_34",
-      "label": "Раља /Трафо/",
-      "longitude": 20.570467,
-      "latitude": 44.569955
+      "label": "13. oktobra",
+      "longitude": 20.5647944739098,
+      "latitude": 44.5842595404062
     },
     {
       "id": "_35",
-      "label": "Раља /Друмине/",
-      "longitude": 20.581217,
-      "latitude": 44.560652
+      "label": "Livnica",
+      "longitude": 20.5654212644231,
+      "latitude": 44.5771664004468
+    },
+    {
+      "id": "_36",
+      "label": "Ralja (centar)",
+      "longitude": 20.558158278845,
+      "latitude": 44.5738249325549
+    },
+    {
+      "id": "_37",
+      "label": "Ralja (robna kuća)",
+      "longitude": 20.5614644553756,
+      "latitude": 44.5721726199315
+    },
+    {
+      "id": "_38",
+      "label": "Ralja (trafo)",
+      "longitude": 20.5709268180361,
+      "latitude": 44.5698755750538
+    },
+    {
+      "id": "_39",
+      "label": "Ralja (Drumine)",
+      "longitude": 20.5812389418865,
+      "latitude": 44.5605951105886
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Раља /Друмине/",
-      "longitude": 20.581217,
-      "latitude": 44.560652
+      "label": "Ralja (Drumine)",
+      "longitude": 20.5796182198054,
+      "latitude": 44.5619121809182
     },
     {
       "id": "_2",
-      "label": "Раља /Трафо/",
-      "longitude": 20.570204,
-      "latitude": 44.570167
+      "label": "Ralja (trafo)",
+      "longitude": 20.5701643453732,
+      "latitude": 44.5701517220516
     },
     {
       "id": "_3",
-      "label": "Раља /Центар/",
-      "longitude": 20.558716,
-      "latitude": 44.57399
+      "label": "Ralja (robna kuća)",
+      "longitude": 20.5616177219424,
+      "latitude": 44.572218204434
     },
     {
       "id": "_4",
-      "label": "Раља /Ливница/",
-      "longitude": 20.565725,
-      "latitude": 44.577143
+      "label": "Ralja (centar)",
+      "longitude": 20.5585003134765,
+      "latitude": 44.5738838470156
     },
     {
       "id": "_5",
-      "label": "Раља /13. Октобра/",
-      "longitude": 20.565473,
-      "latitude": 44.585867
+      "label": "Livnica",
+      "longitude": 20.5658392877657,
+      "latitude": 44.5771697809764
     },
     {
       "id": "_6",
-      "label": "Трешња /Ковиона/",
-      "longitude": 20.567927,
-      "latitude": 44.596446
+      "label": "13. oktobra",
+      "longitude": 20.5655043825102,
+      "latitude": 44.5860082047514
     },
     {
       "id": "_7",
-      "label": "Трешња /Школа/",
-      "longitude": 20.556168,
-      "latitude": 44.608681
+      "label": "Trešnja (Koviona)",
+      "longitude": 20.5680040218179,
+      "latitude": 44.5964700836117
     },
     {
       "id": "_8",
-      "label": "Авалски Цвет",
-      "longitude": 20.556281,
-      "latitude": 44.615295
+      "label": "Trešnja (škola)",
+      "longitude": 20.5561326082456,
+      "latitude": 44.6089094255517
     },
     {
       "id": "_9",
-      "label": "Трешња",
-      "longitude": 20.555476,
-      "latitude": 44.620766
+      "label": "Avalski cvet",
+      "longitude": 20.5566013046247,
+      "latitude": 44.6149015293374
     },
     {
       "id": "_10",
-      "label": "Прњавор /Школа/",
-      "longitude": 20.554299,
-      "latitude": 44.632406
+      "label": "Trešnja",
+      "longitude": 20.5555556014075,
+      "latitude": 44.6208697757036
     },
     {
       "id": "_11",
-      "label": "Средњи Прњавор",
-      "longitude": 20.552073,
-      "latitude": 44.641083
+      "label": "Prnjavor (škola)",
+      "longitude": 20.5544229482028,
+      "latitude": 44.6322753556379
     },
     {
       "id": "_12",
-      "label": "Прњавор /Улаз/",
-      "longitude": 20.553977,
-      "latitude": 44.647993
+      "label": "Srednji prnjavor",
+      "longitude": 20.5520437249662,
+      "latitude": 44.6411255056078
     },
     {
       "id": "_13",
-      "label": "Расадник",
-      "longitude": 20.550456,
-      "latitude": 44.654865
+      "label": "Prnjavor (ulaz)",
+      "longitude": 20.5539025065363,
+      "latitude": 44.6469880029181
     },
     {
       "id": "_14",
-      "label": "Раскрсница Врчин",
-      "longitude": 20.54342,
-      "latitude": 44.662914
+      "label": "Rasadnik",
+      "longitude": 20.5498526324036,
+      "latitude": 44.65623657347
     },
     {
       "id": "_15",
-      "label": "Шупља Стена",
-      "longitude": 20.54224,
-      "latitude": 44.66594
+      "label": "Raskrnica-Vrčin",
+      "longitude": 20.5433439187103,
+      "latitude": 44.6630201009772
     },
     {
       "id": "_16",
-      "label": "Капија Шумадије",
-      "longitude": 20.542081,
-      "latitude": 44.670467
+      "label": "Šuplja stena",
+      "longitude": 20.5422557182348,
+      "latitude": 44.6660720864092
     },
     {
       "id": "_17",
-      "label": "Пут за Зуце",
-      "longitude": 20.532973,
-      "latitude": 44.680717
+      "label": "Kapija Šumadije",
+      "longitude": 20.5421001733403,
+      "latitude": 44.6704759446688
     },
     {
       "id": "_18",
-      "label": "Шумарева Кућа",
-      "longitude": 20.518545,
-      "latitude": 44.68037
+      "label": "Đurđevdan",
+      "longitude": 20.5390251470769,
+      "latitude": 44.6749833143366
     },
     {
       "id": "_19",
-      "label": "Врх Авала",
-      "longitude": 20.502041,
-      "latitude": 44.696571
+      "label": "Put za Zuce",
+      "longitude": 20.5330315962401,
+      "latitude": 44.6806505317814
     },
     {
       "id": "_20",
-      "label": "Бели Поток /Пошта/",
-      "longitude": 20.504817,
-      "latitude": 44.701636
+      "label": "Šumareva kuća",
+      "longitude": 20.5183758344286,
+      "latitude": 44.6804135981769
     },
     {
       "id": "_21",
-      "label": "Бели Поток /Кумбара/",
-      "longitude": 20.50627,
-      "latitude": 44.710732
+      "label": "Avala",
+      "longitude": 20.502043577643,
+      "latitude": 44.696628010097
     },
     {
       "id": "_22",
-      "label": "Кружни пут",
-      "longitude": 20.504136,
-      "latitude": 44.719281
+      "label": "Pošta",
+      "longitude": 20.5048371509229,
+      "latitude": 44.7016853273796
     },
     {
       "id": "_23",
-      "label": "Раковица",
-      "longitude": 20.497496,
-      "latitude": 44.721935
+      "label": "Put za Beli potok",
+      "longitude": 20.5085820784282,
+      "latitude": 44.7074216250521
     },
     {
       "id": "_24",
-      "label": "Раковица /Спомен чесма/",
-      "longitude": 20.494422,
-      "latitude": 44.72645
+      "label": "Beli potok (Kumbara)",
+      "longitude": 20.5062572465612,
+      "latitude": 44.7107307340769
     },
     {
       "id": "_25",
-      "label": "Спомен Парк Јајинци",
-      "longitude": 20.484364,
-      "latitude": 44.729512
+      "label": "1000 ruža",
+      "longitude": 20.504123244111,
+      "latitude": 44.7164953146469
     },
     {
       "id": "_26",
-      "label": "Милутина Миланковића",
-      "longitude": 20.483813,
-      "latitude": 44.734982
+      "label": "Kružni put",
+      "longitude": 20.504162221515,
+      "latitude": 44.7190482059349
     },
     {
       "id": "_27",
-      "label": "Јајинци /Дом Здравља/",
-      "longitude": 20.485296,
-      "latitude": 44.741233
+      "label": "Rakovica selo",
+      "longitude": 20.4975661062226,
+      "latitude": 44.7219300172401
     },
     {
       "id": "_28",
-      "label": "Саве Јовановића",
-      "longitude": 20.483303,
-      "latitude": 44.742605
+      "label": "Rakovica selo (spomen česma)",
+      "longitude": 20.4944744021448,
+      "latitude": 44.7264792717087
     },
     {
       "id": "_29",
-      "label": "Воје Радића",
-      "longitude": 20.477345,
-      "latitude": 44.74627
+      "label": "Spomen park Jajinci",
+      "longitude": 20.4842999484184,
+      "latitude": 44.7295496892026
     },
     {
       "id": "_30",
-      "label": "Ристе Стефановића",
-      "longitude": 20.480525,
-      "latitude": 44.749952
+      "label": "Milutina Miljkovića",
+      "longitude": 20.4839292788514,
+      "latitude": 44.7351998032955
     },
     {
       "id": "_31",
-      "label": "Бањица 2",
-      "longitude": 20.480558,
-      "latitude": 44.751678
+      "label": "Jajinci (Dom zdravlja)",
+      "longitude": 20.4852827788957,
+      "latitude": 44.7412086418607
     },
     {
       "id": "_32",
-      "label": "Крагујевачких Ђака",
-      "longitude": 20.477068,
-      "latitude": 44.754789
+      "label": "Save Jovanovića",
+      "longitude": 20.4832321340049,
+      "latitude": 44.7426285689467
     },
     {
       "id": "_33",
-      "label": "Баштованска",
-      "longitude": 20.47722,
-      "latitude": 44.756977
+      "label": "Voje Radića",
+      "longitude": 20.477276790342,
+      "latitude": 44.7463040469182
     },
     {
       "id": "_34",
-      "label": "Паунова",
-      "longitude": 20.476934,
-      "latitude": 44.760861
+      "label": "Riste Stefanovića",
+      "longitude": 20.4801659780458,
+      "latitude": 44.7500088163803
     },
     {
       "id": "_35",
-      "label": "Вождовац",
-      "longitude": 20.483671,
-      "latitude": 44.761082
+      "label": "Banjica 2",
+      "longitude": 20.480517163468,
+      "latitude": 44.7516987354478
+    },
+    {
+      "id": "_36",
+      "label": "Kragujevačkih đaka",
+      "longitude": 20.4770363141633,
+      "latitude": 44.754807593616
+    },
+    {
+      "id": "_37",
+      "label": "Baštovanska",
+      "longitude": 20.4772006355453,
+      "latitude": 44.7570456461003
+    },
+    {
+      "id": "_38",
+      "label": "Paunova",
+      "longitude": 20.4769460779112,
+      "latitude": 44.7609197174914
+    },
+    {
+      "id": "_39",
+      "label": "Voždovac (terminus)",
+      "longitude": 20.4835198646956,
+      "latitude": 44.7611744799175
     }
   ]
 }

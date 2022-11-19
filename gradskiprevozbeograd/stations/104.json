@@ -2,245 +2,263 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Омладински Стадион",
-      "longitude": 20.490085,
-      "latitude": 44.815368
+      "label": "Omladinski stadion (ulaz)",
+      "longitude": 20.4901007929794,
+      "latitude": 44.8154388682299
     },
     {
       "id": "_2",
-      "label": "МЗ Крњача",
-      "longitude": 20.494105,
-      "latitude": 44.837744
+      "label": "MZ Krnjača",
+      "longitude": 20.4941835071208,
+      "latitude": 44.8376623052089
     },
     {
       "id": "_3",
-      "label": "Блок Бранко Момиров",
-      "longitude": 20.491051,
-      "latitude": 44.841315
+      "label": "Blok Branka Momirova",
+      "longitude": 20.4908417975942,
+      "latitude": 44.8414147132766
     },
     {
       "id": "_4",
-      "label": "Партизански Блок",
-      "longitude": 20.488307,
-      "latitude": 44.84637
+      "label": "Partizanski blok",
+      "longitude": 20.4881921537112,
+      "latitude": 44.846397637296
     },
     {
       "id": "_5",
-      "label": "Блок Сутјеска",
-      "longitude": 20.486444,
-      "latitude": 44.849427
+      "label": "Blok Sutjeska",
+      "longitude": 20.4863259678953,
+      "latitude": 44.8494311207245
     },
     {
       "id": "_6",
-      "label": "Пиротско Насеље",
-      "longitude": 20.483699,
-      "latitude": 44.853545
+      "label": "Pirotsko naselje",
+      "longitude": 20.4836376503621,
+      "latitude": 44.8535552105582
     },
     {
       "id": "_7",
-      "label": "Пакрачка",
-      "longitude": 20.480411,
-      "latitude": 44.85847
+      "label": "Pakračka",
+      "longitude": 20.4803037155818,
+      "latitude": 44.8585204610583
     },
     {
       "id": "_8",
-      "label": "Себеш Суви",
-      "longitude": 20.478215,
-      "latitude": 44.861742
+      "label": "Sebeš suvi",
+      "longitude": 20.4780975569801,
+      "latitude": 44.8618402458717
     },
     {
       "id": "_9",
-      "label": "Себешка Река",
-      "longitude": 20.473805,
-      "latitude": 44.868343
+      "label": "Sebeška reka",
+      "longitude": 20.4737486457741,
+      "latitude": 44.8683809788243
     },
     {
       "id": "_10",
-      "label": "Себеш Мокри",
-      "longitude": 20.470407,
-      "latitude": 44.873404
+      "label": "Sebeš mokri",
+      "longitude": 20.4703541554214,
+      "latitude": 44.8734140439099
     },
     {
       "id": "_11",
-      "label": "Борча Раскршће",
-      "longitude": 20.465917,
-      "latitude": 44.878107
+      "label": "Borča raskršće",
+      "longitude": 20.4659366685636,
+      "latitude": 44.8781380666315
     },
     {
       "id": "_12",
-      "label": "Ваљевског Одреда",
-      "longitude": 20.46198,
-      "latitude": 44.875069
+      "label": "Valjevskog odreda",
+      "longitude": 20.4620611860726,
+      "latitude": 44.8751159561571
     },
     {
       "id": "_13",
-      "label": "Соње Маринковић",
-      "longitude": 20.459237,
-      "latitude": 44.873404
+      "label": "Sonje Marinković",
+      "longitude": 20.4591032030384,
+      "latitude": 44.8733651610695
     },
     {
       "id": "_14",
-      "label": "Трг Ослобођења",
-      "longitude": 20.456776,
-      "latitude": 44.871943
+      "label": "Trg oslobođenja",
+      "longitude": 20.4566741072872,
+      "latitude": 44.871917375484
     },
     {
       "id": "_15",
-      "label": "Бранка Радичевића",
-      "longitude": 20.453699,
-      "latitude": 44.869181
+      "label": "Branka Radičevića",
+      "longitude": 20.4534573385535,
+      "latitude": 44.8691914686574
     },
     {
       "id": "_16",
-      "label": "Вука Караџића",
-      "longitude": 20.449394,
-      "latitude": 44.869288
+      "label": "Vuka Karadžića",
+      "longitude": 20.4492778852037,
+      "latitude": 44.869261477995
     },
     {
       "id": "_17",
-      "label": "Шести Прилаз",
-      "longitude": 20.443093,
-      "latitude": 44.86483
+      "label": "Šesti prilaz",
+      "longitude": 20.4430734627395,
+      "latitude": 44.8648596007496
     },
     {
       "id": "_18",
-      "label": "Велики Канал",
-      "longitude": 20.439713,
-      "latitude": 44.862559
+      "label": "Veliki kanal",
+      "longitude": 20.4397616048386,
+      "latitude": 44.8626530111532
     },
     {
       "id": "_19",
-      "label": "Пумпа",
-      "longitude": 20.434436,
-      "latitude": 44.858957
+      "label": "Cvećara",
+      "longitude": 20.43634242714,
+      "latitude": 44.8603180052492
     },
     {
       "id": "_20",
-      "label": "Црвенка",
-      "longitude": 20.417789,
-      "latitude": 44.860763
+      "label": "Pumpa",
+      "longitude": 20.4344369834402,
+      "latitude": 44.8590037070528
+    },
+    {
+      "id": "_21",
+      "label": "Put za Crvenku",
+      "longitude": 20.428283996649,
+      "latitude": 44.8593673830542
+    },
+    {
+      "id": "_22",
+      "label": "Crvenka",
+      "longitude": 20.4178262739437,
+      "latitude": 44.8607420969045
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Црвенка",
-      "longitude": 20.417789,
-      "latitude": 44.860763
+      "label": "Crvenka",
+      "longitude": 20.4178262739437,
+      "latitude": 44.8607420969045
     },
     {
       "id": "_2",
-      "label": "Пумпа",
-      "longitude": 20.43308,
-      "latitude": 44.858402
+      "label": "Put za Crvenku",
+      "longitude": 20.4292863805591,
+      "latitude": 44.8590843919855
     },
     {
       "id": "_3",
-      "label": "Велики Канал",
-      "longitude": 20.440755,
-      "latitude": 44.863102
+      "label": "Pumpa",
+      "longitude": 20.4329877684736,
+      "latitude": 44.85840078954
     },
     {
       "id": "_4",
-      "label": "Шести Прилаз",
-      "longitude": 20.443689,
-      "latitude": 44.865136
+      "label": "Cvećara",
+      "longitude": 20.437905133715,
+      "latitude": 44.8612310171227
     },
     {
       "id": "_5",
-      "label": "Вука Караџића",
-      "longitude": 20.450256,
-      "latitude": 44.869183
+      "label": "Veliki kanal",
+      "longitude": 20.4407039082609,
+      "latitude": 44.8630895822433
     },
     {
       "id": "_6",
-      "label": "Бранка Радичевића",
-      "longitude": 20.454545,
-      "latitude": 44.869084
+      "label": "Šesti prilaz",
+      "longitude": 20.4435952930951,
+      "latitude": 44.8650745195393
     },
     {
       "id": "_7",
-      "label": "Петра Драпшина",
-      "longitude": 20.456515,
-      "latitude": 44.871043
+      "label": "Vuka Karadžića",
+      "longitude": 20.450349586769,
+      "latitude": 44.8691496245061
     },
     {
       "id": "_8",
-      "label": "Соње Маринковић",
-      "longitude": 20.459223,
-      "latitude": 44.873285
+      "label": "Branka Radičevića",
+      "longitude": 20.4544431481162,
+      "latitude": 44.8690611687052
     },
     {
       "id": "_9",
-      "label": "Ваљевског Одреда",
-      "longitude": 20.462886,
-      "latitude": 44.875434
+      "label": "Petra Drapšina",
+      "longitude": 20.4564945468536,
+      "latitude": 44.8710903772446
     },
     {
       "id": "_10",
-      "label": "Борча Раскршће",
-      "longitude": 20.467531,
-      "latitude": 44.877219
+      "label": "Sonje Marinković",
+      "longitude": 20.4591850886323,
+      "latitude": 44.8732701531015
     },
     {
       "id": "_11",
-      "label": "Себеш Мокри",
-      "longitude": 20.470556,
-      "latitude": 44.872697
+      "label": "Valjevskog odreda",
+      "longitude": 20.4628655275921,
+      "latitude": 44.8754563026721
     },
     {
       "id": "_12",
-      "label": "Себешка Река",
-      "longitude": 20.473635,
-      "latitude": 44.868102
+      "label": "Borča raskršće",
+      "longitude": 20.4675835368457,
+      "latitude": 44.8771557830855
     },
     {
       "id": "_13",
-      "label": "Себеш Суви",
-      "longitude": 20.478635,
-      "latitude": 44.860618
+      "label": "Sebeš mokri",
+      "longitude": 20.4705528288382,
+      "latitude": 44.8727238045324
     },
     {
       "id": "_14",
-      "label": "Пакрачка",
-      "longitude": 20.480785,
-      "latitude": 44.857411
+      "label": "Sebeška reka",
+      "longitude": 20.4736906620926,
+      "latitude": 44.8680765319421
     },
     {
       "id": "_15",
-      "label": "Пиротско Насеље",
-      "longitude": 20.484112,
-      "latitude": 44.852438
+      "label": "Sebeš suvi",
+      "longitude": 20.4786295214143,
+      "latitude": 44.8606565365871
     },
     {
       "id": "_16",
-      "label": "Блок Сутјеска",
-      "longitude": 20.486769,
-      "latitude": 44.848453
+      "label": "Pakračka",
+      "longitude": 20.4807459919225,
+      "latitude": 44.8574533279554
     },
     {
       "id": "_17",
-      "label": "Партизански Блок",
-      "longitude": 20.488131,
-      "latitude": 44.846097
+      "label": "Pirotsko naselje",
+      "longitude": 20.4840466935259,
+      "latitude": 44.8525149126039
     },
     {
       "id": "_18",
-      "label": "Блок Бранко Момиров",
-      "longitude": 20.490776,
-      "latitude": 44.841187
+      "label": "Blok Sutjeska",
+      "longitude": 20.4867212487704,
+      "latitude": 44.8485077439287
     },
     {
       "id": "_19",
-      "label": "Омладински Стадион",
-      "longitude": 20.489693,
-      "latitude": 44.815337
+      "label": "Partizanski blok",
+      "longitude": 20.488254243672,
+      "latitude": 44.8459551401503
     },
     {
       "id": "_20",
-      "label": "Омладински Стадион",
-      "longitude": 20.490085,
-      "latitude": 44.815368
+      "label": "Blok Branka Momirova",
+      "longitude": 20.4908213801493,
+      "latitude": 44.8411464382178
+    },
+    {
+      "id": "_21",
+      "label": "Omladinski stadion (izlaz)",
+      "longitude": 20.4895760577327,
+      "latitude": 44.8152979432564
     }
   ]
 }

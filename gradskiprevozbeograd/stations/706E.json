@@ -2,161 +2,155 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Земун /Ослобођења Кеј/",
-      "longitude": 20.415797,
-      "latitude": 44.843491
+      "label": "Kej oslobođenja",
+      "longitude": 20.4159911940337,
+      "latitude": 44.8436751886467
     },
     {
       "id": "_2",
-      "label": "Земун /пошта/",
-      "longitude": 20.413464,
-      "latitude": 44.842112
+      "label": "Zemun (pošta)",
+      "longitude": 20.4133320184886,
+      "latitude": 44.8421929039194
     },
     {
       "id": "_3",
-      "label": "Земун /Горњи град/ ",
-      "longitude": 20.378181,
-      "latitude": 44.859074
+      "label": "Zemun (Gornji grad)",
+      "longitude": 20.3780768215081,
+      "latitude": 44.8590737214802
     },
     {
       "id": "_4",
-      "label": "Coca Cola",
-      "longitude": 20.353822,
-      "latitude": 44.869657
+      "label": "Coca-Cola",
+      "longitude": 20.3537456511705,
+      "latitude": 44.8696791024904
     },
     {
       "id": "_5",
-      "label": "Батајница /Улаз/",
-      "longitude": 20.295428,
-      "latitude": 44.895498
+      "label": "Batajnica (ulaz)",
+      "longitude": 20.295393945171,
+      "latitude": 44.8954929825352
     },
     {
       "id": "_6",
-      "label": "Максима Бранковића",
-      "longitude": 20.291764,
-      "latitude": 44.897222
+      "label": "Maksima Brankovića",
+      "longitude": 20.2916960421567,
+      "latitude": 44.8972196711163
     },
     {
       "id": "_7",
-      "label": "Браће Смиљанић",
-      "longitude": 20.285763,
-      "latitude": 44.900046
+      "label": "Braće Smiljanić",
+      "longitude": 20.2856849801639,
+      "latitude": 44.9000441699599
     },
     {
       "id": "_8",
-      "label": "Мајке Југовића",
-      "longitude": 20.281049,
-      "latitude": 44.902606
+      "label": "Majke Jugovića",
+      "longitude": 20.2809119106436,
+      "latitude": 44.9026511408495
     },
     {
       "id": "_9",
-      "label": "Батајница /Центар/",
-      "longitude": 20.274619,
-      "latitude": 44.906319
+      "label": "Batajnica (centar)",
+      "longitude": 20.2744451852882,
+      "latitude": 44.9063811224187
     },
     {
       "id": "_10",
-      "label": "Посавска",
-      "longitude": 20.266404,
-      "latitude": 44.911051
+      "label": "Posavska",
+      "longitude": 20.2662095552029,
+      "latitude": 44.911119950862
     },
     {
       "id": "_11",
-      "label": "Официрска колонија",
-      "longitude": 20.258557,
-      "latitude": 44.914708
+      "label": "Oficirska kolonija",
+      "longitude": 20.2584178393944,
+      "latitude": 44.9147163361376
     },
     {
       "id": "_12",
-      "label": "Мома Станојловић",
-      "longitude": 20.252306,
-      "latitude": 44.919234
+      "label": "Moma Stanojlović",
+      "longitude": 20.2523798455392,
+      "latitude": 44.919160582939
     },
     {
       "id": "_13",
-      "label": "Аеродром Батајница",
-      "longitude": 20.245332,
-      "latitude": 44.926813
+      "label": "Aerodrom Batajnica",
+      "longitude": 20.2448957186008,
+      "latitude": 44.9271839257007
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Аеродром Батајница",
-      "longitude": 20.245332,
-      "latitude": 44.926813
+      "label": "Aerodrom Batajnica",
+      "longitude": 20.2448957186008,
+      "latitude": 44.9271839257007
     },
     {
       "id": "_2",
-      "label": "Мома Станојловић",
-      "longitude": 20.252577,
-      "latitude": 44.918732
+      "label": "Moma Stanojlović",
+      "longitude": 20.2525213043679,
+      "latitude": 44.9187997316463
     },
     {
       "id": "_3",
-      "label": "Официрска колонија",
-      "longitude": 20.259763,
-      "latitude": 44.914016
+      "label": "Oficirska kolonija",
+      "longitude": 20.2598583640302,
+      "latitude": 44.9139859016283
     },
     {
       "id": "_4",
-      "label": "Посавска",
-      "longitude": 20.267082,
-      "latitude": 44.910433
+      "label": "Posavska",
+      "longitude": 20.2671272734949,
+      "latitude": 44.9104562704415
     },
     {
       "id": "_5",
-      "label": "Батајница /Центар/",
-      "longitude": 20.27512,
-      "latitude": 44.905827
+      "label": "Batajnica (centar)",
+      "longitude": 20.2751255461711,
+      "latitude": 44.90584906497
     },
     {
       "id": "_6",
-      "label": "Мајке Југовића",
-      "longitude": 20.282403,
-      "latitude": 44.901601
+      "label": "Majke Jugovića",
+      "longitude": 20.2824902787812,
+      "latitude": 44.9015811073952
     },
     {
       "id": "_7",
-      "label": "Браће Смиљанић",
-      "longitude": 20.286962,
-      "latitude": 44.899264
+      "label": "Braće Smiljanić",
+      "longitude": 20.287021307534,
+      "latitude": 44.8992857432581
     },
     {
       "id": "_8",
-      "label": "Максима Бранковића",
-      "longitude": 20.289664,
-      "latitude": 44.897983
+      "label": "Maksima Brankovića",
+      "longitude": 20.2897212178661,
+      "latitude": 44.8980155948193
     },
     {
       "id": "_9",
-      "label": "Батајница /Улаз/",
-      "longitude": 20.296354,
-      "latitude": 44.894896
+      "label": "Batajnica (ulaz)",
+      "longitude": 20.2964521939137,
+      "latitude": 44.894885724698
     },
     {
       "id": "_10",
-      "label": "Coca Cola",
-      "longitude": 20.3562,
-      "latitude": 44.868458
+      "label": "Coca-Cola",
+      "longitude": 20.3562573258036,
+      "latitude": 44.8684639094224
     },
     {
       "id": "_11",
-      "label": "Земун /Горњи град/ ",
-      "longitude": 20.378161,
-      "latitude": 44.858899
+      "label": "Zemun (Gornji grad)",
+      "longitude": 20.3783375530751,
+      "latitude": 44.8588303502097
     },
     {
       "id": "_12",
-      "label": "РК Београд",
-      "longitude": 20.412037,
-      "latitude": 44.843542
-    },
-    {
-      "id": "_13",
-      "label": "Земун /Ослобођења Кеј/",
-      "longitude": 20.415797,
-      "latitude": 44.843491
+      "label": "Kej oslobođenja",
+      "longitude": 20.4159911940337,
+      "latitude": 44.8436751886467
     }
   ]
 }

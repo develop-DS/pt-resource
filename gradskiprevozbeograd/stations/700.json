@@ -2,119 +2,124 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Батајница /Железничка станица/",
-      "longitude": 20.27113,
-      "latitude": 44.899961
-    }
-  ],
-  "direction_b": [
-    {
-      "id": "_1",
-      "label": "Батајница /Железничка рампа/",
-      "longitude": 20.269595,
-      "latitude": 44.901733
+      "label": "Batajnica (železnička stanica)",
+      "longitude": 20.2710634796556,
+      "latitude": 44.8999899005578
     },
     {
       "id": "_2",
-      "label": "Батајница /Центар/",
-      "longitude": 20.274619,
-      "latitude": 44.906319
+      "label": "Batajnica (železnička rampa)",
+      "longitude": 20.2700669319617,
+      "latitude": 44.9021020125563
     },
     {
       "id": "_3",
-      "label": "Посавска",
-      "longitude": 20.266404,
-      "latitude": 44.911051
+      "label": "Batajnica (centar)",
+      "longitude": 20.2744451852882,
+      "latitude": 44.9063811224187
     },
     {
       "id": "_4",
-      "label": "Драге Михајловића",
-      "longitude": 20.264638,
-      "latitude": 44.912413
+      "label": "Posavska",
+      "longitude": 20.2662095552029,
+      "latitude": 44.911119950862
     },
     {
       "id": "_5",
-      "label": "Далматинских Бригада",
-      "longitude": 20.26728,
-      "latitude": 44.913687
+      "label": "Drage Mihajlovića",
+      "longitude": 20.2647235527661,
+      "latitude": 44.9124513317983
     },
     {
       "id": "_6",
-      "label": "Батајница",
-      "longitude": 20.270357,
-      "latitude": 44.915141
+      "label": "Dalmatinskih brigada",
+      "longitude": 20.2672918106163,
+      "latitude": 44.9136646970505
     },
     {
       "id": "_7",
-      "label": "Новосадска",
-      "longitude": 20.278734,
-      "latitude": 44.917744
+      "label": "Batajnica",
+      "longitude": 20.2710291462093,
+      "latitude": 44.9153840114502
     },
     {
       "id": "_8",
-      "label": "Катице Опачић",
-      "longitude": 20.28012,
-      "latitude": 44.914891
+      "label": "Katice Opačić 1",
+      "longitude": 20.2746980733394,
+      "latitude": 44.9173241543347
     },
     {
       "id": "_9",
-      "label": "Јована Бранковића",
-      "longitude": 20.282291,
-      "latitude": 44.911128
+      "label": "Novosadska",
+      "longitude": 20.2786587259075,
+      "latitude": 44.9178297178228
     },
     {
       "id": "_10",
-      "label": "Широки Пут",
-      "longitude": 20.286169,
-      "latitude": 44.908951
+      "label": "Katice Opačić",
+      "longitude": 20.2803200495258,
+      "latitude": 44.914404206369
     },
     {
       "id": "_11",
-      "label": "Станка Тишме",
-      "longitude": 20.288815,
-      "latitude": 44.906454
+      "label": "Jovana Brankovića",
+      "longitude": 20.2822936438039,
+      "latitude": 44.9111084157204
     },
     {
       "id": "_12",
-      "label": "Браће Смиљанић",
-      "longitude": 20.292109,
-      "latitude": 44.903526
+      "label": "Široki put",
+      "longitude": 20.2861445188783,
+      "latitude": 44.9089852165013
     },
     {
       "id": "_13",
-      "label": "Босанске Крајине",
-      "longitude": 20.294385,
-      "latitude": 44.900316
+      "label": "Stanka Tišme",
+      "longitude": 20.2888811522933,
+      "latitude": 44.9064140091577
     },
     {
       "id": "_14",
-      "label": "Краља Уроша",
-      "longitude": 20.290012,
-      "latitude": 44.89699
+      "label": "Braće Smiljanić",
+      "longitude": 20.2921716258821,
+      "latitude": 44.9034735824944
     },
     {
       "id": "_15",
-      "label": "Стевана Дубајића",
-      "longitude": 20.287297,
-      "latitude": 44.895987
+      "label": "Bosanske krajine",
+      "longitude": 20.2943960271992,
+      "latitude": 44.9002907174499
     },
     {
       "id": "_16",
-      "label": "Браће Радишић",
-      "longitude": 20.283098,
-      "latitude": 44.898003
+      "label": "Kralja Uroša",
+      "longitude": 20.2900399205192,
+      "latitude": 44.8970132375448
     },
     {
       "id": "_17",
-      "label": "Краља Радослава",
-      "longitude": 20.278903,
-      "latitude": 44.900366
+      "label": "Stevana Dubajića",
+      "longitude": 20.2873430091866,
+      "latitude": 44.8959867679098
     },
     {
       "id": "_18",
-      "label": "Батајница /Железничка станица/",
-      "longitude": 20.27113,
-      "latitude": 44.899961
+      "label": "Braće Radišić",
+      "longitude": 20.2831274513898,
+      "latitude": 44.8979817403846
+    },
+    {
+      "id": "_19",
+      "label": "Kralja Radoslava",
+      "longitude": 20.2788759257937,
+      "latitude": 44.9004011012233
+    },
+    {
+      "id": "_20",
+      "label": "Batajnica (železnička stanica)",
+      "longitude": 20.2710634796556,
+      "latitude": 44.8999899005578
     }
-  ]
+  ],
+  "direction_b": []
 }

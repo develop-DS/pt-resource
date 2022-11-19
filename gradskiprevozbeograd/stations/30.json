@@ -2,137 +2,143 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Славија /Бирчанинова/",
-      "longitude": 20.465466,
-      "latitude": 44.800629
+      "label": "Birčaninova",
+      "longitude": 20.4653549758887,
+      "latitude": 44.8005706209813
     },
     {
       "id": "_2",
-      "label": "Карађорђев парк",
-      "longitude": 20.465237,
-      "latitude": 44.797099
+      "label": "Karađorđev park",
+      "longitude": 20.4651954172747,
+      "latitude": 44.7970276562542
     },
     {
       "id": "_3",
-      "label": "Стратимировићева",
-      "longitude": 20.475522,
-      "latitude": 44.787919
+      "label": "Južni bulevar",
+      "longitude": 20.4685408667047,
+      "latitude": 44.7913806804655
     },
     {
       "id": "_4",
-      "label": "Душановац /Пошта/",
-      "longitude": 20.479898,
-      "latitude": 44.786411
+      "label": "Stratimirovićeva",
+      "longitude": 20.4755587775862,
+      "latitude": 44.7878905393033
     },
     {
       "id": "_5",
-      "label": "Мишка Јовановића",
-      "longitude": 20.481835,
-      "latitude": 44.782712
+      "label": "Dušanovac (pošta)",
+      "longitude": 20.4798815168838,
+      "latitude": 44.7863982851301
     },
     {
       "id": "_6",
-      "label": "Пеке Павловића",
-      "longitude": 20.48622,
-      "latitude": 44.780932
+      "label": "Miška Jovanovića",
+      "longitude": 20.4817847439638,
+      "latitude": 44.7827008725637
     },
     {
       "id": "_7",
-      "label": "Катарине Ивановић",
-      "longitude": 20.489708,
-      "latitude": 44.77836
+      "label": "Peke Pavlovića",
+      "longitude": 20.4863019196158,
+      "latitude": 44.7808780674422
     },
     {
       "id": "_8",
-      "label": "Умљеновићева",
-      "longitude": 20.493767,
-      "latitude": 44.777003
+      "label": "Katarine Ivanović",
+      "longitude": 20.4898297560034,
+      "latitude": 44.7782983251222
     },
     {
       "id": "_9",
-      "label": "Медаковић 2",
-      "longitude": 20.497873,
-      "latitude": 44.775172
+      "label": "Umljenovićeva",
+      "longitude": 20.4939025240027,
+      "latitude": 44.7769484195537
+    },
+    {
+      "id": "_10",
+      "label": "Medaković 2",
+      "longitude": 20.4975103796275,
+      "latitude": 44.7752777488979
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Медаковић 2",
-      "longitude": 20.497873,
-      "latitude": 44.775172
+      "label": "Medaković 2",
+      "longitude": 20.4978956423075,
+      "latitude": 44.7751426411325
     },
     {
       "id": "_2",
-      "label": "Умљеновићева",
-      "longitude": 20.493915,
-      "latitude": 44.777607
+      "label": "Umljenovićeva",
+      "longitude": 20.4938260749052,
+      "latitude": 44.7776032518501
     },
     {
       "id": "_3",
-      "label": "Катарине Ивановић",
-      "longitude": 20.489336,
-      "latitude": 44.778575
+      "label": "Katarine Ivanović",
+      "longitude": 20.4892053684847,
+      "latitude": 44.7786087333771
     },
     {
       "id": "_4",
-      "label": "Пеке Павловића",
-      "longitude": 20.485967,
-      "latitude": 44.781091
+      "label": "Peke Pavlovića",
+      "longitude": 20.4859106477364,
+      "latitude": 44.7811139042643
     },
     {
       "id": "_5",
-      "label": "Мишка Јовановића",
-      "longitude": 20.482438,
-      "latitude": 44.782439
+      "label": "Miška Jovanovića",
+      "longitude": 20.4823122704549,
+      "latitude": 44.7824926633503
     },
     {
       "id": "_6",
-      "label": "Душановац /Пошта/",
-      "longitude": 20.481597,
-      "latitude": 44.785918
+      "label": "Dušanovac (pošta)",
+      "longitude": 20.4814776549723,
+      "latitude": 44.7859663289161
     },
     {
       "id": "_7",
-      "label": "Вождовац",
-      "longitude": 20.478298,
-      "latitude": 44.787223
+      "label": "GO Voždovac",
+      "longitude": 20.4782796333072,
+      "latitude": 44.7871865756287
     },
     {
       "id": "_8",
-      "label": "Стратимировићева",
-      "longitude": 20.472135,
-      "latitude": 44.789461
+      "label": "Stratimirovićeva",
+      "longitude": 20.4720918286331,
+      "latitude": 44.789474765186
     },
     {
       "id": "_9",
-      "label": "Јужни булевар",
-      "longitude": 20.469957,
-      "latitude": 44.790604
+      "label": "Južni bulevar",
+      "longitude": 20.4698260904744,
+      "latitude": 44.7906972594037
     },
     {
       "id": "_10",
-      "label": "Франше Д'Епереа",
-      "longitude": 20.466713,
-      "latitude": 44.792784
+      "label": "Franše D'Eperea",
+      "longitude": 20.4666800433672,
+      "latitude": 44.7928101762883
     },
     {
       "id": "_11",
-      "label": "Карађорђев парк",
-      "longitude": 20.465719,
-      "latitude": 44.79816
+      "label": "Karađorđev park",
+      "longitude": 20.4657590648182,
+      "latitude": 44.7982550256383
     },
     {
       "id": "_12",
-      "label": "Трг Славија /Булевар Ослобођења/",
-      "longitude": 20.46636,
-      "latitude": 44.801732
+      "label": "Trg Slavija (Bulevar oslobođenja)",
+      "longitude": 20.4664336279974,
+      "latitude": 44.8017635811315
     },
     {
       "id": "_13",
-      "label": "Славија /Бирчанинова/",
-      "longitude": 20.465466,
-      "latitude": 44.800629
+      "label": "Trg Slavija (Tiršova)",
+      "longitude": 20.4648776777364,
+      "latitude": 44.7994164545255
     }
   ]
 }

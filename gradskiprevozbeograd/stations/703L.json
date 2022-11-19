@@ -1,0 +1,132 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Batajnica (Šangajska)",
+      "longitude": 20.2686916295089,
+      "latitude": 44.9005102527337
+    },
+    {
+      "id": "_2",
+      "label": "Šangajska",
+      "longitude": 20.2595036706187,
+      "latitude": 44.9011253043192
+    },
+    {
+      "id": "_3",
+      "label": "Stevana Simića",
+      "longitude": 20.2500834292811,
+      "latitude": 44.8977612677984
+    },
+    {
+      "id": "_4",
+      "label": "Busije",
+      "longitude": 20.2299292342531,
+      "latitude": 44.8908690459241
+    },
+    {
+      "id": "_5",
+      "label": "Busije 1",
+      "longitude": 20.2227961702778,
+      "latitude": 44.8884450401446
+    },
+    {
+      "id": "_6",
+      "label": "Busije 2",
+      "longitude": 20.2126263274722,
+      "latitude": 44.883170343616
+    },
+    {
+      "id": "_7",
+      "label": "Grobljanska",
+      "longitude": 20.2074945731551,
+      "latitude": 44.8776237180729
+    },
+    {
+      "id": "_8",
+      "label": "Ugrinovci (ulaz)",
+      "longitude": 20.1997652287699,
+      "latitude": 44.871457579851
+    },
+    {
+      "id": "_9",
+      "label": "Beogradska",
+      "longitude": 20.1930606147748,
+      "latitude": 44.8736064109345
+    },
+    {
+      "id": "_10",
+      "label": "Ugrinovci (centar)",
+      "longitude": 20.1873364308896,
+      "latitude": 44.8756628132005
+    },
+    {
+      "id": "_11",
+      "label": "Ugrinovci",
+      "longitude": 20.179976332839,
+      "latitude": 44.8780906041667
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Ugrinovci",
+      "longitude": 20.179976332839,
+      "latitude": 44.8780906041667
+    },
+    {
+      "id": "_2",
+      "label": "Ugrinovci (centar)",
+      "longitude": 20.1876892307921,
+      "latitude": 44.8754151314391
+    },
+    {
+      "id": "_3",
+      "label": "Beogradska",
+      "longitude": 20.1936422950503,
+      "latitude": 44.8732793278145
+    },
+    {
+      "id": "_4",
+      "label": "Ugrinovci (ulaz)",
+      "longitude": 20.2002849899575,
+      "latitude": 44.8712110251089
+    },
+    {
+      "id": "_5",
+      "label": "Grobljanska",
+      "longitude": 20.2073875353173,
+      "latitude": 44.8773061979951
+    },
+    {
+      "id": "_6",
+      "label": "Busije 2",
+      "longitude": 20.2137168401381,
+      "latitude": 44.8841497693167
+    },
+    {
+      "id": "_7",
+      "label": "Busije 1",
+      "longitude": 20.2215350345241,
+      "latitude": 44.8878983140146
+    },
+    {
+      "id": "_8",
+      "label": "Stevana Simića",
+      "longitude": 20.2502664166942,
+      "latitude": 44.8977102687426
+    },
+    {
+      "id": "_9",
+      "label": "Šangajska",
+      "longitude": 20.260291756844,
+      "latitude": 44.9012851835676
+    },
+    {
+      "id": "_10",
+      "label": "Batajnica (Šangajska)",
+      "longitude": 20.268571860013,
+      "latitude": 44.9004689911288
+    }
+  ]
+}
