@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width" />
+        <title>Gradski Prevoz Subotica Support</title>
+        <style>
+            .schema-faq-code {
+                border: 1px solid #dedee0;
+                border-radius: 10px;
+                background-color: #fefbf9;
+                overflow: hidden;
+            }
+            .schema-faq-code .faq-q {
+                font-size: 14px;
+                font-weight: bold;
+                margin: 0;
+                padding: 12px 56px 12px 12px;
+                line-height: 1.4;
+                cursor: pointer;
+                position: relative;
+                border-bottom: 1px solid #dedee0;
+                -webkit-touch-callout: none;
+                -webkit-user-select: none;
+                -khtml-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+            }
+            .faq-q:after {
+                content: "+";
+                position: absolute;
+                top: 50%;
+                right: 0;
+                width: 56px;
+                text-align: center;
+                -webkit-transform: translateY(-50%);
+                -moz-transform: translateY(-50%);
+                -ms-transform: translateY(-50%);
+                transform: translateY(-50%);
+                font-weight: bold;
+                color: #000;
+                font-size: 20px;
+            }
+            .faq-q.faq-q-open:after {
+                content: "-";
+            }
+            .faq-a {
+                margin: 0;
+                padding: 12px;
+                background-color: #fff;
+                font-size: 14px;
+                line-height: 1.4;
+                border-bottom: 1px solid #dedee0;
+                display: none;
+            }
+            .schema-faq-code .faq-question:last-child .faq-a {
+                border-bottom: 0px;
+            }
+        </style>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    </head>
+    <body>
+
+        <h1>Gradski Prevoz Subotica - FAQ</h1>
+        <div
+            class="schema-faq-code"
+            itemscope=""
+            itemtype="https://schema.org/FAQPage"
+        >
+            <div
+                itemscope=""
+                itemprop="mainEntity"
+                itemtype="https://schema.org/Question"
+                class="faq-question"
+            >
+                <h3 itemprop="name" class="faq-q">How to open bus route?</h3>
+                <div
+                    itemscope=""
+                    itemprop="acceptedAnswer"
+                    itemtype="https://schema.org/Answer"
+                >
+                    <p itemprop="text" class="faq-a">
+                        From routes tab click on the bus route and you will be
+                        presented with bus route timetable.
+                    </p>
+                </div>
+            </div>
+
+            <div
+                itemscope=""
+                itemprop="mainEntity"
+                itemtype="https://schema.org/Question"
+                class="faq-question"
+            >
+                <h3 itemprop="name" class="faq-q">
+                    How to switch bus route direction?
+                </h3>
+                <div
+                    itemscope=""
+                    itemprop="acceptedAnswer"
+                    itemtype="https://schema.org/Answer"
+                >
+                    <p itemprop="text" class="faq-a">
+                        You can switch by clicking at switch button in bus route
+                        header.
+                    </p>
+                </div>
+            </div>
+
+            <div
+                itemscope=""
+                itemprop="mainEntity"
+                itemtype="https://schema.org/Question"
+                class="faq-question"
+            >
+                <h3 itemprop="name" class="faq-q">
+                    How to add bus route to favourites?
+                </h3>
+                <div
+                    itemscope=""
+                    itemprop="acceptedAnswer"
+                    itemtype="https://schema.org/Answer"
+                >
+                    <p itemprop="text" class="faq-a">
+                        Add bus route to favourites by clicking on heart icon in
+                        bus route screen.
+                    </p>
+                </div>
+            </div>
+
+            <div
+                itemscope=""
+                itemprop="mainEntity"
+                itemtype="https://schema.org/Question"
+                class="faq-question"
+            >
+                <h3 itemprop="name" class="faq-q">How to change language?</h3>
+                <div
+                    itemscope=""
+                    itemprop="acceptedAnswer"
+                    itemtype="https://schema.org/Answer"
+                >
+                    <p itemprop="text" class="faq-a">
+                        Navigate to settings tab and click language option and
+                        pick language.
+                    </p>
+                </div>
+            </div>
+
+            <div
+                itemscope=""
+                itemprop="mainEntity"
+                itemtype="https://schema.org/Question"
+                class="faq-question"
+            >
+                <h3 itemprop="name" class="faq-q">How to switch dark mode?</h3>
+                <div
+                    itemscope=""
+                    itemprop="acceptedAnswer"
+                    itemtype="https://schema.org/Answer"
+                >
+                    <p itemprop="text" class="faq-a">
+                        Navigate to settings tab and click switch dark mode.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <script>
+            jQuery(".faq-q").click(function () {
+                if (jQuery(this).siblings().find(".faq-a").is(":visible")) {
+                    jQuery(this).removeClass("faq-q-open");
+                    jQuery(this)
+                        .siblings()
+                        .find(".faq-a")
+                        .removeClass("faq-a-open")
+                        .slideUp();
+                } else {
+                    jQuery(this).addClass("faq-q-open");
+                    jQuery(this)
+                        .siblings()
+                        .find(".faq-a")
+                        .addClass("faq-a-open")
+                        .slideDown();
+                }
+            });
+        </script>
+    </body>
+</html>
