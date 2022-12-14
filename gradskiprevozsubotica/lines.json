@@ -1370,6 +1370,35 @@
         }
     },
     {
+        "id": "20",
+        "type": "BUS",
+        "title": "Subotica - Bikovo - Gabrić Selo",
+        "info": [
+            "B - od/do Bikova",
+            "Đ - Đački"
+        ],
+        "weekday": {
+            "starting_points_a": [
+                "08:15",
+                "14:05BĐ",
+                "18:40"
+            ],
+            "starting_points_b": []
+        },
+        "saturday": {
+            "starting_points_a": [],
+            "starting_points_b": []
+        },
+        "sunday": {
+            "starting_points_a": [],
+            "starting_points_b": [
+                "06:00B",
+                "09:00",
+                "19:35"
+            ]
+        }
+    },
+    {
         "id": "22",
         "type": "BUS",
         "title": "Subotica - Zorka - Kelebija",
