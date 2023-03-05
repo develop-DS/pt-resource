@@ -1,0 +1,138 @@
+{
+    "direction_a": [
+        {
+            "id": "_1",
+            "label": "BUL. JAŠE TOMIĆA - BUL. OSLOBOĐENJA",
+            "longitude": 19.831181344,
+            "latitude": 45.264414954
+        },
+        {
+            "id": "_4",
+            "label": "PUT ŠAJKAŠKOG ODREDA - BUTANGAS",
+            "longitude": 19.8541396629,
+            "latitude": 45.2801714789
+        },
+        {
+            "id": "_5",
+            "label": "PUT ŠAJKAŠKOG ODREDA - NAFTAGAS I",
+            "longitude": 19.860216648,
+            "latitude": 45.2801022232
+        },
+        {
+            "id": "_6",
+            "label": "PUT ŠAJKAŠKOG ODREDA - NAFTAGAS II",
+            "longitude": 19.8698335025,
+            "latitude": 45.2800445045
+        },
+        {
+            "id": "_7",
+            "label": "PUT ŠAJKAŠKOG ODREDA - HIDROSONDA",
+            "longitude": 19.8739061759,
+            "latitude": 45.2800159943
+        },
+        {
+            "id": "_2",
+            "label": "KISAČKA - PODVOŽNJAK",
+            "longitude": 19.834665763,
+            "latitude": 45.2665045391
+        },
+        {
+            "id": "_3",
+            "label": "PUT ŠAJKAŠKOG ODREDA - TEMERINSKA",
+            "longitude": 19.842795,
+            "latitude": 45.270255
+        },
+        {
+            "id": "_11",
+            "label": "RADNA ZONA IV- LEAR OKRETNICA",
+            "longitude": 19.871145,
+            "latitude": 45.289071
+        },
+        {
+            "id": "_8",
+            "label": "PUT ŠAJKAŠKOG ODREDA-HGP",
+            "longitude": 19.883784,
+            "latitude": 45.28094
+        },
+        {
+            "id": "_9",
+            "label": "RADNA ZONA IV-CONTINENTAL",
+            "longitude": 19.876262,
+            "latitude": 45.28835
+        },
+        {
+            "id": "_10",
+            "label": "RADNA ZONA IV -LEAR CORPORATION",
+            "longitude": 19.87358,
+            "latitude": 45.290313
+        }
+    ],
+    "direction_b": [
+        {
+            "id": "_10",
+            "label": "SENTANDREJSKI PUT - PARTIZANSKA",
+            "longitude": 19.8317437287,
+            "latitude": 45.2687779267
+        },
+        {
+            "id": "_5",
+            "label": "PUT ŠAJKAŠKOG ODREDA - HIDROSONDA",
+            "longitude": 19.8725659095,
+            "latitude": 45.2801291859
+        },
+        {
+            "id": "_6",
+            "label": "PUT ŠAJKAŠKOG ODREDA - NAFTAGAS II",
+            "longitude": 19.8687013766,
+            "latitude": 45.280162797
+        },
+        {
+            "id": "_7",
+            "label": "PUT ŠAJKAŠKOG ODREDA - NAFTAGAS I",
+            "longitude": 19.8594856773,
+            "latitude": 45.2802328142
+        },
+        {
+            "id": "_8",
+            "label": "PUT ŠAJKAŠKOG ODREDA - BUTANGAS",
+            "longitude": 19.8545442322,
+            "latitude": 45.2802887336
+        },
+        {
+            "id": "_9",
+            "label": "PARTIZANSKA - TEMERINSKA",
+            "longitude": 19.841061,
+            "latitude": 45.270261
+        },
+        {
+            "id": "_11",
+            "label": "DOLAZNI PERON",
+            "longitude": 19.830784,
+            "latitude": 45.26467
+        },
+        {
+            "id": "_1",
+            "label": "RADNA ZONA IV- LEAR OKRETNICA",
+            "longitude": 19.871145,
+            "latitude": 45.289071
+        },
+        {
+            "id": "_2",
+            "label": "RADNA ZONA IV-LEAR CORPORATION",
+            "longitude": 19.874696,
+            "latitude": 45.289864
+        },
+        {
+            "id": "_3",
+            "label": "RADNA ZONA IV-CONTINENTAL",
+            "longitude": 19.876241,
+            "latitude": 45.288166
+        },
+        {
+            "id": "_4",
+            "label": "PUT ŠAJKAŠKOG ODREDA-HGP",
+            "longitude": 19.883822,
+            "latitude": 45.281076
+        }
+    ]
+}
