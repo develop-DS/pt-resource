@@ -2,77 +2,179 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Trg Slavija",
-      "longitude": 20.4658913763059,
-      "latitude": 44.8027240093001
+      "label": "Trg Slavija (Bulevar oslobođenja)",
+      "longitude": 20.4660196131815,
+      "latitude": 44.8014232725427
     },
     {
       "id": "_2",
-      "label": "Trg Slavija (Nemanjina)",
-      "longitude": 20.4645643189521,
-      "latitude": 44.8032487975536
+      "label": "Karađorđev park",
+      "longitude": 20.4651954172747,
+      "latitude": 44.7970276562542
     },
     {
       "id": "_3",
-      "label": "Kneza Miloša",
-      "longitude": 20.461314907081,
-      "latitude": 44.8052350860987
+      "label": "Franše D'Eperea",
+      "longitude": 20.466428073984,
+      "latitude": 44.7927226092191
     },
     {
       "id": "_4",
-      "label": "Nemanjina",
-      "longitude": 20.4583623579774,
-      "latitude": 44.8078994480017
+      "label": "Trg oslobođenja",
+      "longitude": 20.4672988223481,
+      "latitude": 44.7862397716509
     },
     {
       "id": "_5",
-      "label": "Ekonomski fakultet",
-      "longitude": 20.4527682918772,
-      "latitude": 44.8107221552626
+      "label": "Vitanovačka",
+      "longitude": 20.4745825877532,
+      "latitude": 44.7770343908444
     },
     {
       "id": "_6",
-      "label": "Novi Beograd (Blok 20)",
-      "longitude": 20.4380491650084,
-      "latitude": 44.8112605381285
+      "label": "Petrovačka",
+      "longitude": 20.4756785760107,
+      "latitude": 44.7748723042334
+    },
+    {
+      "id": "_7",
+      "label": "Nikšićka",
+      "longitude": 20.4779177105912,
+      "latitude": 44.7714608699044
+    },
+    {
+      "id": "_8",
+      "label": "Visoka škola elektrotehnike",
+      "longitude": 20.4794926165984,
+      "latitude": 44.7685539560792
+    },
+    {
+      "id": "_9",
+      "label": "Voždovac",
+      "longitude": 20.4840977688354,
+      "latitude": 44.7612454761128
+    },
+    {
+      "id": "_10",
+      "label": "Bebelova",
+      "longitude": 20.4832383922184,
+      "latitude": 44.7584445320514
+    },
+    {
+      "id": "_11",
+      "label": "Vračarska 1",
+      "longitude": 20.4809740744214,
+      "latitude": 44.7572553547893
+    },
+    {
+      "id": "_12",
+      "label": "Baštovanska",
+      "longitude": 20.4769166183889,
+      "latitude": 44.7563225830384
+    },
+    {
+      "id": "_13",
+      "label": "Banjica 2",
+      "longitude": 20.4800463956474,
+      "latitude": 44.7518045990063
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Novi Beograd (Blok 20)",
-      "longitude": 20.4380491650084,
-      "latitude": 44.8112605381285
+      "label": "Banjica 2",
+      "longitude": 20.4800463956474,
+      "latitude": 44.7518045990063
     },
     {
       "id": "_2",
-      "label": "Ekonomski fakultet",
-      "longitude": 20.454085060951,
-      "latitude": 44.8107842250184
+      "label": "Kragujevačkih đaka",
+      "longitude": 20.4770363141633,
+      "latitude": 44.754807593616
     },
     {
       "id": "_3",
-      "label": "Savski trg",
-      "longitude": 20.4578441127691,
-      "latitude": 44.8070780430471
+      "label": "Baštovanska",
+      "longitude": 20.4772006355453,
+      "latitude": 44.7570456461003
     },
     {
       "id": "_4",
-      "label": "Kneza Miloša",
-      "longitude": 20.4606080823449,
-      "latitude": 44.8053901574623
+      "label": "Vračarska 1",
+      "longitude": 20.4812648919483,
+      "latitude": 44.7570934613113
     },
     {
       "id": "_5",
-      "label": "Trg Slavija (Nemanjina)",
-      "longitude": 20.4645567418167,
-      "latitude": 44.8029733763053
+      "label": "Bebelova",
+      "longitude": 20.4833778557325,
+      "latitude": 44.7583857624971
     },
     {
       "id": "_6",
-      "label": "Trg Slavija",
-      "longitude": 20.4658913763059,
-      "latitude": 44.8027240093001
+      "label": "Voždovac",
+      "longitude": 20.4842612738022,
+      "latitude": 44.7613254074882
+    },
+    {
+      "id": "_7",
+      "label": "Saobraćajni fakultet",
+      "longitude": 20.4823006160142,
+      "latitude": 44.7658973770496
+    },
+    {
+      "id": "_8",
+      "label": "Visoka škola elektrotehnike",
+      "longitude": 20.4795392541324,
+      "latitude": 44.7687071606744
+    },
+    {
+      "id": "_9",
+      "label": "Nikšićka",
+      "longitude": 20.4772010711223,
+      "latitude": 44.7730415348957
+    },
+    {
+      "id": "_10",
+      "label": "Vitanovačka",
+      "longitude": 20.474630576442,
+      "latitude": 44.7773171973497
+    },
+    {
+      "id": "_11",
+      "label": "Kralja Vladimira",
+      "longitude": 20.4718924358984,
+      "latitude": 44.7816442248745
+    },
+    {
+      "id": "_12",
+      "label": "Bože Jankovića",
+      "longitude": 20.470332526245,
+      "latitude": 44.7836547393734
+    },
+    {
+      "id": "_13",
+      "label": "Trg oslobođenja",
+      "longitude": 20.4664128286546,
+      "latitude": 44.787218407701
+    },
+    {
+      "id": "_14",
+      "label": "Franše D'Eperea",
+      "longitude": 20.4666800433672,
+      "latitude": 44.7928101762883
+    },
+    {
+      "id": "_15",
+      "label": "Karađorđev park",
+      "longitude": 20.4657590648182,
+      "latitude": 44.7982550256383
+    },
+    {
+      "id": "_16",
+      "label": "Trg Slavija (Bulevar oslobođenja)",
+      "longitude": 20.4664336279974,
+      "latitude": 44.8017635811315
     }
   ]
 }

@@ -1,0 +1,870 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Vrčin (Avalski put)",
+      "longitude": 20.543950788423,
+      "latitude": 44.6626590570197
+    },
+    {
+      "id": "_2",
+      "label": "Solinska bara",
+      "longitude": 20.55109081598,
+      "latitude": 44.6616670227313
+    },
+    {
+      "id": "_3",
+      "label": "Jaričište (Stepe Stepanovića)",
+      "longitude": 20.5577963231084,
+      "latitude": 44.6608237802397
+    },
+    {
+      "id": "_4",
+      "label": "Feroplast",
+      "longitude": 20.5651295287814,
+      "latitude": 44.6623538175082
+    },
+    {
+      "id": "_5",
+      "label": "Jaričište (Petra Kočića)",
+      "longitude": 20.5702095273625,
+      "latitude": 44.66233092448
+    },
+    {
+      "id": "_6",
+      "label": "Jaričište (pruga)",
+      "longitude": 20.5772370177065,
+      "latitude": 44.6628574618404
+    },
+    {
+      "id": "_7",
+      "label": "Stadion",
+      "longitude": 20.585111957693,
+      "latitude": 44.6649635634605
+    },
+    {
+      "id": "_8",
+      "label": "Vrčin - Centar",
+      "longitude": 20.591533132689,
+      "latitude": 44.6634870111028
+    },
+    {
+      "id": "_9",
+      "label": "Save Kovačevića",
+      "longitude": 20.5944729095017,
+      "latitude": 44.6678631433965
+    },
+    {
+      "id": "_10",
+      "label": "Vrčin",
+      "longitude": 20.5962735405151,
+      "latitude": 44.6716078663008
+    },
+    {
+      "id": "_11",
+      "label": "Vrčin (nadvožnjak)",
+      "longitude": 20.6024139145673,
+      "latitude": 44.6748421796977
+    },
+    {
+      "id": "_12",
+      "label": "Vrčin (Gornji kraj)",
+      "longitude": 20.6154327922207,
+      "latitude": 44.6756424483194
+    },
+    {
+      "id": "_13",
+      "label": "17. januara",
+      "longitude": 20.6227257163337,
+      "latitude": 44.6787715200817
+    },
+    {
+      "id": "_14",
+      "label": "Jankovića kraj",
+      "longitude": 20.6284004748727,
+      "latitude": 44.6790005926674
+    },
+    {
+      "id": "_15",
+      "label": "Zaklopača (Ćelije)",
+      "longitude": 20.648770514022,
+      "latitude": 44.6783824210711
+    },
+    {
+      "id": "_16",
+      "label": "Zaklopača",
+      "longitude": 20.6527110381846,
+      "latitude": 44.6754046705815
+    },
+    {
+      "id": "_17",
+      "label": "Crkva Sv. Trojice",
+      "longitude": 20.656452221749,
+      "latitude": 44.6753799034484
+    },
+    {
+      "id": "_18",
+      "label": "Dom kulture",
+      "longitude": 20.6609721307206,
+      "latitude": 44.6763580819132
+    },
+    {
+      "id": "_19",
+      "label": "Trafostanica",
+      "longitude": 20.6626026113329,
+      "latitude": 44.6801535633185
+    },
+    {
+      "id": "_20",
+      "label": "4. jula",
+      "longitude": 20.6620653875364,
+      "latitude": 44.6849398434179
+    },
+    {
+      "id": "_21",
+      "label": "Put za Zaklopaču",
+      "longitude": 20.6691906592787,
+      "latitude": 44.6974053541038
+    },
+    {
+      "id": "_22",
+      "label": "Šumadijska",
+      "longitude": 20.7161887476849,
+      "latitude": 44.6736040990882
+    },
+    {
+      "id": "_23",
+      "label": "Alaska koliba",
+      "longitude": 20.7346074322125,
+      "latitude": 44.662281322888
+    },
+    {
+      "id": "_24",
+      "label": "Brestovik - Vikend naselje",
+      "longitude": 20.7453685766738,
+      "latitude": 44.6562906647353
+    },
+    {
+      "id": "_25",
+      "label": "Brestovik R",
+      "longitude": 20.7579374159267,
+      "latitude": 44.6476660827882
+    },
+    {
+      "id": "_26",
+      "label": "Institut",
+      "longitude": 20.7512157911743,
+      "latitude": 44.6422464415769
+    },
+    {
+      "id": "_27",
+      "label": "Bukovača",
+      "longitude": 20.7422626109911,
+      "latitude": 44.6215631871713
+    },
+    {
+      "id": "_28",
+      "label": "Trajna jaruga - Okretnica",
+      "longitude": 20.7650318277442,
+      "latitude": 44.6223936370169
+    },
+    {
+      "id": "_29",
+      "label": "Kamendol - Centar",
+      "longitude": 20.7555618286133,
+      "latitude": 44.614086151123
+    },
+    {
+      "id": "_30",
+      "label": "Kamendol izlaz - Pesak",
+      "longitude": 20.7454319000244,
+      "latitude": 44.6107368469238
+    },
+    {
+      "id": "_31",
+      "label": "Kamendol R",
+      "longitude": 20.7285003662109,
+      "latitude": 44.6149711608887
+    },
+    {
+      "id": "_32",
+      "label": "Pudarci - Trafo",
+      "longitude": 20.7238143399986,
+      "latitude": 44.6133038601662
+    },
+    {
+      "id": "_33",
+      "label": "Ilinski kraj - Ulaz",
+      "longitude": 20.7188205718994,
+      "latitude": 44.609748840332
+    },
+    {
+      "id": "_34",
+      "label": "Ilinski kraj - Okretnica",
+      "longitude": 20.7128011897835,
+      "latitude": 44.5969115553738
+    },
+    {
+      "id": "_35",
+      "label": "Ilinski kraj - Ulaz",
+      "longitude": 20.7195442966325,
+      "latitude": 44.6103022603053
+    },
+    {
+      "id": "_36",
+      "label": "Pudarci - Trafo",
+      "longitude": 20.7225215075491,
+      "latitude": 44.6124866460561
+    },
+    {
+      "id": "_37",
+      "label": "Manastir Rajinovac",
+      "longitude": 20.7131150480441,
+      "latitude": 44.6260322036451
+    },
+    {
+      "id": "_38",
+      "label": "Begaljica (Donji kraj)",
+      "longitude": 20.7061278922763,
+      "latitude": 44.6303978008043
+    },
+    {
+      "id": "_39",
+      "label": "Begaljica",
+      "longitude": 20.6951004118232,
+      "latitude": 44.6323384367321
+    },
+    {
+      "id": "_40",
+      "label": "Ulica revolucije",
+      "longitude": 20.6987056055545,
+      "latitude": 44.6342018847237
+    },
+    {
+      "id": "_41",
+      "label": "Zelengora",
+      "longitude": 20.7026864547294,
+      "latitude": 44.6380947439173
+    },
+    {
+      "id": "_42",
+      "label": "Borisa Kidriča",
+      "longitude": 20.7042839608573,
+      "latitude": 44.6432611392001
+    },
+    {
+      "id": "_43",
+      "label": "Begaljica (ulaz)",
+      "longitude": 20.7044661244382,
+      "latitude": 44.6456393513552
+    },
+    {
+      "id": "_44",
+      "label": "Vinogradi",
+      "longitude": 20.7056130202227,
+      "latitude": 44.6522373292479
+    },
+    {
+      "id": "_45",
+      "label": "Begaljički most",
+      "longitude": 20.7072859708231,
+      "latitude": 44.6565632839341
+    },
+    {
+      "id": "_46",
+      "label": "Bosansko naselje",
+      "longitude": 20.7070732799602,
+      "latitude": 44.6602724479822
+    },
+    {
+      "id": "_47",
+      "label": "15. maja",
+      "longitude": 20.7088479698753,
+      "latitude": 44.664494235146
+    },
+    {
+      "id": "_48",
+      "label": "Kosmajska",
+      "longitude": 20.7132692199577,
+      "latitude": 44.6676048384449
+    },
+    {
+      "id": "_49",
+      "label": "Grocka",
+      "longitude": 20.7176818665969,
+      "latitude": 44.670504653697
+    },
+    {
+      "id": "_50",
+      "label": "Šumadijska",
+      "longitude": 20.7156234631521,
+      "latitude": 44.6741732893128
+    },
+    {
+      "id": "_51",
+      "label": "Put za Zaklopaču",
+      "longitude": 20.6683294526992,
+      "latitude": 44.6975234715595
+    },
+    {
+      "id": "_52",
+      "label": "4. jula",
+      "longitude": 20.6620080120882,
+      "latitude": 44.6852636650538
+    },
+    {
+      "id": "_53",
+      "label": "Trafostanica",
+      "longitude": 20.6626867689051,
+      "latitude": 44.6804346017307
+    },
+    {
+      "id": "_54",
+      "label": "Dom kulture",
+      "longitude": 20.6598835217223,
+      "latitude": 44.6761550751713
+    },
+    {
+      "id": "_55",
+      "label": "Crkva Sv. Trojice",
+      "longitude": 20.6564616786851,
+      "latitude": 44.6754879285817
+    },
+    {
+      "id": "_56",
+      "label": "Zaklopača",
+      "longitude": 20.6518546566915,
+      "latitude": 44.6756090763521
+    },
+    {
+      "id": "_57",
+      "label": "Zaklopača (Ćelije)",
+      "longitude": 20.6484187125925,
+      "latitude": 44.6794127161764
+    },
+    {
+      "id": "_58",
+      "label": "Jankovića kraj",
+      "longitude": 20.6281952771933,
+      "latitude": 44.6791349254253
+    },
+    {
+      "id": "_59",
+      "label": "17. januara",
+      "longitude": 20.6218716928505,
+      "latitude": 44.6785869200388
+    },
+    {
+      "id": "_60",
+      "label": "Vrčin (Gornji kraj)",
+      "longitude": 20.615656958201,
+      "latitude": 44.6756953964329
+    },
+    {
+      "id": "_61",
+      "label": "Vrčin (nadvožnjak)",
+      "longitude": 20.6020911651879,
+      "latitude": 44.6748212634166
+    },
+    {
+      "id": "_62",
+      "label": "Vrčin (Ivo Lola Ribar)",
+      "longitude": 20.5992131251396,
+      "latitude": 44.6733137066181
+    },
+    {
+      "id": "_63",
+      "label": "Vrčin (pijaca)",
+      "longitude": 20.5959358215332,
+      "latitude": 44.6716651916504
+    },
+    {
+      "id": "_64",
+      "label": "Save Kovačevića",
+      "longitude": 20.5942421846942,
+      "latitude": 44.6675693767692
+    },
+    {
+      "id": "_65",
+      "label": "Vrčin - Centar",
+      "longitude": 20.5917612510199,
+      "latitude": 44.6634660262375
+    },
+    {
+      "id": "_66",
+      "label": "Stadion",
+      "longitude": 20.585541123976,
+      "latitude": 44.6650055320993
+    },
+    {
+      "id": "_67",
+      "label": "Jaričište (pruga)",
+      "longitude": 20.577526714257,
+      "latitude": 44.6630596814396
+    },
+    {
+      "id": "_68",
+      "label": "Jaričište (Petra Kočića)",
+      "longitude": 20.5706173746522,
+      "latitude": 44.6624644670168
+    },
+    {
+      "id": "_69",
+      "label": "Feroplast",
+      "longitude": 20.565049041966,
+      "latitude": 44.6624988064765
+    },
+    {
+      "id": "_70",
+      "label": "Jaričište (Stepe Stepanovića)",
+      "longitude": 20.5576622486115,
+      "latitude": 44.6609496950558
+    },
+    {
+      "id": "_71",
+      "label": "Solinska bara",
+      "longitude": 20.5508601485728,
+      "latitude": 44.6618616154108
+    },
+    {
+      "id": "_72",
+      "label": "Vrčin (Avalski put)",
+      "longitude": 20.5439830288618,
+      "latitude": 44.6628078606989
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Vrčin (Avalski put)",
+      "longitude": 20.543950788423,
+      "latitude": 44.6626590570197
+    },
+    {
+      "id": "_2",
+      "label": "Solinska bara",
+      "longitude": 20.55109081598,
+      "latitude": 44.6616670227313
+    },
+    {
+      "id": "_3",
+      "label": "Jaričište (Stepe Stepanovića)",
+      "longitude": 20.5577963231084,
+      "latitude": 44.6608237802397
+    },
+    {
+      "id": "_4",
+      "label": "Feroplast",
+      "longitude": 20.5651295287814,
+      "latitude": 44.6623538175082
+    },
+    {
+      "id": "_5",
+      "label": "Jaričište (Petra Kočića)",
+      "longitude": 20.5702095273625,
+      "latitude": 44.66233092448
+    },
+    {
+      "id": "_6",
+      "label": "Jaričište (pruga)",
+      "longitude": 20.5772370177065,
+      "latitude": 44.6628574618404
+    },
+    {
+      "id": "_7",
+      "label": "Stadion",
+      "longitude": 20.585111957693,
+      "latitude": 44.6649635634605
+    },
+    {
+      "id": "_8",
+      "label": "Vrčin - Centar",
+      "longitude": 20.591533132689,
+      "latitude": 44.6634870111028
+    },
+    {
+      "id": "_9",
+      "label": "Save Kovačevića",
+      "longitude": 20.5944729095017,
+      "latitude": 44.6678631433965
+    },
+    {
+      "id": "_10",
+      "label": "Vrčin",
+      "longitude": 20.5962735405151,
+      "latitude": 44.6716078663008
+    },
+    {
+      "id": "_11",
+      "label": "Vrčin (nadvožnjak)",
+      "longitude": 20.6024139145673,
+      "latitude": 44.6748421796977
+    },
+    {
+      "id": "_12",
+      "label": "Vrčin (Gornji kraj)",
+      "longitude": 20.6154327922207,
+      "latitude": 44.6756424483194
+    },
+    {
+      "id": "_13",
+      "label": "17. januara",
+      "longitude": 20.6227257163337,
+      "latitude": 44.6787715200817
+    },
+    {
+      "id": "_14",
+      "label": "Jankovića kraj",
+      "longitude": 20.6284004748727,
+      "latitude": 44.6790005926674
+    },
+    {
+      "id": "_15",
+      "label": "Zaklopača (Ćelije)",
+      "longitude": 20.648770514022,
+      "latitude": 44.6783824210711
+    },
+    {
+      "id": "_16",
+      "label": "Zaklopača",
+      "longitude": 20.6527110381846,
+      "latitude": 44.6754046705815
+    },
+    {
+      "id": "_17",
+      "label": "Crkva Sv. Trojice",
+      "longitude": 20.656452221749,
+      "latitude": 44.6753799034484
+    },
+    {
+      "id": "_18",
+      "label": "Dom kulture",
+      "longitude": 20.6609721307206,
+      "latitude": 44.6763580819132
+    },
+    {
+      "id": "_19",
+      "label": "Trafostanica",
+      "longitude": 20.6626026113329,
+      "latitude": 44.6801535633185
+    },
+    {
+      "id": "_20",
+      "label": "4. jula",
+      "longitude": 20.6620653875364,
+      "latitude": 44.6849398434179
+    },
+    {
+      "id": "_21",
+      "label": "Put za Zaklopaču",
+      "longitude": 20.6691906592787,
+      "latitude": 44.6974053541038
+    },
+    {
+      "id": "_22",
+      "label": "Šumadijska",
+      "longitude": 20.7161887476849,
+      "latitude": 44.6736040990882
+    },
+    {
+      "id": "_23",
+      "label": "JA",
+      "longitude": 20.7168630641766,
+      "latitude": 44.6697790650275
+    },
+    {
+      "id": "_24",
+      "label": "Kosmajska",
+      "longitude": 20.7128938896208,
+      "latitude": 44.6675049065848
+    },
+    {
+      "id": "_25",
+      "label": "15. maja",
+      "longitude": 20.7092662729652,
+      "latitude": 44.6650784758082
+    },
+    {
+      "id": "_26",
+      "label": "Bosansko naselje",
+      "longitude": 20.7068476821934,
+      "latitude": 44.6599964813213
+    },
+    {
+      "id": "_27",
+      "label": "Begaljički most",
+      "longitude": 20.7068994704516,
+      "latitude": 44.6561915106915
+    },
+    {
+      "id": "_28",
+      "label": "Vinogradi",
+      "longitude": 20.7055100711138,
+      "latitude": 44.6526528558747
+    },
+    {
+      "id": "_29",
+      "label": "Begaljica (ulaz)",
+      "longitude": 20.7041544184018,
+      "latitude": 44.6454531556266
+    },
+    {
+      "id": "_30",
+      "label": "Borisa Kidriča",
+      "longitude": 20.7040838894977,
+      "latitude": 44.6429384328611
+    },
+    {
+      "id": "_31",
+      "label": "Zelengora",
+      "longitude": 20.7023667026849,
+      "latitude": 44.6380129199888
+    },
+    {
+      "id": "_32",
+      "label": "Ulica revolucije",
+      "longitude": 20.6987097144397,
+      "latitude": 44.6343836915652
+    },
+    {
+      "id": "_33",
+      "label": "Begaljica",
+      "longitude": 20.6951004118232,
+      "latitude": 44.6323384367321
+    },
+    {
+      "id": "_34",
+      "label": "Begaljica (Donji kraj)",
+      "longitude": 20.7063746323925,
+      "latitude": 44.6300542152059
+    },
+    {
+      "id": "_35",
+      "label": "Manastir Rajinovac",
+      "longitude": 20.7133859614271,
+      "latitude": 44.6254308822887
+    },
+    {
+      "id": "_36",
+      "label": "Pudarci - Trafo",
+      "longitude": 20.7224625117914,
+      "latitude": 44.6123071629123
+    },
+    {
+      "id": "_37",
+      "label": "Ilinski kraj - Ulaz",
+      "longitude": 20.7188205718994,
+      "latitude": 44.609748840332
+    },
+    {
+      "id": "_38",
+      "label": "Ilinski kraj - Okretnica",
+      "longitude": 20.7128011897835,
+      "latitude": 44.5969115553738
+    },
+    {
+      "id": "_39",
+      "label": "Ilinski kraj - Ulaz",
+      "longitude": 20.7195442966325,
+      "latitude": 44.6103022603053
+    },
+    {
+      "id": "_40",
+      "label": "Pudarci - Trafo",
+      "longitude": 20.7241684320229,
+      "latitude": 44.6134680653523
+    },
+    {
+      "id": "_41",
+      "label": "Kamendol R",
+      "longitude": 20.7282371520996,
+      "latitude": 44.6149101257324
+    },
+    {
+      "id": "_42",
+      "label": "Kamendol ulaz - Pesak",
+      "longitude": 20.7454919891219,
+      "latitude": 44.6106803329491
+    },
+    {
+      "id": "_43",
+      "label": "Kamendol - Centar",
+      "longitude": 20.7555294036865,
+      "latitude": 44.6139678955078
+    },
+    {
+      "id": "_44",
+      "label": "Trajna jaruga - Okretnica",
+      "longitude": 20.7651284306581,
+      "latitude": 44.6223630919457
+    },
+    {
+      "id": "_45",
+      "label": "Bukovača",
+      "longitude": 20.7422734098906,
+      "latitude": 44.6218533686974
+    },
+    {
+      "id": "_46",
+      "label": "Institut",
+      "longitude": 20.7513928687552,
+      "latitude": 44.6423609462747
+    },
+    {
+      "id": "_47",
+      "label": "Brestovik R",
+      "longitude": 20.7579320973798,
+      "latitude": 44.6475477720834
+    },
+    {
+      "id": "_48",
+      "label": "Brestovik - Vikend naselje",
+      "longitude": 20.7456073760986,
+      "latitude": 44.6562461853027
+    },
+    {
+      "id": "_49",
+      "label": "Alaska koliba",
+      "longitude": 20.7349414825439,
+      "latitude": 44.6623382568359
+    },
+    {
+      "id": "_50",
+      "label": "Šumadijska",
+      "longitude": 20.7156234631521,
+      "latitude": 44.6741732893128
+    },
+    {
+      "id": "_51",
+      "label": "Put za Zaklopaču",
+      "longitude": 20.6683294526992,
+      "latitude": 44.6975234715595
+    },
+    {
+      "id": "_52",
+      "label": "4. jula",
+      "longitude": 20.6620080120882,
+      "latitude": 44.6852636650538
+    },
+    {
+      "id": "_53",
+      "label": "Trafostanica",
+      "longitude": 20.6626867689051,
+      "latitude": 44.6804346017307
+    },
+    {
+      "id": "_54",
+      "label": "Dom kulture",
+      "longitude": 20.6598835217223,
+      "latitude": 44.6761550751713
+    },
+    {
+      "id": "_55",
+      "label": "Crkva Sv. Trojice",
+      "longitude": 20.6564616786851,
+      "latitude": 44.6754879285817
+    },
+    {
+      "id": "_56",
+      "label": "Zaklopača",
+      "longitude": 20.6518546566915,
+      "latitude": 44.6756090763521
+    },
+    {
+      "id": "_57",
+      "label": "Zaklopača (Ćelije)",
+      "longitude": 20.6484187125925,
+      "latitude": 44.6794127161764
+    },
+    {
+      "id": "_58",
+      "label": "Jankovića kraj",
+      "longitude": 20.6281952771933,
+      "latitude": 44.6791349254253
+    },
+    {
+      "id": "_59",
+      "label": "17. januara",
+      "longitude": 20.6218716928505,
+      "latitude": 44.6785869200388
+    },
+    {
+      "id": "_60",
+      "label": "Vrčin (Gornji kraj)",
+      "longitude": 20.615656958201,
+      "latitude": 44.6756953964329
+    },
+    {
+      "id": "_61",
+      "label": "Vrčin (nadvožnjak)",
+      "longitude": 20.6020911651879,
+      "latitude": 44.6748212634166
+    },
+    {
+      "id": "_62",
+      "label": "Vrčin (Ivo Lola Ribar)",
+      "longitude": 20.5992131251396,
+      "latitude": 44.6733137066181
+    },
+    {
+      "id": "_63",
+      "label": "Vrčin (pijaca)",
+      "longitude": 20.5959358215332,
+      "latitude": 44.6716651916504
+    },
+    {
+      "id": "_64",
+      "label": "Save Kovačevića",
+      "longitude": 20.5942421846942,
+      "latitude": 44.6675693767692
+    },
+    {
+      "id": "_65",
+      "label": "Vrčin - Centar",
+      "longitude": 20.5917612510199,
+      "latitude": 44.6634660262375
+    },
+    {
+      "id": "_66",
+      "label": "Stadion",
+      "longitude": 20.585541123976,
+      "latitude": 44.6650055320993
+    },
+    {
+      "id": "_67",
+      "label": "Jaričište (pruga)",
+      "longitude": 20.577526714257,
+      "latitude": 44.6630596814396
+    },
+    {
+      "id": "_68",
+      "label": "Jaričište (Petra Kočića)",
+      "longitude": 20.5706173746522,
+      "latitude": 44.6624644670168
+    },
+    {
+      "id": "_69",
+      "label": "Feroplast",
+      "longitude": 20.565049041966,
+      "latitude": 44.6624988064765
+    },
+    {
+      "id": "_70",
+      "label": "Jaričište (Stepe Stepanovića)",
+      "longitude": 20.5576622486115,
+      "latitude": 44.6609496950558
+    },
+    {
+      "id": "_71",
+      "label": "Solinska bara",
+      "longitude": 20.5508601485728,
+      "latitude": 44.6618616154108
+    },
+    {
+      "id": "_72",
+      "label": "Vrčin (Avalski put)",
+      "longitude": 20.5439830288618,
+      "latitude": 44.6628078606989
+    }
+  ]
+}

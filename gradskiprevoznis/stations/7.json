@@ -2,60 +2,90 @@
   "direction_a": [
     {
       "id": "_1",
+      "label": "Sarajevska - ložionica",
+      "longitude": 21.8749702071089,
+      "latitude": 43.3318115001468
+    },
+    {
+      "id": "_2",
+      "label": "Lipovačka",
+      "longitude": 21.8792644166682,
+      "latitude": 43.3312105839296
+    },
+    {
+      "id": "_3",
+      "label": "Logor",
+      "longitude": 21.8868925225776,
+      "latitude": 43.3293582215928
+    },
+    {
+      "id": "_4",
+      "label": "Autobuska stanica",
+      "longitude": 21.8900510173565,
+      "latitude": 43.3237524972742
+    },
+    {
+      "id": "_5",
+      "label": "Ured",
+      "longitude": 21.8913006731576,
+      "latitude": 43.3193390516789
+    },
+    {
+      "id": "_6",
       "label": "Trg Pavla Stojkovića",
       "longitude": 21.8919873863238,
       "latitude": 43.3174054938887
     },
     {
-      "id": "_2",
+      "id": "_7",
       "label": "Marger",
       "longitude": 21.8945342751719,
       "latitude": 43.3158840433485
     },
     {
-      "id": "_3",
+      "id": "_8",
       "label": "Staro groblje",
       "longitude": 21.8927902896728,
       "latitude": 43.3121367463919
     },
     {
-      "id": "_4",
+      "id": "_9",
       "label": "Čarnojevića",
       "longitude": 21.888719878665,
       "latitude": 43.3128202683513
     },
     {
-      "id": "_5",
+      "id": "_10",
       "label": "Fakultet zaštite na radu",
       "longitude": 21.8877052799425,
       "latitude": 43.3112132419539
     },
     {
-      "id": "_6",
+      "id": "_11",
       "label": "Rudnička",
       "longitude": 21.883886822319,
       "latitude": 43.3110808653646
     },
     {
-      "id": "_7",
+      "id": "_12",
       "label": "Durmitorska 1",
       "longitude": 21.884451845641,
       "latitude": 43.3090762783039
     },
     {
-      "id": "_8",
+      "id": "_13",
       "label": "Durmitorska 2",
       "longitude": 21.8859382229003,
       "latitude": 43.3075362308094
     },
     {
-      "id": "_9",
+      "id": "_14",
       "label": "Svetislava Trgojevića",
       "longitude": 21.885594443666,
       "latitude": 43.3057673393822
     },
     {
-      "id": "_10",
+      "id": "_15",
       "label": "Dragčeta Milovanovića (terminus)",
       "longitude": 21.8828677655228,
       "latitude": 43.3069479153606
@@ -121,6 +151,36 @@
       "label": "Trg Pavla Stojkovića",
       "longitude": 21.8922247453321,
       "latitude": 43.3176178805745
+    },
+    {
+      "id": "_11",
+      "label": "Trg kralja Aleksandra",
+      "longitude": 21.8918020230148,
+      "latitude": 43.3183845408261
+    },
+    {
+      "id": "_12",
+      "label": "Autobuska stanica",
+      "longitude": 21.8902451533189,
+      "latitude": 43.3252218774593
+    },
+    {
+      "id": "_13",
+      "label": "Logor",
+      "longitude": 21.8875487349086,
+      "latitude": 43.3290344529612
+    },
+    {
+      "id": "_14",
+      "label": "Lipovačka",
+      "longitude": 21.8789774250193,
+      "latitude": 43.3313666666355
+    },
+    {
+      "id": "_15",
+      "label": "Sarajevska - ložionica",
+      "longitude": 21.8751373291016,
+      "latitude": 43.3319282531738
     }
   ]
 }

@@ -1,0 +1,228 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Lazarevac AS",
+      "longitude": 20.2642204355983,
+      "latitude": 44.3791656580426
+    },
+    {
+      "id": "_2",
+      "label": "Lazarevac (centar)",
+      "longitude": 20.2593684453285,
+      "latitude": 44.3805995918902
+    },
+    {
+      "id": "_3",
+      "label": "Lazarevac - Rampa",
+      "longitude": 20.2542936878954,
+      "latitude": 44.3862391353889
+    },
+    {
+      "id": "_4",
+      "label": "Šopić - Dom",
+      "longitude": 20.2522713100026,
+      "latitude": 44.3917976370545
+    },
+    {
+      "id": "_5",
+      "label": "Šopić - Krivaja",
+      "longitude": 20.258156112535,
+      "latitude": 44.4032043290209
+    },
+    {
+      "id": "_6",
+      "label": "Staklenik",
+      "longitude": 20.2719050954003,
+      "latitude": 44.4135052363069
+    },
+    {
+      "id": "_7",
+      "label": "Peštan",
+      "longitude": 20.2772748650075,
+      "latitude": 44.4202948720428
+    },
+    {
+      "id": "_8",
+      "label": "Vreoci - Zavod",
+      "longitude": 20.2795761926379,
+      "latitude": 44.4301062651598
+    },
+    {
+      "id": "_9",
+      "label": "Vreoci - Sušara",
+      "longitude": 20.2797585828509,
+      "latitude": 44.433339334995
+    },
+    {
+      "id": "_10",
+      "label": "Vreoci - Dom",
+      "longitude": 20.2825695507392,
+      "latitude": 44.4427732070176
+    },
+    {
+      "id": "_11",
+      "label": "Vreoci - Stara toplana",
+      "longitude": 20.2816844294686,
+      "latitude": 44.4485867470762
+    },
+    {
+      "id": "_12",
+      "label": "Vreoci - Vaga",
+      "longitude": 20.2827948845458,
+      "latitude": 44.4534270926003
+    },
+    {
+      "id": "_13",
+      "label": "Veliki crljeni - Dom",
+      "longitude": 20.2841466845037,
+      "latitude": 44.4672604567474
+    },
+    {
+      "id": "_14",
+      "label": "Veliki Crljeni - Vaga",
+      "longitude": 20.2902138310228,
+      "latitude": 44.4772208991646
+    },
+    {
+      "id": "_15",
+      "label": "Termoelektrana",
+      "longitude": 20.2901280003344,
+      "latitude": 44.4803365378298
+    },
+    {
+      "id": "_16",
+      "label": "Veliki Crljeni - Matića kuća",
+      "longitude": 20.2914316052781,
+      "latitude": 44.4884769852247
+    },
+    {
+      "id": "_17",
+      "label": "Stepojevac - Železnička stanica",
+      "longitude": 20.2929443300725,
+      "latitude": 44.4968573590973
+    },
+    {
+      "id": "_18",
+      "label": "Stepojevac - pijaca",
+      "longitude": 20.2946609130246,
+      "latitude": 44.5135724160142
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Stepojevac - pijaca",
+      "longitude": 20.294795059429,
+      "latitude": 44.5136565721748
+    },
+    {
+      "id": "_2",
+      "label": "Stepojevac",
+      "longitude": 20.2946716148953,
+      "latitude": 44.5125854846983
+    },
+    {
+      "id": "_3",
+      "label": "Stepojevac - Železnička stanica",
+      "longitude": 20.2927457849704,
+      "latitude": 44.496822921669
+    },
+    {
+      "id": "_4",
+      "label": "Veliki Crljeni - Matića kuća",
+      "longitude": 20.2913134699477,
+      "latitude": 44.488714254382
+    },
+    {
+      "id": "_5",
+      "label": "Termoelektrana",
+      "longitude": 20.289945581872,
+      "latitude": 44.4803327103659
+    },
+    {
+      "id": "_6",
+      "label": "Veliki Crljeni - Vaga",
+      "longitude": 20.2900743150641,
+      "latitude": 44.477071619917
+    },
+    {
+      "id": "_7",
+      "label": "Veliki crljeni - Dom",
+      "longitude": 20.2840607998846,
+      "latitude": 44.4674135894041
+    },
+    {
+      "id": "_8",
+      "label": "Vreoci - Vaga",
+      "longitude": 20.2824407071177,
+      "latitude": 44.4528948273995
+    },
+    {
+      "id": "_9",
+      "label": "Vreoci - Stara toplana",
+      "longitude": 20.2815227508545,
+      "latitude": 44.448356628418
+    },
+    {
+      "id": "_10",
+      "label": "Vreoci - Dom",
+      "longitude": 20.2823737237998,
+      "latitude": 44.4434281208813
+    },
+    {
+      "id": "_11",
+      "label": "Vreoci - Sušara",
+      "longitude": 20.2796297109801,
+      "latitude": 44.4340824560989
+    },
+    {
+      "id": "_12",
+      "label": "Vreoci - Zavod",
+      "longitude": 20.2790879869391,
+      "latitude": 44.4286045889612
+    },
+    {
+      "id": "_13",
+      "label": "Peštan",
+      "longitude": 20.2771675304207,
+      "latitude": 44.4204711161966
+    },
+    {
+      "id": "_14",
+      "label": "Staklenik",
+      "longitude": 20.2715295167989,
+      "latitude": 44.4133711215667
+    },
+    {
+      "id": "_15",
+      "label": "Šopić - Krivaja",
+      "longitude": 20.2568149412563,
+      "latitude": 44.4022078652796
+    },
+    {
+      "id": "_16",
+      "label": "Šopić - Dom",
+      "longitude": 20.2520727777411,
+      "latitude": 44.3924569553333
+    },
+    {
+      "id": "_17",
+      "label": "Lazarevac - Rampa",
+      "longitude": 20.2538108466146,
+      "latitude": 44.3866608333294
+    },
+    {
+      "id": "_18",
+      "label": "Lazarevac (centar)",
+      "longitude": 20.259395234033,
+      "latitude": 44.3803848874534
+    },
+    {
+      "id": "_19",
+      "label": "Lazarevac AS",
+      "longitude": 20.2643036136112,
+      "latitude": 44.3794934722192
+    }
+  ]
+}

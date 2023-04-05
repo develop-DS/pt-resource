@@ -1,0 +1,450 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Banovo brdo",
+      "longitude": 20.4137161014555,
+      "latitude": 44.7687467281234
+    },
+    {
+      "id": "_2",
+      "label": "Žarkovo",
+      "longitude": 20.4151557283503,
+      "latitude": 44.7585334682741
+    },
+    {
+      "id": "_3",
+      "label": "Jablanička",
+      "longitude": 20.4118393017084,
+      "latitude": 44.7479779594282
+    },
+    {
+      "id": "_4",
+      "label": "Kneževac",
+      "longitude": 20.4195843210249,
+      "latitude": 44.7336791921276
+    },
+    {
+      "id": "_5",
+      "label": "Naselje Petlovo brdo",
+      "longitude": 20.4175269197565,
+      "latitude": 44.7237165824988
+    },
+    {
+      "id": "_6",
+      "label": "Lipovica",
+      "longitude": 20.4239326484338,
+      "latitude": 44.6492727945961
+    },
+    {
+      "id": "_7",
+      "label": "Lipovica zavod",
+      "longitude": 20.4165350825851,
+      "latitude": 44.6463608352076
+    },
+    {
+      "id": "_8",
+      "label": "Lipovica (policija)",
+      "longitude": 20.4119476014656,
+      "latitude": 44.6370678711624
+    },
+    {
+      "id": "_9",
+      "label": "Velika Moštanica (r)",
+      "longitude": 20.3798427581787,
+      "latitude": 44.630615234375
+    },
+    {
+      "id": "_10",
+      "label": "Meljak",
+      "longitude": 20.372314453125,
+      "latitude": 44.6250419616699
+    },
+    {
+      "id": "_11",
+      "label": "Baćevac R Ibarska",
+      "longitude": 20.3598278632504,
+      "latitude": 44.6108101755115
+    },
+    {
+      "id": "_12",
+      "label": "Vranić R",
+      "longitude": 20.3553485870361,
+      "latitude": 44.6070175170898
+    },
+    {
+      "id": "_13",
+      "label": "Jozića kraj",
+      "longitude": 20.3482621831144,
+      "latitude": 44.6047607314072
+    },
+    {
+      "id": "_14",
+      "label": "Male Gunjice",
+      "longitude": 20.3429107666016,
+      "latitude": 44.6012649536133
+    },
+    {
+      "id": "_15",
+      "label": "Velike Gunjice",
+      "longitude": 20.3326034545898,
+      "latitude": 44.599879470693
+    },
+    {
+      "id": "_16",
+      "label": "Dom Zdravlja",
+      "longitude": 20.3246641287464,
+      "latitude": 44.6005211621808
+    },
+    {
+      "id": "_17",
+      "label": "Đoinčevića kuće",
+      "longitude": 20.3181785139627,
+      "latitude": 44.5980804049846
+    },
+    {
+      "id": "_18",
+      "label": "Vranić centar",
+      "longitude": 20.3096061970643,
+      "latitude": 44.5944859264218
+    },
+    {
+      "id": "_19",
+      "label": "Rašića kraj - Ulaz",
+      "longitude": 20.3023662567139,
+      "latitude": 44.5929336547852
+    },
+    {
+      "id": "_20",
+      "label": "Taraiš R",
+      "longitude": 20.2969783236365,
+      "latitude": 44.5913038060946
+    },
+    {
+      "id": "_21",
+      "label": "Rašića kraj - Prodavnica",
+      "longitude": 20.2816468348843,
+      "latitude": 44.5868684113594
+    },
+    {
+      "id": "_22",
+      "label": "Draževac - Lazareva kuća",
+      "longitude": 20.2724468374182,
+      "latitude": 44.5858521578461
+    },
+    {
+      "id": "_23",
+      "label": "Pantića kraj",
+      "longitude": 20.2649098454951,
+      "latitude": 44.5799491310765
+    },
+    {
+      "id": "_24",
+      "label": "Draževac - Selo",
+      "longitude": 20.2588588153431,
+      "latitude": 44.57597905626
+    },
+    {
+      "id": "_25",
+      "label": "Rankovića kraj",
+      "longitude": 20.2548569261073,
+      "latitude": 44.5782220481058
+    },
+    {
+      "id": "_26",
+      "label": "Stublinčevića kraj - Okretnica",
+      "longitude": 20.248382045296,
+      "latitude": 44.5784016365567
+    },
+    {
+      "id": "_27",
+      "label": "Stepanovića kraj",
+      "longitude": 20.2377262115479,
+      "latitude": 44.5746879577637
+    },
+    {
+      "id": "_28",
+      "label": "Draževac - Dom",
+      "longitude": 20.2309852633066,
+      "latitude": 44.5749778973899
+    },
+    {
+      "id": "_29",
+      "label": "Rankovići",
+      "longitude": 20.2343648366237,
+      "latitude": 44.570086491747
+    },
+    {
+      "id": "_30",
+      "label": "Vinogradi",
+      "longitude": 20.2388173341751,
+      "latitude": 44.5677399995995
+    },
+    {
+      "id": "_31",
+      "label": "Draževac - Lukići",
+      "longitude": 20.2429318580973,
+      "latitude": 44.5674017759063
+    },
+    {
+      "id": "_32",
+      "label": "Baljevac (Osredak)",
+      "longitude": 20.2502060089457,
+      "latitude": 44.5669508079227
+    },
+    {
+      "id": "_33",
+      "label": "Mijatovića kraj",
+      "longitude": 20.2575391561577,
+      "latitude": 44.5671820249951
+    },
+    {
+      "id": "_34",
+      "label": "Baljevac (Dom)",
+      "longitude": 20.2689170959749,
+      "latitude": 44.5679769461001
+    },
+    {
+      "id": "_35",
+      "label": "Baljevac (Potok)",
+      "longitude": 20.278428196907,
+      "latitude": 44.5665323217934
+    },
+    {
+      "id": "_36",
+      "label": "Baljevac (Živanovići)",
+      "longitude": 20.2903854969301,
+      "latitude": 44.5650532645005
+    },
+    {
+      "id": "_37",
+      "label": "Baljevac - (Nova okretnica - Ibarska magistrala)",
+      "longitude": 20.3007640838623,
+      "latitude": 44.5678100585938
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Baljevac - (Nova okretnica - Ibarska magistrala)",
+      "longitude": 20.3007640838623,
+      "latitude": 44.5678100585938
+    },
+    {
+      "id": "_2",
+      "label": "Baljevac (Živanovići)",
+      "longitude": 20.2901548116615,
+      "latitude": 44.5650953054079
+    },
+    {
+      "id": "_3",
+      "label": "Baljevac (Potok)",
+      "longitude": 20.2783316312652,
+      "latitude": 44.5666699066065
+    },
+    {
+      "id": "_4",
+      "label": "Baljevac (Dom)",
+      "longitude": 20.2687453948352,
+      "latitude": 44.5681451010956
+    },
+    {
+      "id": "_5",
+      "label": "Mijatovića kraj",
+      "longitude": 20.2574634552002,
+      "latitude": 44.567310333252
+    },
+    {
+      "id": "_6",
+      "label": "Baljevac (Osredak)",
+      "longitude": 20.2502328004491,
+      "latitude": 44.5670482631644
+    },
+    {
+      "id": "_7",
+      "label": "Draževac - Lukići",
+      "longitude": 20.2428894042969,
+      "latitude": 44.5674934387207
+    },
+    {
+      "id": "_8",
+      "label": "Vinogradi",
+      "longitude": 20.2387466430664,
+      "latitude": 44.5678558349609
+    },
+    {
+      "id": "_9",
+      "label": "Rankovići",
+      "longitude": 20.2342200309823,
+      "latitude": 44.5707399767786
+    },
+    {
+      "id": "_10",
+      "label": "Draževac - Dom",
+      "longitude": 20.2311408750876,
+      "latitude": 44.5751192834664
+    },
+    {
+      "id": "_11",
+      "label": "Stepanovića kraj",
+      "longitude": 20.2377498124191,
+      "latitude": 44.5745766647604
+    },
+    {
+      "id": "_12",
+      "label": "Stublinčevića kraj - okretnica",
+      "longitude": 20.2484464619705,
+      "latitude": 44.578298468791
+    },
+    {
+      "id": "_13",
+      "label": "Rankovića kraj",
+      "longitude": 20.2544814014365,
+      "latitude": 44.578313752916
+    },
+    {
+      "id": "_14",
+      "label": "Draževac - Selo",
+      "longitude": 20.2589661576344,
+      "latitude": 44.575864420622
+    },
+    {
+      "id": "_15",
+      "label": "Pantića kraj",
+      "longitude": 20.2650600851537,
+      "latitude": 44.579930026457
+    },
+    {
+      "id": "_16",
+      "label": "Draževac - Lazareva kuća",
+      "longitude": 20.2726561806957,
+      "latitude": 44.585817773018
+    },
+    {
+      "id": "_17",
+      "label": "Rašića kraj - Prodavnica",
+      "longitude": 20.2817380402633,
+      "latitude": 44.5867843609908
+    },
+    {
+      "id": "_18",
+      "label": "Taraiš R",
+      "longitude": 20.297037355348,
+      "latitude": 44.5911968410399
+    },
+    {
+      "id": "_19",
+      "label": "Rašića kraj - Ulaz",
+      "longitude": 20.3025680652005,
+      "latitude": 44.5927745556319
+    },
+    {
+      "id": "_20",
+      "label": "Vranić centar",
+      "longitude": 20.3099334496772,
+      "latitude": 44.5944591866408
+    },
+    {
+      "id": "_21",
+      "label": "Đoinčevića kuće",
+      "longitude": 20.3184789444855,
+      "latitude": 44.5980956839088
+    },
+    {
+      "id": "_22",
+      "label": "Dom Zdravlja",
+      "longitude": 20.3250825533527,
+      "latitude": 44.6004562294359
+    },
+    {
+      "id": "_23",
+      "label": "Velike Gunjice",
+      "longitude": 20.3327804983617,
+      "latitude": 44.5997763410428
+    },
+    {
+      "id": "_24",
+      "label": "Male Gunjice",
+      "longitude": 20.3432196353027,
+      "latitude": 44.6013118080182
+    },
+    {
+      "id": "_25",
+      "label": "Jozića kraj",
+      "longitude": 20.3487343520579,
+      "latitude": 44.6047378156485
+    },
+    {
+      "id": "_26",
+      "label": "Vranić R",
+      "longitude": 20.3554666016647,
+      "latitude": 44.6069185915192
+    },
+    {
+      "id": "_27",
+      "label": "Baćevac R Ibarska",
+      "longitude": 20.3599244690012,
+      "latitude": 44.6105619468303
+    },
+    {
+      "id": "_28",
+      "label": "Meljak",
+      "longitude": 20.3716993485997,
+      "latitude": 44.6244343931842
+    },
+    {
+      "id": "_29",
+      "label": "Velika Moštanica (r)",
+      "longitude": 20.3810012160777,
+      "latitude": 44.631926732053
+    },
+    {
+      "id": "_30",
+      "label": "Lipovica (policija)",
+      "longitude": 20.4121497106517,
+      "latitude": 44.6372519084437
+    },
+    {
+      "id": "_31",
+      "label": "Lipovica zavod",
+      "longitude": 20.4166907816824,
+      "latitude": 44.6462692377833
+    },
+    {
+      "id": "_32",
+      "label": "Lipovica",
+      "longitude": 20.4246408517706,
+      "latitude": 44.6493758363525
+    },
+    {
+      "id": "_33",
+      "label": "Naselje Petlovo brdo",
+      "longitude": 20.4181229965482,
+      "latitude": 44.7240081587061
+    },
+    {
+      "id": "_34",
+      "label": "Kneževac",
+      "longitude": 20.4193354172285,
+      "latitude": 44.7350908768268
+    },
+    {
+      "id": "_35",
+      "label": "Jablanička",
+      "longitude": 20.4121628799153,
+      "latitude": 44.7497021461355
+    },
+    {
+      "id": "_36",
+      "label": "Žarkovo",
+      "longitude": 20.4154615894523,
+      "latitude": 44.7595213843687
+    },
+    {
+      "id": "_37",
+      "label": "Banovo brdo",
+      "longitude": 20.4136250154943,
+      "latitude": 44.7678517247831
+    }
+  ]
+}

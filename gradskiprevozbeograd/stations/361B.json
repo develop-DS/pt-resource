@@ -1,0 +1,263 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Šumice",
+      "longitude": 20.500804979919,
+      "latitude": 44.7839063581867
+    },
+    {
+      "id": "_2",
+      "label": "Prvomajska",
+      "longitude": 20.5211262691793,
+      "latitude": 44.7837068972296
+    },
+    {
+      "id": "_3",
+      "label": "Put za Kaluđericu",
+      "longitude": 20.5604030358932,
+      "latitude": 44.7676827109783
+    },
+    {
+      "id": "_4",
+      "label": "Zdravstvena stanica Leštane i Vinča",
+      "longitude": 20.5986012992368,
+      "latitude": 44.7455484620032
+    },
+    {
+      "id": "_5",
+      "label": "Boleč raskršće",
+      "longitude": 20.6114945404098,
+      "latitude": 44.7357201596251
+    },
+    {
+      "id": "_6",
+      "label": "Hladnjača PKB",
+      "longitude": 20.6310941661735,
+      "latitude": 44.7219198434715
+    },
+    {
+      "id": "_7",
+      "label": "Put za Zaklopaču",
+      "longitude": 20.6691906592787,
+      "latitude": 44.6974053541038
+    },
+    {
+      "id": "_8",
+      "label": "Šumadijska",
+      "longitude": 20.7161887476849,
+      "latitude": 44.6736040990882
+    },
+    {
+      "id": "_9",
+      "label": "Alaska koliba",
+      "longitude": 20.7346074322125,
+      "latitude": 44.662281322888
+    },
+    {
+      "id": "_10",
+      "label": "Brestovik - Vikend naselje",
+      "longitude": 20.7453685766738,
+      "latitude": 44.6562906647353
+    },
+    {
+      "id": "_11",
+      "label": "Brestovik R",
+      "longitude": 20.7579374159267,
+      "latitude": 44.6476660827882
+    },
+    {
+      "id": "_12",
+      "label": "Institut",
+      "longitude": 20.7512157911743,
+      "latitude": 44.6422464415769
+    },
+    {
+      "id": "_13",
+      "label": "Bukovača",
+      "longitude": 20.7419568178398,
+      "latitude": 44.6215479144192
+    },
+    {
+      "id": "_14",
+      "label": "Kamendol R",
+      "longitude": 20.7284599481693,
+      "latitude": 44.6151788266501
+    },
+    {
+      "id": "_15",
+      "label": "Pudarci - Trafo",
+      "longitude": 20.7239484482364,
+      "latitude": 44.6131281982904
+    },
+    {
+      "id": "_16",
+      "label": "Pudarci - Prodavnica",
+      "longitude": 20.7247906527284,
+      "latitude": 44.6077893513067
+    },
+    {
+      "id": "_17",
+      "label": "Pudarci čokanj",
+      "longitude": 20.7256355285645,
+      "latitude": 44.5996475219727
+    },
+    {
+      "id": "_18",
+      "label": "Umčari - Čekerac",
+      "longitude": 20.7279020365093,
+      "latitude": 44.5927057941452
+    },
+    {
+      "id": "_19",
+      "label": "Umčari centar dolazna",
+      "longitude": 20.7358627336027,
+      "latitude": 44.5831376041181
+    },
+    {
+      "id": "_20",
+      "label": "Miloša Obrenovića",
+      "longitude": 20.7463824748993,
+      "latitude": 44.5823562629092
+    },
+    {
+      "id": "_21",
+      "label": "Prodavnica - Donji kraj",
+      "longitude": 20.7543271780014,
+      "latitude": 44.5837852114886
+    },
+    {
+      "id": "_22",
+      "label": "Umčari - Donji kraj - Škola",
+      "longitude": 20.7644551992416,
+      "latitude": 44.5846219324536
+    },
+    {
+      "id": "_23",
+      "label": "Živkovac - Ulaz",
+      "longitude": 20.7712089680326,
+      "latitude": 44.5859285685024
+    },
+    {
+      "id": "_24",
+      "label": "Živkovac (Mač. brest)",
+      "longitude": 20.7932406785744,
+      "latitude": 44.5881406134588
+    },
+    {
+      "id": "_25",
+      "label": "Živkovac - Prodavnica",
+      "longitude": 20.8020221943344,
+      "latitude": 44.5888015362918
+    },
+    {
+      "id": "_26",
+      "label": "Živkovac - Stara O",
+      "longitude": 20.8082985938916,
+      "latitude": 44.590176842952
+    },
+    {
+      "id": "_27",
+      "label": "Živkovac okretnica",
+      "longitude": 20.8157979810184,
+      "latitude": 44.5929139883967
+    },
+    {
+      "id": "_28",
+      "label": "Živkovac - Stara O",
+      "longitude": 20.8084326952036,
+      "latitude": 44.5903563944754
+    },
+    {
+      "id": "_29",
+      "label": "Živkovac - Prodavnica",
+      "longitude": 20.8023762702942,
+      "latitude": 44.5887786142384
+    },
+    {
+      "id": "_30",
+      "label": "Živkovac (Mač. brest)",
+      "longitude": 20.7931387394007,
+      "latitude": 44.5882132007269
+    },
+    {
+      "id": "_31",
+      "label": "Živkovac - Ulaz",
+      "longitude": 20.7716484069824,
+      "latitude": 44.5860557556152
+    },
+    {
+      "id": "_32",
+      "label": "Umčari - Donji kraj - Škola",
+      "longitude": 20.7645088434219,
+      "latitude": 44.584725088999
+    },
+    {
+      "id": "_33",
+      "label": "Prodavnica - Donji kraj",
+      "longitude": 20.7545927428139,
+      "latitude": 44.5838616248619
+    },
+    {
+      "id": "_34",
+      "label": "Miloša Obrenovića",
+      "longitude": 20.7469350251875,
+      "latitude": 44.5825281970837
+    },
+    {
+      "id": "_35",
+      "label": "Umčari centar odlazna",
+      "longitude": 20.7359566968652,
+      "latitude": 44.5830898451768
+    },
+    {
+      "id": "_36",
+      "label": "Umčari - Crkva",
+      "longitude": 20.7287603525328,
+      "latitude": 44.5835903569324
+    },
+    {
+      "id": "_37",
+      "label": "Umčari izlaz",
+      "longitude": 20.7228433679534,
+      "latitude": 44.5791811204258
+    },
+    {
+      "id": "_38",
+      "label": "Umčari - Šefkać",
+      "longitude": 20.715435141481,
+      "latitude": 44.5786232555827
+    },
+    {
+      "id": "_39",
+      "label": "Dražanj - Izlaz",
+      "longitude": 20.7010316877777,
+      "latitude": 44.5789938924109
+    },
+    {
+      "id": "_40",
+      "label": "Dražanj - Ulaz",
+      "longitude": 20.6948573067404,
+      "latitude": 44.5815959256859
+    },
+    {
+      "id": "_41",
+      "label": "Dražanj - Centar",
+      "longitude": 20.6891227103579,
+      "latitude": 44.584954325111
+    },
+    {
+      "id": "_42",
+      "label": "Dražanj - Škola",
+      "longitude": 20.6821006506021,
+      "latitude": 44.5849046573634
+    },
+    {
+      "id": "_43",
+      "label": "Dražanj - Okretnica",
+      "longitude": 20.6719493865967,
+      "latitude": 44.5846176147461
+    }
+  ],
+  "direction_b": []
+}

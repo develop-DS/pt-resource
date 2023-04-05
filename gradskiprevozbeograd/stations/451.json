@@ -1,0 +1,630 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "BAS",
+      "longitude": 20.4543059627735,
+      "latitude": 44.8101721002059
+    },
+    {
+      "id": "_2",
+      "label": "Palata pravde 1",
+      "longitude": 20.4515238525443,
+      "latitude": 44.8029928139838
+    },
+    {
+      "id": "_3",
+      "label": "Autokomanda",
+      "longitude": 20.4657375568812,
+      "latitude": 44.785252292206
+    },
+    {
+      "id": "_4",
+      "label": "Trošarina",
+      "longitude": 20.4807230604527,
+      "latitude": 44.7602626817462
+    },
+    {
+      "id": "_5",
+      "label": "Riste Stefanovića",
+      "longitude": 20.4793635447923,
+      "latitude": 44.7502031706088
+    },
+    {
+      "id": "_6",
+      "label": "Jajinci (Dom zdravlja)",
+      "longitude": 20.4861169214133,
+      "latitude": 44.740265617896
+    },
+    {
+      "id": "_7",
+      "label": "Kefalonijska",
+      "longitude": 20.4831979569665,
+      "latitude": 44.7305292944087
+    },
+    {
+      "id": "_8",
+      "label": "Rakovica selo (spomen česma)",
+      "longitude": 20.4950647856393,
+      "latitude": 44.7265286685876
+    },
+    {
+      "id": "_9",
+      "label": "Rakovica selo",
+      "longitude": 20.4982911274066,
+      "latitude": 44.7215840013829
+    },
+    {
+      "id": "_10",
+      "label": "Beli potok (Kumbara)",
+      "longitude": 20.5060446317841,
+      "latitude": 44.710800016954
+    },
+    {
+      "id": "_11",
+      "label": "Avala",
+      "longitude": 20.5018191701087,
+      "latitude": 44.6963102467437
+    },
+    {
+      "id": "_12",
+      "label": "Šumareva kuća",
+      "longitude": 20.5180962401562,
+      "latitude": 44.6803602265222
+    },
+    {
+      "id": "_13",
+      "label": "Put za Zuce",
+      "longitude": 20.5329492080462,
+      "latitude": 44.6805421999326
+    },
+    {
+      "id": "_14",
+      "label": "Đurđevdan",
+      "longitude": 20.5395705359939,
+      "latitude": 44.6742781225901
+    },
+    {
+      "id": "_15",
+      "label": "Kapija Šumadije",
+      "longitude": 20.5418833962195,
+      "latitude": 44.6701348896609
+    },
+    {
+      "id": "_16",
+      "label": "Raskrnica-Vrčin",
+      "longitude": 20.5433869682786,
+      "latitude": 44.6626746813631
+    },
+    {
+      "id": "_17",
+      "label": "Rasadnik",
+      "longitude": 20.5500907295608,
+      "latitude": 44.6551161348796
+    },
+    {
+      "id": "_18",
+      "label": "Prnjavor (ulaz)",
+      "longitude": 20.5537583597234,
+      "latitude": 44.6477056257911
+    },
+    {
+      "id": "_19",
+      "label": "Srednji prnjavor",
+      "longitude": 20.5518285122638,
+      "latitude": 44.6412452633069
+    },
+    {
+      "id": "_20",
+      "label": "Prnjavor (škola)",
+      "longitude": 20.5542056498527,
+      "latitude": 44.6323429110284
+    },
+    {
+      "id": "_21",
+      "label": "Trešnja",
+      "longitude": 20.5552822818384,
+      "latitude": 44.6206869213394
+    },
+    {
+      "id": "_22",
+      "label": "Avalski cvet",
+      "longitude": 20.5563664478914,
+      "latitude": 44.6149672213049
+    },
+    {
+      "id": "_23",
+      "label": "Trešnja (okretnica)",
+      "longitude": 20.5559977762364,
+      "latitude": 44.6084139129647
+    },
+    {
+      "id": "_24",
+      "label": "Trešnja (Koviona)",
+      "longitude": 20.5676555842814,
+      "latitude": 44.5969187660806
+    },
+    {
+      "id": "_25",
+      "label": "13. oktobra",
+      "longitude": 20.5647944739098,
+      "latitude": 44.5842595404062
+    },
+    {
+      "id": "_26",
+      "label": "Livnica",
+      "longitude": 20.5654212644231,
+      "latitude": 44.5771664004468
+    },
+    {
+      "id": "_27",
+      "label": "Ralja (centar)",
+      "longitude": 20.558158278845,
+      "latitude": 44.5738249325549
+    },
+    {
+      "id": "_28",
+      "label": "Ralja - Železnička stanica.",
+      "longitude": 20.5601062774658,
+      "latitude": 44.5674896240234
+    },
+    {
+      "id": "_29",
+      "label": "Ralja (Vojvođanska)",
+      "longitude": 20.5575389862061,
+      "latitude": 44.5644378662109
+    },
+    {
+      "id": "_30",
+      "label": "Babe - Duboko",
+      "longitude": 20.5435967445374,
+      "latitude": 44.5575809661281
+    },
+    {
+      "id": "_31",
+      "label": "Babe - Bazen",
+      "longitude": 20.537245228457,
+      "latitude": 44.5497254184182
+    },
+    {
+      "id": "_32",
+      "label": "Babe - Raskrsnica",
+      "longitude": 20.5427277088165,
+      "latitude": 44.5366878390044
+    },
+    {
+      "id": "_33",
+      "label": "Babe (groblje)",
+      "longitude": 20.5375725157272,
+      "latitude": 44.5357395375163
+    },
+    {
+      "id": "_34",
+      "label": "Babe - Selo",
+      "longitude": 20.5267685037969,
+      "latitude": 44.5296803677058
+    },
+    {
+      "id": "_35",
+      "label": "Babe (groblje)",
+      "longitude": 20.5378997037046,
+      "latitude": 44.5356898277381
+    },
+    {
+      "id": "_36",
+      "label": "Babe - Raskrsnica",
+      "longitude": 20.5429154580316,
+      "latitude": 44.5363819369859
+    },
+    {
+      "id": "_37",
+      "label": "Babe - Novičići",
+      "longitude": 20.5380821101655,
+      "latitude": 44.5235937951236
+    },
+    {
+      "id": "_38",
+      "label": "Morak",
+      "longitude": 20.5283403631298,
+      "latitude": 44.5212224794078
+    },
+    {
+      "id": "_39",
+      "label": "Moračka kapija",
+      "longitude": 20.5142319473222,
+      "latitude": 44.5208858977423
+    },
+    {
+      "id": "_40",
+      "label": "Stojnik R - Staro selo",
+      "longitude": 20.5075853828342,
+      "latitude": 44.5202146410013
+    },
+    {
+      "id": "_41",
+      "label": "Staro selo - Mlekara",
+      "longitude": 20.4966902895328,
+      "latitude": 44.5079011583581
+    },
+    {
+      "id": "_42",
+      "label": "Staro selo - trafo",
+      "longitude": 20.4929861299981,
+      "latitude": 44.5049993267905
+    },
+    {
+      "id": "_43",
+      "label": "Stojnik - Staro selo",
+      "longitude": 20.4919856389557,
+      "latitude": 44.5001211697161
+    },
+    {
+      "id": "_44",
+      "label": "Stevanovića kraj",
+      "longitude": 20.4979616114728,
+      "latitude": 44.4944773022935
+    },
+    {
+      "id": "_45",
+      "label": "Dučina spomenik - Okretnica",
+      "longitude": 20.5082344738052,
+      "latitude": 44.4926979359207
+    },
+    {
+      "id": "_46",
+      "label": "Stevanovića kraj",
+      "longitude": 20.4981118530894,
+      "latitude": 44.4945691390845
+    },
+    {
+      "id": "_47",
+      "label": "Stojnik - Staro selo",
+      "longitude": 20.492066177439,
+      "latitude": 44.5002933469146
+    },
+    {
+      "id": "_48",
+      "label": "Staro selo - trafo",
+      "longitude": 20.4930425123524,
+      "latitude": 44.50478507905
+    },
+    {
+      "id": "_49",
+      "label": "Staro selo - Mlekara",
+      "longitude": 20.4968297806495,
+      "latitude": 44.5078112553956
+    },
+    {
+      "id": "_50",
+      "label": "Stojnik R - Staro selo",
+      "longitude": 20.5077329196753,
+      "latitude": 44.5201457937188
+    },
+    {
+      "id": "_51",
+      "label": "Stojnik - Jaruga",
+      "longitude": 20.5009334701761,
+      "latitude": 44.521402243819
+    },
+    {
+      "id": "_52",
+      "label": "Stojnik (Hajdukovački put)",
+      "longitude": 20.4967653281989,
+      "latitude": 44.5172005837911
+    },
+    {
+      "id": "_53",
+      "label": "Stojnik - Okretnica",
+      "longitude": 20.4933267741536,
+      "latitude": 44.5158675404905
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Stojnik - Okretnica",
+      "longitude": 20.4931497655092,
+      "latitude": 44.515729835571
+    },
+    {
+      "id": "_2",
+      "label": "Stojnik (Hajdukovački put)",
+      "longitude": 20.4967600143299,
+      "latitude": 44.5171011325459
+    },
+    {
+      "id": "_3",
+      "label": "Stojnik - Jaruga",
+      "longitude": 20.5010783997291,
+      "latitude": 44.5213984190501
+    },
+    {
+      "id": "_4",
+      "label": "Stojnik R - Staro selo",
+      "longitude": 20.5075853828342,
+      "latitude": 44.5202146410013
+    },
+    {
+      "id": "_5",
+      "label": "Staro selo - Mlekara",
+      "longitude": 20.4966902895328,
+      "latitude": 44.5079011583581
+    },
+    {
+      "id": "_6",
+      "label": "Staro selo - trafo",
+      "longitude": 20.4929861299981,
+      "latitude": 44.5049993267905
+    },
+    {
+      "id": "_7",
+      "label": "Stojnik - Staro selo",
+      "longitude": 20.4919856389557,
+      "latitude": 44.5001211697161
+    },
+    {
+      "id": "_8",
+      "label": "Stevanovića kraj",
+      "longitude": 20.4979616114728,
+      "latitude": 44.4944773022935
+    },
+    {
+      "id": "_9",
+      "label": "Dučina spomenik - Okretnica",
+      "longitude": 20.5083954605058,
+      "latitude": 44.4928012554529
+    },
+    {
+      "id": "_10",
+      "label": "Stevanovića kraj",
+      "longitude": 20.4981118530894,
+      "latitude": 44.4945691390845
+    },
+    {
+      "id": "_11",
+      "label": "Stojnik - Staro selo",
+      "longitude": 20.492066177439,
+      "latitude": 44.5002933469146
+    },
+    {
+      "id": "_12",
+      "label": "Staro selo - trafo",
+      "longitude": 20.4930425123524,
+      "latitude": 44.50478507905
+    },
+    {
+      "id": "_13",
+      "label": "Staro selo - Mlekara",
+      "longitude": 20.4968297806495,
+      "latitude": 44.5078112553956
+    },
+    {
+      "id": "_14",
+      "label": "Stojnik R - Staro selo",
+      "longitude": 20.5077329196753,
+      "latitude": 44.5201457937188
+    },
+    {
+      "id": "_15",
+      "label": "Moračka kapija",
+      "longitude": 20.51570172926,
+      "latitude": 44.5199220394888
+    },
+    {
+      "id": "_16",
+      "label": "Morak",
+      "longitude": 20.52851204256,
+      "latitude": 44.5210847871433
+    },
+    {
+      "id": "_17",
+      "label": "Babe - Novičići",
+      "longitude": 20.5412472016532,
+      "latitude": 44.5286994456524
+    },
+    {
+      "id": "_18",
+      "label": "Babe - Raskrsnica",
+      "longitude": 20.5427277088165,
+      "latitude": 44.5366878390044
+    },
+    {
+      "id": "_19",
+      "label": "Babe - Selo",
+      "longitude": 20.5267685037969,
+      "latitude": 44.5296803677058
+    },
+    {
+      "id": "_20",
+      "label": "Babe - Raskrsnica",
+      "longitude": 20.5432400233756,
+      "latitude": 44.5380758492242
+    },
+    {
+      "id": "_21",
+      "label": "Babe - Bazen",
+      "longitude": 20.5382913856549,
+      "latitude": 44.5508608113033
+    },
+    {
+      "id": "_22",
+      "label": "Babe - Duboko",
+      "longitude": 20.5457210721304,
+      "latitude": 44.5584925997057
+    },
+    {
+      "id": "_23",
+      "label": "Ralja (Vojvođanska)",
+      "longitude": 20.5578875451421,
+      "latitude": 44.5642009740982
+    },
+    {
+      "id": "_24",
+      "label": "Ralja - Železnička stanica.",
+      "longitude": 20.5601781742074,
+      "latitude": 44.5678049688974
+    },
+    {
+      "id": "_25",
+      "label": "Ralja (centar)",
+      "longitude": 20.5585003134765,
+      "latitude": 44.5738838470156
+    },
+    {
+      "id": "_26",
+      "label": "Livnica",
+      "longitude": 20.5658392877657,
+      "latitude": 44.5771697809764
+    },
+    {
+      "id": "_27",
+      "label": "13. oktobra",
+      "longitude": 20.5655043825102,
+      "latitude": 44.5860082047514
+    },
+    {
+      "id": "_28",
+      "label": "Trešnja (Koviona)",
+      "longitude": 20.5680040218179,
+      "latitude": 44.5964700836117
+    },
+    {
+      "id": "_29",
+      "label": "Trešnja (škola)",
+      "longitude": 20.5561326082456,
+      "latitude": 44.6089094255517
+    },
+    {
+      "id": "_30",
+      "label": "Avalski cvet",
+      "longitude": 20.5566013046247,
+      "latitude": 44.6149015293374
+    },
+    {
+      "id": "_31",
+      "label": "Trešnja",
+      "longitude": 20.5555556014075,
+      "latitude": 44.6208697757036
+    },
+    {
+      "id": "_32",
+      "label": "Prnjavor (škola)",
+      "longitude": 20.5544229482028,
+      "latitude": 44.6322753556379
+    },
+    {
+      "id": "_33",
+      "label": "Srednji prnjavor",
+      "longitude": 20.5520437249662,
+      "latitude": 44.6411255056078
+    },
+    {
+      "id": "_34",
+      "label": "Prnjavor (ulaz)",
+      "longitude": 20.5539025065363,
+      "latitude": 44.6469880029181
+    },
+    {
+      "id": "_35",
+      "label": "Rasadnik",
+      "longitude": 20.5498526324036,
+      "latitude": 44.65623657347
+    },
+    {
+      "id": "_36",
+      "label": "Raskrnica-Vrčin",
+      "longitude": 20.5433439187103,
+      "latitude": 44.6630201009772
+    },
+    {
+      "id": "_37",
+      "label": "Kapija Šumadije",
+      "longitude": 20.5421001733403,
+      "latitude": 44.6704759446688
+    },
+    {
+      "id": "_38",
+      "label": "Đurđevdan",
+      "longitude": 20.5390251470769,
+      "latitude": 44.6749833143366
+    },
+    {
+      "id": "_39",
+      "label": "Put za Zuce",
+      "longitude": 20.5330315962401,
+      "latitude": 44.6806505317814
+    },
+    {
+      "id": "_40",
+      "label": "Šumareva kuća",
+      "longitude": 20.5183758344286,
+      "latitude": 44.6804135981769
+    },
+    {
+      "id": "_41",
+      "label": "Avala",
+      "longitude": 20.502043577643,
+      "latitude": 44.696628010097
+    },
+    {
+      "id": "_42",
+      "label": "Beli potok (Kumbara)",
+      "longitude": 20.5062572465612,
+      "latitude": 44.7107307340769
+    },
+    {
+      "id": "_43",
+      "label": "Rakovica selo",
+      "longitude": 20.4975661062226,
+      "latitude": 44.7219300172401
+    },
+    {
+      "id": "_44",
+      "label": "Rakovica selo (spomen česma)",
+      "longitude": 20.4944744021448,
+      "latitude": 44.7264792717087
+    },
+    {
+      "id": "_45",
+      "label": "Spomen park Jajinci",
+      "longitude": 20.4842999484184,
+      "latitude": 44.7295496892026
+    },
+    {
+      "id": "_46",
+      "label": "Jajinci (Dom zdravlja)",
+      "longitude": 20.4852827788957,
+      "latitude": 44.7412086418607
+    },
+    {
+      "id": "_47",
+      "label": "Riste Stefanovića",
+      "longitude": 20.4801659780458,
+      "latitude": 44.7500088163803
+    },
+    {
+      "id": "_48",
+      "label": "Crkva Sv. Vasilija Ostroškog",
+      "longitude": 20.479352212498,
+      "latitude": 44.762779177256
+    },
+    {
+      "id": "_49",
+      "label": "Trg oslobođenja",
+      "longitude": 20.4659369887447,
+      "latitude": 44.7870164037455
+    },
+    {
+      "id": "_50",
+      "label": "Palata pravde 1",
+      "longitude": 20.451327814778,
+      "latitude": 44.8034058554644
+    },
+    {
+      "id": "_51",
+      "label": "BAS",
+      "longitude": 20.4543059627735,
+      "latitude": 44.8101721002059
+    }
+  ]
+}

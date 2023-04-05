@@ -62,74 +62,122 @@
     },
     {
       "id": "_11",
-      "label": "Ćele kula",
-      "longitude": 21.9264666732397,
-      "latitude": 43.3118231681998
+      "label": "Ćele kula 1",
+      "longitude": 21.9256744384766,
+      "latitude": 43.3113174438477
+    },
+    {
+      "id": "_12",
+      "label": "Francuska",
+      "longitude": 21.9296926342518,
+      "latitude": 43.3088124604304
+    },
+    {
+      "id": "_13",
+      "label": "Heroja Pop Miće",
+      "longitude": 21.9326839447021,
+      "latitude": 43.3077964782715
+    },
+    {
+      "id": "_14",
+      "label": "Svrljiškog partizanskog odreda",
+      "longitude": 21.936315536499,
+      "latitude": 43.3072204589844
+    },
+    {
+      "id": "_15",
+      "label": "Delijski vis",
+      "longitude": 21.9404107367597,
+      "latitude": 43.3076296849684
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Ćele kula",
-      "longitude": 21.9260087788505,
-      "latitude": 43.311706262001
+      "label": "Delijski vis",
+      "longitude": 21.9404315948486,
+      "latitude": 43.3077087402344
     },
     {
       "id": "_2",
+      "label": "Svrljiškog partizanskog odreda",
+      "longitude": 21.9361896514893,
+      "latitude": 43.3073272705078
+    },
+    {
+      "id": "_3",
+      "label": "Heroja Pop Miće",
+      "longitude": 21.9331207275391,
+      "latitude": 43.3078651428223
+    },
+    {
+      "id": "_4",
+      "label": "Francuska",
+      "longitude": 21.9297790527344,
+      "latitude": 43.308895111084
+    },
+    {
+      "id": "_5",
+      "label": "Ćele kula 1",
+      "longitude": 21.9270687103271,
+      "latitude": 43.3112831115723
+    },
+    {
+      "id": "_6",
       "label": "Trošarina",
       "longitude": 21.9277604615192,
       "latitude": 43.3127542428627
     },
     {
-      "id": "_3",
+      "id": "_7",
       "label": "OŠ Ćele kula",
       "longitude": 21.9274111432727,
       "latitude": 43.3153928158463
     },
     {
-      "id": "_4",
+      "id": "_8",
       "label": "Zona 2",
       "longitude": 21.9225375456048,
       "latitude": 43.3178934332385
     },
     {
-      "id": "_5",
+      "id": "_9",
       "label": "Trg Svetog Save",
       "longitude": 21.918998805739,
       "latitude": 43.3194973168798
     },
     {
-      "id": "_6",
+      "id": "_10",
       "label": "Bulevarska pijaca",
       "longitude": 21.9161825536266,
       "latitude": 43.3207856274588
     },
     {
-      "id": "_7",
+      "id": "_11",
       "label": "Niš ekspres",
       "longitude": 21.9121048219566,
       "latitude": 43.3226456760903
     },
     {
-      "id": "_8",
+      "id": "_12",
       "label": "Vojvode Mišića",
       "longitude": 21.9083329012653,
       "latitude": 43.3243591150672
     },
     {
-      "id": "_9",
+      "id": "_13",
       "label": "Crveni soliter",
       "longitude": 21.9017639532257,
       "latitude": 43.3228935358884
     },
     {
-      "id": "_10",
+      "id": "_14",
       "label": "Trg kralja Milana (Spomenik)",
       "longitude": 21.8958302411904,
       "latitude": 43.3210067072558
     },
     {
-      "id": "_11",
+      "id": "_15",
       "label": "Ured",
       "longitude": 21.8913006731576,
       "latitude": 43.3193390516789

@@ -1,0 +1,78 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "BAS",
+      "longitude": 20.4543059627735,
+      "latitude": 44.8101721002059
+    },
+    {
+      "id": "_2",
+      "label": "Palata pravde 1",
+      "longitude": 20.4515238525443,
+      "latitude": 44.8029928139838
+    },
+    {
+      "id": "_3",
+      "label": "Žarkovo",
+      "longitude": 20.4151557283503,
+      "latitude": 44.7585334682741
+    },
+    {
+      "id": "_4",
+      "label": "Stepojevac",
+      "longitude": 20.2946716148953,
+      "latitude": 44.5125854846983
+    },
+    {
+      "id": "_5",
+      "label": "Lazarevac (centar)",
+      "longitude": 20.259395234033,
+      "latitude": 44.3803848874534
+    },
+    {
+      "id": "_6",
+      "label": "Lazarevac AS",
+      "longitude": 20.2643036136112,
+      "latitude": 44.3794934722192
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Lazarevac AS",
+      "longitude": 20.2642204355983,
+      "latitude": 44.3791656580426
+    },
+    {
+      "id": "_2",
+      "label": "Lazarevac (centar)",
+      "longitude": 20.2593684453285,
+      "latitude": 44.3805995918902
+    },
+    {
+      "id": "_3",
+      "label": "Stepojevac",
+      "longitude": 20.2943391018734,
+      "latitude": 44.5143489432465
+    },
+    {
+      "id": "_4",
+      "label": "Žarkovo",
+      "longitude": 20.4154615894523,
+      "latitude": 44.7595213843687
+    },
+    {
+      "id": "_5",
+      "label": "Palata pravde 1",
+      "longitude": 20.451327814778,
+      "latitude": 44.8034058554644
+    },
+    {
+      "id": "_6",
+      "label": "BAS",
+      "longitude": 20.4543059627735,
+      "latitude": 44.8101721002059
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Šumadijska",
+      "longitude": 20.7161887476849,
+      "latitude": 44.6736040990882
+    },
+    {
+      "id": "_2",
+      "label": "Alaska koliba",
+      "longitude": 20.7346074322125,
+      "latitude": 44.662281322888
+    },
+    {
+      "id": "_3",
+      "label": "Brestovik - Vikend naselje",
+      "longitude": 20.7453685766738,
+      "latitude": 44.6562906647353
+    },
+    {
+      "id": "_4",
+      "label": "Brestovik R",
+      "longitude": 20.7579374159267,
+      "latitude": 44.6476660827882
+    },
+    {
+      "id": "_5",
+      "label": "Institut",
+      "longitude": 20.7512157911743,
+      "latitude": 44.6422464415769
+    },
+    {
+      "id": "_6",
+      "label": "Bukovača",
+      "longitude": 20.7419568178398,
+      "latitude": 44.6215479144192
+    },
+    {
+      "id": "_7",
+      "label": "Kamendol R",
+      "longitude": 20.7284599481693,
+      "latitude": 44.6151788266501
+    },
+    {
+      "id": "_8",
+      "label": "Pudarci - Trafo",
+      "longitude": 20.7239484482364,
+      "latitude": 44.6131281982904
+    },
+    {
+      "id": "_9",
+      "label": "Pudarci - Prodavnica",
+      "longitude": 20.7247906527284,
+      "latitude": 44.6077893513067
+    },
+    {
+      "id": "_10",
+      "label": "Pudarci čokanj",
+      "longitude": 20.7256355285645,
+      "latitude": 44.5996475219727
+    },
+    {
+      "id": "_11",
+      "label": "Umčari - Čekerac",
+      "longitude": 20.7279020365093,
+      "latitude": 44.5927057941452
+    },
+    {
+      "id": "_12",
+      "label": "Umčari centar odlazna",
+      "longitude": 20.7357769518521,
+      "latitude": 44.5831547973273
+    },
+    {
+      "id": "_13",
+      "label": "Umčari - Ambulanta",
+      "longitude": 20.7388896942139,
+      "latitude": 44.5793876647949
+    },
+    {
+      "id": "_14",
+      "label": "Umčari R AP",
+      "longitude": 20.7445585655479,
+      "latitude": 44.5755931153783
+    },
+    {
+      "id": "_15",
+      "label": "Mali Požarevac - Naplatna rampa",
+      "longitude": 20.669016822665,
+      "latitude": 44.5614758541819
+    },
+    {
+      "id": "_16",
+      "label": "Pribiš",
+      "longitude": 20.6901151068221,
+      "latitude": 44.5656380125763
+    },
+    {
+      "id": "_17",
+      "label": "Vrba",
+      "longitude": 20.699111129344,
+      "latitude": 44.5550313741738
+    },
+    {
+      "id": "_18",
+      "label": "Šepšin - Česma - Okretnica",
+      "longitude": 20.7021099383155,
+      "latitude": 44.5434019835445
+    },
+    {
+      "id": "_19",
+      "label": "Šepšin - Zadruga",
+      "longitude": 20.7062941464669,
+      "latitude": 44.5396244166176
+    },
+    {
+      "id": "_20",
+      "label": "Kruška",
+      "longitude": 20.7136487906656,
+      "latitude": 44.5344891325127
+    },
+    {
+      "id": "_21",
+      "label": "Šume",
+      "longitude": 20.7121521180352,
+      "latitude": 44.5321412047086
+    },
+    {
+      "id": "_22",
+      "label": "Varovnice",
+      "longitude": 20.7051890474676,
+      "latitude": 44.5160587967833
+    },
+    {
+      "id": "_23",
+      "label": "Tabla",
+      "longitude": 20.7080554962158,
+      "latitude": 44.5026817321777
+    },
+    {
+      "id": "_24",
+      "label": "Đeram",
+      "longitude": 20.7166367606762,
+      "latitude": 44.477071619917
+    },
+    {
+      "id": "_25",
+      "label": "Zadruga",
+      "longitude": 20.701900713375,
+      "latitude": 44.4538368186231
+    },
+    {
+      "id": "_26",
+      "label": "Mladenovac AS",
+      "longitude": 20.6920462792596,
+      "latitude": 44.4398317489562
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Mladenovac AS",
+      "longitude": 20.6924056772144,
+      "latitude": 44.4396862042175
+    },
+    {
+      "id": "_2",
+      "label": "Zadruga",
+      "longitude": 20.7023137789793,
+      "latitude": 44.454055082714
+    },
+    {
+      "id": "_3",
+      "label": "Đeram",
+      "longitude": 20.7166528773995,
+      "latitude": 44.4772821418224
+    },
+    {
+      "id": "_4",
+      "label": "Tabla",
+      "longitude": 20.7082253748694,
+      "latitude": 44.5033962754939
+    },
+    {
+      "id": "_5",
+      "label": "Varovnice",
+      "longitude": 20.7054305545983,
+      "latitude": 44.5162347520182
+    },
+    {
+      "id": "_6",
+      "label": "Šume",
+      "longitude": 20.7120502085353,
+      "latitude": 44.5316976116257
+    },
+    {
+      "id": "_7",
+      "label": "Kruška",
+      "longitude": 20.7141691247719,
+      "latitude": 44.5344623651396
+    },
+    {
+      "id": "_8",
+      "label": "Šepšin - Zadruga",
+      "longitude": 20.7064604939749,
+      "latitude": 44.5393988254121
+    },
+    {
+      "id": "_9",
+      "label": "Šepšin - Česma - Okretnica",
+      "longitude": 20.7022548443992,
+      "latitude": 44.5432834603717
+    },
+    {
+      "id": "_10",
+      "label": "Vrba",
+      "longitude": 20.6992989778519,
+      "latitude": 44.5551116478876
+    },
+    {
+      "id": "_11",
+      "label": "Pribiš",
+      "longitude": 20.6898844567054,
+      "latitude": 44.5657068060811
+    },
+    {
+      "id": "_12",
+      "label": "Mali Požarevac - Naplatna rampa",
+      "longitude": 20.6691616902011,
+      "latitude": 44.5614146999564
+    },
+    {
+      "id": "_13",
+      "label": "Umčari R AP",
+      "longitude": 20.7469322934462,
+      "latitude": 44.5740130237716
+    },
+    {
+      "id": "_14",
+      "label": "Umčari - Ambulanta",
+      "longitude": 20.7390386371656,
+      "latitude": 44.5794676927506
+    },
+    {
+      "id": "_15",
+      "label": "Umčari centar odlazna",
+      "longitude": 20.7359566968652,
+      "latitude": 44.5830898451768
+    },
+    {
+      "id": "_16",
+      "label": "Umčari - Čekerac",
+      "longitude": 20.7276982190865,
+      "latitude": 44.593168022574
+    },
+    {
+      "id": "_17",
+      "label": "Pudarci čokanj",
+      "longitude": 20.7258314016121,
+      "latitude": 44.5997610625605
+    },
+    {
+      "id": "_18",
+      "label": "Pudarci - Prodavnica",
+      "longitude": 20.724860484596,
+      "latitude": 44.6080337727604
+    },
+    {
+      "id": "_19",
+      "label": "Pudarci - Trafo",
+      "longitude": 20.7241684320229,
+      "latitude": 44.6134680653523
+    },
+    {
+      "id": "_20",
+      "label": "Kamendol R",
+      "longitude": 20.7282371520996,
+      "latitude": 44.6149101257324
+    },
+    {
+      "id": "_21",
+      "label": "Bukovača",
+      "longitude": 20.7422734098906,
+      "latitude": 44.6218533686974
+    },
+    {
+      "id": "_22",
+      "label": "Institut",
+      "longitude": 20.7513928687552,
+      "latitude": 44.6423609462747
+    },
+    {
+      "id": "_23",
+      "label": "Brestovik R",
+      "longitude": 20.7579320973798,
+      "latitude": 44.6475477720834
+    },
+    {
+      "id": "_24",
+      "label": "Brestovik - Vikend naselje",
+      "longitude": 20.7456073760986,
+      "latitude": 44.6562461853027
+    },
+    {
+      "id": "_25",
+      "label": "Alaska koliba",
+      "longitude": 20.7349414825439,
+      "latitude": 44.6623382568359
+    },
+    {
+      "id": "_26",
+      "label": "Šumadijska",
+      "longitude": 20.7156234631521,
+      "latitude": 44.6741732893128
+    }
+  ]
+}

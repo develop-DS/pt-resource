@@ -1,0 +1,384 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Studentski trg",
+      "longitude": 20.4562622080264,
+      "latitude": 44.8196876253008
+    },
+    {
+      "id": "_2",
+      "label": "Džordža Vašingtona",
+      "longitude": 20.4698685349023,
+      "latitude": 44.8168285139703
+    },
+    {
+      "id": "_3",
+      "label": "Cvijićeva",
+      "longitude": 20.4775075852578,
+      "latitude": 44.8171515332769
+    },
+    {
+      "id": "_4",
+      "label": "Centar za kulturu Vlada Divljan",
+      "longitude": 20.4830256257873,
+      "latitude": 44.8174105100631
+    },
+    {
+      "id": "_5",
+      "label": "MZ Krnjača",
+      "longitude": 20.4941835071208,
+      "latitude": 44.8376623052089
+    },
+    {
+      "id": "_6",
+      "label": "Blok Branka Momirova",
+      "longitude": 20.4908417975942,
+      "latitude": 44.8414147132766
+    },
+    {
+      "id": "_7",
+      "label": "Partizanski blok",
+      "longitude": 20.4881921537112,
+      "latitude": 44.846397637296
+    },
+    {
+      "id": "_8",
+      "label": "Blok Sutjeska",
+      "longitude": 20.4863259678953,
+      "latitude": 44.8494311207245
+    },
+    {
+      "id": "_9",
+      "label": "Pakračka",
+      "longitude": 20.4803037155818,
+      "latitude": 44.8585204610583
+    },
+    {
+      "id": "_10",
+      "label": "Sebeš suvi",
+      "longitude": 20.4780975569801,
+      "latitude": 44.8618402458717
+    },
+    {
+      "id": "_11",
+      "label": "Sebeška reka",
+      "longitude": 20.4737486457741,
+      "latitude": 44.8683809788243
+    },
+    {
+      "id": "_12",
+      "label": "Sebeš mokri",
+      "longitude": 20.4703541554214,
+      "latitude": 44.8734140439099
+    },
+    {
+      "id": "_13",
+      "label": "Valjevskog odreda",
+      "longitude": 20.4621002617329,
+      "latitude": 44.8755427121218
+    },
+    {
+      "id": "_14",
+      "label": "Milana Ajvaza",
+      "longitude": 20.459693494969,
+      "latitude": 44.8771153031148
+    },
+    {
+      "id": "_15",
+      "label": "Mihajla Šolohova",
+      "longitude": 20.456777794913,
+      "latitude": 44.878955417221
+    },
+    {
+      "id": "_16",
+      "label": "Kombinatova",
+      "longitude": 20.4520965351724,
+      "latitude": 44.8800832843137
+    },
+    {
+      "id": "_17",
+      "label": "Bele Bartoka",
+      "longitude": 20.4514405407691,
+      "latitude": 44.877173336995
+    },
+    {
+      "id": "_18",
+      "label": "Borča 3",
+      "longitude": 20.4483753251633,
+      "latitude": 44.8747431951929
+    },
+    {
+      "id": "_19",
+      "label": "Borča 3",
+      "longitude": 20.448222565918,
+      "latitude": 44.8745696716412
+    },
+    {
+      "id": "_20",
+      "label": "Kombinatova",
+      "longitude": 20.4529338648228,
+      "latitude": 44.8806848411228
+    },
+    {
+      "id": "_21",
+      "label": "Save Mrkalja",
+      "longitude": 20.4549161232786,
+      "latitude": 44.8825661538478
+    },
+    {
+      "id": "_22",
+      "label": "Drinske divizije",
+      "longitude": 20.4576773385603,
+      "latitude": 44.8850900741041
+    },
+    {
+      "id": "_23",
+      "label": "Bratstva i jedinstva",
+      "longitude": 20.4601084635954,
+      "latitude": 44.8885573114419
+    },
+    {
+      "id": "_24",
+      "label": "Pretok",
+      "longitude": 20.4576305086878,
+      "latitude": 44.8922623784065
+    },
+    {
+      "id": "_25",
+      "label": "Mali zbeg",
+      "longitude": 20.4557685618205,
+      "latitude": 44.8950523745025
+    },
+    {
+      "id": "_26",
+      "label": "Groblje Zbeg",
+      "longitude": 20.4538291957137,
+      "latitude": 44.897976961232
+    },
+    {
+      "id": "_27",
+      "label": "Put za Kovilovo",
+      "longitude": 20.4433726952914,
+      "latitude": 44.9135856255537
+    },
+    {
+      "id": "_28",
+      "label": "Put za Jabučki rit",
+      "longitude": 20.440545660414,
+      "latitude": 44.9178015749069
+    },
+    {
+      "id": "_29",
+      "label": "Frikom",
+      "longitude": 20.4378028558233,
+      "latitude": 44.9219098717405
+    },
+    {
+      "id": "_30",
+      "label": "PK Beograd",
+      "longitude": 20.4375972831387,
+      "latitude": 44.9300334740218
+    },
+    {
+      "id": "_31",
+      "label": "Naselje Tovilište",
+      "longitude": 20.4360516721038,
+      "latitude": 44.9352383018753
+    },
+    {
+      "id": "_32",
+      "label": "Marije Ilić Agapove",
+      "longitude": 20.4320657912273,
+      "latitude": 44.9378158449887
+    },
+    {
+      "id": "_33",
+      "label": "Ratomira Stojadinovića",
+      "longitude": 20.4287176070256,
+      "latitude": 44.9417337247083
+    },
+    {
+      "id": "_34",
+      "label": "Padinska skela",
+      "longitude": 20.4251665231332,
+      "latitude": 44.9448549474565
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Padinska skela",
+      "longitude": 20.424549820332,
+      "latitude": 44.9449400487075
+    },
+    {
+      "id": "_2",
+      "label": "Ratomira Stojadinovića",
+      "longitude": 20.4283695427275,
+      "latitude": 44.941821984016
+    },
+    {
+      "id": "_3",
+      "label": "Marije Ilić Agapove",
+      "longitude": 20.4323147356985,
+      "latitude": 44.9372375204365
+    },
+    {
+      "id": "_4",
+      "label": "Naselje Tovilište",
+      "longitude": 20.4354499925363,
+      "latitude": 44.9353541337153
+    },
+    {
+      "id": "_5",
+      "label": "Naselje Tovilište 1",
+      "longitude": 20.4371546663162,
+      "latitude": 44.9338614211451
+    },
+    {
+      "id": "_6",
+      "label": "PK Beograd",
+      "longitude": 20.4370301286255,
+      "latitude": 44.9284288095138
+    },
+    {
+      "id": "_7",
+      "label": "Frikom",
+      "longitude": 20.4386228090009,
+      "latitude": 44.920430793462
+    },
+    {
+      "id": "_8",
+      "label": "Put za Jabučki rit",
+      "longitude": 20.4417457476846,
+      "latitude": 44.9157663657918
+    },
+    {
+      "id": "_9",
+      "label": "Put za Kovilovo",
+      "longitude": 20.444007257894,
+      "latitude": 44.9123935866201
+    },
+    {
+      "id": "_10",
+      "label": "Groblje Zbeg",
+      "longitude": 20.4529223276776,
+      "latitude": 44.8990813655596
+    },
+    {
+      "id": "_11",
+      "label": "Mali zbeg",
+      "longitude": 20.4564027458025,
+      "latitude": 44.8938512616383
+    },
+    {
+      "id": "_12",
+      "label": "Pretok",
+      "longitude": 20.4581746603036,
+      "latitude": 44.8912048199244
+    },
+    {
+      "id": "_13",
+      "label": "Bratstva i jedinstva",
+      "longitude": 20.4610376509133,
+      "latitude": 44.8869255875895
+    },
+    {
+      "id": "_14",
+      "label": "Kosovopoljska",
+      "longitude": 20.464092658278,
+      "latitude": 44.8823681953597
+    },
+    {
+      "id": "_15",
+      "label": "Borča raskršće",
+      "longitude": 20.4675835368457,
+      "latitude": 44.8771557830855
+    },
+    {
+      "id": "_16",
+      "label": "Sebeš mokri",
+      "longitude": 20.4705528288382,
+      "latitude": 44.8727238045324
+    },
+    {
+      "id": "_17",
+      "label": "Sebeška reka",
+      "longitude": 20.4736906620926,
+      "latitude": 44.8680765319421
+    },
+    {
+      "id": "_18",
+      "label": "Sebeš suvi",
+      "longitude": 20.4786295214143,
+      "latitude": 44.8606565365871
+    },
+    {
+      "id": "_19",
+      "label": "Pakračka",
+      "longitude": 20.4807459919225,
+      "latitude": 44.8574533279554
+    },
+    {
+      "id": "_20",
+      "label": "Pirotsko naselje",
+      "longitude": 20.4840466935259,
+      "latitude": 44.8525149126039
+    },
+    {
+      "id": "_21",
+      "label": "Blok Sutjeska",
+      "longitude": 20.4867212487704,
+      "latitude": 44.8485077439287
+    },
+    {
+      "id": "_22",
+      "label": "Partizanski blok",
+      "longitude": 20.488254243672,
+      "latitude": 44.8459551401503
+    },
+    {
+      "id": "_23",
+      "label": "Blok Branka Momirova",
+      "longitude": 20.4908213801493,
+      "latitude": 44.8411464382178
+    },
+    {
+      "id": "_24",
+      "label": "Pančevački most",
+      "longitude": 20.4880669667056,
+      "latitude": 44.8181080712324
+    },
+    {
+      "id": "_25",
+      "label": "Centar za kulturu Vlada Divljan",
+      "longitude": 20.4847907935109,
+      "latitude": 44.8176884331184
+    },
+    {
+      "id": "_26",
+      "label": "Jovana Avakumovića",
+      "longitude": 20.4794960488007,
+      "latitude": 44.8173405594268
+    },
+    {
+      "id": "_27",
+      "label": "Cvijićeva",
+      "longitude": 20.4759899695334,
+      "latitude": 44.817189611341
+    },
+    {
+      "id": "_28",
+      "label": "Džordža Vašingtona",
+      "longitude": 20.4700243278074,
+      "latitude": 44.8169372277923
+    },
+    {
+      "id": "_29",
+      "label": "Trg republike",
+      "longitude": 20.4610306188357,
+      "latitude": 44.8162671711599
+    }
+  ]
+}

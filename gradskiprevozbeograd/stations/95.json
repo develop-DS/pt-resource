@@ -1,504 +1,498 @@
 {
-  "direction_a": [
-    {
-      "id": "_1",
-      "label": "Blok 45",
-      "longitude": 20.3751291683801,
-      "latitude": 44.7929743516835
-    },
-    {
-      "id": "_2",
-      "label": "Dr Ivana Ribara 1",
-      "longitude": 20.372822056412,
-      "latitude": 44.795955006956
-    },
-    {
-      "id": "_3",
-      "label": "Dr Ivana Ribara",
-      "longitude": 20.3702628435876,
-      "latitude": 44.7993158104791
-    },
-    {
-      "id": "_4",
-      "label": "MZ Blok 61",
-      "longitude": 20.3728056491203,
-      "latitude": 44.8016930269148
-    },
-    {
-      "id": "_5",
-      "label": "Blok 62",
-      "longitude": 20.3769840317368,
-      "latitude": 44.8033987187411
-    },
-    {
-      "id": "_6",
-      "label": "Blok 63",
-      "longitude": 20.3819933994224,
-      "latitude": 44.8054417213769
-    },
-    {
-      "id": "_7",
-      "label": "MZ Mladost",
-      "longitude": 20.3856185413155,
-      "latitude": 44.8064367500536
-    },
-    {
-      "id": "_8",
-      "label": "Gandijeva",
-      "longitude": 20.3890031634022,
-      "latitude": 44.8033859914348
-    },
-    {
-      "id": "_9",
-      "label": "Blok 70",
-      "longitude": 20.3938859295558,
-      "latitude": 44.8040328697862
-    },
-    {
-      "id": "_10",
-      "label": "Omladinskih brigada",
-      "longitude": 20.3982187854152,
-      "latitude": 44.8043256732423
-    },
-    {
-      "id": "_11",
-      "label": "Agostina Neta",
-      "longitude": 20.4050383387221,
-      "latitude": 44.8042352593398
-    },
-    {
-      "id": "_12",
-      "label": "Naselje Belvil",
-      "longitude": 20.4113692,
-      "latitude": 44.8039192
-    },
-    {
-      "id": "_13",
-      "label": "Blok 42",
-      "longitude": 20.4174981040421,
-      "latitude": 44.8046717945968
-    },
-    {
-      "id": "_14",
-      "label": "Železnička stanica Novi Beograd",
-      "longitude": 20.4188123909699,
-      "latitude": 44.8069877418935
-    },
-    {
-      "id": "_15",
-      "label": "Milutina Milankovića",
-      "longitude": 20.4229537163457,
-      "latitude": 44.8064884771245
-    },
-    {
-      "id": "_16",
-      "label": "Blok 23",
-      "longitude": 20.4277141637499,
-      "latitude": 44.8067841114559
-    },
-    {
-      "id": "_17",
-      "label": "Sava centar",
-      "longitude": 20.4306656730991,
-      "latitude": 44.810044028612
-    },
-    {
-      "id": "_18",
-      "label": "Blok 21",
-      "longitude": 20.4340503176078,
-      "latitude": 44.8137811800735
-    },
-    {
-      "id": "_19",
-      "label": "Brankov most",
-      "longitude": 20.4526067155746,
-      "latitude": 44.8149925584042
-    },
-    {
-      "id": "_20",
-      "label": "Zeleni venac",
-      "longitude": 20.4568381962374,
-      "latitude": 44.8143467033491
-    },
-    {
-      "id": "_21",
-      "label": "Dom omladine",
-      "longitude": 20.4624699332322,
-      "latitude": 44.8153973695586
-    },
-    {
-      "id": "_22",
-      "label": "Džordža Vašingtona",
-      "longitude": 20.4698685349023,
-      "latitude": 44.8168285139703
-    },
-    {
-      "id": "_23",
-      "label": "Cvijićeva",
-      "longitude": 20.4775075852578,
-      "latitude": 44.8171515332769
-    },
-    {
-      "id": "_24",
-      "label": "Centar za kulturu Vlada Divljan",
-      "longitude": 20.4830256257873,
-      "latitude": 44.8174105100631
-    },
-    {
-      "id": "_25",
-      "label": "Pančevački most",
-      "longitude": 20.4885015962284,
-      "latitude": 44.8178580225643
-    },
-    {
-      "id": "_26",
-      "label": "MZ Krnjača",
-      "longitude": 20.4941835071208,
-      "latitude": 44.8376623052089
-    },
-    {
-      "id": "_27",
-      "label": "Blok Branka Momirova",
-      "longitude": 20.4908417975942,
-      "latitude": 44.8414147132766
-    },
-    {
-      "id": "_28",
-      "label": "Partizanski blok",
-      "longitude": 20.4881921537112,
-      "latitude": 44.846397637296
-    },
-    {
-      "id": "_29",
-      "label": "Blok Sutjeska",
-      "longitude": 20.4863259678953,
-      "latitude": 44.8494311207245
-    },
-    {
-      "id": "_30",
-      "label": "Pirotsko naselje",
-      "longitude": 20.4836376503621,
-      "latitude": 44.8535552105582
-    },
-    {
-      "id": "_31",
-      "label": "Pakračka",
-      "longitude": 20.4803037155818,
-      "latitude": 44.8585204610583
-    },
-    {
-      "id": "_32",
-      "label": "Sebeš suvi",
-      "longitude": 20.4780975569801,
-      "latitude": 44.8618402458717
-    },
-    {
-      "id": "_33",
-      "label": "Sebeška reka",
-      "longitude": 20.4737486457741,
-      "latitude": 44.8683809788243
-    },
-    {
-      "id": "_34",
-      "label": "Sebeš mokri",
-      "longitude": 20.4703541554214,
-      "latitude": 44.8734140439099
-    },
-    {
-      "id": "_35",
-      "label": "Borča raskršće",
-      "longitude": 20.4659366685636,
-      "latitude": 44.8781380666315
-    },
-    {
-      "id": "_36",
-      "label": "Valjevskog odreda",
-      "longitude": 20.4621002617329,
-      "latitude": 44.8755427121218
-    },
-    {
-      "id": "_37",
-      "label": "Milana Ajvaza",
-      "longitude": 20.459693494969,
-      "latitude": 44.8771153031148
-    },
-    {
-      "id": "_38",
-      "label": "Mihajla Šolohova",
-      "longitude": 20.456777794913,
-      "latitude": 44.878955417221
-    },
-    {
-      "id": "_39",
-      "label": "Kombinatova",
-      "longitude": 20.4520965351724,
-      "latitude": 44.8800832843137
-    },
-    {
-      "id": "_40",
-      "label": "Bele Bartoka",
-      "longitude": 20.4514405407691,
-      "latitude": 44.877173336995
-    },
-    {
-      "id": "_41",
-      "label": "Borča 3",
-      "longitude": 20.4483753251633,
-      "latitude": 44.8747431951929
-    }
-  ],
-  "direction_b": [
-    {
-      "id": "_1",
-      "label": "Borča 3",
-      "longitude": 20.448222565918,
-      "latitude": 44.8745696716412
-    },
-    {
-      "id": "_2",
-      "label": "Bele Bartoka",
-      "longitude": 20.4518386123245,
-      "latitude": 44.8776414096
-    },
-    {
-      "id": "_3",
-      "label": "Kombinatova",
-      "longitude": 20.4529338648228,
-      "latitude": 44.8806848411228
-    },
-    {
-      "id": "_4",
-      "label": "Mihajla Šolohova",
-      "longitude": 20.4563793559971,
-      "latitude": 44.879061523216
-    },
-    {
-      "id": "_5",
-      "label": "Milana Ajvaza",
-      "longitude": 20.4590020770869,
-      "latitude": 44.8774234252863
-    },
-    {
-      "id": "_6",
-      "label": "Valjevskog odreda",
-      "longitude": 20.4628655275921,
-      "latitude": 44.8754563026721
-    },
-    {
-      "id": "_7",
-      "label": "Borča raskršće",
-      "longitude": 20.4675835368457,
-      "latitude": 44.8771557830855
-    },
-    {
-      "id": "_8",
-      "label": "Sebeš mokri",
-      "longitude": 20.4705528288382,
-      "latitude": 44.8727238045324
-    },
-    {
-      "id": "_9",
-      "label": "Sebeška reka",
-      "longitude": 20.4736906620926,
-      "latitude": 44.8680765319421
-    },
-    {
-      "id": "_10",
-      "label": "Sebeš suvi",
-      "longitude": 20.4786295214143,
-      "latitude": 44.8606565365871
-    },
-    {
-      "id": "_11",
-      "label": "Pakračka",
-      "longitude": 20.4807459919225,
-      "latitude": 44.8574533279554
-    },
-    {
-      "id": "_12",
-      "label": "Pirotsko naselje",
-      "longitude": 20.4840466935259,
-      "latitude": 44.8525149126039
-    },
-    {
-      "id": "_13",
-      "label": "Blok Sutjeska",
-      "longitude": 20.4867212487704,
-      "latitude": 44.8485077439287
-    },
-    {
-      "id": "_14",
-      "label": "Partizanski blok",
-      "longitude": 20.488254243672,
-      "latitude": 44.8459551401503
-    },
-    {
-      "id": "_15",
-      "label": "Blok Branka Momirova",
-      "longitude": 20.4908213801493,
-      "latitude": 44.8411464382178
-    },
-    {
-      "id": "_16",
-      "label": "Pančevački most",
-      "longitude": 20.4880669667056,
-      "latitude": 44.8181080712324
-    },
-    {
-      "id": "_17",
-      "label": "Centar za kulturu Vlada Divljan",
-      "longitude": 20.4847907935109,
-      "latitude": 44.8176884331184
-    },
-    {
-      "id": "_18",
-      "label": "Jovana Avakumovića",
-      "longitude": 20.4794960488007,
-      "latitude": 44.8173405594268
-    },
-    {
-      "id": "_19",
-      "label": "Cvijićeva",
-      "longitude": 20.4759899695334,
-      "latitude": 44.817189611341
-    },
-    {
-      "id": "_20",
-      "label": "Džordža Vašingtona",
-      "longitude": 20.4700243278074,
-      "latitude": 44.8169372277923
-    },
-    {
-      "id": "_21",
-      "label": "Skadarska",
-      "longitude": 20.4637812526913,
-      "latitude": 44.8166112403289
-    },
-    {
-      "id": "_22",
-      "label": "Zeleni venac",
-      "longitude": 20.4568371536344,
-      "latitude": 44.8144582924763
-    },
-    {
-      "id": "_23",
-      "label": "Brankov most",
-      "longitude": 20.4522002771838,
-      "latitude": 44.8151886080544
-    },
-    {
-      "id": "_24",
-      "label": "Blok 21",
-      "longitude": 20.433509600562,
-      "latitude": 44.813738913336
-    },
-    {
-      "id": "_25",
-      "label": "Sava centar",
-      "longitude": 20.429376966835,
-      "latitude": 44.8091880699878
-    },
-    {
-      "id": "_26",
-      "label": "Blok 23",
-      "longitude": 20.4272059403329,
-      "latitude": 44.8067869745889
-    },
-    {
-      "id": "_27",
-      "label": "Milutina Milankovića",
-      "longitude": 20.4222768941996,
-      "latitude": 44.807174434539
-    },
-    {
-      "id": "_28",
-      "label": "Železnička stanica Novi Beograd",
-      "longitude": 20.4184994400701,
-      "latitude": 44.807184145511
-    },
-    {
-      "id": "_29",
-      "label": "Blok 42",
-      "longitude": 20.4161138241365,
-      "latitude": 44.8040491880885
-    },
-    {
-      "id": "_30",
-      "label": "Naselje Belvil",
-      "longitude": 20.4087912710902,
-      "latitude": 44.8043806592678
-    },
-    {
-      "id": "_31",
-      "label": "Agostina Neta",
-      "longitude": 20.402670230293,
-      "latitude": 44.804645928585
-    },
-    {
-      "id": "_32",
-      "label": "Omladinskih brigada",
-      "longitude": 20.3981750749657,
-      "latitude": 44.8046404276435
-    },
-    {
-      "id": "_33",
-      "label": "Blok 70",
-      "longitude": 20.3936830200988,
-      "latitude": 44.8043377814529
-    },
-    {
-      "id": "_34",
-      "label": "Gandijeva",
-      "longitude": 20.3876357438937,
-      "latitude": 44.8043146496849
-    },
-    {
-      "id": "_35",
-      "label": "MZ Mladost",
-      "longitude": 20.3862385143973,
-      "latitude": 44.8061466850919
-    },
-    {
-      "id": "_36",
-      "label": "Blok 63",
-      "longitude": 20.3816021341245,
-      "latitude": 44.8065717534079
-    },
-    {
-      "id": "_37",
-      "label": "Blok 62",
-      "longitude": 20.3757193030745,
-      "latitude": 44.8041640006036
-    },
-    {
-      "id": "_38",
-      "label": "MZ Blok 61",
-      "longitude": 20.3718907969387,
-      "latitude": 44.8025987726821
-    },
-    {
-      "id": "_39",
-      "label": "Blok 61",
-      "longitude": 20.3702519540636,
-      "latitude": 44.801254252104
-    },
-    {
-      "id": "_40",
-      "label": "Naselje Dr Ivana Ribara",
-      "longitude": 20.3695220637996,
-      "latitude": 44.7997887155459
-    },
-    {
-      "id": "_41",
-      "label": "Dr Ivana Ribara 1",
-      "longitude": 20.3720076477441,
-      "latitude": 44.7966975121338
-    },
-    {
-      "id": "_42",
-      "label": "Blok 45",
-      "longitude": 20.3751162660873,
-      "latitude": 44.7927636918094
-    }
-  ]
+    "direction_a": [
+        {
+            "id": "_1",
+            "label": "Blok 45",
+            "longitude": 20.3751291683801,
+            "latitude": 44.7929743516835
+        },
+        {
+            "id": "_2",
+            "label": "Dr Ivana Ribara 1",
+            "longitude": 20.372822056412,
+            "latitude": 44.795955006956
+        },
+        {
+            "id": "_3",
+            "label": "Dr Ivana Ribara",
+            "longitude": 20.3702628435876,
+            "latitude": 44.7993158104791
+        },
+        {
+            "id": "_4",
+            "label": "MZ Blok 61",
+            "longitude": 20.3728056491203,
+            "latitude": 44.8016930269148
+        },
+        {
+            "id": "_5",
+            "label": "Blok 62",
+            "longitude": 20.3769840317368,
+            "latitude": 44.8033987187411
+        },
+        {
+            "id": "_6",
+            "label": "Blok 63",
+            "longitude": 20.3819933994224,
+            "latitude": 44.8054417213769
+        },
+        {
+            "id": "_7",
+            "label": "MZ Mladost",
+            "longitude": 20.3856185413155,
+            "latitude": 44.8064367500536
+        },
+        {
+            "id": "_8",
+            "label": "Gandijeva",
+            "longitude": 20.3890031634022,
+            "latitude": 44.8033859914348
+        },
+        {
+            "id": "_9",
+            "label": "Blok 70",
+            "longitude": 20.3938859295558,
+            "latitude": 44.8040328697862
+        },
+        {
+            "id": "_10",
+            "label": "Omladinskih brigada",
+            "longitude": 20.3982187854152,
+            "latitude": 44.8043256732423
+        },
+        {
+            "id": "_11",
+            "label": "Agostina Neta",
+            "longitude": 20.4050383387221,
+            "latitude": 44.8042352593398
+        },
+        {
+            "id": "_12",
+            "label": "Naselje Belvil",
+            "longitude": 20.4113692,
+            "latitude": 44.8039192
+        },
+        {
+            "id": "_13",
+            "label": "Bulevar Crvene Armije",
+            "longitude": 20.4132201265708,
+            "latitude": 44.8051917615602
+        },
+        {
+            "id": "_14",
+            "label": "Milutina Milankovića",
+            "longitude": 20.4229537163457,
+            "latitude": 44.8064884771245
+        },
+        {
+            "id": "_15",
+            "label": "Blok 23",
+            "longitude": 20.4277141637499,
+            "latitude": 44.8067841114559
+        },
+        {
+            "id": "_16",
+            "label": "Sava centar",
+            "longitude": 20.4306656730991,
+            "latitude": 44.810044028612
+        },
+        {
+            "id": "_17",
+            "label": "Blok 21",
+            "longitude": 20.4340503176078,
+            "latitude": 44.8137811800735
+        },
+        {
+            "id": "_18",
+            "label": "Brankov most",
+            "longitude": 20.4526067155746,
+            "latitude": 44.8149925584042
+        },
+        {
+            "id": "_19",
+            "label": "Zeleni venac",
+            "longitude": 20.4568381962374,
+            "latitude": 44.8143467033491
+        },
+        {
+            "id": "_20",
+            "label": "Dom omladine",
+            "longitude": 20.4624699332322,
+            "latitude": 44.8153973695586
+        },
+        {
+            "id": "_21",
+            "label": "Džordža Vašingtona",
+            "longitude": 20.4698685349023,
+            "latitude": 44.8168285139703
+        },
+        {
+            "id": "_22",
+            "label": "Cvijićeva",
+            "longitude": 20.4775075852578,
+            "latitude": 44.8171515332769
+        },
+        {
+            "id": "_23",
+            "label": "Centar za kulturu Vlada Divljan",
+            "longitude": 20.4830256257873,
+            "latitude": 44.8174105100631
+        },
+        {
+            "id": "_24",
+            "label": "Pančevački most",
+            "longitude": 20.4885015962284,
+            "latitude": 44.8178580225643
+        },
+        {
+            "id": "_25",
+            "label": "MZ Krnjača",
+            "longitude": 20.4941835071208,
+            "latitude": 44.8376623052089
+        },
+        {
+            "id": "_26",
+            "label": "Blok Branka Momirova",
+            "longitude": 20.4908417975942,
+            "latitude": 44.8414147132766
+        },
+        {
+            "id": "_27",
+            "label": "Partizanski blok",
+            "longitude": 20.4881921537112,
+            "latitude": 44.846397637296
+        },
+        {
+            "id": "_28",
+            "label": "Blok Sutjeska",
+            "longitude": 20.4863259678953,
+            "latitude": 44.8494311207245
+        },
+        {
+            "id": "_29",
+            "label": "Pirotsko naselje",
+            "longitude": 20.4836376503621,
+            "latitude": 44.8535552105582
+        },
+        {
+            "id": "_30",
+            "label": "Pakračka",
+            "longitude": 20.4803037155818,
+            "latitude": 44.8585204610583
+        },
+        {
+            "id": "_31",
+            "label": "Sebeš suvi",
+            "longitude": 20.4780975569801,
+            "latitude": 44.8618402458717
+        },
+        {
+            "id": "_32",
+            "label": "Sebeška reka",
+            "longitude": 20.4737486457741,
+            "latitude": 44.8683809788243
+        },
+        {
+            "id": "_33",
+            "label": "Sebeš mokri",
+            "longitude": 20.4703541554214,
+            "latitude": 44.8734140439099
+        },
+        {
+            "id": "_34",
+            "label": "Borča raskršće",
+            "longitude": 20.4659366685636,
+            "latitude": 44.8781380666315
+        },
+        {
+            "id": "_35",
+            "label": "Valjevskog odreda",
+            "longitude": 20.4621002617329,
+            "latitude": 44.8755427121218
+        },
+        {
+            "id": "_36",
+            "label": "Milana Ajvaza",
+            "longitude": 20.459693494969,
+            "latitude": 44.8771153031148
+        },
+        {
+            "id": "_37",
+            "label": "Mihajla Šolohova",
+            "longitude": 20.456777794913,
+            "latitude": 44.878955417221
+        },
+        {
+            "id": "_38",
+            "label": "Kombinatova",
+            "longitude": 20.4520965351724,
+            "latitude": 44.8800832843137
+        },
+        {
+            "id": "_39",
+            "label": "Bele Bartoka",
+            "longitude": 20.4514405407691,
+            "latitude": 44.877173336995
+        },
+        {
+            "id": "_40",
+            "label": "Borča 3",
+            "longitude": 20.4483753251633,
+            "latitude": 44.8747431951929
+        }
+    ],
+    "direction_b": [
+        {
+            "id": "_1",
+            "label": "Borča 3",
+            "longitude": 20.448222565918,
+            "latitude": 44.8745696716412
+        },
+        {
+            "id": "_2",
+            "label": "Bele Bartoka",
+            "longitude": 20.4518386123245,
+            "latitude": 44.8776414096
+        },
+        {
+            "id": "_3",
+            "label": "Kombinatova",
+            "longitude": 20.4529338648228,
+            "latitude": 44.8806848411228
+        },
+        {
+            "id": "_4",
+            "label": "Mihajla Šolohova",
+            "longitude": 20.4563793559971,
+            "latitude": 44.879061523216
+        },
+        {
+            "id": "_5",
+            "label": "Milana Ajvaza",
+            "longitude": 20.4590020770869,
+            "latitude": 44.8774234252863
+        },
+        {
+            "id": "_6",
+            "label": "Valjevskog odreda",
+            "longitude": 20.4628655275921,
+            "latitude": 44.8754563026721
+        },
+        {
+            "id": "_7",
+            "label": "Borča raskršće",
+            "longitude": 20.4675835368457,
+            "latitude": 44.8771557830855
+        },
+        {
+            "id": "_8",
+            "label": "Sebeš mokri",
+            "longitude": 20.4705528288382,
+            "latitude": 44.8727238045324
+        },
+        {
+            "id": "_9",
+            "label": "Sebeška reka",
+            "longitude": 20.4736906620926,
+            "latitude": 44.8680765319421
+        },
+        {
+            "id": "_10",
+            "label": "Sebeš suvi",
+            "longitude": 20.4786295214143,
+            "latitude": 44.8606565365871
+        },
+        {
+            "id": "_11",
+            "label": "Pakračka",
+            "longitude": 20.4807459919225,
+            "latitude": 44.8574533279554
+        },
+        {
+            "id": "_12",
+            "label": "Pirotsko naselje",
+            "longitude": 20.4840466935259,
+            "latitude": 44.8525149126039
+        },
+        {
+            "id": "_13",
+            "label": "Blok Sutjeska",
+            "longitude": 20.4867212487704,
+            "latitude": 44.8485077439287
+        },
+        {
+            "id": "_14",
+            "label": "Partizanski blok",
+            "longitude": 20.488254243672,
+            "latitude": 44.8459551401503
+        },
+        {
+            "id": "_15",
+            "label": "Blok Branka Momirova",
+            "longitude": 20.4908213801493,
+            "latitude": 44.8411464382178
+        },
+        {
+            "id": "_16",
+            "label": "Pančevački most",
+            "longitude": 20.4880669667056,
+            "latitude": 44.8181080712324
+        },
+        {
+            "id": "_17",
+            "label": "Centar za kulturu Vlada Divljan",
+            "longitude": 20.4847907935109,
+            "latitude": 44.8176884331184
+        },
+        {
+            "id": "_18",
+            "label": "Jovana Avakumovića",
+            "longitude": 20.4794960488007,
+            "latitude": 44.8173405594268
+        },
+        {
+            "id": "_19",
+            "label": "Cvijićeva",
+            "longitude": 20.4759899695334,
+            "latitude": 44.817189611341
+        },
+        {
+            "id": "_20",
+            "label": "Džordža Vašingtona",
+            "longitude": 20.4700243278074,
+            "latitude": 44.8169372277923
+        },
+        {
+            "id": "_21",
+            "label": "Skadarska",
+            "longitude": 20.4637812526913,
+            "latitude": 44.8166112403289
+        },
+        {
+            "id": "_22",
+            "label": "Zeleni venac",
+            "longitude": 20.4568371536344,
+            "latitude": 44.8144582924763
+        },
+        {
+            "id": "_23",
+            "label": "Brankov most",
+            "longitude": 20.4522002771838,
+            "latitude": 44.8151886080544
+        },
+        {
+            "id": "_24",
+            "label": "Blok 21",
+            "longitude": 20.433509600562,
+            "latitude": 44.813738913336
+        },
+        {
+            "id": "_25",
+            "label": "Sava centar",
+            "longitude": 20.429376966835,
+            "latitude": 44.8091880699878
+        },
+        {
+            "id": "_26",
+            "label": "Blok 23",
+            "longitude": 20.4272059403329,
+            "latitude": 44.8067869745889
+        },
+        {
+            "id": "_27",
+            "label": "Milutina Milankovića",
+            "longitude": 20.4222768941996,
+            "latitude": 44.807174434539
+        },
+        {
+            "id": "_28",
+            "label": "Železnička stanica Novi Beograd",
+            "longitude": 20.4184994400701,
+            "latitude": 44.807184145511
+        },
+        {
+            "id": "_29",
+            "label": "Blok 42",
+            "longitude": 20.4161138241365,
+            "latitude": 44.8040491880885
+        },
+        {
+            "id": "_30",
+            "label": "Naselje Belvil",
+            "longitude": 20.4087912710902,
+            "latitude": 44.8043806592678
+        },
+        {
+            "id": "_31",
+            "label": "Agostina Neta",
+            "longitude": 20.402670230293,
+            "latitude": 44.804645928585
+        },
+        {
+            "id": "_32",
+            "label": "Omladinskih brigada",
+            "longitude": 20.3981750749657,
+            "latitude": 44.8046404276435
+        },
+        {
+            "id": "_33",
+            "label": "Blok 70",
+            "longitude": 20.3936830200988,
+            "latitude": 44.8043377814529
+        },
+        {
+            "id": "_34",
+            "label": "Gandijeva",
+            "longitude": 20.3876357438937,
+            "latitude": 44.8043146496849
+        },
+        {
+            "id": "_35",
+            "label": "MZ Mladost",
+            "longitude": 20.3862385143973,
+            "latitude": 44.8061466850919
+        },
+        {
+            "id": "_36",
+            "label": "Blok 63",
+            "longitude": 20.3816021341245,
+            "latitude": 44.8065717534079
+        },
+        {
+            "id": "_37",
+            "label": "Blok 62",
+            "longitude": 20.3757193030745,
+            "latitude": 44.8041640006036
+        },
+        {
+            "id": "_38",
+            "label": "MZ Blok 61",
+            "longitude": 20.3718907969387,
+            "latitude": 44.8025987726821
+        },
+        {
+            "id": "_39",
+            "label": "Blok 61",
+            "longitude": 20.3702519540636,
+            "latitude": 44.801254252104
+        },
+        {
+            "id": "_40",
+            "label": "Naselje Dr Ivana Ribara",
+            "longitude": 20.3695220637996,
+            "latitude": 44.7997887155459
+        },
+        {
+            "id": "_41",
+            "label": "Dr Ivana Ribara 1",
+            "longitude": 20.3720076477441,
+            "latitude": 44.7966975121338
+        },
+        {
+            "id": "_42",
+            "label": "Blok 45",
+            "longitude": 20.3751162660873,
+            "latitude": 44.7927636918094
+        }
+    ]
 }

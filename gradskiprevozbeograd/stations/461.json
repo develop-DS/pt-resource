@@ -1,0 +1,126 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Šumice",
+      "longitude": 20.5006922421326,
+      "latitude": 44.7839825080494
+    },
+    {
+      "id": "_2",
+      "label": "Tranšped",
+      "longitude": 20.5761749001744,
+      "latitude": 44.7038573569876
+    },
+    {
+      "id": "_3",
+      "label": "Vrčin (Ivo Lola Ribar)",
+      "longitude": 20.5992131251396,
+      "latitude": 44.6733137066181
+    },
+    {
+      "id": "_4",
+      "label": "Vrčin (pijaca)",
+      "longitude": 20.5959358215332,
+      "latitude": 44.6716651916504
+    },
+    {
+      "id": "_5",
+      "label": "Save Kovačevića",
+      "longitude": 20.5942421846942,
+      "latitude": 44.6675693767692
+    },
+    {
+      "id": "_6",
+      "label": "Vrčin - Centar",
+      "longitude": 20.5917612510199,
+      "latitude": 44.6634660262375
+    },
+    {
+      "id": "_7",
+      "label": "Grablje",
+      "longitude": 20.5920159251754,
+      "latitude": 44.6581566112552
+    },
+    {
+      "id": "_8",
+      "label": "Brdo - Stara okretnica",
+      "longitude": 20.5956797970086,
+      "latitude": 44.6549474513402
+    },
+    {
+      "id": "_9",
+      "label": "Ravnice (škola)",
+      "longitude": 20.5964416034357,
+      "latitude": 44.6504921103132
+    },
+    {
+      "id": "_10",
+      "label": "Vrčin - Ravnice (okretnica)",
+      "longitude": 20.5968074798584,
+      "latitude": 44.6473846435547
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Vrčin - Ravnice (okretnica)",
+      "longitude": 20.5968359510799,
+      "latitude": 44.6472252787758
+    },
+    {
+      "id": "_2",
+      "label": "Ravnice (škola)",
+      "longitude": 20.596508699751,
+      "latitude": 44.6506218638414
+    },
+    {
+      "id": "_3",
+      "label": "Brdo - Stara okretnica",
+      "longitude": 20.595891759576,
+      "latitude": 44.654792903485
+    },
+    {
+      "id": "_4",
+      "label": "Grablje",
+      "longitude": 20.5922949493886,
+      "latitude": 44.6580497693124
+    },
+    {
+      "id": "_5",
+      "label": "Vrčin - Centar",
+      "longitude": 20.591533132689,
+      "latitude": 44.6634870111028
+    },
+    {
+      "id": "_6",
+      "label": "Save Kovačevića",
+      "longitude": 20.5944729095017,
+      "latitude": 44.6678631433965
+    },
+    {
+      "id": "_7",
+      "label": "Vrčin",
+      "longitude": 20.5962735405151,
+      "latitude": 44.6716078663008
+    },
+    {
+      "id": "_8",
+      "label": "Vrčin - Nadvožnjak",
+      "longitude": 20.6020554412772,
+      "latitude": 44.674142525868
+    },
+    {
+      "id": "_9",
+      "label": "Tranšped",
+      "longitude": 20.5761749001744,
+      "latitude": 44.7038573569876
+    },
+    {
+      "id": "_10",
+      "label": "Šumice",
+      "longitude": 20.5006922421326,
+      "latitude": 44.7839825080494
+    }
+  ]
+}

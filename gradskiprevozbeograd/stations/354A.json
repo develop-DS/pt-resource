@@ -1,0 +1,257 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Živkovac okretnica",
+      "longitude": 20.8158409229942,
+      "latitude": 44.5930152201944
+    },
+    {
+      "id": "_2",
+      "label": "Živkovac - Stara O",
+      "longitude": 20.8084326952036,
+      "latitude": 44.5903563944754
+    },
+    {
+      "id": "_3",
+      "label": "Živkovac - Prodavnica",
+      "longitude": 20.8023762702942,
+      "latitude": 44.5887786142384
+    },
+    {
+      "id": "_4",
+      "label": "Živkovac (Mač. brest)",
+      "longitude": 20.7931387394007,
+      "latitude": 44.5882132007269
+    },
+    {
+      "id": "_5",
+      "label": "Živkovac - Ulaz",
+      "longitude": 20.7716484069824,
+      "latitude": 44.5860557556152
+    },
+    {
+      "id": "_6",
+      "label": "Umčari - Donji kraj - Škola",
+      "longitude": 20.7645088434219,
+      "latitude": 44.584725088999
+    },
+    {
+      "id": "_7",
+      "label": "Prodavnica - Donji kraj",
+      "longitude": 20.7545927428139,
+      "latitude": 44.5838616248619
+    },
+    {
+      "id": "_8",
+      "label": "Miloša Obrenovića",
+      "longitude": 20.7469350251875,
+      "latitude": 44.5825281970837
+    },
+    {
+      "id": "_9",
+      "label": "Umčari centar odlazna",
+      "longitude": 20.7357769518521,
+      "latitude": 44.5831547973273
+    },
+    {
+      "id": "_10",
+      "label": "Umčari - Čekerac",
+      "longitude": 20.7276982190865,
+      "latitude": 44.593168022574
+    },
+    {
+      "id": "_11",
+      "label": "Pudarci čokanj",
+      "longitude": 20.7258314016121,
+      "latitude": 44.5997610625605
+    },
+    {
+      "id": "_12",
+      "label": "Pudarci - Prodavnica",
+      "longitude": 20.724860484596,
+      "latitude": 44.6080337727604
+    },
+    {
+      "id": "_13",
+      "label": "Pudarci - Trafo",
+      "longitude": 20.7241684320229,
+      "latitude": 44.6134680653523
+    },
+    {
+      "id": "_14",
+      "label": "Kamendol R",
+      "longitude": 20.7282371520996,
+      "latitude": 44.6149101257324
+    },
+    {
+      "id": "_15",
+      "label": "Bukovača",
+      "longitude": 20.7422734098906,
+      "latitude": 44.6218533686974
+    },
+    {
+      "id": "_16",
+      "label": "Institut",
+      "longitude": 20.7513928687552,
+      "latitude": 44.6423609462747
+    },
+    {
+      "id": "_17",
+      "label": "Brestovik R",
+      "longitude": 20.7579320973798,
+      "latitude": 44.6475477720834
+    },
+    {
+      "id": "_18",
+      "label": "Brestovik - Vikend naselje",
+      "longitude": 20.7456073760986,
+      "latitude": 44.6562461853027
+    },
+    {
+      "id": "_19",
+      "label": "Alaska koliba",
+      "longitude": 20.7349414825439,
+      "latitude": 44.6623382568359
+    },
+    {
+      "id": "_20",
+      "label": "Šumadijska",
+      "longitude": 20.7156234631521,
+      "latitude": 44.6741732893128
+    },
+    {
+      "id": "_21",
+      "label": "Put za Zaklopaču",
+      "longitude": 20.6683294526992,
+      "latitude": 44.6975234715595
+    },
+    {
+      "id": "_22",
+      "label": "Ulaz u Zaklopaču",
+      "longitude": 20.6632747757777,
+      "latitude": 44.6874237126917
+    },
+    {
+      "id": "_23",
+      "label": "4. jula",
+      "longitude": 20.6620080120882,
+      "latitude": 44.6852636650538
+    },
+    {
+      "id": "_24",
+      "label": "Trafostanica",
+      "longitude": 20.6626867689051,
+      "latitude": 44.6804346017307
+    },
+    {
+      "id": "_25",
+      "label": "Dom kulture",
+      "longitude": 20.6598835217223,
+      "latitude": 44.6761550751713
+    },
+    {
+      "id": "_26",
+      "label": "Crkva Sv. Trojice",
+      "longitude": 20.6564616786851,
+      "latitude": 44.6754879285817
+    },
+    {
+      "id": "_27",
+      "label": "Zaklopača",
+      "longitude": 20.6518546566915,
+      "latitude": 44.6756090763521
+    },
+    {
+      "id": "_28",
+      "label": "Zaklopača (Ćelije)",
+      "longitude": 20.6484187125925,
+      "latitude": 44.6794127161764
+    },
+    {
+      "id": "_29",
+      "label": "Jankovića kraj",
+      "longitude": 20.6281952771933,
+      "latitude": 44.6791349254253
+    },
+    {
+      "id": "_30",
+      "label": "17. januara",
+      "longitude": 20.6218716928505,
+      "latitude": 44.6785869200388
+    },
+    {
+      "id": "_31",
+      "label": "Vrčin (Gornji kraj)",
+      "longitude": 20.615656958201,
+      "latitude": 44.6756953964329
+    },
+    {
+      "id": "_32",
+      "label": "Vrčin (nadvožnjak)",
+      "longitude": 20.6020911651879,
+      "latitude": 44.6748212634166
+    },
+    {
+      "id": "_33",
+      "label": "Vrčin (Ivo Lola Ribar)",
+      "longitude": 20.5992131251396,
+      "latitude": 44.6733137066181
+    },
+    {
+      "id": "_34",
+      "label": "Vrčin (pijaca)",
+      "longitude": 20.5959358215332,
+      "latitude": 44.6716651916504
+    },
+    {
+      "id": "_35",
+      "label": "Save Kovačevića",
+      "longitude": 20.5942421846942,
+      "latitude": 44.6675693767692
+    },
+    {
+      "id": "_36",
+      "label": "Vrčin - Centar",
+      "longitude": 20.5917612510199,
+      "latitude": 44.6634660262375
+    },
+    {
+      "id": "_37",
+      "label": "Vrčin - Centar",
+      "longitude": 20.591533132689,
+      "latitude": 44.6634870111028
+    },
+    {
+      "id": "_38",
+      "label": "Save Kovačevića",
+      "longitude": 20.5944729095017,
+      "latitude": 44.6678631433965
+    },
+    {
+      "id": "_39",
+      "label": "Vrčin",
+      "longitude": 20.5962735405151,
+      "latitude": 44.6716078663008
+    },
+    {
+      "id": "_40",
+      "label": "Vrčin - Nadvožnjak",
+      "longitude": 20.6020554412772,
+      "latitude": 44.674142525868
+    },
+    {
+      "id": "_41",
+      "label": "Tranšped",
+      "longitude": 20.5761749001744,
+      "latitude": 44.7038573569876
+    },
+    {
+      "id": "_42",
+      "label": "Šumice",
+      "longitude": 20.500804979919,
+      "latitude": 44.7839063581867
+    }
+  ],
+  "direction_b": []
+}

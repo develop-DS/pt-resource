@@ -113,101 +113,125 @@
       "label": "Donja Vrežina",
       "longitude": 21.9470874821174,
       "latitude": 43.3303145619511
+    },
+    {
+      "id": "_20",
+      "label": "Vulkanizer",
+      "longitude": 21.9546375274658,
+      "latitude": 43.3289260864258
+    },
+    {
+      "id": "_21",
+      "label": "Donja Vrežina 1",
+      "longitude": 21.9617786407471,
+      "latitude": 43.327220916748
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Donja Vrežina",
-      "longitude": 21.9470472183919,
-      "latitude": 43.330579548867
+      "label": "Donja Vrežina 1",
+      "longitude": 21.9617786407471,
+      "latitude": 43.327220916748
     },
     {
       "id": "_2",
+      "label": "Vulkanizer",
+      "longitude": 21.9548416137695,
+      "latitude": 43.3289833068848
+    },
+    {
+      "id": "_3",
+      "label": "Donja Vrežina",
+      "longitude": 21.9474061287831,
+      "latitude": 43.3305199131413
+    },
+    {
+      "id": "_4",
       "label": "Radomira Antića",
       "longitude": 21.9436218458539,
       "latitude": 43.3301182394194
     },
     {
-      "id": "_3",
+      "id": "_5",
       "label": "Benzinska stanica",
       "longitude": 21.9402307640037,
       "latitude": 43.3299572044634
     },
     {
-      "id": "_4",
+      "id": "_6",
       "label": "Durlan",
       "longitude": 21.934789843732,
       "latitude": 43.32976787741
     },
     {
-      "id": "_5",
+      "id": "_7",
       "label": "Pijaca Durlan",
       "longitude": 21.9313404461456,
       "latitude": 43.3296610674035
     },
     {
-      "id": "_6",
+      "id": "_8",
       "label": "Dom Duško Radović",
       "longitude": 21.9277507775863,
       "latitude": 43.3295732979304
     },
     {
-      "id": "_7",
+      "id": "_9",
       "label": "RK Sinđelić",
       "longitude": 21.9232359965706,
       "latitude": 43.3294659022254
     },
     {
-      "id": "_8",
+      "id": "_10",
       "label": "Radoja Domanovića",
       "longitude": 21.9185732748094,
       "latitude": 43.3293595197778
     },
     {
-      "id": "_9",
+      "id": "_11",
       "label": "OŠ Njegoš",
       "longitude": 21.9148849998747,
       "latitude": 43.3292721404488
     },
     {
-      "id": "_10",
+      "id": "_12",
       "label": "Niteks",
       "longitude": 21.9113148264066,
       "latitude": 43.3291656949749
     },
     {
-      "id": "_11",
+      "id": "_13",
       "label": "Jagodin mala",
       "longitude": 21.9043660328877,
       "latitude": 43.3277357079095
     },
     {
-      "id": "_12",
+      "id": "_14",
       "label": "Crveni soliter",
       "longitude": 21.9017639532257,
       "latitude": 43.3228935358884
     },
     {
-      "id": "_13",
+      "id": "_15",
       "label": "Trg kralja Milana (Spomenik)",
       "longitude": 21.8958302411904,
       "latitude": 43.3210067072558
     },
     {
-      "id": "_14",
+      "id": "_16",
       "label": "Ured",
       "longitude": 21.8913006731576,
       "latitude": 43.3193390516789
     },
     {
-      "id": "_15",
+      "id": "_17",
       "label": "Obilićev venac",
       "longitude": 21.8871998293522,
       "latitude": 43.3159431330133
     },
     {
-      "id": "_16",
+      "id": "_18",
       "label": "Bubanj (okretnica)",
       "longitude": 21.8765261532678,
       "latitude": 43.310991843099

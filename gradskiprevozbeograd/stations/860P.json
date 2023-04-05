@@ -1,0 +1,378 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Banovo brdo",
+      "longitude": 20.4137161014555,
+      "latitude": 44.7687467281234
+    },
+    {
+      "id": "_2",
+      "label": "Žarkovo",
+      "longitude": 20.4151557283503,
+      "latitude": 44.7585334682741
+    },
+    {
+      "id": "_3",
+      "label": "Jablanička",
+      "longitude": 20.4118393017084,
+      "latitude": 44.7479779594282
+    },
+    {
+      "id": "_4",
+      "label": "Kneževac",
+      "longitude": 20.4195843210249,
+      "latitude": 44.7336791921276
+    },
+    {
+      "id": "_5",
+      "label": "Naselje Petlovo brdo",
+      "longitude": 20.4175269197565,
+      "latitude": 44.7237165824988
+    },
+    {
+      "id": "_6",
+      "label": "Lipovica",
+      "longitude": 20.4239326484338,
+      "latitude": 44.6492727945961
+    },
+    {
+      "id": "_7",
+      "label": "Lipovica zavod",
+      "longitude": 20.4165350825851,
+      "latitude": 44.6463608352076
+    },
+    {
+      "id": "_8",
+      "label": "Lipovica (policija)",
+      "longitude": 20.4119476014656,
+      "latitude": 44.6370678711624
+    },
+    {
+      "id": "_9",
+      "label": "Velika Moštanica (r)",
+      "longitude": 20.3798427581787,
+      "latitude": 44.630615234375
+    },
+    {
+      "id": "_10",
+      "label": "Meljak",
+      "longitude": 20.372314453125,
+      "latitude": 44.6250419616699
+    },
+    {
+      "id": "_11",
+      "label": "Baćevac R Ibarska",
+      "longitude": 20.3598278632504,
+      "latitude": 44.6108101755115
+    },
+    {
+      "id": "_12",
+      "label": "Šumadinka",
+      "longitude": 20.3493725585797,
+      "latitude": 44.5936951876996
+    },
+    {
+      "id": "_13",
+      "label": "Šiljakovac R",
+      "longitude": 20.3307420554641,
+      "latitude": 44.5819321564382
+    },
+    {
+      "id": "_14",
+      "label": "Velike dubrave",
+      "longitude": 20.3075140509195,
+      "latitude": 44.5731054547674
+    },
+    {
+      "id": "_15",
+      "label": "Baljevac",
+      "longitude": 20.3013717255042,
+      "latitude": 44.5661004562385
+    },
+    {
+      "id": "_16",
+      "label": "Ibarski cvet",
+      "longitude": 20.2991079051419,
+      "latitude": 44.5546261813572
+    },
+    {
+      "id": "_17",
+      "label": "Vrbovno (ulaz)",
+      "longitude": 20.3005199432373,
+      "latitude": 44.5459899902344
+    },
+    {
+      "id": "_18",
+      "label": "Vrbovno (4.vojvođanske)",
+      "longitude": 20.2984723410231,
+      "latitude": 44.5351411054441
+    },
+    {
+      "id": "_19",
+      "label": "Stepojevac",
+      "longitude": 20.2946716148953,
+      "latitude": 44.5125854846983
+    },
+    {
+      "id": "_20",
+      "label": "Tamnavska - kružni tok",
+      "longitude": 20.2775077819824,
+      "latitude": 44.4824409484863
+    },
+    {
+      "id": "_21",
+      "label": "Brgule - Kolubara",
+      "longitude": 20.2089750797341,
+      "latitude": 44.5174587737315
+    },
+    {
+      "id": "_22",
+      "label": "Poljane (Brđanski put)",
+      "longitude": 20.2211899391134,
+      "latitude": 44.5222322127377
+    },
+    {
+      "id": "_23",
+      "label": "Poljane (Škola)",
+      "longitude": 20.222885018744,
+      "latitude": 44.5245461189469
+    },
+    {
+      "id": "_24",
+      "label": "Poljane 1",
+      "longitude": 20.2216458217893,
+      "latitude": 44.527108519402
+    },
+    {
+      "id": "_25",
+      "label": "Poljane 2",
+      "longitude": 20.2213344573975,
+      "latitude": 44.5322418212891
+    },
+    {
+      "id": "_26",
+      "label": "Poljane 3",
+      "longitude": 20.2208366394043,
+      "latitude": 44.5409851074219
+    },
+    {
+      "id": "_27",
+      "label": "Poljane 4",
+      "longitude": 20.2192783355713,
+      "latitude": 44.5462913513184
+    },
+    {
+      "id": "_28",
+      "label": "Poljane 5",
+      "longitude": 20.2185535430908,
+      "latitude": 44.550708770752
+    },
+    {
+      "id": "_29",
+      "label": "Poljane 6",
+      "longitude": 20.2161045074463,
+      "latitude": 44.5558395385742
+    },
+    {
+      "id": "_30",
+      "label": "Poljane 7",
+      "longitude": 20.2152996063232,
+      "latitude": 44.5592994689941
+    },
+    {
+      "id": "_31",
+      "label": "Poljane (Donji kraj)",
+      "longitude": 20.212547846374,
+      "latitude": 44.5650494425983
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Poljane (Donji kraj)",
+      "longitude": 20.212547846374,
+      "latitude": 44.5650494425983
+    },
+    {
+      "id": "_2",
+      "label": "Poljane 7",
+      "longitude": 20.2183735278876,
+      "latitude": 44.5507920002438
+    },
+    {
+      "id": "_3",
+      "label": "Poljane 6",
+      "longitude": 20.2160668464868,
+      "latitude": 44.5555550625968
+    },
+    {
+      "id": "_4",
+      "label": "Poljane 5",
+      "longitude": 20.218384262841,
+      "latitude": 44.5507958230826
+    },
+    {
+      "id": "_5",
+      "label": "Poljane 4",
+      "longitude": 20.2190399169922,
+      "latitude": 44.5465965270996
+    },
+    {
+      "id": "_6",
+      "label": "Poljane 3",
+      "longitude": 20.2207622528076,
+      "latitude": 44.540584564209
+    },
+    {
+      "id": "_7",
+      "label": "Poljane 2",
+      "longitude": 20.2211523117204,
+      "latitude": 44.532282694895
+    },
+    {
+      "id": "_8",
+      "label": "Poljane 1",
+      "longitude": 20.2215278056891,
+      "latitude": 44.5270511534611
+    },
+    {
+      "id": "_9",
+      "label": "Poljane (Škola)",
+      "longitude": 20.2228164672852,
+      "latitude": 44.5246391296387
+    },
+    {
+      "id": "_10",
+      "label": "Poljane (Brđanski put)",
+      "longitude": 20.220682144165,
+      "latitude": 44.5219993591309
+    },
+    {
+      "id": "_11",
+      "label": "Brgule - Kolubara",
+      "longitude": 20.209228515625,
+      "latitude": 44.5175514221191
+    },
+    {
+      "id": "_12",
+      "label": "Tamnavska - kružni tok",
+      "longitude": 20.2778339385986,
+      "latitude": 44.4823188781738
+    },
+    {
+      "id": "_13",
+      "label": "Stepojevac",
+      "longitude": 20.2943391018734,
+      "latitude": 44.5143489432465
+    },
+    {
+      "id": "_14",
+      "label": "Vrbovno (4.vojvođanske)",
+      "longitude": 20.2986896269187,
+      "latitude": 44.5352386139647
+    },
+    {
+      "id": "_15",
+      "label": "Vrbovno (ulaz)",
+      "longitude": 20.3007978380681,
+      "latitude": 44.5447592478369
+    },
+    {
+      "id": "_16",
+      "label": "Ibarski cvet",
+      "longitude": 20.2985985062878,
+      "latitude": 44.5563386751575
+    },
+    {
+      "id": "_17",
+      "label": "Baljevac",
+      "longitude": 20.3015568878106,
+      "latitude": 44.5660316631992
+    },
+    {
+      "id": "_18",
+      "label": "Velike dubrave",
+      "longitude": 20.3058136690828,
+      "latitude": 44.571787066141
+    },
+    {
+      "id": "_19",
+      "label": "Šiljakovac R",
+      "longitude": 20.3308601163189,
+      "latitude": 44.5818213533369
+    },
+    {
+      "id": "_20",
+      "label": "Šumadinka",
+      "longitude": 20.350483139495,
+      "latitude": 44.5946692845888
+    },
+    {
+      "id": "_21",
+      "label": "Baćevac R Ibarska",
+      "longitude": 20.3599244690012,
+      "latitude": 44.6105619468303
+    },
+    {
+      "id": "_22",
+      "label": "Meljak",
+      "longitude": 20.3716993485997,
+      "latitude": 44.6244343931842
+    },
+    {
+      "id": "_23",
+      "label": "Velika Moštanica (r)",
+      "longitude": 20.3810012160777,
+      "latitude": 44.631926732053
+    },
+    {
+      "id": "_24",
+      "label": "Lipovica (policija)",
+      "longitude": 20.4121497106517,
+      "latitude": 44.6372519084437
+    },
+    {
+      "id": "_25",
+      "label": "Lipovica zavod",
+      "longitude": 20.4166907816824,
+      "latitude": 44.6462692377833
+    },
+    {
+      "id": "_26",
+      "label": "Lipovica",
+      "longitude": 20.4246408517706,
+      "latitude": 44.6493758363525
+    },
+    {
+      "id": "_27",
+      "label": "Naselje Petlovo brdo",
+      "longitude": 20.4181229965482,
+      "latitude": 44.7240081587061
+    },
+    {
+      "id": "_28",
+      "label": "Kneževac",
+      "longitude": 20.4193354172285,
+      "latitude": 44.7350908768268
+    },
+    {
+      "id": "_29",
+      "label": "Jablanička",
+      "longitude": 20.4121628799153,
+      "latitude": 44.7497021461355
+    },
+    {
+      "id": "_30",
+      "label": "Žarkovo",
+      "longitude": 20.4154615894523,
+      "latitude": 44.7595213843687
+    },
+    {
+      "id": "_31",
+      "label": "Banovo brdo",
+      "longitude": 20.4136250154943,
+      "latitude": 44.7678517247831
+    }
+  ]
+}

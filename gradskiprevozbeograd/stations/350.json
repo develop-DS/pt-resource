@@ -1,0 +1,606 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Živkovac okretnica",
+      "longitude": 20.8158409229942,
+      "latitude": 44.5930152201944
+    },
+    {
+      "id": "_2",
+      "label": "Živkovac - Stara O",
+      "longitude": 20.8084326952036,
+      "latitude": 44.5903563944754
+    },
+    {
+      "id": "_3",
+      "label": "Živkovac - Prodavnica",
+      "longitude": 20.8023762702942,
+      "latitude": 44.5887786142384
+    },
+    {
+      "id": "_4",
+      "label": "Živkovac (Mač. brest)",
+      "longitude": 20.7931387394007,
+      "latitude": 44.5882132007269
+    },
+    {
+      "id": "_5",
+      "label": "Živkovac - Ulaz",
+      "longitude": 20.7716484069824,
+      "latitude": 44.5860557556152
+    },
+    {
+      "id": "_6",
+      "label": "Umčari - Donji kraj - Škola",
+      "longitude": 20.7645088434219,
+      "latitude": 44.584725088999
+    },
+    {
+      "id": "_7",
+      "label": "Prodavnica - Donji kraj",
+      "longitude": 20.7545927428139,
+      "latitude": 44.5838616248619
+    },
+    {
+      "id": "_8",
+      "label": "Miloša Obrenovića",
+      "longitude": 20.7469350251875,
+      "latitude": 44.5825281970837
+    },
+    {
+      "id": "_9",
+      "label": "Umčari centar odlazna",
+      "longitude": 20.7357769518521,
+      "latitude": 44.5831547973273
+    },
+    {
+      "id": "_10",
+      "label": "Umčari - Crkva",
+      "longitude": 20.7287603525328,
+      "latitude": 44.5835903569324
+    },
+    {
+      "id": "_11",
+      "label": "Dražanj - Ulaz",
+      "longitude": 20.6948573067404,
+      "latitude": 44.5815959256859
+    },
+    {
+      "id": "_12",
+      "label": "Dražanj - Centar",
+      "longitude": 20.6891227103579,
+      "latitude": 44.584954325111
+    },
+    {
+      "id": "_13",
+      "label": "Dražanj - Škola",
+      "longitude": 20.6821006506021,
+      "latitude": 44.5849046573634
+    },
+    {
+      "id": "_14",
+      "label": "Dražanj - Okretnica",
+      "longitude": 20.6719493865967,
+      "latitude": 44.5846176147461
+    },
+    {
+      "id": "_15",
+      "label": "Dražanj - Škola",
+      "longitude": 20.6821113855307,
+      "latitude": 44.5848206041555
+    },
+    {
+      "id": "_16",
+      "label": "Dražanj - Centar",
+      "longitude": 20.6889456175458,
+      "latitude": 44.584809142345
+    },
+    {
+      "id": "_17",
+      "label": "Dražanj - Ulaz",
+      "longitude": 20.6946601867676,
+      "latitude": 44.581600189209
+    },
+    {
+      "id": "_18",
+      "label": "Umčari - Crkva",
+      "longitude": 20.7289910438317,
+      "latitude": 44.5835330466445
+    },
+    {
+      "id": "_19",
+      "label": "Umčari centar odlazna",
+      "longitude": 20.7357769518521,
+      "latitude": 44.5831547973273
+    },
+    {
+      "id": "_20",
+      "label": "Umčari - Čekerac",
+      "longitude": 20.7276982190865,
+      "latitude": 44.593168022574
+    },
+    {
+      "id": "_21",
+      "label": "Pudarci čokanj",
+      "longitude": 20.7258314016121,
+      "latitude": 44.5997610625605
+    },
+    {
+      "id": "_22",
+      "label": "Pudarci - Prodavnica",
+      "longitude": 20.724860484596,
+      "latitude": 44.6080337727604
+    },
+    {
+      "id": "_23",
+      "label": "Pudarci - Trafo",
+      "longitude": 20.7241684320229,
+      "latitude": 44.6134680653523
+    },
+    {
+      "id": "_24",
+      "label": "Kamendol R",
+      "longitude": 20.7282371520996,
+      "latitude": 44.6149101257324
+    },
+    {
+      "id": "_25",
+      "label": "Kamendol ulaz - Pesak",
+      "longitude": 20.7454919891219,
+      "latitude": 44.6106803329491
+    },
+    {
+      "id": "_26",
+      "label": "Kamendol - Centar",
+      "longitude": 20.7555294036865,
+      "latitude": 44.6139678955078
+    },
+    {
+      "id": "_27",
+      "label": "Trajna jaruga - Okretnica",
+      "longitude": 20.7651284306581,
+      "latitude": 44.6223630919457
+    },
+    {
+      "id": "_28",
+      "label": "Bukovača",
+      "longitude": 20.7422734098906,
+      "latitude": 44.6218533686974
+    },
+    {
+      "id": "_29",
+      "label": "Institut",
+      "longitude": 20.7513928687552,
+      "latitude": 44.6423609462747
+    },
+    {
+      "id": "_30",
+      "label": "Brestovik R",
+      "longitude": 20.7584631229788,
+      "latitude": 44.6474943413635
+    },
+    {
+      "id": "_31",
+      "label": "Brestovik - Ulaz",
+      "longitude": 20.763076543808,
+      "latitude": 44.6450441083287
+    },
+    {
+      "id": "_32",
+      "label": "Brestovik centar - Okretnica",
+      "longitude": 20.766965804758,
+      "latitude": 44.6450822747458
+    },
+    {
+      "id": "_33",
+      "label": "Brestovik - Izlaz",
+      "longitude": 20.7631999650237,
+      "latitude": 44.6451204411378
+    },
+    {
+      "id": "_34",
+      "label": "Brestovik R",
+      "longitude": 20.7586509293958,
+      "latitude": 44.6474561765334
+    },
+    {
+      "id": "_35",
+      "label": "Institut",
+      "longitude": 20.7512157911743,
+      "latitude": 44.6422464415769
+    },
+    {
+      "id": "_36",
+      "label": "Bukovača",
+      "longitude": 20.7419568178398,
+      "latitude": 44.6215479144192
+    },
+    {
+      "id": "_37",
+      "label": "Kamendol R",
+      "longitude": 20.7284599481693,
+      "latitude": 44.6151788266501
+    },
+    {
+      "id": "_38",
+      "label": "Pudarci - Trafo",
+      "longitude": 20.7239484482364,
+      "latitude": 44.6131281982904
+    },
+    {
+      "id": "_39",
+      "label": "Pudarci - Prodavnica",
+      "longitude": 20.7247906527284,
+      "latitude": 44.6077893513067
+    },
+    {
+      "id": "_40",
+      "label": "Pudarci čokanj",
+      "longitude": 20.7256355285645,
+      "latitude": 44.5996475219727
+    },
+    {
+      "id": "_41",
+      "label": "Umčari - Čekerac",
+      "longitude": 20.7279020365093,
+      "latitude": 44.5927057941452
+    },
+    {
+      "id": "_42",
+      "label": "Umčari centar odlazna",
+      "longitude": 20.7359566968652,
+      "latitude": 44.5830898451768
+    },
+    {
+      "id": "_43",
+      "label": "Miloša Obrenovića",
+      "longitude": 20.7463824748993,
+      "latitude": 44.5823562629092
+    },
+    {
+      "id": "_44",
+      "label": "Prodavnica - Donji kraj",
+      "longitude": 20.7543271780014,
+      "latitude": 44.5837852114886
+    },
+    {
+      "id": "_45",
+      "label": "Umčari - Donji kraj - Škola",
+      "longitude": 20.7644551992416,
+      "latitude": 44.5846219324536
+    },
+    {
+      "id": "_46",
+      "label": "Živkovac - Ulaz",
+      "longitude": 20.7712089680326,
+      "latitude": 44.5859285685024
+    },
+    {
+      "id": "_47",
+      "label": "Živkovac (Mač. brest)",
+      "longitude": 20.7932406785744,
+      "latitude": 44.5881406134588
+    },
+    {
+      "id": "_48",
+      "label": "Živkovac - Prodavnica",
+      "longitude": 20.8020221943344,
+      "latitude": 44.5888015362918
+    },
+    {
+      "id": "_49",
+      "label": "Živkovac - Stara O",
+      "longitude": 20.8082985938916,
+      "latitude": 44.590176842952
+    },
+    {
+      "id": "_50",
+      "label": "Živkovac okretnica",
+      "longitude": 20.8157979810184,
+      "latitude": 44.5929139883967
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Živkovac okretnica",
+      "longitude": 20.8158409229942,
+      "latitude": 44.5930152201944
+    },
+    {
+      "id": "_2",
+      "label": "Živkovac - Stara O",
+      "longitude": 20.8084326952036,
+      "latitude": 44.5903563944754
+    },
+    {
+      "id": "_3",
+      "label": "Živkovac - Prodavnica",
+      "longitude": 20.8023762702942,
+      "latitude": 44.5887786142384
+    },
+    {
+      "id": "_4",
+      "label": "Živkovac (Mač. brest)",
+      "longitude": 20.7931387394007,
+      "latitude": 44.5882132007269
+    },
+    {
+      "id": "_5",
+      "label": "Živkovac - Ulaz",
+      "longitude": 20.7716484069824,
+      "latitude": 44.5860557556152
+    },
+    {
+      "id": "_6",
+      "label": "Umčari - Donji kraj - Škola",
+      "longitude": 20.7645088434219,
+      "latitude": 44.584725088999
+    },
+    {
+      "id": "_7",
+      "label": "Prodavnica - Donji kraj",
+      "longitude": 20.7545927428139,
+      "latitude": 44.5838616248619
+    },
+    {
+      "id": "_8",
+      "label": "Miloša Obrenovića",
+      "longitude": 20.7469350251875,
+      "latitude": 44.5825281970837
+    },
+    {
+      "id": "_9",
+      "label": "Umčari centar odlazna",
+      "longitude": 20.7357769518521,
+      "latitude": 44.5831547973273
+    },
+    {
+      "id": "_10",
+      "label": "Umčari - Crkva",
+      "longitude": 20.7287603525328,
+      "latitude": 44.5835903569324
+    },
+    {
+      "id": "_11",
+      "label": "Dražanj - Ulaz",
+      "longitude": 20.6948573067404,
+      "latitude": 44.5815959256859
+    },
+    {
+      "id": "_12",
+      "label": "Dražanj - Centar",
+      "longitude": 20.6891227103579,
+      "latitude": 44.584954325111
+    },
+    {
+      "id": "_13",
+      "label": "Dražanj - Škola",
+      "longitude": 20.6821006506021,
+      "latitude": 44.5849046573634
+    },
+    {
+      "id": "_14",
+      "label": "Dražanj - Okretnica",
+      "longitude": 20.6719493865967,
+      "latitude": 44.5846176147461
+    },
+    {
+      "id": "_15",
+      "label": "Dražanj - Škola",
+      "longitude": 20.6821113855307,
+      "latitude": 44.5848206041555
+    },
+    {
+      "id": "_16",
+      "label": "Dražanj - Centar",
+      "longitude": 20.6889456175458,
+      "latitude": 44.584809142345
+    },
+    {
+      "id": "_17",
+      "label": "Dražanj - Ulaz",
+      "longitude": 20.6946601867676,
+      "latitude": 44.581600189209
+    },
+    {
+      "id": "_18",
+      "label": "Umčari - Crkva",
+      "longitude": 20.7289910438317,
+      "latitude": 44.5835330466445
+    },
+    {
+      "id": "_19",
+      "label": "Umčari centar odlazna",
+      "longitude": 20.7357769518521,
+      "latitude": 44.5831547973273
+    },
+    {
+      "id": "_20",
+      "label": "Umčari - Čekerac",
+      "longitude": 20.7276982190865,
+      "latitude": 44.593168022574
+    },
+    {
+      "id": "_21",
+      "label": "Pudarci čokanj",
+      "longitude": 20.7258314016121,
+      "latitude": 44.5997610625605
+    },
+    {
+      "id": "_22",
+      "label": "Pudarci - Prodavnica",
+      "longitude": 20.724860484596,
+      "latitude": 44.6080337727604
+    },
+    {
+      "id": "_23",
+      "label": "Pudarci - Trafo",
+      "longitude": 20.7241684320229,
+      "latitude": 44.6134680653523
+    },
+    {
+      "id": "_24",
+      "label": "Kamendol R",
+      "longitude": 20.7282371520996,
+      "latitude": 44.6149101257324
+    },
+    {
+      "id": "_25",
+      "label": "Bukovača",
+      "longitude": 20.7422734098906,
+      "latitude": 44.6218533686974
+    },
+    {
+      "id": "_26",
+      "label": "Institut",
+      "longitude": 20.7513928687552,
+      "latitude": 44.6423609462747
+    },
+    {
+      "id": "_27",
+      "label": "Brestovik R",
+      "longitude": 20.7584631229788,
+      "latitude": 44.6474943413635
+    },
+    {
+      "id": "_28",
+      "label": "Brestovik - Ulaz",
+      "longitude": 20.763076543808,
+      "latitude": 44.6450441083287
+    },
+    {
+      "id": "_29",
+      "label": "Brestovik centar - Okretnica",
+      "longitude": 20.766965804758,
+      "latitude": 44.6450822747458
+    },
+    {
+      "id": "_30",
+      "label": "Brestovik - Izlaz",
+      "longitude": 20.7631999650237,
+      "latitude": 44.6451204411378
+    },
+    {
+      "id": "_31",
+      "label": "Brestovik R",
+      "longitude": 20.7586509293958,
+      "latitude": 44.6474561765334
+    },
+    {
+      "id": "_32",
+      "label": "Institut",
+      "longitude": 20.7512157911743,
+      "latitude": 44.6422464415769
+    },
+    {
+      "id": "_33",
+      "label": "Bukovača",
+      "longitude": 20.7422626109911,
+      "latitude": 44.6215631871713
+    },
+    {
+      "id": "_34",
+      "label": "Trajna jaruga - Okretnica",
+      "longitude": 20.7650318277442,
+      "latitude": 44.6223936370169
+    },
+    {
+      "id": "_35",
+      "label": "Kamendol - Centar",
+      "longitude": 20.7555618286133,
+      "latitude": 44.614086151123
+    },
+    {
+      "id": "_36",
+      "label": "Kamendol izlaz - Pesak",
+      "longitude": 20.7454319000244,
+      "latitude": 44.6107368469238
+    },
+    {
+      "id": "_37",
+      "label": "Kamendol R",
+      "longitude": 20.7285003662109,
+      "latitude": 44.6149711608887
+    },
+    {
+      "id": "_38",
+      "label": "Pudarci - Trafo",
+      "longitude": 20.7239484482364,
+      "latitude": 44.6131281982904
+    },
+    {
+      "id": "_39",
+      "label": "Pudarci - Prodavnica",
+      "longitude": 20.7247906527284,
+      "latitude": 44.6077893513067
+    },
+    {
+      "id": "_40",
+      "label": "Pudarci čokanj",
+      "longitude": 20.7256355285645,
+      "latitude": 44.5996475219727
+    },
+    {
+      "id": "_41",
+      "label": "Umčari - Čekerac",
+      "longitude": 20.7279020365093,
+      "latitude": 44.5927057941452
+    },
+    {
+      "id": "_42",
+      "label": "Umčari centar odlazna",
+      "longitude": 20.7359566968652,
+      "latitude": 44.5830898451768
+    },
+    {
+      "id": "_43",
+      "label": "Miloša Obrenovića",
+      "longitude": 20.7463824748993,
+      "latitude": 44.5823562629092
+    },
+    {
+      "id": "_44",
+      "label": "Prodavnica - Donji kraj",
+      "longitude": 20.7543271780014,
+      "latitude": 44.5837852114886
+    },
+    {
+      "id": "_45",
+      "label": "Umčari - Donji kraj - Škola",
+      "longitude": 20.7644551992416,
+      "latitude": 44.5846219324536
+    },
+    {
+      "id": "_46",
+      "label": "Živkovac - Ulaz",
+      "longitude": 20.7712089680326,
+      "latitude": 44.5859285685024
+    },
+    {
+      "id": "_47",
+      "label": "Živkovac (Mač. brest)",
+      "longitude": 20.7932406785744,
+      "latitude": 44.5881406134588
+    },
+    {
+      "id": "_48",
+      "label": "Živkovac - Prodavnica",
+      "longitude": 20.8020221943344,
+      "latitude": 44.5888015362918
+    },
+    {
+      "id": "_49",
+      "label": "Živkovac - Stara O",
+      "longitude": 20.8082985938916,
+      "latitude": 44.590176842952
+    },
+    {
+      "id": "_50",
+      "label": "Živkovac okretnica",
+      "longitude": 20.8157979810184,
+      "latitude": 44.5929139883967
+    }
+  ]
+}

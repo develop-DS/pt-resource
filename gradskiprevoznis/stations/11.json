@@ -3,8 +3,8 @@
     {
       "id": "_1",
       "label": "Medoševac (terminus)",
-      "longitude": 21.8640593379043,
-      "latitude": 43.3249407808148
+      "longitude": 21.8640670223854,
+      "latitude": 43.3249649955374
     },
     {
       "id": "_2",
@@ -32,137 +32,173 @@
     },
     {
       "id": "_6",
-      "label": "Trg Pavla Stojkovića",
-      "longitude": 21.8919873863238,
-      "latitude": 43.3174054938887
+      "label": "Trg kralja Aleksandra",
+      "longitude": 21.8918020230148,
+      "latitude": 43.3183845408261
     },
     {
       "id": "_7",
-      "label": "Marger",
-      "longitude": 21.8945342751719,
-      "latitude": 43.3158840433485
+      "label": "Trg kralja Milana",
+      "longitude": 21.896946556276,
+      "latitude": 43.3207908920573
     },
     {
       "id": "_8",
-      "label": "Stanoja Bunuševca I",
-      "longitude": 21.8939858078204,
-      "latitude": 43.3112812101997
+      "label": "Učiteljski dom",
+      "longitude": 21.9011773494645,
+      "latitude": 43.3215821077519
     },
     {
       "id": "_9",
-      "label": "Niški kulturni centar",
-      "longitude": 21.8992969329716,
-      "latitude": 43.3111494389707
+      "label": "Vojvode Mišića",
+      "longitude": 21.9081578552616,
+      "latitude": 43.3241966761189
     },
     {
       "id": "_10",
-      "label": "Crkva Sv. Nikola",
-      "longitude": 21.9016474569765,
-      "latitude": 43.3113793321948
+      "label": "Niš ekspres",
+      "longitude": 21.9130317845184,
+      "latitude": 43.321973926178
     },
     {
       "id": "_11",
-      "label": "Mokranjčeva (trafo)",
-      "longitude": 21.9048628648456,
-      "latitude": 43.3095859097274
+      "label": "Bulevarska pijaca",
+      "longitude": 21.9174450461534,
+      "latitude": 43.3199671170503
     },
     {
       "id": "_12",
-      "label": "Mokranjčeva (vidikovac)",
-      "longitude": 21.9086527126724,
-      "latitude": 43.3074763583736
+      "label": "Romanijska",
+      "longitude": 21.9205038613177,
+      "latitude": 43.3197210280894
     },
     {
       "id": "_13",
-      "label": "Mokranjčeva (okretnica)",
-      "longitude": 21.9120019575999,
-      "latitude": 43.3046068491294
+      "label": "TC Merkator",
+      "longitude": 21.9231384066655,
+      "latitude": 43.3214154811058
+    },
+    {
+      "id": "_14",
+      "label": "Branka Miljkovića",
+      "longitude": 21.9275463578047,
+      "latitude": 43.3216713798432
+    },
+    {
+      "id": "_15",
+      "label": "OŠ Dušana Radovića",
+      "longitude": 21.9299411990285,
+      "latitude": 43.3191223722684
+    },
+    {
+      "id": "_16",
+      "label": "Duvanište (okretnica)",
+      "longitude": 21.9356133558169,
+      "latitude": 43.3191786085558
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Mokranjčeva (okretnica)",
-      "longitude": 21.9122330015854,
-      "latitude": 43.3047256261397
+      "label": "Duvanište (okretnica)",
+      "longitude": 21.9353876976345,
+      "latitude": 43.3189356100538
     },
     {
       "id": "_2",
-      "label": "Mokranjčeva (vidikovac)",
-      "longitude": 21.9086082435877,
-      "latitude": 43.3076351448483
+      "label": "OŠ Dušana Radovića",
+      "longitude": 21.931983988177,
+      "latitude": 43.3191957177747
     },
     {
       "id": "_3",
-      "label": "Mokranjčeva (trafo)",
-      "longitude": 21.9044516962485,
-      "latitude": 43.3099546451311
+      "label": "Đerdapska",
+      "longitude": 21.9291327643192,
+      "latitude": 43.3194674284189
     },
     {
       "id": "_4",
-      "label": "Crkva Sv. Nikola",
-      "longitude": 21.9014440106188,
-      "latitude": 43.3116257899643
+      "label": "Branka Miljkovića",
+      "longitude": 21.9271533949205,
+      "latitude": 43.3224217245617
     },
     {
       "id": "_5",
-      "label": "Božidarčeva",
-      "longitude": 21.8967304799936,
-      "latitude": 43.3113226767803
+      "label": "Branka Krsmanovića",
+      "longitude": 21.9214310525564,
+      "latitude": 43.3210260054792
     },
     {
       "id": "_6",
-      "label": "Stanoja Bunuševca",
-      "longitude": 21.8937595784821,
-      "latitude": 43.3118248931972
+      "label": "Trg Svetog Save",
+      "longitude": 21.918998805739,
+      "latitude": 43.3194973168798
     },
     {
       "id": "_7",
-      "label": "Marger",
-      "longitude": 21.894726233504,
-      "latitude": 43.3155242651876
+      "label": "Bulevarska pijaca",
+      "longitude": 21.9161825536266,
+      "latitude": 43.3207856274588
     },
     {
       "id": "_8",
-      "label": "Trg Pavla Stojkovića",
-      "longitude": 21.8922247453321,
-      "latitude": 43.3176178805745
+      "label": "Niš ekspres",
+      "longitude": 21.9121048219566,
+      "latitude": 43.3226456760903
     },
     {
       "id": "_9",
+      "label": "Vojvode Mišića",
+      "longitude": 21.9083329012653,
+      "latitude": 43.3243591150672
+    },
+    {
+      "id": "_10",
+      "label": "Crveni soliter",
+      "longitude": 21.9017639532257,
+      "latitude": 43.3228935358884
+    },
+    {
+      "id": "_11",
+      "label": "Trg kralja Milana (Spomenik)",
+      "longitude": 21.8958302411904,
+      "latitude": 43.3210067072558
+    },
+    {
+      "id": "_12",
       "label": "Šivara",
       "longitude": 21.8884782066108,
       "latitude": 43.3197355494934
     },
     {
-      "id": "_10",
+      "id": "_13",
       "label": "Feroks",
       "longitude": 21.8841748009106,
       "latitude": 43.316474327193
     },
     {
-      "id": "_11",
+      "id": "_14",
       "label": "Šumadijska",
       "longitude": 21.8822301956517,
       "latitude": 43.3183995723267
     },
     {
-      "id": "_12",
+      "id": "_15",
       "label": "Azija (centar)",
       "longitude": 21.8790314376121,
       "latitude": 43.3203992702896
     },
     {
-      "id": "_13",
+      "id": "_16",
       "label": "Papir servis",
       "longitude": 21.8697679480872,
       "latitude": 43.3214784974052
     },
     {
-      "id": "_14",
+      "id": "_17",
       "label": "Medoševac (terminus)",
-      "longitude": 21.8640593379043,
-      "latitude": 43.3249407808148
+      "longitude": 21.8640670223854,
+      "latitude": 43.3249649955374
     }
   ]
 }

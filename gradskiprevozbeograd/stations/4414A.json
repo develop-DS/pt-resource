@@ -1,0 +1,378 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Sopot AS",
+      "longitude": 20.5770034790039,
+      "latitude": 44.5224914550781
+    },
+    {
+      "id": "_2",
+      "label": "Pijaca",
+      "longitude": 20.5839693546295,
+      "latitude": 44.5262193409697
+    },
+    {
+      "id": "_3",
+      "label": "Vojska",
+      "longitude": 20.5929332971573,
+      "latitude": 44.5270588022565
+    },
+    {
+      "id": "_4",
+      "label": "Đurinci - Železnička stanica",
+      "longitude": 20.6103139858925,
+      "latitude": 44.5235478996063
+    },
+    {
+      "id": "_5",
+      "label": "Đurinci",
+      "longitude": 20.6139349988802,
+      "latitude": 44.5234790562627
+    },
+    {
+      "id": "_6",
+      "label": "Karinac",
+      "longitude": 20.5987161808834,
+      "latitude": 44.5366725439416
+    },
+    {
+      "id": "_7",
+      "label": "Dese Marković",
+      "longitude": 20.588342666626,
+      "latitude": 44.5442848205566
+    },
+    {
+      "id": "_8",
+      "label": "Ralja (Drumine)",
+      "longitude": 20.5812389418865,
+      "latitude": 44.5605951105886
+    },
+    {
+      "id": "_9",
+      "label": "Mali Popović - Izlaz",
+      "longitude": 20.5935180212906,
+      "latitude": 44.5610133737565
+    },
+    {
+      "id": "_10",
+      "label": "Mali Popović",
+      "longitude": 20.6051212651935,
+      "latitude": 44.5681986048559
+    },
+    {
+      "id": "_11",
+      "label": "Mali Popović R",
+      "longitude": 20.6138277324632,
+      "latitude": 44.572536067404
+    },
+    {
+      "id": "_12",
+      "label": "Pekara",
+      "longitude": 20.6145304477558,
+      "latitude": 44.5782793636291
+    },
+    {
+      "id": "_13",
+      "label": "Mala Ivanča I",
+      "longitude": 20.6125456239168,
+      "latitude": 44.5813590346701
+    },
+    {
+      "id": "_14",
+      "label": "Ivanča - Centar",
+      "longitude": 20.6089192701074,
+      "latitude": 44.5842933585336
+    },
+    {
+      "id": "_15",
+      "label": "Stovarište",
+      "longitude": 20.6107592745182,
+      "latitude": 44.5867805405167
+    },
+    {
+      "id": "_16",
+      "label": "Ivanča - Milijino brdo",
+      "longitude": 20.6078249306346,
+      "latitude": 44.5944553666711
+    },
+    {
+      "id": "_17",
+      "label": "Ivanča - Okretnica",
+      "longitude": 20.6070309805183,
+      "latitude": 44.597793924412
+    },
+    {
+      "id": "_18",
+      "label": "Ivanča - Milijino brdo",
+      "longitude": 20.607704212273,
+      "latitude": 44.594699844227
+    },
+    {
+      "id": "_19",
+      "label": "Stovarište",
+      "longitude": 20.6105983040655,
+      "latitude": 44.5868340271324
+    },
+    {
+      "id": "_20",
+      "label": "Ivanča - Centar",
+      "longitude": 20.6089219685643,
+      "latitude": 44.5841902012221
+    },
+    {
+      "id": "_21",
+      "label": "Mala Ivanča I",
+      "longitude": 20.6122934637735,
+      "latitude": 44.5817220124459
+    },
+    {
+      "id": "_22",
+      "label": "Pekara",
+      "longitude": 20.6141119726005,
+      "latitude": 44.5783672473218
+    },
+    {
+      "id": "_23",
+      "label": "Mali Popović R",
+      "longitude": 20.6143051656678,
+      "latitude": 44.5723335322997
+    },
+    {
+      "id": "_24",
+      "label": "Mali Požarevac - Ulaz",
+      "longitude": 20.6396788281645,
+      "latitude": 44.5614758541819
+    },
+    {
+      "id": "_25",
+      "label": "Mali Požarevac II",
+      "longitude": 20.6441044884478,
+      "latitude": 44.5626607046129
+    },
+    {
+      "id": "_26",
+      "label": "Mali Požarevac I",
+      "longitude": 20.6498551330191,
+      "latitude": 44.5628307860007
+    },
+    {
+      "id": "_27",
+      "label": "Mali Požarevac - Centar",
+      "longitude": 20.6537711671693,
+      "latitude": 44.563551237601
+    },
+    {
+      "id": "_28",
+      "label": "Mali Požarevac - Naplatna rampa",
+      "longitude": 20.6691616902011,
+      "latitude": 44.5614146999564
+    },
+    {
+      "id": "_29",
+      "label": "Franše D'Eperea",
+      "longitude": 20.4682170383353,
+      "latitude": 44.7908590058077
+    },
+    {
+      "id": "_30",
+      "label": "Palata pravde 1",
+      "longitude": 20.451327814778,
+      "latitude": 44.8034058554644
+    },
+    {
+      "id": "_31",
+      "label": "BAS",
+      "longitude": 20.4543059627735,
+      "latitude": 44.8101721002059
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "BAS",
+      "longitude": 20.4543059627735,
+      "latitude": 44.8101721002059
+    },
+    {
+      "id": "_2",
+      "label": "Palata pravde 1",
+      "longitude": 20.4515238525443,
+      "latitude": 44.8029928139838
+    },
+    {
+      "id": "_3",
+      "label": "Autokomanda",
+      "longitude": 20.467342376709,
+      "latitude": 44.7908630371094
+    },
+    {
+      "id": "_4",
+      "label": "Mali Požarevac - Naplatna rampa",
+      "longitude": 20.669016822665,
+      "latitude": 44.5614758541819
+    },
+    {
+      "id": "_5",
+      "label": "Mali Požarevac - Centar",
+      "longitude": 20.6534760907921,
+      "latitude": 44.5636544315294
+    },
+    {
+      "id": "_6",
+      "label": "Mali Požarevac I",
+      "longitude": 20.6500107126986,
+      "latitude": 44.5629569134503
+    },
+    {
+      "id": "_7",
+      "label": "Mali Požarevac II",
+      "longitude": 20.6441420624871,
+      "latitude": 44.562798298583
+    },
+    {
+      "id": "_8",
+      "label": "Mali Požarevac - Ulaz",
+      "longitude": 20.6395661959308,
+      "latitude": 44.5616478500965
+    },
+    {
+      "id": "_9",
+      "label": "Mali Popović R",
+      "longitude": 20.6138277324632,
+      "latitude": 44.572536067404
+    },
+    {
+      "id": "_10",
+      "label": "Pekara",
+      "longitude": 20.6145304477558,
+      "latitude": 44.5782793636291
+    },
+    {
+      "id": "_11",
+      "label": "Mala Ivanča I",
+      "longitude": 20.6125456239168,
+      "latitude": 44.5813590346701
+    },
+    {
+      "id": "_12",
+      "label": "Ivanča - Centar",
+      "longitude": 20.6089192701074,
+      "latitude": 44.5842933585336
+    },
+    {
+      "id": "_13",
+      "label": "Stovarište",
+      "longitude": 20.6107592745182,
+      "latitude": 44.5867805405167
+    },
+    {
+      "id": "_14",
+      "label": "Ivanča - Milijino brdo",
+      "longitude": 20.6078249306346,
+      "latitude": 44.5944553666711
+    },
+    {
+      "id": "_15",
+      "label": "Ivanča - Okretnica",
+      "longitude": 20.6070309805183,
+      "latitude": 44.597793924412
+    },
+    {
+      "id": "_16",
+      "label": "Ivanča - Milijino brdo",
+      "longitude": 20.607704212273,
+      "latitude": 44.594699844227
+    },
+    {
+      "id": "_17",
+      "label": "Stovarište",
+      "longitude": 20.6105983040655,
+      "latitude": 44.5868340271324
+    },
+    {
+      "id": "_18",
+      "label": "Ivanča - Centar",
+      "longitude": 20.6089219685643,
+      "latitude": 44.5841902012221
+    },
+    {
+      "id": "_19",
+      "label": "Mala Ivanča I",
+      "longitude": 20.6122934637735,
+      "latitude": 44.5817220124459
+    },
+    {
+      "id": "_20",
+      "label": "Pekara",
+      "longitude": 20.6141119726005,
+      "latitude": 44.5783672473218
+    },
+    {
+      "id": "_21",
+      "label": "Mali Popović R",
+      "longitude": 20.6132107767649,
+      "latitude": 44.5724328892314
+    },
+    {
+      "id": "_22",
+      "label": "Mali Popović",
+      "longitude": 20.6049710255349,
+      "latitude": 44.5684011543596
+    },
+    {
+      "id": "_23",
+      "label": "Mali Popović - Izlaz",
+      "longitude": 20.5932069107262,
+      "latitude": 44.561093639218
+    },
+    {
+      "id": "_24",
+      "label": "Kekina kafana",
+      "longitude": 20.5811369894201,
+      "latitude": 44.5606674665725
+    },
+    {
+      "id": "_25",
+      "label": "Dese Marković",
+      "longitude": 20.5884593545436,
+      "latitude": 44.5441131175146
+    },
+    {
+      "id": "_26",
+      "label": "Karinac",
+      "longitude": 20.5986517680611,
+      "latitude": 44.5364584126411
+    },
+    {
+      "id": "_27",
+      "label": "Đurinci",
+      "longitude": 20.6140181383712,
+      "latitude": 44.523249577863
+    },
+    {
+      "id": "_28",
+      "label": "Đurinci - Železnička stanica",
+      "longitude": 20.6110757306847,
+      "latitude": 44.5234675823642
+    },
+    {
+      "id": "_29",
+      "label": "Vojska",
+      "longitude": 20.5937218306539,
+      "latitude": 44.5272461974296
+    },
+    {
+      "id": "_30",
+      "label": "Pijaca",
+      "longitude": 20.5827650016918,
+      "latitude": 44.5262040431575
+    },
+    {
+      "id": "_31",
+      "label": "Sopot AS",
+      "longitude": 20.5768077628232,
+      "latitude": 44.5224253604906
+    }
+  ]
+}

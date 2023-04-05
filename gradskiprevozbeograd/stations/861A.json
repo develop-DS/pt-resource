@@ -1,0 +1,354 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Obrenovac AS",
+      "longitude": 20.1980316767353,
+      "latitude": 44.6561914511737
+    },
+    {
+      "id": "_2",
+      "label": "Naselje Dudovi",
+      "longitude": 20.2077466069697,
+      "latitude": 44.6587518699044
+    },
+    {
+      "id": "_3",
+      "label": "Bazeni",
+      "longitude": 20.2166891187907,
+      "latitude": 44.6553920126273
+    },
+    {
+      "id": "_4",
+      "label": "Mislođin - r",
+      "longitude": 20.2246337820869,
+      "latitude": 44.6513946545771
+    },
+    {
+      "id": "_5",
+      "label": "Barič - Izlaz",
+      "longitude": 20.2355251312256,
+      "latitude": 44.6498985290527
+    },
+    {
+      "id": "_6",
+      "label": "Barič - Kolonija",
+      "longitude": 20.2475935015268,
+      "latitude": 44.6510282958083
+    },
+    {
+      "id": "_7",
+      "label": "Barič - Rampa",
+      "longitude": 20.2600175167969,
+      "latitude": 44.6522494827046
+    },
+    {
+      "id": "_8",
+      "label": "Vojska",
+      "longitude": 20.2634828923223,
+      "latitude": 44.6467768383562
+    },
+    {
+      "id": "_9",
+      "label": "Trafo",
+      "longitude": 20.265918340676,
+      "latitude": 44.6419296440687
+    },
+    {
+      "id": "_10",
+      "label": "Put za groblje",
+      "longitude": 20.2716314535821,
+      "latitude": 44.6374752116166
+    },
+    {
+      "id": "_11",
+      "label": "Karaula",
+      "longitude": 20.2790612059389,
+      "latitude": 44.63350143187
+    },
+    {
+      "id": "_12",
+      "label": "Put uz brdo",
+      "longitude": 20.2975577218738,
+      "latitude": 44.6348298726694
+    },
+    {
+      "id": "_13",
+      "label": "Igralište",
+      "longitude": 20.3037858060701,
+      "latitude": 44.63625753089
+    },
+    {
+      "id": "_14",
+      "label": "Mala Moštanica - okretnica",
+      "longitude": 20.3087425077846,
+      "latitude": 44.6379218153844
+    },
+    {
+      "id": "_15",
+      "label": "Mala Moštanica - pošta",
+      "longitude": 20.3030455497676,
+      "latitude": 44.6467081407942
+    },
+    {
+      "id": "_16",
+      "label": "Mala Moštanica - brdo",
+      "longitude": 20.2944570831163,
+      "latitude": 44.6482309176652
+    },
+    {
+      "id": "_17",
+      "label": "Naselje Samar",
+      "longitude": 20.2946824015142,
+      "latitude": 44.6531615398936
+    },
+    {
+      "id": "_18",
+      "label": "Duboko",
+      "longitude": 20.2885079537938,
+      "latitude": 44.6636167355559
+    },
+    {
+      "id": "_19",
+      "label": "Umka - Rasadnik",
+      "longitude": 20.2973967970372,
+      "latitude": 44.670770208192
+    },
+    {
+      "id": "_20",
+      "label": "Umka (centar)",
+      "longitude": 20.3051606406909,
+      "latitude": 44.6808878931564
+    },
+    {
+      "id": "_21",
+      "label": "Zelengora",
+      "longitude": 20.3120479690909,
+      "latitude": 44.6898787585724
+    },
+    {
+      "id": "_22",
+      "label": "Pećani",
+      "longitude": 20.3175732163403,
+      "latitude": 44.6976983327742
+    },
+    {
+      "id": "_23",
+      "label": "Ostružnica 2",
+      "longitude": 20.3146318941812,
+      "latitude": 44.7225001080304
+    },
+    {
+      "id": "_24",
+      "label": "Ostružnica 1",
+      "longitude": 20.3209580667347,
+      "latitude": 44.7333841411753
+    },
+    {
+      "id": "_25",
+      "label": "Železnik R",
+      "longitude": 20.3612220070836,
+      "latitude": 44.7427627874396
+    },
+    {
+      "id": "_26",
+      "label": "Čukarica",
+      "longitude": 20.4151354377319,
+      "latitude": 44.786451881637
+    },
+    {
+      "id": "_27",
+      "label": "Sajam",
+      "longitude": 20.4420563488721,
+      "latitude": 44.7963250729334
+    },
+    {
+      "id": "_28",
+      "label": "Palata pravde 1",
+      "longitude": 20.451327814778,
+      "latitude": 44.8034058554644
+    },
+    {
+      "id": "_29",
+      "label": "BAS",
+      "longitude": 20.4543059627735,
+      "latitude": 44.8101721002059
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "BAS",
+      "longitude": 20.4543059627735,
+      "latitude": 44.8101721002059
+    },
+    {
+      "id": "_2",
+      "label": "Palata pravde 1",
+      "longitude": 20.4515238525443,
+      "latitude": 44.8029928139838
+    },
+    {
+      "id": "_3",
+      "label": "Sajam",
+      "longitude": 20.4415906546322,
+      "latitude": 44.7964130286058
+    },
+    {
+      "id": "_4",
+      "label": "Čukarica",
+      "longitude": 20.4145017152671,
+      "latitude": 44.7863856515716
+    },
+    {
+      "id": "_5",
+      "label": "Železnik R",
+      "longitude": 20.3589500715381,
+      "latitude": 44.7422083297655
+    },
+    {
+      "id": "_6",
+      "label": "Ostružnica 1",
+      "longitude": 20.3210717392176,
+      "latitude": 44.7335972061237
+    },
+    {
+      "id": "_7",
+      "label": "Ostružnica 2",
+      "longitude": 20.3145425020959,
+      "latitude": 44.7236605299118
+    },
+    {
+      "id": "_8",
+      "label": "Pećani",
+      "longitude": 20.3168674129367,
+      "latitude": 44.6965529664518
+    },
+    {
+      "id": "_9",
+      "label": "Zelengora",
+      "longitude": 20.3116150901158,
+      "latitude": 44.6895701694761
+    },
+    {
+      "id": "_10",
+      "label": "Umka (centar)",
+      "longitude": 20.3034499389404,
+      "latitude": 44.6785807791686
+    },
+    {
+      "id": "_11",
+      "label": "Umka - Rasadnik",
+      "longitude": 20.2971446205955,
+      "latitude": 44.6706977240969
+    },
+    {
+      "id": "_12",
+      "label": "Duboko",
+      "longitude": 20.2882137298584,
+      "latitude": 44.663501739502
+    },
+    {
+      "id": "_13",
+      "label": "Naselje Samar",
+      "longitude": 20.2945374774792,
+      "latitude": 44.6527532148083
+    },
+    {
+      "id": "_14",
+      "label": "Mala Moštanica - brdo",
+      "longitude": 20.2944141369546,
+      "latitude": 44.6481355067545
+    },
+    {
+      "id": "_15",
+      "label": "Mala Moštanica - pošta",
+      "longitude": 20.3031259261537,
+      "latitude": 44.646463882137
+    },
+    {
+      "id": "_16",
+      "label": "Mala Moštanica - okretnica",
+      "longitude": 20.3085117992875,
+      "latitude": 44.6378073019255
+    },
+    {
+      "id": "_17",
+      "label": "Igralište",
+      "longitude": 20.3033237457275,
+      "latitude": 44.6362571716309
+    },
+    {
+      "id": "_18",
+      "label": "Put uz brdo",
+      "longitude": 20.2967319488525,
+      "latitude": 44.6347694396973
+    },
+    {
+      "id": "_19",
+      "label": "Karaula",
+      "longitude": 20.2783531130315,
+      "latitude": 44.6337342929438
+    },
+    {
+      "id": "_20",
+      "label": "Put za groblje",
+      "longitude": 20.2709808349609,
+      "latitude": 44.6381149291992
+    },
+    {
+      "id": "_21",
+      "label": "Trafo",
+      "longitude": 20.2659344416344,
+      "latitude": 44.6421166693128
+    },
+    {
+      "id": "_22",
+      "label": "Vojska",
+      "longitude": 20.263427734375,
+      "latitude": 44.6471252441406
+    },
+    {
+      "id": "_23",
+      "label": "Barič (rampa)",
+      "longitude": 20.2609187544347,
+      "latitude": 44.6516159952118
+    },
+    {
+      "id": "_24",
+      "label": "Barič - Kolonija",
+      "longitude": 20.2476900867326,
+      "latitude": 44.6511313344459
+    },
+    {
+      "id": "_25",
+      "label": "Barič - Izlaz",
+      "longitude": 20.2348583988054,
+      "latitude": 44.6498986750362
+    },
+    {
+      "id": "_26",
+      "label": "Mislođin r",
+      "longitude": 20.2242240905762,
+      "latitude": 44.6516036987305
+    },
+    {
+      "id": "_27",
+      "label": "Bazeni",
+      "longitude": 20.2164799154759,
+      "latitude": 44.6551802263448
+    },
+    {
+      "id": "_28",
+      "label": "Naselje Dudovi",
+      "longitude": 20.2087068750349,
+      "latitude": 44.6586412133102
+    },
+    {
+      "id": "_29",
+      "label": "Obrenovac AS",
+      "longitude": 20.1960387941531,
+      "latitude": 44.6553824727213
+    }
+  ]
+}

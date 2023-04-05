@@ -1,0 +1,438 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "BAS",
+      "longitude": 20.4543059627735,
+      "latitude": 44.8101721002059
+    },
+    {
+      "id": "_2",
+      "label": "Palata pravde 1",
+      "longitude": 20.4515238525443,
+      "latitude": 44.8029928139838
+    },
+    {
+      "id": "_3",
+      "label": "Sajam",
+      "longitude": 20.4415906546322,
+      "latitude": 44.7964130286058
+    },
+    {
+      "id": "_4",
+      "label": "Čukarica",
+      "longitude": 20.4145017152671,
+      "latitude": 44.7863856515716
+    },
+    {
+      "id": "_5",
+      "label": "Železnik R",
+      "longitude": 20.3589500715381,
+      "latitude": 44.7422083297655
+    },
+    {
+      "id": "_6",
+      "label": "Ostružnica 1",
+      "longitude": 20.3210717392176,
+      "latitude": 44.7335972061237
+    },
+    {
+      "id": "_7",
+      "label": "Ostružnica 2",
+      "longitude": 20.3145425020959,
+      "latitude": 44.7236605299118
+    },
+    {
+      "id": "_8",
+      "label": "Pećani",
+      "longitude": 20.3168674129367,
+      "latitude": 44.6965529664518
+    },
+    {
+      "id": "_9",
+      "label": "Zelengora",
+      "longitude": 20.3116150901158,
+      "latitude": 44.6895701694761
+    },
+    {
+      "id": "_10",
+      "label": "Umka (centar)",
+      "longitude": 20.3034499389404,
+      "latitude": 44.6785807791686
+    },
+    {
+      "id": "_11",
+      "label": "Umka - Rasadnik",
+      "longitude": 20.2971446205955,
+      "latitude": 44.6706977240969
+    },
+    {
+      "id": "_12",
+      "label": "Duboko",
+      "longitude": 20.2882182546752,
+      "latitude": 44.6638265833212
+    },
+    {
+      "id": "_13",
+      "label": "Barič - Vinogradi",
+      "longitude": 20.2706283433642,
+      "latitude": 44.6568592314875
+    },
+    {
+      "id": "_14",
+      "label": "Barič - Rampa",
+      "longitude": 20.2611440638441,
+      "latitude": 44.6527093292308
+    },
+    {
+      "id": "_15",
+      "label": "Barič - Kolonija",
+      "longitude": 20.2476900867326,
+      "latitude": 44.6511313344459
+    },
+    {
+      "id": "_16",
+      "label": "Barič - Izlaz",
+      "longitude": 20.2348583988054,
+      "latitude": 44.6498986750362
+    },
+    {
+      "id": "_17",
+      "label": "Mislođin (ulaz)",
+      "longitude": 20.2234590053558,
+      "latitude": 44.6455708026668
+    },
+    {
+      "id": "_18",
+      "label": "Mislođin (vojska)",
+      "longitude": 20.2189689309661,
+      "latitude": 44.6407845784084
+    },
+    {
+      "id": "_19",
+      "label": "Mislođin - Baćevački put",
+      "longitude": 20.2151333669386,
+      "latitude": 44.6361621002862
+    },
+    {
+      "id": "_20",
+      "label": "Mislođin - Dom",
+      "longitude": 20.2193069226877,
+      "latitude": 44.6316385096424
+    },
+    {
+      "id": "_21",
+      "label": "Mislođin - Maričića potok",
+      "longitude": 20.2253740229806,
+      "latitude": 44.6224146367441
+    },
+    {
+      "id": "_22",
+      "label": "Jasenak (raskrsnica)",
+      "longitude": 20.2339410961629,
+      "latitude": 44.6163473087473
+    },
+    {
+      "id": "_23",
+      "label": "Mislođin - Jovanovac",
+      "longitude": 20.2234058380127,
+      "latitude": 44.6147079467773
+    },
+    {
+      "id": "_24",
+      "label": "Draževac - Groblje",
+      "longitude": 20.2231371222972,
+      "latitude": 44.6033895892639
+    },
+    {
+      "id": "_25",
+      "label": "Put za Veliko polje",
+      "longitude": 20.2235770071437,
+      "latitude": 44.5954103512859
+    },
+    {
+      "id": "_26",
+      "label": "Draževac - Todorovići",
+      "longitude": 20.2243065834045,
+      "latitude": 44.5862380306333
+    },
+    {
+      "id": "_27",
+      "label": "Draževac - Dom",
+      "longitude": 20.2309852633066,
+      "latitude": 44.5749778973899
+    },
+    {
+      "id": "_28",
+      "label": "Draževac - Stepanovići",
+      "longitude": 20.2330881074699,
+      "latitude": 44.5674571912224
+    },
+    {
+      "id": "_29",
+      "label": "Konatice - Lecino brdo",
+      "longitude": 20.2390104301111,
+      "latitude": 44.5605470674568
+    },
+    {
+      "id": "_30",
+      "label": "Konatice - Dom",
+      "longitude": 20.2474861592356,
+      "latitude": 44.5555588851227
+    },
+    {
+      "id": "_31",
+      "label": "Konatice - Živanovići",
+      "longitude": 20.2490740295405,
+      "latitude": 44.5504097150985
+    },
+    {
+      "id": "_32",
+      "label": "Konatice (Gornji kraj)",
+      "longitude": 20.2529363951133,
+      "latitude": 44.5458870912736
+    },
+    {
+      "id": "_33",
+      "label": "Konatice - okretnica",
+      "longitude": 20.2603446641168,
+      "latitude": 44.5370931567035
+    },
+    {
+      "id": "_34",
+      "label": "Timotijevići - Gornji kraj",
+      "longitude": 20.2689208984375,
+      "latitude": 44.5306396484375
+    },
+    {
+      "id": "_35",
+      "label": "Vinogradi",
+      "longitude": 20.2751022602967,
+      "latitude": 44.5185068218902
+    },
+    {
+      "id": "_36",
+      "label": "Stepojevac - pijaca",
+      "longitude": 20.2946609130246,
+      "latitude": 44.5135724160142
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Stepojevac - pijaca",
+      "longitude": 20.294795059429,
+      "latitude": 44.5136565721748
+    },
+    {
+      "id": "_2",
+      "label": "Vinogradi",
+      "longitude": 20.2743225097656,
+      "latitude": 44.5188369750977
+    },
+    {
+      "id": "_3",
+      "label": "Timotijevići - Gornji kraj",
+      "longitude": 20.2685432434082,
+      "latitude": 44.5316581726074
+    },
+    {
+      "id": "_4",
+      "label": "Konatice - okretnica",
+      "longitude": 20.2603359222412,
+      "latitude": 44.5375862121582
+    },
+    {
+      "id": "_5",
+      "label": "Konatice (Gornji kraj)",
+      "longitude": 20.2533656641213,
+      "latitude": 44.5455315362097
+    },
+    {
+      "id": "_6",
+      "label": "Konatice - Živanovići",
+      "longitude": 20.2492350853515,
+      "latitude": 44.5504250065525
+    },
+    {
+      "id": "_7",
+      "label": "Konatice - Dom",
+      "longitude": 20.2476558685303,
+      "latitude": 44.5555305480957
+    },
+    {
+      "id": "_8",
+      "label": "Konatice - Lecino brdo",
+      "longitude": 20.2393398284912,
+      "latitude": 44.5604782104492
+    },
+    {
+      "id": "_9",
+      "label": "Draževac - Stepanovići",
+      "longitude": 20.2334289550781,
+      "latitude": 44.5671081542969
+    },
+    {
+      "id": "_10",
+      "label": "Draževac - Dom",
+      "longitude": 20.2311408750876,
+      "latitude": 44.5751192834664
+    },
+    {
+      "id": "_11",
+      "label": "Draževac - Todorovići",
+      "longitude": 20.22434425354,
+      "latitude": 44.5864753723145
+    },
+    {
+      "id": "_12",
+      "label": "Put za Veliko polje",
+      "longitude": 20.2237326189247,
+      "latitude": 44.5953568725623
+    },
+    {
+      "id": "_13",
+      "label": "Draževac - Groblje",
+      "longitude": 20.2232444517478,
+      "latitude": 44.6036378485973
+    },
+    {
+      "id": "_14",
+      "label": "Mislođin - Jovanovac",
+      "longitude": 20.2239257713594,
+      "latitude": 44.6148084205545
+    },
+    {
+      "id": "_15",
+      "label": "Jasenak (raskrsnica)",
+      "longitude": 20.2338123321533,
+      "latitude": 44.6160914666384
+    },
+    {
+      "id": "_16",
+      "label": "Mislođin - Maričića potok",
+      "longitude": 20.2252330780029,
+      "latitude": 44.6227035522461
+    },
+    {
+      "id": "_17",
+      "label": "Mislođin - Dom",
+      "longitude": 20.2194538116455,
+      "latitude": 44.6316833496094
+    },
+    {
+      "id": "_18",
+      "label": "Mislođin - Baćevački put",
+      "longitude": 20.215160369873,
+      "latitude": 44.6363105773926
+    },
+    {
+      "id": "_19",
+      "label": "Mislođin (vojska)",
+      "longitude": 20.2188295228686,
+      "latitude": 44.6405288439904
+    },
+    {
+      "id": "_20",
+      "label": "Mislođin (ulaz)",
+      "longitude": 20.2237358093262,
+      "latitude": 44.6460037231445
+    },
+    {
+      "id": "_21",
+      "label": "Barič - Izlaz",
+      "longitude": 20.2355251312256,
+      "latitude": 44.6498985290527
+    },
+    {
+      "id": "_22",
+      "label": "Barič - Kolonija",
+      "longitude": 20.2475935015268,
+      "latitude": 44.6510282958083
+    },
+    {
+      "id": "_23",
+      "label": "Barič - Rampa",
+      "longitude": 20.2600175167969,
+      "latitude": 44.6522494827046
+    },
+    {
+      "id": "_24",
+      "label": "Barič - Vinogradi",
+      "longitude": 20.2709233786515,
+      "latitude": 44.6568821266761
+    },
+    {
+      "id": "_25",
+      "label": "Duboko",
+      "longitude": 20.2892482640269,
+      "latitude": 44.6639677532087
+    },
+    {
+      "id": "_26",
+      "label": "Umka - Rasadnik",
+      "longitude": 20.2973967970372,
+      "latitude": 44.670770208192
+    },
+    {
+      "id": "_27",
+      "label": "Umka (centar)",
+      "longitude": 20.3051606406909,
+      "latitude": 44.6808878931564
+    },
+    {
+      "id": "_28",
+      "label": "Zelengora",
+      "longitude": 20.3120479690909,
+      "latitude": 44.6898787585724
+    },
+    {
+      "id": "_29",
+      "label": "Pećani",
+      "longitude": 20.3175732163403,
+      "latitude": 44.6976983327742
+    },
+    {
+      "id": "_30",
+      "label": "Ostružnica 2",
+      "longitude": 20.3146318941812,
+      "latitude": 44.7225001080304
+    },
+    {
+      "id": "_31",
+      "label": "Ostružnica 1",
+      "longitude": 20.3209580667347,
+      "latitude": 44.7333841411753
+    },
+    {
+      "id": "_32",
+      "label": "Železnik R",
+      "longitude": 20.3612220070836,
+      "latitude": 44.7427627874396
+    },
+    {
+      "id": "_33",
+      "label": "Čukarica",
+      "longitude": 20.4151354377319,
+      "latitude": 44.786451881637
+    },
+    {
+      "id": "_34",
+      "label": "Sajam",
+      "longitude": 20.4420563488721,
+      "latitude": 44.7963250729334
+    },
+    {
+      "id": "_35",
+      "label": "Palata pravde 1",
+      "longitude": 20.451327814778,
+      "latitude": 44.8034058554644
+    },
+    {
+      "id": "_36",
+      "label": "BAS",
+      "longitude": 20.4543059627735,
+      "latitude": 44.8101721002059
+    }
+  ]
+}

@@ -1,318 +1,330 @@
 {
-  "direction_a": [
-    {
-      "id": "_1",
-      "label": "Kej oslobođenja",
-      "longitude": 20.415187272676,
-      "latitude": 44.8431131251542
-    },
-    {
-      "id": "_2",
-      "label": "22. oktobra",
-      "longitude": 20.4112100833161,
-      "latitude": 44.8378892786298
-    },
-    {
-      "id": "_3",
-      "label": "Džona Kenedija",
-      "longitude": 20.4096906443783,
-      "latitude": 44.8340674860514
-    },
-    {
-      "id": "_4",
-      "label": "Bulevar Maršala Tolbuhina",
-      "longitude": 20.4111070310089,
-      "latitude": 44.8298414053327
-    },
-    {
-      "id": "_5",
-      "label": "Arhiv",
-      "longitude": 20.4120381076528,
-      "latitude": 44.8270653368328
-    },
-    {
-      "id": "_6",
-      "label": "Ulaz u Pariske komune",
-      "longitude": 20.4119895565675,
-      "latitude": 44.8248656094871
-    },
-    {
-      "id": "_7",
-      "label": "Fontana",
-      "longitude": 20.407628611625,
-      "latitude": 44.8266736684514
-    },
-    {
-      "id": "_8",
-      "label": "Studentska",
-      "longitude": 20.4023678868337,
-      "latitude": 44.8261802027231
-    },
-    {
-      "id": "_9",
-      "label": "Studentski grad",
-      "longitude": 20.3978587116193,
-      "latitude": 44.8261458177772
-    },
-    {
-      "id": "_10",
-      "label": "SC Vizura",
-      "longitude": 20.3960791986334,
-      "latitude": 44.8209383460596
-    },
-    {
-      "id": "_11",
-      "label": "Železnička stanica Tošin bunar",
-      "longitude": 20.3950441292173,
-      "latitude": 44.8171224968428
-    },
-    {
-      "id": "_12",
-      "label": "Generala Nedeljkovića",
-      "longitude": 20.3889763275072,
-      "latitude": 44.8170003330754
-    },
-    {
-      "id": "_13",
-      "label": "Nikole Dobrovića",
-      "longitude": 20.3846246013936,
-      "latitude": 44.8188813611224
-    },
-    {
-      "id": "_14",
-      "label": "Dr Huga Klajna",
-      "longitude": 20.3812427971832,
-      "latitude": 44.8198981075577
-    },
-    {
-      "id": "_15",
-      "label": "Bežanijska kosa (izlaz)",
-      "longitude": 20.3778592872527,
-      "latitude": 44.8205907620209
-    },
-    {
-      "id": "_16",
-      "label": "Bežanijska kosa (groblje)",
-      "longitude": 20.3711635979013,
-      "latitude": 44.8174674055926
-    },
-    {
-      "id": "_17",
-      "label": "Bežanijska kosa (Grčka)",
-      "longitude": 20.3711483814601,
-      "latitude": 44.8156026222172
-    },
-    {
-      "id": "_18",
-      "label": "Nedeljka Gvozdenovića",
-      "longitude": 20.374824152973,
-      "latitude": 44.8145193807091
-    },
-    {
-      "id": "_19",
-      "label": "Raška Dimitrijevića",
-      "longitude": 20.3781391451479,
-      "latitude": 44.8135834567939
-    },
-    {
-      "id": "_20",
-      "label": "Vojvođanska",
-      "longitude": 20.3828386786854,
-      "latitude": 44.809886642257
-    },
-    {
-      "id": "_21",
-      "label": "Blok 63",
-      "longitude": 20.3838764853104,
-      "latitude": 44.8085872912105
-    },
-    {
-      "id": "_22",
-      "label": "MZ Mladost",
-      "longitude": 20.3856185413155,
-      "latitude": 44.8064367500536
-    },
-    {
-      "id": "_23",
-      "label": "Pijaca blok 44",
-      "longitude": 20.3845394918383,
-      "latitude": 44.8028041510327
-    },
-    {
-      "id": "_24",
-      "label": "Dom zdravlja Blok 44",
-      "longitude": 20.3826264733544,
-      "latitude": 44.7989204652257
-    },
-    {
-      "id": "_25",
-      "label": "Blok 44",
-      "longitude": 20.3841961040927,
-      "latitude": 44.7963190363067
-    }
-  ],
-  "direction_b": [
-    {
-      "id": "_1",
-      "label": "Blok 44",
-      "longitude": 20.3840096936993,
-      "latitude": 44.7969732022516
-    },
-    {
-      "id": "_2",
-      "label": "Dom zdravlja Blok 44",
-      "longitude": 20.3826724191373,
-      "latitude": 44.7991169026448
-    },
-    {
-      "id": "_3",
-      "label": "Pijaca blok 44",
-      "longitude": 20.3838647400665,
-      "latitude": 44.8023019532235
-    },
-    {
-      "id": "_4",
-      "label": "Gandijeva",
-      "longitude": 20.3876357438937,
-      "latitude": 44.8043146496849
-    },
-    {
-      "id": "_5",
-      "label": "MZ Mladost",
-      "longitude": 20.3862385143973,
-      "latitude": 44.8061466850919
-    },
-    {
-      "id": "_6",
-      "label": "Blok 63",
-      "longitude": 20.3841636208362,
-      "latitude": 44.8086914281935
-    },
-    {
-      "id": "_7",
-      "label": "Vojvođanska",
-      "longitude": 20.3823957185869,
-      "latitude": 44.8108832049264
-    },
-    {
-      "id": "_8",
-      "label": "Raška Dimitrijevića",
-      "longitude": 20.3770901728991,
-      "latitude": 44.8140169400462
-    },
-    {
-      "id": "_9",
-      "label": "Nedeljka Gvozdenovića",
-      "longitude": 20.3730451710028,
-      "latitude": 44.8151108357139
-    },
-    {
-      "id": "_10",
-      "label": "Bežanijska kosa (groblje)",
-      "longitude": 20.3713878493208,
-      "latitude": 44.8175424312129
-    },
-    {
-      "id": "_11",
-      "label": "Bežanijska kosa (ulaz)",
-      "longitude": 20.375949122658,
-      "latitude": 44.8206667778483
-    },
-    {
-      "id": "_12",
-      "label": "Dr Huga Klajna",
-      "longitude": 20.3795897282646,
-      "latitude": 44.820056566852
-    },
-    {
-      "id": "_13",
-      "label": "Marka Čelebonovića",
-      "longitude": 20.3828784712497,
-      "latitude": 44.819233758115
-    },
-    {
-      "id": "_14",
-      "label": "Nikole Dobrovića",
-      "longitude": 20.3861960216156,
-      "latitude": 44.8180690271801
-    },
-    {
-      "id": "_15",
-      "label": "Generala Nedeljkovića",
-      "longitude": 20.3890347208839,
-      "latitude": 44.8167378582987
-    },
-    {
-      "id": "_16",
-      "label": "Železnička stanica Tošin bunar",
-      "longitude": 20.3953373586664,
-      "latitude": 44.8168900558092
-    },
-    {
-      "id": "_17",
-      "label": "Milutina Milankovića",
-      "longitude": 20.3962247743002,
-      "latitude": 44.8203145464976
-    },
-    {
-      "id": "_18",
-      "label": "Studentski grad",
-      "longitude": 20.3991145103976,
-      "latitude": 44.8262621981325
-    },
-    {
-      "id": "_19",
-      "label": "Studentska",
-      "longitude": 20.4031927311623,
-      "latitude": 44.8268864589955
-    },
-    {
-      "id": "_20",
-      "label": "Fontana",
-      "longitude": 20.4094089526943,
-      "latitude": 44.8257001039461
-    },
-    {
-      "id": "_21",
-      "label": "Arhiv",
-      "longitude": 20.4129568170485,
-      "latitude": 44.8255041291896
-    },
-    {
-      "id": "_22",
-      "label": "Bulevar Maršala Tolbuhina",
-      "longitude": 20.4116238752931,
-      "latitude": 44.8292572905846
-    },
-    {
-      "id": "_23",
-      "label": "Džona Kenedija",
-      "longitude": 20.4099547130209,
-      "latitude": 44.8342182363595
-    },
-    {
-      "id": "_24",
-      "label": "Prve pruge (Retenzija)",
-      "longitude": 20.4106030093984,
-      "latitude": 44.836887217854
-    },
-    {
-      "id": "_25",
-      "label": "22. oktobra",
-      "longitude": 20.4129324986627,
-      "latitude": 44.8394208199693
-    },
-    {
-      "id": "_26",
-      "label": "Zemun (pošta)",
-      "longitude": 20.4133320184886,
-      "latitude": 44.8421929039194
-    },
-    {
-      "id": "_27",
-      "label": "Kej oslobođenja",
-      "longitude": 20.415187272676,
-      "latitude": 44.8431131251542
-    }
-  ]
+    "direction_a": [
+        {
+            "id": "_1",
+            "label": "Kej oslobođenja",
+            "longitude": 20.415187272676,
+            "latitude": 44.8431131251542
+        },
+        {
+            "id": "_2",
+            "label": "22. oktobra",
+            "longitude": 20.4112100833161,
+            "latitude": 44.8378892786298
+        },
+        {
+            "id": "_3",
+            "label": "Džona Kenedija",
+            "longitude": 20.4096906443783,
+            "latitude": 44.8340674860514
+        },
+        {
+            "id": "_4",
+            "label": "Bulevar Maršala Tolbuhina",
+            "longitude": 20.4111070310089,
+            "latitude": 44.8298414053327
+        },
+        {
+            "id": "_5",
+            "label": "Arhiv",
+            "longitude": 20.4120381076528,
+            "latitude": 44.8270653368328
+        },
+        {
+            "id": "_6",
+            "label": "Ulaz u Pariske komune",
+            "longitude": 20.4119895565675,
+            "latitude": 44.8248656094871
+        },
+        {
+            "id": "_7",
+            "label": "Fontana",
+            "longitude": 20.407628611625,
+            "latitude": 44.8266736684514
+        },
+        {
+            "id": "_8",
+            "label": "Studentska",
+            "longitude": 20.4023678868337,
+            "latitude": 44.8261802027231
+        },
+        {
+            "id": "_9",
+            "label": "Studentski grad",
+            "longitude": 20.3978587116193,
+            "latitude": 44.8261458177772
+        },
+        {
+            "id": "_10",
+            "label": "SC Vizura",
+            "longitude": 20.3960791986334,
+            "latitude": 44.8209383460596
+        },
+        {
+            "id": "_11",
+            "label": "Železnička stanica Tošin bunar",
+            "longitude": 20.3950441292173,
+            "latitude": 44.8171224968428
+        },
+        {
+            "id": "_12",
+            "label": "Generala Nedeljkovića",
+            "longitude": 20.3889763275072,
+            "latitude": 44.8170003330754
+        },
+        {
+            "id": "_13",
+            "label": "Nikole Dobrovića",
+            "longitude": 20.3846246013936,
+            "latitude": 44.8188813611224
+        },
+        {
+            "id": "_14",
+            "label": "Dr Huga Klajna",
+            "longitude": 20.3812427971832,
+            "latitude": 44.8198981075577
+        },
+        {
+            "id": "_15",
+            "label": "Bežanijska kosa (izlaz)",
+            "longitude": 20.3778592872527,
+            "latitude": 44.8205907620209
+        },
+        {
+            "id": "_16",
+            "label": "Bežanijska kosa (groblje)",
+            "longitude": 20.3711635979013,
+            "latitude": 44.8174674055926
+        },
+        {
+            "id": "_17",
+            "label": "Bežanijska kosa (Grčka)",
+            "longitude": 20.3711483814601,
+            "latitude": 44.8156026222172
+        },
+        {
+            "id": "_18",
+            "label": "Nedeljka Gvozdenovića",
+            "longitude": 20.374824152973,
+            "latitude": 44.8145193807091
+        },
+        {
+            "id": "_19",
+            "label": "Raška Dimitrijevića",
+            "longitude": 20.3781391451479,
+            "latitude": 44.8135834567939
+        },
+        {
+            "id": "_20",
+            "label": "Crkva Sv. Georgija",
+            "longitude": 20.3770480216612,
+            "latitude": 44.8080428259182
+        },
+        {
+            "id": "_21",
+            "label": "Bežanija (pijaca)",
+            "longitude": 20.3786338864282,
+            "latitude": 44.8086993963438
+        },
+        {
+            "id": "_22",
+            "label": "Vojvođanska",
+            "longitude": 20.3828386786854,
+            "latitude": 44.809886642257
+        },
+        {
+            "id": "_23",
+            "label": "Blok 63",
+            "longitude": 20.3838764853104,
+            "latitude": 44.8085872912105
+        },
+        {
+            "id": "_24",
+            "label": "MZ Mladost",
+            "longitude": 20.3856185413155,
+            "latitude": 44.8064367500536
+        },
+        {
+            "id": "_25",
+            "label": "Pijaca blok 44",
+            "longitude": 20.3845394918383,
+            "latitude": 44.8028041510327
+        },
+        {
+            "id": "_26",
+            "label": "Dom zdravlja Blok 44",
+            "longitude": 20.3826264733544,
+            "latitude": 44.7989204652257
+        },
+        {
+            "id": "_27",
+            "label": "Blok 44",
+            "longitude": 20.3841961040927,
+            "latitude": 44.7963190363067
+        }
+    ],
+    "direction_b": [
+        {
+            "id": "_1",
+            "label": "Blok 44",
+            "longitude": 20.3840096936993,
+            "latitude": 44.7969732022516
+        },
+        {
+            "id": "_2",
+            "label": "Dom zdravlja Blok 44",
+            "longitude": 20.3826724191373,
+            "latitude": 44.7991169026448
+        },
+        {
+            "id": "_3",
+            "label": "Pijaca blok 44",
+            "longitude": 20.3838647400665,
+            "latitude": 44.8023019532235
+        },
+        {
+            "id": "_4",
+            "label": "Gandijeva",
+            "longitude": 20.3876357438937,
+            "latitude": 44.8043146496849
+        },
+        {
+            "id": "_5",
+            "label": "MZ Mladost",
+            "longitude": 20.3862385143973,
+            "latitude": 44.8061466850919
+        },
+        {
+            "id": "_6",
+            "label": "Blok 63",
+            "longitude": 20.3841636208362,
+            "latitude": 44.8086914281935
+        },
+        {
+            "id": "_7",
+            "label": "Vojvođanska",
+            "longitude": 20.3823957185869,
+            "latitude": 44.8108832049264
+        },
+        {
+            "id": "_8",
+            "label": "Raška Dimitrijevića",
+            "longitude": 20.3770901728991,
+            "latitude": 44.8140169400462
+        },
+        {
+            "id": "_9",
+            "label": "Nedeljka Gvozdenovića",
+            "longitude": 20.3730451710028,
+            "latitude": 44.8151108357139
+        },
+        {
+            "id": "_10",
+            "label": "Bežanijska kosa (groblje)",
+            "longitude": 20.3713878493208,
+            "latitude": 44.8175424312129
+        },
+        {
+            "id": "_11",
+            "label": "Bežanijska kosa (ulaz)",
+            "longitude": 20.375949122658,
+            "latitude": 44.8206667778483
+        },
+        {
+            "id": "_12",
+            "label": "Dr Huga Klajna",
+            "longitude": 20.3795897282646,
+            "latitude": 44.820056566852
+        },
+        {
+            "id": "_13",
+            "label": "Marka Čelebonovića",
+            "longitude": 20.3828784712497,
+            "latitude": 44.819233758115
+        },
+        {
+            "id": "_14",
+            "label": "Nikole Dobrovića",
+            "longitude": 20.3861960216156,
+            "latitude": 44.8180690271801
+        },
+        {
+            "id": "_15",
+            "label": "Generala Nedeljkovića",
+            "longitude": 20.3890347208839,
+            "latitude": 44.8167378582987
+        },
+        {
+            "id": "_16",
+            "label": "Železnička stanica Tošin bunar",
+            "longitude": 20.3953373586664,
+            "latitude": 44.8168900558092
+        },
+        {
+            "id": "_17",
+            "label": "Milutina Milankovića",
+            "longitude": 20.3962247743002,
+            "latitude": 44.8203145464976
+        },
+        {
+            "id": "_18",
+            "label": "Studentski grad",
+            "longitude": 20.3991145103976,
+            "latitude": 44.8262621981325
+        },
+        {
+            "id": "_19",
+            "label": "Studentska",
+            "longitude": 20.4031927311623,
+            "latitude": 44.8268864589955
+        },
+        {
+            "id": "_20",
+            "label": "Fontana",
+            "longitude": 20.4094089526943,
+            "latitude": 44.8257001039461
+        },
+        {
+            "id": "_21",
+            "label": "Arhiv",
+            "longitude": 20.4129568170485,
+            "latitude": 44.8255041291896
+        },
+        {
+            "id": "_22",
+            "label": "Bulevar Maršala Tolbuhina",
+            "longitude": 20.4116238752931,
+            "latitude": 44.8292572905846
+        },
+        {
+            "id": "_23",
+            "label": "Džona Kenedija",
+            "longitude": 20.4099547130209,
+            "latitude": 44.8342182363595
+        },
+        {
+            "id": "_24",
+            "label": "Prve pruge (Retenzija)",
+            "longitude": 20.4106030093984,
+            "latitude": 44.836887217854
+        },
+        {
+            "id": "_25",
+            "label": "Poljoprivredni fakultet",
+            "longitude": 20.4129324986627,
+            "latitude": 44.8394208199693
+        },
+        {
+            "id": "_26",
+            "label": "Zemun (pošta)",
+            "longitude": 20.4133320184886,
+            "latitude": 44.8421929039194
+        },
+        {
+            "id": "_27",
+            "label": "Kej oslobođenja",
+            "longitude": 20.415187272676,
+            "latitude": 44.8431131251542
+        }
+    ]
 }

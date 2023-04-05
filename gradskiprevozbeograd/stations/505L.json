@@ -2,149 +2,149 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Миљаковац 1",
-      "longitude": 20.449918,
-      "latitude": 44.748084
+      "label": "Miljakovac 1",
+      "longitude": 20.4499009458732,
+      "latitude": 44.7481577912253
     },
     {
       "id": "_2",
-      "label": "Станка Пауновића",
-      "longitude": 20.453423,
-      "latitude": 44.748411
+      "label": "Stanka Paunovića",
+      "longitude": 20.4533082278884,
+      "latitude": 44.7484260662644
     },
     {
       "id": "_3",
-      "label": "Варешка",
-      "longitude": 20.455738,
-      "latitude": 44.748897
+      "label": "Vareška",
+      "longitude": 20.4556828756227,
+      "latitude": 44.7489233357899
     },
     {
       "id": "_4",
-      "label": "Славољуба Вуксановића",
-      "longitude": 20.456761,
-      "latitude": 44.747963
+      "label": "Slavoljuba Vuksanovića",
+      "longitude": 20.4567601397535,
+      "latitude": 44.7479744809625
     },
     {
       "id": "_5",
-      "label": "Народ. Хероја Велизара Станковића",
-      "longitude": 20.458222,
-      "latitude": 44.745757
+      "label": "Narod. heroja Velizara Stankovića",
+      "longitude": 20.4582534311743,
+      "latitude": 44.7457406340339
     },
     {
       "id": "_6",
-      "label": "Миљаковац 2",
-      "longitude": 20.460896,
-      "latitude": 44.747745
+      "label": "Miljakovac 2",
+      "longitude": 20.4608866056305,
+      "latitude": 44.7477707523809
     },
     {
       "id": "_7",
-      "label": "Николе Мараковића",
-      "longitude": 20.461918,
-      "latitude": 44.745799
+      "label": "Nikole Marakovića",
+      "longitude": 20.4618767652381,
+      "latitude": 44.7458494799946
     },
     {
       "id": "_8",
-      "label": "Миљаковачка шума",
-      "longitude": 20.463103,
-      "latitude": 44.740632
+      "label": "Miljakovačka šuma",
+      "longitude": 20.4631173974723,
+      "latitude": 44.7405833065322
     },
     {
       "id": "_9",
-      "label": "Миљаковачки Извори",
-      "longitude": 20.464226,
-      "latitude": 44.736017
+      "label": "Miljakovac 3",
+      "longitude": 20.4633419278625,
+      "latitude": 44.7381400549389
     },
     {
       "id": "_10",
-      "label": "Миљаковачке стазе 1",
-      "longitude": 20.466966,
-      "latitude": 44.733836
+      "label": "Miljakovački izvori",
+      "longitude": 20.4644792114368,
+      "latitude": 44.7358450595337
     },
     {
       "id": "_11",
-      "label": "Миљаковачке стазе 2",
-      "longitude": 20.470028,
-      "latitude": 44.731858
+      "label": "Miljakovačke staze 1",
+      "longitude": 20.4670279059545,
+      "latitude": 44.7338320052071
     },
     {
       "id": "_12",
-      "label": "Миљаковачке стазе",
-      "longitude": 20.471558,
-      "latitude": 44.729828
+      "label": "Miljakovačke staze 2",
+      "longitude": 20.4698302498014,
+      "latitude": 44.7319514603238
+    },
+    {
+      "id": "_13",
+      "label": "Miljakovačke staze",
+      "longitude": 20.4715284598544,
+      "latitude": 44.7297383810615
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Миљаковачке стазе",
-      "longitude": 20.471558,
-      "latitude": 44.729828
+      "label": "Miljakovačke staze",
+      "longitude": 20.4715284598544,
+      "latitude": 44.7297383810615
     },
     {
       "id": "_2",
-      "label": "Миљаковачке стазе 2",
-      "longitude": 20.469327,
-      "latitude": 44.732306
+      "label": "Miljakovačke staze 2",
+      "longitude": 20.4698441722463,
+      "latitude": 44.7320865194013
     },
     {
       "id": "_3",
-      "label": "Миљаковачке стазе 1",
-      "longitude": 20.466908,
-      "latitude": 44.734007
+      "label": "Miljakovačke staze 1",
+      "longitude": 20.466909647364,
+      "latitude": 44.7340618468591
     },
     {
       "id": "_4",
-      "label": "Миљаковац 3",
-      "longitude": 20.463503,
-      "latitude": 44.73818
+      "label": "Miljakovac 3",
+      "longitude": 20.463459586673,
+      "latitude": 44.7382522006942
     },
     {
       "id": "_5",
-      "label": "Миљаковачка шума",
-      "longitude": 20.463253,
-      "latitude": 44.740977
+      "label": "Miljakovačka šuma",
+      "longitude": 20.4632513519921,
+      "latitude": 44.7411203115367
     },
     {
       "id": "_6",
-      "label": "Николе Мараковића",
-      "longitude": 20.461887,
-      "latitude": 44.746144
+      "label": "Nikole Marakovića",
+      "longitude": 20.4619612054487,
+      "latitude": 44.7460046695714
     },
     {
       "id": "_7",
-      "label": "Миљаковац 2",
-      "longitude": 20.459947,
-      "latitude": 44.747768
+      "label": "Miljakovac 2",
+      "longitude": 20.459877029552,
+      "latitude": 44.7476922076474
     },
     {
       "id": "_8",
-      "label": "Народ. Хероја Велизара Станковића",
-      "longitude": 20.458257,
-      "latitude": 44.745847
+      "label": "Narod. heroja Velizara Stankovića",
+      "longitude": 20.4581560541011,
+      "latitude": 44.7458913679972
     },
     {
       "id": "_9",
-      "label": "Славољуба Вуксановића",
-      "longitude": 20.456937,
-      "latitude": 44.748321
+      "label": "Slavoljuba Vuksanovića",
+      "longitude": 20.4569459241086,
+      "latitude": 44.7483659441273
     },
     {
       "id": "_10",
-      "label": "Станка Пауновића",
-      "longitude": 20.452276,
-      "latitude": 44.748464
+      "label": "Stanka Paunovića",
+      "longitude": 20.4522648700849,
+      "latitude": 44.7484480890725
     },
     {
       "id": "_11",
-      "label": "Миљаковац 1",
-      "longitude": 20.449829,
-      "latitude": 44.748294
-    },
-    {
-      "id": "_12",
-      "label": "Миљаковац 1",
-      "longitude": 20.449918,
-      "latitude": 44.748084
+      "label": "Miljakovac 1",
+      "longitude": 20.4497333172447,
+      "latitude": 44.7482559832715
     }
   ]
 }

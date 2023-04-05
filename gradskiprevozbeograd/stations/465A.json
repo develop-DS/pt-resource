@@ -1,0 +1,77 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "BAS",
+      "longitude": 20.4543059627735,
+      "latitude": 44.8101721002059
+    },
+    {
+      "id": "_2",
+      "label": "Palata pravde 1",
+      "longitude": 20.4515238525443,
+      "latitude": 44.8029928139838
+    },
+    {
+      "id": "_3",
+      "label": "Mostar",
+      "longitude": 20.4488893135074,
+      "latitude": 44.7982104318979
+    },
+    {
+      "id": "_4",
+      "label": "Autokomanda",
+      "longitude": 20.467342376709,
+      "latitude": 44.7908630371094
+    },
+    {
+      "id": "_5",
+      "label": "Pogon Kosmaj",
+      "longitude": 20.5178666704556,
+      "latitude": 44.7717220150215
+    },
+    {
+      "id": "_6",
+      "label": "Mali Požarevac - Naplatna rampa",
+      "longitude": 20.669016822665,
+      "latitude": 44.5614758541819
+    },
+    {
+      "id": "_7",
+      "label": "Trnava",
+      "longitude": 20.6452632515366,
+      "latitude": 44.4999183825857
+    },
+    {
+      "id": "_8",
+      "label": "Đurinci - Izlaz",
+      "longitude": 20.6237626486645,
+      "latitude": 44.5160320209401
+    },
+    {
+      "id": "_9",
+      "label": "Đurinci - Železnička stanica",
+      "longitude": 20.6110757306847,
+      "latitude": 44.5234675823642
+    },
+    {
+      "id": "_10",
+      "label": "Vojska",
+      "longitude": 20.5937218306539,
+      "latitude": 44.5272461974296
+    },
+    {
+      "id": "_11",
+      "label": "Pijaca",
+      "longitude": 20.5827650016918,
+      "latitude": 44.5262040431575
+    },
+    {
+      "id": "_12",
+      "label": "Sopot AS",
+      "longitude": 20.5768077628232,
+      "latitude": 44.5224253604906
+    }
+  ],
+  "direction_b": []
+}

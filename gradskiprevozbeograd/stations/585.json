@@ -1,0 +1,378 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "BAS",
+      "longitude": 20.4543059627735,
+      "latitude": 44.8101721002059
+    },
+    {
+      "id": "_2",
+      "label": "Palata pravde 1",
+      "longitude": 20.4515238525443,
+      "latitude": 44.8029928139838
+    },
+    {
+      "id": "_3",
+      "label": "Žarkovo",
+      "longitude": 20.4151557283503,
+      "latitude": 44.7585334682741
+    },
+    {
+      "id": "_4",
+      "label": "Kneževac",
+      "longitude": 20.4195843210249,
+      "latitude": 44.7336791921276
+    },
+    {
+      "id": "_5",
+      "label": "Naselje Petlovo brdo",
+      "longitude": 20.4175269197565,
+      "latitude": 44.7237165824988
+    },
+    {
+      "id": "_6",
+      "label": "Lipovica (policija)",
+      "longitude": 20.4119476014656,
+      "latitude": 44.6370678711624
+    },
+    {
+      "id": "_7",
+      "label": "Meljak",
+      "longitude": 20.372314453125,
+      "latitude": 44.6250419616699
+    },
+    {
+      "id": "_8",
+      "label": "Baćevac R Ibarska",
+      "longitude": 20.3598278632504,
+      "latitude": 44.6108101755115
+    },
+    {
+      "id": "_9",
+      "label": "Šumadinka",
+      "longitude": 20.3493725585797,
+      "latitude": 44.5936951876996
+    },
+    {
+      "id": "_10",
+      "label": "Šiljakovac R",
+      "longitude": 20.3307420554641,
+      "latitude": 44.5819321564382
+    },
+    {
+      "id": "_11",
+      "label": "Velike dubrave",
+      "longitude": 20.3075140509195,
+      "latitude": 44.5731054547674
+    },
+    {
+      "id": "_12",
+      "label": "Baljevac",
+      "longitude": 20.3013717255042,
+      "latitude": 44.5661004562385
+    },
+    {
+      "id": "_13",
+      "label": "Ibarski cvet",
+      "longitude": 20.2991079051419,
+      "latitude": 44.5546261813572
+    },
+    {
+      "id": "_14",
+      "label": "Vrbovno (ulaz)",
+      "longitude": 20.3005199432373,
+      "latitude": 44.5459899902344
+    },
+    {
+      "id": "_15",
+      "label": "Vrbovno (4.vojvođanske)",
+      "longitude": 20.2984723410231,
+      "latitude": 44.5351411054441
+    },
+    {
+      "id": "_16",
+      "label": "Stepojevac",
+      "longitude": 20.2946716148953,
+      "latitude": 44.5125854846983
+    },
+    {
+      "id": "_17",
+      "label": "Stepojevac - Železnička stanica",
+      "longitude": 20.2927457849704,
+      "latitude": 44.496822921669
+    },
+    {
+      "id": "_18",
+      "label": "Termoelektrana",
+      "longitude": 20.289945581872,
+      "latitude": 44.4803327103659
+    },
+    {
+      "id": "_19",
+      "label": "Veliki crljeni - Vaga",
+      "longitude": 20.2906131744385,
+      "latitude": 44.477611541748
+    },
+    {
+      "id": "_20",
+      "label": "Sokolovački put",
+      "longitude": 20.3099816549639,
+      "latitude": 44.4723786980978
+    },
+    {
+      "id": "_21",
+      "label": "Junkovac - Groblje",
+      "longitude": 20.335382197448,
+      "latitude": 44.4594616450574
+    },
+    {
+      "id": "_22",
+      "label": "Junkovac - Dom",
+      "longitude": 20.3504561607492,
+      "latitude": 44.4504823415681
+    },
+    {
+      "id": "_23",
+      "label": "Arapovac - Prodavnica",
+      "longitude": 20.3726112097804,
+      "latitude": 44.4550238590959
+    },
+    {
+      "id": "_24",
+      "label": "Arapovac - Panj",
+      "longitude": 20.381580555248,
+      "latitude": 44.4443472858507
+    },
+    {
+      "id": "_25",
+      "label": "Mirosaljci - R. kuće",
+      "longitude": 20.3882860546721,
+      "latitude": 44.4384988520166
+    },
+    {
+      "id": "_26",
+      "label": "Mirosaljci - Stev. kuće",
+      "longitude": 20.3941573909448,
+      "latitude": 44.4348255677533
+    },
+    {
+      "id": "_27",
+      "label": "Mirosaljci - Perilo",
+      "longitude": 20.4035050370289,
+      "latitude": 44.4299147269751
+    },
+    {
+      "id": "_28",
+      "label": "Mirosaljci - Hrast",
+      "longitude": 20.4114121815004,
+      "latitude": 44.4365837169783
+    },
+    {
+      "id": "_29",
+      "label": "Mirosaljci - Dom",
+      "longitude": 20.4181041717529,
+      "latitude": 44.43701171875
+    },
+    {
+      "id": "_30",
+      "label": "Gunjevac - Raskrsnica",
+      "longitude": 20.4264592944621,
+      "latitude": 44.4349251593188
+    },
+    {
+      "id": "_31",
+      "label": "Gunjevac okretnica",
+      "longitude": 20.4348223990574,
+      "latitude": 44.4378400526458
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Gunjevac okretnica",
+      "longitude": 20.4349403381348,
+      "latitude": 44.4378662109375
+    },
+    {
+      "id": "_2",
+      "label": "Gunjevac - Raskrsnica",
+      "longitude": 20.426579999004,
+      "latitude": 44.4348926005564
+    },
+    {
+      "id": "_3",
+      "label": "Mirosaljci - Dom",
+      "longitude": 20.4179000854492,
+      "latitude": 44.43701171875
+    },
+    {
+      "id": "_4",
+      "label": "Mirosaljci - Hrast",
+      "longitude": 20.4112994850637,
+      "latitude": 44.4367024571759
+    },
+    {
+      "id": "_5",
+      "label": "Mirosaljci - Perilo",
+      "longitude": 20.4033869633335,
+      "latitude": 44.4299836807939
+    },
+    {
+      "id": "_6",
+      "label": "Mirosaljci - Stev. kuće",
+      "longitude": 20.3941762421676,
+      "latitude": 44.4349749550379
+    },
+    {
+      "id": "_7",
+      "label": "Mirosaljci - R. kuće",
+      "longitude": 20.3880661905767,
+      "latitude": 44.4388473998419
+    },
+    {
+      "id": "_8",
+      "label": "Arapovac - Panj",
+      "longitude": 20.3815537742479,
+      "latitude": 44.4445157978597
+    },
+    {
+      "id": "_9",
+      "label": "Arapovac - Prodavnica",
+      "longitude": 20.3725092884059,
+      "latitude": 44.4551961694171
+    },
+    {
+      "id": "_10",
+      "label": "Junkovac - Dom",
+      "longitude": 20.3505260009086,
+      "latitude": 44.450585735862
+    },
+    {
+      "id": "_11",
+      "label": "Junkovac - Groblje",
+      "longitude": 20.335366147852,
+      "latitude": 44.4596492575679
+    },
+    {
+      "id": "_12",
+      "label": "Sokolovački put",
+      "longitude": 20.3099710339891,
+      "latitude": 44.4725088494679
+    },
+    {
+      "id": "_13",
+      "label": "Veliki crljeni - Vaga",
+      "longitude": 20.2904758453369,
+      "latitude": 44.477725982666
+    },
+    {
+      "id": "_14",
+      "label": "Termoelektrana",
+      "longitude": 20.2901280003344,
+      "latitude": 44.4803365378298
+    },
+    {
+      "id": "_15",
+      "label": "Stepojevac - Železnička stanica",
+      "longitude": 20.2929443300725,
+      "latitude": 44.4968573590973
+    },
+    {
+      "id": "_16",
+      "label": "Stepojevac",
+      "longitude": 20.2943391018734,
+      "latitude": 44.5143489432465
+    },
+    {
+      "id": "_17",
+      "label": "Vrbovno (4.vojvođanske)",
+      "longitude": 20.2986896269187,
+      "latitude": 44.5352386139647
+    },
+    {
+      "id": "_18",
+      "label": "Vrbovno (ulaz)",
+      "longitude": 20.3007978380681,
+      "latitude": 44.5447592478369
+    },
+    {
+      "id": "_19",
+      "label": "Ibarski cvet",
+      "longitude": 20.2985985062878,
+      "latitude": 44.5563386751575
+    },
+    {
+      "id": "_20",
+      "label": "Baljevac",
+      "longitude": 20.3015568878106,
+      "latitude": 44.5660316631992
+    },
+    {
+      "id": "_21",
+      "label": "Velike dubrave",
+      "longitude": 20.3058136690828,
+      "latitude": 44.571787066141
+    },
+    {
+      "id": "_22",
+      "label": "Šiljakovac R",
+      "longitude": 20.3308601163189,
+      "latitude": 44.5818213533369
+    },
+    {
+      "id": "_23",
+      "label": "Šumadinka",
+      "longitude": 20.350483139495,
+      "latitude": 44.5946692845888
+    },
+    {
+      "id": "_24",
+      "label": "Baćevac R Ibarska",
+      "longitude": 20.3599244690012,
+      "latitude": 44.6105619468303
+    },
+    {
+      "id": "_25",
+      "label": "Meljak",
+      "longitude": 20.3716993485997,
+      "latitude": 44.6244343931842
+    },
+    {
+      "id": "_26",
+      "label": "Lipovica (policija)",
+      "longitude": 20.4121497106517,
+      "latitude": 44.6372519084437
+    },
+    {
+      "id": "_27",
+      "label": "Naselje Petlovo brdo",
+      "longitude": 20.4181229965482,
+      "latitude": 44.7240081587061
+    },
+    {
+      "id": "_28",
+      "label": "Kneževac",
+      "longitude": 20.4193354172285,
+      "latitude": 44.7350908768268
+    },
+    {
+      "id": "_29",
+      "label": "Žarkovo",
+      "longitude": 20.4154615894523,
+      "latitude": 44.7595213843687
+    },
+    {
+      "id": "_30",
+      "label": "Palata pravde 1",
+      "longitude": 20.451327814778,
+      "latitude": 44.8034058554644
+    },
+    {
+      "id": "_31",
+      "label": "BAS",
+      "longitude": 20.4543059627735,
+      "latitude": 44.8101721002059
+    }
+  ]
+}

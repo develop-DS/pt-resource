@@ -2,66 +2,108 @@
   "direction_a": [
     {
       "id": "_1",
+      "label": "Mokranjčeva (okretnica)",
+      "longitude": 21.9122330015854,
+      "latitude": 43.3047256261397
+    },
+    {
+      "id": "_2",
+      "label": "Mokranjčeva (vidikovac)",
+      "longitude": 21.9086082435877,
+      "latitude": 43.3076351448483
+    },
+    {
+      "id": "_3",
+      "label": "Mokranjčeva (trafo)",
+      "longitude": 21.9044516962485,
+      "latitude": 43.3099546451311
+    },
+    {
+      "id": "_4",
+      "label": "Crkva Sv. Nikola",
+      "longitude": 21.9014440106188,
+      "latitude": 43.3116257899643
+    },
+    {
+      "id": "_5",
+      "label": "Božidarčeva",
+      "longitude": 21.8967304799936,
+      "latitude": 43.3113226767803
+    },
+    {
+      "id": "_6",
+      "label": "Stanoja Bunuševca",
+      "longitude": 21.8937595784821,
+      "latitude": 43.3118248931972
+    },
+    {
+      "id": "_7",
+      "label": "Marger",
+      "longitude": 21.894726233504,
+      "latitude": 43.3155242651876
+    },
+    {
+      "id": "_8",
       "label": "Trg Pavla Stojkovića",
       "longitude": 21.8922247453321,
       "latitude": 43.3176178805745
     },
     {
-      "id": "_2",
+      "id": "_9",
       "label": "Autobuska stanica",
       "longitude": 21.8902451533189,
       "latitude": 43.3252218774593
     },
     {
-      "id": "_3",
+      "id": "_10",
       "label": "Logor",
       "longitude": 21.8875487349086,
       "latitude": 43.3290344529612
     },
     {
-      "id": "_4",
+      "id": "_11",
       "label": "DIN",
       "longitude": 21.8817421640371,
       "latitude": 43.3338828528293
     },
     {
-      "id": "_5",
+      "id": "_12",
       "label": "Tempo",
       "longitude": 21.8794126967102,
       "latitude": 43.3356741926269
     },
     {
-      "id": "_6",
+      "id": "_13",
       "label": "Jastrebac",
       "longitude": 21.8762735658457,
       "latitude": 43.3381144363934
     },
     {
-      "id": "_7",
+      "id": "_14",
       "label": "Strugara",
       "longitude": 21.878319847236,
       "latitude": 43.3418020296778
     },
     {
-      "id": "_8",
+      "id": "_15",
       "label": "Prijepoljska",
       "longitude": 21.8817083827351,
       "latitude": 43.3458320838413
     },
     {
-      "id": "_9",
+      "id": "_16",
       "label": "Branka Bjegovića MK",
       "longitude": 21.8857716225461,
       "latitude": 43.3485605410288
     },
     {
-      "id": "_10",
+      "id": "_17",
       "label": "22. decembra",
       "longitude": 21.8902733591917,
       "latitude": 43.3481906218499
     },
     {
-      "id": "_11",
+      "id": "_18",
       "label": "Dobrovoljačka",
       "longitude": 21.8930007433436,
       "latitude": 43.3486211874327
@@ -145,6 +187,48 @@
       "label": "Trg Pavla Stojkovića",
       "longitude": 21.8919873863238,
       "latitude": 43.3174054938887
+    },
+    {
+      "id": "_14",
+      "label": "Marger",
+      "longitude": 21.8945342751719,
+      "latitude": 43.3158840433485
+    },
+    {
+      "id": "_15",
+      "label": "Stanoja Bunuševca I",
+      "longitude": 21.8939858078204,
+      "latitude": 43.3112812101997
+    },
+    {
+      "id": "_16",
+      "label": "Niški kulturni centar",
+      "longitude": 21.8992969329716,
+      "latitude": 43.3111494389707
+    },
+    {
+      "id": "_17",
+      "label": "Crkva Sv. Nikola",
+      "longitude": 21.9016474569765,
+      "latitude": 43.3113793321948
+    },
+    {
+      "id": "_18",
+      "label": "Mokranjčeva (trafo)",
+      "longitude": 21.9048628648456,
+      "latitude": 43.3095859097274
+    },
+    {
+      "id": "_19",
+      "label": "Mokranjčeva (vidikovac)",
+      "longitude": 21.9086453275062,
+      "latitude": 43.3074852520645
+    },
+    {
+      "id": "_20",
+      "label": "Mokranjčeva (okretnica)",
+      "longitude": 21.9120019575999,
+      "latitude": 43.3046068491294
     }
   ]
 }

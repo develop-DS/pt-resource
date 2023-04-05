@@ -1,0 +1,420 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Šumice",
+      "longitude": 20.500804979919,
+      "latitude": 44.7839063581867
+    },
+    {
+      "id": "_2",
+      "label": "Prvomajska",
+      "longitude": 20.5211262691793,
+      "latitude": 44.7837068972296
+    },
+    {
+      "id": "_3",
+      "label": "Put za Kaluđericu",
+      "longitude": 20.5604030358932,
+      "latitude": 44.7676827109783
+    },
+    {
+      "id": "_4",
+      "label": "Zdravstvena stanica Leštane i Vinča",
+      "longitude": 20.5986012992368,
+      "latitude": 44.7455484620032
+    },
+    {
+      "id": "_5",
+      "label": "Boleč raskršće",
+      "longitude": 20.6114945404098,
+      "latitude": 44.7357201596251
+    },
+    {
+      "id": "_6",
+      "label": "Hladnjača PKB",
+      "longitude": 20.6310941661735,
+      "latitude": 44.7219198434715
+    },
+    {
+      "id": "_7",
+      "label": "Put za Zaklopaču",
+      "longitude": 20.6691906592787,
+      "latitude": 44.6974053541038
+    },
+    {
+      "id": "_8",
+      "label": "Šumadijska",
+      "longitude": 20.7161887476849,
+      "latitude": 44.6736040990882
+    },
+    {
+      "id": "_9",
+      "label": "Alaska koliba",
+      "longitude": 20.7346074322125,
+      "latitude": 44.662281322888
+    },
+    {
+      "id": "_10",
+      "label": "Brestovik - Vikend naselje",
+      "longitude": 20.7453685766738,
+      "latitude": 44.6562906647353
+    },
+    {
+      "id": "_11",
+      "label": "Brestovik R",
+      "longitude": 20.7584631229788,
+      "latitude": 44.6474943413635
+    },
+    {
+      "id": "_12",
+      "label": "Brestovik - Ulaz",
+      "longitude": 20.763076543808,
+      "latitude": 44.6450441083287
+    },
+    {
+      "id": "_13",
+      "label": "Brestovik centar - Okretnica",
+      "longitude": 20.766965804758,
+      "latitude": 44.6450822747458
+    },
+    {
+      "id": "_14",
+      "label": "Brestovik - Izlaz",
+      "longitude": 20.7631999650237,
+      "latitude": 44.6451204411378
+    },
+    {
+      "id": "_15",
+      "label": "Brestovik R",
+      "longitude": 20.7586509293958,
+      "latitude": 44.6474561765334
+    },
+    {
+      "id": "_16",
+      "label": "Institut",
+      "longitude": 20.7512157911743,
+      "latitude": 44.6422464415769
+    },
+    {
+      "id": "_17",
+      "label": "Bukovača",
+      "longitude": 20.7422626109911,
+      "latitude": 44.6215631871713
+    },
+    {
+      "id": "_18",
+      "label": "Trajna jaruga - Okretnica",
+      "longitude": 20.7650318277442,
+      "latitude": 44.6223936370169
+    },
+    {
+      "id": "_19",
+      "label": "Kamendol - Centar",
+      "longitude": 20.7555618286133,
+      "latitude": 44.614086151123
+    },
+    {
+      "id": "_20",
+      "label": "Kamendol izlaz - Pesak",
+      "longitude": 20.7454319000244,
+      "latitude": 44.6107368469238
+    },
+    {
+      "id": "_21",
+      "label": "Kamendol R",
+      "longitude": 20.7285003662109,
+      "latitude": 44.6149711608887
+    },
+    {
+      "id": "_22",
+      "label": "Pudarci - Trafo",
+      "longitude": 20.7239484482364,
+      "latitude": 44.6131281982904
+    },
+    {
+      "id": "_23",
+      "label": "Pudarci - Prodavnica",
+      "longitude": 20.7247906527284,
+      "latitude": 44.6077893513067
+    },
+    {
+      "id": "_24",
+      "label": "Pudarci čokanj",
+      "longitude": 20.7256355285645,
+      "latitude": 44.5996475219727
+    },
+    {
+      "id": "_25",
+      "label": "Umčari - Čekerac",
+      "longitude": 20.7279020365093,
+      "latitude": 44.5927057941452
+    },
+    {
+      "id": "_26",
+      "label": "Umčari centar odlazna",
+      "longitude": 20.7357769518521,
+      "latitude": 44.5831547973273
+    },
+    {
+      "id": "_27",
+      "label": "Umčari - Crkva",
+      "longitude": 20.7287603525328,
+      "latitude": 44.5835903569324
+    },
+    {
+      "id": "_28",
+      "label": "Umčari izlaz",
+      "longitude": 20.7228433679534,
+      "latitude": 44.5791811204258
+    },
+    {
+      "id": "_29",
+      "label": "Umčari - Šefkać",
+      "longitude": 20.715435141481,
+      "latitude": 44.5786232555827
+    },
+    {
+      "id": "_30",
+      "label": "Dražanj - Izlaz",
+      "longitude": 20.7010316877777,
+      "latitude": 44.5789938924109
+    },
+    {
+      "id": "_31",
+      "label": "Dražanj - Ulaz",
+      "longitude": 20.6948573067404,
+      "latitude": 44.5815959256859
+    },
+    {
+      "id": "_32",
+      "label": "Dražanj - Centar",
+      "longitude": 20.6891227103579,
+      "latitude": 44.584954325111
+    },
+    {
+      "id": "_33",
+      "label": "Dražanj - Škola",
+      "longitude": 20.6821006506021,
+      "latitude": 44.5849046573634
+    },
+    {
+      "id": "_34",
+      "label": "Dražanj - Okretnica",
+      "longitude": 20.6719493865967,
+      "latitude": 44.5846176147461
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Dražanj - Okretnica",
+      "longitude": 20.6720638392493,
+      "latitude": 44.584572264422
+    },
+    {
+      "id": "_2",
+      "label": "Dražanj - Škola",
+      "longitude": 20.6821113855307,
+      "latitude": 44.5848206041555
+    },
+    {
+      "id": "_3",
+      "label": "Dražanj - Centar",
+      "longitude": 20.6889456175458,
+      "latitude": 44.584809142345
+    },
+    {
+      "id": "_4",
+      "label": "Dražanj - Ulaz",
+      "longitude": 20.6946601867676,
+      "latitude": 44.581600189209
+    },
+    {
+      "id": "_5",
+      "label": "Dražanj - Izlaz",
+      "longitude": 20.7012220883399,
+      "latitude": 44.57886397874
+    },
+    {
+      "id": "_6",
+      "label": "Umčari - Šefkać",
+      "longitude": 20.7155451454262,
+      "latitude": 44.5784780570059
+    },
+    {
+      "id": "_7",
+      "label": "Umčari izlaz",
+      "longitude": 20.7229882856004,
+      "latitude": 44.5790817750236
+    },
+    {
+      "id": "_8",
+      "label": "Umčari - Crkva",
+      "longitude": 20.7289910438317,
+      "latitude": 44.5835330466445
+    },
+    {
+      "id": "_9",
+      "label": "Umčari centar odlazna",
+      "longitude": 20.7359566968652,
+      "latitude": 44.5830898451768
+    },
+    {
+      "id": "_10",
+      "label": "Umčari - Čekerac",
+      "longitude": 20.7276982190865,
+      "latitude": 44.593168022574
+    },
+    {
+      "id": "_11",
+      "label": "Pudarci čokanj",
+      "longitude": 20.7258314016121,
+      "latitude": 44.5997610625605
+    },
+    {
+      "id": "_12",
+      "label": "Pudarci - Prodavnica",
+      "longitude": 20.724860484596,
+      "latitude": 44.6080337727604
+    },
+    {
+      "id": "_13",
+      "label": "Pudarci - Trafo",
+      "longitude": 20.7241684320229,
+      "latitude": 44.6134680653523
+    },
+    {
+      "id": "_14",
+      "label": "Kamendol R",
+      "longitude": 20.7282371520996,
+      "latitude": 44.6149101257324
+    },
+    {
+      "id": "_15",
+      "label": "Kamendol ulaz - Pesak",
+      "longitude": 20.7454919891219,
+      "latitude": 44.6106803329491
+    },
+    {
+      "id": "_16",
+      "label": "Kamendol - Centar",
+      "longitude": 20.7555294036865,
+      "latitude": 44.6139678955078
+    },
+    {
+      "id": "_17",
+      "label": "Trajna jaruga - Okretnica",
+      "longitude": 20.7651284306581,
+      "latitude": 44.6223630919457
+    },
+    {
+      "id": "_18",
+      "label": "Bukovača",
+      "longitude": 20.7422734098906,
+      "latitude": 44.6218533686974
+    },
+    {
+      "id": "_19",
+      "label": "Institut",
+      "longitude": 20.7513928687552,
+      "latitude": 44.6423609462747
+    },
+    {
+      "id": "_20",
+      "label": "Brestovik R",
+      "longitude": 20.7584631229788,
+      "latitude": 44.6474943413635
+    },
+    {
+      "id": "_21",
+      "label": "Brestovik - Ulaz",
+      "longitude": 20.763076543808,
+      "latitude": 44.6450441083287
+    },
+    {
+      "id": "_22",
+      "label": "Brestovik centar - Okretnica",
+      "longitude": 20.766965804758,
+      "latitude": 44.6450822747458
+    },
+    {
+      "id": "_23",
+      "label": "Brestovik - Izlaz",
+      "longitude": 20.7631999650237,
+      "latitude": 44.6451204411378
+    },
+    {
+      "id": "_24",
+      "label": "Brestovik R",
+      "longitude": 20.7586509293958,
+      "latitude": 44.6474561765334
+    },
+    {
+      "id": "_25",
+      "label": "Brestovik - Vikend naselje",
+      "longitude": 20.7456073760986,
+      "latitude": 44.6562461853027
+    },
+    {
+      "id": "_26",
+      "label": "Alaska koliba",
+      "longitude": 20.7349414825439,
+      "latitude": 44.6623382568359
+    },
+    {
+      "id": "_27",
+      "label": "Šumadijska",
+      "longitude": 20.7156234631521,
+      "latitude": 44.6741732893128
+    },
+    {
+      "id": "_28",
+      "label": "Put za Zaklopaču",
+      "longitude": 20.6690658567558,
+      "latitude": 44.6976083886878
+    },
+    {
+      "id": "_29",
+      "label": "Hladnjača PKB",
+      "longitude": 20.6315834818361,
+      "latitude": 44.7219934094409
+    },
+    {
+      "id": "_30",
+      "label": "Boleč raskršće",
+      "longitude": 20.6112002536803,
+      "latitude": 44.7359243566244
+    },
+    {
+      "id": "_31",
+      "label": "Zdravstvena stanica Leštane i Vinča",
+      "longitude": 20.5972741950904,
+      "latitude": 44.7460783975069
+    },
+    {
+      "id": "_32",
+      "label": "Put za Kaluđericu",
+      "longitude": 20.5604624247003,
+      "latitude": 44.7678485307922
+    },
+    {
+      "id": "_33",
+      "label": "Bulevar kralja Aleksandra",
+      "longitude": 20.5176944350182,
+      "latitude": 44.7839787182907
+    },
+    {
+      "id": "_34",
+      "label": "Konjarnik",
+      "longitude": 20.5108922777747,
+      "latitude": 44.7823030190255
+    },
+    {
+      "id": "_35",
+      "label": "Šumice",
+      "longitude": 20.500804979919,
+      "latitude": 44.7839063581867
+    }
+  ]
+}

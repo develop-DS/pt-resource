@@ -1,0 +1,366 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "BAS",
+      "longitude": 20.4543059627735,
+      "latitude": 44.8101721002059
+    },
+    {
+      "id": "_2",
+      "label": "Palata pravde 1",
+      "longitude": 20.4515238525443,
+      "latitude": 44.8029928139838
+    },
+    {
+      "id": "_3",
+      "label": "Sajam",
+      "longitude": 20.4415906546322,
+      "latitude": 44.7964130286058
+    },
+    {
+      "id": "_4",
+      "label": "Čukarica",
+      "longitude": 20.4145017152671,
+      "latitude": 44.7863856515716
+    },
+    {
+      "id": "_5",
+      "label": "Železnik R",
+      "longitude": 20.3589500715381,
+      "latitude": 44.7422083297655
+    },
+    {
+      "id": "_6",
+      "label": "Ostružnica 1",
+      "longitude": 20.3210717392176,
+      "latitude": 44.7335972061237
+    },
+    {
+      "id": "_7",
+      "label": "Ostružnica 2",
+      "longitude": 20.3145425020959,
+      "latitude": 44.7236605299118
+    },
+    {
+      "id": "_8",
+      "label": "Pećani",
+      "longitude": 20.3168674129367,
+      "latitude": 44.6965529664518
+    },
+    {
+      "id": "_9",
+      "label": "Zelengora",
+      "longitude": 20.3116150901158,
+      "latitude": 44.6895701694761
+    },
+    {
+      "id": "_10",
+      "label": "Umka (centar)",
+      "longitude": 20.3034499389404,
+      "latitude": 44.6785807791686
+    },
+    {
+      "id": "_11",
+      "label": "Rucka 1",
+      "longitude": 20.3024140390074,
+      "latitude": 44.6755469690061
+    },
+    {
+      "id": "_12",
+      "label": "Rucka 2",
+      "longitude": 20.3046500159533,
+      "latitude": 44.6714458746415
+    },
+    {
+      "id": "_13",
+      "label": "Rucka 3",
+      "longitude": 20.3060549003861,
+      "latitude": 44.664241990688
+    },
+    {
+      "id": "_14",
+      "label": "Rucka 4",
+      "longitude": 20.3098542961162,
+      "latitude": 44.6609512193089
+    },
+    {
+      "id": "_15",
+      "label": "Rucka (okretnica)",
+      "longitude": 20.3147869110107,
+      "latitude": 44.6561393737793
+    },
+    {
+      "id": "_16",
+      "label": "Moštanička (izlaz)",
+      "longitude": 20.3135204315186,
+      "latitude": 44.650520324707
+    },
+    {
+      "id": "_17",
+      "label": "Drenjanski kraj",
+      "longitude": 20.3108453724929,
+      "latitude": 44.6491354053028
+    },
+    {
+      "id": "_18",
+      "label": "Ustanička",
+      "longitude": 20.3048613770213,
+      "latitude": 44.6482442751802
+    },
+    {
+      "id": "_19",
+      "label": "Durmitorska",
+      "longitude": 20.2991992414952,
+      "latitude": 44.6492231818333
+    },
+    {
+      "id": "_20",
+      "label": "Mala Moštanica (brdo)",
+      "longitude": 20.2940708347456,
+      "latitude": 44.6482232847982
+    },
+    {
+      "id": "_21",
+      "label": "Moštanička",
+      "longitude": 20.2900009155273,
+      "latitude": 44.6469688415527
+    },
+    {
+      "id": "_22",
+      "label": "Predajnik",
+      "longitude": 20.2840822935104,
+      "latitude": 44.6476622663176
+    },
+    {
+      "id": "_23",
+      "label": "Vinogradska (ulaz)",
+      "longitude": 20.2790508270264,
+      "latitude": 44.6476058959961
+    },
+    {
+      "id": "_24",
+      "label": "Grobljanska",
+      "longitude": 20.2802252615383,
+      "latitude": 44.6446509927713
+    },
+    {
+      "id": "_25",
+      "label": "6. vojvođanske brigade",
+      "longitude": 20.2757405952248,
+      "latitude": 44.646910416716
+    },
+    {
+      "id": "_26",
+      "label": "Beogradska (izlaz)",
+      "longitude": 20.273407119608,
+      "latitude": 44.6490896087994
+    },
+    {
+      "id": "_27",
+      "label": "Dragorada Dragojevića",
+      "longitude": 20.2691048203944,
+      "latitude": 44.6497803688853
+    },
+    {
+      "id": "_28",
+      "label": "Vuka Karadžića",
+      "longitude": 20.2652692255494,
+      "latitude": 44.6503947949766
+    },
+    {
+      "id": "_29",
+      "label": "Barič (rampa)",
+      "longitude": 20.2609187544347,
+      "latitude": 44.6516159952118
+    },
+    {
+      "id": "_30",
+      "label": "Barič (Ambulanta)",
+      "longitude": 20.2594703589985,
+      "latitude": 44.6546803313312
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Barič (Ambulanta)",
+      "longitude": 20.2594703589985,
+      "latitude": 44.6546803313312
+    },
+    {
+      "id": "_2",
+      "label": "Barič (rampa)",
+      "longitude": 20.2605753982952,
+      "latitude": 44.6518411511976
+    },
+    {
+      "id": "_3",
+      "label": "Vuka Karadžića",
+      "longitude": 20.2656072326796,
+      "latitude": 44.6503299179948
+    },
+    {
+      "id": "_4",
+      "label": "Dragorada Dragojevića",
+      "longitude": 20.2694696367742,
+      "latitude": 44.6496353481131
+    },
+    {
+      "id": "_5",
+      "label": "Beogradska (izlaz)",
+      "longitude": 20.2735143694468,
+      "latitude": 44.6489407699136
+    },
+    {
+      "id": "_6",
+      "label": "6. vojvođanske brigade",
+      "longitude": 20.2757625579834,
+      "latitude": 44.6466445922852
+    },
+    {
+      "id": "_7",
+      "label": "Grobljanska",
+      "longitude": 20.2802628150326,
+      "latitude": 44.6449296089268
+    },
+    {
+      "id": "_8",
+      "label": "Vinogradska (ulaz)",
+      "longitude": 20.2791690826416,
+      "latitude": 44.6472282409668
+    },
+    {
+      "id": "_9",
+      "label": "Predajnik",
+      "longitude": 20.2843719772203,
+      "latitude": 44.6475859368533
+    },
+    {
+      "id": "_10",
+      "label": "Moštanička",
+      "longitude": 20.2901816291059,
+      "latitude": 44.6468035540528
+    },
+    {
+      "id": "_11",
+      "label": "Mala Moštanica (brdo)",
+      "longitude": 20.2940998077393,
+      "latitude": 44.6480598449707
+    },
+    {
+      "id": "_12",
+      "label": "Dumitorska",
+      "longitude": 20.2992636042391,
+      "latitude": 44.6490667105341
+    },
+    {
+      "id": "_13",
+      "label": "Ustanička",
+      "longitude": 20.3052181467741,
+      "latitude": 44.6482347340984
+    },
+    {
+      "id": "_14",
+      "label": "Drenjanski kraj",
+      "longitude": 20.3113067406929,
+      "latitude": 44.6492269982012
+    },
+    {
+      "id": "_15",
+      "label": "Moštanička (izlaz)",
+      "longitude": 20.3135973394872,
+      "latitude": 44.6504176927176
+    },
+    {
+      "id": "_16",
+      "label": "Rucka (okretnica)",
+      "longitude": 20.3150135869371,
+      "latitude": 44.6560578941882
+    },
+    {
+      "id": "_17",
+      "label": "Rucka 4",
+      "longitude": 20.3098449223652,
+      "latitude": 44.6611041587668
+    },
+    {
+      "id": "_18",
+      "label": "Rucka 3",
+      "longitude": 20.3060548978213,
+      "latitude": 44.6644543848514
+    },
+    {
+      "id": "_19",
+      "label": "Rucka 2",
+      "longitude": 20.3047749069066,
+      "latitude": 44.6715492292781
+    },
+    {
+      "id": "_20",
+      "label": "Rucka 1",
+      "longitude": 20.3024089777482,
+      "latitude": 44.6757593319646
+    },
+    {
+      "id": "_21",
+      "label": "Umka (centar)",
+      "longitude": 20.3051606406909,
+      "latitude": 44.6808878931564
+    },
+    {
+      "id": "_22",
+      "label": "Zelengora",
+      "longitude": 20.3120479690909,
+      "latitude": 44.6898787585724
+    },
+    {
+      "id": "_23",
+      "label": "Pećani",
+      "longitude": 20.3175732163403,
+      "latitude": 44.6976983327742
+    },
+    {
+      "id": "_24",
+      "label": "Ostružnica 2",
+      "longitude": 20.3146318941812,
+      "latitude": 44.7225001080304
+    },
+    {
+      "id": "_25",
+      "label": "Ostružnica 1",
+      "longitude": 20.3209580667347,
+      "latitude": 44.7333841411753
+    },
+    {
+      "id": "_26",
+      "label": "Železnik R",
+      "longitude": 20.3612220070836,
+      "latitude": 44.7427627874396
+    },
+    {
+      "id": "_27",
+      "label": "Čukarica",
+      "longitude": 20.4151354377319,
+      "latitude": 44.786451881637
+    },
+    {
+      "id": "_28",
+      "label": "Sajam",
+      "longitude": 20.4420563488721,
+      "latitude": 44.7963250729334
+    },
+    {
+      "id": "_29",
+      "label": "Palata pravde 1",
+      "longitude": 20.451327814778,
+      "latitude": 44.8034058554644
+    },
+    {
+      "id": "_30",
+      "label": "BAS",
+      "longitude": 20.4543059627735,
+      "latitude": 44.8101721002059
+    }
+  ]
+}

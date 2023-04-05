@@ -2,94 +2,203 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Пристаниште",
-      "longitude": 20.449397,
-      "latitude": 44.818688
+      "label": "Pristanište",
+      "longitude": 20.4496087923248,
+      "latitude": 44.8191485924837
     },
     {
       "id": "_2",
-      "label": "Бранков мост",
-      "longitude": 20.451148,
-      "latitude": 44.814298
+      "label": "Kalemegdan",
+      "longitude": 20.4540343349834,
+      "latitude": 44.8207626503436
     },
     {
       "id": "_3",
-      "label": "Савски трг",
-      "longitude": 20.457633,
-      "latitude": 44.807222
+      "label": "Braće Baruh",
+      "longitude": 20.4569313944278,
+      "latitude": 44.8249413711738
     },
     {
       "id": "_4",
-      "label": "Славија трг",
-      "longitude": 20.467036,
-      "latitude": 44.803268
+      "label": "Kralja Petra",
+      "longitude": 20.4602867462446,
+      "latitude": 44.8231213035395
     },
     {
       "id": "_5",
-      "label": "Правни факултет",
-      "longitude": 20.47258,
-      "latitude": 44.806622
+      "label": "Dorćol (Kneginje Ljubice)",
+      "longitude": 20.4641043800112,
+      "latitude": 44.8210603098234
     },
     {
       "id": "_6",
-      "label": "Вуков Споменик",
-      "longitude": 20.478154,
-      "latitude": 44.805407
+      "label": "Pijaca Skadarlija",
+      "longitude": 20.4670188803185,
+      "latitude": 44.8181778406019
     },
     {
       "id": "_7",
-      "label": "Машински Факултет",
-      "longitude": 20.476958,
-      "latitude": 44.808056
+      "label": "Bulevar despota Stefana",
+      "longitude": 20.4692938734787,
+      "latitude": 44.8163434835923
     },
     {
       "id": "_8",
-      "label": "Палилулска Пијаца",
-      "longitude": 20.474998,
-      "latitude": 44.810217
+      "label": "Takovska",
+      "longitude": 20.4718837356293,
+      "latitude": 44.8135133831198
     },
     {
       "id": "_9",
-      "label": "Таковска",
-      "longitude": 20.47251,
-      "latitude": 44.813193
+      "label": "Palilulska pijaca",
+      "longitude": 20.4744349063776,
+      "latitude": 44.8104598570345
     },
     {
       "id": "_10",
-      "label": "Булевар Деспота Стефана",
-      "longitude": 20.469362,
-      "latitude": 44.816612
+      "label": "Mašinski fakultet",
+      "longitude": 20.476835962319,
+      "latitude": 44.8077619695552
     },
     {
       "id": "_11",
-      "label": "Пијаца Скадарлија",
-      "longitude": 20.467083,
-      "latitude": 44.818495
+      "label": "Vukov spomenik",
+      "longitude": 20.4779759224612,
+      "latitude": 44.8055460757338
     },
     {
       "id": "_12",
-      "label": "Дорћол /Кнегиње Љубице/",
-      "longitude": 20.464301,
-      "latitude": 44.821218
+      "label": "Pravni fakultet",
+      "longitude": 20.4711808001071,
+      "latitude": 44.8068378959805
     },
     {
       "id": "_13",
-      "label": "Краља Петра",
-      "longitude": 20.460231,
-      "latitude": 44.823419
+      "label": "Trg Slavija (Nemanjina)",
+      "longitude": 20.4640869685146,
+      "latitude": 44.8034715576244
     },
     {
       "id": "_14",
-      "label": "Браће Барух",
-      "longitude": 20.457178,
-      "latitude": 44.825072
+      "label": "Savski trg",
+      "longitude": 20.4571785811844,
+      "latitude": 44.8076814649323
     },
     {
       "id": "_15",
-      "label": "Калемегдан",
-      "longitude": 20.453363,
-      "latitude": 44.820362
+      "label": "Ekonomski fakultet",
+      "longitude": 20.4534382415214,
+      "latitude": 44.8123470631194
+    },
+    {
+      "id": "_16",
+      "label": "Brankov most",
+      "longitude": 20.4508868228253,
+      "latitude": 44.8150329374625
+    },
+    {
+      "id": "_17",
+      "label": "Pristanište",
+      "longitude": 20.4496087923248,
+      "latitude": 44.8191485924837
     }
   ],
-  "direction_b": []
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Pristanište",
+      "longitude": 20.4494882357202,
+      "latitude": 44.8185270476159
+    },
+    {
+      "id": "_2",
+      "label": "Brankov most",
+      "longitude": 20.4508202345166,
+      "latitude": 44.8148544282538
+    },
+    {
+      "id": "_3",
+      "label": "Savski trg",
+      "longitude": 20.4577723151934,
+      "latitude": 44.8071856981711
+    },
+    {
+      "id": "_4",
+      "label": "Trg Slavija (Nemanjina)",
+      "longitude": 20.4643958994985,
+      "latitude": 44.8031436169063
+    },
+    {
+      "id": "_5",
+      "label": "Pravni fakultet",
+      "longitude": 20.4728884168429,
+      "latitude": 44.8064497728219
+    },
+    {
+      "id": "_6",
+      "label": "Vukov spomenik",
+      "longitude": 20.4783354886266,
+      "latitude": 44.8054847139866
+    },
+    {
+      "id": "_7",
+      "label": "Mašinski fakultet",
+      "longitude": 20.4773121674271,
+      "latitude": 44.8076651445898
+    },
+    {
+      "id": "_8",
+      "label": "Palilulska pijaca",
+      "longitude": 20.4748550255486,
+      "latitude": 44.8104167826562
+    },
+    {
+      "id": "_9",
+      "label": "Takovska",
+      "longitude": 20.4724907468709,
+      "latitude": 44.8132191907578
+    },
+    {
+      "id": "_10",
+      "label": "Bulevar despota Stefana",
+      "longitude": 20.4693722603082,
+      "latitude": 44.8166210312405
+    },
+    {
+      "id": "_11",
+      "label": "Pijaca Skadarlija",
+      "longitude": 20.4670683534984,
+      "latitude": 44.8185740490402
+    },
+    {
+      "id": "_12",
+      "label": "Dorćol (Kneginje Ljubice)",
+      "longitude": 20.464340466377,
+      "latitude": 44.821237802558
+    },
+    {
+      "id": "_13",
+      "label": "Kralja Petra",
+      "longitude": 20.4602737388993,
+      "latitude": 44.8234326253102
+    },
+    {
+      "id": "_14",
+      "label": "Braće Baruh",
+      "longitude": 20.457223365058,
+      "latitude": 44.8250921444758
+    },
+    {
+      "id": "_15",
+      "label": "Kalemegdan",
+      "longitude": 20.453380325682,
+      "latitude": 44.8203887565742
+    },
+    {
+      "id": "_16",
+      "label": "Pristanište",
+      "longitude": 20.4494882357202,
+      "latitude": 44.8185270476159
+    }
+  ]
 }

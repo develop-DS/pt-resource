@@ -1,0 +1,276 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Šumice",
+      "longitude": 20.500804979919,
+      "latitude": 44.7839063581867
+    },
+    {
+      "id": "_2",
+      "label": "Tranšped",
+      "longitude": 20.5761749001744,
+      "latitude": 44.7038573569876
+    },
+    {
+      "id": "_3",
+      "label": "Vrčin (Ivo Lola Ribar)",
+      "longitude": 20.5992131251396,
+      "latitude": 44.6733137066181
+    },
+    {
+      "id": "_4",
+      "label": "Vrčin (pijaca)",
+      "longitude": 20.5959358215332,
+      "latitude": 44.6716651916504
+    },
+    {
+      "id": "_5",
+      "label": "Save Kovačevića",
+      "longitude": 20.5942421846942,
+      "latitude": 44.6675693767692
+    },
+    {
+      "id": "_6",
+      "label": "Vrčin - Centar",
+      "longitude": 20.5917612510199,
+      "latitude": 44.6634660262375
+    },
+    {
+      "id": "_7",
+      "label": "Vrčin - Centar",
+      "longitude": 20.591533132689,
+      "latitude": 44.6634870111028
+    },
+    {
+      "id": "_8",
+      "label": "Save Kovačevića",
+      "longitude": 20.5944729095017,
+      "latitude": 44.6678631433965
+    },
+    {
+      "id": "_9",
+      "label": "Vrčin",
+      "longitude": 20.5962735405151,
+      "latitude": 44.6716078663008
+    },
+    {
+      "id": "_10",
+      "label": "Vrčin (nadvožnjak)",
+      "longitude": 20.6024139145673,
+      "latitude": 44.6748421796977
+    },
+    {
+      "id": "_11",
+      "label": "Vrčin (Gornji kraj)",
+      "longitude": 20.6154327922207,
+      "latitude": 44.6756424483194
+    },
+    {
+      "id": "_12",
+      "label": "17. januara",
+      "longitude": 20.6227257163337,
+      "latitude": 44.6787715200817
+    },
+    {
+      "id": "_13",
+      "label": "Jankovića kraj",
+      "longitude": 20.6284004748727,
+      "latitude": 44.6790005926674
+    },
+    {
+      "id": "_14",
+      "label": "Zaklopača (Ćelije)",
+      "longitude": 20.648770514022,
+      "latitude": 44.6783824210711
+    },
+    {
+      "id": "_15",
+      "label": "Zaklopača",
+      "longitude": 20.6527110381846,
+      "latitude": 44.6754046705815
+    },
+    {
+      "id": "_16",
+      "label": "Crkva Sv. Trojice",
+      "longitude": 20.656452221749,
+      "latitude": 44.6753799034484
+    },
+    {
+      "id": "_17",
+      "label": "Dom kulture",
+      "longitude": 20.6609721307206,
+      "latitude": 44.6763580819132
+    },
+    {
+      "id": "_18",
+      "label": "Trafostanica",
+      "longitude": 20.6626026113329,
+      "latitude": 44.6801535633185
+    },
+    {
+      "id": "_19",
+      "label": "4. jula",
+      "longitude": 20.6620653875364,
+      "latitude": 44.6849398434179
+    },
+    {
+      "id": "_20",
+      "label": "Ulaz u Zaklopaču",
+      "longitude": 20.6633471782784,
+      "latitude": 44.6879963068529
+    },
+    {
+      "id": "_21",
+      "label": "Put za Zaklopaču",
+      "longitude": 20.6691906592787,
+      "latitude": 44.6974053541038
+    },
+    {
+      "id": "_22",
+      "label": "Šumadijska",
+      "longitude": 20.7161887476849,
+      "latitude": 44.6736040990882
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Šumadijska",
+      "longitude": 20.7156234631521,
+      "latitude": 44.6741732893128
+    },
+    {
+      "id": "_2",
+      "label": "Put za Zaklopaču",
+      "longitude": 20.6683294526992,
+      "latitude": 44.6975234715595
+    },
+    {
+      "id": "_3",
+      "label": "Ulaz u Zaklopaču",
+      "longitude": 20.6632747757777,
+      "latitude": 44.6874237126917
+    },
+    {
+      "id": "_4",
+      "label": "4. jula",
+      "longitude": 20.6620080120882,
+      "latitude": 44.6852636650538
+    },
+    {
+      "id": "_5",
+      "label": "Trafostanica",
+      "longitude": 20.6626867689051,
+      "latitude": 44.6804346017307
+    },
+    {
+      "id": "_6",
+      "label": "Dom kulture",
+      "longitude": 20.6598835217223,
+      "latitude": 44.6761550751713
+    },
+    {
+      "id": "_7",
+      "label": "Crkva Sv. Trojice",
+      "longitude": 20.6564616786851,
+      "latitude": 44.6754879285817
+    },
+    {
+      "id": "_8",
+      "label": "Zaklopača",
+      "longitude": 20.6518546566915,
+      "latitude": 44.6756090763521
+    },
+    {
+      "id": "_9",
+      "label": "Zaklopača (Ćelije)",
+      "longitude": 20.6484187125925,
+      "latitude": 44.6794127161764
+    },
+    {
+      "id": "_10",
+      "label": "Jankovića kraj",
+      "longitude": 20.6281952771933,
+      "latitude": 44.6791349254253
+    },
+    {
+      "id": "_11",
+      "label": "17. januara",
+      "longitude": 20.6218716928505,
+      "latitude": 44.6785869200388
+    },
+    {
+      "id": "_12",
+      "label": "Vrčin (Gornji kraj)",
+      "longitude": 20.615656958201,
+      "latitude": 44.6756953964329
+    },
+    {
+      "id": "_13",
+      "label": "Vrčin (nadvožnjak)",
+      "longitude": 20.6020911651879,
+      "latitude": 44.6748212634166
+    },
+    {
+      "id": "_14",
+      "label": "Vrčin (Ivo Lola Ribar)",
+      "longitude": 20.5992131251396,
+      "latitude": 44.6733137066181
+    },
+    {
+      "id": "_15",
+      "label": "Vrčin (pijaca)",
+      "longitude": 20.5959358215332,
+      "latitude": 44.6716651916504
+    },
+    {
+      "id": "_16",
+      "label": "Save Kovačevića",
+      "longitude": 20.5942421846942,
+      "latitude": 44.6675693767692
+    },
+    {
+      "id": "_17",
+      "label": "Vrčin - Centar",
+      "longitude": 20.5917612510199,
+      "latitude": 44.6634660262375
+    },
+    {
+      "id": "_18",
+      "label": "Vrčin - Centar",
+      "longitude": 20.591533132689,
+      "latitude": 44.6634870111028
+    },
+    {
+      "id": "_19",
+      "label": "Save Kovačevića",
+      "longitude": 20.5944729095017,
+      "latitude": 44.6678631433965
+    },
+    {
+      "id": "_20",
+      "label": "Vrčin",
+      "longitude": 20.5962735405151,
+      "latitude": 44.6716078663008
+    },
+    {
+      "id": "_21",
+      "label": "Vrčin - Nadvožnjak",
+      "longitude": 20.6020554412772,
+      "latitude": 44.674142525868
+    },
+    {
+      "id": "_22",
+      "label": "Tranšped",
+      "longitude": 20.5761749001744,
+      "latitude": 44.7038573569876
+    },
+    {
+      "id": "_23",
+      "label": "Šumice",
+      "longitude": 20.500804979919,
+      "latitude": 44.7839063581867
+    }
+  ]
+}

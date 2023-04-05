@@ -1,0 +1,480 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "BAS",
+      "longitude": 20.4543059627735,
+      "latitude": 44.8101721002059
+    },
+    {
+      "id": "_2",
+      "label": "Palata pravde 1",
+      "longitude": 20.4515238525443,
+      "latitude": 44.8029928139838
+    },
+    {
+      "id": "_3",
+      "label": "Sajam",
+      "longitude": 20.4415906546322,
+      "latitude": 44.7964130286058
+    },
+    {
+      "id": "_4",
+      "label": "Čukarica",
+      "longitude": 20.4145017152671,
+      "latitude": 44.7863856515716
+    },
+    {
+      "id": "_5",
+      "label": "Železnik R",
+      "longitude": 20.3589500715381,
+      "latitude": 44.7422083297655
+    },
+    {
+      "id": "_6",
+      "label": "Ostružnica 1",
+      "longitude": 20.3210717392176,
+      "latitude": 44.7335972061237
+    },
+    {
+      "id": "_7",
+      "label": "Ostružnica 2",
+      "longitude": 20.3145425020959,
+      "latitude": 44.7236605299118
+    },
+    {
+      "id": "_8",
+      "label": "Pećani",
+      "longitude": 20.3168674129367,
+      "latitude": 44.6965529664518
+    },
+    {
+      "id": "_9",
+      "label": "Zelengora",
+      "longitude": 20.3116150901158,
+      "latitude": 44.6895701694761
+    },
+    {
+      "id": "_10",
+      "label": "Umka (centar)",
+      "longitude": 20.3034499389404,
+      "latitude": 44.6785807791686
+    },
+    {
+      "id": "_11",
+      "label": "Rucka 1",
+      "longitude": 20.3024140390074,
+      "latitude": 44.6755469690061
+    },
+    {
+      "id": "_12",
+      "label": "Rucka 2",
+      "longitude": 20.3046500159533,
+      "latitude": 44.6714458746415
+    },
+    {
+      "id": "_13",
+      "label": "Rucka 3",
+      "longitude": 20.3060549003861,
+      "latitude": 44.664241990688
+    },
+    {
+      "id": "_14",
+      "label": "Rucka 4",
+      "longitude": 20.3098542961162,
+      "latitude": 44.6609512193089
+    },
+    {
+      "id": "_15",
+      "label": "Rucka (okretnica)",
+      "longitude": 20.3147869110107,
+      "latitude": 44.6561393737793
+    },
+    {
+      "id": "_16",
+      "label": "Moštanička (izlaz)",
+      "longitude": 20.3135204315186,
+      "latitude": 44.650520324707
+    },
+    {
+      "id": "_17",
+      "label": "Drenjanski kraj",
+      "longitude": 20.3108453724929,
+      "latitude": 44.6491354053028
+    },
+    {
+      "id": "_18",
+      "label": "Ustanička",
+      "longitude": 20.3048613770213,
+      "latitude": 44.6482442751802
+    },
+    {
+      "id": "_19",
+      "label": "Durmitorska",
+      "longitude": 20.2991992414952,
+      "latitude": 44.6492231818333
+    },
+    {
+      "id": "_20",
+      "label": "Mala Moštanica (brdo)",
+      "longitude": 20.2940708347456,
+      "latitude": 44.6482232847982
+    },
+    {
+      "id": "_21",
+      "label": "Moštanička",
+      "longitude": 20.2900009155273,
+      "latitude": 44.6469688415527
+    },
+    {
+      "id": "_22",
+      "label": "Predajnik",
+      "longitude": 20.2840822935104,
+      "latitude": 44.6476622663176
+    },
+    {
+      "id": "_23",
+      "label": "Vinogradska (ulaz)",
+      "longitude": 20.2790508270264,
+      "latitude": 44.6476058959961
+    },
+    {
+      "id": "_24",
+      "label": "Grobljanska",
+      "longitude": 20.2802252615383,
+      "latitude": 44.6446509927713
+    },
+    {
+      "id": "_25",
+      "label": "Grobljanska 1",
+      "longitude": 20.2783691446506,
+      "latitude": 44.6427120926053
+    },
+    {
+      "id": "_26",
+      "label": "Groblje",
+      "longitude": 20.2738523483276,
+      "latitude": 44.6408761844929
+    },
+    {
+      "id": "_27",
+      "label": "Put za groblje",
+      "longitude": 20.2709808349609,
+      "latitude": 44.6381149291992
+    },
+    {
+      "id": "_28",
+      "label": "Trafo",
+      "longitude": 20.266111418635,
+      "latitude": 44.6413532971779
+    },
+    {
+      "id": "_29",
+      "label": "Kolubarska - prilaz",
+      "longitude": 20.2669858855452,
+      "latitude": 44.6382920740215
+    },
+    {
+      "id": "_30",
+      "label": "Janka Tešića (brdo)",
+      "longitude": 20.265308380127,
+      "latitude": 44.6347846984863
+    },
+    {
+      "id": "_31",
+      "label": "Omladinskih brigada",
+      "longitude": 20.2627754211426,
+      "latitude": 44.63232421875
+    },
+    {
+      "id": "_32",
+      "label": "Jezero vis",
+      "longitude": 20.2484249863214,
+      "latitude": 44.6242244028766
+    },
+    {
+      "id": "_33",
+      "label": "Jasenak - Škola",
+      "longitude": 20.2502488524978,
+      "latitude": 44.6192149543609
+    },
+    {
+      "id": "_34",
+      "label": "Jasenak - Dom",
+      "longitude": 20.2512787925102,
+      "latitude": 44.6111767882385
+    },
+    {
+      "id": "_35",
+      "label": "Jasenak (groblje)",
+      "longitude": 20.2522144317627,
+      "latitude": 44.6079521179199
+    },
+    {
+      "id": "_36",
+      "label": "Jasenak - reka",
+      "longitude": 20.2540951556339,
+      "latitude": 44.6024500135663
+    },
+    {
+      "id": "_37",
+      "label": "Veverički kraj",
+      "longitude": 20.2603017949988,
+      "latitude": 44.6000207962125
+    },
+    {
+      "id": "_38",
+      "label": "Senića kraj - Stevanovići",
+      "longitude": 20.242191555684,
+      "latitude": 44.6071401018259
+    },
+    {
+      "id": "_39",
+      "label": "Senića kraj - Nikolići",
+      "longitude": 20.2374923460349,
+      "latitude": 44.6106039548356
+    },
+    {
+      "id": "_40",
+      "label": "Jasenak (raskrsnica)",
+      "longitude": 20.2349013269902,
+      "latitude": 44.6172484749587
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Jasenak (raskrsnica)",
+      "longitude": 20.2346115112305,
+      "latitude": 44.6171340942383
+    },
+    {
+      "id": "_2",
+      "label": "Senića kraj - Nikolići",
+      "longitude": 20.2373420961038,
+      "latitude": 44.6105352144475
+    },
+    {
+      "id": "_3",
+      "label": "Senića kraj - Stevanovići",
+      "longitude": 20.2420627865381,
+      "latitude": 44.6070637190569
+    },
+    {
+      "id": "_4",
+      "label": "Jasenak - reka",
+      "longitude": 20.2539405822754,
+      "latitude": 44.6027336120605
+    },
+    {
+      "id": "_5",
+      "label": "Jasenak (groblje)",
+      "longitude": 20.2523040771484,
+      "latitude": 44.6081733703613
+    },
+    {
+      "id": "_6",
+      "label": "Jasenak - Dom",
+      "longitude": 20.2514505643165,
+      "latitude": 44.6111538750109
+    },
+    {
+      "id": "_7",
+      "label": "Jasenak - Škola",
+      "longitude": 20.2504956902028,
+      "latitude": 44.6191844076173
+    },
+    {
+      "id": "_8",
+      "label": "Jezero vis",
+      "longitude": 20.2485644894396,
+      "latitude": 44.6240678641531
+    },
+    {
+      "id": "_9",
+      "label": "Omladinskih brigada",
+      "longitude": 20.2628928499971,
+      "latitude": 44.6322454929196
+    },
+    {
+      "id": "_10",
+      "label": "Janka Tešića (brdo)",
+      "longitude": 20.2654190063477,
+      "latitude": 44.6346321105957
+    },
+    {
+      "id": "_11",
+      "label": "Kolubarska - prilaz",
+      "longitude": 20.2665901184082,
+      "latitude": 44.6384811401367
+    },
+    {
+      "id": "_12",
+      "label": "Trafo",
+      "longitude": 20.2662509833882,
+      "latitude": 44.6415288736583
+    },
+    {
+      "id": "_13",
+      "label": "Put za groblje",
+      "longitude": 20.2716903686523,
+      "latitude": 44.6380195617676
+    },
+    {
+      "id": "_14",
+      "label": "Groblje",
+      "longitude": 20.2740561910765,
+      "latitude": 44.6406853383203
+    },
+    {
+      "id": "_15",
+      "label": "Grobljanska 1",
+      "longitude": 20.2781653532642,
+      "latitude": 44.6424449162427
+    },
+    {
+      "id": "_16",
+      "label": "Grobljanska",
+      "longitude": 20.2802628150326,
+      "latitude": 44.6449296089268
+    },
+    {
+      "id": "_17",
+      "label": "Vinogradska (ulaz)",
+      "longitude": 20.2791690826416,
+      "latitude": 44.6472282409668
+    },
+    {
+      "id": "_18",
+      "label": "Predajnik",
+      "longitude": 20.2843719772203,
+      "latitude": 44.6475859368533
+    },
+    {
+      "id": "_19",
+      "label": "Moštanička",
+      "longitude": 20.2901816291059,
+      "latitude": 44.6468035540528
+    },
+    {
+      "id": "_20",
+      "label": "Mala Moštanica (brdo)",
+      "longitude": 20.2940998077393,
+      "latitude": 44.6480598449707
+    },
+    {
+      "id": "_21",
+      "label": "Dumitorska",
+      "longitude": 20.2992636042391,
+      "latitude": 44.6490667105341
+    },
+    {
+      "id": "_22",
+      "label": "Ustanička",
+      "longitude": 20.3052181467741,
+      "latitude": 44.6482347340984
+    },
+    {
+      "id": "_23",
+      "label": "Drenjanski kraj",
+      "longitude": 20.3113067406929,
+      "latitude": 44.6492269982012
+    },
+    {
+      "id": "_24",
+      "label": "Moštanička (izlaz)",
+      "longitude": 20.3135973394872,
+      "latitude": 44.6504176927176
+    },
+    {
+      "id": "_25",
+      "label": "Rucka (okretnica)",
+      "longitude": 20.3150135869371,
+      "latitude": 44.6560578941882
+    },
+    {
+      "id": "_26",
+      "label": "Rucka 4",
+      "longitude": 20.3098449223652,
+      "latitude": 44.6611041587668
+    },
+    {
+      "id": "_27",
+      "label": "Rucka 3",
+      "longitude": 20.3060548978213,
+      "latitude": 44.6644543848514
+    },
+    {
+      "id": "_28",
+      "label": "Rucka 2",
+      "longitude": 20.3047749069066,
+      "latitude": 44.6715492292781
+    },
+    {
+      "id": "_29",
+      "label": "Rucka 1",
+      "longitude": 20.3024089777482,
+      "latitude": 44.6757593319646
+    },
+    {
+      "id": "_30",
+      "label": "Umka (centar)",
+      "longitude": 20.3051606406909,
+      "latitude": 44.6808878931564
+    },
+    {
+      "id": "_31",
+      "label": "Zelengora",
+      "longitude": 20.3120479690909,
+      "latitude": 44.6898787585724
+    },
+    {
+      "id": "_32",
+      "label": "Pećani",
+      "longitude": 20.3175732163403,
+      "latitude": 44.6976983327742
+    },
+    {
+      "id": "_33",
+      "label": "Ostružnica 2",
+      "longitude": 20.3146318941812,
+      "latitude": 44.7225001080304
+    },
+    {
+      "id": "_34",
+      "label": "Ostružnica 1",
+      "longitude": 20.3209580667347,
+      "latitude": 44.7333841411753
+    },
+    {
+      "id": "_35",
+      "label": "Železnik R",
+      "longitude": 20.3612220070836,
+      "latitude": 44.7427627874396
+    },
+    {
+      "id": "_36",
+      "label": "Čukarica",
+      "longitude": 20.4151354377319,
+      "latitude": 44.786451881637
+    },
+    {
+      "id": "_37",
+      "label": "Sajam",
+      "longitude": 20.4420563488721,
+      "latitude": 44.7963250729334
+    },
+    {
+      "id": "_38",
+      "label": "Palata pravde 1",
+      "longitude": 20.451327814778,
+      "latitude": 44.8034058554644
+    },
+    {
+      "id": "_39",
+      "label": "BAS",
+      "longitude": 20.4543059627735,
+      "latitude": 44.8101721002059
+    }
+  ]
+}

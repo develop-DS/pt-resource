@@ -1,0 +1,534 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Trg Slavija (Bulevar oslobođenja)",
+      "longitude": 20.4660196131815,
+      "latitude": 44.8014232725427
+    },
+    {
+      "id": "_2",
+      "label": "Karađorđev park",
+      "longitude": 20.4651954172747,
+      "latitude": 44.7970276562542
+    },
+    {
+      "id": "_3",
+      "label": "Franše D'Eperea",
+      "longitude": 20.466428073984,
+      "latitude": 44.7927226092191
+    },
+    {
+      "id": "_4",
+      "label": "Trg oslobođenja",
+      "longitude": 20.4640180904667,
+      "latitude": 44.7870758534904
+    },
+    {
+      "id": "_5",
+      "label": "Narodnog heroja Milana Tepića",
+      "longitude": 20.4586334577366,
+      "latitude": 44.7795881318613
+    },
+    {
+      "id": "_6",
+      "label": "Bolnica Dragiša Mišović",
+      "longitude": 20.4581004763674,
+      "latitude": 44.7776615063441
+    },
+    {
+      "id": "_7",
+      "label": "Paje Adamova",
+      "longitude": 20.4625884363578,
+      "latitude": 44.7727454426712
+    },
+    {
+      "id": "_8",
+      "label": "Banjica",
+      "longitude": 20.4659948316041,
+      "latitude": 44.7694170982456
+    },
+    {
+      "id": "_9",
+      "label": "Plivalište Banjica",
+      "longitude": 20.4724374903204,
+      "latitude": 44.763049984826
+    },
+    {
+      "id": "_10",
+      "label": "Paunova",
+      "longitude": 20.4762859888743,
+      "latitude": 44.7599408157266
+    },
+    {
+      "id": "_11",
+      "label": "Raška",
+      "longitude": 20.4675635831909,
+      "latitude": 44.7548054323683
+    },
+    {
+      "id": "_12",
+      "label": "Pere Velimirovića",
+      "longitude": 20.4600218368766,
+      "latitude": 44.7571406885234
+    },
+    {
+      "id": "_13",
+      "label": "Kanarevo brdo",
+      "longitude": 20.4550937068251,
+      "latitude": 44.7519642112501
+    },
+    {
+      "id": "_14",
+      "label": "Slavoljuba Vuksanovića",
+      "longitude": 20.4567601397535,
+      "latitude": 44.7479744809625
+    },
+    {
+      "id": "_15",
+      "label": "Narod. heroja Velizara Stankovića",
+      "longitude": 20.4582534311743,
+      "latitude": 44.7457406340339
+    },
+    {
+      "id": "_16",
+      "label": "Miljakovac 2",
+      "longitude": 20.4608866056305,
+      "latitude": 44.7477707523809
+    },
+    {
+      "id": "_17",
+      "label": "Nikole Marakovića",
+      "longitude": 20.4618767652381,
+      "latitude": 44.7458494799946
+    },
+    {
+      "id": "_18",
+      "label": "Miljakovačka šuma",
+      "longitude": 20.4631173974723,
+      "latitude": 44.7405833065322
+    },
+    {
+      "id": "_19",
+      "label": "Miljakovac 3",
+      "longitude": 20.4631999122392,
+      "latitude": 44.7379305989967
+    },
+    {
+      "id": "_20",
+      "label": "Nikole Marakovića",
+      "longitude": 20.4619612054487,
+      "latitude": 44.7460046695714
+    },
+    {
+      "id": "_21",
+      "label": "Miljakovac 2",
+      "longitude": 20.459877029552,
+      "latitude": 44.7476922076474
+    },
+    {
+      "id": "_22",
+      "label": "Narod. heroja Velizara Stankovića",
+      "longitude": 20.4581560541011,
+      "latitude": 44.7458913679972
+    },
+    {
+      "id": "_23",
+      "label": "Slavoljuba Vuksanovića",
+      "longitude": 20.4569459241086,
+      "latitude": 44.7483659441273
+    },
+    {
+      "id": "_24",
+      "label": "Stanka Paunovića",
+      "longitude": 20.4522648700849,
+      "latitude": 44.7484480890725
+    },
+    {
+      "id": "_25",
+      "label": "Miljakovac 1",
+      "longitude": 20.4497333172447,
+      "latitude": 44.7482559832715
+    },
+    {
+      "id": "_26",
+      "label": "GO Rakovica",
+      "longitude": 20.4461644023972,
+      "latitude": 44.7437371968833
+    },
+    {
+      "id": "_27",
+      "label": "Miška Kranjca",
+      "longitude": 20.4421078008058,
+      "latitude": 44.7429993718767
+    },
+    {
+      "id": "_28",
+      "label": "Ulica Oslobođenja",
+      "longitude": 20.4385425050469,
+      "latitude": 44.7389861405659
+    },
+    {
+      "id": "_29",
+      "label": "Kneževac",
+      "longitude": 20.431480993017,
+      "latitude": 44.7346423343423
+    },
+    {
+      "id": "_30",
+      "label": "Deponija",
+      "longitude": 20.4348327832827,
+      "latitude": 44.7288235227788
+    },
+    {
+      "id": "_31",
+      "label": "Kijevo",
+      "longitude": 20.4379855967489,
+      "latitude": 44.7252427482934
+    },
+    {
+      "id": "_32",
+      "label": "Ispod tunela",
+      "longitude": 20.4427250011704,
+      "latitude": 44.7244090999394
+    },
+    {
+      "id": "_33",
+      "label": "Spomenik",
+      "longitude": 20.4462411239974,
+      "latitude": 44.7226369918408
+    },
+    {
+      "id": "_34",
+      "label": "Resnik (izlaz)",
+      "longitude": 20.4479518789858,
+      "latitude": 44.7192721607595
+    },
+    {
+      "id": "_35",
+      "label": "Palih boraca",
+      "longitude": 20.4482534947105,
+      "latitude": 44.7172774844387
+    },
+    {
+      "id": "_36",
+      "label": "Josipa Telarevića",
+      "longitude": 20.4521525194926,
+      "latitude": 44.7190205052489
+    },
+    {
+      "id": "_37",
+      "label": "Brđanska",
+      "longitude": 20.4571818320303,
+      "latitude": 44.7165263001475
+    },
+    {
+      "id": "_38",
+      "label": "Avalska",
+      "longitude": 20.4595489479903,
+      "latitude": 44.7144297497313
+    },
+    {
+      "id": "_39",
+      "label": "Kamenac",
+      "longitude": 20.4561742438505,
+      "latitude": 44.7125022729839
+    },
+    {
+      "id": "_40",
+      "label": "13. oktobra",
+      "longitude": 20.4526827807709,
+      "latitude": 44.7106677356935
+    },
+    {
+      "id": "_41",
+      "label": "Aleksandra Vojinovića",
+      "longitude": 20.4512667225399,
+      "latitude": 44.7069117026575
+    },
+    {
+      "id": "_42",
+      "label": "Železnička stanica Resnik",
+      "longitude": 20.4493815046096,
+      "latitude": 44.7044835538808
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Železnička stanica Resnik",
+      "longitude": 20.4496684609275,
+      "latitude": 44.7045970299278
+    },
+    {
+      "id": "_2",
+      "label": "Aleksandra Vojinovića",
+      "longitude": 20.4511403584804,
+      "latitude": 44.7066609068699
+    },
+    {
+      "id": "_3",
+      "label": "13. oktobra",
+      "longitude": 20.4528498395663,
+      "latitude": 44.7106181342404
+    },
+    {
+      "id": "_4",
+      "label": "Kamenac",
+      "longitude": 20.4566352515622,
+      "latitude": 44.7126016535935
+    },
+    {
+      "id": "_5",
+      "label": "Avalska",
+      "longitude": 20.4595504819712,
+      "latitude": 44.7142641628815
+    },
+    {
+      "id": "_6",
+      "label": "Brđanska",
+      "longitude": 20.4571622191188,
+      "latitude": 44.716734999807
+    },
+    {
+      "id": "_7",
+      "label": "Josipa Telarevića",
+      "longitude": 20.4515498632455,
+      "latitude": 44.7186774385306
+    },
+    {
+      "id": "_8",
+      "label": "Palih boraca",
+      "longitude": 20.4484662067073,
+      "latitude": 44.7174747000362
+    },
+    {
+      "id": "_9",
+      "label": "Resnik (izlaz)",
+      "longitude": 20.4478944706857,
+      "latitude": 44.7197362674779
+    },
+    {
+      "id": "_10",
+      "label": "Spomenik",
+      "longitude": 20.4457205802655,
+      "latitude": 44.7229512664004
+    },
+    {
+      "id": "_11",
+      "label": "Ispod tunela",
+      "longitude": 20.4425697945519,
+      "latitude": 44.724534341204
+    },
+    {
+      "id": "_12",
+      "label": "Kijevo",
+      "longitude": 20.4383790905881,
+      "latitude": 44.7255434640174
+    },
+    {
+      "id": "_13",
+      "label": "Deponija",
+      "longitude": 20.434898458415,
+      "latitude": 44.7290812364338
+    },
+    {
+      "id": "_14",
+      "label": "Kneževac",
+      "longitude": 20.4315839089465,
+      "latitude": 44.7344466520491
+    },
+    {
+      "id": "_15",
+      "label": "Ulica Oslobođenja",
+      "longitude": 20.4375931651185,
+      "latitude": 44.7385812848555
+    },
+    {
+      "id": "_16",
+      "label": "Miška Kranjca",
+      "longitude": 20.4427275651333,
+      "latitude": 44.7428943883828
+    },
+    {
+      "id": "_17",
+      "label": "GO Rakovica",
+      "longitude": 20.4451590305898,
+      "latitude": 44.743226559933
+    },
+    {
+      "id": "_18",
+      "label": "Miljakovac 1",
+      "longitude": 20.4499009458732,
+      "latitude": 44.7481577912253
+    },
+    {
+      "id": "_19",
+      "label": "Stanka Paunovića",
+      "longitude": 20.4533082278884,
+      "latitude": 44.7484260662644
+    },
+    {
+      "id": "_20",
+      "label": "Slavoljuba Vuksanovića",
+      "longitude": 20.4567601397535,
+      "latitude": 44.7479744809625
+    },
+    {
+      "id": "_21",
+      "label": "Narod. heroja Velizara Stankovića",
+      "longitude": 20.4582534311743,
+      "latitude": 44.7457406340339
+    },
+    {
+      "id": "_22",
+      "label": "Miljakovac 2",
+      "longitude": 20.4608866056305,
+      "latitude": 44.7477707523809
+    },
+    {
+      "id": "_23",
+      "label": "Nikole Marakovića",
+      "longitude": 20.4618767652381,
+      "latitude": 44.7458494799946
+    },
+    {
+      "id": "_24",
+      "label": "Miljakovačka šuma",
+      "longitude": 20.4631173974723,
+      "latitude": 44.7405833065322
+    },
+    {
+      "id": "_25",
+      "label": "Miljakovac 3",
+      "longitude": 20.4631999122392,
+      "latitude": 44.7379305989967
+    },
+    {
+      "id": "_26",
+      "label": "Miljakovačka šuma",
+      "longitude": 20.4632513519921,
+      "latitude": 44.7411203115367
+    },
+    {
+      "id": "_27",
+      "label": "Nikole Marakovića",
+      "longitude": 20.4619612054487,
+      "latitude": 44.7460046695714
+    },
+    {
+      "id": "_28",
+      "label": "Miljakovac 2",
+      "longitude": 20.459877029552,
+      "latitude": 44.7476922076474
+    },
+    {
+      "id": "_29",
+      "label": "Narod. heroja Velizara Stankovića",
+      "longitude": 20.4581560541011,
+      "latitude": 44.7458913679972
+    },
+    {
+      "id": "_30",
+      "label": "Slavoljuba Vuksanovića",
+      "longitude": 20.4569459241086,
+      "latitude": 44.7483659441273
+    },
+    {
+      "id": "_31",
+      "label": "Kanarevo brdo",
+      "longitude": 20.4552760762549,
+      "latitude": 44.7527210451366
+    },
+    {
+      "id": "_32",
+      "label": "Srpskih udarnih brigada",
+      "longitude": 20.4571105884134,
+      "latitude": 44.7548194505904
+    },
+    {
+      "id": "_33",
+      "label": "Pere Velimirovića",
+      "longitude": 20.4611463658405,
+      "latitude": 44.7570991769595
+    },
+    {
+      "id": "_34",
+      "label": "Raška",
+      "longitude": 20.4697494855673,
+      "latitude": 44.7544339701027
+    },
+    {
+      "id": "_35",
+      "label": "Paunova",
+      "longitude": 20.4755839751161,
+      "latitude": 44.761098763206
+    },
+    {
+      "id": "_36",
+      "label": "Plivalište Banjica",
+      "longitude": 20.4718053283322,
+      "latitude": 44.7639470370081
+    },
+    {
+      "id": "_37",
+      "label": "Vojnomedicinska akademija",
+      "longitude": 20.4694651303413,
+      "latitude": 44.766519126433
+    },
+    {
+      "id": "_38",
+      "label": "Banjica",
+      "longitude": 20.4656895425013,
+      "latitude": 44.7699196542528
+    },
+    {
+      "id": "_39",
+      "label": "Paje Adamova",
+      "longitude": 20.4618812747399,
+      "latitude": 44.7738004797968
+    },
+    {
+      "id": "_40",
+      "label": "Bolnica Dragiša Mišović",
+      "longitude": 20.4584663318714,
+      "latitude": 44.7777226308253
+    },
+    {
+      "id": "_41",
+      "label": "Šekspirova",
+      "longitude": 20.4599428678735,
+      "latitude": 44.7814572141527
+    },
+    {
+      "id": "_42",
+      "label": "Stadion Rajko Mitić",
+      "longitude": 20.4630090294086,
+      "latitude": 44.7830321299895
+    },
+    {
+      "id": "_43",
+      "label": "Trg oslobođenja",
+      "longitude": 20.4644274835303,
+      "latitude": 44.7873567514878
+    },
+    {
+      "id": "_44",
+      "label": "Franše D'Eperea",
+      "longitude": 20.4666800433672,
+      "latitude": 44.7928101762883
+    },
+    {
+      "id": "_45",
+      "label": "Karađorđev park",
+      "longitude": 20.4657590648182,
+      "latitude": 44.7982550256383
+    },
+    {
+      "id": "_46",
+      "label": "Trg Slavija (Bulevar oslobođenja)",
+      "longitude": 20.4664336279974,
+      "latitude": 44.8017635811315
+    }
+  ]
+}

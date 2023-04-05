@@ -1,0 +1,402 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Industrijska zona Barič",
+      "longitude": 20.2486664056778,
+      "latitude": 44.6553214172857
+    },
+    {
+      "id": "_2",
+      "label": "Mislođinski kanal",
+      "longitude": 20.2436238604342,
+      "latitude": 44.6522113210033
+    },
+    {
+      "id": "_3",
+      "label": "Barič - Izlaz",
+      "longitude": 20.2348583988054,
+      "latitude": 44.6498986750362
+    },
+    {
+      "id": "_4",
+      "label": "Mislođin (ulaz)",
+      "longitude": 20.2234590053558,
+      "latitude": 44.6455708026668
+    },
+    {
+      "id": "_5",
+      "label": "Mislođin (vojska)",
+      "longitude": 20.2189689309661,
+      "latitude": 44.6407845784084
+    },
+    {
+      "id": "_6",
+      "label": "Mislođin - Baćevački put",
+      "longitude": 20.2151333669386,
+      "latitude": 44.6361621002862
+    },
+    {
+      "id": "_7",
+      "label": "Mislođin - Dom",
+      "longitude": 20.2193069226877,
+      "latitude": 44.6316385096424
+    },
+    {
+      "id": "_8",
+      "label": "Mislođin - Maričića potok",
+      "longitude": 20.2253740229806,
+      "latitude": 44.6224146367441
+    },
+    {
+      "id": "_9",
+      "label": "Jasenak (raskrsnica)",
+      "longitude": 20.2339410961629,
+      "latitude": 44.6163473087473
+    },
+    {
+      "id": "_10",
+      "label": "Mislođin - Jovanovac",
+      "longitude": 20.2234058380127,
+      "latitude": 44.6147079467773
+    },
+    {
+      "id": "_11",
+      "label": "Draževac - Groblje",
+      "longitude": 20.2231371222972,
+      "latitude": 44.6033895892639
+    },
+    {
+      "id": "_12",
+      "label": "Put za Veliko polje",
+      "longitude": 20.2235770071437,
+      "latitude": 44.5954103512859
+    },
+    {
+      "id": "_13",
+      "label": "Draževac - Todorovići",
+      "longitude": 20.2243065834045,
+      "latitude": 44.5862380306333
+    },
+    {
+      "id": "_14",
+      "label": "Draževac - Dom",
+      "longitude": 20.2309852633066,
+      "latitude": 44.5749778973899
+    },
+    {
+      "id": "_15",
+      "label": "Draževac - Stepanovići",
+      "longitude": 20.2330881074699,
+      "latitude": 44.5674571912224
+    },
+    {
+      "id": "_16",
+      "label": "Konatice - Lecino brdo",
+      "longitude": 20.2390104301111,
+      "latitude": 44.5605470674568
+    },
+    {
+      "id": "_17",
+      "label": "Konatice - Dom",
+      "longitude": 20.2474861592356,
+      "latitude": 44.5555588851227
+    },
+    {
+      "id": "_18",
+      "label": "Konatice - Živanovići",
+      "longitude": 20.2490740295405,
+      "latitude": 44.5504097150985
+    },
+    {
+      "id": "_19",
+      "label": "Konatice (Gornji kraj)",
+      "longitude": 20.2529363951133,
+      "latitude": 44.5458870912736
+    },
+    {
+      "id": "_20",
+      "label": "Konatice - okretnica",
+      "longitude": 20.2603446641168,
+      "latitude": 44.5370931567035
+    },
+    {
+      "id": "_21",
+      "label": "Timotijevići - Gornji kraj",
+      "longitude": 20.2689208984375,
+      "latitude": 44.5306396484375
+    },
+    {
+      "id": "_22",
+      "label": "Vinogradi",
+      "longitude": 20.2751022602967,
+      "latitude": 44.5185068218902
+    },
+    {
+      "id": "_23",
+      "label": "Stepojevac",
+      "longitude": 20.2946716148953,
+      "latitude": 44.5125854846983
+    },
+    {
+      "id": "_24",
+      "label": "Stepojevac - Železnička stanica",
+      "longitude": 20.2927457849704,
+      "latitude": 44.496822921669
+    },
+    {
+      "id": "_25",
+      "label": "Termoelektrana",
+      "longitude": 20.289945581872,
+      "latitude": 44.4803327103659
+    },
+    {
+      "id": "_26",
+      "label": "Veliki crljeni - Dom",
+      "longitude": 20.2840607998846,
+      "latitude": 44.4674135894041
+    },
+    {
+      "id": "_27",
+      "label": "Vreoci - Vaga",
+      "longitude": 20.2824407071177,
+      "latitude": 44.4528948273995
+    },
+    {
+      "id": "_28",
+      "label": "Vreoci - Dom",
+      "longitude": 20.2823737237998,
+      "latitude": 44.4434281208813
+    },
+    {
+      "id": "_29",
+      "label": "Vreoci - Zavod",
+      "longitude": 20.2790879869391,
+      "latitude": 44.4286045889612
+    },
+    {
+      "id": "_30",
+      "label": "Šopić - Krivaja",
+      "longitude": 20.2568149412563,
+      "latitude": 44.4022078652796
+    },
+    {
+      "id": "_31",
+      "label": "Lazarevac - Rampa",
+      "longitude": 20.2538108466146,
+      "latitude": 44.3866608333294
+    },
+    {
+      "id": "_32",
+      "label": "Lazarevac (centar)",
+      "longitude": 20.259395234033,
+      "latitude": 44.3803848874534
+    },
+    {
+      "id": "_33",
+      "label": "Lazarevac AS",
+      "longitude": 20.2643036136112,
+      "latitude": 44.3794934722192
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Lazarevac AS",
+      "longitude": 20.2642204355983,
+      "latitude": 44.3791656580426
+    },
+    {
+      "id": "_2",
+      "label": "Lazarevac (centar)",
+      "longitude": 20.2593684453285,
+      "latitude": 44.3805995918902
+    },
+    {
+      "id": "_3",
+      "label": "Lazarevac - Rampa",
+      "longitude": 20.2542936878954,
+      "latitude": 44.3862391353889
+    },
+    {
+      "id": "_4",
+      "label": "Šopić - Krivaja",
+      "longitude": 20.258156112535,
+      "latitude": 44.4032043290209
+    },
+    {
+      "id": "_5",
+      "label": "Vreoci - Zavod",
+      "longitude": 20.2795761926379,
+      "latitude": 44.4301062651598
+    },
+    {
+      "id": "_6",
+      "label": "Vreoci - Dom",
+      "longitude": 20.2825695507392,
+      "latitude": 44.4427732070176
+    },
+    {
+      "id": "_7",
+      "label": "Vreoci - Vaga",
+      "longitude": 20.2827948845458,
+      "latitude": 44.4534270926003
+    },
+    {
+      "id": "_8",
+      "label": "Veliki crljeni - Dom",
+      "longitude": 20.2841466845037,
+      "latitude": 44.4672604567474
+    },
+    {
+      "id": "_9",
+      "label": "Termoelektrana",
+      "longitude": 20.2901280003344,
+      "latitude": 44.4803365378298
+    },
+    {
+      "id": "_10",
+      "label": "Stepojevac - Železnička stanica",
+      "longitude": 20.2929443300725,
+      "latitude": 44.4968573590973
+    },
+    {
+      "id": "_11",
+      "label": "Stepojevac",
+      "longitude": 20.2936631569522,
+      "latitude": 44.5136489216198
+    },
+    {
+      "id": "_12",
+      "label": "Vinogradi",
+      "longitude": 20.2743225097656,
+      "latitude": 44.5188369750977
+    },
+    {
+      "id": "_13",
+      "label": "Timotijevići - Gornji kraj",
+      "longitude": 20.2685432434082,
+      "latitude": 44.5316581726074
+    },
+    {
+      "id": "_14",
+      "label": "Konatice - okretnica",
+      "longitude": 20.2603359222412,
+      "latitude": 44.5375862121582
+    },
+    {
+      "id": "_15",
+      "label": "Konatice (Gornji kraj)",
+      "longitude": 20.2533656641213,
+      "latitude": 44.5455315362097
+    },
+    {
+      "id": "_16",
+      "label": "Konatice - Živanovići",
+      "longitude": 20.2492350853515,
+      "latitude": 44.5504250065525
+    },
+    {
+      "id": "_17",
+      "label": "Konatice - Dom",
+      "longitude": 20.2476558685303,
+      "latitude": 44.5555305480957
+    },
+    {
+      "id": "_18",
+      "label": "Konatice - Lecino brdo",
+      "longitude": 20.2393398284912,
+      "latitude": 44.5604782104492
+    },
+    {
+      "id": "_19",
+      "label": "Draževac - Stepanovići",
+      "longitude": 20.2334289550781,
+      "latitude": 44.5671081542969
+    },
+    {
+      "id": "_20",
+      "label": "Draževac - Dom",
+      "longitude": 20.2311408750876,
+      "latitude": 44.5751192834664
+    },
+    {
+      "id": "_21",
+      "label": "Draževac - Todorovići",
+      "longitude": 20.22434425354,
+      "latitude": 44.5864753723145
+    },
+    {
+      "id": "_22",
+      "label": "Put za Veliko polje",
+      "longitude": 20.2237326189247,
+      "latitude": 44.5953568725623
+    },
+    {
+      "id": "_23",
+      "label": "Draževac - Groblje",
+      "longitude": 20.2232444517478,
+      "latitude": 44.6036378485973
+    },
+    {
+      "id": "_24",
+      "label": "Mislođin - Jovanovac",
+      "longitude": 20.2239257713594,
+      "latitude": 44.6148084205545
+    },
+    {
+      "id": "_25",
+      "label": "Jasenak (raskrsnica)",
+      "longitude": 20.2338123321533,
+      "latitude": 44.6160914666384
+    },
+    {
+      "id": "_26",
+      "label": "Mislođin - Maričića potok",
+      "longitude": 20.2252330780029,
+      "latitude": 44.6227035522461
+    },
+    {
+      "id": "_27",
+      "label": "Mislođin - Dom",
+      "longitude": 20.2194538116455,
+      "latitude": 44.6316833496094
+    },
+    {
+      "id": "_28",
+      "label": "Mislođin - Baćevački put",
+      "longitude": 20.215160369873,
+      "latitude": 44.6363105773926
+    },
+    {
+      "id": "_29",
+      "label": "Mislođin (vojska)",
+      "longitude": 20.2188295228686,
+      "latitude": 44.6405288439904
+    },
+    {
+      "id": "_30",
+      "label": "Mislođin (ulaz)",
+      "longitude": 20.2237358093262,
+      "latitude": 44.6460037231445
+    },
+    {
+      "id": "_31",
+      "label": "Barič - Izlaz",
+      "longitude": 20.2355251312256,
+      "latitude": 44.6498985290527
+    },
+    {
+      "id": "_32",
+      "label": "Mislođinski kanal",
+      "longitude": 20.2439296014444,
+      "latitude": 44.6514404492605
+    },
+    {
+      "id": "_33",
+      "label": "Industrijska zona Barič",
+      "longitude": 20.2494066953659,
+      "latitude": 44.6552450979009
+    }
+  ]
+}

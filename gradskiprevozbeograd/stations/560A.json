@@ -1,0 +1,216 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Banovo brdo",
+      "longitude": 20.4137161014555,
+      "latitude": 44.7687467281234
+    },
+    {
+      "id": "_2",
+      "label": "Žarkovo",
+      "longitude": 20.4151557283503,
+      "latitude": 44.7585334682741
+    },
+    {
+      "id": "_3",
+      "label": "Jablanička",
+      "longitude": 20.4118393017084,
+      "latitude": 44.7479779594282
+    },
+    {
+      "id": "_4",
+      "label": "Kneževac",
+      "longitude": 20.4195843210249,
+      "latitude": 44.7336791921276
+    },
+    {
+      "id": "_5",
+      "label": "Naselje Petlovo brdo",
+      "longitude": 20.4175269197565,
+      "latitude": 44.7237165824988
+    },
+    {
+      "id": "_6",
+      "label": "Lipovica",
+      "longitude": 20.4239326484338,
+      "latitude": 44.6492727945961
+    },
+    {
+      "id": "_7",
+      "label": "Lipovica zavod",
+      "longitude": 20.4165350825851,
+      "latitude": 44.6463608352076
+    },
+    {
+      "id": "_8",
+      "label": "Sremčica",
+      "longitude": 20.4038242662481,
+      "latitude": 44.6504986174882
+    },
+    {
+      "id": "_9",
+      "label": "Lipovica (milicija)",
+      "longitude": 20.4120922088623,
+      "latitude": 44.6366920471191
+    },
+    {
+      "id": "_10",
+      "label": "Šumska uprava",
+      "longitude": 20.4089981266158,
+      "latitude": 44.6343107155171
+    },
+    {
+      "id": "_11",
+      "label": "Guncati R",
+      "longitude": 20.4097973915166,
+      "latitude": 44.61851619358
+    },
+    {
+      "id": "_12",
+      "label": "Minel - Dinamo",
+      "longitude": 20.4110956063611,
+      "latitude": 44.6145258411196
+    },
+    {
+      "id": "_13",
+      "label": "Vrelinska",
+      "longitude": 20.413058962815,
+      "latitude": 44.6073921642508
+    },
+    {
+      "id": "_14",
+      "label": "Svetosavska (Beli Labud)",
+      "longitude": 20.4137402516091,
+      "latitude": 44.6014798666164
+    },
+    {
+      "id": "_15",
+      "label": "Barajevo IKL",
+      "longitude": 20.4133325429982,
+      "latitude": 44.5934889062635
+    },
+    {
+      "id": "_16",
+      "label": "Barajevo (ulaz)",
+      "longitude": 20.4164224426471,
+      "latitude": 44.5860699279518
+    },
+    {
+      "id": "_17",
+      "label": "Dom Zdravlja - Barajevo",
+      "longitude": 20.4165887447423,
+      "latitude": 44.5819015900865
+    },
+    {
+      "id": "_18",
+      "label": "Barajevo AS",
+      "longitude": 20.4134022984095,
+      "latitude": 44.579876533489
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Barajevo AS",
+      "longitude": 20.4132950378123,
+      "latitude": 44.5801309664163
+    },
+    {
+      "id": "_2",
+      "label": "Barajevo (izlaz)",
+      "longitude": 20.417039402083,
+      "latitude": 44.5852790747223
+    },
+    {
+      "id": "_3",
+      "label": "Barajevo IKL",
+      "longitude": 20.4135042608739,
+      "latitude": 44.5934965463297
+    },
+    {
+      "id": "_4",
+      "label": "Svetosavska (Beli Labud)",
+      "longitude": 20.4136651882785,
+      "latitude": 44.6007083208632
+    },
+    {
+      "id": "_5",
+      "label": "Vrelinska",
+      "longitude": 20.41323066785,
+      "latitude": 44.6073196009376
+    },
+    {
+      "id": "_6",
+      "label": "Minel - Dinamo",
+      "longitude": 20.4114013961656,
+      "latitude": 44.6139492220612
+    },
+    {
+      "id": "_7",
+      "label": "Guncati R",
+      "longitude": 20.4100066526141,
+      "latitude": 44.6184856464688
+    },
+    {
+      "id": "_8",
+      "label": "Šumska uprava",
+      "longitude": 20.4099959391868,
+      "latitude": 44.6344481399212
+    },
+    {
+      "id": "_9",
+      "label": "Lipovica (milicija)",
+      "longitude": 20.4123401590483,
+      "latitude": 44.6372919885637
+    },
+    {
+      "id": "_10",
+      "label": "Sremčica",
+      "longitude": 20.4038242662481,
+      "latitude": 44.6504986174882
+    },
+    {
+      "id": "_11",
+      "label": "Lipovica zavod",
+      "longitude": 20.4166907816824,
+      "latitude": 44.6462692377833
+    },
+    {
+      "id": "_12",
+      "label": "Lipovica",
+      "longitude": 20.4246408517706,
+      "latitude": 44.6493758363525
+    },
+    {
+      "id": "_13",
+      "label": "Naselje Petlovo brdo",
+      "longitude": 20.4181229965482,
+      "latitude": 44.7240081587061
+    },
+    {
+      "id": "_14",
+      "label": "Kneževac",
+      "longitude": 20.4193354172285,
+      "latitude": 44.7350908768268
+    },
+    {
+      "id": "_15",
+      "label": "Jablanička",
+      "longitude": 20.4121628799153,
+      "latitude": 44.7497021461355
+    },
+    {
+      "id": "_16",
+      "label": "Žarkovo",
+      "longitude": 20.4154615894523,
+      "latitude": 44.7595213843687
+    },
+    {
+      "id": "_17",
+      "label": "Banovo brdo",
+      "longitude": 20.4136250154943,
+      "latitude": 44.7678517247831
+    }
+  ]
+}

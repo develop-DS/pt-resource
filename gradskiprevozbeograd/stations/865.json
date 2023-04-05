@@ -1,0 +1,222 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Banovo brdo",
+      "longitude": 20.4137161014555,
+      "latitude": 44.7687467281234
+    },
+    {
+      "id": "_2",
+      "label": "Julino brdo",
+      "longitude": 20.4108872520008,
+      "latitude": 44.7631932185946
+    },
+    {
+      "id": "_3",
+      "label": "Železnik (Zlatanovići)",
+      "longitude": 20.3763444492666,
+      "latitude": 44.7343179770891
+    },
+    {
+      "id": "_4",
+      "label": "Ivo Lola Ribar",
+      "longitude": 20.3684515017316,
+      "latitude": 44.727260449222
+    },
+    {
+      "id": "_5",
+      "label": "Železnik izlaz",
+      "longitude": 20.3678100145537,
+      "latitude": 44.71233443361
+    },
+    {
+      "id": "_6",
+      "label": "Sremčica (ulaz)",
+      "longitude": 20.3814500516285,
+      "latitude": 44.6877074786876
+    },
+    {
+      "id": "_7",
+      "label": "Sremčica (centar)",
+      "longitude": 20.3909236740775,
+      "latitude": 44.6766615220655
+    },
+    {
+      "id": "_8",
+      "label": "Sremčica",
+      "longitude": 20.4038242662481,
+      "latitude": 44.6504986174882
+    },
+    {
+      "id": "_9",
+      "label": "Lipovica (policija)",
+      "longitude": 20.4119476014656,
+      "latitude": 44.6370678711624
+    },
+    {
+      "id": "_10",
+      "label": "Velika Moštanica - M",
+      "longitude": 20.3817281165498,
+      "latitude": 44.6339156185427
+    },
+    {
+      "id": "_11",
+      "label": "Mali trafo",
+      "longitude": 20.3783285861163,
+      "latitude": 44.6396373023187
+    },
+    {
+      "id": "_12",
+      "label": "Veliki trafo",
+      "longitude": 20.3778096730419,
+      "latitude": 44.6443341782348
+    },
+    {
+      "id": "_13",
+      "label": "Radovanovićevo",
+      "longitude": 20.371306806801,
+      "latitude": 44.6507101541883
+    },
+    {
+      "id": "_14",
+      "label": "Lipovačka",
+      "longitude": 20.3655797321654,
+      "latitude": 44.6551820968774
+    },
+    {
+      "id": "_15",
+      "label": "Stanićeva",
+      "longitude": 20.3605275780376,
+      "latitude": 44.6573571752723
+    },
+    {
+      "id": "_16",
+      "label": "Velika Moštanica (centar)",
+      "longitude": 20.3533829825914,
+      "latitude": 44.6658074780054
+    },
+    {
+      "id": "_17",
+      "label": "Velika Moštanica (ekonomija)",
+      "longitude": 20.3453723589313,
+      "latitude": 44.67729069048
+    },
+    {
+      "id": "_18",
+      "label": "Velika Moštanica (crkva)",
+      "longitude": 20.3407416035057,
+      "latitude": 44.6841327485714
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Velika Moštanica (crkva)",
+      "longitude": 20.3406419309737,
+      "latitude": 44.6840223787465
+    },
+    {
+      "id": "_2",
+      "label": "Velika Moštanica (ekonomija)",
+      "longitude": 20.3452484329924,
+      "latitude": 44.677093788611
+    },
+    {
+      "id": "_3",
+      "label": "Velika Moštanica (centar)",
+      "longitude": 20.3534020501483,
+      "latitude": 44.6652244015745
+    },
+    {
+      "id": "_4",
+      "label": "Stanićeva",
+      "longitude": 20.360007163489,
+      "latitude": 44.6576710634159
+    },
+    {
+      "id": "_5",
+      "label": "Gilino voće",
+      "longitude": 20.3656696683887,
+      "latitude": 44.6550277984187
+    },
+    {
+      "id": "_6",
+      "label": "Radovanovićevo",
+      "longitude": 20.3714843020825,
+      "latitude": 44.6501495411525
+    },
+    {
+      "id": "_7",
+      "label": "Veliki trafo",
+      "longitude": 20.3777146561348,
+      "latitude": 44.6442598644112
+    },
+    {
+      "id": "_8",
+      "label": "Mali trafo",
+      "longitude": 20.3781690343554,
+      "latitude": 44.6392314465263
+    },
+    {
+      "id": "_9",
+      "label": "Velika Moštanica - M",
+      "longitude": 20.3815651695236,
+      "latitude": 44.6339615304202
+    },
+    {
+      "id": "_10",
+      "label": "Lipovica (policija)",
+      "longitude": 20.4121497106517,
+      "latitude": 44.6372519084437
+    },
+    {
+      "id": "_11",
+      "label": "Sremčica",
+      "longitude": 20.4039412301242,
+      "latitude": 44.650650421652
+    },
+    {
+      "id": "_12",
+      "label": "Sremčica (centar)",
+      "longitude": 20.3906728221413,
+      "latitude": 44.6770093792689
+    },
+    {
+      "id": "_13",
+      "label": "Sremčica (ulaz)",
+      "longitude": 20.3815543741844,
+      "latitude": 44.6885774140809
+    },
+    {
+      "id": "_14",
+      "label": "Železnik izlaz",
+      "longitude": 20.368030060986,
+      "latitude": 44.7122963114662
+    },
+    {
+      "id": "_15",
+      "label": "Ivo Lola Ribar",
+      "longitude": 20.3681757295203,
+      "latitude": 44.7275451190615
+    },
+    {
+      "id": "_16",
+      "label": "Železnik (Zlatanovići)",
+      "longitude": 20.376153992603,
+      "latitude": 44.7341819464147
+    },
+    {
+      "id": "_17",
+      "label": "Julino brdo",
+      "longitude": 20.4114151730828,
+      "latitude": 44.7634533174602
+    },
+    {
+      "id": "_18",
+      "label": "Banovo brdo",
+      "longitude": 20.4136250154943,
+      "latitude": 44.7678517247831
+    }
+  ]
+}

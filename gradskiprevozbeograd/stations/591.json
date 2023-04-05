@@ -1,0 +1,318 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Banovo brdo",
+      "longitude": 20.4137161014555,
+      "latitude": 44.7687467281234
+    },
+    {
+      "id": "_2",
+      "label": "Žarkovo",
+      "longitude": 20.4151557283503,
+      "latitude": 44.7585334682741
+    },
+    {
+      "id": "_3",
+      "label": "Jablanička",
+      "longitude": 20.4118393017084,
+      "latitude": 44.7479779594282
+    },
+    {
+      "id": "_4",
+      "label": "Kneževac",
+      "longitude": 20.4195843210249,
+      "latitude": 44.7336791921276
+    },
+    {
+      "id": "_5",
+      "label": "Naselje Petlovo brdo",
+      "longitude": 20.4175269197565,
+      "latitude": 44.7237165824988
+    },
+    {
+      "id": "_6",
+      "label": "Lipovica",
+      "longitude": 20.4239326484338,
+      "latitude": 44.6492727945961
+    },
+    {
+      "id": "_7",
+      "label": "Lipovica zavod",
+      "longitude": 20.4165350825851,
+      "latitude": 44.6463608352076
+    },
+    {
+      "id": "_8",
+      "label": "Lipovica (policija)",
+      "longitude": 20.4119476014656,
+      "latitude": 44.6370678711624
+    },
+    {
+      "id": "_9",
+      "label": "Velika Moštanica (r)",
+      "longitude": 20.3798427581787,
+      "latitude": 44.630615234375
+    },
+    {
+      "id": "_10",
+      "label": "Meljak",
+      "longitude": 20.372314453125,
+      "latitude": 44.6250419616699
+    },
+    {
+      "id": "_11",
+      "label": "Baćevac R Ibarska",
+      "longitude": 20.3598278632504,
+      "latitude": 44.6108101755115
+    },
+    {
+      "id": "_12",
+      "label": "Vranić R",
+      "longitude": 20.3553485870361,
+      "latitude": 44.6070175170898
+    },
+    {
+      "id": "_13",
+      "label": "Jozića kraj",
+      "longitude": 20.3482621831144,
+      "latitude": 44.6047607314072
+    },
+    {
+      "id": "_14",
+      "label": "Male Gunjice",
+      "longitude": 20.3429107666016,
+      "latitude": 44.6012649536133
+    },
+    {
+      "id": "_15",
+      "label": "Velike Gunjice",
+      "longitude": 20.3326034545898,
+      "latitude": 44.599879470693
+    },
+    {
+      "id": "_16",
+      "label": "Dom Zdravlja",
+      "longitude": 20.3246641287464,
+      "latitude": 44.6005211621808
+    },
+    {
+      "id": "_17",
+      "label": "Đoinčevića kuće",
+      "longitude": 20.3181785139627,
+      "latitude": 44.5980804049846
+    },
+    {
+      "id": "_18",
+      "label": "Vranić centar",
+      "longitude": 20.3096061970643,
+      "latitude": 44.5944859264218
+    },
+    {
+      "id": "_19",
+      "label": "Rašića kraj",
+      "longitude": 20.2972519320692,
+      "latitude": 44.5915100952867
+    },
+    {
+      "id": "_20",
+      "label": "Klupice",
+      "longitude": 20.2967476921831,
+      "latitude": 44.5962392652083
+    },
+    {
+      "id": "_21",
+      "label": "Stara škola",
+      "longitude": 20.3010768890381,
+      "latitude": 44.6006660461426
+    },
+    {
+      "id": "_22",
+      "label": "Taraiš - Ulaz",
+      "longitude": 20.295749959224,
+      "latitude": 44.6053909112308
+    },
+    {
+      "id": "_23",
+      "label": "Taraiš - Obrenovačka",
+      "longitude": 20.3020530990465,
+      "latitude": 44.6084194982746
+    },
+    {
+      "id": "_24",
+      "label": "Taraiš - Prodavnica",
+      "longitude": 20.3062856582576,
+      "latitude": 44.6103289927953
+    },
+    {
+      "id": "_25",
+      "label": "Taraiš - Brdo",
+      "longitude": 20.3102178151953,
+      "latitude": 44.6135711706969
+    },
+    {
+      "id": "_26",
+      "label": "Taraiš - Okretnica",
+      "longitude": 20.3140372525831,
+      "latitude": 44.618266088634
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Taraiš - Okretnica",
+      "longitude": 20.3138977712941,
+      "latitude": 44.6182737254421
+    },
+    {
+      "id": "_2",
+      "label": "Taraiš - Brdo",
+      "longitude": 20.3100138876983,
+      "latitude": 44.6134833402297
+    },
+    {
+      "id": "_3",
+      "label": "Taraiš - Prodavnica",
+      "longitude": 20.3059262114321,
+      "latitude": 44.6103824577384
+    },
+    {
+      "id": "_4",
+      "label": "Taraiš - Obrenovačka",
+      "longitude": 20.3021979819914,
+      "latitude": 44.6085646220624
+    },
+    {
+      "id": "_5",
+      "label": "Taraiš - Ulaz",
+      "longitude": 20.2954656681815,
+      "latitude": 44.6054443807193
+    },
+    {
+      "id": "_6",
+      "label": "Stara škola",
+      "longitude": 20.3010231115238,
+      "latitude": 44.6005459893877
+    },
+    {
+      "id": "_7",
+      "label": "Klupice",
+      "longitude": 20.2966779547487,
+      "latitude": 44.5961132099364
+    },
+    {
+      "id": "_8",
+      "label": "Rašića kraj",
+      "longitude": 20.2974799365283,
+      "latitude": 44.5915444767476
+    },
+    {
+      "id": "_9",
+      "label": "Vranić centar",
+      "longitude": 20.3099334496772,
+      "latitude": 44.5944591866408
+    },
+    {
+      "id": "_10",
+      "label": "Đoinčevića kuće",
+      "longitude": 20.3184789444855,
+      "latitude": 44.5980956839088
+    },
+    {
+      "id": "_11",
+      "label": "Dom Zdravlja",
+      "longitude": 20.3250825533527,
+      "latitude": 44.6004562294359
+    },
+    {
+      "id": "_12",
+      "label": "Velike Gunjice",
+      "longitude": 20.3327804983617,
+      "latitude": 44.5997763410428
+    },
+    {
+      "id": "_13",
+      "label": "Male Gunjice",
+      "longitude": 20.3432196353027,
+      "latitude": 44.6013118080182
+    },
+    {
+      "id": "_14",
+      "label": "Jozića kraj",
+      "longitude": 20.3487343520579,
+      "latitude": 44.6047378156485
+    },
+    {
+      "id": "_15",
+      "label": "Vranić R",
+      "longitude": 20.3554666016647,
+      "latitude": 44.6069185915192
+    },
+    {
+      "id": "_16",
+      "label": "Baćevac R Ibarska",
+      "longitude": 20.3599244690012,
+      "latitude": 44.6105619468303
+    },
+    {
+      "id": "_17",
+      "label": "Meljak",
+      "longitude": 20.3716993485997,
+      "latitude": 44.6244343931842
+    },
+    {
+      "id": "_18",
+      "label": "Velika Moštanica (r)",
+      "longitude": 20.3810012160777,
+      "latitude": 44.631926732053
+    },
+    {
+      "id": "_19",
+      "label": "Lipovica (policija)",
+      "longitude": 20.4121497106517,
+      "latitude": 44.6372519084437
+    },
+    {
+      "id": "_20",
+      "label": "Lipovica zavod",
+      "longitude": 20.4166907816824,
+      "latitude": 44.6462692377833
+    },
+    {
+      "id": "_21",
+      "label": "Lipovica",
+      "longitude": 20.4246408517706,
+      "latitude": 44.6493758363525
+    },
+    {
+      "id": "_22",
+      "label": "Naselje Petlovo brdo",
+      "longitude": 20.4181229965482,
+      "latitude": 44.7240081587061
+    },
+    {
+      "id": "_23",
+      "label": "Kneževac",
+      "longitude": 20.4193354172285,
+      "latitude": 44.7350908768268
+    },
+    {
+      "id": "_24",
+      "label": "Jablanička",
+      "longitude": 20.4121628799153,
+      "latitude": 44.7497021461355
+    },
+    {
+      "id": "_25",
+      "label": "Žarkovo",
+      "longitude": 20.4154615894523,
+      "latitude": 44.7595213843687
+    },
+    {
+      "id": "_26",
+      "label": "Banovo brdo",
+      "longitude": 20.4136250154943,
+      "latitude": 44.7678517247831
+    }
+  ]
+}
