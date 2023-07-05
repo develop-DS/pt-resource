@@ -1,0 +1,102 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Lazarevac",
+      "longitude": 20.245558,
+      "latitude": 44.384834
+    },
+    {
+      "id": "_2",
+      "label": "Vreoci",
+      "longitude": 20.2798011613416,
+      "latitude": 44.4488969394756
+    },
+    {
+      "id": "_3",
+      "label": "Stepojevac",
+      "longitude": 20.3104698216664,
+      "latitude": 44.4966545606155
+    },
+    {
+      "id": "_4",
+      "label": "Leskovac Kolubarski",
+      "longitude": 20.3423398527187,
+      "latitude": 44.5083927529562
+    },
+    {
+      "id": "_5",
+      "label": "Veliki Borak",
+      "longitude": 20.3780721794295,
+      "latitude": 44.5403623614041
+    },
+    {
+      "id": "_6",
+      "label": "Barajevo Centar",
+      "longitude": 20.4122274349095,
+      "latitude": 44.5772362122615
+    },
+    {
+      "id": "_7",
+      "label": "Bela Reka",
+      "longitude": 20.4728667839543,
+      "latitude": 44.6559853916958
+    },
+    {
+      "id": "_8",
+      "label": "Resnik",
+      "longitude": 20.4476594542444,
+      "latitude": 44.705361475793
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Resnik",
+      "longitude": 20.4473859689588,
+      "latitude": 44.7055368584581
+    },
+    {
+      "id": "_2",
+      "label": "Bela Reka",
+      "longitude": 20.472666,
+      "latitude": 44.656214
+    },
+    {
+      "id": "_3",
+      "label": "Barajevo Centar",
+      "longitude": 20.412086,
+      "latitude": 44.577262
+    },
+    {
+      "id": "_4",
+      "label": "Veliki Borak",
+      "longitude": 20.377921,
+      "latitude": 44.540367
+    },
+    {
+      "id": "_5",
+      "label": "Leskovac Kolubarski",
+      "longitude": 20.342305,
+      "latitude": 44.508446
+    },
+    {
+      "id": "_6",
+      "label": "Stepojevac",
+      "longitude": 20.310388,
+      "latitude": 44.496789
+    },
+    {
+      "id": "_7",
+      "label": "Vreoci",
+      "longitude": 20.279207,
+      "latitude": 44.44889
+    },
+    {
+      "id": "_8",
+      "label": "Lazarevac",
+      "longitude": 20.2453352256525,
+      "latitude": 44.3848935152841
+    }
+  ]
+}

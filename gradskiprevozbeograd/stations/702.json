@@ -2,185 +2,197 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Батајница /Железничка станица/",
-      "longitude": 20.27113,
-      "latitude": 44.899961
+      "label": "Batajnica (železnička stanica)",
+      "longitude": 20.2709673852804,
+      "latitude": 44.9001800762709
     },
     {
       "id": "_2",
-      "label": "Батајница /Железничка рампа/",
-      "longitude": 20.268748,
-      "latitude": 44.901306
+      "label": "Batajnica (železnička rampa)",
+      "longitude": 20.2700669319617,
+      "latitude": 44.9021020125563
     },
     {
       "id": "_3",
-      "label": "Шангајска",
-      "longitude": 20.259273,
-      "latitude": 44.901058
+      "label": "Batajnica (centar)",
+      "longitude": 20.2744451852882,
+      "latitude": 44.9063811224187
     },
     {
       "id": "_4",
-      "label": "Стевана Симића",
-      "longitude": 20.249841,
-      "latitude": 44.897688
+      "label": "Kralja Stefana Tomaša",
+      "longitude": 20.2676944732666,
+      "latitude": 44.9059982299805
     },
     {
       "id": "_5",
-      "label": "ДР Ђорђа Шулце",
-      "longitude": 20.242648,
-      "latitude": 44.895223
+      "label": "Šangajska",
+      "longitude": 20.2595036706187,
+      "latitude": 44.9011253043192
     },
     {
       "id": "_6",
-      "label": "Бусије /Улаз/",
-      "longitude": 20.232566,
-      "latitude": 44.892651
+      "label": "Stevana Simića",
+      "longitude": 20.2500834292811,
+      "latitude": 44.8977612677984
     },
     {
       "id": "_7",
-      "label": "Бусије /Проте Јефтимија Ивановића/",
-      "longitude": 20.230434,
-      "latitude": 44.895957
+      "label": "Dr Đorđa Šulce",
+      "longitude": 20.2426140177875,
+      "latitude": 44.8951743120512
     },
     {
       "id": "_8",
-      "label": "Бусије /Савке Суботић/",
-      "longitude": 20.229953,
-      "latitude": 44.898557
+      "label": "Busije (ulaz)",
+      "longitude": 20.2325483285674,
+      "latitude": 44.8927044971628
     },
     {
       "id": "_9",
-      "label": "БУСИЈЕ /Станка Кораћа/",
-      "longitude": 20.23497,
-      "latitude": 44.90031
+      "label": "Prote Jeftimija Ivanovića",
+      "longitude": 20.230384771058,
+      "latitude": 44.896028760501
     },
     {
       "id": "_10",
-      "label": "Бусије /Трандафила Дуке/",
-      "longitude": 20.234079,
-      "latitude": 44.902347
+      "label": "Savke Subotić",
+      "longitude": 20.2299455073569,
+      "latitude": 44.8985924351433
     },
     {
       "id": "_11",
-      "label": "Бусије /Станка Опачића Ћанице/",
-      "longitude": 20.231015,
-      "latitude": 44.901288
+      "label": "Stanka Koraća",
+      "longitude": 20.2349244604092,
+      "latitude": 44.9002906756504
     },
     {
       "id": "_12",
-      "label": "Бусије /Николе Беговића/",
-      "longitude": 20.225797,
-      "latitude": 44.899487
+      "label": "Trandafila Duke",
+      "longitude": 20.2339051793475,
+      "latitude": 44.9022979272481
     },
     {
       "id": "_13",
-      "label": "Бусије /Црква/",
-      "longitude": 20.221659,
-      "latitude": 44.898065
+      "label": "Stanka Opačića Ćanice",
+      "longitude": 20.230955551077,
+      "latitude": 44.901288235459
+    },
+    {
+      "id": "_14",
+      "label": "Nikole Begovića",
+      "longitude": 20.2257249794835,
+      "latitude": 44.8994711300588
+    },
+    {
+      "id": "_15",
+      "label": "Busije (crkva)",
+      "longitude": 20.2216792522038,
+      "latitude": 44.898075811417
+    },
+    {
+      "id": "_16",
+      "label": "Dr Živka Bertića",
+      "longitude": 20.219971287169,
+      "latitude": 44.899666087067
+    },
+    {
+      "id": "_17",
+      "label": "Simeona Zlokovića",
+      "longitude": 20.2174072265625,
+      "latitude": 44.9024047851563
+    },
+    {
+      "id": "_18",
+      "label": "Busije",
+      "longitude": 20.2139434814453,
+      "latitude": 44.9012031555176
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Бусије /Црква/",
-      "longitude": 20.221659,
-      "latitude": 44.898065
+      "label": "Busije",
+      "longitude": 20.2139434814453,
+      "latitude": 44.9012031555176
     },
     {
       "id": "_2",
-      "label": "Бусије /Др Живка Бертића/",
-      "longitude": 20.220008,
-      "latitude": 44.899572
+      "label": "Bude Budisavljevića",
+      "longitude": 20.2164859771729,
+      "latitude": 44.8986701965332
     },
     {
       "id": "_3",
-      "label": "Бусије /Секуле Витковића/",
-      "longitude": 20.223206,
-      "latitude": 44.901041
+      "label": "Dr Živka Bertića",
+      "longitude": 20.2202033996582,
+      "latitude": 44.8999862670898
     },
     {
       "id": "_4",
-      "label": "Бусије /Др Лазе Костића/",
-      "longitude": 20.227309,
-      "latitude": 44.900477
+      "label": "Sekule Vitkovića",
+      "longitude": 20.2232321878289,
+      "latitude": 44.9010489482322
     },
     {
       "id": "_5",
-      "label": "Бусије /Стефана Кнежевића/",
-      "longitude": 20.22859,
-      "latitude": 44.898598
+      "label": "Dr Laze Kostića",
+      "longitude": 20.2273078455904,
+      "latitude": 44.9004105523307
     },
     {
       "id": "_6",
-      "label": "Бусије /Проте Јефтимија Ивановића/",
-      "longitude": 20.230724,
-      "latitude": 44.895333
+      "label": "Prote Jeftimija Ivanovića",
+      "longitude": 20.2306933313769,
+      "latitude": 44.8952946823653
     },
     {
       "id": "_7",
-      "label": "Бусије",
-      "longitude": 20.233815,
-      "latitude": 44.892058
+      "label": "Busije",
+      "longitude": 20.2338353551491,
+      "latitude": 44.8920759530722
     },
     {
       "id": "_8",
-      "label": "ДР Ђорђа Шулце",
-      "longitude": 20.243855,
-      "latitude": 44.895493
+      "label": "Dr Đorđa Šulce",
+      "longitude": 20.2439313427273,
+      "latitude": 44.8955177891959
     },
     {
       "id": "_9",
-      "label": "Стевана Симића",
-      "longitude": 20.250265,
-      "latitude": 44.897682
+      "label": "Stevana Simića",
+      "longitude": 20.2502664166942,
+      "latitude": 44.8977102687426
     },
     {
       "id": "_10",
-      "label": "Шангајска",
-      "longitude": 20.260307,
-      "latitude": 44.901267
+      "label": "Šangajska",
+      "longitude": 20.260291756844,
+      "latitude": 44.9012851835676
     },
     {
       "id": "_11",
-      "label": "Батајница /Железничка рампа/",
-      "longitude": 20.269595,
-      "latitude": 44.901733
+      "label": "Kralja Stefana Tomaša",
+      "longitude": 20.2688255310059,
+      "latitude": 44.906665802002
     },
     {
       "id": "_12",
-      "label": "Батајница /Центар/",
-      "longitude": 20.27512,
-      "latitude": 44.905827
+      "label": "Batajnica (centar)",
+      "longitude": 20.2743514670595,
+      "latitude": 44.9057757709355
     },
     {
       "id": "_13",
-      "label": "Мајке Југовића",
-      "longitude": 20.282403,
-      "latitude": 44.901601
+      "label": "Batajnica (železnička rampa)",
+      "longitude": 20.2696135241678,
+      "latitude": 44.9019083367916
     },
     {
       "id": "_14",
-      "label": "Југопетрол",
-      "longitude": 20.285895,
-      "latitude": 44.899342
-    },
-    {
-      "id": "_15",
-      "label": "Браће Радишић",
-      "longitude": 20.283098,
-      "latitude": 44.898003
-    },
-    {
-      "id": "_16",
-      "label": "Краља Радослава",
-      "longitude": 20.278903,
-      "latitude": 44.900366
-    },
-    {
-      "id": "_17",
-      "label": "Батајница /Железничка станица/",
-      "longitude": 20.27113,
-      "latitude": 44.899961
+      "label": "Batajnica (železnička stanica)",
+      "longitude": 20.2709091733221,
+      "latitude": 44.8999763198169
     }
   ]
 }

@@ -1,0 +1,222 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Lazarevac",
+      "longitude": 20.245558,
+      "latitude": 44.384834
+    },
+    {
+      "id": "_2",
+      "label": "Vreoci",
+      "longitude": 20.2798011613416,
+      "latitude": 44.4488969394756
+    },
+    {
+      "id": "_3",
+      "label": "Stepojevac",
+      "longitude": 20.3104698216664,
+      "latitude": 44.4966545606155
+    },
+    {
+      "id": "_4",
+      "label": "Leskovac Kolubarski",
+      "longitude": 20.3423398527187,
+      "latitude": 44.5083927529562
+    },
+    {
+      "id": "_5",
+      "label": "Veliki Borak",
+      "longitude": 20.3780721794295,
+      "latitude": 44.5403623614041
+    },
+    {
+      "id": "_6",
+      "label": "Barajevo Centar",
+      "longitude": 20.4122274349095,
+      "latitude": 44.5772362122615
+    },
+    {
+      "id": "_7",
+      "label": "Bela Reka",
+      "longitude": 20.4728667839543,
+      "latitude": 44.6559853916958
+    },
+    {
+      "id": "_8",
+      "label": "Resnik",
+      "longitude": 20.4476594542444,
+      "latitude": 44.705361475793
+    },
+    {
+      "id": "_9",
+      "label": "Kijevo",
+      "longitude": 20.4365997,
+      "latitude": 44.7236461
+    },
+    {
+      "id": "_10",
+      "label": "Kneževac",
+      "longitude": 20.4309634,
+      "latitude": 44.7320465
+    },
+    {
+      "id": "_11",
+      "label": "Rakovica",
+      "longitude": 20.4436629775231,
+      "latitude": 44.7473999770486
+    },
+    {
+      "id": "_12",
+      "label": "Karađorđev park",
+      "longitude": 20.4657965677851,
+      "latitude": 44.7935347116048
+    },
+    {
+      "id": "_13",
+      "label": "Vukov spomenik",
+      "longitude": 20.4780650580181,
+      "latitude": 44.8053195483783
+    },
+    {
+      "id": "_14",
+      "label": "Pančevački most",
+      "longitude": 20.4903467,
+      "latitude": 44.8198183
+    },
+    {
+      "id": "_15",
+      "label": "Krnjača most",
+      "longitude": 20.497489514199,
+      "latitude": 44.8403286891358
+    },
+    {
+      "id": "_16",
+      "label": "Krnjača",
+      "longitude": 20.5055037,
+      "latitude": 44.8480722
+    },
+    {
+      "id": "_17",
+      "label": "Sebeš",
+      "longitude": 20.5190572083758,
+      "latitude": 44.8608768066229
+    },
+    {
+      "id": "_18",
+      "label": "Ovča",
+      "longitude": 20.5437487,
+      "latitude": 44.8752154
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Ovča",
+      "longitude": 20.5438178,
+      "latitude": 44.8752832
+    },
+    {
+      "id": "_2",
+      "label": "Sebeš",
+      "longitude": 20.5190706370739,
+      "latitude": 44.8609851753685
+    },
+    {
+      "id": "_3",
+      "label": "Krnjača",
+      "longitude": 20.5055415777449,
+      "latitude": 44.8481905504764
+    },
+    {
+      "id": "_4",
+      "label": "Krnjača most",
+      "longitude": 20.4975482,
+      "latitude": 44.8405591
+    },
+    {
+      "id": "_5",
+      "label": "Pančevački most",
+      "longitude": 20.4903733,
+      "latitude": 44.8201417
+    },
+    {
+      "id": "_6",
+      "label": "Vukov spomenik",
+      "longitude": 20.4779128,
+      "latitude": 44.8054634
+    },
+    {
+      "id": "_7",
+      "label": "Karađorđev park",
+      "longitude": 20.4656917,
+      "latitude": 44.79377
+    },
+    {
+      "id": "_8",
+      "label": "Rakovica",
+      "longitude": 20.443646951939,
+      "latitude": 44.7475904718652
+    },
+    {
+      "id": "_9",
+      "label": "Kneževac",
+      "longitude": 20.4305954582124,
+      "latitude": 44.7324784729896
+    },
+    {
+      "id": "_10",
+      "label": "Kijevo",
+      "longitude": 20.4367697621405,
+      "latitude": 44.723419287598
+    },
+    {
+      "id": "_11",
+      "label": "Resnik",
+      "longitude": 20.4473859689588,
+      "latitude": 44.7055368584581
+    },
+    {
+      "id": "_12",
+      "label": "Bela Reka",
+      "longitude": 20.472666,
+      "latitude": 44.656214
+    },
+    {
+      "id": "_13",
+      "label": "Barajevo Centar",
+      "longitude": 20.412086,
+      "latitude": 44.577262
+    },
+    {
+      "id": "_14",
+      "label": "Veliki Borak",
+      "longitude": 20.377921,
+      "latitude": 44.540367
+    },
+    {
+      "id": "_15",
+      "label": "Leskovac Kolubarski",
+      "longitude": 20.342305,
+      "latitude": 44.508446
+    },
+    {
+      "id": "_16",
+      "label": "Stepojevac",
+      "longitude": 20.310388,
+      "latitude": 44.496789
+    },
+    {
+      "id": "_17",
+      "label": "Vreoci",
+      "longitude": 20.279207,
+      "latitude": 44.44889
+    },
+    {
+      "id": "_18",
+      "label": "Lazarevac",
+      "longitude": 20.2453352256525,
+      "latitude": 44.3848935152841
+    }
+  ]
+}

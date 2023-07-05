@@ -1,216 +1,216 @@
 {
-    "direction_a": [
-        {
-            "id": "_1",
-            "label": "Šumice",
-            "longitude": 20.5013687183876,
-            "latitude": 44.78298921242
-        },
-        {
-            "id": "_2",
-            "label": "OŠ Stevan Sinđelić",
-            "longitude": 20.5069628550816,
-            "latitude": 44.7799388113997
-        },
-        {
-            "id": "_3",
-            "label": "Mihaila Todorovića",
-            "longitude": 20.5128326874982,
-            "latitude": 44.7809097813487
-        },
-        {
-            "id": "_4",
-            "label": "MIrka Sandića",
-            "longitude": 20.5157508850098,
-            "latitude": 44.7831764221191
-        },
-        {
-            "id": "_5",
-            "label": "Bulevar kralja Aleksandra",
-            "longitude": 20.5173778213138,
-            "latitude": 44.7837577982881
-        },
-        {
-            "id": "_6",
-            "label": "Prvomajska",
-            "longitude": 20.5211262691793,
-            "latitude": 44.7837068972296
-        },
-        {
-            "id": "_7",
-            "label": "Zabrđanska",
-            "longitude": 20.5262572852676,
-            "latitude": 44.7816713149809
-        },
-        {
-            "id": "_8",
-            "label": "Zeleno brdo",
-            "longitude": 20.5265171640573,
-            "latitude": 44.7825451624474
-        },
-        {
-            "id": "_9",
-            "label": "Lošinjska donja",
-            "longitude": 20.5248016225621,
-            "latitude": 44.7843346998573
-        },
-        {
-            "id": "_10",
-            "label": "Ilindenska",
-            "longitude": 20.518895260166,
-            "latitude": 44.7873981168251
-        },
-        {
-            "id": "_11",
-            "label": "Koste Trifkovića",
-            "longitude": 20.5180296161247,
-            "latitude": 44.7891164371292
-        },
-        {
-            "id": "_12",
-            "label": "Mlavska",
-            "longitude": 20.5169273651438,
-            "latitude": 44.7912619710996
-        },
-        {
-            "id": "_13",
-            "label": "Deskaševa",
-            "longitude": 20.5125565342034,
-            "latitude": 44.7944978392895
-        },
-        {
-            "id": "_14",
-            "label": "Studentski dom Rifat Burdžević",
-            "longitude": 20.5070001531703,
-            "latitude": 44.7960490882279
-        },
-        {
-            "id": "_15",
-            "label": "OŠ Veljko Dugošević",
-            "longitude": 20.5032447117557,
-            "latitude": 44.7969208147287
-        },
-        {
-            "id": "_16",
-            "label": "Gradska bolnica",
-            "longitude": 20.5004067330094,
-            "latitude": 44.7996684098012
-        },
-        {
-            "id": "_17",
-            "label": "Miloša Jankovića",
-            "longitude": 20.5032111368496,
-            "latitude": 44.7992756014387
-        },
-        {
-            "id": "_18",
-            "label": "Zvezdara",
-            "longitude": 20.5061988551618,
-            "latitude": 44.7981293508655
-        }
-    ],
-    "direction_b": [
-        {
-            "id": "_1",
-            "label": "Zvezdara",
-            "longitude": 20.506903488842,
-            "latitude": 44.7982079759221
-        },
-        {
-            "id": "_2",
-            "label": "Miloša Jankovića",
-            "longitude": 20.5037972751075,
-            "latitude": 44.7993177345869
-        },
-        {
-            "id": "_3",
-            "label": "OŠ Veljko Dugošević",
-            "longitude": 20.5031436681747,
-            "latitude": 44.7968370686498
-        },
-        {
-            "id": "_4",
-            "label": "Studentski dom Rifat Burdžević",
-            "longitude": 20.5075107431087,
-            "latitude": 44.7957864256962
-        },
-        {
-            "id": "_5",
-            "label": "Deskaševa",
-            "longitude": 20.5127026559547,
-            "latitude": 44.7942884650732
-        },
-        {
-            "id": "_6",
-            "label": "Budmanijeva",
-            "longitude": 20.5153792477141,
-            "latitude": 44.7913799883038
-        },
-        {
-            "id": "_7",
-            "label": "Koste Trifkovića",
-            "longitude": 20.5181467817427,
-            "latitude": 44.7888368544763
-        },
-        {
-            "id": "_8",
-            "label": "Ilindenska",
-            "longitude": 20.5189098663996,
-            "latitude": 44.7872492425684
-        },
-        {
-            "id": "_9",
-            "label": "Lošinjska donja",
-            "longitude": 20.5247853313028,
-            "latitude": 44.7842014383448
-        },
-        {
-            "id": "_10",
-            "label": "Zabrđanska",
-            "longitude": 20.5258410637049,
-            "latitude": 44.7815316286495
-        },
-        {
-            "id": "_11",
-            "label": "Bajdina",
-            "longitude": 20.5234526159313,
-            "latitude": 44.7810887013782
-        },
-        {
-            "id": "_12",
-            "label": "Bulevar kralja Aleksandra",
-            "longitude": 20.5176944350182,
-            "latitude": 44.7839787182907
-        },
-        {
-            "id": "_13",
-            "label": "Mirka Sandića",
-            "longitude": 20.5144309997559,
-            "latitude": 44.7829742431641
-        },
-        {
-            "id": "_14",
-            "label": "Mihaila Todorovića",
-            "longitude": 20.5124588597572,
-            "latitude": 44.780928819812
-        },
-        {
-            "id": "_15",
-            "label": "OŠ Stevan Sinđelić",
-            "longitude": 20.5065825784633,
-            "latitude": 44.7801825073531
-        },
-        {
-            "id": "_16",
-            "label": "Vladimira Tomanovića",
-            "longitude": 20.5020656605764,
-            "latitude": 44.7818762908247
-        },
-        {
-            "id": "_17",
-            "label": "Šumice (Terminus)",
-            "longitude": 20.5008437908852,
-            "latitude": 44.7837860928328
-        }
-    ]
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Zvezdara",
+      "longitude": 20.506903488842,
+      "latitude": 44.7982079759221
+    },
+    {
+      "id": "_2",
+      "label": "Miloša Jankovića",
+      "longitude": 20.5037972751075,
+      "latitude": 44.7993177345869
+    },
+    {
+      "id": "_3",
+      "label": "OŠ Veljko Dugošević",
+      "longitude": 20.5031436681747,
+      "latitude": 44.7968370686498
+    },
+    {
+      "id": "_4",
+      "label": "Studentski dom Rifat Burdžević",
+      "longitude": 20.5075107431087,
+      "latitude": 44.7957864256962
+    },
+    {
+      "id": "_5",
+      "label": "Deskaševa",
+      "longitude": 20.5127026559547,
+      "latitude": 44.7942884650732
+    },
+    {
+      "id": "_6",
+      "label": "Budmanijeva",
+      "longitude": 20.5153792477141,
+      "latitude": 44.7913799883038
+    },
+    {
+      "id": "_7",
+      "label": "Koste Trifkovića",
+      "longitude": 20.5181467817427,
+      "latitude": 44.7888368544763
+    },
+    {
+      "id": "_8",
+      "label": "Ilindenska",
+      "longitude": 20.5189098663996,
+      "latitude": 44.7872492425684
+    },
+    {
+      "id": "_9",
+      "label": "Lošinjska donja",
+      "longitude": 20.5247853313028,
+      "latitude": 44.7842014383448
+    },
+    {
+      "id": "_10",
+      "label": "Zabrđanska",
+      "longitude": 20.5258410637049,
+      "latitude": 44.7815316286495
+    },
+    {
+      "id": "_11",
+      "label": "Bajdina",
+      "longitude": 20.5234526159313,
+      "latitude": 44.7810887013782
+    },
+    {
+      "id": "_12",
+      "label": "Bulevar kralja Aleksandra",
+      "longitude": 20.5176944350182,
+      "latitude": 44.7839787182907
+    },
+    {
+      "id": "_13",
+      "label": "Mirka Sandića",
+      "longitude": 20.5144309997559,
+      "latitude": 44.7829742431641
+    },
+    {
+      "id": "_14",
+      "label": "Mihaila Todorovića",
+      "longitude": 20.5124588597572,
+      "latitude": 44.780928819812
+    },
+    {
+      "id": "_15",
+      "label": "OŠ Stevan Sinđelić",
+      "longitude": 20.5065825784633,
+      "latitude": 44.7801825073531
+    },
+    {
+      "id": "_16",
+      "label": "Vladimira Tomanovića",
+      "longitude": 20.5020656605764,
+      "latitude": 44.7818762908247
+    },
+    {
+      "id": "_17",
+      "label": "Šumice (Terminus)",
+      "longitude": 20.5008437908852,
+      "latitude": 44.7837860928328
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Šumice",
+      "longitude": 20.5013687183876,
+      "latitude": 44.78298921242
+    },
+    {
+      "id": "_2",
+      "label": "OŠ Stevan Sinđelić",
+      "longitude": 20.5069628550816,
+      "latitude": 44.7799388113997
+    },
+    {
+      "id": "_3",
+      "label": "Mihaila Todorovića",
+      "longitude": 20.5128326874982,
+      "latitude": 44.7809097813487
+    },
+    {
+      "id": "_4",
+      "label": "MIrka Sandića",
+      "longitude": 20.5157508850098,
+      "latitude": 44.7831764221191
+    },
+    {
+      "id": "_5",
+      "label": "Bulevar kralja Aleksandra",
+      "longitude": 20.5173778213138,
+      "latitude": 44.7837577982881
+    },
+    {
+      "id": "_6",
+      "label": "Prvomajska",
+      "longitude": 20.5211262691793,
+      "latitude": 44.7837068972296
+    },
+    {
+      "id": "_7",
+      "label": "Zabrđanska",
+      "longitude": 20.5262572852676,
+      "latitude": 44.7816713149809
+    },
+    {
+      "id": "_8",
+      "label": "Zeleno brdo",
+      "longitude": 20.5265171640573,
+      "latitude": 44.7825451624474
+    },
+    {
+      "id": "_9",
+      "label": "Lošinjska donja",
+      "longitude": 20.5248016225621,
+      "latitude": 44.7843346998573
+    },
+    {
+      "id": "_10",
+      "label": "Ilindenska",
+      "longitude": 20.518895260166,
+      "latitude": 44.7873981168251
+    },
+    {
+      "id": "_11",
+      "label": "Koste Trifkovića",
+      "longitude": 20.5180296161247,
+      "latitude": 44.7891164371292
+    },
+    {
+      "id": "_12",
+      "label": "Mlavska",
+      "longitude": 20.5169273651438,
+      "latitude": 44.7912619710996
+    },
+    {
+      "id": "_13",
+      "label": "Deskaševa",
+      "longitude": 20.5125565342034,
+      "latitude": 44.7944978392895
+    },
+    {
+      "id": "_14",
+      "label": "Studentski dom Rifat Burdžević",
+      "longitude": 20.5070001531703,
+      "latitude": 44.7960490882279
+    },
+    {
+      "id": "_15",
+      "label": "OŠ Veljko Dugošević",
+      "longitude": 20.5032447117557,
+      "latitude": 44.7969208147287
+    },
+    {
+      "id": "_16",
+      "label": "Gradska bolnica",
+      "longitude": 20.5004067330094,
+      "latitude": 44.7996684098012
+    },
+    {
+      "id": "_17",
+      "label": "Miloša Jankovića",
+      "longitude": 20.5032111368496,
+      "latitude": 44.7992756014387
+    },
+    {
+      "id": "_18",
+      "label": "Zvezdara",
+      "longitude": 20.5061988551618,
+      "latitude": 44.7981293508655
+    }
+  ]
 }

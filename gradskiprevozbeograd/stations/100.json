@@ -1,0 +1,162 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Batajnica",
+      "longitude": 20.2718085874391,
+      "latitude": 44.898998604568
+    },
+    {
+      "id": "_2",
+      "label": "Zemunsko polje",
+      "longitude": 20.33475,
+      "latitude": 44.857585
+    },
+    {
+      "id": "_3",
+      "label": "Zemun",
+      "longitude": 20.3719943291078,
+      "latitude": 44.8367340119744
+    },
+    {
+      "id": "_4",
+      "label": "Tošin bunar",
+      "longitude": 20.3945583,
+      "latitude": 44.8178583
+    },
+    {
+      "id": "_5",
+      "label": "Novi Beograd",
+      "longitude": 20.417932662659,
+      "latitude": 44.8068305435762
+    },
+    {
+      "id": "_6",
+      "label": "Beograd centar",
+      "longitude": 20.4530933,
+      "latitude": 44.7932933
+    },
+    {
+      "id": "_7",
+      "label": "Karađorđev park",
+      "longitude": 20.4657965677851,
+      "latitude": 44.7935347116048
+    },
+    {
+      "id": "_8",
+      "label": "Vukov spomenik",
+      "longitude": 20.4780650580181,
+      "latitude": 44.8053195483783
+    },
+    {
+      "id": "_9",
+      "label": "Pančevački most",
+      "longitude": 20.4903467,
+      "latitude": 44.8198183
+    },
+    {
+      "id": "_10",
+      "label": "Krnjača most",
+      "longitude": 20.497489514199,
+      "latitude": 44.8403286891358
+    },
+    {
+      "id": "_11",
+      "label": "Krnjača",
+      "longitude": 20.5055037,
+      "latitude": 44.8480722
+    },
+    {
+      "id": "_12",
+      "label": "Sebeš",
+      "longitude": 20.5190572083758,
+      "latitude": 44.8608768066229
+    },
+    {
+      "id": "_13",
+      "label": "Ovča",
+      "longitude": 20.5437487,
+      "latitude": 44.8752154
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Ovča",
+      "longitude": 20.5438178,
+      "latitude": 44.8752832
+    },
+    {
+      "id": "_2",
+      "label": "Sebeš",
+      "longitude": 20.5190706370739,
+      "latitude": 44.8609851753685
+    },
+    {
+      "id": "_3",
+      "label": "Krnjača",
+      "longitude": 20.5055415777449,
+      "latitude": 44.8481905504764
+    },
+    {
+      "id": "_4",
+      "label": "Krnjača most",
+      "longitude": 20.4975482,
+      "latitude": 44.8405591
+    },
+    {
+      "id": "_5",
+      "label": "Pančevački most",
+      "longitude": 20.4903733,
+      "latitude": 44.8201417
+    },
+    {
+      "id": "_6",
+      "label": "Vukov spomenik",
+      "longitude": 20.4779128,
+      "latitude": 44.8054634
+    },
+    {
+      "id": "_7",
+      "label": "Karađorđev park",
+      "longitude": 20.4656917,
+      "latitude": 44.79377
+    },
+    {
+      "id": "_8",
+      "label": "Beograd centar",
+      "longitude": 20.4549174809459,
+      "latitude": 44.7930512382884
+    },
+    {
+      "id": "_9",
+      "label": "Novi Beograd",
+      "longitude": 20.417485,
+      "latitude": 44.8071567
+    },
+    {
+      "id": "_10",
+      "label": "Tošin bunar",
+      "longitude": 20.3947917,
+      "latitude": 44.8180183
+    },
+    {
+      "id": "_11",
+      "label": "Zemun",
+      "longitude": 20.37181,
+      "latitude": 44.8369333
+    },
+    {
+      "id": "_12",
+      "label": "Zemunsko polje",
+      "longitude": 20.3348457283672,
+      "latitude": 44.8576446625574
+    },
+    {
+      "id": "_13",
+      "label": "Batajnica",
+      "longitude": 20.2719567,
+      "latitude": 44.89914
+    }
+  ]
+}

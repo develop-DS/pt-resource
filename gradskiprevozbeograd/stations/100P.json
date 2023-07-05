@@ -1,0 +1,138 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Resnik",
+      "longitude": 20.4476594542444,
+      "latitude": 44.705361475793
+    },
+    {
+      "id": "_2",
+      "label": "Kijevo",
+      "longitude": 20.4365997,
+      "latitude": 44.7236461
+    },
+    {
+      "id": "_3",
+      "label": "Kneževac",
+      "longitude": 20.4309634,
+      "latitude": 44.7320465
+    },
+    {
+      "id": "_4",
+      "label": "Rakovica",
+      "longitude": 20.4436629775231,
+      "latitude": 44.7473999770486
+    },
+    {
+      "id": "_5",
+      "label": "Karađorđev park",
+      "longitude": 20.4657965677851,
+      "latitude": 44.7935347116048
+    },
+    {
+      "id": "_6",
+      "label": "Vukov spomenik",
+      "longitude": 20.4780650580181,
+      "latitude": 44.8053195483783
+    },
+    {
+      "id": "_7",
+      "label": "Pančevački most",
+      "longitude": 20.4903467,
+      "latitude": 44.8198183
+    },
+    {
+      "id": "_8",
+      "label": "Krnjača most",
+      "longitude": 20.497489514199,
+      "latitude": 44.8403286891358
+    },
+    {
+      "id": "_9",
+      "label": "Krnjača",
+      "longitude": 20.5055037,
+      "latitude": 44.8480722
+    },
+    {
+      "id": "_10",
+      "label": "Sebeš",
+      "longitude": 20.5190572083758,
+      "latitude": 44.8608768066229
+    },
+    {
+      "id": "_11",
+      "label": "Ovča",
+      "longitude": 20.5437487,
+      "latitude": 44.8752154
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Ovča",
+      "longitude": 20.5438178,
+      "latitude": 44.8752832
+    },
+    {
+      "id": "_2",
+      "label": "Sebeš",
+      "longitude": 20.5190706370739,
+      "latitude": 44.8609851753685
+    },
+    {
+      "id": "_3",
+      "label": "Krnjača",
+      "longitude": 20.5055415777449,
+      "latitude": 44.8481905504764
+    },
+    {
+      "id": "_4",
+      "label": "Krnjača most",
+      "longitude": 20.4975482,
+      "latitude": 44.8405591
+    },
+    {
+      "id": "_5",
+      "label": "Pančevački most",
+      "longitude": 20.4903733,
+      "latitude": 44.8201417
+    },
+    {
+      "id": "_6",
+      "label": "Vukov spomenik",
+      "longitude": 20.4779128,
+      "latitude": 44.8054634
+    },
+    {
+      "id": "_7",
+      "label": "Karađorđev park",
+      "longitude": 20.4656917,
+      "latitude": 44.79377
+    },
+    {
+      "id": "_8",
+      "label": "Rakovica",
+      "longitude": 20.443646951939,
+      "latitude": 44.7475904718652
+    },
+    {
+      "id": "_9",
+      "label": "Kneževac",
+      "longitude": 20.4305954582124,
+      "latitude": 44.7324784729896
+    },
+    {
+      "id": "_10",
+      "label": "Kijevo",
+      "longitude": 20.4367697621405,
+      "latitude": 44.723419287598
+    },
+    {
+      "id": "_11",
+      "label": "Resnik",
+      "longitude": 20.4473859689588,
+      "latitude": 44.7055368584581
+    }
+  ]
+}

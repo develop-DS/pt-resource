@@ -2,6 +2,188 @@
   "direction_a": [
     {
       "id": "_1",
+      "label": "Zemun (Novi grad)",
+      "longitude": 20.3686725786025,
+      "latitude": 44.8419071492534
+    },
+    {
+      "id": "_2",
+      "label": "OŠ Gavrilo Princip",
+      "longitude": 20.3716392482535,
+      "latitude": 44.8398841629729
+    },
+    {
+      "id": "_3",
+      "label": "Železnička stanica Zemun",
+      "longitude": 20.3750018856065,
+      "latitude": 44.8367779199526
+    },
+    {
+      "id": "_4",
+      "label": "Atanasija Pulje",
+      "longitude": 20.3824800509173,
+      "latitude": 44.8355387076559
+    },
+    {
+      "id": "_5",
+      "label": "Krajiška",
+      "longitude": 20.3836307421402,
+      "latitude": 44.8381853473244
+    },
+    {
+      "id": "_6",
+      "label": "OŠ Petar Kočić",
+      "longitude": 20.3848358818711,
+      "latitude": 44.8426267621532
+    },
+    {
+      "id": "_7",
+      "label": "Rada Končara (Dom zdravlja)",
+      "longitude": 20.3860554636837,
+      "latitude": 44.845720117485
+    },
+    {
+      "id": "_8",
+      "label": "Filipa Višnjića",
+      "longitude": 20.3869021806923,
+      "latitude": 44.849871602398
+    },
+    {
+      "id": "_9",
+      "label": "Branka Pešića",
+      "longitude": 20.3920623745898,
+      "latitude": 44.8490441243012
+    },
+    {
+      "id": "_10",
+      "label": "Stadion Zemun",
+      "longitude": 20.3970201865796,
+      "latitude": 44.8472254074816
+    },
+    {
+      "id": "_11",
+      "label": "Novogradska",
+      "longitude": 20.4016246423256,
+      "latitude": 44.8455396238713
+    },
+    {
+      "id": "_12",
+      "label": "Prilaz",
+      "longitude": 20.4037439572691,
+      "latitude": 44.8404497583993
+    },
+    {
+      "id": "_13",
+      "label": "Paviljoni",
+      "longitude": 20.4014943709723,
+      "latitude": 44.835353332729
+    },
+    {
+      "id": "_14",
+      "label": "Pariske komune",
+      "longitude": 20.399786131086,
+      "latitude": 44.8312676360823
+    },
+    {
+      "id": "_15",
+      "label": "Studentski grad",
+      "longitude": 20.3978587116193,
+      "latitude": 44.8261458177772
+    },
+    {
+      "id": "_16",
+      "label": "SC Vizura",
+      "longitude": 20.3960791986334,
+      "latitude": 44.8209383460596
+    },
+    {
+      "id": "_17",
+      "label": "Železnička stanica Tošin bunar",
+      "longitude": 20.3950441292173,
+      "latitude": 44.8171224968428
+    },
+    {
+      "id": "_18",
+      "label": "Stari aerodrom",
+      "longitude": 20.3926850087571,
+      "latitude": 44.8139547969209
+    },
+    {
+      "id": "_19",
+      "label": "IMT",
+      "longitude": 20.3896383766496,
+      "latitude": 44.8124735002385
+    },
+    {
+      "id": "_20",
+      "label": "Gandijeva",
+      "longitude": 20.3814254977605,
+      "latitude": 44.8101022162771
+    },
+    {
+      "id": "_21",
+      "label": "Crkva Sv. Georgija",
+      "longitude": 20.375560014463,
+      "latitude": 44.8076945502935
+    },
+    {
+      "id": "_22",
+      "label": "Dušana Vukasovića",
+      "longitude": 20.3705756133067,
+      "latitude": 44.8056838016113
+    },
+    {
+      "id": "_23",
+      "label": "Surčinska",
+      "longitude": 20.3667746038276,
+      "latitude": 44.8041509518377
+    },
+    {
+      "id": "_24",
+      "label": "Blok 61",
+      "longitude": 20.3665909669199,
+      "latitude": 44.8031383895825
+    },
+    {
+      "id": "_25",
+      "label": "Naselje Dr Ivana Ribara",
+      "longitude": 20.3695220637996,
+      "latitude": 44.7997887155459
+    },
+    {
+      "id": "_26",
+      "label": "Dr Ivana Ribara",
+      "longitude": 20.3723636222563,
+      "latitude": 44.7981447883689
+    },
+    {
+      "id": "_27",
+      "label": "OŠ Branko Radičević",
+      "longitude": 20.3758104864697,
+      "latitude": 44.7996755264851
+    },
+    {
+      "id": "_28",
+      "label": "Nehruova",
+      "longitude": 20.3801345001671,
+      "latitude": 44.8012325038803
+    },
+    {
+      "id": "_29",
+      "label": "Dom zdravlja Blok 44",
+      "longitude": 20.3826264733544,
+      "latitude": 44.7989204652257
+    },
+    {
+      "id": "_30",
+      "label": "Blok 44",
+      "longitude": 20.3841961040927,
+      "latitude": 44.7963190363067
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
       "label": "Blok 44",
       "longitude": 20.3840096936993,
       "latitude": 44.7969732022516
@@ -104,329 +286,87 @@
     },
     {
       "id": "_18",
-      "label": "KBC Zemun",
-      "longitude": 20.4070744215334,
-      "latitude": 44.8403284321712
+      "label": "Prilaz",
+      "longitude": 20.4046196901809,
+      "latitude": 44.8416422390108
     },
     {
       "id": "_19",
-      "label": "Aleksandra Dubčeka",
-      "longitude": 20.4109439891515,
-      "latitude": 44.8389336523026
+      "label": "Novogradska",
+      "longitude": 20.4019712562394,
+      "latitude": 44.8455396318512
     },
     {
       "id": "_20",
-      "label": "Poljoprivredni fakultet",
-      "longitude": 20.4129324986627,
-      "latitude": 44.8394208199693
-    },
-    {
-      "id": "_21",
-      "label": "Zemun (pošta)",
-      "longitude": 20.4133320184886,
-      "latitude": 44.8421929039194
-    },
-    {
-      "id": "_22",
-      "label": "Trg Branka Radičevića",
-      "longitude": 20.4095407482245,
-      "latitude": 44.8460720216037
-    },
-    {
-      "id": "_23",
-      "label": "Dušanova",
-      "longitude": 20.4017402807628,
-      "latitude": 44.8490482202454
-    },
-    {
-      "id": "_24",
       "label": "Ugrinovačka",
       "longitude": 20.3991774761517,
       "latitude": 44.8465779681986
     },
     {
-      "id": "_25",
+      "id": "_21",
       "label": "Stadion Zemun",
       "longitude": 20.3959444670565,
       "latitude": 44.8477525152105
     },
     {
-      "id": "_26",
+      "id": "_22",
       "label": "Branka Pešića",
       "longitude": 20.3912080891097,
       "latitude": 44.8494391687723
     },
     {
-      "id": "_27",
+      "id": "_23",
       "label": "Filipa Višnjića",
       "longitude": 20.3874227684031,
       "latitude": 44.8499319809851
     },
     {
-      "id": "_28",
+      "id": "_24",
       "label": "Rada Končara (Dom zdravlja)",
       "longitude": 20.3855380637241,
       "latitude": 44.8451233811674
     },
     {
-      "id": "_29",
+      "id": "_25",
       "label": "OŠ Petar Kočić",
       "longitude": 20.3843657268503,
       "latitude": 44.8416342966189
     },
     {
-      "id": "_30",
+      "id": "_26",
       "label": "Krajiška",
       "longitude": 20.3835749718353,
       "latitude": 44.8386728195257
     },
     {
-      "id": "_31",
+      "id": "_27",
       "label": "Atanasija Pulje",
       "longitude": 20.3820836949735,
       "latitude": 44.8357021631636
     },
     {
-      "id": "_32",
+      "id": "_28",
       "label": "Železnička stanica Zemun",
       "longitude": 20.375276504558,
       "latitude": 44.8366462240396
     },
     {
-      "id": "_33",
+      "id": "_29",
       "label": "Branko Plećaš",
       "longitude": 20.3743588863482,
       "latitude": 44.8396380490463
     },
     {
-      "id": "_34",
+      "id": "_30",
       "label": "OŠ Gavrilo Princip",
       "longitude": 20.3712859724594,
       "latitude": 44.8400352176704
     },
     {
-      "id": "_35",
-      "label": "Zemun (Novi grad)",
-      "longitude": 20.3686725786025,
-      "latitude": 44.8419071492534
-    }
-  ],
-  "direction_b": [
-    {
-      "id": "_1",
-      "label": "Zemun (Novi grad)",
-      "longitude": 20.3686725786025,
-      "latitude": 44.8419071492534
-    },
-    {
-      "id": "_2",
-      "label": "OŠ Gavrilo Princip",
-      "longitude": 20.3716392482535,
-      "latitude": 44.8398841629729
-    },
-    {
-      "id": "_3",
-      "label": "Železnička stanica Zemun",
-      "longitude": 20.3750018856065,
-      "latitude": 44.8367779199526
-    },
-    {
-      "id": "_4",
-      "label": "Atanasija Pulje",
-      "longitude": 20.3824800509173,
-      "latitude": 44.8355387076559
-    },
-    {
-      "id": "_5",
-      "label": "Krajiška",
-      "longitude": 20.3836307421402,
-      "latitude": 44.8381853473244
-    },
-    {
-      "id": "_6",
-      "label": "OŠ Petar Kočić",
-      "longitude": 20.3848358818711,
-      "latitude": 44.8426267621532
-    },
-    {
-      "id": "_7",
-      "label": "Rada Končara (Dom zdravlja)",
-      "longitude": 20.3860554636837,
-      "latitude": 44.845720117485
-    },
-    {
-      "id": "_8",
-      "label": "Filipa Višnjića",
-      "longitude": 20.3869021806923,
-      "latitude": 44.849871602398
-    },
-    {
-      "id": "_9",
-      "label": "Branka Pešića",
-      "longitude": 20.3920623745898,
-      "latitude": 44.8490441243012
-    },
-    {
-      "id": "_10",
-      "label": "Stadion Zemun",
-      "longitude": 20.3970201865796,
-      "latitude": 44.8472254074816
-    },
-    {
-      "id": "_11",
-      "label": "Ugrinovačka",
-      "longitude": 20.4013391464244,
-      "latitude": 44.8459917073569
-    },
-    {
-      "id": "_12",
-      "label": "Dušanova",
-      "longitude": 20.4031763330647,
-      "latitude": 44.8481701545542
-    },
-    {
-      "id": "_13",
-      "label": "Trg Branka Radičevića",
-      "longitude": 20.408636759713,
-      "latitude": 44.8463949450253
-    },
-    {
-      "id": "_14",
-      "label": "RK Beograd",
-      "longitude": 20.4120435355163,
-      "latitude": 44.8435182287916
-    },
-    {
-      "id": "_15",
-      "label": "Zemun (pošta)",
-      "longitude": 20.4142591498469,
-      "latitude": 44.8408207220637
-    },
-    {
-      "id": "_16",
-      "label": "Aleksandra Dubčeka",
-      "longitude": 20.4106325818005,
-      "latitude": 44.8392074367307
-    },
-    {
-      "id": "_17",
-      "label": "KBC Zemun",
-      "longitude": 20.4063517433083,
-      "latitude": 44.8412354412422
-    },
-    {
-      "id": "_18",
-      "label": "Prilaz",
-      "longitude": 20.4037439572691,
-      "latitude": 44.8404497583993
-    },
-    {
-      "id": "_19",
-      "label": "Paviljoni",
-      "longitude": 20.4014943709723,
-      "latitude": 44.835353332729
-    },
-    {
-      "id": "_20",
-      "label": "Pariske komune",
-      "longitude": 20.399786131086,
-      "latitude": 44.8312676360823
-    },
-    {
-      "id": "_21",
-      "label": "Studentski grad",
-      "longitude": 20.3978587116193,
-      "latitude": 44.8261458177772
-    },
-    {
-      "id": "_22",
-      "label": "SC Vizura",
-      "longitude": 20.3960791986334,
-      "latitude": 44.8209383460596
-    },
-    {
-      "id": "_23",
-      "label": "Železnička stanica Tošin bunar",
-      "longitude": 20.3950441292173,
-      "latitude": 44.8171224968428
-    },
-    {
-      "id": "_24",
-      "label": "Stari aerodrom",
-      "longitude": 20.3926850087571,
-      "latitude": 44.8139547969209
-    },
-    {
-      "id": "_25",
-      "label": "IMT",
-      "longitude": 20.3896383766496,
-      "latitude": 44.8124735002385
-    },
-    {
-      "id": "_26",
-      "label": "Gandijeva",
-      "longitude": 20.3814254977605,
-      "latitude": 44.8101022162771
-    },
-    {
-      "id": "_27",
-      "label": "Crkva Sv. Georgija",
-      "longitude": 20.375560014463,
-      "latitude": 44.8076945502935
-    },
-    {
-      "id": "_28",
-      "label": "Dušana Vukasovića",
-      "longitude": 20.3705756133067,
-      "latitude": 44.8056838016113
-    },
-    {
-      "id": "_29",
-      "label": "Surčinska",
-      "longitude": 20.3667746038276,
-      "latitude": 44.8041509518377
-    },
-    {
-      "id": "_30",
-      "label": "Blok 61",
-      "longitude": 20.3665909669199,
-      "latitude": 44.8031383895825
-    },
-    {
       "id": "_31",
-      "label": "Naselje Dr Ivana Ribara",
-      "longitude": 20.3695220637996,
-      "latitude": 44.7997887155459
-    },
-    {
-      "id": "_32",
-      "label": "Dr Ivana Ribara",
-      "longitude": 20.3723636222563,
-      "latitude": 44.7981447883689
-    },
-    {
-      "id": "_33",
-      "label": "OŠ Branko Radičević",
-      "longitude": 20.3758104864697,
-      "latitude": 44.7996755264851
-    },
-    {
-      "id": "_34",
-      "label": "Nehruova",
-      "longitude": 20.3801345001671,
-      "latitude": 44.8012325038803
-    },
-    {
-      "id": "_35",
-      "label": "Dom zdravlja Blok 44",
-      "longitude": 20.3826264733544,
-      "latitude": 44.7989204652257
-    },
-    {
-      "id": "_36",
-      "label": "Blok 44",
-      "longitude": 20.3841961040927,
-      "latitude": 44.7963190363067
+      "label": "Zemun (Novi grad)",
+      "longitude": 20.3686725786025,
+      "latitude": 44.8419071492534
     }
   ]
 }

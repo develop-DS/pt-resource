@@ -2,84 +2,228 @@
   "direction_a": [
     {
       "id": "_1",
+      "label": "Miljakovac 1",
+      "longitude": 20.4499009458732,
+      "latitude": 44.7481577912253
+    },
+    {
+      "id": "_2",
+      "label": "Božidara Stojanovića",
+      "longitude": 20.4527290096962,
+      "latitude": 44.7501260336921
+    },
+    {
+      "id": "_3",
+      "label": "Toplana",
+      "longitude": 20.4549003637006,
+      "latitude": 44.7496809890562
+    },
+    {
+      "id": "_4",
+      "label": "Stanka Paunovića",
+      "longitude": 20.4522648700849,
+      "latitude": 44.7484480890725
+    },
+    {
+      "id": "_5",
+      "label": "Miljakovac 1",
+      "longitude": 20.4497333172447,
+      "latitude": 44.7482559832715
+    },
+    {
+      "id": "_6",
+      "label": "GO Rakovica",
+      "longitude": 20.4461644023972,
+      "latitude": 44.7437371968833
+    },
+    {
+      "id": "_7",
+      "label": "Miška Kranjca",
+      "longitude": 20.4421078008058,
+      "latitude": 44.7429993718767
+    },
+    {
+      "id": "_8",
+      "label": "Ulica Oslobođenja",
+      "longitude": 20.4388675549668,
+      "latitude": 44.7380121699384
+    },
+    {
+      "id": "_9",
+      "label": "Servis DMB",
+      "longitude": 20.4449028176888,
+      "latitude": 44.7359212141638
+    },
+    {
+      "id": "_10",
+      "label": "Manastir Rakovica",
+      "longitude": 20.4468951100856,
+      "latitude": 44.7322085821483
+    },
+    {
+      "id": "_11",
+      "label": "Josipa Telarevića (izlaz)",
+      "longitude": 20.4474599982376,
+      "latitude": 44.7280228654403
+    },
+    {
+      "id": "_12",
+      "label": "Tunel Straževica",
+      "longitude": 20.4500248811278,
+      "latitude": 44.7248547094303
+    },
+    {
+      "id": "_13",
+      "label": "Sunčani breg 2",
+      "longitude": 20.454742880954,
+      "latitude": 44.7257483946186
+    },
+    {
+      "id": "_14",
+      "label": "Sunčani breg 1",
+      "longitude": 20.4578490872585,
+      "latitude": 44.7278456344472
+    },
+    {
+      "id": "_15",
+      "label": "Mali zabran",
+      "longitude": 20.4624833257844,
+      "latitude": 44.7277306421089
+    },
+    {
+      "id": "_16",
+      "label": "Miljakovačko brdo",
+      "longitude": 20.4695026004881,
+      "latitude": 44.7282762875857
+    },
+    {
+      "id": "_17",
+      "label": "Miljakovačke staze",
+      "longitude": 20.4715284598544,
+      "latitude": 44.7297383810615
+    },
+    {
+      "id": "_18",
+      "label": "Azil za pse",
+      "longitude": 20.471471786499,
+      "latitude": 44.7217330932617
+    },
+    {
+      "id": "_19",
+      "label": "Rakovački potok",
+      "longitude": 20.4683952331543,
+      "latitude": 44.7186088562012
+    },
+    {
+      "id": "_20",
+      "label": "Resnik (ulaz)",
+      "longitude": 20.4645029754704,
+      "latitude": 44.7162097128016
+    },
+    {
+      "id": "_21",
+      "label": "Avalska",
+      "longitude": 20.4595489479903,
+      "latitude": 44.7144297497313
+    },
+    {
+      "id": "_22",
+      "label": "Edvarda Griga (ulaz)",
+      "longitude": 20.459072437139,
+      "latitude": 44.7130055550755
+    },
+    {
+      "id": "_23",
+      "label": "Zdravstvena stanica \"Resnik\"",
+      "longitude": 20.4612355489248,
+      "latitude": 44.7119303704362
+    },
+    {
+      "id": "_24",
+      "label": "Resnik (Edvarda Griga)",
+      "longitude": 20.4642638735578,
+      "latitude": 44.7114585662462
+    },
+    {
+      "id": "_25",
       "label": "Resnik (Edvarda Griga)",
       "longitude": 20.4638297101793,
       "latitude": 44.7117337286365
     },
     {
-      "id": "_2",
+      "id": "_26",
       "label": "Zdravstvena stanica \"Resnik\"",
       "longitude": 20.4609051054435,
       "latitude": 44.712179009585
     },
     {
-      "id": "_3",
+      "id": "_27",
       "label": "Dr Aćima Medovića",
       "longitude": 20.4596138852321,
       "latitude": 44.7115069594599
     },
     {
-      "id": "_4",
+      "id": "_28",
       "label": "Pašinac",
       "longitude": 20.4583077830163,
       "latitude": 44.7102660443804
     },
     {
-      "id": "_5",
+      "id": "_29",
       "label": "8. septembra",
       "longitude": 20.4552645611542,
       "latitude": 44.7090906776688
     },
     {
-      "id": "_6",
+      "id": "_30",
       "label": "Brestovačka",
       "longitude": 20.4533720250358,
       "latitude": 44.7082267068215
     },
     {
-      "id": "_7",
+      "id": "_31",
       "label": "Aleksandra Vojinovića",
       "longitude": 20.4512667225399,
       "latitude": 44.7069117026575
     },
     {
-      "id": "_8",
+      "id": "_32",
       "label": "Železnička stanica Resnik",
       "longitude": 20.4493815046096,
       "latitude": 44.7044835538808
     },
     {
-      "id": "_9",
+      "id": "_33",
       "label": "Pružni prelaz",
       "longitude": 20.4509231981025,
       "latitude": 44.7021114227648
     },
     {
-      "id": "_10",
+      "id": "_34",
       "label": "Resnik (železnička stanica)",
       "longitude": 20.4523287772364,
       "latitude": 44.700246203317
     },
     {
-      "id": "_11",
+      "id": "_35",
       "label": "Topčiderska reka (prilaz)",
       "longitude": 20.4542493929338,
       "latitude": 44.6994273822973
     },
     {
-      "id": "_12",
+      "id": "_36",
       "label": "Delovi - prilaz",
       "longitude": 20.4575345482952,
       "latitude": 44.6994969588844
     },
     {
-      "id": "_13",
+      "id": "_37",
       "label": "Nova 3. - prilaz",
       "longitude": 20.4590724195409,
       "latitude": 44.6991208317903
     },
     {
-      "id": "_14",
+      "id": "_38",
       "label": "Resnik (Patin majdan)",
       "longitude": 20.4611187402969,
       "latitude": 44.6969723313175
@@ -160,21 +304,159 @@
     },
     {
       "id": "_13",
-      "label": "Edvarda Griga (ulaz)",
-      "longitude": 20.459072437139,
-      "latitude": 44.7130055550755
-    },
-    {
-      "id": "_14",
       "label": "Zdravstvena stanica \"Resnik\"",
       "longitude": 20.4612355489248,
       "latitude": 44.7119303704362
     },
     {
-      "id": "_15",
+      "id": "_14",
       "label": "Resnik (Edvarda Griga)",
       "longitude": 20.4642638735578,
       "latitude": 44.7114585662462
+    },
+    {
+      "id": "_15",
+      "label": "Resnik (Edvarda Griga)",
+      "longitude": 20.4638297101793,
+      "latitude": 44.7117337286365
+    },
+    {
+      "id": "_16",
+      "label": "Zdravstvena stanica \"Resnik\"",
+      "longitude": 20.4609051054435,
+      "latitude": 44.712179009585
+    },
+    {
+      "id": "_17",
+      "label": "Edvarda Griga (ulaz)",
+      "longitude": 20.4588326138831,
+      "latitude": 44.7132798144496
+    },
+    {
+      "id": "_18",
+      "label": "Avalska",
+      "longitude": 20.4595504819712,
+      "latitude": 44.7142641628815
+    },
+    {
+      "id": "_19",
+      "label": "Resnik (ulaz)",
+      "longitude": 20.4652582629203,
+      "latitude": 44.7164310271084
+    },
+    {
+      "id": "_20",
+      "label": "Miodraga Bulatovića",
+      "longitude": 20.4700660705566,
+      "latitude": 44.7198486328125
+    },
+    {
+      "id": "_21",
+      "label": "Azil za pse",
+      "longitude": 20.4715366363525,
+      "latitude": 44.7218399047852
+    },
+    {
+      "id": "_22",
+      "label": "Miljakovačke staze",
+      "longitude": 20.4715284598544,
+      "latitude": 44.7297383810615
+    },
+    {
+      "id": "_23",
+      "label": "Miljakovačko brdo",
+      "longitude": 20.4690552674822,
+      "latitude": 44.7283228168827
+    },
+    {
+      "id": "_24",
+      "label": "Mali zabran",
+      "longitude": 20.4615695911151,
+      "latitude": 44.7271539799797
+    },
+    {
+      "id": "_25",
+      "label": "Sunčani breg 1",
+      "longitude": 20.4577361556925,
+      "latitude": 44.7280430932433
+    },
+    {
+      "id": "_26",
+      "label": "Sunčani breg 2",
+      "longitude": 20.4547337753846,
+      "latitude": 44.725912145158
+    },
+    {
+      "id": "_27",
+      "label": "Tunel Straževica",
+      "longitude": 20.4505967066117,
+      "latitude": 44.7247242540247
+    },
+    {
+      "id": "_28",
+      "label": "Josipa Telarevića (izlaz)",
+      "longitude": 20.4484310506556,
+      "latitude": 44.7270645744988
+    },
+    {
+      "id": "_29",
+      "label": "Manastir Rakovica",
+      "longitude": 20.447268056308,
+      "latitude": 44.7314904074296
+    },
+    {
+      "id": "_30",
+      "label": "Servis DMB",
+      "longitude": 20.4449775432326,
+      "latitude": 44.7360295714115
+    },
+    {
+      "id": "_31",
+      "label": "Ulica Oslobođenja",
+      "longitude": 20.4389297497124,
+      "latitude": 44.738109670244
+    },
+    {
+      "id": "_32",
+      "label": "Miška Kranjca",
+      "longitude": 20.4427275651333,
+      "latitude": 44.7428943883828
+    },
+    {
+      "id": "_33",
+      "label": "GO Rakovica",
+      "longitude": 20.4451590305898,
+      "latitude": 44.743226559933
+    },
+    {
+      "id": "_34",
+      "label": "Miljakovac 1",
+      "longitude": 20.4499009458732,
+      "latitude": 44.7481577912253
+    },
+    {
+      "id": "_35",
+      "label": "Stanka Paunovića",
+      "longitude": 20.4533082278884,
+      "latitude": 44.7484260662644
+    },
+    {
+      "id": "_36",
+      "label": "Vareška",
+      "longitude": 20.4556828756227,
+      "latitude": 44.7489233357899
+    },
+    {
+      "id": "_37",
+      "label": "Toplana",
+      "longitude": 20.454732082132,
+      "latitude": 44.7498493823668
+    },
+    {
+      "id": "_38",
+      "label": "Miljakovac 1",
+      "longitude": 20.4497333172447,
+      "latitude": 44.7482559832715
     }
   ]
 }

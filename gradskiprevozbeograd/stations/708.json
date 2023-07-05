@@ -194,24 +194,42 @@
     },
     {
       "id": "_33",
+      "label": "Nadvožnjak",
+      "longitude": 20.3429298400879,
+      "latitude": 44.8675651550293
+    },
+    {
+      "id": "_34",
+      "label": "Pupin Telekom",
+      "longitude": 20.3399684985473,
+      "latitude": 44.8694962213776
+    },
+    {
+      "id": "_35",
+      "label": "Put za Novi Sad",
+      "longitude": 20.335508095428,
+      "latitude": 44.872643654094
+    },
+    {
+      "id": "_36",
       "label": "Institut za kukuruz",
       "longitude": 20.3292684497233,
       "latitude": 44.8715669824627
     },
     {
-      "id": "_34",
+      "id": "_37",
       "label": "Đure Gajića",
       "longitude": 20.3270056308461,
       "latitude": 44.8730890230276
     },
     {
-      "id": "_35",
+      "id": "_38",
       "label": "Franje Krča",
       "longitude": 20.3239237810028,
       "latitude": 44.8725525214473
     },
     {
-      "id": "_36",
+      "id": "_39",
       "label": "Zemun polje",
       "longitude": 20.3188462382876,
       "latitude": 44.8759926411738
@@ -244,180 +262,198 @@
     },
     {
       "id": "_5",
+      "label": "Put za Novi Sad",
+      "longitude": 20.3364811747004,
+      "latitude": 44.8723271106666
+    },
+    {
+      "id": "_6",
+      "label": "Pupin Telekom",
+      "longitude": 20.3404445105597,
+      "latitude": 44.8690363899861
+    },
+    {
+      "id": "_7",
+      "label": "Nadvožnjak",
+      "longitude": 20.342716217041,
+      "latitude": 44.8675918579102
+    },
+    {
+      "id": "_8",
       "label": "Trafostanica",
       "longitude": 20.3255536687005,
       "latitude": 44.8603876819246
     },
     {
-      "id": "_6",
+      "id": "_9",
       "label": "Strahinje Petrovića",
       "longitude": 20.3295657016596,
       "latitude": 44.857682582947
     },
     {
-      "id": "_7",
+      "id": "_10",
       "label": "Železnička stanica Zemun polje",
       "longitude": 20.334030419082,
       "latitude": 44.8573918262608
     },
     {
-      "id": "_8",
+      "id": "_11",
       "label": "Mihajla Bandura",
       "longitude": 20.3311164379906,
       "latitude": 44.8553121859969
     },
     {
-      "id": "_9",
+      "id": "_12",
       "label": "Koste Brankovića (Plavi Horizonti)",
       "longitude": 20.3373708816568,
       "latitude": 44.8520637056758
     },
     {
-      "id": "_10",
+      "id": "_13",
       "label": "Koste Alkovića",
       "longitude": 20.3400626840883,
       "latitude": 44.8492120035593
     },
     {
-      "id": "_11",
+      "id": "_14",
       "label": "Koste Cukića",
       "longitude": 20.3428344719554,
       "latitude": 44.8473164387352
     },
     {
-      "id": "_12",
+      "id": "_15",
       "label": "Milana Nedeljkovića",
       "longitude": 20.344300579469,
       "latitude": 44.8463168927243
     },
     {
-      "id": "_13",
+      "id": "_16",
       "label": "Crkva Sv. Atanasija velikog",
       "longitude": 20.3489029916664,
       "latitude": 44.8444928313234
     },
     {
-      "id": "_14",
+      "id": "_17",
       "label": "Železnička tehnička stanica 1",
       "longitude": 20.3528860983657,
       "latitude": 44.8401002388154
     },
     {
-      "id": "_15",
+      "id": "_18",
       "label": "Železnička tehnička stanica",
       "longitude": 20.3577088532123,
       "latitude": 44.8381834692935
     },
     {
-      "id": "_16",
+      "id": "_19",
       "label": "Novosadski put",
       "longitude": 20.3636111677857,
       "latitude": 44.8369834516906
     },
     {
-      "id": "_17",
+      "id": "_20",
       "label": "Kvantaška pijaca",
       "longitude": 20.3618231165154,
       "latitude": 44.8256701493535
     },
     {
-      "id": "_18",
+      "id": "_21",
       "label": "Novo Bežanijsko groblje",
       "longitude": 20.3649887518079,
       "latitude": 44.8222805123104
     },
     {
-      "id": "_19",
+      "id": "_22",
       "label": "Bežanijska kosa (ulaz)",
       "longitude": 20.375949122658,
       "latitude": 44.8206667778483
     },
     {
-      "id": "_20",
+      "id": "_23",
       "label": "Dr Huga Klajna",
       "longitude": 20.3795897282646,
       "latitude": 44.820056566852
     },
     {
-      "id": "_21",
+      "id": "_24",
       "label": "Marka Čelebonovića",
       "longitude": 20.3828784712497,
       "latitude": 44.819233758115
     },
     {
-      "id": "_22",
+      "id": "_25",
       "label": "Nikole Dobrovića",
       "longitude": 20.3859879984617,
       "latitude": 44.8190884584444
     },
     {
-      "id": "_23",
+      "id": "_26",
       "label": "Stojana Aralice",
       "longitude": 20.3882200888873,
       "latitude": 44.822055827201
     },
     {
-      "id": "_24",
+      "id": "_27",
       "label": "SC 11. april",
       "longitude": 20.3939468037829,
       "latitude": 44.8270449610979
     },
     {
-      "id": "_25",
+      "id": "_28",
       "label": "Studentski grad",
       "longitude": 20.3991145103976,
       "latitude": 44.8262621981325
     },
     {
-      "id": "_26",
+      "id": "_29",
       "label": "Studentska",
       "longitude": 20.4031927311623,
       "latitude": 44.8268864589955
     },
     {
-      "id": "_27",
+      "id": "_30",
       "label": "Fontana",
       "longitude": 20.4094089526943,
       "latitude": 44.8257001039461
     },
     {
-      "id": "_28",
+      "id": "_31",
       "label": "GO Novi Beograd",
       "longitude": 20.4119222276615,
       "latitude": 44.8230221655042
     },
     {
-      "id": "_29",
+      "id": "_32",
       "label": "Bulevar Zorana Đinđića",
       "longitude": 20.409434007589,
       "latitude": 44.8202501313123
     },
     {
-      "id": "_30",
+      "id": "_33",
       "label": "Milutina Milankovića",
       "longitude": 20.4056530085192,
       "latitude": 44.8160728247077
     },
     {
-      "id": "_31",
+      "id": "_34",
       "label": "Airport City",
       "longitude": 20.4012577009893,
       "latitude": 44.8111992211083
     },
     {
-      "id": "_32",
+      "id": "_35",
       "label": "Tehnička škola Novi Beograd",
       "longitude": 20.3991193444385,
       "latitude": 44.8081893949723
     },
     {
-      "id": "_33",
+      "id": "_36",
       "label": "Jurija Gagarina",
       "longitude": 20.3996501849434,
       "latitude": 44.801591915606
     },
     {
-      "id": "_34",
+      "id": "_37",
       "label": "Blok 70A",
       "longitude": 20.4000718982624,
       "latitude": 44.7979637064807

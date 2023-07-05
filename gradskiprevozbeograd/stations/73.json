@@ -110,144 +110,156 @@
     },
     {
       "id": "_19",
-      "label": "Poljoprivredni fakultet",
-      "longitude": 20.4129324986627,
-      "latitude": 44.8394208199693
+      "label": "Aleksandra Dubčeka",
+      "longitude": 20.4106325818005,
+      "latitude": 44.8392074367307
     },
     {
       "id": "_20",
-      "label": "Zemun (pošta)",
-      "longitude": 20.4133320184886,
-      "latitude": 44.8421929039194
+      "label": "KBC Zemun",
+      "longitude": 20.4063517433083,
+      "latitude": 44.8412354412422
     },
     {
       "id": "_21",
-      "label": "Trg Branka Radičevića",
-      "longitude": 20.4095407482245,
-      "latitude": 44.8460720216037
+      "label": "Novogradska",
+      "longitude": 20.4019712562394,
+      "latitude": 44.8455396318512
     },
     {
       "id": "_22",
+      "label": "Ugrinovačka",
+      "longitude": 20.4013391464244,
+      "latitude": 44.8459917073569
+    },
+    {
+      "id": "_23",
+      "label": "Dušanova",
+      "longitude": 20.4031763330647,
+      "latitude": 44.8481701545542
+    },
+    {
+      "id": "_24",
       "label": "Nade Dimić",
       "longitude": 20.4028827140265,
       "latitude": 44.8491657672126
     },
     {
-      "id": "_23",
+      "id": "_25",
       "label": "Dunavska",
       "longitude": 20.3978588906259,
       "latitude": 44.8510077899931
     },
     {
-      "id": "_24",
+      "id": "_26",
       "label": "Tršćanska",
       "longitude": 20.3905122701023,
       "latitude": 44.8537768135237
     },
     {
-      "id": "_25",
+      "id": "_27",
       "label": "Filipa Višnjića",
       "longitude": 20.3867265075406,
       "latitude": 44.8552415413263
     },
     {
-      "id": "_26",
+      "id": "_28",
       "label": "Ruska",
       "longitude": 20.3808914653133,
       "latitude": 44.8578326286961
     },
     {
-      "id": "_27",
+      "id": "_29",
       "label": "Zemun (Gornji grad)",
       "longitude": 20.3780768215081,
       "latitude": 44.8590737214802
     },
     {
-      "id": "_28",
+      "id": "_30",
       "label": "Geomašina",
       "longitude": 20.3639440423549,
       "latitude": 44.8652364128365
     },
     {
-      "id": "_29",
+      "id": "_31",
       "label": "Preduzeće Galenika Magmasil",
       "longitude": 20.3587940672045,
       "latitude": 44.8674899859596
     },
     {
-      "id": "_30",
+      "id": "_32",
       "label": "Coca-Cola",
       "longitude": 20.3537456511705,
       "latitude": 44.8696791024904
     },
     {
-      "id": "_31",
+      "id": "_33",
       "label": "Elektronska industrija",
       "longitude": 20.3437621054869,
       "latitude": 44.8740105149142
     },
     {
-      "id": "_32",
+      "id": "_34",
       "label": "Put za 13. maj",
       "longitude": 20.3338282734333,
       "latitude": 44.8782909433028
     },
     {
-      "id": "_33",
+      "id": "_35",
       "label": "Ciglana",
       "longitude": 20.3167671732028,
       "latitude": 44.8857230358798
     },
     {
-      "id": "_34",
+      "id": "_36",
       "label": "Naselje ekonomija",
       "longitude": 20.3085141093397,
       "latitude": 44.8894928933937
     },
     {
-      "id": "_35",
+      "id": "_37",
       "label": "Belarička",
       "longitude": 20.3019250115022,
       "latitude": 44.8925127491577
     },
     {
-      "id": "_36",
+      "id": "_38",
       "label": "Batajnica (ulaz)",
       "longitude": 20.295393945171,
       "latitude": 44.8954929825352
     },
     {
-      "id": "_37",
+      "id": "_39",
       "label": "Maksima Brankovića",
       "longitude": 20.2916960421567,
       "latitude": 44.8972196711163
     },
     {
-      "id": "_38",
+      "id": "_40",
       "label": "Braće Smiljanić",
       "longitude": 20.2856849801639,
       "latitude": 44.9000441699599
     },
     {
-      "id": "_39",
+      "id": "_41",
       "label": "Majke Jugovića",
       "longitude": 20.2809119106436,
       "latitude": 44.9026511408495
     },
     {
-      "id": "_40",
+      "id": "_42",
       "label": "Batajnica (centar)",
       "longitude": 20.2743514670595,
       "latitude": 44.9057757709355
     },
     {
-      "id": "_41",
+      "id": "_43",
       "label": "Batajnica (železnička rampa)",
       "longitude": 20.2696135241678,
       "latitude": 44.9019083367916
     },
     {
-      "id": "_42",
+      "id": "_44",
       "label": "Batajnica (železnička stanica)",
       "longitude": 20.2709091733221,
       "latitude": 44.8999763198169
@@ -388,114 +400,108 @@
     },
     {
       "id": "_23",
-      "label": "RK Beograd",
-      "longitude": 20.4120435355163,
-      "latitude": 44.8435182287916
+      "label": "Kej oslobođenja 1",
+      "longitude": 20.4165859222412,
+      "latitude": 44.8436393737793
     },
     {
       "id": "_24",
-      "label": "Zemun (pošta)",
-      "longitude": 20.4142591498469,
-      "latitude": 44.8408207220637
-    },
-    {
-      "id": "_25",
       "label": "22. oktobra",
       "longitude": 20.4112100833161,
       "latitude": 44.8378892786298
     },
     {
-      "id": "_26",
+      "id": "_25",
       "label": "Džona Kenedija",
       "longitude": 20.4096906443783,
       "latitude": 44.8340674860514
     },
     {
-      "id": "_27",
+      "id": "_26",
       "label": "Bulevar Maršala Tolbuhina",
       "longitude": 20.4111070310089,
       "latitude": 44.8298414053327
     },
     {
-      "id": "_28",
+      "id": "_27",
       "label": "Arhiv",
       "longitude": 20.4120381076528,
       "latitude": 44.8270653368328
     },
     {
-      "id": "_29",
+      "id": "_28",
       "label": "GO Novi Beograd",
       "longitude": 20.4119222276615,
       "latitude": 44.8230221655042
     },
     {
-      "id": "_30",
+      "id": "_29",
       "label": "Bulevar Zorana Đinđića",
       "longitude": 20.409434007589,
       "latitude": 44.8202501313123
     },
     {
-      "id": "_31",
+      "id": "_30",
       "label": "Milutina Milankovića",
       "longitude": 20.4056530085192,
       "latitude": 44.8160728247077
     },
     {
-      "id": "_32",
+      "id": "_31",
       "label": "Airport City",
       "longitude": 20.4012577009893,
       "latitude": 44.8111992211083
     },
     {
-      "id": "_33",
+      "id": "_32",
       "label": "Tehnička škola Novi Beograd",
       "longitude": 20.3991193444385,
       "latitude": 44.8081893949723
     },
     {
-      "id": "_34",
+      "id": "_33",
       "label": "Omladinskih brigada",
       "longitude": 20.3981750749657,
       "latitude": 44.8046404276435
     },
     {
-      "id": "_35",
+      "id": "_34",
       "label": "Blok 70",
       "longitude": 20.3936830200988,
       "latitude": 44.8043377814529
     },
     {
-      "id": "_36",
+      "id": "_35",
       "label": "Gandijeva",
       "longitude": 20.3867666614598,
       "latitude": 44.8032966577503
     },
     {
-      "id": "_37",
+      "id": "_36",
       "label": "Pijaca blok 44",
       "longitude": 20.3845394918383,
       "latitude": 44.8028041510327
     },
     {
-      "id": "_38",
+      "id": "_37",
       "label": "Nehruova",
       "longitude": 20.3797930284702,
       "latitude": 44.8014862444975
     },
     {
-      "id": "_39",
+      "id": "_38",
       "label": "OŠ Branko Radičević",
       "longitude": 20.3750640665513,
       "latitude": 44.7997362577074
     },
     {
-      "id": "_40",
+      "id": "_39",
       "label": "Dr Ivana Ribara 1",
       "longitude": 20.3720076477441,
       "latitude": 44.7966975121338
     },
     {
-      "id": "_41",
+      "id": "_40",
       "label": "Blok 45",
       "longitude": 20.3751162660873,
       "latitude": 44.7927636918094
