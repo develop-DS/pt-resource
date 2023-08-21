@@ -2292,47 +2292,6 @@
         }
     },
     {
-        "id": "54",
-        "type": "BUS",
-        "title": "Subotica - Senta - Bečej",
-        "info": [
-            "BV - Backi Vinogradi",
-            "M - Martonos"
-        ],
-        "weekday": {
-            "starting_points_a": [],
-            "starting_points_b": []
-        },
-        "saturday": {
-            "starting_points_a": [],
-            "starting_points_b": []
-        },
-        "sunday": {
-            "starting_points_a": [],
-            "starting_points_b": []
-        }
-    },
-    {
-        "id": "58",
-        "type": "BUS",
-        "title": "Subotica - Bajmok - Sombor",
-        "info": [
-            "Đ - Đački polazak"
-        ],
-        "weekday": {
-            "starting_points_a": [],
-            "starting_points_b": []
-        },
-        "saturday": {
-            "starting_points_a": [],
-            "starting_points_b": []
-        },
-        "sunday": {
-            "starting_points_a": [],
-            "starting_points_b": []
-        }
-    },
-    {
         "id": "68",
         "type": "BUS",
         "title": "Bačka Topola - Stara Moravica - Bajmok - Subotica",
