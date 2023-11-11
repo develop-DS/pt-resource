@@ -4905,11 +4905,12 @@
     },
     {
         "id": "15L",
-        "title": "NIŠ - Gornji Matejevac",
+        "title": "Trg Kralja Aleksandra - Gornji Matejevac",
         "info": [],
         "weekday": {
             "starting_points_a": [
                 "06:20"
+                
             ],
             "starting_points_b": [
                 "06:50"
@@ -6974,22 +6975,25 @@
     },
     {
         "id": "39",
-        "title": "NIŠ - Supovac Sečanica",
+        "title": "NIŠ - Supovac - Sečanica",
         "info": [
-            "*polazak ulazi u selo Mezgraja"
+            "*saobraća do Supovca ",
+            "**ulazi u Mezgraju "
         ],
         "weekday": {
             "starting_points_a": [
-                "04:10",
+                "04:10*",
+                "05:30*",
                 "06:25",
                 "11:30",
-                "13:15*",
+                "13:15**",
                 "15:20",
                 "20:15"
             ],
             "starting_points_b": [
-                "06:30",
-                "07:20*",
+                "04:50*",
+                "06:20*",
+                "07:20**",
                 "12:25",
                 "14:25",
                 "16:35",
@@ -6999,13 +7003,13 @@
         "saturday": {
             "starting_points_a": [
                 "04:30",
-                "15:20",
-                "18:15"
+                "08:20",
+                "15:20"
             ],
             "starting_points_b": [
                 "05:25",
-                "16:30",
-                "19:10"
+                "09:15",
+                "16:30"
             ]
         },
         "sunday": {
