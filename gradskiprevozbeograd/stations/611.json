@@ -2,132 +2,120 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Kej oslobođenja",
-      "longitude": 20.415187272676,
-      "latitude": 44.8431131251542
+      "label": "Novi Beograd (Paviljoni)",
+      "longitude": 20.4042673503249,
+      "latitude": 44.8301210659387
     },
     {
       "id": "_2",
-      "label": "22. oktobra",
-      "longitude": 20.4112100833161,
-      "latitude": 44.8378892786298
-    },
-    {
-      "id": "_3",
-      "label": "Džona Kenedija",
-      "longitude": 20.4096906443783,
-      "latitude": 44.8340674860514
-    },
-    {
-      "id": "_4",
       "label": "Bulevar Maršala Tolbuhina",
       "longitude": 20.4111070310089,
       "latitude": 44.8298414053327
     },
     {
-      "id": "_5",
+      "id": "_3",
       "label": "Arhiv",
       "longitude": 20.4120381076528,
       "latitude": 44.8270653368328
     },
     {
-      "id": "_6",
+      "id": "_4",
       "label": "GO Novi Beograd",
       "longitude": 20.4119222276615,
       "latitude": 44.8230221655042
     },
     {
-      "id": "_7",
+      "id": "_5",
       "label": "Bulevar Zorana Đinđića",
       "longitude": 20.409434007589,
       "latitude": 44.8202501313123
     },
     {
-      "id": "_8",
+      "id": "_6",
       "label": "Tošin bunar",
       "longitude": 20.3999624583207,
       "latitude": 44.8220350702065
     },
     {
-      "id": "_9",
+      "id": "_7",
       "label": "Bežanijska kosa",
       "longitude": 20.3888959117271,
       "latitude": 44.827048755914
     },
     {
-      "id": "_10",
+      "id": "_8",
       "label": "Zmaj",
       "longitude": 20.3702737510677,
       "latitude": 44.8314351530495
     },
     {
-      "id": "_11",
+      "id": "_9",
       "label": "Grmeč",
       "longitude": 20.3607937600953,
       "latitude": 44.8325616301457
     },
     {
-      "id": "_12",
+      "id": "_10",
       "label": "Ikarbus",
       "longitude": 20.3471576873892,
       "latitude": 44.8338887168338
     },
     {
-      "id": "_13",
+      "id": "_11",
       "label": "Naselje Radiofar",
-      "longitude": 20.3099851711106,
-      "latitude": 44.8344179520836
+      "longitude": 20.3098743529498,
+      "latitude": 44.8344762879114
     },
     {
-      "id": "_14",
+      "id": "_12",
       "label": "Put za Soko salaš",
       "longitude": 20.2867684050329,
       "latitude": 44.8336458662901
     },
     {
-      "id": "_15",
+      "id": "_13",
       "label": "Dobanovci (ulaz)",
       "longitude": 20.2136362023358,
       "latitude": 44.8404803135294
     },
     {
-      "id": "_16",
+      "id": "_14",
       "label": "Fruškogorska",
       "longitude": 20.2151628686123,
       "latitude": 44.8379619279548
     },
     {
-      "id": "_17",
+      "id": "_15",
       "label": "Slovački dom",
       "longitude": 20.2170484900605,
       "latitude": 44.8350769955099
     },
     {
-      "id": "_18",
+      "id": "_16",
       "label": "Žarka Jelića",
       "longitude": 20.2192238850183,
       "latitude": 44.8322606017945
     },
     {
-      "id": "_19",
+      "id": "_17",
       "label": "Dobanovci (centar)",
       "longitude": 20.2237137604068,
       "latitude": 44.8279047572098
     },
     {
-      "id": "_20",
+      "id": "_18",
       "label": "Zemunska",
       "longitude": 20.2289787824514,
       "latitude": 44.8298751999834
     },
     {
-      "id": "_21",
+      "id": "_19",
       "label": "Partizanska",
       "longitude": 20.2337567753909,
       "latitude": 44.831977135789
     },
     {
-      "id": "_22",
+      "id": "_20",
       "label": "Dobanovci (groblje)",
       "longitude": 20.2359949256436,
       "latitude": 44.8364252290671
@@ -191,8 +179,8 @@
     {
       "id": "_10",
       "label": "Naselje Radiofar",
-      "longitude": 20.3110628204363,
-      "latitude": 44.8341994470651
+      "longitude": 20.3118811707684,
+      "latitude": 44.8341586397701
     },
     {
       "id": "_11",
@@ -250,33 +238,9 @@
     },
     {
       "id": "_20",
-      "label": "Džona Kenedija",
-      "longitude": 20.4099547130209,
-      "latitude": 44.8342182363595
-    },
-    {
-      "id": "_21",
-      "label": "Prve pruge (Retenzija)",
-      "longitude": 20.4106030093984,
-      "latitude": 44.836887217854
-    },
-    {
-      "id": "_22",
-      "label": "Poljoprivredni fakultet",
-      "longitude": 20.4129324986627,
-      "latitude": 44.8394208199693
-    },
-    {
-      "id": "_23",
-      "label": "Zemun (pošta)",
-      "longitude": 20.4133320184886,
-      "latitude": 44.8421929039194
-    },
-    {
-      "id": "_24",
-      "label": "Kej oslobođenja",
-      "longitude": 20.415187272676,
-      "latitude": 44.8431131251542
+      "label": "Novi Beograd (Paviljoni)",
+      "longitude": 20.404901375786,
+      "latitude": 44.8304501391773
     }
   ]
 }

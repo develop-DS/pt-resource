@@ -2,335 +2,329 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Banovo brdo",
-      "longitude": 20.4134884491404,
-      "latitude": 44.7685613092579
+      "label": "Blok 45",
+      "longitude": 20.3741378491996,
+      "latitude": 44.7939552963559
     },
     {
       "id": "_2",
-      "label": "Trebevićka",
-      "longitude": 20.4143679959541,
-      "latitude": 44.7715482675454
+      "label": "Dr Ivana Ribara",
+      "longitude": 20.3720354350468,
+      "latitude": 44.7981033935407
     },
     {
       "id": "_3",
-      "label": "Kijevska",
-      "longitude": 20.4138574029671,
-      "latitude": 44.7758312615877
+      "label": "OŠ Branko Radičević",
+      "longitude": 20.377042722864,
+      "latitude": 44.8002815969326
     },
     {
       "id": "_4",
-      "label": "Dom zdravlja",
-      "longitude": 20.4159577149361,
-      "latitude": 44.7790656243339
+      "label": "Nehruova",
+      "longitude": 20.3817509715112,
+      "latitude": 44.8018495992463
     },
     {
       "id": "_5",
-      "label": "Škola Josif Pančić",
-      "longitude": 20.4177988662816,
-      "latitude": 44.7814508718708
+      "label": "Gandijeva",
+      "longitude": 20.3889566179865,
+      "latitude": 44.8034847383526
     },
     {
       "id": "_6",
-      "label": "Kneza Višeslava",
-      "longitude": 20.4226646802812,
-      "latitude": 44.7833977738671
+      "label": "Blok 70",
+      "longitude": 20.3937584933887,
+      "latitude": 44.8041311911066
     },
     {
       "id": "_7",
-      "label": "Hipodrom",
-      "longitude": 20.4243930038127,
-      "latitude": 44.7877766488031
+      "label": "Omladinskih brigada",
+      "longitude": 20.4001565305208,
+      "latitude": 44.8044618179544
     },
     {
       "id": "_8",
+      "label": "Agostina Neta",
+      "longitude": 20.4046325542021,
+      "latitude": 44.8043591471497
+    },
+    {
+      "id": "_9",
+      "label": "Naselje Belvil",
+      "longitude": 20.4105298040876,
+      "latitude": 44.8040996858499
+    },
+    {
+      "id": "_10",
+      "label": "Blok 42",
+      "longitude": 20.4173716442602,
+      "latitude": 44.8046765520449
+    },
+    {
+      "id": "_11",
+      "label": "Železnička stanica Novi Beograd",
+      "longitude": 20.418510589485,
+      "latitude": 44.8068278205497
+    },
+    {
+      "id": "_12",
+      "label": "Đorđa Stanojevića",
+      "longitude": 20.4158377861854,
+      "latitude": 44.8068628370861
+    },
+    {
+      "id": "_13",
+      "label": "Petlja Radnička",
+      "longitude": 20.4269206904675,
+      "latitude": 44.7917092930974
+    },
+    {
+      "id": "_14",
       "label": "Gospodarska mehana",
       "longitude": 20.4314473222989,
       "latitude": 44.7937191388922
     },
     {
-      "id": "_9",
+      "id": "_15",
       "label": "Ruska",
       "longitude": 20.4377384773978,
       "latitude": 44.7950730797943
     },
     {
-      "id": "_10",
+      "id": "_16",
       "label": "Sajam",
       "longitude": 20.4428643717083,
       "latitude": 44.7964480196757
     },
     {
-      "id": "_11",
+      "id": "_17",
       "label": "Mostar",
       "longitude": 20.4488071808481,
       "latitude": 44.7986078172907
     },
     {
-      "id": "_12",
+      "id": "_18",
       "label": "Palata pravde",
       "longitude": 20.453384376589,
       "latitude": 44.8046288092236
     },
     {
-      "id": "_13",
-      "label": "Savski trg",
-      "longitude": 20.4553339293181,
-      "latitude": 44.8070283567709
-    },
-    {
-      "id": "_14",
-      "label": "Ekonomski fakultet",
-      "longitude": 20.4534382415214,
-      "latitude": 44.8123470631194
-    },
-    {
-      "id": "_15",
-      "label": "Brankov most",
-      "longitude": 20.4508868228253,
-      "latitude": 44.8150329374625
-    },
-    {
-      "id": "_16",
-      "label": "Pristanište",
-      "longitude": 20.4496087923248,
-      "latitude": 44.8191485924837
-    },
-    {
-      "id": "_17",
-      "label": "Kalemegdan",
-      "longitude": 20.4540343349834,
-      "latitude": 44.8207626503436
-    },
-    {
-      "id": "_18",
-      "label": "Braće Baruh",
-      "longitude": 20.4569313944278,
-      "latitude": 44.8249413711738
-    },
-    {
       "id": "_19",
-      "label": "Kralja Petra",
-      "longitude": 20.4602867462446,
-      "latitude": 44.8231213035395
+      "label": "Savski trg",
+      "longitude": 20.4577723151934,
+      "latitude": 44.8071856981711
     },
     {
       "id": "_20",
-      "label": "Dorćol (Kneginje Ljubice)",
-      "longitude": 20.4641043800112,
-      "latitude": 44.8210603098234
+      "label": "RK Beograđanka",
+      "longitude": 20.4640052256771,
+      "latitude": 44.806306029719
     },
     {
       "id": "_21",
-      "label": "Pijaca Skadarlija",
-      "longitude": 20.4670188803185,
-      "latitude": 44.8181778406019
+      "label": "Tašmajdan",
+      "longitude": 20.4675232051312,
+      "latitude": 44.8092238572375
     },
     {
       "id": "_22",
-      "label": "Bulevar despota Stefana",
-      "longitude": 20.4692938734787,
-      "latitude": 44.8163434835923
-    },
-    {
-      "id": "_23",
-      "label": "Takovska",
-      "longitude": 20.4718837356293,
-      "latitude": 44.8135133831198
-    },
-    {
-      "id": "_24",
-      "label": "Palilulska pijaca",
-      "longitude": 20.4744349063776,
-      "latitude": 44.8104598570345
-    },
-    {
-      "id": "_25",
-      "label": "Mašinski fakultet",
-      "longitude": 20.476835962319,
-      "latitude": 44.8077619695552
-    },
-    {
-      "id": "_26",
-      "label": "Vukov spomenik",
-      "longitude": 20.4779759224612,
-      "latitude": 44.8055460757338
-    },
-    {
-      "id": "_27",
-      "label": "Pravni fakultet",
-      "longitude": 20.4709215420853,
-      "latitude": 44.8075440642306
-    },
-    {
-      "id": "_28",
-      "label": "Tašmajdan (park)",
-      "longitude": 20.4682214075284,
-      "latitude": 44.8097382681872
-    }
-  ],
-  "direction_b": [
-    {
-      "id": "_1",
-      "label": "Tašmajdan (park)",
-      "longitude": 20.4682214075284,
-      "latitude": 44.8097382681872
-    },
-    {
-      "id": "_2",
       "label": "Pravni fakultet",
       "longitude": 20.4728884168429,
       "latitude": 44.8064497728219
     },
     {
-      "id": "_3",
+      "id": "_23",
       "label": "Vukov spomenik",
       "longitude": 20.4783354886266,
       "latitude": 44.8054847139866
     },
     {
+      "id": "_24",
+      "label": "Dalmatinska",
+      "longitude": 20.4802461581991,
+      "latitude": 44.8066957208867
+    },
+    {
+      "id": "_25",
+      "label": "Novo groblje",
+      "longitude": 20.4866497871415,
+      "latitude": 44.8107779308082
+    },
+    {
+      "id": "_26",
+      "label": "Vatrogasna komanda",
+      "longitude": 20.4889041974732,
+      "latitude": 44.8126202954361
+    },
+    {
+      "id": "_27",
+      "label": "Omladinski stadion",
+      "longitude": 20.4912152864622,
+      "latitude": 44.8146482563707
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Omladinski stadion",
+      "longitude": 20.4902263510143,
+      "latitude": 44.8140966974399
+    },
+    {
+      "id": "_2",
+      "label": "Vatrogasna komanda",
+      "longitude": 20.4879102459397,
+      "latitude": 44.8120704938242
+    },
+    {
+      "id": "_3",
+      "label": "Novo groblje",
+      "longitude": 20.4848471309767,
+      "latitude": 44.8099022992411
+    },
+    {
       "id": "_4",
-      "label": "Mašinski fakultet",
-      "longitude": 20.4773121674271,
-      "latitude": 44.8076651445898
+      "label": "Dalmatinska",
+      "longitude": 20.480615642886,
+      "latitude": 44.8072229663571
     },
     {
       "id": "_5",
-      "label": "Palilulska pijaca",
-      "longitude": 20.4748550255486,
-      "latitude": 44.8104167826562
+      "label": "Vukov spomenik",
+      "longitude": 20.4779759224612,
+      "latitude": 44.8055460757338
     },
     {
       "id": "_6",
-      "label": "Takovska",
-      "longitude": 20.4724907468709,
-      "latitude": 44.8132191907578
+      "label": "Pravni fakultet",
+      "longitude": 20.4709215420853,
+      "latitude": 44.8075440642306
     },
     {
       "id": "_7",
-      "label": "Bulevar despota Stefana",
-      "longitude": 20.4693722603082,
-      "latitude": 44.8166210312405
+      "label": "Tašmajdan",
+      "longitude": 20.4668216452116,
+      "latitude": 44.8088012215806
     },
     {
       "id": "_8",
-      "label": "Pijaca Skadarlija",
-      "longitude": 20.4670683534984,
-      "latitude": 44.8185740490402
+      "label": "RK Beograđanka",
+      "longitude": 20.4636650467926,
+      "latitude": 44.8061820465532
     },
     {
       "id": "_9",
-      "label": "Dorćol (Kneginje Ljubice)",
-      "longitude": 20.464340466377,
-      "latitude": 44.821237802558
-    },
-    {
-      "id": "_10",
-      "label": "Kralja Petra",
-      "longitude": 20.4602737388993,
-      "latitude": 44.8234326253102
-    },
-    {
-      "id": "_11",
-      "label": "Braće Baruh",
-      "longitude": 20.457223365058,
-      "latitude": 44.8250921444758
-    },
-    {
-      "id": "_12",
-      "label": "Kalemegdan",
-      "longitude": 20.453380325682,
-      "latitude": 44.8203887565742
-    },
-    {
-      "id": "_13",
-      "label": "Pristanište",
-      "longitude": 20.4494882357202,
-      "latitude": 44.8185270476159
-    },
-    {
-      "id": "_14",
-      "label": "Brankov most",
-      "longitude": 20.4508202345166,
-      "latitude": 44.8148544282538
-    },
-    {
-      "id": "_15",
       "label": "Savski trg",
       "longitude": 20.4551244233126,
       "latitude": 44.8069913639237
     },
     {
-      "id": "_16",
+      "id": "_10",
       "label": "Palata pravde",
       "longitude": 20.4529799723594,
       "latitude": 44.8043478962616
     },
     {
-      "id": "_17",
+      "id": "_11",
       "label": "Mostar",
       "longitude": 20.4486350644162,
       "latitude": 44.7986303891075
     },
     {
-      "id": "_18",
+      "id": "_12",
       "label": "Sajam",
       "longitude": 20.4426590708312,
       "latitude": 44.796504619626
     },
     {
-      "id": "_19",
+      "id": "_13",
       "label": "Ruska",
       "longitude": 20.4374397384238,
       "latitude": 44.7951202128383
     },
     {
-      "id": "_20",
+      "id": "_14",
       "label": "Gospodarska mehana",
       "longitude": 20.4310885028724,
       "latitude": 44.7937065604959
     },
     {
+      "id": "_15",
+      "label": "Petlja Radnička",
+      "longitude": 20.4268509438944,
+      "latitude": 44.7925296916658
+    },
+    {
+      "id": "_16",
+      "label": "Đorđa Stanojevića",
+      "longitude": 20.4153358371524,
+      "latitude": 44.8072472595144
+    },
+    {
+      "id": "_17",
+      "label": "Železnička stanica Novi Beograd",
+      "longitude": 20.4181635702835,
+      "latitude": 44.8066388705408
+    },
+    {
+      "id": "_18",
+      "label": "Blok 42",
+      "longitude": 20.4162868182205,
+      "latitude": 44.8039420741291
+    },
+    {
+      "id": "_19",
+      "label": "Naselje Belvil",
+      "longitude": 20.4098832576807,
+      "latitude": 44.8042024521749
+    },
+    {
+      "id": "_20",
+      "label": "Agostina Neta",
+      "longitude": 20.4028483070408,
+      "latitude": 44.8045388614681
+    },
+    {
       "id": "_21",
-      "label": "Hipodrom",
-      "longitude": 20.4240172619421,
-      "latitude": 44.7876901668467
+      "label": "Omladinskih brigada",
+      "longitude": 20.3985502585268,
+      "latitude": 44.8045434009206
     },
     {
       "id": "_22",
-      "label": "Kneza Višeslava",
-      "longitude": 20.4211209252658,
-      "latitude": 44.7831002074612
+      "label": "Blok 70",
+      "longitude": 20.3935199150232,
+      "latitude": 44.8042199250472
     },
     {
       "id": "_23",
-      "label": "Škola Josif Pančić",
-      "longitude": 20.4171984049806,
-      "latitude": 44.7810968392086
+      "label": "Gandijeva",
+      "longitude": 20.3871764884801,
+      "latitude": 44.8032718499268
     },
     {
       "id": "_24",
-      "label": "Dom zdravlja",
-      "longitude": 20.4144724285048,
-      "latitude": 44.77774411363
+      "label": "Nehruova",
+      "longitude": 20.3802730524801,
+      "latitude": 44.8015158383245
     },
     {
       "id": "_25",
-      "label": "Kijevska",
-      "longitude": 20.4135459176844,
-      "latitude": 44.775395889586
+      "label": "OŠ Branko Radičević",
+      "longitude": 20.3754303188382,
+      "latitude": 44.7997652517958
     },
     {
       "id": "_26",
-      "label": "Trebevićka",
-      "longitude": 20.4140922912439,
-      "latitude": 44.7713254696764
+      "label": "Dr Ivana Ribara",
+      "longitude": 20.3715952348733,
+      "latitude": 44.7969652391675
     },
     {
       "id": "_27",
-      "label": "Banovo brdo",
-      "longitude": 20.4137567264161,
-      "latitude": 44.7682656941975
+      "label": "Blok 45",
+      "longitude": 20.3739327239249,
+      "latitude": 44.793990174801
     }
   ]
 }

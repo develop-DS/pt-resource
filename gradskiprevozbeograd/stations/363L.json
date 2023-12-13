@@ -3,8 +3,8 @@
     {
       "id": "_1",
       "label": "Živkovac okretnica",
-      "longitude": 20.8157979810184,
-      "latitude": 44.5929139883967
+      "longitude": 20.8158409229942,
+      "latitude": 44.5930152201944
     },
     {
       "id": "_2",
@@ -75,89 +75,131 @@
     {
       "id": "_13",
       "label": "Pudarci - Trafo",
+      "longitude": 20.7225215075491,
+      "latitude": 44.6124866460561
+    },
+    {
+      "id": "_14",
+      "label": "Manastir Rajinovac",
+      "longitude": 20.7131150480441,
+      "latitude": 44.6260322036451
+    },
+    {
+      "id": "_15",
+      "label": "Begaljica (Donji kraj)",
+      "longitude": 20.7061278922763,
+      "latitude": 44.6303978008043
+    },
+    {
+      "id": "_16",
+      "label": "Begaljica",
+      "longitude": 20.6951004118232,
+      "latitude": 44.6323384367321
+    },
+    {
+      "id": "_17",
+      "label": "Begaljica (Donji kraj)",
+      "longitude": 20.7063746323925,
+      "latitude": 44.6300542152059
+    },
+    {
+      "id": "_18",
+      "label": "Manastir Rajinovac",
+      "longitude": 20.7133859614271,
+      "latitude": 44.6254308822887
+    },
+    {
+      "id": "_19",
+      "label": "Pudarci - Trafo",
+      "longitude": 20.7224625117914,
+      "latitude": 44.6123071629123
+    },
+    {
+      "id": "_20",
+      "label": "Pudarci - Trafo",
       "longitude": 20.7241684320229,
       "latitude": 44.6134680653523
     },
     {
-      "id": "_14",
+      "id": "_21",
       "label": "Kamendol R",
       "longitude": 20.7282371520996,
       "latitude": 44.6149101257324
     },
     {
-      "id": "_15",
+      "id": "_22",
       "label": "Kamendol ulaz - Pesak",
       "longitude": 20.7454919891219,
       "latitude": 44.6106803329491
     },
     {
-      "id": "_16",
+      "id": "_23",
       "label": "Kamendol - Centar",
       "longitude": 20.7555294036865,
       "latitude": 44.6139678955078
     },
     {
-      "id": "_17",
+      "id": "_24",
       "label": "Trajna jaruga - Okretnica",
       "longitude": 20.7651284306581,
       "latitude": 44.6223630919457
     },
     {
-      "id": "_18",
+      "id": "_25",
       "label": "Bukovača",
       "longitude": 20.7422734098906,
       "latitude": 44.6218533686974
     },
     {
-      "id": "_19",
+      "id": "_26",
       "label": "Institut",
       "longitude": 20.7513928687552,
       "latitude": 44.6423609462747
     },
     {
-      "id": "_20",
+      "id": "_27",
       "label": "Brestovik R",
       "longitude": 20.7584631229788,
       "latitude": 44.6474943413635
     },
     {
-      "id": "_21",
+      "id": "_28",
       "label": "Brestovik - Ulaz",
       "longitude": 20.763076543808,
       "latitude": 44.6450441083287
     },
     {
-      "id": "_22",
+      "id": "_29",
       "label": "Brestovik centar - Okretnica",
       "longitude": 20.766965804758,
       "latitude": 44.6450822747458
     },
     {
-      "id": "_23",
+      "id": "_30",
       "label": "Brestovik - Izlaz",
       "longitude": 20.7631999650237,
       "latitude": 44.6451204411378
     },
     {
-      "id": "_24",
+      "id": "_31",
       "label": "Brestovik R",
       "longitude": 20.7586509293958,
       "latitude": 44.6474561765334
     },
     {
-      "id": "_25",
+      "id": "_32",
       "label": "Brestovik - Vikend naselje",
       "longitude": 20.7456073760986,
       "latitude": 44.6562461853027
     },
     {
-      "id": "_26",
+      "id": "_33",
       "label": "Alaska koliba",
       "longitude": 20.7349414825439,
       "latitude": 44.6623382568359
     },
     {
-      "id": "_27",
+      "id": "_34",
       "label": "Šumadijska",
       "longitude": 20.7156234631521,
       "latitude": 44.6741732893128
@@ -251,77 +293,119 @@
     {
       "id": "_15",
       "label": "Pudarci - Trafo",
-      "longitude": 20.7239484482364,
-      "latitude": 44.6131281982904
+      "longitude": 20.7238143399986,
+      "latitude": 44.6133038601662
     },
     {
       "id": "_16",
+      "label": "Pudarci - Trafo",
+      "longitude": 20.7225215075491,
+      "latitude": 44.6124866460561
+    },
+    {
+      "id": "_17",
+      "label": "Manastir Rajinovac",
+      "longitude": 20.7131150480441,
+      "latitude": 44.6260322036451
+    },
+    {
+      "id": "_18",
+      "label": "Begaljica (Donji kraj)",
+      "longitude": 20.7061278922763,
+      "latitude": 44.6303978008043
+    },
+    {
+      "id": "_19",
+      "label": "Begaljica",
+      "longitude": 20.6951004118232,
+      "latitude": 44.6323384367321
+    },
+    {
+      "id": "_20",
+      "label": "Begaljica (Donji kraj)",
+      "longitude": 20.7063746323925,
+      "latitude": 44.6300542152059
+    },
+    {
+      "id": "_21",
+      "label": "Manastir Rajinovac",
+      "longitude": 20.7133859614271,
+      "latitude": 44.6254308822887
+    },
+    {
+      "id": "_22",
+      "label": "Pudarci - Trafo",
+      "longitude": 20.7224625117914,
+      "latitude": 44.6123071629123
+    },
+    {
+      "id": "_23",
       "label": "Pudarci - Prodavnica",
       "longitude": 20.7247906527284,
       "latitude": 44.6077893513067
     },
     {
-      "id": "_17",
+      "id": "_24",
       "label": "Pudarci čokanj",
       "longitude": 20.7256355285645,
       "latitude": 44.5996475219727
     },
     {
-      "id": "_18",
+      "id": "_25",
       "label": "Umčari - Čekerac",
       "longitude": 20.7279020365093,
       "latitude": 44.5927057941452
     },
     {
-      "id": "_19",
+      "id": "_26",
       "label": "Umčari centar odlazna",
       "longitude": 20.7359566968652,
       "latitude": 44.5830898451768
     },
     {
-      "id": "_20",
+      "id": "_27",
       "label": "Miloša Obrenovića",
       "longitude": 20.7463824748993,
       "latitude": 44.5823562629092
     },
     {
-      "id": "_21",
+      "id": "_28",
       "label": "Prodavnica - Donji kraj",
       "longitude": 20.7543271780014,
       "latitude": 44.5837852114886
     },
     {
-      "id": "_22",
+      "id": "_29",
       "label": "Umčari - Donji kraj - Škola",
       "longitude": 20.7644551992416,
       "latitude": 44.5846219324536
     },
     {
-      "id": "_23",
+      "id": "_30",
       "label": "Živkovac - Ulaz",
       "longitude": 20.7712089680326,
       "latitude": 44.5859285685024
     },
     {
-      "id": "_24",
+      "id": "_31",
       "label": "Živkovac (Mač. brest)",
       "longitude": 20.7932406785744,
       "latitude": 44.5881406134588
     },
     {
-      "id": "_25",
+      "id": "_32",
       "label": "Živkovac - Prodavnica",
       "longitude": 20.8020221943344,
       "latitude": 44.5888015362918
     },
     {
-      "id": "_26",
+      "id": "_33",
       "label": "Živkovac - Stara O",
       "longitude": 20.8082985938916,
       "latitude": 44.590176842952
     },
     {
-      "id": "_27",
+      "id": "_34",
       "label": "Živkovac okretnica",
       "longitude": 20.8157979810184,
       "latitude": 44.5929139883967

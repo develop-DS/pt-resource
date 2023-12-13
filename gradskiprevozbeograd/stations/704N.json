@@ -68,150 +68,168 @@
     },
     {
       "id": "_12",
+      "label": "Aleksandra Dubčeka",
+      "longitude": 20.4106325818005,
+      "latitude": 44.8392074367307
+    },
+    {
+      "id": "_13",
+      "label": "KBC Zemun",
+      "longitude": 20.4063517433083,
+      "latitude": 44.8412354412422
+    },
+    {
+      "id": "_14",
+      "label": "Novogradska",
+      "longitude": 20.4019712562394,
+      "latitude": 44.8455396318512
+    },
+    {
+      "id": "_15",
       "label": "Poljoprivredni fakultet",
       "longitude": 20.4129324986627,
       "latitude": 44.8394208199693
     },
     {
-      "id": "_13",
+      "id": "_16",
       "label": "Zemun (pošta)",
       "longitude": 20.4133320184886,
       "latitude": 44.8421929039194
     },
     {
-      "id": "_14",
+      "id": "_17",
       "label": "Trg Branka Radičevića",
       "longitude": 20.4095407482245,
       "latitude": 44.8460720216037
     },
     {
-      "id": "_15",
+      "id": "_18",
       "label": "Nade Dimić",
       "longitude": 20.4028827140265,
       "latitude": 44.8491657672126
     },
     {
-      "id": "_16",
+      "id": "_19",
       "label": "Dunavska",
       "longitude": 20.3978588906259,
       "latitude": 44.8510077899931
     },
     {
-      "id": "_17",
+      "id": "_20",
       "label": "Tršćanska",
       "longitude": 20.3905122701023,
       "latitude": 44.8537768135237
     },
     {
-      "id": "_18",
+      "id": "_21",
       "label": "Filipa Višnjića",
       "longitude": 20.3867265075406,
       "latitude": 44.8552415413263
     },
     {
-      "id": "_19",
+      "id": "_22",
       "label": "Ruska",
       "longitude": 20.3808914653133,
       "latitude": 44.8578326286961
     },
     {
-      "id": "_20",
+      "id": "_23",
       "label": "Zemun (Gornji grad)",
       "longitude": 20.3780768215081,
       "latitude": 44.8590737214802
     },
     {
-      "id": "_21",
+      "id": "_24",
       "label": "Galenika",
       "longitude": 20.3680025951228,
       "latitude": 44.8623088372807
     },
     {
-      "id": "_22",
+      "id": "_25",
       "label": "Galenika (kapija)",
       "longitude": 20.3656790270894,
       "latitude": 44.8595619744807
     },
     {
-      "id": "_23",
+      "id": "_26",
       "label": "Mihajla Vukše",
       "longitude": 20.3684183556983,
       "latitude": 44.8580597884771
     },
     {
-      "id": "_24",
+      "id": "_27",
       "label": "Nova Galenika",
       "longitude": 20.3698996376044,
       "latitude": 44.8570456001051
     },
     {
-      "id": "_25",
+      "id": "_28",
       "label": "Mihajla Vukše",
       "longitude": 20.36772539134,
       "latitude": 44.8584861432348
     },
     {
-      "id": "_26",
+      "id": "_29",
       "label": "Galenika",
       "longitude": 20.3676875845358,
       "latitude": 44.8617221365937
     },
     {
-      "id": "_27",
+      "id": "_30",
       "label": "Geomašina",
       "longitude": 20.3639440423549,
       "latitude": 44.8652364128365
     },
     {
-      "id": "_28",
+      "id": "_31",
       "label": "Preduzeće Galenika Magmasil",
       "longitude": 20.3587940672045,
       "latitude": 44.8674899859596
     },
     {
-      "id": "_29",
+      "id": "_32",
       "label": "Coca-Cola",
       "longitude": 20.3537456511705,
       "latitude": 44.8696791024904
     },
     {
-      "id": "_30",
+      "id": "_33",
       "label": "Elektronska industrija",
       "longitude": 20.3437621054869,
       "latitude": 44.8740105149142
     },
     {
-      "id": "_31",
+      "id": "_34",
       "label": "Put za Novi Sad",
       "longitude": 20.335508095428,
       "latitude": 44.872643654094
     },
     {
-      "id": "_32",
+      "id": "_35",
       "label": "Institut za kukuruz",
       "longitude": 20.329718432522,
       "latitude": 44.8703024944262
     },
     {
-      "id": "_33",
+      "id": "_36",
       "label": "Braće Krnješevac",
       "longitude": 20.3239933351845,
       "latitude": 44.8683252571178
     },
     {
-      "id": "_34",
+      "id": "_37",
       "label": "Vrtić Bubamara",
       "longitude": 20.3224496979237,
       "latitude": 44.8708987222292
     },
     {
-      "id": "_35",
+      "id": "_38",
       "label": "Franje Krča",
       "longitude": 20.3239237810028,
       "latitude": 44.8725525214473
     },
     {
-      "id": "_36",
+      "id": "_39",
       "label": "Zemun polje",
       "longitude": 20.3188462382876,
       "latitude": 44.8759926411738
@@ -358,84 +376,90 @@
     },
     {
       "id": "_24",
+      "label": "Kej oslobođenja 1",
+      "longitude": 20.4165859222412,
+      "latitude": 44.8436393737793
+    },
+    {
+      "id": "_25",
       "label": "RK Beograd",
       "longitude": 20.4120435355163,
       "latitude": 44.8435182287916
     },
     {
-      "id": "_25",
+      "id": "_26",
       "label": "Zemun (pošta)",
       "longitude": 20.4142591498469,
       "latitude": 44.8408207220637
     },
     {
-      "id": "_26",
+      "id": "_27",
       "label": "22. oktobra",
       "longitude": 20.4112100833161,
       "latitude": 44.8378892786298
     },
     {
-      "id": "_27",
+      "id": "_28",
       "label": "Džona Kenedija",
       "longitude": 20.4096906443783,
       "latitude": 44.8340674860514
     },
     {
-      "id": "_28",
+      "id": "_29",
       "label": "Bulevar Maršala Tolbuhina",
       "longitude": 20.4111070310089,
       "latitude": 44.8298414053327
     },
     {
-      "id": "_29",
+      "id": "_30",
       "label": "Arhiv",
       "longitude": 20.4120381076528,
       "latitude": 44.8270653368328
     },
     {
-      "id": "_30",
+      "id": "_31",
       "label": "GO Novi Beograd",
       "longitude": 20.4143294950621,
       "latitude": 44.8235618536657
     },
     {
-      "id": "_31",
+      "id": "_32",
       "label": "Blok 30",
       "longitude": 20.4184323780619,
       "latitude": 44.821719831442
     },
     {
-      "id": "_32",
+      "id": "_33",
       "label": "Španskih boraca",
       "longitude": 20.4232029819831,
       "latitude": 44.8195876365891
     },
     {
-      "id": "_33",
+      "id": "_34",
       "label": "Palata Srbija",
       "longitude": 20.4287330074861,
       "latitude": 44.8170828462379
     },
     {
-      "id": "_34",
+      "id": "_35",
       "label": "Šest kaplara",
       "longitude": 20.4353431924352,
       "latitude": 44.814485913854
     },
     {
-      "id": "_35",
+      "id": "_36",
       "label": "Brankov most",
       "longitude": 20.4526067155746,
       "latitude": 44.8149925584042
     },
     {
-      "id": "_36",
+      "id": "_37",
       "label": "Zeleni venac",
       "longitude": 20.4568381962374,
       "latitude": 44.8143467033491
     },
     {
-      "id": "_37",
+      "id": "_38",
       "label": "Trg republike",
       "longitude": 20.4610306188357,
       "latitude": 44.8162671711599

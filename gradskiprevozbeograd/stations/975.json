@@ -1,0 +1,366 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Obrenovac AS",
+      "longitude": 20.1980316767353,
+      "latitude": 44.6561914511737
+    },
+    {
+      "id": "_2",
+      "label": "Cara Lazara",
+      "longitude": 20.1890833,
+      "latitude": 44.6481917
+    },
+    {
+      "id": "_3",
+      "label": "Filipovića kraj",
+      "longitude": 20.184765,
+      "latitude": 44.644315
+    },
+    {
+      "id": "_4",
+      "label": "Cveja puškara",
+      "longitude": 20.1823533,
+      "latitude": 44.6361667
+    },
+    {
+      "id": "_5",
+      "label": "Zvečka - Čivija",
+      "longitude": 20.1785383,
+      "latitude": 44.6280066
+    },
+    {
+      "id": "_6",
+      "label": "Zvečka - rampa",
+      "longitude": 20.1732367,
+      "latitude": 44.6223433
+    },
+    {
+      "id": "_7",
+      "label": "Stubline - Magacin",
+      "longitude": 20.1625483,
+      "latitude": 44.614285
+    },
+    {
+      "id": "_8",
+      "label": "Stubline - Janoševa kafana",
+      "longitude": 20.1530778606056,
+      "latitude": 44.6071668357713
+    },
+    {
+      "id": "_9",
+      "label": "Grabovac - Voćnjak",
+      "longitude": 20.146765,
+      "latitude": 44.6070133
+    },
+    {
+      "id": "_10",
+      "label": "Grabovac - spomenik ",
+      "longitude": 20.1298873824602,
+      "latitude": 44.6036645841545
+    },
+    {
+      "id": "_11",
+      "label": "Grabovac - Mićurina kuća",
+      "longitude": 20.1168517,
+      "latitude": 44.601055
+    },
+    {
+      "id": "_12",
+      "label": "Grabovac - Ekonomija",
+      "longitude": 20.1098867,
+      "latitude": 44.5989233
+    },
+    {
+      "id": "_13",
+      "label": "Grabovac - Dom Zdravlja",
+      "longitude": 20.1044833,
+      "latitude": 44.6013117
+    },
+    {
+      "id": "_14",
+      "label": "Grabovac - Lazića prodavnica",
+      "longitude": 20.0936374053029,
+      "latitude": 44.6007866217657
+    },
+    {
+      "id": "_15",
+      "label": "Grabovac - Brankovići",
+      "longitude": 20.0885216,
+      "latitude": 44.599145
+    },
+    {
+      "id": "_16",
+      "label": "Grabovac - Ševar",
+      "longitude": 20.0806956630346,
+      "latitude": 44.5969764920801
+    },
+    {
+      "id": "_17",
+      "label": "Grabovac - Filimonovića put",
+      "longitude": 20.0726983,
+      "latitude": 44.5908033
+    },
+    {
+      "id": "_18",
+      "label": "Drenski put (raskrsnica)",
+      "longitude": 20.0625532103966,
+      "latitude": 44.5820391385425
+    },
+    {
+      "id": "_19",
+      "label": "Vukina kuća",
+      "longitude": 20.0538317,
+      "latitude": 44.57442
+    },
+    {
+      "id": "_20",
+      "label": "Orašac - Vasići",
+      "longitude": 20.0486213,
+      "latitude": 44.5789766
+    },
+    {
+      "id": "_21",
+      "label": "Orašac (okretnica)",
+      "longitude": 20.0412583,
+      "latitude": 44.587925
+    },
+    {
+      "id": "_22",
+      "label": "Orašac - Vasići",
+      "longitude": 20.0485237,
+      "latitude": 44.5789967
+    },
+    {
+      "id": "_23",
+      "label": "Vukina kuća",
+      "longitude": 20.0537717,
+      "latitude": 44.574401
+    },
+    {
+      "id": "_24",
+      "label": "Orašac farma - okretnica",
+      "longitude": 20.0354233,
+      "latitude": 44.5809738
+    },
+    {
+      "id": "_25",
+      "label": "Orašac - Mikići",
+      "longitude": 20.0475233,
+      "latitude": 44.5693483
+    },
+    {
+      "id": "_26",
+      "label": "Orašac r - mlin",
+      "longitude": 20.0396783,
+      "latitude": 44.5631733
+    },
+    {
+      "id": "_27",
+      "label": "Orašac - šuma",
+      "longitude": 20.0340198465263,
+      "latitude": 44.5597444003189
+    },
+    {
+      "id": "_28",
+      "label": "Vukićevica - Rakičina kuća",
+      "longitude": 20.0251526371584,
+      "latitude": 44.5546988104658
+    },
+    {
+      "id": "_29",
+      "label": "Vukićevica - Arsenovića brdo",
+      "longitude": 20.0132183,
+      "latitude": 44.558355
+    },
+    {
+      "id": "_30",
+      "label": "Vukićevica II",
+      "longitude": 20.0092083,
+      "latitude": 44.559455
+    },
+    {
+      "id": "_31",
+      "label": "Vukićevica (Zorkina okretnica - Arsenovića kraj)",
+      "longitude": 20.0047917,
+      "latitude": 44.5608683
+    },
+    {
+      "id": "_32",
+      "label": "Vukićevica II",
+      "longitude": 19.998525,
+      "latitude": 44.5630716
+    },
+    {
+      "id": "_33",
+      "label": "Vukićevica - Arsenovića brdo",
+      "longitude": 20.0134267,
+      "latitude": 44.55826
+    },
+    {
+      "id": "_34",
+      "label": "Vukićevica - Prodavnica",
+      "longitude": 20.0185,
+      "latitude": 44.5508916
+    },
+    {
+      "id": "_35",
+      "label": "Vukićevica - Okretnica",
+      "longitude": 20.0070383,
+      "latitude": 44.5444325
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Vukićevica - Okretnica",
+      "longitude": 20.0072733,
+      "latitude": 44.5445014
+    },
+    {
+      "id": "_2",
+      "label": "Vukićevica - Prodavnica",
+      "longitude": 20.0185811793784,
+      "latitude": 44.5508034687594
+    },
+    {
+      "id": "_3",
+      "label": "Vukićevica - Rakičina kuća",
+      "longitude": 20.0250292159426,
+      "latitude": 44.5544962132524
+    },
+    {
+      "id": "_4",
+      "label": "Orašac - šuma",
+      "longitude": 20.034411586123,
+      "latitude": 44.5599087568725
+    },
+    {
+      "id": "_5",
+      "label": "Orašac - Mikići",
+      "longitude": 20.0474933,
+      "latitude": 44.5693
+    },
+    {
+      "id": "_6",
+      "label": "Orašac R - Vukina kuća",
+      "longitude": 20.0539033,
+      "latitude": 44.574365
+    },
+    {
+      "id": "_7",
+      "label": "Drenski put (raskrsnica)",
+      "longitude": 20.062867207056,
+      "latitude": 44.5821556723964
+    },
+    {
+      "id": "_8",
+      "label": "Grabovac - Filimonovića put",
+      "longitude": 20.072241474254,
+      "latitude": 44.5902914503714
+    },
+    {
+      "id": "_9",
+      "label": "Grabovac - Ševar",
+      "longitude": 20.0810176469195,
+      "latitude": 44.5969268346053
+    },
+    {
+      "id": "_10",
+      "label": "Grabovac - Brankovići",
+      "longitude": 20.0885116,
+      "latitude": 44.599085
+    },
+    {
+      "id": "_11",
+      "label": "Grabovac - Lazića prodavnica",
+      "longitude": 20.09364,
+      "latitude": 44.600725
+    },
+    {
+      "id": "_12",
+      "label": "Grabovac - Dom Zdravlja",
+      "longitude": 20.1047122356636,
+      "latitude": 44.6010940950205
+    },
+    {
+      "id": "_13",
+      "label": "Grabovac - Ekonomija",
+      "longitude": 20.109795,
+      "latitude": 44.59873
+    },
+    {
+      "id": "_14",
+      "label": "Grabovac - Mićurina kuća",
+      "longitude": 20.1171845654613,
+      "latitude": 44.6010177043017
+    },
+    {
+      "id": "_15",
+      "label": "Grabovac - Spomenik",
+      "longitude": 20.1301288817973,
+      "latitude": 44.6035958355539
+    },
+    {
+      "id": "_16",
+      "label": "Grabovac - Voćnjak",
+      "longitude": 20.1469067,
+      "latitude": 44.6070217
+    },
+    {
+      "id": "_17",
+      "label": "Stubline - Janoševa kafana",
+      "longitude": 20.153205,
+      "latitude": 44.60735
+    },
+    {
+      "id": "_18",
+      "label": "Stubline - Magacin",
+      "longitude": 20.1616517,
+      "latitude": 44.6136333
+    },
+    {
+      "id": "_19",
+      "label": "Zvečka - rampa",
+      "longitude": 20.174345,
+      "latitude": 44.6232133
+    },
+    {
+      "id": "_20",
+      "label": "Zvečka - Čivija",
+      "longitude": 20.1791467,
+      "latitude": 44.6286783
+    },
+    {
+      "id": "_21",
+      "label": "Cveja puškara",
+      "longitude": 20.1827533,
+      "latitude": 44.6368533
+    },
+    {
+      "id": "_22",
+      "label": "Filipovića kraj",
+      "longitude": 20.18599,
+      "latitude": 44.645165
+    },
+    {
+      "id": "_23",
+      "label": "Cara Lazara",
+      "longitude": 20.1891642961226,
+      "latitude": 44.6481164245535
+    },
+    {
+      "id": "_24",
+      "label": "Stočna pijaca",
+      "longitude": 20.19139,
+      "latitude": 44.6497367
+    },
+    {
+      "id": "_25",
+      "label": "Obrenovac AS",
+      "longitude": 20.1960387941531,
+      "latitude": 44.6553824727213
+    }
+  ]
+}

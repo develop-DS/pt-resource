@@ -2,216 +2,204 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "BAS",
-      "longitude": 20.4543059627735,
-      "latitude": 44.8101721002059
+      "label": "Banovo brdo",
+      "longitude": 20.4137161014555,
+      "latitude": 44.7687467281234
     },
     {
       "id": "_2",
-      "label": "Palata pravde 1",
-      "longitude": 20.4515238525443,
-      "latitude": 44.8029928139838
-    },
-    {
-      "id": "_3",
-      "label": "Sajam",
-      "longitude": 20.4415906546322,
-      "latitude": 44.7964130286058
-    },
-    {
-      "id": "_4",
       "label": "Žarkovo",
       "longitude": 20.4151557283503,
       "latitude": 44.7585334682741
     },
     {
-      "id": "_5",
+      "id": "_3",
       "label": "Jablanička",
       "longitude": 20.4118393017084,
       "latitude": 44.7479779594282
     },
     {
-      "id": "_6",
+      "id": "_4",
       "label": "Kneževac",
       "longitude": 20.4195843210249,
       "latitude": 44.7336791921276
     },
     {
-      "id": "_7",
+      "id": "_5",
       "label": "Naselje Petlovo brdo",
       "longitude": 20.4175269197565,
       "latitude": 44.7237165824988
     },
     {
-      "id": "_8",
+      "id": "_6",
       "label": "Lipovica",
       "longitude": 20.4239326484338,
       "latitude": 44.6492727945961
     },
     {
-      "id": "_9",
+      "id": "_7",
       "label": "Lipovica zavod",
       "longitude": 20.4165350825851,
       "latitude": 44.6463608352076
     },
     {
-      "id": "_10",
+      "id": "_8",
       "label": "Lipovica (policija)",
       "longitude": 20.4119476014656,
       "latitude": 44.6370678711624
     },
     {
-      "id": "_11",
+      "id": "_9",
       "label": "Velika Moštanica (r)",
       "longitude": 20.3798427581787,
       "latitude": 44.630615234375
     },
     {
-      "id": "_12",
+      "id": "_10",
       "label": "Meljak",
       "longitude": 20.372314453125,
       "latitude": 44.6250419616699
     },
     {
-      "id": "_13",
+      "id": "_11",
       "label": "Škola",
       "longitude": 20.3678493499756,
       "latitude": 44.6227684020996
     },
     {
-      "id": "_14",
+      "id": "_12",
       "label": "Mila Vukovića",
       "longitude": 20.3617536970274,
       "latitude": 44.6224833630708
     },
     {
-      "id": "_15",
+      "id": "_13",
       "label": "Milene Pavlović Barili",
       "longitude": 20.3586959915911,
       "latitude": 44.6243198531105
     },
     {
-      "id": "_16",
+      "id": "_14",
       "label": "Vite Radovića (Donji kraj)",
       "longitude": 20.3557205200195,
       "latitude": 44.6275482177734
     },
     {
-      "id": "_17",
+      "id": "_15",
       "label": "Vite Radovića (Srednji kraj)",
       "longitude": 20.3541393280029,
       "latitude": 44.6303901672363
     },
     {
-      "id": "_18",
+      "id": "_16",
       "label": "Vite Radovića (Gornji kraj)",
       "longitude": 20.3516632626672,
       "latitude": 44.6332800221136
     },
     {
-      "id": "_19",
+      "id": "_17",
       "label": "Meljački Taraiš",
       "longitude": 20.3448932952061,
       "latitude": 44.6329097314953
     },
     {
-      "id": "_20",
+      "id": "_18",
       "label": "Zvezda",
       "longitude": 20.3304039635858,
       "latitude": 44.629584644932
     },
     {
-      "id": "_21",
+      "id": "_19",
       "label": "Taraiš",
       "longitude": 20.3139031010424,
       "latitude": 44.6184741912979
     },
     {
-      "id": "_22",
+      "id": "_20",
       "label": "Lazića kuće",
       "longitude": 20.3070220947266,
       "latitude": 44.6163520812988
     },
     {
-      "id": "_23",
+      "id": "_21",
       "label": "Radnička",
       "longitude": 20.3005828857422,
       "latitude": 44.6143112182617
     },
     {
-      "id": "_24",
+      "id": "_22",
       "label": "Vinski put",
       "longitude": 20.2859401702881,
       "latitude": 44.6097183227539
     },
     {
-      "id": "_25",
+      "id": "_23",
       "label": "Braće Mitrović",
       "longitude": 20.2822856903076,
       "latitude": 44.6078147888184
     },
     {
-      "id": "_26",
+      "id": "_24",
       "label": "Vukove njive",
       "longitude": 20.2763977050781,
       "latitude": 44.6060523986816
     },
     {
-      "id": "_27",
+      "id": "_25",
       "label": "Deonice",
       "longitude": 20.2711111872132,
       "latitude": 44.6051923098423
     },
     {
-      "id": "_28",
+      "id": "_26",
       "label": "Đurđević sokak",
       "longitude": 20.2653999328613,
       "latitude": 44.6025848388672
     },
     {
-      "id": "_29",
+      "id": "_27",
       "label": "Jasenak - okretnica",
       "longitude": 20.2605110689369,
       "latitude": 44.6000169766084
     },
     {
-      "id": "_30",
+      "id": "_28",
       "label": "Đurđević šor",
       "longitude": 20.2541370391846,
       "latitude": 44.5960464477539
     },
     {
-      "id": "_31",
+      "id": "_29",
       "label": "Raskršće",
       "longitude": 20.2509994506836,
       "latitude": 44.5940780639648
     },
     {
-      "id": "_32",
+      "id": "_30",
       "label": "Groblje",
       "longitude": 20.2466118207318,
       "latitude": 44.5912083015909
     },
     {
-      "id": "_33",
+      "id": "_31",
       "label": "Stara škola - Anište",
       "longitude": 20.2422790527344,
       "latitude": 44.5879516601563
     },
     {
-      "id": "_34",
+      "id": "_32",
       "label": "Anište",
       "longitude": 20.2413272857666,
       "latitude": 44.5843048095703
     },
     {
-      "id": "_35",
+      "id": "_33",
       "label": "Reka Marica",
       "longitude": 20.236478805542,
       "latitude": 44.5797996520996
     },
     {
-      "id": "_36",
+      "id": "_34",
       "label": "Draževac - Dom",
       "longitude": 20.2309852633066,
       "latitude": 44.5749778973899
@@ -412,21 +400,9 @@
     },
     {
       "id": "_33",
-      "label": "Sajam",
-      "longitude": 20.4420563488721,
-      "latitude": 44.7963250729334
-    },
-    {
-      "id": "_34",
-      "label": "Palata pravde 1",
-      "longitude": 20.451327814778,
-      "latitude": 44.8034058554644
-    },
-    {
-      "id": "_35",
-      "label": "BAS",
-      "longitude": 20.4543059627735,
-      "latitude": 44.8101721002059
+      "label": "Banovo brdo",
+      "longitude": 20.4136250154943,
+      "latitude": 44.7678517247831
     }
   ]
 }

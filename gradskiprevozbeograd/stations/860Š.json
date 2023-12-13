@@ -1,0 +1,546 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Sremčica",
+      "longitude": 20.4039412301242,
+      "latitude": 44.650650421652
+    },
+    {
+      "id": "_2",
+      "label": "Lipovica (policija)",
+      "longitude": 20.4119476014656,
+      "latitude": 44.6370678711624
+    },
+    {
+      "id": "_3",
+      "label": "Velika Moštanica (r)",
+      "longitude": 20.3798427581787,
+      "latitude": 44.630615234375
+    },
+    {
+      "id": "_4",
+      "label": "Meljak",
+      "longitude": 20.372314453125,
+      "latitude": 44.6250419616699
+    },
+    {
+      "id": "_5",
+      "label": "Baćevac R Ibarska",
+      "longitude": 20.3598278632504,
+      "latitude": 44.6108101755115
+    },
+    {
+      "id": "_6",
+      "label": "Vranić R",
+      "longitude": 20.3553485870361,
+      "latitude": 44.6070175170898
+    },
+    {
+      "id": "_7",
+      "label": "Jozića kraj",
+      "longitude": 20.3482621831144,
+      "latitude": 44.6047607314072
+    },
+    {
+      "id": "_8",
+      "label": "Male Gunjice",
+      "longitude": 20.3429107666016,
+      "latitude": 44.6012649536133
+    },
+    {
+      "id": "_9",
+      "label": "Velike Gunjice",
+      "longitude": 20.3326034545898,
+      "latitude": 44.599879470693
+    },
+    {
+      "id": "_10",
+      "label": "Dom Zdravlja",
+      "longitude": 20.3246641287464,
+      "latitude": 44.6005211621808
+    },
+    {
+      "id": "_11",
+      "label": "Đoinčevića kuće",
+      "longitude": 20.3181785139627,
+      "latitude": 44.5980804049846
+    },
+    {
+      "id": "_12",
+      "label": "Vranić centar",
+      "longitude": 20.3096061970643,
+      "latitude": 44.5944859264218
+    },
+    {
+      "id": "_13",
+      "label": "Rašića kraj",
+      "longitude": 20.2972519320692,
+      "latitude": 44.5915100952867
+    },
+    {
+      "id": "_14",
+      "label": "Klupice",
+      "longitude": 20.2967476921831,
+      "latitude": 44.5962392652083
+    },
+    {
+      "id": "_15",
+      "label": "Stara škola",
+      "longitude": 20.3010768890381,
+      "latitude": 44.6006660461426
+    },
+    {
+      "id": "_16",
+      "label": "Taraiš - Ulaz",
+      "longitude": 20.295749959224,
+      "latitude": 44.6053909112308
+    },
+    {
+      "id": "_17",
+      "label": "Aleksića kuća",
+      "longitude": 20.2845656,
+      "latitude": 44.6091558
+    },
+    {
+      "id": "_18",
+      "label": "Vukove njive",
+      "longitude": 20.2763977050781,
+      "latitude": 44.6060523986816
+    },
+    {
+      "id": "_19",
+      "label": "Deonice",
+      "longitude": 20.2711111872132,
+      "latitude": 44.6051923098423
+    },
+    {
+      "id": "_20",
+      "label": "Đurđević sokak",
+      "longitude": 20.2653999328613,
+      "latitude": 44.6025848388672
+    },
+    {
+      "id": "_21",
+      "label": "Jasenak - okretnica",
+      "longitude": 20.2605110689369,
+      "latitude": 44.6000169766084
+    },
+    {
+      "id": "_22",
+      "label": "Jasenak - reka",
+      "longitude": 20.2539405822754,
+      "latitude": 44.6027336120605
+    },
+    {
+      "id": "_23",
+      "label": "Jasenak - Dom",
+      "longitude": 20.2514505643165,
+      "latitude": 44.6111538750109
+    },
+    {
+      "id": "_24",
+      "label": "Mihajla Desančića",
+      "longitude": 20.25387,
+      "latitude": 44.61848
+    },
+    {
+      "id": "_25",
+      "label": "Trafo-Šumadija",
+      "longitude": 20.260792,
+      "latitude": 44.617333
+    },
+    {
+      "id": "_26",
+      "label": "Čolakovići",
+      "longitude": 20.26943,
+      "latitude": 44.61857
+    },
+    {
+      "id": "_27",
+      "label": "Jasenak - Šumadija",
+      "longitude": 20.2794483,
+      "latitude": 44.6183983
+    },
+    {
+      "id": "_28",
+      "label": "Čolakovići",
+      "longitude": 20.26896,
+      "latitude": 44.61871
+    },
+    {
+      "id": "_29",
+      "label": "Trafo-Šumadija",
+      "longitude": 20.26025,
+      "latitude": 44.61764
+    },
+    {
+      "id": "_30",
+      "label": "Mihajla Desančića",
+      "longitude": 20.25441,
+      "latitude": 44.61894
+    },
+    {
+      "id": "_31",
+      "label": "Jasenak - Škola",
+      "longitude": 20.2504956902028,
+      "latitude": 44.6191844076173
+    },
+    {
+      "id": "_32",
+      "label": "Jezero vis",
+      "longitude": 20.2485644894396,
+      "latitude": 44.6240678641531
+    },
+    {
+      "id": "_33",
+      "label": "Jezerski put",
+      "longitude": 20.24272,
+      "latitude": 44.63072
+    },
+    {
+      "id": "_34",
+      "label": "Voćnjak",
+      "longitude": 20.23785,
+      "latitude": 44.63407
+    },
+    {
+      "id": "_35",
+      "label": "Trafo",
+      "longitude": 20.23405,
+      "latitude": 44.63438
+    },
+    {
+      "id": "_36",
+      "label": "Kik",
+      "longitude": 20.2296790023678,
+      "latitude": 44.6331597733574
+    },
+    {
+      "id": "_37",
+      "label": "Groblje",
+      "longitude": 20.22628,
+      "latitude": 44.63028
+    },
+    {
+      "id": "_38",
+      "label": "Mislođinska",
+      "longitude": 20.22422,
+      "latitude": 44.62851
+    },
+    {
+      "id": "_39",
+      "label": "Mislođin - Dom",
+      "longitude": 20.2194538116455,
+      "latitude": 44.6316833496094
+    },
+    {
+      "id": "_40",
+      "label": "Mislođin - Baćevački put",
+      "longitude": 20.215160369873,
+      "latitude": 44.6363105773926
+    },
+    {
+      "id": "_41",
+      "label": "Mislođin (vojska)",
+      "longitude": 20.2188295228686,
+      "latitude": 44.6405288439904
+    },
+    {
+      "id": "_42",
+      "label": "Mislođin (ulaz)",
+      "longitude": 20.2237358093262,
+      "latitude": 44.6460037231445
+    },
+    {
+      "id": "_43",
+      "label": "Barič - Izlaz",
+      "longitude": 20.2355251312256,
+      "latitude": 44.6498985290527
+    },
+    {
+      "id": "_44",
+      "label": "Mislođinski kanal",
+      "longitude": 20.2439296014444,
+      "latitude": 44.6514404492605
+    },
+    {
+      "id": "_45",
+      "label": "Industrijska zona Barič",
+      "longitude": 20.2494066953659,
+      "latitude": 44.6552450979009
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Industrijska zona Barič",
+      "longitude": 20.2486664056778,
+      "latitude": 44.6553214172857
+    },
+    {
+      "id": "_2",
+      "label": "Mislođinski kanal",
+      "longitude": 20.2436238604342,
+      "latitude": 44.6522113210033
+    },
+    {
+      "id": "_3",
+      "label": "Barič - Izlaz",
+      "longitude": 20.2348583988054,
+      "latitude": 44.6498986750362
+    },
+    {
+      "id": "_4",
+      "label": "Mislođin (ulaz)",
+      "longitude": 20.2234590053558,
+      "latitude": 44.6455708026668
+    },
+    {
+      "id": "_5",
+      "label": "Mislođin (vojska)",
+      "longitude": 20.2189689309661,
+      "latitude": 44.6407845784084
+    },
+    {
+      "id": "_6",
+      "label": "Mislođin - Baćevački put",
+      "longitude": 20.2151333669386,
+      "latitude": 44.6361621002862
+    },
+    {
+      "id": "_7",
+      "label": "Mislođin - Dom",
+      "longitude": 20.2193069226877,
+      "latitude": 44.6316385096424
+    },
+    {
+      "id": "_8",
+      "label": "Mislođinska",
+      "longitude": 20.2246,
+      "latitude": 44.62824
+    },
+    {
+      "id": "_9",
+      "label": "Groblje",
+      "longitude": 20.22637,
+      "latitude": 44.63021
+    },
+    {
+      "id": "_10",
+      "label": "Kik",
+      "longitude": 20.22983,
+      "latitude": 44.63322
+    },
+    {
+      "id": "_11",
+      "label": "Trafo",
+      "longitude": 20.23431,
+      "latitude": 44.63435
+    },
+    {
+      "id": "_12",
+      "label": "Voćnjak",
+      "longitude": 20.23844,
+      "latitude": 44.63381
+    },
+    {
+      "id": "_13",
+      "label": "Jezerski put",
+      "longitude": 20.2428191717479,
+      "latitude": 44.6305505048618
+    },
+    {
+      "id": "_14",
+      "label": "Jezero vis",
+      "longitude": 20.2484249863214,
+      "latitude": 44.6242244028766
+    },
+    {
+      "id": "_15",
+      "label": "Jasenak - Škola",
+      "longitude": 20.2502488524978,
+      "latitude": 44.6192149543609
+    },
+    {
+      "id": "_16",
+      "label": "Mihajla Desančića",
+      "longitude": 20.25387,
+      "latitude": 44.61848
+    },
+    {
+      "id": "_17",
+      "label": "Trafo-Šumadija",
+      "longitude": 20.260792,
+      "latitude": 44.617333
+    },
+    {
+      "id": "_18",
+      "label": "Čolakovići",
+      "longitude": 20.26943,
+      "latitude": 44.61857
+    },
+    {
+      "id": "_19",
+      "label": "Jasenak - Šumadija",
+      "longitude": 20.2794483,
+      "latitude": 44.6183983
+    },
+    {
+      "id": "_20",
+      "label": "Čolakovići",
+      "longitude": 20.26896,
+      "latitude": 44.61871
+    },
+    {
+      "id": "_21",
+      "label": "Trafo-Šumadija",
+      "longitude": 20.26025,
+      "latitude": 44.61764
+    },
+    {
+      "id": "_22",
+      "label": "Mihajla Desančića",
+      "longitude": 20.25441,
+      "latitude": 44.61894
+    },
+    {
+      "id": "_23",
+      "label": "Jasenak - Dom",
+      "longitude": 20.2512787925102,
+      "latitude": 44.6111767882385
+    },
+    {
+      "id": "_24",
+      "label": "Jasenak - reka",
+      "longitude": 20.2540951556339,
+      "latitude": 44.6024500135663
+    },
+    {
+      "id": "_25",
+      "label": "Veverički kraj",
+      "longitude": 20.2603017949988,
+      "latitude": 44.6000207962125
+    },
+    {
+      "id": "_26",
+      "label": "Đurđević sokak",
+      "longitude": 20.2658110702922,
+      "latitude": 44.6025989717027
+    },
+    {
+      "id": "_27",
+      "label": "Deonice",
+      "longitude": 20.2713096013409,
+      "latitude": 44.6051082859736
+    },
+    {
+      "id": "_28",
+      "label": "Vukove njive",
+      "longitude": 20.276668703747,
+      "latitude": 44.6059867113222
+    },
+    {
+      "id": "_29",
+      "label": "Aleksića kuća",
+      "longitude": 20.2850103378296,
+      "latitude": 44.6092329506155
+    },
+    {
+      "id": "_30",
+      "label": "Taraiš - Ulaz",
+      "longitude": 20.2954656681815,
+      "latitude": 44.6054443807193
+    },
+    {
+      "id": "_31",
+      "label": "Stara škola",
+      "longitude": 20.3010231115238,
+      "latitude": 44.6005459893877
+    },
+    {
+      "id": "_32",
+      "label": "Klupice",
+      "longitude": 20.2966779547487,
+      "latitude": 44.5961132099364
+    },
+    {
+      "id": "_33",
+      "label": "Rašića kraj",
+      "longitude": 20.2974799365283,
+      "latitude": 44.5915444767476
+    },
+    {
+      "id": "_34",
+      "label": "Vranić centar",
+      "longitude": 20.3099334496772,
+      "latitude": 44.5944591866408
+    },
+    {
+      "id": "_35",
+      "label": "Đoinčevića kuće",
+      "longitude": 20.3184789444855,
+      "latitude": 44.5980956839088
+    },
+    {
+      "id": "_36",
+      "label": "Dom Zdravlja",
+      "longitude": 20.3250825533527,
+      "latitude": 44.6004562294359
+    },
+    {
+      "id": "_37",
+      "label": "Velike Gunjice",
+      "longitude": 20.3327804983617,
+      "latitude": 44.5997763410428
+    },
+    {
+      "id": "_38",
+      "label": "Male Gunjice",
+      "longitude": 20.3432196353027,
+      "latitude": 44.6013118080182
+    },
+    {
+      "id": "_39",
+      "label": "Jozića kraj",
+      "longitude": 20.3487343520579,
+      "latitude": 44.6047378156485
+    },
+    {
+      "id": "_40",
+      "label": "Vranić R",
+      "longitude": 20.3554666016647,
+      "latitude": 44.6069185915192
+    },
+    {
+      "id": "_41",
+      "label": "Baćevac R Ibarska",
+      "longitude": 20.3599244690012,
+      "latitude": 44.6105619468303
+    },
+    {
+      "id": "_42",
+      "label": "Meljak",
+      "longitude": 20.3716993485997,
+      "latitude": 44.6244343931842
+    },
+    {
+      "id": "_43",
+      "label": "Velika Moštanica (r)",
+      "longitude": 20.3810012160777,
+      "latitude": 44.631926732053
+    },
+    {
+      "id": "_44",
+      "label": "Lipovica (policija)",
+      "longitude": 20.4121497106517,
+      "latitude": 44.6372519084437
+    },
+    {
+      "id": "_45",
+      "label": "Sremčica",
+      "longitude": 20.4039412301242,
+      "latitude": 44.650650421652
+    }
+  ]
+}

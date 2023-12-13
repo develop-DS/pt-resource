@@ -2,96 +2,114 @@
   "direction_a": [
     {
       "id": "_1",
+      "label": "Topčidersko brdo (Senjak)",
+      "longitude": 20.4430356220121,
+      "latitude": 44.7957234874612
+    },
+    {
+      "id": "_2",
+      "label": "Vojislava Vučkovića",
+      "longitude": 20.4418217878563,
+      "latitude": 44.7926109426166
+    },
+    {
+      "id": "_3",
+      "label": "Vase Pelagića",
+      "longitude": 20.4408353065082,
+      "latitude": 44.7887363287841
+    },
+    {
+      "id": "_4",
       "label": "Topčiderska zvezda",
       "longitude": 20.4441078798942,
       "latitude": 44.7887990299809
     },
     {
-      "id": "_2",
+      "id": "_5",
       "label": "Ortopedski zavod",
       "longitude": 20.4487869469579,
       "latitude": 44.7951410939727
     },
     {
-      "id": "_3",
+      "id": "_6",
       "label": "Višegradska",
       "longitude": 20.4555782103808,
       "latitude": 44.8017305887954
     },
     {
-      "id": "_4",
+      "id": "_7",
       "label": "Birčaninova",
       "longitude": 20.4595995767607,
       "latitude": 44.8050884275429
     },
     {
-      "id": "_5",
+      "id": "_8",
       "label": "London",
       "longitude": 20.462903918343,
       "latitude": 44.8078362004198
     },
     {
-      "id": "_6",
+      "id": "_9",
       "label": "Pionirski park",
       "longitude": 20.4641117754345,
       "latitude": 44.8120284281989
     },
     {
-      "id": "_7",
+      "id": "_10",
       "label": "Trg republike",
       "longitude": 20.4610306188357,
       "latitude": 44.8162671711599
     },
     {
-      "id": "_8",
+      "id": "_11",
       "label": "Dušanova",
       "longitude": 20.4647230266077,
       "latitude": 44.8189663109434
     },
     {
-      "id": "_9",
+      "id": "_12",
       "label": "Dunavska",
       "longitude": 20.4684370198097,
       "latitude": 44.8212784511384
     },
     {
-      "id": "_10",
+      "id": "_13",
       "label": "Železnička rampa",
       "longitude": 20.4708134396958,
       "latitude": 44.8227563546196
     },
     {
-      "id": "_11",
+      "id": "_14",
       "label": "Luka Beograd",
       "longitude": 20.4727013487668,
       "latitude": 44.8240123767051
     },
     {
-      "id": "_12",
+      "id": "_15",
       "label": "Knežopoljska",
       "longitude": 20.4771164190972,
       "latitude": 44.8212805285402
     },
     {
-      "id": "_13",
+      "id": "_16",
       "label": "Tempo",
       "longitude": 20.4849803847105,
       "latitude": 44.823405773937
     },
     {
-      "id": "_14",
+      "id": "_17",
       "label": "Viline vode",
       "longitude": 20.48533523637,
       "latitude": 44.8213176797633
     },
     {
-      "id": "_15",
+      "id": "_18",
       "label": "Klanički kej",
       "longitude": 20.4883193823756,
       "latitude": 44.8213220230034
     },
     {
-      "id": "_16",
+      "id": "_19",
       "label": "Železnička stanica Dunav",
       "longitude": 20.4798767904456,
       "latitude": 44.8188776029693
@@ -199,6 +217,30 @@
       "label": "Topčiderska zvezda",
       "longitude": 20.443900833997,
       "latitude": 44.7893056018222
+    },
+    {
+      "id": "_18",
+      "label": "Vase Pelagića",
+      "longitude": 20.4409132092715,
+      "latitude": 44.7890462933501
+    },
+    {
+      "id": "_19",
+      "label": "Vojislava Vučkovića",
+      "longitude": 20.4415388205174,
+      "latitude": 44.7918068051626
+    },
+    {
+      "id": "_20",
+      "label": "Senjačka",
+      "longitude": 20.4426568784014,
+      "latitude": 44.7943591160719
+    },
+    {
+      "id": "_21",
+      "label": "Topčidersko brdo (Senjak)",
+      "longitude": 20.4430356220121,
+      "latitude": 44.7957234874612
     }
   ]
 }

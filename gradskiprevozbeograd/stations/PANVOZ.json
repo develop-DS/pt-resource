@@ -1,0 +1,66 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Pančevački most",
+      "longitude": 20.4903467,
+      "latitude": 44.8198183
+    },
+    {
+      "id": "_2",
+      "label": "Pančevo ŽS",
+      "longitude": 20.6374526150237,
+      "latitude": 44.887593982325
+    },
+    {
+      "id": "_3",
+      "label": "Pančevo varoš ŽS",
+      "longitude": 20.6607181230988,
+      "latitude": 44.879038081145
+    },
+    {
+      "id": "_4",
+      "label": "Strelište ŽS",
+      "longitude": 20.6664526679194,
+      "latitude": 44.8700208901345
+    },
+    {
+      "id": "_5",
+      "label": "Vojlovica ŽS",
+      "longitude": 20.6556326548065,
+      "latitude": 44.8591428789538
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Vojlovica ŽS",
+      "longitude": 20.6556326548065,
+      "latitude": 44.8591428789538
+    },
+    {
+      "id": "_2",
+      "label": "Strelište ŽS",
+      "longitude": 20.6664526679194,
+      "latitude": 44.8700208901345
+    },
+    {
+      "id": "_3",
+      "label": "Pančevo varoš ŽS",
+      "longitude": 20.6607181230988,
+      "latitude": 44.879038081145
+    },
+    {
+      "id": "_4",
+      "label": "Pančevo ŽS",
+      "longitude": 20.6374526150237,
+      "latitude": 44.887593982325
+    },
+    {
+      "id": "_5",
+      "label": "Pančevački most",
+      "longitude": 20.4903733,
+      "latitude": 44.8201417
+    }
+  ]
+}

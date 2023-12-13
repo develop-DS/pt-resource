@@ -356,7 +356,7 @@
         "title": "Makova sedmica - Lifka - Bajski put",
         "info": [
             "P - Patrija",
-            "L - LIfka",
+            "L - Lifka",
             "O - Nova opština",
             "R - Radio Subotica",
             "Đ - Polasci saobraćaju tokom školske godine"
@@ -1233,8 +1233,8 @@
         "title": "Subotica - Stari Žednik - Novi Žednik",
         "info": [
             "SZ - Stari Zednik",
-            "C - Čerepeš",
-            "D - Dački"
+            "Č - Čerepeš",
+            "Đ - Đački"
         ],
         "weekday": {
             "starting_points_a": [
@@ -1256,7 +1256,7 @@
                 "04:55Č",
                 "05:40Č",
                 "06:08",
-                "07:00od C",
+                "07:00od Č",
                 "11:55Đ",
                 "12:30",
                 "15:00Č",
@@ -1330,7 +1330,8 @@
         "type": "BUS",
         "title": "Subotica - Zorka - Kelebija",
         "info": [
-            "-"
+            "-",
+            "Đ - Đački"
         ],
         "weekday": {
             "starting_points_a": [
@@ -1733,9 +1734,9 @@
         "type": "BUS",
         "title": "Subotica - Žednik - Tornjoš",
         "info": [
-            "C - Cantavir",
+            "Č - Čantavir",
             "K - preko Klise",
-            "D - Dacki"
+            "Đ - Đački"
         ],
         "weekday": {
             "starting_points_a": [],
@@ -1757,7 +1758,7 @@
         "info": [
             "S - Saic",
             "K - Karaula",
-            "D - Dački",
+            "Đ - Đački",
             "C - centar Tavankut D"
         ],
         "weekday": {
@@ -1854,14 +1855,15 @@
         "type": "BUS",
         "title": "Subotica - Stari Žednik - Đurđin",
         "info": [
-            "M - Misicevo",
-            "NZ - Novi Zednik",
-            "D - Dački"
+            "M - Mišićevo",
+            "NŽ - Novi Žednik",
+            "Đ - Đački",
+            "Č - Čerepeš"
         ],
         "weekday": {
             "starting_points_a": [
                 "05:35",
-                "07:00NZ",
+                "07:00NŽ",
                 "09:45Đ",
                 "11:15M",
                 "13:20",
@@ -1870,7 +1872,7 @@
                 "16:35NŽ",
                 "19:00",
                 "20:10",
-                "22:30NZ"
+                "22:30NŽ"
             ],
             "starting_points_b": [
                 "04:40Č",
@@ -1888,12 +1890,12 @@
         },
         "saturday": {
             "starting_points_a": [
-                "07:00NZ",
-                "11:15M|",
+                "07:00NŽ",
+                "11:15M",
                 "14:20",
                 "18:00",
-                "20:15NZ",
-                "22:30NZ"
+                "20:15NŽ",
+                "22:30NŽ"
             ],
             "starting_points_b": [
                 "04:45NŽ",
@@ -1907,11 +1909,11 @@
         },
         "sunday": {
             "starting_points_a": [
-                "07:00NZ",
+                "07:00NŽ",
                 "11:15M",
                 "14:20NŽ",
                 "18:00",
-                "20:10NZ"
+                "20:10NŽ"
             ],
             "starting_points_b": [
                 "05:35Č",
@@ -1960,11 +1962,11 @@
         "type": "BUS",
         "title": "Subotica - Horgoš - Kanjiža",
         "info": [
-            "BV - Backi Vinogradi",
-            "M - Martonos",
+            "BV - Bački Vinogradi",
+            "M - Martonoš",
             "MP - Mala Pijaca",
-            "H - Horgos",
-            "Đ - đački"
+            "H - Horgoš",
+            "Đ - Đački"
         ],
         "weekday": {
             "starting_points_a": [
@@ -2028,9 +2030,10 @@
         "type": "BUS",
         "title": "Subotica - Bački Vinogradi - Male Pijace",
         "info": [
-            "BV - Backi Vinograd",
-            "D - Dacki",
-            "* - ne ulazi u BV"
+            "BV - Bački Vinogradi",
+            "Đ - Đački",
+            "* - ne ulazi u BV",
+            "Š - Šupljak"
         ],
         "weekday": {
             "starting_points_a": [
@@ -2072,7 +2075,8 @@
         "title": "Subotica - Bikovo - Orom (Novo Selo)",
         "info": [
             "B - Bikovo",
-            "G - Gabric"
+            "G - Gabrić",
+            "Đ - Đački"
         ],
         "weekday": {
             "starting_points_a": [
@@ -2222,7 +2226,9 @@
         "id": "68",
         "type": "BUS",
         "title": "Bačka Topola - Stara Moravica - Bajmok - Subotica",
-        "info": [],
+        "info": [
+            "Đ - Đački"
+        ],
         "weekday": {
             "starting_points_a": [
                 "07:15Đ"
@@ -2286,7 +2292,7 @@
         "title": "Novi Sad - Srbobran - Bačka Topola - Subotica",
         "info": [
             "* - Autoputem",
-            "Đ - Samo za vreme trajanja školske godine"
+            "Đ - Đački"
         ],
         "weekday": {
             "starting_points_a": [
@@ -2319,7 +2325,9 @@
         "id": "81",
         "type": "BUS",
         "title": "Subotica - Orom - Senta",
-        "info": [],
+        "info": [
+            "Đ - Đački"
+        ],
         "weekday": {
             "starting_points_a": [
                 "05:20Đ",
@@ -2345,7 +2353,12 @@
         "id": "98",
         "type": "BUS",
         "title": "Subotica - Stari Žednik - Bačka Topola",
-        "info": [],
+        "info": [
+            "Đ - Đački",
+            "SM - Stara Moravica",
+            "P - Pačir",
+            "B - Bajmok"
+        ],
         "weekday": {
             "starting_points_a": [
                 "06:15Đ",

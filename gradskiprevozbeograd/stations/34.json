@@ -2,108 +2,126 @@
   "direction_a": [
     {
       "id": "_1",
+      "label": "Topčidersko brdo (Senjak)",
+      "longitude": 20.4430356220121,
+      "latitude": 44.7957234874612
+    },
+    {
+      "id": "_2",
+      "label": "Vojislava Vučkovića",
+      "longitude": 20.4418217878563,
+      "latitude": 44.7926109426166
+    },
+    {
+      "id": "_3",
+      "label": "Vase Pelagića",
+      "longitude": 20.4408353065082,
+      "latitude": 44.7887363287841
+    },
+    {
+      "id": "_4",
       "label": "Topčiderska zvezda",
       "longitude": 20.4441078798942,
       "latitude": 44.7887990299809
     },
     {
-      "id": "_2",
+      "id": "_5",
       "label": "Ortopedski zavod",
       "longitude": 20.449645218621,
       "latitude": 44.7931293143198
     },
     {
-      "id": "_3",
+      "id": "_6",
       "label": "Železnička stanica BGD centar",
       "longitude": 20.4539804454148,
       "latitude": 44.7925740557622
     },
     {
-      "id": "_4",
+      "id": "_7",
       "label": "Gučevska",
       "longitude": 20.4580126416515,
       "latitude": 44.7925211767222
     },
     {
-      "id": "_5",
+      "id": "_8",
       "label": "Bulevar kneza Aleksandra Karađorđevića",
       "longitude": 20.4560364486608,
       "latitude": 44.7900369467188
     },
     {
-      "id": "_6",
+      "id": "_9",
       "label": "Stadion Partizan",
       "longitude": 20.4574207698052,
       "latitude": 44.7863284818667
     },
     {
-      "id": "_7",
+      "id": "_10",
       "label": "Pedagoška akademija",
       "longitude": 20.4579487668183,
       "latitude": 44.7817411973179
     },
     {
-      "id": "_8",
+      "id": "_11",
       "label": "Bolnica Dragiša Mišović",
       "longitude": 20.4581004763674,
       "latitude": 44.7776615063441
     },
     {
-      "id": "_9",
+      "id": "_12",
       "label": "Paje Adamova",
       "longitude": 20.4625884363578,
       "latitude": 44.7727454426712
     },
     {
-      "id": "_10",
+      "id": "_13",
       "label": "Banjica",
       "longitude": 20.4659948316041,
       "latitude": 44.7694170982456
     },
     {
-      "id": "_11",
+      "id": "_14",
       "label": "Dedinje (Ortopedska bolnica)",
       "longitude": 20.4634876477858,
       "latitude": 44.7662015476653
     },
     {
-      "id": "_12",
+      "id": "_15",
       "label": "Miloja Đaka",
       "longitude": 20.4592965444209,
       "latitude": 44.764518749193
     },
     {
-      "id": "_13",
+      "id": "_16",
       "label": "Omladinska",
       "longitude": 20.4586581400408,
       "latitude": 44.7679661844288
     },
     {
-      "id": "_14",
+      "id": "_17",
       "label": "Baje Pivljanina",
       "longitude": 20.4557509652322,
       "latitude": 44.769482362511
     },
     {
-      "id": "_15",
+      "id": "_18",
       "label": "Pivljanina Baje 1",
       "longitude": 20.4544214295134,
       "latitude": 44.7657592158318
     },
     {
-      "id": "_16",
+      "id": "_19",
       "label": "Pivljanina Baje 1",
       "longitude": 20.4532369381971,
       "latitude": 44.761404970373
     },
     {
-      "id": "_17",
+      "id": "_20",
       "label": "Milana Blagojevića Španca",
       "longitude": 20.4523024095586,
       "latitude": 44.7578888665784
     },
     {
-      "id": "_18",
+      "id": "_21",
       "label": "Pere Velimirovića",
       "longitude": 20.4600218368766,
       "latitude": 44.7571406885234
@@ -217,6 +235,30 @@
       "label": "Topčiderska zvezda",
       "longitude": 20.443900833997,
       "latitude": 44.7893056018222
+    },
+    {
+      "id": "_19",
+      "label": "Vase Pelagića",
+      "longitude": 20.4409132092715,
+      "latitude": 44.7890462933501
+    },
+    {
+      "id": "_20",
+      "label": "Vojislava Vučkovića",
+      "longitude": 20.4415388205174,
+      "latitude": 44.7918068051626
+    },
+    {
+      "id": "_21",
+      "label": "Senjačka",
+      "longitude": 20.4426568784014,
+      "latitude": 44.7943591160719
+    },
+    {
+      "id": "_22",
+      "label": "Topčidersko brdo (Senjak)",
+      "longitude": 20.4430356220121,
+      "latitude": 44.7957234874612
     }
   ]
 }

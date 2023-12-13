@@ -1,0 +1,180 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Železnička stanica Beograd centar",
+      "longitude": 20.457577,
+      "latitude": 44.792488
+    },
+    {
+      "id": "_2",
+      "label": "Železnička stanica BGD centar",
+      "longitude": 20.4543971451321,
+      "latitude": 44.7926138361431
+    },
+    {
+      "id": "_3",
+      "label": "Ortopedski zavod",
+      "longitude": 20.4487869469579,
+      "latitude": 44.7951410939727
+    },
+    {
+      "id": "_4",
+      "label": "Mostar",
+      "longitude": 20.4492660247473,
+      "latitude": 44.7987396141814
+    },
+    {
+      "id": "_5",
+      "label": "Sajam",
+      "longitude": 20.4415906546322,
+      "latitude": 44.7964130286058
+    },
+    {
+      "id": "_6",
+      "label": "Blok 42",
+      "longitude": 20.4161138241365,
+      "latitude": 44.8040491880885
+    },
+    {
+      "id": "_7",
+      "label": "Bulevar Crvene Armije",
+      "longitude": 20.4132201265708,
+      "latitude": 44.8051917615602
+    },
+    {
+      "id": "_8",
+      "label": "Blok 28",
+      "longitude": 20.4177322387695,
+      "latitude": 44.8124046325684
+    },
+    {
+      "id": "_9",
+      "label": "Omladinskih brigada",
+      "longitude": 20.4101893320607,
+      "latitude": 44.8173417752466
+    },
+    {
+      "id": "_10",
+      "label": "Tošin bunar",
+      "longitude": 20.3999624583207,
+      "latitude": 44.8220350702065
+    },
+    {
+      "id": "_11",
+      "label": "Bežanijska kosa",
+      "longitude": 20.3888959117271,
+      "latitude": 44.827048755914
+    },
+    {
+      "id": "_12",
+      "label": "Naselje Radiofar",
+      "longitude": 20.3098743529498,
+      "latitude": 44.8344762879114
+    },
+    {
+      "id": "_13",
+      "label": "Aerodrom Nikola Tesla",
+      "longitude": 20.29056,
+      "latitude": 44.8188
+    },
+    {
+      "id": "_14",
+      "label": "Aerodrom Nikola Tesla",
+      "longitude": 20.2908553153935,
+      "latitude": 44.8192180286035
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Aerodrom Nikola Tesla",
+      "longitude": 20.2908553153935,
+      "latitude": 44.8192180286035
+    },
+    {
+      "id": "_2",
+      "label": "Naselje Radiofar",
+      "longitude": 20.3118811707684,
+      "latitude": 44.8341586397701
+    },
+    {
+      "id": "_3",
+      "label": "Bežanijska kosa",
+      "longitude": 20.3886733908055,
+      "latitude": 44.826563396766
+    },
+    {
+      "id": "_4",
+      "label": "Tošin bunar",
+      "longitude": 20.3997072113744,
+      "latitude": 44.821527962086
+    },
+    {
+      "id": "_5",
+      "label": "Omladinskih brigada",
+      "longitude": 20.4098907178858,
+      "latitude": 44.8168650648114
+    },
+    {
+      "id": "_6",
+      "label": "Blok 28",
+      "longitude": 20.417064666748,
+      "latitude": 44.8120613098145
+    },
+    {
+      "id": "_7",
+      "label": "Španskih boraca",
+      "longitude": 20.4142711794279,
+      "latitude": 44.8090255346809
+    },
+    {
+      "id": "_8",
+      "label": "Bulevar Crvene Armije",
+      "longitude": 20.4128613314903,
+      "latitude": 44.8051701265005
+    },
+    {
+      "id": "_9",
+      "label": "Blok 42",
+      "longitude": 20.4185832082903,
+      "latitude": 44.8036117547834
+    },
+    {
+      "id": "_10",
+      "label": "Gospodarska mehana",
+      "longitude": 20.4336127623586,
+      "latitude": 44.7944711917042
+    },
+    {
+      "id": "_11",
+      "label": "Sajam",
+      "longitude": 20.4420563488721,
+      "latitude": 44.7963250729334
+    },
+    {
+      "id": "_12",
+      "label": "Mostar",
+      "longitude": 20.4488893135074,
+      "latitude": 44.7982104318979
+    },
+    {
+      "id": "_13",
+      "label": "Ortopedski zavod",
+      "longitude": 20.449645218621,
+      "latitude": 44.7931293143198
+    },
+    {
+      "id": "_14",
+      "label": "Železnička stanica BGD centar",
+      "longitude": 20.4539804454148,
+      "latitude": 44.7925740557622
+    },
+    {
+      "id": "_15",
+      "label": "Gučevska",
+      "longitude": 20.4580126416515,
+      "latitude": 44.7925211767222
+    }
+  ]
+}

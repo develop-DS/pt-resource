@@ -1,0 +1,336 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Bora Kečić",
+      "longitude": 20.1940998,
+      "latitude": 44.6507467
+    },
+    {
+      "id": "_2",
+      "label": "Bora Kečić",
+      "longitude": 20.194998,
+      "latitude": 44.651192
+    },
+    {
+      "id": "_3",
+      "label": "Gimnazija",
+      "longitude": 20.19955,
+      "latitude": 44.65257
+    },
+    {
+      "id": "_4",
+      "label": "Obrenovac - Topolice",
+      "longitude": 20.209441657774,
+      "latitude": 44.6552603617859
+    },
+    {
+      "id": "_5",
+      "label": "Bazeni",
+      "longitude": 20.2164799154759,
+      "latitude": 44.6551802263448
+    },
+    {
+      "id": "_6",
+      "label": "Kupalište",
+      "longitude": 20.21255,
+      "latitude": 44.65802
+    },
+    {
+      "id": "_7",
+      "label": "Naselje Dudovi",
+      "longitude": 20.2087068750349,
+      "latitude": 44.6586412133102
+    },
+    {
+      "id": "_8",
+      "label": "Nemanjina",
+      "longitude": 20.20329,
+      "latitude": 44.660995
+    },
+    {
+      "id": "_9",
+      "label": "Groblje",
+      "longitude": 20.1980983,
+      "latitude": 44.6649033
+    },
+    {
+      "id": "_10",
+      "label": "Rojkovac",
+      "longitude": 20.1989,
+      "latitude": 44.667791
+    },
+    {
+      "id": "_11",
+      "label": "Naselje Sava",
+      "longitude": 20.194505,
+      "latitude": 44.6711783
+    },
+    {
+      "id": "_12",
+      "label": "Gaj",
+      "longitude": 20.1930033,
+      "latitude": 44.667125
+    },
+    {
+      "id": "_13",
+      "label": "Kasarna",
+      "longitude": 20.184625,
+      "latitude": 44.6682833
+    },
+    {
+      "id": "_14",
+      "label": "Uljarice",
+      "longitude": 20.177225,
+      "latitude": 44.6672033
+    },
+    {
+      "id": "_15",
+      "label": "Barake",
+      "longitude": 20.1723067,
+      "latitude": 44.666745
+    },
+    {
+      "id": "_16",
+      "label": "TENT A (most)",
+      "longitude": 20.1636477,
+      "latitude": 44.6660103
+    },
+    {
+      "id": "_17",
+      "label": "Tent A (Izlaz za mladost)",
+      "longitude": 20.1608683,
+      "latitude": 44.66622
+    },
+    {
+      "id": "_18",
+      "label": "Tent a (plato okretnica)",
+      "longitude": 20.16145,
+      "latitude": 44.6707
+    },
+    {
+      "id": "_19",
+      "label": "Urovci - Raskrsnica",
+      "longitude": 20.151986,
+      "latitude": 44.671901
+    },
+    {
+      "id": "_20",
+      "label": "Urovci - Aleksandrići",
+      "longitude": 20.1466117,
+      "latitude": 44.6651467
+    },
+    {
+      "id": "_21",
+      "label": "Urovci - Aleksandrići - Centar",
+      "longitude": 20.1411333,
+      "latitude": 44.66233
+    },
+    {
+      "id": "_22",
+      "label": "Urovci - Aleksandrići - Groblje",
+      "longitude": 20.1348267,
+      "latitude": 44.6592883
+    },
+    {
+      "id": "_23",
+      "label": "Urovci - Veljanski",
+      "longitude": 20.1331717,
+      "latitude": 44.6670667
+    },
+    {
+      "id": "_24",
+      "label": "Urovci - Arsenovići",
+      "longitude": 20.1317667,
+      "latitude": 44.67185
+    },
+    {
+      "id": "_25",
+      "label": "Krtinska - Centar",
+      "longitude": 20.1365683,
+      "latitude": 44.6755233
+    },
+    {
+      "id": "_26",
+      "label": "Krtinska - raskrsnica",
+      "longitude": 20.14357,
+      "latitude": 44.680151
+    },
+    {
+      "id": "_27",
+      "label": "Krtinska - krivina",
+      "longitude": 20.1383017,
+      "latitude": 44.6867167
+    },
+    {
+      "id": "_28",
+      "label": "Krtinska (Trnjaci)",
+      "longitude": 20.1312661,
+      "latitude": 44.6897465
+    },
+    {
+      "id": "_29",
+      "label": "Mladost - okretnica",
+      "longitude": 20.1242183,
+      "latitude": 44.6915183
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Mladost - okretnica",
+      "longitude": 20.12459,
+      "latitude": 44.6914133
+    },
+    {
+      "id": "_2",
+      "label": "Krtinska (Trnjaci)",
+      "longitude": 20.1316738,
+      "latitude": 44.6895443
+    },
+    {
+      "id": "_3",
+      "label": "Krtinska - krivina",
+      "longitude": 20.13836,
+      "latitude": 44.6866467
+    },
+    {
+      "id": "_4",
+      "label": "Krtinska - raskrsnica",
+      "longitude": 20.1435133,
+      "latitude": 44.68013
+    },
+    {
+      "id": "_5",
+      "label": "Krtinska - Centar",
+      "longitude": 20.13644,
+      "latitude": 44.675505
+    },
+    {
+      "id": "_6",
+      "label": "Urovci - Arsenovići",
+      "longitude": 20.1317133,
+      "latitude": 44.671875
+    },
+    {
+      "id": "_7",
+      "label": "Urovci - Veljanski",
+      "longitude": 20.133375,
+      "latitude": 44.667025
+    },
+    {
+      "id": "_8",
+      "label": "Urovci - Aleksandrići - Groblje",
+      "longitude": 20.1350267,
+      "latitude": 44.6593033
+    },
+    {
+      "id": "_9",
+      "label": "Urovci - Aleksandrići - Centar",
+      "longitude": 20.1414783,
+      "latitude": 44.6624467
+    },
+    {
+      "id": "_10",
+      "label": "Urovci - Aleksandrići",
+      "longitude": 20.1467,
+      "latitude": 44.6651533
+    },
+    {
+      "id": "_11",
+      "label": "Urovci - Raskrsnica",
+      "longitude": 20.1518111,
+      "latitude": 44.6719717
+    },
+    {
+      "id": "_12",
+      "label": "Tent a (plato okretnica)",
+      "longitude": 20.16145,
+      "latitude": 44.6707
+    },
+    {
+      "id": "_13",
+      "label": "Tent A (Izlaz za mladost)",
+      "longitude": 20.16084,
+      "latitude": 44.66617
+    },
+    {
+      "id": "_14",
+      "label": "TENT A (most)",
+      "longitude": 20.1641288,
+      "latitude": 44.6658788
+    },
+    {
+      "id": "_15",
+      "label": "Barake",
+      "longitude": 20.1723067,
+      "latitude": 44.6667005
+    },
+    {
+      "id": "_16",
+      "label": "Uljarice",
+      "longitude": 20.1788483,
+      "latitude": 44.6673433
+    },
+    {
+      "id": "_17",
+      "label": "Kasarna",
+      "longitude": 20.185835,
+      "latitude": 44.6685633
+    },
+    {
+      "id": "_18",
+      "label": "Gaj",
+      "longitude": 20.1938,
+      "latitude": 44.6673033
+    },
+    {
+      "id": "_19",
+      "label": "Naselje Sava",
+      "longitude": 20.194505,
+      "latitude": 44.6711783
+    },
+    {
+      "id": "_20",
+      "label": "Rojkovac",
+      "longitude": 20.1987075516272,
+      "latitude": 44.6677792102263
+    },
+    {
+      "id": "_21",
+      "label": "Groblje",
+      "longitude": 20.1985817,
+      "latitude": 44.6646533
+    },
+    {
+      "id": "_22",
+      "label": "Nemanjina",
+      "longitude": 20.2031519232251,
+      "latitude": 44.6609382482657
+    },
+    {
+      "id": "_23",
+      "label": "Vuka Karadžića",
+      "longitude": 20.2039108276367,
+      "latitude": 44.6573257446289
+    },
+    {
+      "id": "_24",
+      "label": "GO Obrenovac",
+      "longitude": 20.2003,
+      "latitude": 44.6549683
+    },
+    {
+      "id": "_25",
+      "label": "OŠ - J.J. Zmaj",
+      "longitude": 20.1935845356667,
+      "latitude": 44.6516789626518
+    },
+    {
+      "id": "_26",
+      "label": "Bora Kečić",
+      "longitude": 20.1940998,
+      "latitude": 44.6507467
+    }
+  ]
+}

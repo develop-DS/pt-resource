@@ -128,84 +128,66 @@
     },
     {
       "id": "_22",
-      "label": "Kneževac",
-      "longitude": 20.431480993017,
-      "latitude": 44.7346423343423
+      "label": "Ulica Oslobođenja",
+      "longitude": 20.4388675549668,
+      "latitude": 44.7380121699384
     },
     {
       "id": "_23",
-      "label": "Deponija",
-      "longitude": 20.4348327832827,
-      "latitude": 44.7288235227788
+      "label": "Servis DMB",
+      "longitude": 20.4449028176888,
+      "latitude": 44.7359212141638
     },
     {
       "id": "_24",
-      "label": "Kijevo",
-      "longitude": 20.4379855967489,
-      "latitude": 44.7252427482934
+      "label": "Manastir Rakovica",
+      "longitude": 20.4468951100856,
+      "latitude": 44.7322085821483
     },
     {
       "id": "_25",
-      "label": "Ispod tunela",
-      "longitude": 20.4427250011704,
-      "latitude": 44.7244090999394
+      "label": "Josipa Telarevića (izlaz)",
+      "longitude": 20.4474599982376,
+      "latitude": 44.7280228654403
     },
     {
       "id": "_26",
-      "label": "Spomenik",
-      "longitude": 20.4462411239974,
-      "latitude": 44.7226369918408
+      "label": "Tunel Straževica",
+      "longitude": 20.4500248811278,
+      "latitude": 44.7248547094303
     },
     {
       "id": "_27",
-      "label": "Resnik (izlaz)",
-      "longitude": 20.4479518789858,
-      "latitude": 44.7192721607595
+      "label": "Resnik (ulaz)",
+      "longitude": 20.4645029754704,
+      "latitude": 44.7162097128016
     },
     {
       "id": "_28",
-      "label": "Palih boraca",
-      "longitude": 20.4482534947105,
-      "latitude": 44.7172774844387
-    },
-    {
-      "id": "_29",
-      "label": "Josipa Telarevića",
-      "longitude": 20.4521525194926,
-      "latitude": 44.7190205052489
-    },
-    {
-      "id": "_30",
-      "label": "Brđanska",
-      "longitude": 20.4571818320303,
-      "latitude": 44.7165263001475
-    },
-    {
-      "id": "_31",
       "label": "Avalska",
       "longitude": 20.4595489479903,
       "latitude": 44.7144297497313
     },
     {
-      "id": "_32",
+      "id": "_29",
       "label": "Kamenac",
       "longitude": 20.4561742438505,
       "latitude": 44.7125022729839
     },
     {
-      "id": "_33",
+      "id": "_30",
       "label": "13. oktobra",
       "longitude": 20.4526827807709,
       "latitude": 44.7106677356935
     },
     {
-      "id": "_34",
+      "id": "_31",
       "label": "Aleksandra Vojinovića",
       "longitude": 20.4512667225399,
       "latitude": 44.7069117026575
     },
     {
-      "id": "_35",
+      "id": "_32",
       "label": "Železnička stanica Resnik",
       "longitude": 20.4493815046096,
       "latitude": 44.7044835538808
@@ -244,186 +226,162 @@
     },
     {
       "id": "_6",
-      "label": "Brđanska",
-      "longitude": 20.4571622191188,
-      "latitude": 44.716734999807
+      "label": "Resnik (ulaz)",
+      "longitude": 20.4652582629203,
+      "latitude": 44.7164310271084
     },
     {
       "id": "_7",
-      "label": "Josipa Telarevića",
-      "longitude": 20.4515498632455,
-      "latitude": 44.7186774385306
+      "label": "Tunel Straževica",
+      "longitude": 20.4505967066117,
+      "latitude": 44.7247242540247
     },
     {
       "id": "_8",
-      "label": "Palih boraca",
-      "longitude": 20.4484662067073,
-      "latitude": 44.7174747000362
+      "label": "Josipa Telarevića (izlaz)",
+      "longitude": 20.4484310506556,
+      "latitude": 44.7270645744988
     },
     {
       "id": "_9",
-      "label": "Resnik (izlaz)",
-      "longitude": 20.4478944706857,
-      "latitude": 44.7197362674779
+      "label": "Manastir Rakovica",
+      "longitude": 20.447268056308,
+      "latitude": 44.7314904074296
     },
     {
       "id": "_10",
-      "label": "Spomenik",
-      "longitude": 20.4457205802655,
-      "latitude": 44.7229512664004
+      "label": "Servis DMB",
+      "longitude": 20.4449775432326,
+      "latitude": 44.7360295714115
     },
     {
       "id": "_11",
-      "label": "Ispod tunela",
-      "longitude": 20.4425697945519,
-      "latitude": 44.724534341204
+      "label": "Ulica Oslobođenja",
+      "longitude": 20.4389297497124,
+      "latitude": 44.738109670244
     },
     {
       "id": "_12",
-      "label": "Kijevo",
-      "longitude": 20.4383790905881,
-      "latitude": 44.7255434640174
-    },
-    {
-      "id": "_13",
-      "label": "Deponija",
-      "longitude": 20.434898458415,
-      "latitude": 44.7290812364338
-    },
-    {
-      "id": "_14",
-      "label": "Kneževac",
-      "longitude": 20.4315839089465,
-      "latitude": 44.7344466520491
-    },
-    {
-      "id": "_15",
-      "label": "Ulica Oslobođenja",
-      "longitude": 20.4375931651185,
-      "latitude": 44.7385812848555
-    },
-    {
-      "id": "_16",
       "label": "Miška Kranjca",
       "longitude": 20.4427275651333,
       "latitude": 44.7428943883828
     },
     {
-      "id": "_17",
+      "id": "_13",
       "label": "GO Rakovica",
       "longitude": 20.4451590305898,
       "latitude": 44.743226559933
     },
     {
-      "id": "_18",
+      "id": "_14",
       "label": "Miljakovac 1",
       "longitude": 20.4499009458732,
       "latitude": 44.7481577912253
     },
     {
-      "id": "_19",
+      "id": "_15",
       "label": "Stanka Paunovića",
       "longitude": 20.4533082278884,
       "latitude": 44.7484260662644
     },
     {
-      "id": "_20",
+      "id": "_16",
       "label": "Vareška",
       "longitude": 20.4556828756227,
       "latitude": 44.7489233357899
     },
     {
-      "id": "_21",
+      "id": "_17",
       "label": "Kanarevo brdo",
       "longitude": 20.4552760762549,
       "latitude": 44.7527210451366
     },
     {
-      "id": "_22",
+      "id": "_18",
       "label": "Srpskih udarnih brigada",
       "longitude": 20.4571105884134,
       "latitude": 44.7548194505904
     },
     {
-      "id": "_23",
+      "id": "_19",
       "label": "Pere Velimirovića",
       "longitude": 20.4611463658405,
       "latitude": 44.7570991769595
     },
     {
-      "id": "_24",
+      "id": "_20",
       "label": "Raška",
       "longitude": 20.4697494855673,
       "latitude": 44.7544339701027
     },
     {
-      "id": "_25",
+      "id": "_21",
       "label": "Pet solitera",
       "longitude": 20.4731324077689,
       "latitude": 44.7599609133722
     },
     {
-      "id": "_26",
+      "id": "_22",
       "label": "Paunova",
       "longitude": 20.4769460779112,
       "latitude": 44.7609197174914
     },
     {
-      "id": "_27",
+      "id": "_23",
       "label": "Crkva Sv. Vasilija Ostroškog",
       "longitude": 20.479352212498,
       "latitude": 44.762779177256
     },
     {
-      "id": "_28",
+      "id": "_24",
       "label": "Mosorska",
       "longitude": 20.4781342512001,
       "latitude": 44.7656247185955
     },
     {
-      "id": "_29",
+      "id": "_25",
       "label": "Fakultet organizacionih nauka",
       "longitude": 20.4756927347024,
       "latitude": 44.7713355315863
     },
     {
-      "id": "_30",
+      "id": "_26",
       "label": "Atletska dvorana",
       "longitude": 20.471717284381,
       "latitude": 44.7775522115032
     },
     {
-      "id": "_31",
+      "id": "_27",
       "label": "Veljka Lukića Kurjaka",
       "longitude": 20.468350457316,
       "latitude": 44.7801285408056
     },
     {
-      "id": "_32",
+      "id": "_28",
       "label": "Trg oslobođenja",
       "longitude": 20.4659369887447,
       "latitude": 44.7870164037455
     },
     {
-      "id": "_33",
+      "id": "_29",
       "label": "Franše D'Eperea",
       "longitude": 20.4666800433672,
       "latitude": 44.7928101762883
     },
     {
-      "id": "_34",
+      "id": "_30",
       "label": "Karađorđev park",
       "longitude": 20.4657590648182,
       "latitude": 44.7982550256383
     },
     {
-      "id": "_35",
+      "id": "_31",
       "label": "Trg Slavija (Bulevar oslobođenja)",
       "longitude": 20.4664336279974,
       "latitude": 44.8017635811315
     },
     {
-      "id": "_36",
+      "id": "_32",
       "label": "Trg Slavija (Tiršova)",
       "longitude": 20.4648776777364,
       "latitude": 44.7994164545255

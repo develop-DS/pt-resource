@@ -86,66 +86,48 @@
     },
     {
       "id": "_15",
-      "label": "Ispod tunela",
-      "longitude": 20.4427250011704,
-      "latitude": 44.7244090999394
+      "label": "Podavalska (izlaz)",
+      "longitude": 20.4597535562902,
+      "latitude": 44.7149598942948
     },
     {
       "id": "_16",
-      "label": "Spomenik",
-      "longitude": 20.4462411239974,
-      "latitude": 44.7226369918408
+      "label": "Brđanska",
+      "longitude": 20.4571622191188,
+      "latitude": 44.716734999807
     },
     {
       "id": "_17",
-      "label": "Resnik (izlaz)",
-      "longitude": 20.4479518789858,
-      "latitude": 44.7192721607595
+      "label": "Josipa Telarevića",
+      "longitude": 20.4515498632455,
+      "latitude": 44.7186774385306
     },
     {
       "id": "_18",
       "label": "Palih boraca",
-      "longitude": 20.4482534947105,
-      "latitude": 44.7172774844387
+      "longitude": 20.4484662067073,
+      "latitude": 44.7174747000362
     },
     {
       "id": "_19",
-      "label": "Josipa Telarevića",
-      "longitude": 20.4521525194926,
-      "latitude": 44.7190205052489
+      "label": "MZ Resnik",
+      "longitude": 20.452931859021,
+      "latitude": 44.7134462252688
     },
     {
       "id": "_20",
-      "label": "Brđanska",
-      "longitude": 20.4571818320303,
-      "latitude": 44.7165263001475
-    },
-    {
-      "id": "_21",
-      "label": "Avalska",
-      "longitude": 20.4595489479903,
-      "latitude": 44.7144297497313
-    },
-    {
-      "id": "_22",
-      "label": "Kamenac",
-      "longitude": 20.4561742438505,
-      "latitude": 44.7125022729839
-    },
-    {
-      "id": "_23",
       "label": "13. oktobra",
       "longitude": 20.4526827807709,
       "latitude": 44.7106677356935
     },
     {
-      "id": "_24",
+      "id": "_21",
       "label": "Aleksandra Vojinovića",
       "longitude": 20.4512667225399,
       "latitude": 44.7069117026575
     },
     {
-      "id": "_25",
+      "id": "_22",
       "label": "Železnička stanica Resnik",
       "longitude": 20.4493815046096,
       "latitude": 44.7044835538808
@@ -172,126 +154,108 @@
     },
     {
       "id": "_4",
-      "label": "Kamenac",
-      "longitude": 20.4566352515622,
-      "latitude": 44.7126016535935
+      "label": "MZ Resnik",
+      "longitude": 20.4529888850891,
+      "latitude": 44.7135562932403
     },
     {
       "id": "_5",
-      "label": "Avalska",
-      "longitude": 20.4595504819712,
-      "latitude": 44.7142641628815
+      "label": "Palih boraca",
+      "longitude": 20.4482534947105,
+      "latitude": 44.7172774844387
     },
     {
       "id": "_6",
-      "label": "Brđanska",
-      "longitude": 20.4571622191188,
-      "latitude": 44.716734999807
+      "label": "Josipa Telarevića",
+      "longitude": 20.4521525194926,
+      "latitude": 44.7190205052489
     },
     {
       "id": "_7",
-      "label": "Josipa Telarevića",
-      "longitude": 20.4515498632455,
-      "latitude": 44.7186774385306
+      "label": "Brđanska",
+      "longitude": 20.4571818320303,
+      "latitude": 44.7165263001475
     },
     {
       "id": "_8",
-      "label": "Palih boraca",
-      "longitude": 20.4484662067073,
-      "latitude": 44.7174747000362
+      "label": "Podavalska (izlaz)",
+      "longitude": 20.4597349126622,
+      "latitude": 44.7147924125194
     },
     {
       "id": "_9",
-      "label": "Resnik (izlaz)",
-      "longitude": 20.4478944706857,
-      "latitude": 44.7197362674779
-    },
-    {
-      "id": "_10",
-      "label": "Spomenik",
-      "longitude": 20.4457205802655,
-      "latitude": 44.7229512664004
-    },
-    {
-      "id": "_11",
-      "label": "Ispod tunela",
-      "longitude": 20.4425697945519,
-      "latitude": 44.724534341204
-    },
-    {
-      "id": "_12",
       "label": "Kijevo",
       "longitude": 20.4383790905881,
       "latitude": 44.7255434640174
     },
     {
-      "id": "_13",
+      "id": "_10",
       "label": "Deponija",
       "longitude": 20.434898458415,
       "latitude": 44.7290812364338
     },
     {
-      "id": "_14",
+      "id": "_11",
       "label": "Kneževac",
       "longitude": 20.4315839089465,
       "latitude": 44.7344466520491
     },
     {
-      "id": "_15",
+      "id": "_12",
       "label": "Ulica Oslobođenja",
       "longitude": 20.4375931651185,
       "latitude": 44.7385812848555
     },
     {
-      "id": "_16",
+      "id": "_13",
       "label": "Miška Kranjca",
       "longitude": 20.4427275651333,
       "latitude": 44.7428943883828
     },
     {
-      "id": "_17",
+      "id": "_14",
       "label": "Marička",
       "longitude": 20.4380689292106,
       "latitude": 44.7454095606263
     },
     {
-      "id": "_18",
+      "id": "_15",
       "label": "Janković Stojana",
       "longitude": 20.4342883837084,
       "latitude": 44.7451119918289
     },
     {
-      "id": "_19",
+      "id": "_16",
       "label": "Pilota Mihaila Petrovića",
       "longitude": 20.4245192708822,
       "latitude": 44.7428026925389
     },
     {
-      "id": "_20",
+      "id": "_17",
       "label": "Susedgradska",
       "longitude": 20.4260004652469,
       "latitude": 44.7398582334392
     },
     {
-      "id": "_21",
+      "id": "_18",
       "label": "Bože Jeremića",
       "longitude": 20.4233500002437,
       "latitude": 44.7371828467791
     },
     {
-      "id": "_22",
+      "id": "_19",
       "label": "Vidikovački venac",
       "longitude": 20.4200310609752,
       "latitude": 44.7385214599684
     },
     {
-      "id": "_23",
+      "id": "_20",
       "label": "Toplana",
       "longitude": 20.420591322832,
       "latitude": 44.7339866712728
     },
     {
-      "id": "_24",
+      "id": "_21",
       "label": "Vidikovac",
       "longitude": 20.4204222958489,
       "latitude": 44.731939297339
