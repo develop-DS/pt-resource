@@ -1230,9 +1230,7 @@
         "id": "3B",
         "title": "PETROVARADIN (O.S. J.DUCIC) - PUCKAROS",
         "type": "BUS",
-        "info": [
-            "Đ = NE SAOBRA.ZA VREME ĐAČKOG RASPUSTA"
-        ],
+        "info": [],
         "weekday": {
             "starting_points_a": [
                 "11:10Đ",
@@ -2559,7 +2557,6 @@
         "title": "ADICE - VETERNIK (O.S.MARIJA TRANDAFIL)",
         "type": "BUS",
         "info": [
-            "Đ = NE SAOBRA.ZA VREME ĐAČKOG RASPUSTA",
             "SSD = S.S. D. OBRADOVIC DJACKI"
         ],
         "weekday": {
@@ -3837,8 +3834,8 @@
                 "07:40APT",
                 "13:30APT",
                 "13:35AL",
-                "21:30APT",
-                "21:30AL"
+                "21:30AL",
+                "21:30APT"
             ],
             "starting_points_b": [
                 "06:05AL",
@@ -5244,8 +5241,8 @@
         "weekday": {
             "starting_points_a": [
                 "05:20NK",
-                "05:30NK",
                 "05:30APT",
+                "05:30NK",
                 "06:05NP",
                 "06:35NP",
                 "07:00NP",
@@ -5261,8 +5258,8 @@
                 "21:30APT"
             ],
             "starting_points_b": [
-                "06:15KN",
                 "06:15APT",
+                "06:15KN",
                 "07:30NP",
                 "10:05KN",
                 "13:20NP",
@@ -5832,7 +5829,6 @@
         "type": "BUS",
         "info": [
             "C = DO CENTRA N.SADA",
-            "Đ = NE SAOBRA.ZA VREME ĐAČKOG RASPUSTA",
             "KC = KROZ CENTAR KAĆA"
         ],
         "weekday": {
@@ -5932,7 +5928,6 @@
         "type": "BUS",
         "info": [
             "C = DO CENTRA N.SADA",
-            "Đ = NE SAOBRA.ZA VREME ĐAČKOG RASPUSTA",
             "NT = NOVOM TRASOM KROZ KAC"
         ],
         "weekday": {
@@ -6035,7 +6030,7 @@
         "info": [
             "AKN = OD ALBUSA KOTEKSPRO.I NEOPLANTE",
             "C = DO CENTRA N.SADA",
-            "KSA = OD KISAČA DO AUTOKAROSERIJE",
+            "KSA = KROZ ŠANGAJ",
             "NKA = DO NEOPLANTE KOTEKSPR.I ALBUSA"
         ],
         "weekday": {
@@ -6596,8 +6591,7 @@
         "type": "BUS",
         "info": [
             "ČL = KROZ LIS",
-            "ČLĐ = KROZ LIS DJACKI",
-            "Đ = NE SAOBRA.ZA VREME ĐAČKOG RASPUSTA"
+            "ČLĐ = KROZ LIS DJACKI"
         ],
         "weekday": {
             "starting_points_a": [
@@ -6699,9 +6693,7 @@
         "id": "41",
         "title": "ŽELE.STANICA - RUMENKA",
         "type": "BUS",
-        "info": [
-            "Đ = NE SAOBRA.ZA VREME ĐAČKOG RASPUSTA"
-        ],
+        "info": [],
         "weekday": {
             "starting_points_a": [
                 "06:05",
@@ -7241,8 +7233,7 @@
         "title": "ŽELE.STANICA - FUTOG STARI",
         "type": "BUS",
         "info": [
-            "CG = CENTRALNO GROBLJE",
-            "Đ = NE SAOBRA.ZA VREME ĐAČKOG RASPUSTA"
+            "CG = CENTRALNO GROBLJE"
         ],
         "weekday": {
             "starting_points_a": [
@@ -7385,7 +7376,6 @@
         "info": [
             "\"A\" = AROMA-NE SAOBRAĆA GRMEČKOM",
             "AZG = OD AROME ZELEZNIC.GRMEC.DO NS",
-            "Đ = NE SAOBRA.ZA VREME ĐAČKOG RASPUSTA",
             "KF = OD KANALA NOVIM FUTOGOM",
             "ZA = I ZELEZNICKOM DO AROME"
         ],
@@ -7486,7 +7476,6 @@
         "type": "BUS",
         "info": [
             "CG = CENTRALNO GROBLJE",
-            "Đ = NE SAOBRA.ZA VREME ĐAČKOG RASPUSTA",
             "KN = OD KOTEKSPROD.PORED NEOPLANTE",
             "NK = DO NEOPLANTE I KOTEKSPRODUKTA"
         ],
@@ -7924,7 +7913,6 @@
             "CĐ = KROZ CENTAR DJACKI",
             "CKR = KROZ CENTAR KARLOVACA",
             "DJC = DO CENTRA KARLOVACA DJACKI",
-            "Đ = NE SAOBRA.ZA VREME ĐAČKOG RASPUSTA",
             "KD = KROZ DUDARU",
             "OC = OD CEN.KARL.KROZ CENTAR N.S.NA MAS"
         ],
@@ -8062,7 +8050,6 @@
         "title": "MAS - SREMSKI KARLOVCI(DUDARA)",
         "type": "BUS",
         "info": [
-            "Đ = NE SAOBRA.ZA VREME ĐAČKOG RASPUSTA",
             "KVG = KROZ VINOGRADARSKU"
         ],
         "weekday": {
@@ -8199,9 +8186,7 @@
         "id": "63",
         "title": "MAS - ČORTANOVCI",
         "type": "BUS",
-        "info": [
-            "Đ = NE SAOBRA.ZA VREME ĐAČKOG RASPUSTA"
-        ],
+        "info": [],
         "weekday": {
             "starting_points_a": [
                 "05:00",
@@ -9165,8 +9150,8 @@
                 "11:25NL",
                 "13:10NL",
                 "14:45NL",
-                "15:30",
                 "15:30TLB",
+                "15:30",
                 "16:40NL",
                 "18:00NL",
                 "19:00NL",
@@ -9184,8 +9169,8 @@
                 "12:10",
                 "13:55",
                 "15:30",
-                "16:15TLB",
                 "16:15",
+                "16:15TLB",
                 "17:25",
                 "18:40",
                 "19:45",
@@ -9358,7 +9343,6 @@
         "info": [
             "BS = KROZ BEOČIN SELO",
             "DB = DO B.A.S.-A",
-            "Đ = NE SAOBRA.ZA VREME ĐAČKOG RASPUSTA",
             "ĐBS = ĐAČKI KROZ B.SELO",
             "SR = KROZ STARI RAKOVAC",
             "\"B\" = DO BANOSTORA",
@@ -9482,9 +9466,7 @@
         "id": "80",
         "title": "MAS - BEOČIN(B.A.S.)",
         "type": "BUS",
-        "info": [
-            "Đ = NE SAOBRA.ZA VREME ĐAČKOG RASPUSTA"
-        ],
+        "info": [],
         "weekday": {
             "starting_points_a": [
                 "19:00",
