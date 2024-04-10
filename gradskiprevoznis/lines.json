@@ -2531,10 +2531,10 @@
         "saturday": {
             "starting_points_a": [
                 "04:23**",
-                "04:45**",
+                "04:45****",
                 "05:15****",
                 "05:23*",
-                "05:45",
+                "05:45*",
                 "06:07",
                 "06:29*",
                 "06:51",
@@ -2610,10 +2610,10 @@
             ],
             "starting_points_b": [
                 "04:50*",
-                "05:12*",
+                "05:16",
                 "05:38",
                 "05:56*",
-                "06:22",
+                "06:18*",
                 "06:44",
                 "07:02*",
                 "07:28",
@@ -2849,7 +2849,7 @@
                 "19:30",
                 "20:30",
                 "21:45",
-                "22:55"
+                "22:45"
             ]
         },
         "saturday": {
@@ -4639,9 +4639,7 @@
     {
         "id": "14",
         "title": "NIŠ - Brenica",
-        "info": [
-            "*-polasci označeni zvezdicom saobraćaju do Vinika"
-        ],
+        "info": ["*-polasci označeni zvezdicom saobraćaju do Vinika"],
         "weekday": {
             "starting_points_a": [
                 "04:00",
@@ -4707,13 +4705,7 @@
                 "18:00*",
                 "23:30"
             ],
-            "starting_points_b": [
-                "05:30",
-                "06:30",
-                "10:30*",
-                "12:35",
-                "18:30*"
-            ]
+            "starting_points_b": ["05:30", "06:30", "10:30*", "12:35", "18:30*"]
         },
         "type": "BUS"
     },
@@ -4759,18 +4751,8 @@
             ]
         },
         "sunday": {
-            "starting_points_a": [
-                "07:00",
-                "08:20",
-                "14:40",
-                "20:30"
-            ],
-            "starting_points_b": [
-                "08:00",
-                "09:20",
-                "15:40",
-                "21:30"
-            ]
+            "starting_points_a": ["07:00", "08:20", "14:40", "20:30"],
+            "starting_points_b": ["08:00", "09:20", "15:40", "21:30"]
         },
         "type": "BUS"
     },
@@ -4903,12 +4885,8 @@
             "Trasa linije: Trg Kralja Aleksandra Ujedinitelja, Kneginje Ljubice, Generala Milojka Lešjanina, Vožda Karađorđa, Kralja Stevana Prvovenčanog, Most mladosti, Pantelejska, Knjaževačka, Matejevački put, Donji Matejevac, Gornji Matejevac. U povratku istom trasom do ureda."
         ],
         "weekday": {
-            "starting_points_a": [
-                "06:20"
-            ],
-            "starting_points_b": [
-                "06:50"
-            ]
+            "starting_points_a": ["06:20"],
+            "starting_points_b": ["06:50"]
         },
         "saturday": {
             "starting_points_a": [],
@@ -4947,32 +4925,12 @@
             ]
         },
         "saturday": {
-            "starting_points_a": [
-                "06:15",
-                "10:20",
-                "14:15",
-                "16:50",
-                "18:25"
-            ],
-            "starting_points_b": [
-                "07:00",
-                "11:05",
-                "15:00",
-                "17:35",
-                "19:10"
-            ]
+            "starting_points_a": ["06:15", "10:20", "14:15", "16:50", "18:25"],
+            "starting_points_b": ["07:00", "11:05", "15:00", "17:35", "19:10"]
         },
         "sunday": {
-            "starting_points_a": [
-                "07:00",
-                "09:00",
-                "15:50"
-            ],
-            "starting_points_b": [
-                "07:45",
-                "09:45",
-                "16:35"
-            ]
+            "starting_points_a": ["07:00", "09:00", "15:50"],
+            "starting_points_b": ["07:45", "09:45", "16:35"]
         },
         "type": "BUS"
     },
@@ -5007,36 +4965,12 @@
             ]
         },
         "saturday": {
-            "starting_points_a": [
-                "07:30",
-                "12:50",
-                "15:40",
-                "21:00",
-                "22:40"
-            ],
-            "starting_points_b": [
-                "05:35",
-                "08:30",
-                "13:50",
-                "16:40",
-                "21:50"
-            ]
+            "starting_points_a": ["07:30", "12:50", "15:40", "21:00", "22:40"],
+            "starting_points_b": ["05:35", "08:30", "13:50", "16:40", "21:50"]
         },
         "sunday": {
-            "starting_points_a": [
-                "8:00",
-                "11:10",
-                "13:00",
-                "16:40",
-                "21:00"
-            ],
-            "starting_points_b": [
-                "06:00",
-                "08:50",
-                "12:00",
-                "13:50",
-                "17:40"
-            ]
+            "starting_points_a": ["8:00", "11:10", "13:00", "16:40", "21:00"],
+            "starting_points_b": ["06:00", "08:50", "12:00", "13:50", "17:40"]
         },
         "type": "BUS"
     },
@@ -5065,32 +4999,12 @@
             ]
         },
         "saturday": {
-            "starting_points_a": [
-                "06:00",
-                "10:20",
-                "13:00",
-                "14:05",
-                "22:00"
-            ],
-            "starting_points_b": [
-                "06:30",
-                "10:55",
-                "13:30",
-                "14:35",
-                "22:30"
-            ]
+            "starting_points_a": ["06:00", "10:20", "13:00", "14:05", "22:00"],
+            "starting_points_b": ["06:30", "10:55", "13:30", "14:35", "22:30"]
         },
         "sunday": {
-            "starting_points_a": [
-                "10:20",
-                "14:05",
-                "20:00"
-            ],
-            "starting_points_b": [
-                "10:55",
-                "14:40",
-                "20:30"
-            ]
+            "starting_points_a": ["10:20", "14:05", "20:00"],
+            "starting_points_b": ["10:55", "14:40", "20:30"]
         },
         "type": "BUS"
     },
@@ -5099,76 +5013,34 @@
         "title": "NIŠ - Sićevo",
         "info": [],
         "weekday": {
-            "starting_points_a": [
-                "05:10",
-                "06:10",
-                "11:50",
-                "13:30",
-                "15:40"
-            ],
-            "starting_points_b": [
-                "05:50",
-                "06:50",
-                "12:50",
-                "14:15",
-                "16:30"
-            ]
+            "starting_points_a": ["05:10", "06:10", "11:50", "13:30", "15:40"],
+            "starting_points_b": ["05:50", "06:50", "12:50", "14:15", "16:30"]
         },
         "saturday": {
-            "starting_points_a": [
-                "06:40",
-                "15:15"
-            ],
-            "starting_points_b": [
-                "07:25",
-                "16:00"
-            ]
+            "starting_points_a": ["06:40", "15:15"],
+            "starting_points_b": ["07:25", "16:00"]
         },
         "sunday": {
-            "starting_points_a": [
-                "06:40",
-                "15:15"
-            ],
-            "starting_points_b": [
-                "07:25",
-                "16:00"
-            ]
+            "starting_points_a": ["06:40", "15:15"],
+            "starting_points_b": ["07:25", "16:00"]
         },
         "type": "BUS"
     },
     {
         "id": "19",
         "title": "NIŠ - Bancarevo",
-        "info": [
-            "* - Polasci koji svraćaju u Jelašnicu"
-        ],
+        "info": ["* - Polasci koji svraćaju u Jelašnicu"],
         "weekday": {
-            "starting_points_a": [
-                "04:45",
-                "15:30*",
-                "18:00*"
-            ],
-            "starting_points_b": [
-                "05:50*",
-                "16:40",
-                "19:10*"
-            ]
+            "starting_points_a": ["04:45", "15:30*", "18:00*"],
+            "starting_points_b": ["05:50*", "16:40", "19:10*"]
         },
         "saturday": {
-            "starting_points_a": [
-                "18:00*"
-            ],
-            "starting_points_b": [
-                "19:10*"
-            ]
+            "starting_points_a": ["18:00*"],
+            "starting_points_b": ["19:10*"]
         },
         "sunday": {
-            "starting_points_a": [
-                "18:00*"
-            ],
-            "starting_points_b": [
-                "19:10*"
-            ]
+            "starting_points_a": ["18:00*"],
+            "starting_points_b": ["19:10*"]
         },
         "type": "BUS"
     },
@@ -5177,47 +5049,23 @@
         "title": "NIŠ - Ravni Do",
         "info": [],
         "weekday": {
-            "starting_points_a": [
-                "04:00",
-                "07:00",
-                "11:05",
-                "15:45"
-            ],
-            "starting_points_b": [
-                "05:05",
-                "08:05",
-                "12:10",
-                "16:55"
-            ]
+            "starting_points_a": ["04:00", "07:00", "11:05", "15:45"],
+            "starting_points_b": ["05:05", "08:05", "12:10", "16:55"]
         },
         "saturday": {
-            "starting_points_a": [
-                "04:15",
-                "15:45"
-            ],
-            "starting_points_b": [
-                "05:20",
-                "16:55"
-            ]
+            "starting_points_a": ["04:15", "15:45"],
+            "starting_points_b": ["05:20", "16:55"]
         },
         "sunday": {
-            "starting_points_a": [
-                "04:15",
-                "19:40"
-            ],
-            "starting_points_b": [
-                "05:20",
-                "20:45"
-            ]
+            "starting_points_a": ["04:15", "19:40"],
+            "starting_points_b": ["05:20", "20:45"]
         },
         "type": "BUS"
     },
     {
         "id": "20L",
         "title": "NIŠ - Ostrovica",
-        "info": [
-            "*-Polazak saobraća u Sićevo naselje"
-        ],
+        "info": ["*-Polazak saobraća u Sićevo naselje"],
         "weekday": {
             "starting_points_a": [
                 "05:00",
@@ -5257,23 +5105,15 @@
             ]
         },
         "sunday": {
-            "starting_points_a": [
-                "06:55",
-                "10:30"
-            ],
-            "starting_points_b": [
-                "07:55",
-                "11:30"
-            ]
+            "starting_points_a": ["06:55", "10:30"],
+            "starting_points_b": ["07:55", "11:30"]
         },
         "type": "BUS"
     },
     {
         "id": "21",
         "title": "NIŠ - Gornja Studena",
-        "info": [
-            "*-Polazak saobraća preko Proseka"
-        ],
+        "info": ["*-Polazak saobraća preko Proseka"],
         "weekday": {
             "starting_points_a": [
                 "05:10",
@@ -5357,20 +5197,12 @@
         "title": "NIŠ - Jelašnica",
         "info": [],
         "weekday": {
-            "starting_points_a": [
-                "06:10"
-            ],
-            "starting_points_b": [
-                "06:45"
-            ]
+            "starting_points_a": ["06:10"],
+            "starting_points_b": ["06:45"]
         },
         "saturday": {
-            "starting_points_a": [
-                "05:35"
-            ],
-            "starting_points_b": [
-                "06:15"
-            ]
+            "starting_points_a": ["05:35"],
+            "starting_points_b": ["06:15"]
         },
         "sunday": {
             "starting_points_a": [],
@@ -5381,34 +5213,18 @@
     {
         "id": "22",
         "title": "NIŠ - Vukmanovo",
-        "info": [
-            "*- preko Berbatova"
-        ],
+        "info": ["*- preko Berbatova"],
         "weekday": {
-            "starting_points_a": [
-                "16:00",
-                "23:30*"
-            ],
-            "starting_points_b": [
-                "05:15*",
-                "16:40"
-            ]
+            "starting_points_a": ["16:00", "23:30*"],
+            "starting_points_b": ["05:15*", "16:40"]
         },
         "saturday": {
-            "starting_points_a": [
-                "23:30*"
-            ],
-            "starting_points_b": [
-                "05:15*"
-            ]
+            "starting_points_a": ["23:30*"],
+            "starting_points_b": ["05:15*"]
         },
         "sunday": {
-            "starting_points_a": [
-                "21:30*"
-            ],
-            "starting_points_b": [
-                "05:20*"
-            ]
+            "starting_points_a": ["21:30*"],
+            "starting_points_b": ["05:20*"]
         },
         "type": "BUS"
     },
@@ -5417,12 +5233,8 @@
         "title": "NIŠ - Berbatovo",
         "info": [],
         "weekday": {
-            "starting_points_a": [
-                "15:50"
-            ],
-            "starting_points_b": [
-                "16:30"
-            ]
+            "starting_points_a": ["15:50"],
+            "starting_points_b": ["16:30"]
         },
         "saturday": {
             "starting_points_a": [],
@@ -5467,13 +5279,7 @@
             "starting_points_b": []
         },
         "sunday": {
-            "starting_points_a": [
-                "06:30",
-                "08:00",
-                "13:00",
-                "15:30",
-                "18:30"
-            ],
+            "starting_points_a": ["06:30", "08:00", "13:00", "15:30", "18:30"],
             "starting_points_b": []
         },
         "type": "BUS"
@@ -5483,28 +5289,12 @@
         "title": "NIŠ - Gabrovac",
         "info": [],
         "weekday": {
-            "starting_points_a": [
-                "05:15",
-                "11:45",
-                "14:45"
-            ],
-            "starting_points_b": [
-                "05:50",
-                "12:20",
-                "15:20"
-            ]
+            "starting_points_a": ["05:15", "11:45", "14:45"],
+            "starting_points_b": ["05:50", "12:20", "15:20"]
         },
         "saturday": {
-            "starting_points_a": [
-                "08:45",
-                "12:15",
-                "14:50"
-            ],
-            "starting_points_b": [
-                "09:20",
-                "12:50",
-                "15:25"
-            ]
+            "starting_points_a": ["08:45", "12:15", "14:50"],
+            "starting_points_b": ["09:20", "12:50", "15:25"]
         },
         "sunday": {
             "starting_points_a": [],
@@ -5537,24 +5327,12 @@
             ]
         },
         "saturday": {
-            "starting_points_a": [
-                "05:20",
-                "20:30"
-            ],
-            "starting_points_b": [
-                "05:55",
-                "21:05"
-            ]
+            "starting_points_a": ["05:20", "20:30"],
+            "starting_points_b": ["05:55", "21:05"]
         },
         "sunday": {
-            "starting_points_a": [
-                "10:00",
-                "19:50"
-            ],
-            "starting_points_b": [
-                "10:35",
-                "20:25"
-            ]
+            "starting_points_a": ["10:00", "19:50"],
+            "starting_points_b": ["10:35", "20:25"]
         },
         "type": "BUS"
     },
@@ -5659,9 +5437,7 @@
     {
         "id": "26",
         "title": "NIŠ - Lalinac",
-        "info": [
-            "* polazak svraća u Čokot"
-        ],
+        "info": ["* polazak svraća u Čokot"],
         "weekday": {
             "starting_points_a": [
                 "04:50",
@@ -5725,20 +5501,8 @@
             ]
         },
         "sunday": {
-            "starting_points_a": [
-                "05:30",
-                "06:30",
-                "15:30",
-                "17:30",
-                "21:30"
-            ],
-            "starting_points_b": [
-                "06:00",
-                "07:00",
-                "16:00",
-                "18:00",
-                "22:00"
-            ]
+            "starting_points_a": ["05:30", "06:30", "15:30", "17:30", "21:30"],
+            "starting_points_b": ["06:00", "07:00", "16:00", "18:00", "22:00"]
         },
         "type": "BUS"
     },
@@ -5968,21 +5732,15 @@
         "title": "Mezgraja - Vrtište - Medoševac - NIŠ",
         "info": [],
         "weekday": {
-            "starting_points_a": [
-                "06:05"
-            ],
+            "starting_points_a": ["06:05"],
             "starting_points_b": []
         },
         "saturday": {
-            "starting_points_a": [
-                "06:05"
-            ],
+            "starting_points_a": ["06:05"],
             "starting_points_b": []
         },
         "sunday": {
-            "starting_points_a": [
-                "06:05"
-            ],
+            "starting_points_a": ["06:05"],
             "starting_points_b": []
         },
         "type": "BUS"
@@ -5992,21 +5750,15 @@
         "title": "PAS NIŠ - Čamurlija - Mezgraja",
         "info": [],
         "weekday": {
-            "starting_points_a": [
-                "05:35"
-            ],
+            "starting_points_a": ["05:35"],
             "starting_points_b": []
         },
         "saturday": {
-            "starting_points_a": [
-                "05:35"
-            ],
+            "starting_points_a": ["05:35"],
             "starting_points_b": []
         },
         "sunday": {
-            "starting_points_a": [
-                "05:35"
-            ],
+            "starting_points_a": ["05:35"],
             "starting_points_b": []
         },
         "type": "BUS"
@@ -6014,9 +5766,7 @@
     {
         "id": "29",
         "title": "NIŠ - Toponica - Mezgraja - Gornja Trnava",
-        "info": [
-            "*polazak ulazi u selo Mezgraja"
-        ],
+        "info": ["*polazak ulazi u selo Mezgraja"],
         "weekday": {
             "starting_points_a": [
                 "06:00",
@@ -6044,32 +5794,12 @@
             ]
         },
         "saturday": {
-            "starting_points_a": [
-                "04:50",
-                "07:10",
-                "13:10",
-                "15:40",
-                "21:40"
-            ],
-            "starting_points_b": [
-                "05:35",
-                "07:55",
-                "13:55",
-                "16:25",
-                "22:25"
-            ]
+            "starting_points_a": ["04:50", "07:10", "13:10", "15:40", "21:40"],
+            "starting_points_b": ["05:35", "07:55", "13:55", "16:25", "22:25"]
         },
         "sunday": {
-            "starting_points_a": [
-                "05:50",
-                "13:30",
-                "21:15"
-            ],
-            "starting_points_b": [
-                "06:35",
-                "14:15",
-                "22:00"
-            ]
+            "starting_points_a": ["05:50", "13:30", "21:15"],
+            "starting_points_b": ["06:35", "14:15", "22:00"]
         },
         "type": "BUS"
     },
@@ -6078,28 +5808,16 @@
         "title": "NIŠ - Vrtište - Gornja Trnava",
         "info": [],
         "weekday": {
-            "starting_points_a": [
-                "19:40"
-            ],
-            "starting_points_b": [
-                "20:40"
-            ]
+            "starting_points_a": ["19:40"],
+            "starting_points_b": ["20:40"]
         },
         "saturday": {
-            "starting_points_a": [
-                "19:50"
-            ],
-            "starting_points_b": [
-                "20:50"
-            ]
+            "starting_points_a": ["19:50"],
+            "starting_points_b": ["20:50"]
         },
         "sunday": {
-            "starting_points_a": [
-                "19:00"
-            ],
-            "starting_points_b": [
-                "20:00"
-            ]
+            "starting_points_a": ["19:00"],
+            "starting_points_b": ["20:00"]
         },
         "type": "BUS"
     },
@@ -6157,19 +5875,8 @@
             ]
         },
         "sunday": {
-            "starting_points_a": [
-                "07:30",
-                "12:00",
-                "16:00",
-                "21:40"
-            ],
-            "starting_points_b": [
-                "05:30",
-                "08:10",
-                "12:40",
-                "16:40",
-                "22:20"
-            ]
+            "starting_points_a": ["07:30", "12:00", "16:00", "21:40"],
+            "starting_points_b": ["05:30", "08:10", "12:40", "16:40", "22:20"]
         },
         "type": "BUS"
     },
@@ -6204,32 +5911,12 @@
             ]
         },
         "saturday": {
-            "starting_points_a": [
-                "05:40",
-                "07:00",
-                "17:40",
-                "20:15"
-            ],
-            "starting_points_b": [
-                "06:05",
-                "07:25",
-                "18:05",
-                "20:40"
-            ]
+            "starting_points_a": ["05:40", "07:00", "17:40", "20:15"],
+            "starting_points_b": ["06:05", "07:25", "18:05", "20:40"]
         },
         "sunday": {
-            "starting_points_a": [
-                "05:40",
-                "09:30",
-                "14:00",
-                "18:00"
-            ],
-            "starting_points_b": [
-                "06:05",
-                "09:55",
-                "14:25",
-                "18:25"
-            ]
+            "starting_points_a": ["05:40", "09:30", "14:00", "18:00"],
+            "starting_points_b": ["06:05", "09:55", "14:25", "18:25"]
         },
         "type": "BUS"
     },
@@ -6260,34 +5947,12 @@
             ]
         },
         "saturday": {
-            "starting_points_a": [
-                "07:30",
-                "10:15",
-                "15:50",
-                "20:25",
-                "23:30"
-            ],
-            "starting_points_b": [
-                "05:20",
-                "08:45",
-                "11:30",
-                "17:05",
-                "21:40"
-            ]
+            "starting_points_a": ["07:30", "10:15", "15:50", "20:25", "23:30"],
+            "starting_points_b": ["05:20", "08:45", "11:30", "17:05", "21:40"]
         },
         "sunday": {
-            "starting_points_a": [
-                "10:15",
-                "15:15",
-                "20:25",
-                "23:30"
-            ],
-            "starting_points_b": [
-                "05:20",
-                "11:30",
-                "16:30",
-                "21:40"
-            ]
+            "starting_points_a": ["10:15", "15:15", "20:25", "23:30"],
+            "starting_points_b": ["05:20", "11:30", "16:30", "21:40"]
         },
         "type": "BUS"
     },
@@ -6296,38 +5961,16 @@
         "title": "NIŠ - Paligrace",
         "info": [],
         "weekday": {
-            "starting_points_a": [
-                "05:25",
-                "13:25",
-                "19:30"
-            ],
-            "starting_points_b": [
-                "06:20",
-                "14:30",
-                "20:25"
-            ]
+            "starting_points_a": ["05:25", "13:25", "19:30"],
+            "starting_points_b": ["06:20", "14:30", "20:25"]
         },
         "saturday": {
-            "starting_points_a": [
-                "05:25",
-                "11:15",
-                "13:25"
-            ],
-            "starting_points_b": [
-                "06:20",
-                "12:10",
-                "14:30"
-            ]
+            "starting_points_a": ["05:25", "11:15", "13:25"],
+            "starting_points_b": ["06:20", "12:10", "14:30"]
         },
         "sunday": {
-            "starting_points_a": [
-                "05:25",
-                "11:15"
-            ],
-            "starting_points_b": [
-                "06:20",
-                "12:10"
-            ]
+            "starting_points_a": ["05:25", "11:15"],
+            "starting_points_b": ["06:20", "12:10"]
         },
         "type": "BUS"
     },
@@ -6394,19 +6037,8 @@
             ]
         },
         "sunday": {
-            "starting_points_a": [
-                "05:15",
-                "08:30",
-                "12:40",
-                "15:45",
-                "20:45*"
-            ],
-            "starting_points_b": [
-                "06:00",
-                "09:15",
-                "13:25",
-                "16:30"
-            ]
+            "starting_points_a": ["05:15", "08:30", "12:40", "15:45", "20:45*"],
+            "starting_points_b": ["06:00", "09:15", "13:25", "16:30"]
         },
         "type": "BUS"
     },
@@ -6676,35 +6308,12 @@
             ]
         },
         "saturday": {
-            "starting_points_a": [
-                "06:15",
-                "09:15",
-                "14:55",
-                "20:35",
-                "23:30"
-            ],
-            "starting_points_b": [
-                "05:25",
-                "12:00",
-                "13:30",
-                "16:40",
-                "19:45"
-            ]
+            "starting_points_a": ["06:15", "09:15", "14:55", "20:35", "23:30"],
+            "starting_points_b": ["05:25", "12:00", "13:30", "16:40", "19:45"]
         },
         "sunday": {
-            "starting_points_a": [
-                "06:15",
-                "07:50",
-                "09:15",
-                "15:00",
-                "19:00"
-            ],
-            "starting_points_b": [
-                "05:25",
-                "12:45",
-                "16:35",
-                "22:00"
-            ]
+            "starting_points_a": ["06:15", "07:50", "09:15", "15:00", "19:00"],
+            "starting_points_b": ["05:25", "12:45", "16:35", "22:00"]
         },
         "type": "BUS"
     },
@@ -6887,18 +6496,8 @@
             ]
         },
         "sunday": {
-            "starting_points_a": [
-                "06:10",
-                "07:30",
-                "15:45",
-                "18:00"
-            ],
-            "starting_points_b": [
-                "06:50",
-                "08:10",
-                "16:25",
-                "18:40"
-            ]
+            "starting_points_a": ["06:10", "07:30", "15:45", "18:00"],
+            "starting_points_b": ["06:50", "08:10", "16:25", "18:40"]
         },
         "type": "BUS"
     },
@@ -6953,30 +6552,15 @@
             ]
         },
         "sunday": {
-            "starting_points_a": [
-                "06:15",
-                "07:45",
-                "12:10",
-                "15:45",
-                "21:10"
-            ],
-            "starting_points_b": [
-                "06:55",
-                "08:25",
-                "13:00",
-                "16:25",
-                "21:55"
-            ]
+            "starting_points_a": ["06:15", "07:45", "12:10", "15:45", "21:10"],
+            "starting_points_b": ["06:55", "08:25", "13:00", "16:25", "21:55"]
         },
         "type": "BUS"
     },
     {
         "id": "39",
         "title": "NIŠ - Supovac - Sečanica",
-        "info": [
-            "*saobraća do Supovca ",
-            "**ulazi u Mezgraju "
-        ],
+        "info": ["*saobraća do Supovca ", "**ulazi u Mezgraju "],
         "weekday": {
             "starting_points_a": [
                 "04:10*",
@@ -6998,26 +6582,12 @@
             ]
         },
         "saturday": {
-            "starting_points_a": [
-                "04:30",
-                "08:20",
-                "15:20"
-            ],
-            "starting_points_b": [
-                "05:25",
-                "09:15",
-                "16:30"
-            ]
+            "starting_points_a": ["04:30", "08:20", "15:20"],
+            "starting_points_b": ["05:25", "09:15", "16:30"]
         },
         "sunday": {
-            "starting_points_a": [
-                "06:00",
-                "15:20"
-            ],
-            "starting_points_b": [
-                "06:55",
-                "16:30"
-            ]
+            "starting_points_a": ["06:00", "15:20"],
+            "starting_points_b": ["06:55", "16:30"]
         },
         "type": "BUS"
     }
