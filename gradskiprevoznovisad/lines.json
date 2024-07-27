@@ -1197,28 +1197,6 @@
         }
     },
     {
-        "id": "3A",
-        "title": "ZEL.STANICA - POBED",
-        "type": "BUS",
-        "info": [],
-        "weekday": {
-            "starting_points_a": [
-                "07:00"
-            ],
-            "starting_points_b": [
-                "16:10"
-            ]
-        },
-        "saturday": {
-            "starting_points_a": [],
-            "starting_points_b": []
-        },
-        "sunday": {
-            "starting_points_a": [],
-            "starting_points_b": []
-        }
-    },
-    {
         "id": "3B",
         "title": "PETROVARADIN (O.S. J.DUCIC) - PUCKAROS",
         "type": "BUS",
