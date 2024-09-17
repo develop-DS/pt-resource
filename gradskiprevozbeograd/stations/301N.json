@@ -3,8 +3,8 @@
     {
       "id": "_1",
       "label": "Trg republike",
-      "longitude": 20.4617425740777,
-      "latitude": 44.8166646919616
+      "longitude": 20.4621133312437,
+      "latitude": 44.8156764835046
     },
     {
       "id": "_2",
@@ -32,372 +32,402 @@
     },
     {
       "id": "_6",
-      "label": "Batutova",
-      "longitude": 20.4995074794414,
-      "latitude": 44.7951755178051
+      "label": "GO Zvezdara",
+      "longitude": 20.4826770173225,
+      "latitude": 44.8023041305215
     },
     {
       "id": "_7",
+      "label": "Pijaca Đeram",
+      "longitude": 20.487277483137,
+      "latitude": 44.8003808736458
+    },
+    {
+      "id": "_8",
+      "label": "Pop Stojanova",
+      "longitude": 20.4915655364201,
+      "latitude": 44.7985910404997
+    },
+    {
+      "id": "_9",
+      "label": "Lion",
+      "longitude": 20.495472906767,
+      "latitude": 44.7969433658914
+    },
+    {
+      "id": "_10",
+      "label": "Batutova",
+      "longitude": 20.499815055926,
+      "latitude": 44.7951411844009
+    },
+    {
+      "id": "_11",
       "label": "Pijaca Zvezdara",
       "longitude": 20.5047073011366,
       "latitude": 44.7930867763058
     },
     {
-      "id": "_8",
+      "id": "_12",
       "label": "Dr Velizara Kosanovića",
       "longitude": 20.5089844562786,
       "latitude": 44.7924607823968
     },
     {
-      "id": "_9",
+      "id": "_13",
       "label": "Mite Ružića",
       "longitude": 20.5136194698621,
       "latitude": 44.7904394134507
     },
     {
-      "id": "_10",
+      "id": "_14",
       "label": "Koste Trifkovića",
       "longitude": 20.5162784323904,
       "latitude": 44.7886255365273
     },
     {
-      "id": "_11",
+      "id": "_15",
       "label": "Prvomajska",
       "longitude": 20.5211262691793,
       "latitude": 44.7837068972296
     },
     {
-      "id": "_12",
+      "id": "_16",
       "label": "Bajdina",
       "longitude": 20.525773951973,
       "latitude": 44.7793703939793
     },
     {
-      "id": "_13",
+      "id": "_17",
       "label": "Mirijevska",
       "longitude": 20.5298996603957,
       "latitude": 44.7776288417081
     },
     {
-      "id": "_14",
+      "id": "_18",
       "label": "OŠ Dragojlo Dudić",
       "longitude": 20.534610090852,
       "latitude": 44.7754161330401
     },
     {
-      "id": "_15",
+      "id": "_19",
       "label": "Pirandelova",
       "longitude": 20.5404161759326,
       "latitude": 44.7771296376794
     },
     {
-      "id": "_16",
+      "id": "_20",
       "label": "Nine Kirsanove",
       "longitude": 20.5480874884963,
       "latitude": 44.7762529223648
     },
     {
-      "id": "_17",
+      "id": "_21",
       "label": "Novo naselje",
       "longitude": 20.5540902297077,
       "latitude": 44.7724749593316
     },
     {
-      "id": "_18",
+      "id": "_22",
+      "label": "Ilije Guteše",
+      "longitude": 20.55823,
+      "latitude": 44.77033
+    },
+    {
+      "id": "_23",
       "label": "Put za Kaluđericu",
       "longitude": 20.5604030358932,
       "latitude": 44.7676827109783
     },
     {
-      "id": "_19",
+      "id": "_24",
       "label": "Dom zdravlja",
       "longitude": 20.5581799641879,
       "latitude": 44.7656348731446
     },
     {
-      "id": "_20",
+      "id": "_25",
       "label": "Kopaonička",
       "longitude": 20.5543278654,
       "latitude": 44.7645292400694
     },
     {
-      "id": "_21",
+      "id": "_26",
       "label": "Stepe Stepanovića",
       "longitude": 20.549597044686,
       "latitude": 44.7623994793297
     },
     {
-      "id": "_22",
+      "id": "_27",
       "label": "Željka Milivojevića",
       "longitude": 20.5511759233513,
       "latitude": 44.7591334032409
     },
     {
-      "id": "_23",
+      "id": "_28",
       "label": "Radisava Ignjatovića",
       "longitude": 20.5518519675989,
       "latitude": 44.7569617371373
     },
     {
-      "id": "_24",
+      "id": "_29",
       "label": "Kaluđerica (centar)",
       "longitude": 20.5539437281283,
       "latitude": 44.7533160358844
     },
     {
-      "id": "_25",
+      "id": "_30",
       "label": "Isidora Blagojevića",
       "longitude": 20.5564068359211,
       "latitude": 44.7526182047271
     },
     {
-      "id": "_26",
+      "id": "_31",
       "label": "Kaluđerica",
       "longitude": 20.5608895768381,
       "latitude": 44.7520612529481
     },
     {
-      "id": "_27",
+      "id": "_32",
       "label": "Isidora Blagojevića",
       "longitude": 20.5559715548546,
       "latitude": 44.7523933323259
     },
     {
-      "id": "_28",
+      "id": "_33",
       "label": "Kaluđerica (centar)",
       "longitude": 20.5540479517725,
       "latitude": 44.7532300442541
     },
     {
-      "id": "_29",
+      "id": "_34",
       "label": "Radisava Ignjatovića",
       "longitude": 20.5523748558401,
       "latitude": 44.7566361902494
     },
     {
-      "id": "_30",
+      "id": "_35",
       "label": "Željka Milivojevića",
       "longitude": 20.5513027165933,
       "latitude": 44.759192327458
     },
     {
-      "id": "_31",
+      "id": "_36",
       "label": "Stepe Stepanovića",
       "longitude": 20.5498126715445,
       "latitude": 44.7622851297882
     },
     {
-      "id": "_32",
+      "id": "_37",
       "label": "Kopaonička",
       "longitude": 20.5543389755068,
       "latitude": 44.7643978890113
     },
     {
-      "id": "_33",
+      "id": "_38",
       "label": "Dom zdravlja",
       "longitude": 20.5594444857297,
       "latitude": 44.765803522672
     },
     {
-      "id": "_34",
+      "id": "_39",
       "label": "Put za Institut",
       "longitude": 20.5643554081088,
       "latitude": 44.7645425089661
     },
     {
-      "id": "_35",
+      "id": "_40",
       "label": "Filipa Kljajića",
       "longitude": 20.5660517531518,
       "latitude": 44.7623620261194
     },
     {
-      "id": "_36",
+      "id": "_41",
       "label": "Stara Kaluđerica",
       "longitude": 20.5696466787473,
       "latitude": 44.7592994837846
     },
     {
-      "id": "_37",
+      "id": "_42",
       "label": "Čardak",
       "longitude": 20.5759198835739,
       "latitude": 44.7564519348523
     },
     {
-      "id": "_38",
+      "id": "_43",
       "label": "Hotel Radmilovac",
       "longitude": 20.5807793173361,
       "latitude": 44.7537590836894
     },
     {
-      "id": "_39",
+      "id": "_44",
       "label": "Petra Kočića",
       "longitude": 20.5839089990382,
       "latitude": 44.7509337792772
     },
     {
-      "id": "_40",
+      "id": "_45",
       "label": "Dušana Petrovića Šaneta",
       "longitude": 20.5877762855893,
       "latitude": 44.7484116235288
     },
     {
-      "id": "_41",
+      "id": "_46",
       "label": "Zdravstvena stanica Leštane i Vinča",
       "longitude": 20.5986012992368,
       "latitude": 44.7455484620032
     },
     {
-      "id": "_42",
+      "id": "_47",
       "label": "Boleč (pumpa)",
       "longitude": 20.6066576798746,
       "latitude": 44.7418720650132
     },
     {
-      "id": "_43",
+      "id": "_48",
       "label": "Boleč raskršće",
       "longitude": 20.6114945404098,
       "latitude": 44.7357201596251
     },
     {
-      "id": "_44",
+      "id": "_49",
       "label": "Bare",
       "longitude": 20.6224770435876,
       "latitude": 44.7278658520004
     },
     {
-      "id": "_45",
+      "id": "_50",
       "label": "Hladnjača PKB",
       "longitude": 20.6310941661735,
       "latitude": 44.7219198434715
     },
     {
-      "id": "_46",
+      "id": "_51",
       "label": "Vikendice",
       "longitude": 20.6599742887008,
       "latitude": 44.713093758102
     },
     {
-      "id": "_47",
+      "id": "_52",
       "label": "Plantaža",
       "longitude": 20.6631938126721,
       "latitude": 44.7058854768214
     },
     {
-      "id": "_48",
+      "id": "_53",
       "label": "Bećarevo brdo",
       "longitude": 20.6615722233185,
       "latitude": 44.7008588880416
     },
     {
-      "id": "_49",
+      "id": "_54",
       "label": "Put za Zaklopaču",
       "longitude": 20.6691906592787,
       "latitude": 44.6974053541038
     },
     {
-      "id": "_50",
+      "id": "_55",
       "label": "Usek",
       "longitude": 20.6831572141938,
       "latitude": 44.6911340461959
     },
     {
-      "id": "_51",
+      "id": "_56",
       "label": "Suva česma",
       "longitude": 20.6931586585681,
       "latitude": 44.6884162179712
     },
     {
-      "id": "_52",
+      "id": "_57",
       "label": "Careva glavica",
       "longitude": 20.7017628651417,
       "latitude": 44.6859044970843
     },
     {
-      "id": "_53",
+      "id": "_58",
       "label": "Gročica",
       "longitude": 20.7055758564952,
       "latitude": 44.6832665858152
     },
     {
-      "id": "_54",
+      "id": "_59",
       "label": "AMD Grocka",
       "longitude": 20.7103119660767,
       "latitude": 44.6806074713612
     },
     {
-      "id": "_55",
+      "id": "_60",
       "label": "Vase Čarapića",
       "longitude": 20.7127749149033,
       "latitude": 44.6778975169507
     },
     {
-      "id": "_56",
+      "id": "_61",
       "label": "Šumadijska",
       "longitude": 20.7161887476849,
       "latitude": 44.6736040990882
     },
     {
-      "id": "_57",
+      "id": "_62",
       "label": "JA",
       "longitude": 20.7168630641766,
       "latitude": 44.6697790650275
     },
     {
-      "id": "_58",
+      "id": "_63",
       "label": "Kosmajska",
       "longitude": 20.7128938896208,
       "latitude": 44.6675049065848
     },
     {
-      "id": "_59",
+      "id": "_64",
       "label": "15. maja",
       "longitude": 20.7092662729652,
       "latitude": 44.6650784758082
     },
     {
-      "id": "_60",
+      "id": "_65",
       "label": "Bosansko naselje",
       "longitude": 20.7068476821934,
       "latitude": 44.6599964813213
     },
     {
-      "id": "_61",
+      "id": "_66",
       "label": "Begaljički most",
       "longitude": 20.7068994704516,
       "latitude": 44.6561915106915
     },
     {
-      "id": "_62",
+      "id": "_67",
       "label": "Vinogradi",
       "longitude": 20.7055100711138,
       "latitude": 44.6526528558747
     },
     {
-      "id": "_63",
+      "id": "_68",
       "label": "Begaljica (ulaz)",
       "longitude": 20.7041544184018,
       "latitude": 44.6454531556266
     },
     {
-      "id": "_64",
+      "id": "_69",
       "label": "Borisa Kidriča",
       "longitude": 20.7040838894977,
       "latitude": 44.6429384328611
     },
     {
-      "id": "_65",
+      "id": "_70",
       "label": "Zelengora",
       "longitude": 20.7023667026849,
       "latitude": 44.6380129199888
     },
     {
-      "id": "_66",
+      "id": "_71",
       "label": "Ulica revolucije",
       "longitude": 20.6987097144397,
       "latitude": 44.6343836915652
     },
     {
-      "id": "_67",
+      "id": "_72",
       "label": "Begaljica",
       "longitude": 20.6951004118232,
       "latitude": 44.6323384367321
@@ -562,309 +592,99 @@
     },
     {
       "id": "_27",
-      "label": "Skladište boja",
-      "longitude": 20.5938605800395,
-      "latitude": 44.7390214705683
-    },
-    {
-      "id": "_28",
-      "label": "Elektrodistribucija",
-      "longitude": 20.5898322071992,
-      "latitude": 44.7354829031032
-    },
-    {
-      "id": "_29",
-      "label": "Stari put za Boleč",
-      "longitude": 20.5843817300238,
-      "latitude": 44.7306629058054
-    },
-    {
-      "id": "_30",
-      "label": "Leštane (ulaz)",
-      "longitude": 20.5758661804926,
-      "latitude": 44.7283944737615
-    },
-    {
-      "id": "_31",
-      "label": "Leštane",
-      "longitude": 20.57539749252,
-      "latitude": 44.7303474678706
-    },
-    {
-      "id": "_32",
-      "label": "Leštane (izlaz)",
-      "longitude": 20.5757805831376,
-      "latitude": 44.7280125722643
-    },
-    {
-      "id": "_33",
-      "label": "Stari put za Boleč",
-      "longitude": 20.5839111949252,
-      "latitude": 44.7300780253441
-    },
-    {
-      "id": "_34",
-      "label": "Elektrodistribucija",
-      "longitude": 20.5896778101796,
-      "latitude": 44.7351745640121
-    },
-    {
-      "id": "_35",
-      "label": "Skladište boja",
-      "longitude": 20.5942081230911,
-      "latitude": 44.7391594927724
-    },
-    {
-      "id": "_36",
-      "label": "Zdravstvena stanica Leštane i Vinča",
-      "longitude": 20.5999967560157,
-      "latitude": 44.7464658894715
-    },
-    {
-      "id": "_37",
-      "label": "Babin lug",
-      "longitude": 20.6044270470909,
-      "latitude": 44.7486717311774
-    },
-    {
-      "id": "_38",
-      "label": "Vinča (ulaz)",
-      "longitude": 20.6065393646555,
-      "latitude": 44.7500595234142
-    },
-    {
-      "id": "_39",
-      "label": "Mike Petrovića Alasa",
-      "longitude": 20.6109255368812,
-      "latitude": 44.7532783177662
-    },
-    {
-      "id": "_40",
-      "label": "Svetosavska",
-      "longitude": 20.6134246171631,
-      "latitude": 44.7558174407451
-    },
-    {
-      "id": "_41",
-      "label": "Vinča (škola)",
-      "longitude": 20.6163368879295,
-      "latitude": 44.7581742954794
-    },
-    {
-      "id": "_42",
-      "label": "Vinčanska",
-      "longitude": 20.621692672588,
-      "latitude": 44.7624290580386
-    },
-    {
-      "id": "_43",
-      "label": "Miloša Obrenovića",
-      "longitude": 20.6160881051607,
-      "latitude": 44.7648871707104
-    },
-    {
-      "id": "_44",
-      "label": "Vinča",
-      "longitude": 20.6107169839487,
-      "latitude": 44.7671244079453
-    },
-    {
-      "id": "_45",
-      "label": "Miloša Obrenovića",
-      "longitude": 20.61600532452,
-      "latitude": 44.7647968982472
-    },
-    {
-      "id": "_46",
-      "label": "Vinčanska",
-      "longitude": 20.6214184451585,
-      "latitude": 44.7622517631935
-    },
-    {
-      "id": "_47",
-      "label": "Vinča (škola)",
-      "longitude": 20.6164615754299,
-      "latitude": 44.7584213008404
-    },
-    {
-      "id": "_48",
-      "label": "Svetosavska",
-      "longitude": 20.6134758763704,
-      "latitude": 44.7560876015278
-    },
-    {
-      "id": "_49",
-      "label": "Mike Petrovića Alasa",
-      "longitude": 20.610831512937,
-      "latitude": 44.7533625959154
-    },
-    {
-      "id": "_50",
-      "label": "Vinča (ulaz)",
-      "longitude": 20.6068852343124,
-      "latitude": 44.7504602900436
-    },
-    {
-      "id": "_51",
-      "label": "Babin lug",
-      "longitude": 20.6032021677059,
-      "latitude": 44.7482805253743
-    },
-    {
-      "id": "_52",
       "label": "Zdravstvena stanica Leštane i Vinča",
       "longitude": 20.5972741950904,
       "latitude": 44.7460783975069
     },
     {
-      "id": "_53",
+      "id": "_28",
       "label": "Dušana Petrovića Šaneta",
       "longitude": 20.5867063635104,
       "latitude": 44.7489819565803
     },
     {
-      "id": "_54",
+      "id": "_29",
       "label": "Petra Kočića",
       "longitude": 20.5837554331597,
       "latitude": 44.7512158112213
     },
     {
-      "id": "_55",
+      "id": "_30",
       "label": "Hotel Radmilovac",
       "longitude": 20.5812719621827,
       "latitude": 44.753397295478
     },
     {
-      "id": "_56",
+      "id": "_31",
       "label": "Čardak",
       "longitude": 20.5755914667119,
       "latitude": 44.756801707084
     },
     {
-      "id": "_57",
+      "id": "_32",
       "label": "Stara Kaluđerica",
       "longitude": 20.5690651482041,
       "latitude": 44.7597076860465
     },
     {
-      "id": "_58",
+      "id": "_33",
       "label": "Filipa Kljajića",
       "longitude": 20.5658614548905,
       "latitude": 44.7628112872914
     },
     {
-      "id": "_59",
+      "id": "_34",
       "label": "Put za Institut",
       "longitude": 20.5632938157039,
       "latitude": 44.7656166301699
     },
     {
-      "id": "_60",
-      "label": "Put za Kaluđericu",
-      "longitude": 20.5604624247003,
-      "latitude": 44.7678485307922
+      "id": "_35",
+      "label": "Dom zdravlja",
+      "longitude": 20.5581799641879,
+      "latitude": 44.7656348731446
     },
     {
-      "id": "_61",
-      "label": "Novo naselje",
-      "longitude": 20.5534572735197,
-      "latitude": 44.7729674776248
+      "id": "_36",
+      "label": "Kopaonička",
+      "longitude": 20.5543278654,
+      "latitude": 44.7645292400694
     },
     {
-      "id": "_62",
-      "label": "Nine Kirsanove",
-      "longitude": 20.5482842677119,
-      "latitude": 44.7762950945512
+      "id": "_37",
+      "label": "Stepe Stepanovića",
+      "longitude": 20.549597044686,
+      "latitude": 44.7623994793297
     },
     {
-      "id": "_63",
-      "label": "Pirandelova",
-      "longitude": 20.5392764238933,
-      "latitude": 44.7768172851161
+      "id": "_38",
+      "label": "Željka Milivojevića",
+      "longitude": 20.5511759233513,
+      "latitude": 44.7591334032409
     },
     {
-      "id": "_64",
-      "label": "OŠ Dragojlo Dudić",
-      "longitude": 20.5335783691153,
-      "latitude": 44.7761373133847
+      "id": "_39",
+      "label": "Radisava Ignjatovića",
+      "longitude": 20.5518519675989,
+      "latitude": 44.7569617371373
     },
     {
-      "id": "_65",
-      "label": "Mirijevska",
-      "longitude": 20.5289299736302,
-      "latitude": 44.7781666423269
+      "id": "_40",
+      "label": "Kaluđerica (centar)",
+      "longitude": 20.5539437281283,
+      "latitude": 44.7533160358844
     },
     {
-      "id": "_66",
-      "label": "Bajdina",
-      "longitude": 20.5234526159313,
-      "latitude": 44.7810887013782
+      "id": "_41",
+      "label": "Isidora Blagojevića",
+      "longitude": 20.5564068359211,
+      "latitude": 44.7526182047271
     },
     {
-      "id": "_67",
-      "label": "Prvomajska",
-      "longitude": 20.5207501046355,
-      "latitude": 44.783964515289
-    },
-    {
-      "id": "_68",
-      "label": "Koste Trifkovića",
-      "longitude": 20.5159594017901,
-      "latitude": 44.7893009589398
-    },
-    {
-      "id": "_69",
-      "label": "Mite Ružića",
-      "longitude": 20.5127317422065,
-      "latitude": 44.791107016141
-    },
-    {
-      "id": "_70",
-      "label": "Dr Velizara Kosanovića",
-      "longitude": 20.5109171575512,
-      "latitude": 44.7919776567746
-    },
-    {
-      "id": "_71",
-      "label": "Pijaca Zvezdara",
-      "longitude": 20.5047686392372,
-      "latitude": 44.7933048301686
-    },
-    {
-      "id": "_72",
-      "label": "Batutova",
-      "longitude": 20.499690518538,
-      "latitude": 44.7953491071302
-    },
-    {
-      "id": "_73",
-      "label": "Tehnički fakulteti",
-      "longitude": 20.4763383280773,
-      "latitude": 44.8051840333328
-    },
-    {
-      "id": "_74",
-      "label": "Pravni fakultet",
-      "longitude": 20.4723282741585,
-      "latitude": 44.8068809760732
-    },
-    {
-      "id": "_75",
-      "label": "Glavna pošta",
-      "longitude": 20.4672209588748,
-      "latitude": 44.8099244175882
-    },
-    {
-      "id": "_76",
-      "label": "Terazije",
-      "longitude": 20.4610734378326,
-      "latitude": 44.8132849311366
-    },
-    {
-      "id": "_77",
-      "label": "Trg republike",
-      "longitude": 20.4610306188357,
-      "latitude": 44.8162671711599
+      "id": "_42",
+      "label": "Kaluđerica",
+      "longitude": 20.5608895768381,
+      "latitude": 44.7520612529481
     }
   ]
 }

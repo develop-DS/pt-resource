@@ -2,6 +2,164 @@
   "direction_a": [
     {
       "id": "_1",
+      "label": "Bele vode",
+      "longitude": 20.4034448085318,
+      "latitude": 44.7486041772027
+    },
+    {
+      "id": "_2",
+      "label": "Belo vrelo",
+      "longitude": 20.4055309575376,
+      "latitude": 44.7508469151825
+    },
+    {
+      "id": "_3",
+      "label": "Crveno barjače",
+      "longitude": 20.4081182834516,
+      "latitude": 44.7500215315739
+    },
+    {
+      "id": "_4",
+      "label": "Zdravka Jovanovića",
+      "longitude": 20.4106484833635,
+      "latitude": 44.7490932000033
+    },
+    {
+      "id": "_5",
+      "label": "Jablanička",
+      "longitude": 20.4121628799153,
+      "latitude": 44.7497021461355
+    },
+    {
+      "id": "_6",
+      "label": "Braće Vučković",
+      "longitude": 20.4146695050241,
+      "latitude": 44.754630556559
+    },
+    {
+      "id": "_7",
+      "label": "Žarkovo",
+      "longitude": 20.4154615894523,
+      "latitude": 44.7595213843687
+    },
+    {
+      "id": "_8",
+      "label": "Julino brdo",
+      "longitude": 20.4139046683313,
+      "latitude": 44.7636100589606
+    },
+    {
+      "id": "_9",
+      "label": "Trebevićka",
+      "longitude": 20.4143679959541,
+      "latitude": 44.7715482675454
+    },
+    {
+      "id": "_10",
+      "label": "Kijevska",
+      "longitude": 20.4138574029671,
+      "latitude": 44.7758312615877
+    },
+    {
+      "id": "_11",
+      "label": "Dom zdravlja",
+      "longitude": 20.4159577149361,
+      "latitude": 44.7790656243339
+    },
+    {
+      "id": "_12",
+      "label": "Škola Josif Pančić",
+      "longitude": 20.4177988662816,
+      "latitude": 44.7814508718708
+    },
+    {
+      "id": "_13",
+      "label": "Kirovljeva",
+      "longitude": 20.4179117112584,
+      "latitude": 44.7848226834066
+    },
+    {
+      "id": "_14",
+      "label": "Ada Ciganlija",
+      "longitude": 20.4199404372204,
+      "latitude": 44.7884471855672
+    },
+    {
+      "id": "_15",
+      "label": "Petlja Radnička",
+      "longitude": 20.4269233361216,
+      "latitude": 44.7922118123979
+    },
+    {
+      "id": "_16",
+      "label": "Gospodarska mehana",
+      "longitude": 20.4336127623586,
+      "latitude": 44.7944711917042
+    },
+    {
+      "id": "_17",
+      "label": "Ruska",
+      "longitude": 20.4381751998929,
+      "latitude": 44.7952763240306
+    },
+    {
+      "id": "_18",
+      "label": "Sajam",
+      "longitude": 20.4420563488721,
+      "latitude": 44.7963250729334
+    },
+    {
+      "id": "_19",
+      "label": "Drinska",
+      "longitude": 20.4518321880527,
+      "latitude": 44.8008577965623
+    },
+    {
+      "id": "_20",
+      "label": "Miloša Pocerca",
+      "longitude": 20.4550125996738,
+      "latitude": 44.8035458106545
+    },
+    {
+      "id": "_21",
+      "label": "Nemanjina 1",
+      "longitude": 20.4575367973115,
+      "latitude": 44.8061424389964
+    },
+    {
+      "id": "_22",
+      "label": "Kneza Miloša",
+      "longitude": 20.4606080823449,
+      "latitude": 44.8053901574623
+    },
+    {
+      "id": "_23",
+      "label": "Trg Slavija",
+      "longitude": 20.4661770642646,
+      "latitude": 44.8035496964553
+    },
+    {
+      "id": "_24",
+      "label": "RK Beograđanka",
+      "longitude": 20.4640038424677,
+      "latitude": 44.8075533585267
+    },
+    {
+      "id": "_25",
+      "label": "Terazije",
+      "longitude": 20.4610734378326,
+      "latitude": 44.8132849311366
+    },
+    {
+      "id": "_26",
+      "label": "Trg republike",
+      "longitude": 20.4607188559041,
+      "latitude": 44.8155277458009
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
       "label": "Trg republike",
       "longitude": 20.4604999027432,
       "latitude": 44.8154151225036
@@ -155,164 +313,6 @@
       "label": "Bele vode",
       "longitude": 20.403860183251,
       "latitude": 44.7492327107289
-    }
-  ],
-  "direction_b": [
-    {
-      "id": "_1",
-      "label": "Bele vode",
-      "longitude": 20.4034448085318,
-      "latitude": 44.7486041772027
-    },
-    {
-      "id": "_2",
-      "label": "Belo vrelo",
-      "longitude": 20.4055309575376,
-      "latitude": 44.7508469151825
-    },
-    {
-      "id": "_3",
-      "label": "Crveno barjače",
-      "longitude": 20.4081182834516,
-      "latitude": 44.7500215315739
-    },
-    {
-      "id": "_4",
-      "label": "Zdravka Jovanovića",
-      "longitude": 20.4106484833635,
-      "latitude": 44.7490932000033
-    },
-    {
-      "id": "_5",
-      "label": "Jablanička",
-      "longitude": 20.4121628799153,
-      "latitude": 44.7497021461355
-    },
-    {
-      "id": "_6",
-      "label": "Braće Vučković",
-      "longitude": 20.4146695050241,
-      "latitude": 44.754630556559
-    },
-    {
-      "id": "_7",
-      "label": "Žarkovo",
-      "longitude": 20.4154615894523,
-      "latitude": 44.7595213843687
-    },
-    {
-      "id": "_8",
-      "label": "Julino brdo",
-      "longitude": 20.4139046683313,
-      "latitude": 44.7636100589606
-    },
-    {
-      "id": "_9",
-      "label": "Trebevićka",
-      "longitude": 20.4143679959541,
-      "latitude": 44.7715482675454
-    },
-    {
-      "id": "_10",
-      "label": "Kijevska",
-      "longitude": 20.4138574029671,
-      "latitude": 44.7758312615877
-    },
-    {
-      "id": "_11",
-      "label": "Dom zdravlja",
-      "longitude": 20.4159577149361,
-      "latitude": 44.7790656243339
-    },
-    {
-      "id": "_12",
-      "label": "Škola Josif Pančić",
-      "longitude": 20.4177988662816,
-      "latitude": 44.7814508718708
-    },
-    {
-      "id": "_13",
-      "label": "Kirovljeva",
-      "longitude": 20.4179117112584,
-      "latitude": 44.7848226834066
-    },
-    {
-      "id": "_14",
-      "label": "Ada Ciganlija",
-      "longitude": 20.4199404372204,
-      "latitude": 44.7884471855672
-    },
-    {
-      "id": "_15",
-      "label": "Petlja Radnička",
-      "longitude": 20.4269260152845,
-      "latitude": 44.7922118123979
-    },
-    {
-      "id": "_16",
-      "label": "Gospodarska mehana",
-      "longitude": 20.4336164890262,
-      "latitude": 44.7944624326348
-    },
-    {
-      "id": "_17",
-      "label": "Ruska",
-      "longitude": 20.4381790000629,
-      "latitude": 44.7952642285528
-    },
-    {
-      "id": "_18",
-      "label": "Sajam",
-      "longitude": 20.4420563488721,
-      "latitude": 44.7963250729334
-    },
-    {
-      "id": "_19",
-      "label": "Drinska",
-      "longitude": 20.4518321880527,
-      "latitude": 44.8008577965623
-    },
-    {
-      "id": "_20",
-      "label": "Miloša Pocerca",
-      "longitude": 20.4550125996738,
-      "latitude": 44.8035458106545
-    },
-    {
-      "id": "_21",
-      "label": "Nemanjina 1",
-      "longitude": 20.4575367973115,
-      "latitude": 44.8061424389964
-    },
-    {
-      "id": "_22",
-      "label": "Kneza Miloša",
-      "longitude": 20.4606080823449,
-      "latitude": 44.8053901574623
-    },
-    {
-      "id": "_23",
-      "label": "Trg Slavija",
-      "longitude": 20.4661770642646,
-      "latitude": 44.8035496964553
-    },
-    {
-      "id": "_24",
-      "label": "RK Beograđanka",
-      "longitude": 20.4640038424677,
-      "latitude": 44.8075533585267
-    },
-    {
-      "id": "_25",
-      "label": "Terazije",
-      "longitude": 20.4610734378326,
-      "latitude": 44.8132849311366
-    },
-    {
-      "id": "_26",
-      "label": "Trg republike",
-      "longitude": 20.4607188559041,
-      "latitude": 44.8155277458009
     }
   ]
 }

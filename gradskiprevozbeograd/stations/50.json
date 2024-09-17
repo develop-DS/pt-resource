@@ -2,401 +2,365 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Bulevar kralja Aleksandra",
-      "longitude": 20.5176944350182,
-      "latitude": 44.7839787182907
+      "label": "Zemun",
+      "longitude": 20.3719943291078,
+      "latitude": 44.8367340119744
     },
     {
       "id": "_2",
-      "label": "Konjarnik",
-      "longitude": 20.5108922777747,
-      "latitude": 44.7823030190255
+      "label": "Novi Beograd",
+      "longitude": 20.417932662659,
+      "latitude": 44.8068305435762
     },
     {
       "id": "_3",
-      "label": "Petrinjska",
-      "longitude": 20.5055970497212,
-      "latitude": 44.7829697032573
+      "label": "Beograd centar",
+      "longitude": 20.4530933,
+      "latitude": 44.7932933
     },
     {
       "id": "_4",
-      "label": "Šumice",
-      "longitude": 20.5013687183876,
-      "latitude": 44.78298921242
+      "label": "Rakovica",
+      "longitude": 20.4436629775231,
+      "latitude": 44.7473999770486
     },
     {
       "id": "_5",
-      "label": "Medaković 2",
-      "longitude": 20.4997318423423,
-      "latitude": 44.7749526675893
+      "label": "Resnik",
+      "longitude": 20.4476594542444,
+      "latitude": 44.705361475793
     },
     {
       "id": "_6",
-      "label": "Svetozara Radojčića",
-      "longitude": 20.5022425526906,
-      "latitude": 44.7721215130103
+      "label": "Barajevo Centar",
+      "longitude": 20.4122274349095,
+      "latitude": 44.5772362122615
     },
     {
       "id": "_7",
-      "label": "Zaplanjska",
-      "longitude": 20.5005624185723,
-      "latitude": 44.7688563634862
+      "label": "Lazarevac",
+      "longitude": 20.245558,
+      "latitude": 44.384834
     },
     {
       "id": "_8",
-      "label": "Naselje Braće Jerković",
-      "longitude": 20.4997741835448,
-      "latitude": 44.7650209032317
+      "label": "Lajkovac",
+      "longitude": 20.1641110425954,
+      "latitude": 44.3679654800278
     },
     {
       "id": "_9",
-      "label": "Braće Jerković (Mitrovo brdo)",
-      "longitude": 20.4975517356776,
-      "latitude": 44.7631608787103
+      "label": "Slovac",
+      "longitude": 20.0930632621022,
+      "latitude": 44.347237498903
     },
     {
       "id": "_10",
-      "label": "SC Sport eko",
-      "longitude": 20.4930269061577,
-      "latitude": 44.7646115173547
+      "label": "Mlađevo",
+      "longitude": 20.0631251167271,
+      "latitude": 44.3124445096474
     },
     {
       "id": "_11",
-      "label": "Bulevar Peka Dapčevića",
-      "longitude": 20.4893441030115,
-      "latitude": 44.7627880714813
+      "label": "Divci",
+      "longitude": 20.0278098016334,
+      "latitude": 44.3005127771672
     },
     {
       "id": "_12",
-      "label": "Trošarina",
-      "longitude": 20.4832738409457,
-      "latitude": 44.7615844086128
+      "label": "Iverak",
+      "longitude": 19.9588556064847,
+      "latitude": 44.2920043048269
     },
     {
       "id": "_13",
-      "label": "Paunova",
-      "longitude": 20.4755839751161,
-      "latitude": 44.761098763206
+      "label": "Valjevo",
+      "longitude": 19.9072058683628,
+      "latitude": 44.2709122149836
     },
     {
       "id": "_14",
-      "label": "Pet solitera",
-      "longitude": 20.4729731720706,
-      "latitude": 44.759411206158
+      "label": "Leskovice",
+      "longitude": 19.8680101303378,
+      "latitude": 44.1727958660102
     },
     {
       "id": "_15",
-      "label": "Raška",
-      "longitude": 20.4675635831909,
-      "latitude": 44.7548054323683
+      "label": "Lastra",
+      "longitude": 19.8867508025106,
+      "latitude": 44.1564007111539
     },
     {
       "id": "_16",
-      "label": "Pere Velimirovića",
-      "longitude": 20.4600218368766,
-      "latitude": 44.7571406885234
+      "label": "Samari",
+      "longitude": 19.8580837249756,
+      "latitude": 44.1234893798828
     },
     {
       "id": "_17",
-      "label": "Srpskih udarnih brigada",
-      "longitude": 20.4563627580518,
-      "latitude": 44.7542903323306
+      "label": "Drenovački kik",
+      "longitude": 19.8858190235975,
+      "latitude": 44.088131358316
     },
     {
       "id": "_18",
-      "label": "Kanarevo brdo",
-      "longitude": 20.4550937068251,
-      "latitude": 44.7519642112501
+      "label": "Ražana",
+      "longitude": 19.9084539991369,
+      "latitude": 44.0604923984593
     },
     {
       "id": "_19",
-      "label": "Vareška",
-      "longitude": 20.455719864568,
-      "latitude": 44.7498306732597
+      "label": "Kosjerić",
+      "longitude": 19.9185436626824,
+      "latitude": 44.0004273999548
     },
     {
       "id": "_20",
-      "label": "Stanka Paunovića",
-      "longitude": 20.4522648700849,
-      "latitude": 44.7484480890725
+      "label": "Tubići",
+      "longitude": 19.9540176391602,
+      "latitude": 43.9730415344238
     },
     {
       "id": "_21",
-      "label": "Miljakovac 1",
-      "longitude": 20.4497333172447,
-      "latitude": 44.7482559832715
+      "label": "Kalenić",
+      "longitude": 19.989725112915,
+      "latitude": 43.9274597167969
     },
     {
       "id": "_22",
-      "label": "GO Rakovica",
-      "longitude": 20.4461644023972,
-      "latitude": 44.7437371968833
+      "label": "Otanj",
+      "longitude": 19.9971405917817,
+      "latitude": 43.8969488805233
     },
     {
       "id": "_23",
-      "label": "Marička",
-      "longitude": 20.4380689292106,
-      "latitude": 44.7454095606263
+      "label": "Glumač",
+      "longitude": 19.9993877410889,
+      "latitude": 43.8779373168945
     },
     {
       "id": "_24",
-      "label": "Janković Stojana",
-      "longitude": 20.4342883837084,
-      "latitude": 44.7451119918289
+      "label": "Požega",
+      "longitude": 20.0291595815659,
+      "latitude": 43.840608627481
     },
     {
       "id": "_25",
-      "label": "Pilota Mihaila Petrovića",
-      "longitude": 20.4257466213177,
-      "latitude": 44.7440903909167
+      "label": "Rasna",
+      "longitude": 20.0243527432739,
+      "latitude": 43.8081100615804
     },
     {
       "id": "_26",
-      "label": "Kneza Višeslava",
-      "longitude": 20.429665921861,
-      "latitude": 44.7482623721539
+      "label": "Uzići",
+      "longitude": 19.9805559262236,
+      "latitude": 43.8123192485171
     },
     {
       "id": "_27",
-      "label": "Ane Ahmatove",
-      "longitude": 20.4275946256043,
-      "latitude": 44.750334568134
+      "label": "Zlakusa",
+      "longitude": 19.9519568025758,
+      "latitude": 43.8064985179496
     },
     {
       "id": "_28",
-      "label": "Ratka Mitrovića",
-      "longitude": 20.4241310823089,
-      "latitude": 44.7539692780426
+      "label": "Sevojno",
+      "longitude": 19.904601082008,
+      "latitude": 43.8379730690873
     },
     {
       "id": "_29",
-      "label": "Ace Joksimovića",
-      "longitude": 20.4194596900353,
-      "latitude": 44.7570865960254
+      "label": "Užice Teretna",
+      "longitude": 19.8585472106934,
+      "latitude": 43.8467102050781
     },
     {
       "id": "_30",
-      "label": "Žarkovo",
-      "longitude": 20.4154615894523,
-      "latitude": 44.7595213843687
+      "label": "Užice",
+      "longitude": 19.8397966480281,
+      "latitude": 43.8536356689959
     },
     {
       "id": "_31",
-      "label": "Julino brdo",
-      "longitude": 20.4139046683313,
-      "latitude": 44.7636100589606
+      "label": "Stapari",
+      "longitude": 19.7623287089621,
+      "latitude": 43.8458577842637
     },
     {
       "id": "_32",
-      "label": "Banovo brdo",
-      "longitude": 20.4138049186733,
-      "latitude": 44.7684981299951
+      "label": "Ristanovića Polje",
+      "longitude": 19.7446231842041,
+      "latitude": 43.8291244506836
+    },
+    {
+      "id": "_33",
+      "label": "Tripkova",
+      "longitude": 19.7419117684439,
+      "latitude": 43.8071019961652
+    },
+    {
+      "id": "_34",
+      "label": "Sušica",
+      "longitude": 19.7532577655875,
+      "latitude": 43.7886119485968
+    },
+    {
+      "id": "_35",
+      "label": "Branešci",
+      "longitude": 19.6817683727325,
+      "latitude": 43.7793772021968
+    },
+    {
+      "id": "_36",
+      "label": "Zlatibor",
+      "longitude": 19.6141028922113,
+      "latitude": 43.735066846036
+    },
+    {
+      "id": "_37",
+      "label": "Ribnica Zlatiborska",
+      "longitude": 19.5733305940962,
+      "latitude": 43.7080486824467
+    },
+    {
+      "id": "_38",
+      "label": "Jablanica",
+      "longitude": 19.5172920227051,
+      "latitude": 43.7008514404297
+    },
+    {
+      "id": "_39",
+      "label": "Štrpci",
+      "longitude": 19.5032691955566,
+      "latitude": 43.6388702392578
+    },
+    {
+      "id": "_40",
+      "label": "Rača",
+      "longitude": 19.5007795655673,
+      "latitude": 43.6202329528852
+    },
+    {
+      "id": "_41",
+      "label": "Priboj",
+      "longitude": 19.524928129526,
+      "latitude": 43.582147114362
+    },
+    {
+      "id": "_42",
+      "label": "Poljice",
+      "longitude": 19.5416647490176,
+      "latitude": 43.5638277529193
+    },
+    {
+      "id": "_43",
+      "label": "Pribojska Banja",
+      "longitude": 19.5695667266846,
+      "latitude": 43.5308685302734
+    },
+    {
+      "id": "_44",
+      "label": "Bistrica na Limu",
+      "longitude": 19.6465872859193,
+      "latitude": 43.4833919080551
+    },
+    {
+      "id": "_45",
+      "label": "Džurovo",
+      "longitude": 19.6331558227539,
+      "latitude": 43.4434356689453
+    },
+    {
+      "id": "_46",
+      "label": "Prijepolje",
+      "longitude": 19.6403675610388,
+      "latitude": 43.3928345630047
+    },
+    {
+      "id": "_47",
+      "label": "Prijepolje Teretna",
+      "longitude": 19.6332740783691,
+      "latitude": 43.3664512634277
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Banovo brdo",
-      "longitude": 20.4138049186733,
-      "latitude": 44.7684981299951
+      "label": "Zemun",
+      "longitude": 20.3719943291078,
+      "latitude": 44.8367340119744
     },
     {
       "id": "_2",
-      "label": "Julino brdo",
-      "longitude": 20.4140163733096,
-      "latitude": 44.7625522766069
+      "label": "Novi Beograd",
+      "longitude": 20.417932662659,
+      "latitude": 44.8068305435762
     },
     {
       "id": "_3",
-      "label": "Žarkovo",
-      "longitude": 20.4165212303255,
-      "latitude": 44.758652017694
+      "label": "Beograd centar",
+      "longitude": 20.4530933,
+      "latitude": 44.7932933
     },
     {
       "id": "_4",
-      "label": "Ace Joksimovića",
-      "longitude": 20.4201565379576,
-      "latitude": 44.7566167412008
+      "label": "Rakovica",
+      "longitude": 20.4436629775231,
+      "latitude": 44.7473999770486
     },
     {
       "id": "_5",
-      "label": "Ratka Mitrovića",
-      "longitude": 20.4251148012489,
-      "latitude": 44.7528348608567
+      "label": "Resnik",
+      "longitude": 20.4476594542444,
+      "latitude": 44.705361475793
     },
     {
       "id": "_6",
-      "label": "Ane Ahmatove",
-      "longitude": 20.4279511485461,
-      "latitude": 44.7497819698933
+      "label": "Barajevo Centar",
+      "longitude": 20.4122274349095,
+      "latitude": 44.5772362122615
     },
     {
       "id": "_7",
-      "label": "Kneza Višeslava",
-      "longitude": 20.4298768305368,
-      "latitude": 44.7478746367532
+      "label": "Lazarevac",
+      "longitude": 20.245558,
+      "latitude": 44.384834
     },
     {
       "id": "_8",
-      "label": "Vojno medicinski centar",
-      "longitude": 20.4283967675253,
-      "latitude": 44.7463265353822
+      "label": "Lajkovac",
+      "longitude": 20.1641110425954,
+      "latitude": 44.3679654800278
     },
     {
       "id": "_9",
-      "label": "Pilota Mihaila Petrovića",
-      "longitude": 20.4262928861336,
-      "latitude": 44.7429897693867
+      "label": "Slovac",
+      "longitude": 20.0930632621022,
+      "latitude": 44.347237498903
     },
     {
       "id": "_10",
-      "label": "Janković Stojana",
-      "longitude": 20.4339134796884,
-      "latitude": 44.7449661483896
+      "label": "Mlađevo",
+      "longitude": 20.0631251167271,
+      "latitude": 44.3124445096474
     },
     {
       "id": "_11",
-      "label": "Marička",
-      "longitude": 20.4382795032217,
-      "latitude": 44.7453115959368
+      "label": "Divci",
+      "longitude": 20.0278098016334,
+      "latitude": 44.3005127771672
     },
     {
       "id": "_12",
-      "label": "GO Rakovica",
-      "longitude": 20.4451590305898,
-      "latitude": 44.743226559933
+      "label": "Iverak",
+      "longitude": 19.9588556064847,
+      "latitude": 44.2920043048269
     },
     {
       "id": "_13",
-      "label": "Miljakovac 1",
-      "longitude": 20.4499009458732,
-      "latitude": 44.7481577912253
-    },
-    {
-      "id": "_14",
-      "label": "Stanka Paunovića",
-      "longitude": 20.4533082278884,
-      "latitude": 44.7484260662644
-    },
-    {
-      "id": "_15",
-      "label": "Vareška",
-      "longitude": 20.4556828756227,
-      "latitude": 44.7489233357899
-    },
-    {
-      "id": "_16",
-      "label": "Kanarevo brdo",
-      "longitude": 20.4552760762549,
-      "latitude": 44.7527210451366
-    },
-    {
-      "id": "_17",
-      "label": "Srpskih udarnih brigada",
-      "longitude": 20.4571105884134,
-      "latitude": 44.7548194505904
-    },
-    {
-      "id": "_18",
-      "label": "Pere Velimirovića",
-      "longitude": 20.4611463658405,
-      "latitude": 44.7570991769595
-    },
-    {
-      "id": "_19",
-      "label": "Raška",
-      "longitude": 20.4697494855673,
-      "latitude": 44.7544339701027
-    },
-    {
-      "id": "_20",
-      "label": "Pet solitera",
-      "longitude": 20.4731324077689,
-      "latitude": 44.7599609133722
-    },
-    {
-      "id": "_21",
-      "label": "Paunova",
-      "longitude": 20.4769460779112,
-      "latitude": 44.7609197174914
-    },
-    {
-      "id": "_22",
-      "label": "Trošarina",
-      "longitude": 20.4829546641654,
-      "latitude": 44.7613177802674
-    },
-    {
-      "id": "_23",
-      "label": "Bulevar Peka Dapčevića",
-      "longitude": 20.4904117661079,
-      "latitude": 44.7631923990261
-    },
-    {
-      "id": "_24",
-      "label": "SC Sport eko",
-      "longitude": 20.4935695662369,
-      "latitude": 44.7640919361457
-    },
-    {
-      "id": "_25",
-      "label": "Braće Jerković (Mitrovo brdo)",
-      "longitude": 20.4985309946891,
-      "latitude": 44.7635701430807
-    },
-    {
-      "id": "_26",
-      "label": "Naselje Braće Jerković",
-      "longitude": 20.5002027826431,
-      "latitude": 44.7657157392703
-    },
-    {
-      "id": "_27",
-      "label": "Zaplanjska",
-      "longitude": 20.5007223064412,
-      "latitude": 44.7684790761153
-    },
-    {
-      "id": "_28",
-      "label": "Svetozara Radojčića",
-      "longitude": 20.5027279457175,
-      "latitude": 44.7720930181474
-    },
-    {
-      "id": "_29",
-      "label": "Medaković 2",
-      "longitude": 20.5002480892655,
-      "latitude": 44.7757486795342
-    },
-    {
-      "id": "_30",
-      "label": "Vladimira Tomanovića",
-      "longitude": 20.5020656605764,
-      "latitude": 44.7818762908247
-    },
-    {
-      "id": "_31",
-      "label": "Šumice",
-      "longitude": 20.5022492654904,
-      "latitude": 44.7831622259354
-    },
-    {
-      "id": "_32",
-      "label": "Petrinjska",
-      "longitude": 20.5071650444596,
-      "latitude": 44.7825444661776
-    },
-    {
-      "id": "_33",
-      "label": "Konjarnik",
-      "longitude": 20.5113646280986,
-      "latitude": 44.7820314434885
-    },
-    {
-      "id": "_34",
-      "label": "Ustanička",
-      "longitude": 20.5172001841431,
-      "latitude": 44.7847596034066
+      "label": "Valjevo",
+      "longitude": 19.9072058683628,
+      "latitude": 44.2709122149836
     }
   ]
 }

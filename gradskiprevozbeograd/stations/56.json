@@ -2,323 +2,65 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Zeleni venac",
-      "longitude": 20.4564703692811,
-      "latitude": 44.8139309835352
+      "label": "Pančevački most",
+      "longitude": 20.4903467,
+      "latitude": 44.8198183
     },
     {
       "id": "_2",
-      "label": "Vaznesenjska crkva",
-      "longitude": 20.4621321298156,
-      "latitude": 44.807904581549
+      "label": "Pančevo Glavna",
+      "longitude": 20.6374526150237,
+      "latitude": 44.887593982325
     },
     {
       "id": "_3",
-      "label": "Miloša Pocerca",
-      "longitude": 20.4560783569759,
-      "latitude": 44.8023161310522
+      "label": "Pančevo Varoš",
+      "longitude": 20.6607181230988,
+      "latitude": 44.879038081145
     },
     {
       "id": "_4",
-      "label": "Mostar",
-      "longitude": 20.4492660247473,
-      "latitude": 44.7987396141814
+      "label": "Pančevo Strelište",
+      "longitude": 20.6664526679194,
+      "latitude": 44.8700208901345
     },
     {
       "id": "_5",
-      "label": "Sajam",
-      "longitude": 20.4415906546322,
-      "latitude": 44.7964130286058
-    },
-    {
-      "id": "_6",
-      "label": "Ruska",
-      "longitude": 20.4359385437038,
-      "latitude": 44.795085842923
-    },
-    {
-      "id": "_7",
-      "label": "Petlja Radnička",
-      "longitude": 20.4267571122724,
-      "latitude": 44.7924097733453
-    },
-    {
-      "id": "_8",
-      "label": "Čukarica",
-      "longitude": 20.4145017152671,
-      "latitude": 44.7863856515716
-    },
-    {
-      "id": "_9",
-      "label": "Svetolika Lazarevića Laze",
-      "longitude": 20.4124687132794,
-      "latitude": 44.7837257834688
-    },
-    {
-      "id": "_10",
-      "label": "Obalskih radnika",
-      "longitude": 20.4093990887355,
-      "latitude": 44.7806321651596
-    },
-    {
-      "id": "_11",
-      "label": "MZ Čukarička padina",
-      "longitude": 20.4078598830849,
-      "latitude": 44.7766734149018
-    },
-    {
-      "id": "_12",
-      "label": "Valjevska",
-      "longitude": 20.4106484681911,
-      "latitude": 44.7703088718614
-    },
-    {
-      "id": "_13",
-      "label": "Vodovodska",
-      "longitude": 20.4127568484127,
-      "latitude": 44.7654437060864
-    },
-    {
-      "id": "_14",
-      "label": "Julino brdo",
-      "longitude": 20.4140163733096,
-      "latitude": 44.7625522766069
-    },
-    {
-      "id": "_15",
-      "label": "Žarkovo",
-      "longitude": 20.4151557283503,
-      "latitude": 44.7585334682741
-    },
-    {
-      "id": "_16",
-      "label": "Braće Vučković",
-      "longitude": 20.4136230290898,
-      "latitude": 44.7534444620054
-    },
-    {
-      "id": "_17",
-      "label": "Jablanička",
-      "longitude": 20.4118393017084,
-      "latitude": 44.7479779594282
-    },
-    {
-      "id": "_18",
-      "label": "Kneževac",
-      "longitude": 20.4195843210249,
-      "latitude": 44.7336791921276
-    },
-    {
-      "id": "_19",
-      "label": "Labudovo brdo",
-      "longitude": 20.4221462260359,
-      "latitude": 44.7304810516745
-    },
-    {
-      "id": "_20",
-      "label": "Serdar Janka Vukotića",
-      "longitude": 20.4259855982253,
-      "latitude": 44.7272658523726
-    },
-    {
-      "id": "_21",
-      "label": "Jedanaeste krajiške divizije",
-      "longitude": 20.4258494088084,
-      "latitude": 44.72622481033
-    },
-    {
-      "id": "_22",
-      "label": "Generala Zgonjanina",
-      "longitude": 20.4223723051648,
-      "latitude": 44.7247386094468
-    },
-    {
-      "id": "_23",
-      "label": "Milorada Draškovića",
-      "longitude": 20.4211436439221,
-      "latitude": 44.7215969329854
-    },
-    {
-      "id": "_24",
-      "label": "Rasinska",
-      "longitude": 20.4255159791221,
-      "latitude": 44.7200907701323
-    },
-    {
-      "id": "_25",
-      "label": "Petlovo brdo",
-      "longitude": 20.4286851618675,
-      "latitude": 44.7181986675915
+      "label": "Pančevo Vojlovica",
+      "longitude": 20.6556326548065,
+      "latitude": 44.8591428789538
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Petlovo brdo",
-      "longitude": 20.4286847062703,
-      "latitude": 44.7185028542114
+      "label": "Pančevo Vojlovica",
+      "longitude": 20.6556326548065,
+      "latitude": 44.8591428789538
     },
     {
       "id": "_2",
-      "label": "Rasinska",
-      "longitude": 20.4251124297695,
-      "latitude": 44.7203083403243
+      "label": "Pančevo Strelište",
+      "longitude": 20.6664526679194,
+      "latitude": 44.8700208901345
     },
     {
       "id": "_3",
-      "label": "Milorada Draškovića",
-      "longitude": 20.4212655631949,
-      "latitude": 44.722031332057
+      "label": "Pančevo Varoš",
+      "longitude": 20.6607181230988,
+      "latitude": 44.879038081145
     },
     {
       "id": "_4",
-      "label": "Generala Zgonjanina",
-      "longitude": 20.4232374488839,
-      "latitude": 44.7250795500048
+      "label": "Pančevo Glavna",
+      "longitude": 20.6374526150237,
+      "latitude": 44.887593982325
     },
     {
       "id": "_5",
-      "label": "Jedanaeste krajiške divizije",
-      "longitude": 20.4262366618467,
-      "latitude": 44.7261277516846
-    },
-    {
-      "id": "_6",
-      "label": "Serdar Janka Vukotića",
-      "longitude": 20.4257564886931,
-      "latitude": 44.7279684788438
-    },
-    {
-      "id": "_7",
-      "label": "Labudovo brdo",
-      "longitude": 20.4215969873059,
-      "latitude": 44.7306132782993
-    },
-    {
-      "id": "_8",
-      "label": "Kneževac",
-      "longitude": 20.4193354172285,
-      "latitude": 44.7350908768268
-    },
-    {
-      "id": "_9",
-      "label": "Jablanička",
-      "longitude": 20.4121628799153,
-      "latitude": 44.7497021461355
-    },
-    {
-      "id": "_10",
-      "label": "Braće Vučković",
-      "longitude": 20.4146695050241,
-      "latitude": 44.754630556559
-    },
-    {
-      "id": "_11",
-      "label": "Žarkovo",
-      "longitude": 20.4154615894523,
-      "latitude": 44.7595213843687
-    },
-    {
-      "id": "_12",
-      "label": "Julino brdo",
-      "longitude": 20.4139046683313,
-      "latitude": 44.7636100589606
-    },
-    {
-      "id": "_13",
-      "label": "Vodovodska",
-      "longitude": 20.4130004028402,
-      "latitude": 44.7655943460974
-    },
-    {
-      "id": "_14",
-      "label": "Valjevska",
-      "longitude": 20.4100854719073,
-      "latitude": 44.7712599340658
-    },
-    {
-      "id": "_15",
-      "label": "MZ Čukarička padina",
-      "longitude": 20.4082502530515,
-      "latitude": 44.7773000004035
-    },
-    {
-      "id": "_16",
-      "label": "Obalskih radnika",
-      "longitude": 20.409834496281,
-      "latitude": 44.7813075744098
-    },
-    {
-      "id": "_17",
-      "label": "Svetolika Lazarevića Laze",
-      "longitude": 20.4126930555031,
-      "latitude": 44.7842849056458
-    },
-    {
-      "id": "_18",
-      "label": "Čukarica",
-      "longitude": 20.4151354377319,
-      "latitude": 44.786451881637
-    },
-    {
-      "id": "_19",
-      "label": "Ada Ciganlija",
-      "longitude": 20.4199404372204,
-      "latitude": 44.7884471855672
-    },
-    {
-      "id": "_20",
-      "label": "Petlja Radnička",
-      "longitude": 20.4269233361216,
-      "latitude": 44.7922118123979
-    },
-    {
-      "id": "_21",
-      "label": "Gospodarska mehana",
-      "longitude": 20.4336127623586,
-      "latitude": 44.7944711917042
-    },
-    {
-      "id": "_22",
-      "label": "Ruska",
-      "longitude": 20.4381790000629,
-      "latitude": 44.7952642285528
-    },
-    {
-      "id": "_23",
-      "label": "Sajam",
-      "longitude": 20.4420563488721,
-      "latitude": 44.7963250729334
-    },
-    {
-      "id": "_24",
-      "label": "Drinska",
-      "longitude": 20.4518321880527,
-      "latitude": 44.8008577965623
-    },
-    {
-      "id": "_25",
-      "label": "Miloša Pocerca",
-      "longitude": 20.4550125996738,
-      "latitude": 44.8035458106545
-    },
-    {
-      "id": "_26",
-      "label": "Nemanjina",
-      "longitude": 20.4583623579774,
-      "latitude": 44.8078994480017
-    },
-    {
-      "id": "_27",
-      "label": "Kamenička",
-      "longitude": 20.4562962076639,
-      "latitude": 44.8117342746216
-    },
-    {
-      "id": "_28",
-      "label": "Zeleni venac",
-      "longitude": 20.4558958023526,
-      "latitude": 44.8139912569939
+      "label": "Pančevački most",
+      "longitude": 20.4903467,
+      "latitude": 44.8198183
     }
   ]
 }

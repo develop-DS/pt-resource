@@ -2,239 +2,149 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Пристаниште",
-      "longitude": 20.449397,
-      "latitude": 44.818688
+      "label": "Tadeuša Košćuška",
+      "longitude": 20.4552536394773,
+      "latitude": 44.8258513674243
     },
     {
       "id": "_2",
-      "label": "Бранков мост",
-      "longitude": 20.451148,
-      "latitude": 44.814298
+      "label": "Kalemegdan",
+      "longitude": 20.453380325682,
+      "latitude": 44.8203887565742
     },
     {
       "id": "_3",
-      "label": "Економски факултет",
-      "longitude": 20.453559,
-      "latitude": 44.810815
+      "label": "Pristanište",
+      "longitude": 20.4494882357202,
+      "latitude": 44.8185270476159
     },
     {
       "id": "_4",
-      "label": "Старо Сајмиште",
-      "longitude": 20.440112,
-      "latitude": 44.811695
+      "label": "Brankov most",
+      "longitude": 20.4508202345166,
+      "latitude": 44.8148544282538
     },
     {
       "id": "_5",
-      "label": "Блок 21",
-      "longitude": 20.433585,
-      "latitude": 44.813801
+      "label": "Staro sajmište",
+      "longitude": 20.4400354179848,
+      "latitude": 44.8117010616452
     },
     {
       "id": "_6",
-      "label": "Сава центар",
-      "longitude": 20.42941,
-      "latitude": 44.809189
+      "label": "Blok 21",
+      "longitude": 20.433509600562,
+      "latitude": 44.813738913336
     },
     {
       "id": "_7",
-      "label": "Блок 23",
-      "longitude": 20.427221,
-      "latitude": 44.806774
+      "label": "Sava centar",
+      "longitude": 20.429376966835,
+      "latitude": 44.8091880699878
     },
     {
       "id": "_8",
-      "label": "Милутина Миланковића",
-      "longitude": 20.422264,
-      "latitude": 44.807059
+      "label": "Blok 23",
+      "longitude": 20.4272059403329,
+      "latitude": 44.8067869745889
     },
     {
       "id": "_9",
-      "label": "Железничка станица Нови Београд",
-      "longitude": 20.418222,
-      "latitude": 44.806684
-    },
-    {
-      "id": "_10",
-      "label": "Блок 42",
-      "longitude": 20.4164,
-      "latitude": 44.803946
-    },
-    {
-      "id": "_11",
-      "label": "Насеље Белвил",
-      "longitude": 20.407897,
-      "latitude": 44.804319
-    },
-    {
-      "id": "_12",
-      "label": "Агостина Нета",
-      "longitude": 20.402884,
-      "latitude": 44.804545
-    },
-    {
-      "id": "_13",
-      "label": "Омладинских Бригада",
-      "longitude": 20.398533,
-      "latitude": 44.804551
-    },
-    {
-      "id": "_14",
-      "label": "Блок 70",
-      "longitude": 20.393498,
-      "latitude": 44.804214
-    },
-    {
-      "id": "_15",
-      "label": "Гандијева",
-      "longitude": 20.387312,
-      "latitude": 44.80328
-    },
-    {
-      "id": "_16",
-      "label": "Нехруова",
-      "longitude": 20.380427,
-      "latitude": 44.801559
-    },
-    {
-      "id": "_17",
-      "label": "ОШ Бранко Радичевић",
-      "longitude": 20.375647,
-      "latitude": 44.799843
-    },
-    {
-      "id": "_18",
-      "label": "Др Ивана Рибара",
-      "longitude": 20.371298,
-      "latitude": 44.797378
-    },
-    {
-      "id": "_19",
-      "label": "Блок 45",
-      "longitude": 20.373896,
-      "latitude": 44.794072
+      "label": "Antifašističke borbe",
+      "longitude": 20.4190540313721,
+      "latitude": 44.8084831237793
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Блок 45",
-      "longitude": 20.374544,
-      "latitude": 44.793445
+      "label": "Agostina Neta",
+      "longitude": 20.4046325542021,
+      "latitude": 44.8043591471497
     },
     {
       "id": "_2",
-      "label": "Др Ивана Рибара",
-      "longitude": 20.372009,
-      "latitude": 44.798112
+      "label": "Naselje Belvil",
+      "longitude": 20.4105298040876,
+      "latitude": 44.8040996858499
     },
     {
       "id": "_3",
-      "label": "ОШ Бранко Радичевић",
-      "longitude": 20.376959,
-      "latitude": 44.800255
+      "label": "Blok 42",
+      "longitude": 20.4173716442602,
+      "latitude": 44.8046765520449
     },
     {
       "id": "_4",
-      "label": "Нехруова",
-      "longitude": 20.381795,
-      "latitude": 44.801864
+      "label": "Železnička stanica Novi Beograd",
+      "longitude": 20.418510589485,
+      "latitude": 44.8068278205497
     },
     {
       "id": "_5",
-      "label": "Гандијева",
-      "longitude": 20.388856,
-      "latitude": 44.803487
+      "label": "Milutina Milankovića",
+      "longitude": 20.4225206156213,
+      "latitude": 44.8068192802903
     },
     {
       "id": "_6",
-      "label": "Блок 70",
-      "longitude": 20.39383,
-      "latitude": 44.804155
+      "label": "Blok 23",
+      "longitude": 20.4277141637499,
+      "latitude": 44.8067841114559
     },
     {
       "id": "_7",
-      "label": "Омладинских Бригада",
-      "longitude": 20.400184,
-      "latitude": 44.804482
+      "label": "Sava centar",
+      "longitude": 20.4306656730991,
+      "latitude": 44.810044028612
     },
     {
       "id": "_8",
-      "label": "Агостина Нета",
-      "longitude": 20.404657,
-      "latitude": 44.804372
+      "label": "Blok 21",
+      "longitude": 20.4340503176078,
+      "latitude": 44.8137811800735
     },
     {
       "id": "_9",
-      "label": "Насеље Белвил",
-      "longitude": 20.40821,
-      "latitude": 44.804218
+      "label": "Staro sajmište",
+      "longitude": 20.4388928723472,
+      "latitude": 44.8119258670473
     },
     {
       "id": "_10",
-      "label": "Блок 42",
-      "longitude": 20.417359,
-      "latitude": 44.804577
+      "label": "Ekonomski fakultet",
+      "longitude": 20.4534382415214,
+      "latitude": 44.8123470631194
     },
     {
       "id": "_11",
-      "label": "Железничка станица Нови Београд",
-      "longitude": 20.41838,
-      "latitude": 44.806714
+      "label": "Brankov most",
+      "longitude": 20.4508868228253,
+      "latitude": 44.8150329374625
     },
     {
       "id": "_12",
-      "label": "Милутина Миланковића",
-      "longitude": 20.422451,
-      "latitude": 44.806869
+      "label": "Pristanište",
+      "longitude": 20.4496087923248,
+      "latitude": 44.8191485924837
     },
     {
       "id": "_13",
-      "label": "Блок 23",
-      "longitude": 20.427662,
-      "latitude": 44.806765
+      "label": "Kalemegdan",
+      "longitude": 20.4540343349834,
+      "latitude": 44.8207626503436
     },
     {
       "id": "_14",
-      "label": "Сава центар",
-      "longitude": 20.430634,
-      "latitude": 44.810049
+      "label": "Tadeuša Košćuška",
+      "longitude": 20.455100999193,
+      "latitude": 44.8262160224518
     },
     {
       "id": "_15",
-      "label": "Блок 21",
-      "longitude": 20.433905,
-      "latitude": 44.81365
-    },
-    {
-      "id": "_16",
-      "label": "Старо Сајмиште",
-      "longitude": 20.438931,
-      "latitude": 44.811893
-    },
-    {
-      "id": "_17",
-      "label": "Економски факултет",
-      "longitude": 20.453466,
-      "latitude": 44.812267
-    },
-    {
-      "id": "_18",
-      "label": "Бранков мост",
-      "longitude": 20.451224,
-      "latitude": 44.814397
-    },
-    {
-      "id": "_19",
-      "label": "Пристаниште",
-      "longitude": 20.449546,
-      "latitude": 44.818889
-    },
-    {
-      "id": "_20",
-      "label": "Пристаниште",
-      "longitude": 20.449397,
-      "latitude": 44.818688
+      "label": "Kalemegdan (Donji grad)",
+      "longitude": 20.4533672502692,
+      "latitude": 44.8271563231549
     }
   ]
 }

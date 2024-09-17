@@ -1,0 +1,696 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "BAS",
+      "longitude": 20.4543059627735,
+      "latitude": 44.8101721002059
+    },
+    {
+      "id": "_2",
+      "label": "Palata pravde 1",
+      "longitude": 20.4515238525443,
+      "latitude": 44.8029928139838
+    },
+    {
+      "id": "_3",
+      "label": "Sava centar",
+      "longitude": 20.4312350069175,
+      "latitude": 44.8076745767943
+    },
+    {
+      "id": "_4",
+      "label": "Beogradska arena (Antifašističke borbe)",
+      "longitude": 20.4223401252013,
+      "latitude": 44.8117519132287
+    },
+    {
+      "id": "_5",
+      "label": "Beogradska arena (Španskih boraca)",
+      "longitude": 20.4182681470779,
+      "latitude": 44.813621234405
+    },
+    {
+      "id": "_6",
+      "label": "Omladinskih brigada",
+      "longitude": 20.4101893320607,
+      "latitude": 44.8173417752466
+    },
+    {
+      "id": "_7",
+      "label": "Tošin bunar",
+      "longitude": 20.3999624583207,
+      "latitude": 44.8220350702065
+    },
+    {
+      "id": "_8",
+      "label": "Bežanijska kosa",
+      "longitude": 20.3888959117271,
+      "latitude": 44.827048755914
+    },
+    {
+      "id": "_9",
+      "label": "Zmaj",
+      "longitude": 20.3702737510677,
+      "latitude": 44.8314351530495
+    },
+    {
+      "id": "_10",
+      "label": "Grmeč",
+      "longitude": 20.3607937600953,
+      "latitude": 44.8325616301457
+    },
+    {
+      "id": "_11",
+      "label": "Ikarbus",
+      "longitude": 20.3471576873892,
+      "latitude": 44.8338887168338
+    },
+    {
+      "id": "_12",
+      "label": "Naselje Radiofar",
+      "longitude": 20.3098743529498,
+      "latitude": 44.8344762879114
+    },
+    {
+      "id": "_13",
+      "label": "Put za Soko salaš",
+      "longitude": 20.2867684050329,
+      "latitude": 44.8336458662901
+    },
+    {
+      "id": "_14",
+      "label": "Parking garaža",
+      "longitude": 20.2877478022,
+      "latitude": 44.8184624514
+    },
+    {
+      "id": "_15",
+      "label": "Robni terminal",
+      "longitude": 20.2884628967621,
+      "latitude": 44.8173690999395
+    },
+    {
+      "id": "_16",
+      "label": "Jat tehnika",
+      "longitude": 20.2934495475383,
+      "latitude": 44.8119768396418
+    },
+    {
+      "id": "_17",
+      "label": "Malinjak",
+      "longitude": 20.3191312062218,
+      "latitude": 44.7984655778568
+    },
+    {
+      "id": "_18",
+      "label": "Galovica",
+      "longitude": 20.3118556244609,
+      "latitude": 44.7974051823851
+    },
+    {
+      "id": "_19",
+      "label": "Orešac",
+      "longitude": 20.3052767749274,
+      "latitude": 44.7964475432666
+    },
+    {
+      "id": "_20",
+      "label": "Surčin (ulaz)",
+      "longitude": 20.2975926668554,
+      "latitude": 44.7953477636655
+    },
+    {
+      "id": "_21",
+      "label": "Crkva",
+      "longitude": 20.2906025174149,
+      "latitude": 44.7943687583691
+    },
+    {
+      "id": "_22",
+      "label": "Marka Raba",
+      "longitude": 20.284743514014,
+      "latitude": 44.7935133841489
+    },
+    {
+      "id": "_23",
+      "label": "Skopljanska",
+      "longitude": 20.2782943207582,
+      "latitude": 44.7925675983652
+    },
+    {
+      "id": "_24",
+      "label": "Surčin (centar)",
+      "longitude": 20.269576440419,
+      "latitude": 44.7909428436165
+    },
+    {
+      "id": "_25",
+      "label": "Krušedolska",
+      "longitude": 20.2618605005293,
+      "latitude": 44.7894750736203
+    },
+    {
+      "id": "_26",
+      "label": "Surčin (mlin)",
+      "longitude": 20.2560733648775,
+      "latitude": 44.7872237587599
+    },
+    {
+      "id": "_27",
+      "label": "Braće Nikolić",
+      "longitude": 20.2538782515217,
+      "latitude": 44.7833846722943
+    },
+    {
+      "id": "_28",
+      "label": "Put za SRC",
+      "longitude": 20.250345076553,
+      "latitude": 44.7812287146776
+    },
+    {
+      "id": "_29",
+      "label": "Rimski kanal",
+      "longitude": 20.2456151916687,
+      "latitude": 44.7784204051218
+    },
+    {
+      "id": "_30",
+      "label": "Put za Jakovo",
+      "longitude": 20.2402757330775,
+      "latitude": 44.7760776363002
+    },
+    {
+      "id": "_31",
+      "label": "Silosi",
+      "longitude": 20.2429745515994,
+      "latitude": 44.7702565690588
+    },
+    {
+      "id": "_32",
+      "label": "Jakovo (ulaz)",
+      "longitude": 20.2486121997479,
+      "latitude": 44.7643521452971
+    },
+    {
+      "id": "_33",
+      "label": "Servisi",
+      "longitude": 20.2521836420652,
+      "latitude": 44.7616792286397
+    },
+    {
+      "id": "_34",
+      "label": "Sremska",
+      "longitude": 20.2548358592448,
+      "latitude": 44.7597435925174
+    },
+    {
+      "id": "_35",
+      "label": "Sestara Krstonošić",
+      "longitude": 20.2582790216411,
+      "latitude": 44.7559914956221
+    },
+    {
+      "id": "_36",
+      "label": "MZ Jakovo",
+      "longitude": 20.259754495294,
+      "latitude": 44.7539887231753
+    },
+    {
+      "id": "_37",
+      "label": "Prilivak",
+      "longitude": 20.256548549884,
+      "latitude": 44.7510556932495
+    },
+    {
+      "id": "_38",
+      "label": "Jakovo čelik",
+      "longitude": 20.253393876839,
+      "latitude": 44.7449388388194
+    },
+    {
+      "id": "_39",
+      "label": "Stovarište",
+      "longitude": 20.2515018798076,
+      "latitude": 44.7384809596825
+    },
+    {
+      "id": "_40",
+      "label": "Boljevci (zapis)",
+      "longitude": 20.2464572666575,
+      "latitude": 44.7331327090802
+    },
+    {
+      "id": "_41",
+      "label": "Šest topola",
+      "longitude": 20.2411270892324,
+      "latitude": 44.727487151276
+    },
+    {
+      "id": "_42",
+      "label": "Slovačko groblje",
+      "longitude": 20.2366815615215,
+      "latitude": 44.7228048000249
+    },
+    {
+      "id": "_43",
+      "label": "Ribarska",
+      "longitude": 20.2331031674905,
+      "latitude": 44.7215335525091
+    },
+    {
+      "id": "_44",
+      "label": "Relje Oparušića",
+      "longitude": 20.2240146476735,
+      "latitude": 44.7217153515983
+    },
+    {
+      "id": "_45",
+      "label": "Branka Ostojića",
+      "longitude": 20.223089,
+      "latitude": 44.718964
+    },
+    {
+      "id": "_46",
+      "label": "TENT A (most)",
+      "longitude": 20.1641288,
+      "latitude": 44.6658788
+    },
+    {
+      "id": "_47",
+      "label": "Barake",
+      "longitude": 20.1723067,
+      "latitude": 44.6667005
+    },
+    {
+      "id": "_48",
+      "label": "Uljarice",
+      "longitude": 20.1788483,
+      "latitude": 44.6673433
+    },
+    {
+      "id": "_49",
+      "label": "Kasarna",
+      "longitude": 20.185835,
+      "latitude": 44.6685633
+    },
+    {
+      "id": "_50",
+      "label": "Gaj",
+      "longitude": 20.1937442,
+      "latitude": 44.666676
+    },
+    {
+      "id": "_51",
+      "label": "Groblje",
+      "longitude": 20.1985817,
+      "latitude": 44.6646533
+    },
+    {
+      "id": "_52",
+      "label": "Nemanjina",
+      "longitude": 20.2031519232251,
+      "latitude": 44.6609382482657
+    },
+    {
+      "id": "_53",
+      "label": "Naselje Dudovi",
+      "longitude": 20.2077466069697,
+      "latitude": 44.6587518699044
+    },
+    {
+      "id": "_54",
+      "label": "Bazeni",
+      "longitude": 20.2166891187907,
+      "latitude": 44.6553920126273
+    },
+    {
+      "id": "_55",
+      "label": "Mislođin - r",
+      "longitude": 20.2246337820869,
+      "latitude": 44.6513946545771
+    },
+    {
+      "id": "_56",
+      "label": "Barič - Izlaz",
+      "longitude": 20.2355251312256,
+      "latitude": 44.6498985290527
+    },
+    {
+      "id": "_57",
+      "label": "Mislođinski kanal",
+      "longitude": 20.2439296014444,
+      "latitude": 44.6514404492605
+    },
+    {
+      "id": "_58",
+      "label": "Industrijska zona Barič",
+      "longitude": 20.2494066953659,
+      "latitude": 44.6552450979009
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Industrijska zona Barič",
+      "longitude": 20.2486664056778,
+      "latitude": 44.6553214172857
+    },
+    {
+      "id": "_2",
+      "label": "Mislođinski kanal",
+      "longitude": 20.2436238604342,
+      "latitude": 44.6522113210033
+    },
+    {
+      "id": "_3",
+      "label": "Barič - Izlaz",
+      "longitude": 20.2348583988054,
+      "latitude": 44.6498986750362
+    },
+    {
+      "id": "_4",
+      "label": "Mislođin r",
+      "longitude": 20.2242240905762,
+      "latitude": 44.6516036987305
+    },
+    {
+      "id": "_5",
+      "label": "Bazeni",
+      "longitude": 20.2164799154759,
+      "latitude": 44.6551802263448
+    },
+    {
+      "id": "_6",
+      "label": "Naselje Dudovi",
+      "longitude": 20.2087068750349,
+      "latitude": 44.6586412133102
+    },
+    {
+      "id": "_7",
+      "label": "Nemanjina",
+      "longitude": 20.20329,
+      "latitude": 44.660995
+    },
+    {
+      "id": "_8",
+      "label": "Groblje",
+      "longitude": 20.1980983,
+      "latitude": 44.6649033
+    },
+    {
+      "id": "_9",
+      "label": "Gaj",
+      "longitude": 20.1930033,
+      "latitude": 44.667125
+    },
+    {
+      "id": "_10",
+      "label": "Kasarna",
+      "longitude": 20.184625,
+      "latitude": 44.6682833
+    },
+    {
+      "id": "_11",
+      "label": "Uljarice",
+      "longitude": 20.177225,
+      "latitude": 44.6672033
+    },
+    {
+      "id": "_12",
+      "label": "Barake",
+      "longitude": 20.1723067,
+      "latitude": 44.666745
+    },
+    {
+      "id": "_13",
+      "label": "TENT A (most)",
+      "longitude": 20.1636477,
+      "latitude": 44.6660103
+    },
+    {
+      "id": "_14",
+      "label": "Branka Ostojića",
+      "longitude": 20.223236426178,
+      "latitude": 44.7188758216041
+    },
+    {
+      "id": "_15",
+      "label": "Relje Oparušića",
+      "longitude": 20.2234496626869,
+      "latitude": 44.7216755250971
+    },
+    {
+      "id": "_16",
+      "label": "Ribarska",
+      "longitude": 20.2325145225269,
+      "latitude": 44.7213730170139
+    },
+    {
+      "id": "_17",
+      "label": "Slovačko groblje",
+      "longitude": 20.2372020038202,
+      "latitude": 44.7231628525177
+    },
+    {
+      "id": "_18",
+      "label": "Šest topola",
+      "longitude": 20.2419040807977,
+      "latitude": 44.728120470297
+    },
+    {
+      "id": "_19",
+      "label": "Boljevci (zapis)",
+      "longitude": 20.246516923383,
+      "latitude": 44.7330107062006
+    },
+    {
+      "id": "_20",
+      "label": "Stovarište",
+      "longitude": 20.2520724326034,
+      "latitude": 44.738887868804
+    },
+    {
+      "id": "_21",
+      "label": "Jakovo čelik",
+      "longitude": 20.2539326192819,
+      "latitude": 44.7456659176262
+    },
+    {
+      "id": "_22",
+      "label": "Prilivak",
+      "longitude": 20.2565081466306,
+      "latitude": 44.7506594479345
+    },
+    {
+      "id": "_23",
+      "label": "MZ Jakovo",
+      "longitude": 20.2599176358391,
+      "latitude": 44.7544685562862
+    },
+    {
+      "id": "_24",
+      "label": "Sestara Krstonošić",
+      "longitude": 20.2577028614764,
+      "latitude": 44.7567995296458
+    },
+    {
+      "id": "_25",
+      "label": "Sremska",
+      "longitude": 20.2551992535148,
+      "latitude": 44.7595767624569
+    },
+    {
+      "id": "_26",
+      "label": "Servisi",
+      "longitude": 20.2513193774787,
+      "latitude": 44.7624835491885
+    },
+    {
+      "id": "_27",
+      "label": "Jakovo (ulaz)",
+      "longitude": 20.2483345710509,
+      "latitude": 44.7647211078371
+    },
+    {
+      "id": "_28",
+      "label": "Silosi",
+      "longitude": 20.2432005364759,
+      "latitude": 44.7701716658024
+    },
+    {
+      "id": "_29",
+      "label": "Put za Jakovo",
+      "longitude": 20.2412146727844,
+      "latitude": 44.7763556451547
+    },
+    {
+      "id": "_30",
+      "label": "Rimski kanal",
+      "longitude": 20.2473377853238,
+      "latitude": 44.7790743025036
+    },
+    {
+      "id": "_31",
+      "label": "Put za SRC",
+      "longitude": 20.2502028713941,
+      "latitude": 44.7810855910504
+    },
+    {
+      "id": "_32",
+      "label": "Braće Nikolić",
+      "longitude": 20.254356505014,
+      "latitude": 44.7839295592062
+    },
+    {
+      "id": "_33",
+      "label": "Surčin (mlin)",
+      "longitude": 20.2562724203282,
+      "latitude": 44.7872718485651
+    },
+    {
+      "id": "_34",
+      "label": "Krušedolska",
+      "longitude": 20.2624342595165,
+      "latitude": 44.7894751680994
+    },
+    {
+      "id": "_35",
+      "label": "Surčin (centar)",
+      "longitude": 20.2710959276357,
+      "latitude": 44.7911145102775
+    },
+    {
+      "id": "_36",
+      "label": "Skopljanska",
+      "longitude": 20.2800239299124,
+      "latitude": 44.7927188702734
+    },
+    {
+      "id": "_37",
+      "label": "Marka Raba",
+      "longitude": 20.2864707081862,
+      "latitude": 44.793659143584
+    },
+    {
+      "id": "_38",
+      "label": "Crkva",
+      "longitude": 20.2908991251996,
+      "latitude": 44.7942985974551
+    },
+    {
+      "id": "_39",
+      "label": "Surčin (ulaz)",
+      "longitude": 20.297800912615,
+      "latitude": 44.7952680437376
+    },
+    {
+      "id": "_40",
+      "label": "Orešac",
+      "longitude": 20.3055531545006,
+      "latitude": 44.7963772217066
+    },
+    {
+      "id": "_41",
+      "label": "Galovica",
+      "longitude": 20.3125636059471,
+      "latitude": 44.7973914314327
+    },
+    {
+      "id": "_42",
+      "label": "Malinjak",
+      "longitude": 20.3194907853936,
+      "latitude": 44.7984137158296
+    },
+    {
+      "id": "_43",
+      "label": "Jat tehnika",
+      "longitude": 20.2913289056503,
+      "latitude": 44.8137744507217
+    },
+    {
+      "id": "_44",
+      "label": "Robni terminal",
+      "longitude": 20.28870116575,
+      "latitude": 44.8171167926197
+    },
+    {
+      "id": "_45",
+      "label": "Put za Soko salaš",
+      "longitude": 20.2857264565633,
+      "latitude": 44.8334233895679
+    },
+    {
+      "id": "_46",
+      "label": "Naselje Radiofar",
+      "longitude": 20.3118811707684,
+      "latitude": 44.8341586397701
+    },
+    {
+      "id": "_47",
+      "label": "Ikarbus",
+      "longitude": 20.348342772843,
+      "latitude": 44.8333248912566
+    },
+    {
+      "id": "_48",
+      "label": "Grmeč",
+      "longitude": 20.3622169519024,
+      "latitude": 44.8321825772601
+    },
+    {
+      "id": "_49",
+      "label": "Zmaj",
+      "longitude": 20.3717328868403,
+      "latitude": 44.8309985821149
+    },
+    {
+      "id": "_50",
+      "label": "Bežanijska kosa",
+      "longitude": 20.3886733908055,
+      "latitude": 44.826563396766
+    },
+    {
+      "id": "_51",
+      "label": "Tošin bunar",
+      "longitude": 20.3997072113744,
+      "latitude": 44.821527962086
+    },
+    {
+      "id": "_52",
+      "label": "Omladinskih brigada",
+      "longitude": 20.4098907178858,
+      "latitude": 44.8168650648114
+    },
+    {
+      "id": "_53",
+      "label": "Beogradska arena (Španskih boraca)",
+      "longitude": 20.4183934889124,
+      "latitude": 44.8129721044885
+    },
+    {
+      "id": "_54",
+      "label": "Beogradska arena (Antifašističke borbe)",
+      "longitude": 20.4225797313787,
+      "latitude": 44.8110493567159
+    },
+    {
+      "id": "_55",
+      "label": "Sava centar",
+      "longitude": 20.4310428058399,
+      "latitude": 44.8071624502829
+    },
+    {
+      "id": "_56",
+      "label": "Palata pravde 1",
+      "longitude": 20.451327814778,
+      "latitude": 44.8034058554644
+    },
+    {
+      "id": "_57",
+      "label": "BAS",
+      "longitude": 20.4543059627735,
+      "latitude": 44.8101721002059
+    }
+  ]
+}

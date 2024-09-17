@@ -1,312 +1,679 @@
 {
-  "direction_a": [
-    {
-      "id": "_1",
-      "label": "Bežanijska kosa",
-      "longitude": 20.3629099828965,
-      "latitude": 44.807977744453
-    },
-    {
-      "id": "_2",
-      "label": "Magelanova",
-      "longitude": 20.3654305309729,
-      "latitude": 44.8086954849317
-    },
-    {
-      "id": "_3",
-      "label": "Milana Vujaklije",
-      "longitude": 20.3683518676013,
-      "latitude": 44.8104629231948
-    },
-    {
-      "id": "_4",
-      "label": "Marka Ristića",
-      "longitude": 20.3713206990743,
-      "latitude": 44.8125311306877
-    },
-    {
-      "id": "_5",
-      "label": "Ljubinke Bobić",
-      "longitude": 20.3747217064913,
-      "latitude": 44.8153449780179
-    },
-    {
-      "id": "_6",
-      "label": "Peđe Milosavljevića",
-      "longitude": 20.3770113689394,
-      "latitude": 44.8178287077819
-    },
-    {
-      "id": "_7",
-      "label": "Dr Huga Klajna",
-      "longitude": 20.3795897282646,
-      "latitude": 44.820056566852
-    },
-    {
-      "id": "_8",
-      "label": "Marka Čelebonovića",
-      "longitude": 20.3828784712497,
-      "latitude": 44.819233758115
-    },
-    {
-      "id": "_9",
-      "label": "Nikole Dobrovića",
-      "longitude": 20.3861960216156,
-      "latitude": 44.8180690271801
-    },
-    {
-      "id": "_10",
-      "label": "Generala Nedeljkovića",
-      "longitude": 20.3890347208839,
-      "latitude": 44.8167378582987
-    },
-    {
-      "id": "_11",
-      "label": "Železnička stanica Tošin bunar",
-      "longitude": 20.3953373586664,
-      "latitude": 44.8168900558092
-    },
-    {
-      "id": "_12",
-      "label": "Milutina Milankovića",
-      "longitude": 20.3962247743002,
-      "latitude": 44.8203145464976
-    },
-    {
-      "id": "_13",
-      "label": "Studentski grad",
-      "longitude": 20.3991145103976,
-      "latitude": 44.8262621981325
-    },
-    {
-      "id": "_14",
-      "label": "Narodnih heroja",
-      "longitude": 20.4068354807409,
-      "latitude": 44.8226089928459
-    },
-    {
-      "id": "_15",
-      "label": "Crkva Svetog Dimitrija",
-      "longitude": 20.4115992131335,
-      "latitude": 44.8204556487537
-    },
-    {
-      "id": "_16",
-      "label": "Bulevar umetnosti",
-      "longitude": 20.4153473421191,
-      "latitude": 44.8186713127311
-    },
-    {
-      "id": "_17",
-      "label": "Beogradska arena",
-      "longitude": 20.4192907313359,
-      "latitude": 44.8145317677931
-    },
-    {
-      "id": "_18",
-      "label": "Beogradska arena (Antifašističke borbe)",
-      "longitude": 20.4225797313787,
-      "latitude": 44.8110493567159
-    },
-    {
-      "id": "_19",
-      "label": "Sava centar",
-      "longitude": 20.4310428058399,
-      "latitude": 44.8071624502829
-    },
-    {
-      "id": "_20",
-      "label": "Mostar",
-      "longitude": 20.450601984349,
-      "latitude": 44.7975436797197
-    },
-    {
-      "id": "_21",
-      "label": "Deligradska",
-      "longitude": 20.457407735647,
-      "latitude": 44.7953153789886
-    },
-    {
-      "id": "_22",
-      "label": "Franše D'Eperea",
-      "longitude": 20.4664495230787,
-      "latitude": 44.7914861699274
-    },
-    {
-      "id": "_23",
-      "label": "Toplice Milana",
-      "longitude": 20.4981507045294,
-      "latitude": 44.7807324949586
-    },
-    {
-      "id": "_24",
-      "label": "Pogon Kosmaj",
-      "longitude": 20.5178666704556,
-      "latitude": 44.7717220150215
-    },
-    {
-      "id": "_25",
-      "label": "Astrid Lindgren",
-      "longitude": 20.5723906411889,
-      "latitude": 44.7037386762859
-    },
-    {
-      "id": "_26",
-      "label": "IKEA",
-      "longitude": 20.561656194545,
-      "latitude": 44.7095282191039
-    }
-  ],
-  "direction_b": [
-    {
-      "id": "_1",
-      "label": "IKEA",
-      "longitude": 20.561656194545,
-      "latitude": 44.7095282191039
-    },
-    {
-      "id": "_2",
-      "label": "Tranšped",
-      "longitude": 20.5761749001744,
-      "latitude": 44.7038573569876
-    },
-    {
-      "id": "_3",
-      "label": "SP Lasta",
-      "longitude": 20.5184292058015,
-      "latitude": 44.7718359708436
-    },
-    {
-      "id": "_4",
-      "label": "Vladimira Tomanovića",
-      "longitude": 20.5005378495837,
-      "latitude": 44.781444873477
-    },
-    {
-      "id": "_5",
-      "label": "Dom zdravlja Voždovac",
-      "longitude": 20.4738168860646,
-      "latitude": 44.7876593766134
-    },
-    {
-      "id": "_6",
-      "label": "Franše D'Eperea",
-      "longitude": 20.4682170383353,
-      "latitude": 44.7908590058077
-    },
-    {
-      "id": "_7",
-      "label": "Deligradska",
-      "longitude": 20.4574991397711,
-      "latitude": 44.795814386296
-    },
-    {
-      "id": "_8",
-      "label": "Mostar",
-      "longitude": 20.4506983085648,
-      "latitude": 44.7977835288804
-    },
-    {
-      "id": "_9",
-      "label": "Sava centar",
-      "longitude": 20.4312350069175,
-      "latitude": 44.8076745767943
-    },
-    {
-      "id": "_10",
-      "label": "Beogradska arena (Antifašističke borbe)",
-      "longitude": 20.4223401252013,
-      "latitude": 44.8117519132287
-    },
-    {
-      "id": "_11",
-      "label": "Beogradska arena",
-      "longitude": 20.4202850873395,
-      "latitude": 44.8152333603724
-    },
-    {
-      "id": "_12",
-      "label": "Bulevar umetnosti",
-      "longitude": 20.4135011553039,
-      "latitude": 44.8199362185566
-    },
-    {
-      "id": "_13",
-      "label": "Narodnih heroja",
-      "longitude": 20.4054974244163,
-      "latitude": 44.8236172093808
-    },
-    {
-      "id": "_14",
-      "label": "Studentski grad",
-      "longitude": 20.3978587116193,
-      "latitude": 44.8261458177772
-    },
-    {
-      "id": "_15",
-      "label": "SC Vizura",
-      "longitude": 20.3960791986334,
-      "latitude": 44.8209383460596
-    },
-    {
-      "id": "_16",
-      "label": "Železnička stanica Tošin bunar",
-      "longitude": 20.3950441292173,
-      "latitude": 44.8171224968428
-    },
-    {
-      "id": "_17",
-      "label": "Generala Nedeljkovića",
-      "longitude": 20.3889763275072,
-      "latitude": 44.8170003330754
-    },
-    {
-      "id": "_18",
-      "label": "Nikole Dobrovića",
-      "longitude": 20.3846246013936,
-      "latitude": 44.8188813611224
-    },
-    {
-      "id": "_19",
-      "label": "Dr Huga Klajna",
-      "longitude": 20.3812427971832,
-      "latitude": 44.8198981075577
-    },
-    {
-      "id": "_20",
-      "label": "Peđe Milosavljevića",
-      "longitude": 20.377193666527,
-      "latitude": 44.8182796737714
-    },
-    {
-      "id": "_21",
-      "label": "Ljubinke Bobić",
-      "longitude": 20.3736175621704,
-      "latitude": 44.8145577935708
-    },
-    {
-      "id": "_22",
-      "label": "Marka Ristića",
-      "longitude": 20.3705913134171,
-      "latitude": 44.8121707482186
-    },
-    {
-      "id": "_23",
-      "label": "Milana Vujaklije",
-      "longitude": 20.3676372068389,
-      "latitude": 44.8101476004795
-    },
-    {
-      "id": "_24",
-      "label": "Magelanova",
-      "longitude": 20.3645464955715,
-      "latitude": 44.808381005192
-    },
-    {
-      "id": "_25",
-      "label": "Bežanijska kosa",
-      "longitude": 20.3629099828965,
-      "latitude": 44.807977744453
-    }
-  ]
+    "direction_a": [
+        {
+            "id": "_1",
+            "label": "Beograd centar",
+            "longitude": 20.4530933,
+            "latitude": 44.7932933
+        },
+        {
+            "id": "_2",
+            "label": "Rakovica",
+            "longitude": 20.4436629775231,
+            "latitude": 44.7473999770486
+        },
+        {
+            "id": "_3",
+            "label": "Resnik",
+            "longitude": 20.4476594542444,
+            "latitude": 44.705361475793
+        },
+        {
+            "id": "_4",
+            "label": "Ripanj",
+            "longitude": 20.508057,
+            "latitude": 44.661772
+        },
+        {
+            "id": "_5",
+            "label": "Ralja",
+            "longitude": 20.5611919856581,
+            "latitude": 44.568420262767
+        },
+        {
+            "id": "_6",
+            "label": "Sopot Kosmajski",
+            "longitude": 20.6122558875728,
+            "latitude": 44.5231233643579
+        },
+        {
+            "id": "_7",
+            "label": "Mladenovac",
+            "longitude": 20.69105,
+            "latitude": 44.440518
+        },
+        {
+            "id": "_8",
+            "label": "Kovačevac",
+            "longitude": 20.7508108108885,
+            "latitude": 44.39931489761
+        },
+        {
+            "id": "_9",
+            "label": "Rabrovac",
+            "longitude": 20.7750062594279,
+            "latitude": 44.3848382781333
+        },
+        {
+            "id": "_10",
+            "label": "Kusadak",
+            "longitude": 20.8285467294927,
+            "latitude": 44.3761278020433
+        },
+        {
+            "id": "_11",
+            "label": "Ratare",
+            "longitude": 20.8666748714257,
+            "latitude": 44.3681046258345
+        },
+        {
+            "id": "_12",
+            "label": "Glibovac",
+            "longitude": 20.9052810806045,
+            "latitude": 44.3685833190541
+        },
+        {
+            "id": "_13",
+            "label": "Smederevska Palanka",
+            "longitude": 20.9597949981689,
+            "latitude": 44.3629989624023
+        },
+        {
+            "id": "_14",
+            "label": "Mala Plana",
+            "longitude": 21.03514774303,
+            "latitude": 44.3367444115872
+        },
+        {
+            "id": "_15",
+            "label": "Velika Plana",
+            "longitude": 21.0822572703003,
+            "latitude": 44.3251087885178
+        },
+        {
+            "id": "_16",
+            "label": "Staro Selo",
+            "longitude": 21.0896064409211,
+            "latitude": 44.2943580047373
+        },
+        {
+            "id": "_17",
+            "label": "Novo Selo",
+            "longitude": 21.0922105913997,
+            "latitude": 44.261711533251
+        },
+        {
+            "id": "_18",
+            "label": "Markovac",
+            "longitude": 21.0967440984302,
+            "latitude": 44.239206650121
+        },
+        {
+            "id": "_19",
+            "label": "Lapovo Varoš",
+            "longitude": 21.1023970570727,
+            "latitude": 44.1865668338257
+        },
+        {
+            "id": "_20",
+            "label": "Lapovo",
+            "longitude": 21.102096,
+            "latitude": 44.157598
+        },
+        {
+            "id": "_21",
+            "label": "Brzan",
+            "longitude": 21.1353611395884,
+            "latitude": 44.1240768952508
+        },
+        {
+            "id": "_22",
+            "label": "Miloševo",
+            "longitude": 21.1602425824552,
+            "latitude": 44.1071589835435
+        },
+        {
+            "id": "_23",
+            "label": "Bagrdan",
+            "longitude": 21.1797804300335,
+            "latitude": 44.0830797219045
+        },
+        {
+            "id": "_24",
+            "label": "Lanište",
+            "longitude": 21.235785587042,
+            "latitude": 44.0433735242892
+        },
+        {
+            "id": "_25",
+            "label": "Bukovče",
+            "longitude": 21.231890173225,
+            "latitude": 44.0079905715994
+        },
+        {
+            "id": "_26",
+            "label": "Jagodina",
+            "longitude": 21.2630020219248,
+            "latitude": 43.98220718608
+        },
+        {
+            "id": "_27",
+            "label": "Gilje",
+            "longitude": 21.3159958322475,
+            "latitude": 43.9548711746314
+        },
+        {
+            "id": "_28",
+            "label": "Ćuprija",
+            "longitude": 21.3654228523154,
+            "latitude": 43.9164148659011
+        },
+        {
+            "id": "_29",
+            "label": "Paraćin",
+            "longitude": 21.3991560405206,
+            "latitude": 43.8648157088427
+        },
+        {
+            "id": "_30",
+            "label": "Sikirica-Ratari",
+            "longitude": 21.4221858978271,
+            "latitude": 43.7917289733887
+        },
+        {
+            "id": "_31",
+            "label": "Drenovac",
+            "longitude": 21.427841345565,
+            "latitude": 43.763953075393
+        },
+        {
+            "id": "_32",
+            "label": "Ćićevac",
+            "longitude": 21.4378937724845,
+            "latitude": 43.7205559862419
+        },
+        {
+            "id": "_33",
+            "label": "Lučina",
+            "longitude": 21.429997750345,
+            "latitude": 43.7029346822323
+        },
+        {
+            "id": "_34",
+            "label": "Stalać",
+            "longitude": 21.4148857641322,
+            "latitude": 43.6814957996781
+        },
+        {
+            "id": "_35",
+            "label": "Braljina",
+            "longitude": 21.4835521389813,
+            "latitude": 43.6573709564478
+        },
+        {
+            "id": "_36",
+            "label": "Cerovo Ražanj",
+            "longitude": 21.4862383302315,
+            "latitude": 43.6262778143745
+        },
+        {
+            "id": "_37",
+            "label": "Staro Trubarevo",
+            "longitude": 21.4857222172179,
+            "latitude": 43.6099694919495
+        },
+        {
+            "id": "_38",
+            "label": "Đunis",
+            "longitude": 21.5130703392282,
+            "latitude": 43.6050246691592
+        },
+        {
+            "id": "_39",
+            "label": "Vitkovac",
+            "longitude": 21.5525301275138,
+            "latitude": 43.5909146991979
+        },
+        {
+            "id": "_40",
+            "label": "Donji Ljubeš",
+            "longitude": 21.5705738067627,
+            "latitude": 43.5785064697266
+        },
+        {
+            "id": "_41",
+            "label": "Gornji Ljubeš",
+            "longitude": 21.5935897827148,
+            "latitude": 43.5658226013184
+        },
+        {
+            "id": "_42",
+            "label": "Korman",
+            "longitude": 21.6126151919314,
+            "latitude": 43.5528550838349
+        },
+        {
+            "id": "_43",
+            "label": "Trinjani",
+            "longitude": 21.6330223083496,
+            "latitude": 43.5366973876953
+        },
+        {
+            "id": "_44",
+            "label": "Adrovac",
+            "longitude": 21.6504554748535,
+            "latitude": 43.5230865478516
+        },
+        {
+            "id": "_45",
+            "label": "Aleksinac",
+            "longitude": 21.693713209996,
+            "latitude": 43.5083095759056
+        },
+        {
+            "id": "_46",
+            "label": "Nozrina",
+            "longitude": 21.7136268465658,
+            "latitude": 43.482334084704
+        },
+        {
+            "id": "_47",
+            "label": "Lužane",
+            "longitude": 21.7201858112426,
+            "latitude": 43.471517908852
+        },
+        {
+            "id": "_48",
+            "label": "Tešica",
+            "longitude": 21.7368034300505,
+            "latitude": 43.4446228460775
+        },
+        {
+            "id": "_49",
+            "label": "Grejač",
+            "longitude": 21.7475896317352,
+            "latitude": 43.4226875725597
+        },
+        {
+            "id": "_50",
+            "label": "Supovački Most",
+            "longitude": 21.7662048339844,
+            "latitude": 43.3961067199707
+        },
+        {
+            "id": "_51",
+            "label": "Mezgraja",
+            "longitude": 21.7796604830076,
+            "latitude": 43.3927941205831
+        },
+        {
+            "id": "_52",
+            "label": "Vrtište",
+            "longitude": 21.8084084767484,
+            "latitude": 43.3751395331968
+        },
+        {
+            "id": "_53",
+            "label": "Trupale",
+            "longitude": 21.8194268730146,
+            "latitude": 43.3576694864575
+        },
+        {
+            "id": "_54",
+            "label": "Crveni krst",
+            "longitude": 21.8809148980713,
+            "latitude": 43.3331312946622
+        },
+        {
+            "id": "_55",
+            "label": "Niš",
+            "longitude": 21.8773306684819,
+            "latitude": 43.3163435441997
+        }
+    ],
+
+    "direction_b": [
+        {
+            "id": "_1",
+            "label": "Zemun",
+            "longitude": 20.3719943291078,
+            "latitude": 44.8367340119744
+        },
+        {
+            "id": "_2",
+            "label": "Novi Beograd",
+            "longitude": 20.417932662659,
+            "latitude": 44.8068305435762
+        },
+        {
+            "id": "_3",
+            "label": "Beograd centar",
+            "longitude": 20.4530933,
+            "latitude": 44.7932933
+        },
+        {
+            "id": "_4",
+            "label": "Rakovica",
+            "longitude": 20.4436629775231,
+            "latitude": 44.7473999770486
+        },
+        {
+            "id": "_5",
+            "label": "Resnik",
+            "longitude": 20.4476594542444,
+            "latitude": 44.705361475793
+        },
+        {
+            "id": "_6",
+            "label": "Ripanj",
+            "longitude": 20.508057,
+            "latitude": 44.661772
+        },
+        {
+            "id": "_7",
+            "label": "Ralja",
+            "longitude": 20.5611919856581,
+            "latitude": 44.568420262767
+        },
+        {
+            "id": "_8",
+            "label": "Sopot Kosmajski",
+            "longitude": 20.6122558875728,
+            "latitude": 44.5231233643579
+        },
+        {
+            "id": "_9",
+            "label": "Mladenovac",
+            "longitude": 20.69105,
+            "latitude": 44.440518
+        },
+        {
+            "id": "_10",
+            "label": "Kovačevac",
+            "longitude": 20.7508108108885,
+            "latitude": 44.39931489761
+        },
+        {
+            "id": "_11",
+            "label": "Rabrovac",
+            "longitude": 20.7750062594279,
+            "latitude": 44.3848382781333
+        },
+        {
+            "id": "_12",
+            "label": "Kusadak",
+            "longitude": 20.8285467294927,
+            "latitude": 44.3761278020433
+        },
+        {
+            "id": "_13",
+            "label": "Ratare",
+            "longitude": 20.8666748714257,
+            "latitude": 44.3681046258345
+        },
+        {
+            "id": "_14",
+            "label": "Glibovac",
+            "longitude": 20.9052810806045,
+            "latitude": 44.3685833190541
+        },
+        {
+            "id": "_15",
+            "label": "Smederevska Palanka",
+            "longitude": 20.9597949981689,
+            "latitude": 44.3629989624023
+        },
+        {
+            "id": "_16",
+            "label": "Mala Plana",
+            "longitude": 21.03514774303,
+            "latitude": 44.3367444115872
+        },
+        {
+            "id": "_17",
+            "label": "Velika Plana",
+            "longitude": 21.0822572703003,
+            "latitude": 44.3251087885178
+        },
+        {
+            "id": "_18",
+            "label": "Staro Selo",
+            "longitude": 21.0896064409211,
+            "latitude": 44.2943580047373
+        },
+        {
+            "id": "_19",
+            "label": "Novo Selo",
+            "longitude": 21.0922105913997,
+            "latitude": 44.261711533251
+        },
+        {
+            "id": "_20",
+            "label": "Markovac",
+            "longitude": 21.0967440984302,
+            "latitude": 44.239206650121
+        },
+        {
+            "id": "_21",
+            "label": "Lapovo Varoš",
+            "longitude": 21.1023970570727,
+            "latitude": 44.1865668338257
+        },
+        {
+            "id": "_22",
+            "label": "Lapovo",
+            "longitude": 21.102096,
+            "latitude": 44.157598
+        },
+        {
+            "id": "_23",
+            "label": "Brzan",
+            "longitude": 21.1353611395884,
+            "latitude": 44.1240768952508
+        },
+        {
+            "id": "_24",
+            "label": "Miloševo",
+            "longitude": 21.1602425824552,
+            "latitude": 44.1071589835435
+        },
+        {
+            "id": "_25",
+            "label": "Bagrdan",
+            "longitude": 21.1797804300335,
+            "latitude": 44.0830797219045
+        },
+        {
+            "id": "_26",
+            "label": "Lanište",
+            "longitude": 21.235785587042,
+            "latitude": 44.0433735242892
+        },
+        {
+            "id": "_27",
+            "label": "Bukovče",
+            "longitude": 21.231890173225,
+            "latitude": 44.0079905715994
+        },
+        {
+            "id": "_28",
+            "label": "Jagodina",
+            "longitude": 21.2630020219248,
+            "latitude": 43.98220718608
+        },
+        {
+            "id": "_29",
+            "label": "Gilje",
+            "longitude": 21.3159958322475,
+            "latitude": 43.9548711746314
+        },
+        {
+            "id": "_30",
+            "label": "Ćuprija",
+            "longitude": 21.3654228523154,
+            "latitude": 43.9164148659011
+        },
+        {
+            "id": "_31",
+            "label": "Paraćin",
+            "longitude": 21.3991560405206,
+            "latitude": 43.8648157088427
+        },
+        {
+            "id": "_32",
+            "label": "Sikirica-Ratari",
+            "longitude": 21.4221858978271,
+            "latitude": 43.7917289733887
+        },
+        {
+            "id": "_33",
+            "label": "Drenovac",
+            "longitude": 21.427841345565,
+            "latitude": 43.763953075393
+        },
+        {
+            "id": "_34",
+            "label": "Ćićevac",
+            "longitude": 21.4378937724845,
+            "latitude": 43.7205559862419
+        },
+        {
+            "id": "_35",
+            "label": "Lučina",
+            "longitude": 21.429997750345,
+            "latitude": 43.7029346822323
+        },
+        {
+            "id": "_36",
+            "label": "Stalać",
+            "longitude": 21.4148857641322,
+            "latitude": 43.6814957996781
+        },
+        {
+            "id": "_37",
+            "label": "Braljina",
+            "longitude": 21.4835521389813,
+            "latitude": 43.6573709564478
+        },
+        {
+            "id": "_38",
+            "label": "Cerovo Ražanj",
+            "longitude": 21.4862383302315,
+            "latitude": 43.6262778143745
+        },
+        {
+            "id": "_39",
+            "label": "Staro Trubarevo",
+            "longitude": 21.4857222172179,
+            "latitude": 43.6099694919495
+        },
+        {
+            "id": "_40",
+            "label": "Đunis",
+            "longitude": 21.5130703392282,
+            "latitude": 43.6050246691592
+        },
+        {
+            "id": "_41",
+            "label": "Vitkovac",
+            "longitude": 21.5525301275138,
+            "latitude": 43.5909146991979
+        },
+        {
+            "id": "_42",
+            "label": "Donji Ljubeš",
+            "longitude": 21.5705738067627,
+            "latitude": 43.5785064697266
+        },
+        {
+            "id": "_43",
+            "label": "Gornji Ljubeš",
+            "longitude": 21.5935897827148,
+            "latitude": 43.5658226013184
+        },
+        {
+            "id": "_44",
+            "label": "Korman",
+            "longitude": 21.6126151919314,
+            "latitude": 43.5528550838349
+        },
+        {
+            "id": "_45",
+            "label": "Trinjani",
+            "longitude": 21.6330223083496,
+            "latitude": 43.5366973876953
+        },
+        {
+            "id": "_46",
+            "label": "Adrovac",
+            "longitude": 21.6504554748535,
+            "latitude": 43.5230865478516
+        },
+        {
+            "id": "_47",
+            "label": "Aleksinac",
+            "longitude": 21.693713209996,
+            "latitude": 43.5083095759056
+        },
+        {
+            "id": "_48",
+            "label": "Nozrina",
+            "longitude": 21.7136268465658,
+            "latitude": 43.482334084704
+        },
+        {
+            "id": "_49",
+            "label": "Lužane",
+            "longitude": 21.7201858112426,
+            "latitude": 43.471517908852
+        },
+        {
+            "id": "_50",
+            "label": "Tešica",
+            "longitude": 21.7368034300505,
+            "latitude": 43.4446228460775
+        },
+        {
+            "id": "_51",
+            "label": "Grejač",
+            "longitude": 21.7475896317352,
+            "latitude": 43.4226875725597
+        },
+        {
+            "id": "_52",
+            "label": "Supovački Most",
+            "longitude": 21.7662048339844,
+            "latitude": 43.3961067199707
+        },
+        {
+            "id": "_53",
+            "label": "Mezgraja",
+            "longitude": 21.7796604830076,
+            "latitude": 43.3927941205831
+        },
+        {
+            "id": "_54",
+            "label": "Vrtište",
+            "longitude": 21.8084084767484,
+            "latitude": 43.3751395331968
+        },
+        {
+            "id": "_55",
+            "label": "Trupale",
+            "longitude": 21.8194268730146,
+            "latitude": 43.3576694864575
+        },
+        {
+            "id": "_56",
+            "label": "Crveni krst",
+            "longitude": 21.8809148980713,
+            "latitude": 43.3331312946622
+        },
+        {
+            "id": "_57",
+            "label": "Niš",
+            "longitude": 21.8773306684819,
+            "latitude": 43.3163435441997
+        }
+    ]
 }

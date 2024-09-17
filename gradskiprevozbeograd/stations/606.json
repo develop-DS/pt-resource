@@ -2,84 +2,162 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Dobanovci (groblje)",
-      "longitude": 20.2362944088761,
-      "latitude": 44.8373109748853
+      "label": "Surčin",
+      "longitude": 20.2503850533377,
+      "latitude": 44.7806764025526
     },
     {
       "id": "_2",
+      "label": "Braće Nikolić",
+      "longitude": 20.254356505014,
+      "latitude": 44.7839295592062
+    },
+    {
+      "id": "_3",
+      "label": "Surčin (mlin)",
+      "longitude": 20.2562724203282,
+      "latitude": 44.7872718485651
+    },
+    {
+      "id": "_4",
+      "label": "Krušedolska",
+      "longitude": 20.2624342595165,
+      "latitude": 44.7894751680994
+    },
+    {
+      "id": "_5",
+      "label": "Surčin (centar)",
+      "longitude": 20.2695318128028,
+      "latitude": 44.7920801028838
+    },
+    {
+      "id": "_6",
+      "label": "Braće Suzić",
+      "longitude": 20.2645527666198,
+      "latitude": 44.7978313677871
+    },
+    {
+      "id": "_7",
+      "label": "Surčin (izlaz)",
+      "longitude": 20.2578418076631,
+      "latitude": 44.801731700791
+    },
+    {
+      "id": "_8",
+      "label": "Surčinska petlja",
+      "longitude": 20.2508879405748,
+      "latitude": 44.8061646211505
+    },
+    {
+      "id": "_9",
+      "label": "Industrijska zona Dobanovci",
+      "longitude": 20.2425204367059,
+      "latitude": 44.8115003299375
+    },
+    {
+      "id": "_10",
+      "label": "Grobljanska",
+      "longitude": 20.2355709075928,
+      "latitude": 44.8175010681152
+    },
+    {
+      "id": "_11",
+      "label": "Groblje",
+      "longitude": 20.237720489502,
+      "latitude": 44.8246612548828
+    },
+    {
+      "id": "_12",
+      "label": "Anđelka Čobanovića",
+      "longitude": 20.2384700775146,
+      "latitude": 44.8279113769531
+    },
+    {
+      "id": "_13",
+      "label": "Beogradska",
+      "longitude": 20.2391395568848,
+      "latitude": 44.8313484191895
+    },
+    {
+      "id": "_14",
       "label": "Partizanska",
       "longitude": 20.2320376582636,
       "latitude": 44.8311448727147
     },
     {
-      "id": "_3",
+      "id": "_15",
       "label": "Zemunska",
       "longitude": 20.2283378469199,
       "latitude": 44.8297610913239
     },
     {
-      "id": "_4",
+      "id": "_16",
       "label": "Dobanovci (centar)",
       "longitude": 20.2224490712667,
       "latitude": 44.8282867596434
     },
     {
-      "id": "_5",
+      "id": "_17",
       "label": "Žarka Jelića",
       "longitude": 20.2195399289747,
       "latitude": 44.8320827652834
     },
     {
-      "id": "_6",
+      "id": "_18",
       "label": "Slovački dom",
       "longitude": 20.2175322642321,
       "latitude": 44.8346555247056
     },
     {
-      "id": "_7",
+      "id": "_19",
       "label": "Fruškogorska",
       "longitude": 20.2155911547732,
       "latitude": 44.8375310859837
     },
     {
-      "id": "_8",
+      "id": "_20",
       "label": "Dobanovci (ulaz)",
       "longitude": 20.2138887279203,
       "latitude": 44.8403272554713
     },
     {
-      "id": "_9",
+      "id": "_21",
       "label": "Pumpa",
       "longitude": 20.1880397284147,
       "latitude": 44.8498663968943
     },
     {
-      "id": "_10",
+      "id": "_22",
       "label": "Grmovac (ulaz)",
-      "longitude": 20.1662671759698,
-      "latitude": 44.8556730425443
+      "longitude": 20.1676322806633,
+      "latitude": 44.8553744481991
     },
     {
-      "id": "_11",
-      "label": "Grmovac",
-      "longitude": 20.1613840106265,
-      "latitude": 44.8556283965893
+      "id": "_23",
+      "label": "Grmovac (7. nova)",
+      "longitude": 20.1677262965825,
+      "latitude": 44.8518833911916
     },
     {
-      "id": "_12",
-      "label": "Grmovac (crkva)",
-      "longitude": 20.155501428244,
-      "latitude": 44.8555761776879
+      "id": "_24",
+      "label": "Grmovac (13. nova)",
+      "longitude": 20.1602769629106,
+      "latitude": 44.851655210163
     },
     {
-      "id": "_13",
-      "label": "Grmovac (20. nova)",
-      "longitude": 20.1525285811043,
-      "latitude": 44.8555452213862
+      "id": "_25",
+      "label": "Grmovac (19. nova)",
+      "longitude": 20.1539335553447,
+      "latitude": 44.85161527839
     },
     {
-      "id": "_14",
+      "id": "_26",
+      "label": "Grmovac (24. nova)",
+      "longitude": 20.1484298706055,
+      "latitude": 44.8515701293945
+    },
+    {
+      "id": "_27",
       "label": "Grmovac (25. nova)",
       "longitude": 20.1472218310564,
       "latitude": 44.8553978409504
@@ -161,14 +239,86 @@
     {
       "id": "_13",
       "label": "Partizanska",
-      "longitude": 20.2337567753909,
-      "latitude": 44.831977135789
+      "longitude": 20.2347011566162,
+      "latitude": 44.8314552307129
     },
     {
       "id": "_14",
-      "label": "Dobanovci (groblje)",
-      "longitude": 20.2359949256436,
-      "latitude": 44.8364252290671
+      "label": "Beogradska",
+      "longitude": 20.2391700744629,
+      "latitude": 44.8312683105469
+    },
+    {
+      "id": "_15",
+      "label": "Anđelka Čobanovića",
+      "longitude": 20.2382106781006,
+      "latitude": 44.8274993896484
+    },
+    {
+      "id": "_16",
+      "label": "Groblje",
+      "longitude": 20.2375507354736,
+      "latitude": 44.8244400024414
+    },
+    {
+      "id": "_17",
+      "label": "Grobljanska",
+      "longitude": 20.2353591918945,
+      "latitude": 44.8173904418945
+    },
+    {
+      "id": "_18",
+      "label": "Industrijska zona Dobanovci",
+      "longitude": 20.2435011335066,
+      "latitude": 44.8109470384094
+    },
+    {
+      "id": "_19",
+      "label": "Surčinska petlja",
+      "longitude": 20.2507776332165,
+      "latitude": 44.8060919037217
+    },
+    {
+      "id": "_20",
+      "label": "Surčin (izlaz)",
+      "longitude": 20.2584247643347,
+      "latitude": 44.8012189012682
+    },
+    {
+      "id": "_21",
+      "label": "Braće Suzić",
+      "longitude": 20.2655174481933,
+      "latitude": 44.7975099713163
+    },
+    {
+      "id": "_22",
+      "label": "Surčin (centar)",
+      "longitude": 20.269576440419,
+      "latitude": 44.7909428436165
+    },
+    {
+      "id": "_23",
+      "label": "Krušedolska",
+      "longitude": 20.2618605005293,
+      "latitude": 44.7894750736203
+    },
+    {
+      "id": "_24",
+      "label": "Surčin (mlin)",
+      "longitude": 20.2560733648775,
+      "latitude": 44.7872237587599
+    },
+    {
+      "id": "_25",
+      "label": "Braće Nikolić",
+      "longitude": 20.2538782515217,
+      "latitude": 44.7833846722943
+    },
+    {
+      "id": "_26",
+      "label": "Surčin",
+      "longitude": 20.2496792537806,
+      "latitude": 44.7809273710085
     }
   ]
 }

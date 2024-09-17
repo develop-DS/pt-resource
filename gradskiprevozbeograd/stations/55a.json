@@ -1,0 +1,102 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Resnik",
+      "longitude": 20.4476594542444,
+      "latitude": 44.705361475793
+    },
+    {
+      "id": "_2",
+      "label": "Kijevo",
+      "longitude": 20.4365997,
+      "latitude": 44.7236461
+    },
+    {
+      "id": "_3",
+      "label": "Kneževac",
+      "longitude": 20.4309634,
+      "latitude": 44.7320465
+    },
+    {
+      "id": "_4",
+      "label": "Rakovica",
+      "longitude": 20.4436629775231,
+      "latitude": 44.7473999770486
+    },
+    {
+      "id": "_5",
+      "label": "Beograd centar",
+      "longitude": 20.4530933,
+      "latitude": 44.7932933
+    },
+    {
+      "id": "_6",
+      "label": "Novi Beograd",
+      "longitude": 20.417932662659,
+      "latitude": 44.8068305435762
+    },
+    {
+      "id": "_7",
+      "label": "Tošin bunar",
+      "longitude": 20.3945583,
+      "latitude": 44.8178583
+    },
+    {
+      "id": "_8",
+      "label": "Zemun",
+      "longitude": 20.3719943291078,
+      "latitude": 44.8367340119744
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Zemun",
+      "longitude": 20.3719943291078,
+      "latitude": 44.8367340119744
+    },
+    {
+      "id": "_2",
+      "label": "Tošin bunar",
+      "longitude": 20.3945583,
+      "latitude": 44.8178583
+    },
+    {
+      "id": "_3",
+      "label": "Novi Beograd",
+      "longitude": 20.417932662659,
+      "latitude": 44.8068305435762
+    },
+    {
+      "id": "_4",
+      "label": "Beograd centar",
+      "longitude": 20.4530933,
+      "latitude": 44.7932933
+    },
+    {
+      "id": "_5",
+      "label": "Rakovica",
+      "longitude": 20.4436629775231,
+      "latitude": 44.7473999770486
+    },
+    {
+      "id": "_6",
+      "label": "Kneževac",
+      "longitude": 20.4309634,
+      "latitude": 44.7320465
+    },
+    {
+      "id": "_7",
+      "label": "Kijevo",
+      "longitude": 20.4365997,
+      "latitude": 44.7236461
+    },
+    {
+      "id": "_8",
+      "label": "Resnik",
+      "longitude": 20.4476594542444,
+      "latitude": 44.705361475793
+    }
+  ]
+}

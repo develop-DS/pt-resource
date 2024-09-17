@@ -2,299 +2,233 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Zeleni venac",
-      "longitude": 20.457141271366,
-      "latitude": 44.8138441644374
+      "label": "Mladenovac",
+      "longitude": 20.69105,
+      "latitude": 44.440518
     },
     {
       "id": "_2",
-      "label": "Vaznesenjska crkva",
-      "longitude": 20.4621321298156,
-      "latitude": 44.807904581549
+      "label": "Vlaško Polje",
+      "longitude": 20.6586473709474,
+      "latitude": 44.4830616283668
     },
     {
       "id": "_3",
-      "label": "Miloša Pocerca",
-      "longitude": 20.4560783569759,
-      "latitude": 44.8023161310522
+      "label": "Sopot Kosmajski",
+      "longitude": 20.6122558875728,
+      "latitude": 44.5231233643579
     },
     {
       "id": "_4",
-      "label": "Mostar",
-      "longitude": 20.4492660247473,
-      "latitude": 44.7987396141814
+      "label": "Ralja",
+      "longitude": 20.5611919856581,
+      "latitude": 44.568420262767
     },
     {
       "id": "_5",
-      "label": "Sajam",
-      "longitude": 20.4415906546322,
-      "latitude": 44.7964130286058
+      "label": "Ripanj Tunel",
+      "longitude": 20.5319671630859,
+      "latitude": 44.6003074645996
     },
     {
       "id": "_6",
-      "label": "Ruska",
-      "longitude": 20.4359385437038,
-      "latitude": 44.795085842923
+      "label": "Klenje",
+      "longitude": 20.5329000037786,
+      "latitude": 44.6416739146979
     },
     {
       "id": "_7",
-      "label": "Kneza Višeslava",
-      "longitude": 20.4211209252658,
-      "latitude": 44.7831002074612
+      "label": "Ripanj",
+      "longitude": 20.508057,
+      "latitude": 44.661772
     },
     {
       "id": "_8",
-      "label": "Škola Josif Pančić",
-      "longitude": 20.4171984049806,
-      "latitude": 44.7810968392086
+      "label": "Ripanj kolonija",
+      "longitude": 20.4948664653043,
+      "latitude": 44.6682980678771
     },
     {
       "id": "_9",
-      "label": "Dom zdravlja",
-      "longitude": 20.4144724285048,
-      "latitude": 44.77774411363
+      "label": "Resnik",
+      "longitude": 20.4476594542444,
+      "latitude": 44.705361475793
     },
     {
       "id": "_10",
-      "label": "Kijevska",
-      "longitude": 20.4135459176844,
-      "latitude": 44.775395889586
+      "label": "Kijevo",
+      "longitude": 20.4365997,
+      "latitude": 44.7236461
     },
     {
       "id": "_11",
-      "label": "Petra Lekovića",
-      "longitude": 20.416986414045,
-      "latitude": 44.7712304215954
+      "label": "Kneževac",
+      "longitude": 20.4309634,
+      "latitude": 44.7320465
     },
     {
       "id": "_12",
-      "label": "Žarkovačka",
-      "longitude": 20.4197343446528,
-      "latitude": 44.7680567006046
+      "label": "Rakovica",
+      "longitude": 20.4436629775231,
+      "latitude": 44.7473999770486
     },
     {
       "id": "_13",
-      "label": "SC Košutnjak",
-      "longitude": 20.4279251302428,
-      "latitude": 44.7642604138909
+      "label": "Karađorđev park",
+      "longitude": 20.4657965677851,
+      "latitude": 44.7935347116048
     },
     {
       "id": "_14",
-      "label": "Pionirski grad",
-      "longitude": 20.4328789437315,
-      "latitude": 44.7593946266901
+      "label": "Vukov spomenik",
+      "longitude": 20.4780650580181,
+      "latitude": 44.8053195483783
     },
     {
       "id": "_15",
-      "label": "Luke Vojvodića",
-      "longitude": 20.434822226557,
-      "latitude": 44.7517851445866
+      "label": "Pančevački most",
+      "longitude": 20.4903467,
+      "latitude": 44.8198183
     },
     {
       "id": "_16",
-      "label": "Miloja Zakića",
-      "longitude": 20.4331993870593,
-      "latitude": 44.750349798233
+      "label": "Krnjača most",
+      "longitude": 20.497489514199,
+      "latitude": 44.8403286891358
     },
     {
       "id": "_17",
-      "label": "Ratka Mitrovića",
-      "longitude": 20.4309078428306,
-      "latitude": 44.7483405369102
+      "label": "Krnjača",
+      "longitude": 20.5055037,
+      "latitude": 44.8480722
     },
     {
       "id": "_18",
-      "label": "Vojno medicinski centar",
-      "longitude": 20.4283967675253,
-      "latitude": 44.7463265353822
+      "label": "Sebeš",
+      "longitude": 20.5190572083758,
+      "latitude": 44.8608768066229
     },
     {
       "id": "_19",
-      "label": "Pilota Mihaila Petrovića",
-      "longitude": 20.4245192708822,
-      "latitude": 44.7428026925389
-    },
-    {
-      "id": "_20",
-      "label": "MZ Vidikovac",
-      "longitude": 20.4224925086193,
-      "latitude": 44.7401286147071
-    },
-    {
-      "id": "_21",
-      "label": "Vidikovački venac",
-      "longitude": 20.4200310609752,
-      "latitude": 44.7385214599684
-    },
-    {
-      "id": "_22",
-      "label": "Toplana",
-      "longitude": 20.420591322832,
-      "latitude": 44.7339866712728
-    },
-    {
-      "id": "_23",
-      "label": "Vidikovac",
-      "longitude": 20.4204222958489,
-      "latitude": 44.731939297339
+      "label": "Ovča",
+      "longitude": 20.5437487,
+      "latitude": 44.8752154
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Vidikovac",
-      "longitude": 20.4204222958489,
-      "latitude": 44.731939297339
+      "label": "Ovča",
+      "longitude": 20.5437487,
+      "latitude": 44.8752154
     },
     {
       "id": "_2",
-      "label": "Toplana",
-      "longitude": 20.4205717368156,
-      "latitude": 44.7346867448075
+      "label": "Sebeš",
+      "longitude": 20.5190572083758,
+      "latitude": 44.8608768066229
     },
     {
       "id": "_3",
-      "label": "Vidikovački venac",
-      "longitude": 20.4209779222169,
-      "latitude": 44.7390446226948
+      "label": "Krnjača",
+      "longitude": 20.5055037,
+      "latitude": 44.8480722
     },
     {
       "id": "_4",
-      "label": "MZ Vidikovac",
-      "longitude": 20.4232188466929,
-      "latitude": 44.7404832550238
+      "label": "Krnjača most",
+      "longitude": 20.497489514199,
+      "latitude": 44.8403286891358
     },
     {
       "id": "_5",
-      "label": "Pilota Mihaila Petrovića",
-      "longitude": 20.4257466213177,
-      "latitude": 44.7440903909167
+      "label": "Pančevački most",
+      "longitude": 20.4903467,
+      "latitude": 44.8198183
     },
     {
       "id": "_6",
-      "label": "Ratka Mitrovića",
-      "longitude": 20.4307291785143,
-      "latitude": 44.7480138640291
+      "label": "Vukov spomenik",
+      "longitude": 20.4780650580181,
+      "latitude": 44.8053195483783
     },
     {
       "id": "_7",
-      "label": "Miloja Zakića",
-      "longitude": 20.4330958277555,
-      "latitude": 44.7500900974223
+      "label": "Karađorđev park",
+      "longitude": 20.4657965677851,
+      "latitude": 44.7935347116048
     },
     {
       "id": "_8",
-      "label": "Luke Vojvodića",
-      "longitude": 20.4352120525176,
-      "latitude": 44.7519598571178
+      "label": "Rakovica",
+      "longitude": 20.4436629775231,
+      "latitude": 44.7473999770486
     },
     {
       "id": "_9",
-      "label": "Pionirski grad",
-      "longitude": 20.4326098054667,
-      "latitude": 44.7597928783975
+      "label": "Kneževac",
+      "longitude": 20.4309634,
+      "latitude": 44.7320465
     },
     {
       "id": "_10",
-      "label": "SC Košutnjak",
-      "longitude": 20.4286802270336,
-      "latitude": 44.7640355872308
+      "label": "Kijevo",
+      "longitude": 20.4365997,
+      "latitude": 44.7236461
     },
     {
       "id": "_11",
-      "label": "Žarkovačka",
-      "longitude": 20.4204482738872,
-      "latitude": 44.767914516531
+      "label": "Resnik",
+      "longitude": 20.4476594542444,
+      "latitude": 44.705361475793
     },
     {
       "id": "_12",
-      "label": "Petra Lekovića",
-      "longitude": 20.4170729542019,
-      "latitude": 44.7714198527806
+      "label": "Ripanj kolonija",
+      "longitude": 20.4948664653043,
+      "latitude": 44.6682980678771
     },
     {
       "id": "_13",
-      "label": "Kijevska",
-      "longitude": 20.4138574029671,
-      "latitude": 44.7758312615877
+      "label": "Ripanj",
+      "longitude": 20.508057,
+      "latitude": 44.661772
     },
     {
       "id": "_14",
-      "label": "Dom zdravlja",
-      "longitude": 20.4159577149361,
-      "latitude": 44.7790656243339
+      "label": "Klenje",
+      "longitude": 20.5329000037786,
+      "latitude": 44.6416739146979
     },
     {
       "id": "_15",
-      "label": "Škola Josif Pančić",
-      "longitude": 20.4177988662816,
-      "latitude": 44.7814508718708
+      "label": "Ripanj Tunel",
+      "longitude": 20.5319671630859,
+      "latitude": 44.6003074645996
     },
     {
       "id": "_16",
-      "label": "Kirovljeva",
-      "longitude": 20.4179117112584,
-      "latitude": 44.7848226834066
+      "label": "Ralja",
+      "longitude": 20.5611919856581,
+      "latitude": 44.568420262767
     },
     {
       "id": "_17",
-      "label": "Ada Ciganlija",
-      "longitude": 20.4199404372204,
-      "latitude": 44.7884471855672
+      "label": "Sopot Kosmajski",
+      "longitude": 20.6122558875728,
+      "latitude": 44.5231233643579
     },
     {
       "id": "_18",
-      "label": "Petlja Radnička",
-      "longitude": 20.4269233361216,
-      "latitude": 44.7922118123979
+      "label": "Vlaško Polje",
+      "longitude": 20.6586473709474,
+      "latitude": 44.4830616283668
     },
     {
       "id": "_19",
-      "label": "Gospodarska mehana",
-      "longitude": 20.4336127623586,
-      "latitude": 44.7944711917042
-    },
-    {
-      "id": "_20",
-      "label": "Ruska",
-      "longitude": 20.4381790000629,
-      "latitude": 44.7952642285528
-    },
-    {
-      "id": "_21",
-      "label": "Sajam",
-      "longitude": 20.4420563488721,
-      "latitude": 44.7963250729334
-    },
-    {
-      "id": "_22",
-      "label": "Drinska",
-      "longitude": 20.4518321880527,
-      "latitude": 44.8008577965623
-    },
-    {
-      "id": "_23",
-      "label": "Miloša Pocerca",
-      "longitude": 20.4550125996738,
-      "latitude": 44.8035458106545
-    },
-    {
-      "id": "_24",
-      "label": "Nemanjina",
-      "longitude": 20.4583623579774,
-      "latitude": 44.8078994480017
-    },
-    {
-      "id": "_25",
-      "label": "Kamenička",
-      "longitude": 20.4562962076639,
-      "latitude": 44.8117342746216
-    },
-    {
-      "id": "_26",
-      "label": "Zeleni venac",
-      "longitude": 20.4558958023526,
-      "latitude": 44.8139912569939
+      "label": "Mladenovac",
+      "longitude": 20.69105,
+      "latitude": 44.440518
     }
   ]
 }

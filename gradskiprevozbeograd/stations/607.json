@@ -2,323 +2,209 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Novi Beograd (Paviljoni)",
-      "longitude": 20.4042673503249,
-      "latitude": 44.8301210659387
+      "label": "Banovo brdo",
+      "longitude": 20.4137161014555,
+      "latitude": 44.7687467281234
     },
     {
       "id": "_2",
-      "label": "Bulevar Maršala Tolbuhina",
-      "longitude": 20.4111070310089,
-      "latitude": 44.8298414053327
+      "label": "Trebevićka",
+      "longitude": 20.4143679959541,
+      "latitude": 44.7715482675454
     },
     {
       "id": "_3",
-      "label": "Arhiv",
-      "longitude": 20.4120381076528,
-      "latitude": 44.8270653368328
+      "label": "Kijevska",
+      "longitude": 20.4138574029671,
+      "latitude": 44.7758312615877
     },
     {
       "id": "_4",
-      "label": "GO Novi Beograd",
-      "longitude": 20.4119222276615,
-      "latitude": 44.8230221655042
+      "label": "Dom zdravlja",
+      "longitude": 20.4159577149361,
+      "latitude": 44.7790656243339
     },
     {
       "id": "_5",
-      "label": "Bulevar Zorana Đinđića",
-      "longitude": 20.409434007589,
-      "latitude": 44.8202501313123
+      "label": "Škola Josif Pančić",
+      "longitude": 20.4177988662816,
+      "latitude": 44.7814508718708
     },
     {
       "id": "_6",
-      "label": "Tošin bunar",
-      "longitude": 20.3999624583207,
-      "latitude": 44.8220350702065
+      "label": "Kneza Višeslava",
+      "longitude": 20.4226646802812,
+      "latitude": 44.7833977738671
     },
     {
       "id": "_7",
+      "label": "Petlja Radnička",
+      "longitude": 20.4273900602908,
+      "latitude": 44.7911744097922
+    },
+    {
+      "id": "_8",
+      "label": "dr Agostina Neta",
+      "longitude": 20.4059430956841,
+      "latitude": 44.8117781097946
+    },
+    {
+      "id": "_9",
+      "label": "Blok 65",
+      "longitude": 20.4014074801192,
+      "latitude": 44.8136771013427
+    },
+    {
+      "id": "_10",
+      "label": "Železnička stanica Tošin bunar",
+      "longitude": 20.3977811337724,
+      "latitude": 44.8153572190827
+    },
+    {
+      "id": "_11",
+      "label": "Generala Nedeljkovića",
+      "longitude": 20.3889763275072,
+      "latitude": 44.8170003330754
+    },
+    {
+      "id": "_12",
+      "label": "Nikole Dobrovića",
+      "longitude": 20.3859879984617,
+      "latitude": 44.8190884584444
+    },
+    {
+      "id": "_13",
+      "label": "Stojana Aralice",
+      "longitude": 20.3882200888873,
+      "latitude": 44.822055827201
+    },
+    {
+      "id": "_14",
       "label": "Bežanijska kosa",
       "longitude": 20.3888959117271,
       "latitude": 44.827048755914
     },
     {
-      "id": "_8",
-      "label": "Zmaj",
-      "longitude": 20.3702737510677,
-      "latitude": 44.8314351530495
-    },
-    {
-      "id": "_9",
-      "label": "Grmeč",
-      "longitude": 20.3607937600953,
-      "latitude": 44.8325616301457
-    },
-    {
-      "id": "_10",
-      "label": "Ikarbus",
-      "longitude": 20.3471576873892,
-      "latitude": 44.8338887168338
-    },
-    {
-      "id": "_11",
+      "id": "_15",
       "label": "Naselje Radiofar",
       "longitude": 20.3098743529498,
       "latitude": 44.8344762879114
     },
     {
-      "id": "_12",
-      "label": "Put za Soko salaš",
-      "longitude": 20.2867684050329,
-      "latitude": 44.8336458662901
-    },
-    {
-      "id": "_13",
+      "id": "_16",
       "label": "Aerodrom Nikola Tesla",
       "longitude": 20.2908553153935,
       "latitude": 44.8192180286035
     },
     {
-      "id": "_14",
-      "label": "Robni terminal",
-      "longitude": 20.2884628967621,
-      "latitude": 44.8173690999395
-    },
-    {
-      "id": "_15",
-      "label": "Jat tehnika",
-      "longitude": 20.2934495475383,
-      "latitude": 44.8119768396418
-    },
-    {
-      "id": "_16",
-      "label": "Malinjak",
-      "longitude": 20.3191312062218,
-      "latitude": 44.7984655778568
-    },
-    {
       "id": "_17",
-      "label": "Galovica",
-      "longitude": 20.3118556244609,
-      "latitude": 44.7974051823851
-    },
-    {
-      "id": "_18",
-      "label": "Orešac",
-      "longitude": 20.3052767749274,
-      "latitude": 44.7964475432666
-    },
-    {
-      "id": "_19",
-      "label": "Surčin (ulaz)",
-      "longitude": 20.2975926668554,
-      "latitude": 44.7953477636655
-    },
-    {
-      "id": "_20",
-      "label": "Crkva",
-      "longitude": 20.2906025174149,
-      "latitude": 44.7943687583691
-    },
-    {
-      "id": "_21",
-      "label": "Marka Raba",
-      "longitude": 20.284743514014,
-      "latitude": 44.7935133841489
-    },
-    {
-      "id": "_22",
-      "label": "Skopljanska",
-      "longitude": 20.2782943207582,
-      "latitude": 44.7925675983652
-    },
-    {
-      "id": "_23",
-      "label": "Surčin (centar)",
-      "longitude": 20.269576440419,
-      "latitude": 44.7909428436165
-    },
-    {
-      "id": "_24",
-      "label": "Krušedolska",
-      "longitude": 20.2618605005293,
-      "latitude": 44.7894750736203
-    },
-    {
-      "id": "_25",
-      "label": "Surčin (mlin)",
-      "longitude": 20.2560733648775,
-      "latitude": 44.7872237587599
-    },
-    {
-      "id": "_26",
-      "label": "Braće Nikolić",
-      "longitude": 20.2538782515217,
-      "latitude": 44.7833846722943
-    },
-    {
-      "id": "_27",
-      "label": "Surčin",
-      "longitude": 20.2496792537806,
-      "latitude": 44.7809273710085
+      "label": "Aerodrom Nikola Tesla (dolasci)",
+      "longitude": 20.2906134768662,
+      "latitude": 44.8201708754185
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Surčin",
-      "longitude": 20.2503850533377,
-      "latitude": 44.7806764025526
+      "label": "Aerodrom Nikola Tesla",
+      "longitude": 20.2908553153935,
+      "latitude": 44.8192180286035
     },
     {
       "id": "_2",
-      "label": "Braće Nikolić",
-      "longitude": 20.254356505014,
-      "latitude": 44.7839295592062
-    },
-    {
-      "id": "_3",
-      "label": "Surčin (mlin)",
-      "longitude": 20.2562724203282,
-      "latitude": 44.7872718485651
-    },
-    {
-      "id": "_4",
-      "label": "Krušedolska",
-      "longitude": 20.2624342595165,
-      "latitude": 44.7894751680994
-    },
-    {
-      "id": "_5",
-      "label": "Surčin (centar)",
-      "longitude": 20.2710959276357,
-      "latitude": 44.7911145102775
-    },
-    {
-      "id": "_6",
-      "label": "Skopljanska",
-      "longitude": 20.2800239299124,
-      "latitude": 44.7927188702734
-    },
-    {
-      "id": "_7",
-      "label": "Marka Raba",
-      "longitude": 20.2864707081862,
-      "latitude": 44.793659143584
-    },
-    {
-      "id": "_8",
-      "label": "Crkva",
-      "longitude": 20.2908991251996,
-      "latitude": 44.7942985974551
-    },
-    {
-      "id": "_9",
-      "label": "Surčin (ulaz)",
-      "longitude": 20.297800912615,
-      "latitude": 44.7952680437376
-    },
-    {
-      "id": "_10",
-      "label": "Orešac",
-      "longitude": 20.3055531545006,
-      "latitude": 44.7963772217066
-    },
-    {
-      "id": "_11",
-      "label": "Galovica",
-      "longitude": 20.3125636059471,
-      "latitude": 44.7973914314327
-    },
-    {
-      "id": "_12",
-      "label": "Malinjak",
-      "longitude": 20.3194907853936,
-      "latitude": 44.7984137158296
-    },
-    {
-      "id": "_13",
-      "label": "Jat tehnika",
-      "longitude": 20.2913289056503,
-      "latitude": 44.8137744507217
-    },
-    {
-      "id": "_14",
-      "label": "Robni terminal",
-      "longitude": 20.28870116575,
-      "latitude": 44.8171167926197
-    },
-    {
-      "id": "_15",
-      "label": "Put za Soko salaš",
-      "longitude": 20.2857264565633,
-      "latitude": 44.8334233895679
-    },
-    {
-      "id": "_16",
       "label": "Naselje Radiofar",
       "longitude": 20.3118811707684,
       "latitude": 44.8341586397701
     },
     {
-      "id": "_17",
-      "label": "Ikarbus",
-      "longitude": 20.348342772843,
-      "latitude": 44.8333248912566
-    },
-    {
-      "id": "_18",
-      "label": "Grmeč",
-      "longitude": 20.3622169519024,
-      "latitude": 44.8321825772601
-    },
-    {
-      "id": "_19",
-      "label": "Zmaj",
-      "longitude": 20.3717328868403,
-      "latitude": 44.8309985821149
-    },
-    {
-      "id": "_20",
+      "id": "_3",
       "label": "Bežanijska kosa",
       "longitude": 20.3886733908055,
       "latitude": 44.826563396766
     },
     {
-      "id": "_21",
-      "label": "Tošin bunar",
-      "longitude": 20.3997072113744,
-      "latitude": 44.821527962086
+      "id": "_4",
+      "label": "Stojana Aralice",
+      "longitude": 20.3885133877361,
+      "latitude": 44.8227827518357
     },
     {
-      "id": "_22",
-      "label": "Bulevar Zorana Đinđića",
-      "longitude": 20.4096906040503,
-      "latitude": 44.8201344585727
+      "id": "_5",
+      "label": "Nikole Dobrovića",
+      "longitude": 20.3861960216156,
+      "latitude": 44.8180690271801
     },
     {
-      "id": "_23",
-      "label": "GO Novi Beograd",
-      "longitude": 20.4126291400749,
-      "latitude": 44.8233929676509
+      "id": "_6",
+      "label": "Generala Nedeljkovića",
+      "longitude": 20.3890347208839,
+      "latitude": 44.8167378582987
     },
     {
-      "id": "_24",
-      "label": "Arhiv",
-      "longitude": 20.4129568170485,
-      "latitude": 44.8255041291896
+      "id": "_7",
+      "label": "Železniča stanica Tošin bunar",
+      "longitude": 20.3962306976318,
+      "latitude": 44.8156967163086
     },
     {
-      "id": "_25",
-      "label": "Bulevar Maršala Tolbuhina",
-      "longitude": 20.4116238752931,
-      "latitude": 44.8292572905846
+      "id": "_8",
+      "label": "Blok 65",
+      "longitude": 20.3997176741179,
+      "latitude": 44.8141299578285
     },
     {
-      "id": "_26",
-      "label": "Novi Beograd (Paviljoni)",
-      "longitude": 20.404901375786,
-      "latitude": 44.8304501391773
+      "id": "_9",
+      "label": "Omladinskih brigada",
+      "longitude": 20.4042345240283,
+      "latitude": 44.8121034925451
+    },
+    {
+      "id": "_10",
+      "label": "dr Agostina Neta",
+      "longitude": 20.4084938593067,
+      "latitude": 44.8104346972491
+    },
+    {
+      "id": "_11",
+      "label": "Petlja Radnička",
+      "longitude": 20.427127199238,
+      "latitude": 44.7908546195408
+    },
+    {
+      "id": "_12",
+      "label": "Kneza Višeslava",
+      "longitude": 20.4211209252658,
+      "latitude": 44.7831002074612
+    },
+    {
+      "id": "_13",
+      "label": "Škola Josif Pančić",
+      "longitude": 20.4171984049806,
+      "latitude": 44.7810968392086
+    },
+    {
+      "id": "_14",
+      "label": "Dom zdravlja",
+      "longitude": 20.4144724285048,
+      "latitude": 44.77774411363
+    },
+    {
+      "id": "_15",
+      "label": "Kijevska",
+      "longitude": 20.4135459176844,
+      "latitude": 44.775395889586
+    },
+    {
+      "id": "_16",
+      "label": "Trebevićka",
+      "longitude": 20.4140922912439,
+      "latitude": 44.7713254696764
+    },
+    {
+      "id": "_17",
+      "label": "Banovo brdo",
+      "longitude": 20.4136250154943,
+      "latitude": 44.7678517247831
     }
   ]
 }

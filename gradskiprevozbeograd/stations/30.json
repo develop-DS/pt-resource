@@ -2,143 +2,137 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Birčaninova",
-      "longitude": 20.4653549758887,
-      "latitude": 44.8005706209813
+      "label": "Beograd centar",
+      "longitude": 20.4530933,
+      "latitude": 44.7932933
     },
     {
       "id": "_2",
-      "label": "Karađorđev park",
-      "longitude": 20.4651954172747,
-      "latitude": 44.7970276562542
+      "label": "Novi Beograd",
+      "longitude": 20.417932662659,
+      "latitude": 44.8068305435762
     },
     {
       "id": "_3",
-      "label": "Južni bulevar",
-      "longitude": 20.4685408667047,
-      "latitude": 44.7913806804655
+      "label": "Tošin bunar",
+      "longitude": 20.3945583,
+      "latitude": 44.8178583
     },
     {
       "id": "_4",
-      "label": "Stratimirovićeva",
-      "longitude": 20.4755587775862,
-      "latitude": 44.7878905393033
+      "label": "Zemun",
+      "longitude": 20.3719943291078,
+      "latitude": 44.8367340119744
     },
     {
       "id": "_5",
-      "label": "Dušanovac (pošta)",
-      "longitude": 20.4798815168838,
-      "latitude": 44.7863982851301
+      "label": "Zemunsko polje",
+      "longitude": 20.33475,
+      "latitude": 44.857585
     },
     {
       "id": "_6",
-      "label": "Miška Jovanovića",
-      "longitude": 20.4817847439638,
-      "latitude": 44.7827008725637
+      "label": "Batajnica",
+      "longitude": 20.2718085874391,
+      "latitude": 44.898998604568
     },
     {
       "id": "_7",
-      "label": "Peke Pavlovića",
-      "longitude": 20.4863019196158,
-      "latitude": 44.7808780674422
+      "label": "Nova Pazova",
+      "longitude": 20.2102416406834,
+      "latitude": 44.9377081072789
     },
     {
       "id": "_8",
-      "label": "Katarine Ivanović",
-      "longitude": 20.4898297560034,
-      "latitude": 44.7782983251222
+      "label": "Stara Pazova",
+      "longitude": 20.1385478089977,
+      "latitude": 44.9856075698587
     },
     {
       "id": "_9",
-      "label": "Umljenovićeva",
-      "longitude": 20.4939025240027,
-      "latitude": 44.7769484195537
+      "label": "Inđija",
+      "longitude": 20.0920541579055,
+      "latitude": 45.0487468008111
     },
     {
       "id": "_10",
-      "label": "Medaković 2",
-      "longitude": 20.4975103796275,
-      "latitude": 44.7752777488979
+      "label": "Beška",
+      "longitude": 20.0410790027072,
+      "latitude": 45.1404593131875
+    },
+    {
+      "id": "_11",
+      "label": "Sremski Karlovci",
+      "longitude": 19.9297017713355,
+      "latitude": 45.2076445560713
+    },
+    {
+      "id": "_12",
+      "label": "Petrovaradin",
+      "longitude": 19.887838647445,
+      "latitude": 45.2404328295022
+    },
+    {
+      "id": "_13",
+      "label": "Novi Sad",
+      "longitude": 19.829457922725,
+      "latitude": 45.265524364363
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Medaković 2",
-      "longitude": 20.4978956423075,
-      "latitude": 44.7751426411325
+      "label": "Beograd centar",
+      "longitude": 20.4530933,
+      "latitude": 44.7932933
     },
     {
       "id": "_2",
-      "label": "Umljenovićeva",
-      "longitude": 20.4938260749052,
-      "latitude": 44.7776032518501
+      "label": "Novi Beograd",
+      "longitude": 20.417932662659,
+      "latitude": 44.8068305435762
     },
     {
       "id": "_3",
-      "label": "Katarine Ivanović",
-      "longitude": 20.4892053684847,
-      "latitude": 44.7786087333771
+      "label": "Batajnica",
+      "longitude": 20.2718085874391,
+      "latitude": 44.898998604568
     },
     {
       "id": "_4",
-      "label": "Peke Pavlovića",
-      "longitude": 20.4859106477364,
-      "latitude": 44.7811139042643
+      "label": "Nova Pazova",
+      "longitude": 20.2102416406834,
+      "latitude": 44.9377081072789
     },
     {
       "id": "_5",
-      "label": "Miška Jovanovića",
-      "longitude": 20.4823122704549,
-      "latitude": 44.7824926633503
+      "label": "Stara Pazova",
+      "longitude": 20.1385478089977,
+      "latitude": 44.9856075698587
     },
     {
       "id": "_6",
-      "label": "Dušanovac (pošta)",
-      "longitude": 20.4814776549723,
-      "latitude": 44.7859663289161
+      "label": "Inđija",
+      "longitude": 20.0920541579055,
+      "latitude": 45.0487468008111
     },
     {
       "id": "_7",
-      "label": "GO Voždovac",
-      "longitude": 20.4782796333072,
-      "latitude": 44.7871865756287
+      "label": "Beška",
+      "longitude": 20.0410790027072,
+      "latitude": 45.1404593131875
     },
     {
       "id": "_8",
-      "label": "Stratimirovićeva",
-      "longitude": 20.4720918286331,
-      "latitude": 44.789474765186
+      "label": "Sremski Karlovci",
+      "longitude": 19.9297017713355,
+      "latitude": 45.2076445560713
     },
     {
       "id": "_9",
-      "label": "Južni bulevar",
-      "longitude": 20.4698260904744,
-      "latitude": 44.7906972594037
-    },
-    {
-      "id": "_10",
-      "label": "Franše D'Eperea",
-      "longitude": 20.4666800433672,
-      "latitude": 44.7928101762883
-    },
-    {
-      "id": "_11",
-      "label": "Karađorđev park",
-      "longitude": 20.4657590648182,
-      "latitude": 44.7982550256383
-    },
-    {
-      "id": "_12",
-      "label": "Trg Slavija (Bulevar oslobođenja)",
-      "longitude": 20.4664336279974,
-      "latitude": 44.8017635811315
-    },
-    {
-      "id": "_13",
-      "label": "Trg Slavija (Tiršova)",
-      "longitude": 20.4648776777364,
-      "latitude": 44.7994164545255
+      "label": "Novi Sad",
+      "longitude": 19.829457922725,
+      "latitude": 45.265524364363
     }
   ]
 }

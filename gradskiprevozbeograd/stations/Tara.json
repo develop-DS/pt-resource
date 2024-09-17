@@ -1,0 +1,294 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Novi Sad",
+      "longitude": 19.829457922725,
+      "latitude": 45.265524364363
+    },
+    {
+      "id": "_2",
+      "label": "Inđija",
+      "longitude": 20.0920541579055,
+      "latitude": 45.0487468008111
+    },
+    {
+      "id": "_3",
+      "label": "Stara Pazova",
+      "longitude": 20.1385478089977,
+      "latitude": 44.9856075698587
+    },
+    {
+      "id": "_4",
+      "label": "Nova Pazova",
+      "longitude": 20.2102416406834,
+      "latitude": 44.9377081072789
+    },
+    {
+      "id": "_5",
+      "label": "Zemun",
+      "longitude": 20.3719943291078,
+      "latitude": 44.8367340119744
+    },
+    {
+      "id": "_6",
+      "label": "Novi Beograd",
+      "longitude": 20.417932662659,
+      "latitude": 44.8068305435762
+    },
+    {
+      "id": "_7",
+      "label": "Beograd centar",
+      "longitude": 20.4530933,
+      "latitude": 44.7932933
+    },
+    {
+      "id": "_8",
+      "label": "Rakovica",
+      "longitude": 20.4436629775231,
+      "latitude": 44.7473999770486
+    },
+    {
+      "id": "_9",
+      "label": "Lazarevac",
+      "longitude": 20.245558,
+      "latitude": 44.384834
+    },
+    {
+      "id": "_10",
+      "label": "Lajkovac",
+      "longitude": 20.1641110425954,
+      "latitude": 44.3679654800278
+    },
+    {
+      "id": "_11",
+      "label": "Valjevo",
+      "longitude": 19.9072058683628,
+      "latitude": 44.2709122149836
+    },
+    {
+      "id": "_12",
+      "label": "Kosjerić",
+      "longitude": 19.9185436626824,
+      "latitude": 44.0004273999548
+    },
+    {
+      "id": "_13",
+      "label": "Požega",
+      "longitude": 20.0291595815659,
+      "latitude": 43.840608627481
+    },
+    {
+      "id": "_14",
+      "label": "Užice",
+      "longitude": 19.8397966480281,
+      "latitude": 43.8536356689959
+    },
+    {
+      "id": "_15",
+      "label": "Branešci",
+      "longitude": 19.6817683727325,
+      "latitude": 43.7793772021968
+    },
+    {
+      "id": "_16",
+      "label": "Priboj",
+      "longitude": 19.524928129526,
+      "latitude": 43.582147114362
+    },
+    {
+      "id": "_17",
+      "label": "Prijepolje",
+      "longitude": 19.6403675610388,
+      "latitude": 43.3928345630047
+    },
+    {
+      "id": "_18",
+      "label": "Prijepolje Teretna",
+      "longitude": 19.6332740783691,
+      "latitude": 43.3664512634277
+    },
+    {
+      "id": "_19",
+      "label": "Bijelo Polje",
+      "longitude": 19.7696826401292,
+      "latitude": 43.0542132132975
+    },
+    {
+      "id": "_20",
+      "label": "Mojkovac",
+      "longitude": 19.5864960219036,
+      "latitude": 42.9528606652293
+    },
+    {
+      "id": "_21",
+      "label": "Kolašin",
+      "longitude": 19.5370324101135,
+      "latitude": 42.8195634540767
+    },
+    {
+      "id": "_22",
+      "label": "Podgorica",
+      "longitude": 19.2694116894537,
+      "latitude": 42.4323778902526
+    },
+    {
+      "id": "_23",
+      "label": "Sutomore",
+      "longitude": 19.0501454161494,
+      "latitude": 42.1395582999959
+    },
+    {
+      "id": "_24",
+      "label": "Bar",
+      "longitude": 19.1050701608138,
+      "latitude": 42.0869801728925
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Bar",
+      "longitude": 19.1050701608138,
+      "latitude": 42.0869801728925
+    },
+    {
+      "id": "_2",
+      "label": "Sutomore",
+      "longitude": 19.0501454161494,
+      "latitude": 42.1395582999959
+    },
+    {
+      "id": "_3",
+      "label": "Podgorica",
+      "longitude": 19.2694116894537,
+      "latitude": 42.4323778902526
+    },
+    {
+      "id": "_4",
+      "label": "Kolašin",
+      "longitude": 19.5370324101135,
+      "latitude": 42.8195634540767
+    },
+    {
+      "id": "_5",
+      "label": "Mojkovac",
+      "longitude": 19.5864960219036,
+      "latitude": 42.9528606652293
+    },
+    {
+      "id": "_6",
+      "label": "Bijelo Polje",
+      "longitude": 19.7696826401292,
+      "latitude": 43.0542132132975
+    },
+    {
+      "id": "_7",
+      "label": "Prijepolje Teretna",
+      "longitude": 19.6332740783691,
+      "latitude": 43.3664512634277
+    },
+    {
+      "id": "_8",
+      "label": "Prijepolje",
+      "longitude": 19.6403675610388,
+      "latitude": 43.3928345630047
+    },
+    {
+      "id": "_9",
+      "label": "Priboj",
+      "longitude": 19.524928129526,
+      "latitude": 43.582147114362
+    },
+    {
+      "id": "_10",
+      "label": "Branešci",
+      "longitude": 19.6817683727325,
+      "latitude": 43.7793772021968
+    },
+    {
+      "id": "_11",
+      "label": "Užice",
+      "longitude": 19.8397966480281,
+      "latitude": 43.8536356689959
+    },
+    {
+      "id": "_12",
+      "label": "Požega",
+      "longitude": 20.0291595815659,
+      "latitude": 43.840608627481
+    },
+    {
+      "id": "_13",
+      "label": "Kosjerić",
+      "longitude": 19.9185436626824,
+      "latitude": 44.0004273999548
+    },
+    {
+      "id": "_14",
+      "label": "Valjevo",
+      "longitude": 19.9072058683628,
+      "latitude": 44.2709122149836
+    },
+    {
+      "id": "_15",
+      "label": "Lajkovac",
+      "longitude": 20.1641110425954,
+      "latitude": 44.3679654800278
+    },
+    {
+      "id": "_16",
+      "label": "Lazarevac",
+      "longitude": 20.245558,
+      "latitude": 44.384834
+    },
+    {
+      "id": "_17",
+      "label": "Rakovica",
+      "longitude": 20.4436629775231,
+      "latitude": 44.7473999770486
+    },
+    {
+      "id": "_18",
+      "label": "Beograd centar",
+      "longitude": 20.4530933,
+      "latitude": 44.7932933
+    },
+    {
+      "id": "_19",
+      "label": "Novi Beograd",
+      "longitude": 20.417932662659,
+      "latitude": 44.8068305435762
+    },
+    {
+      "id": "_20",
+      "label": "Zemun",
+      "longitude": 20.3719943291078,
+      "latitude": 44.8367340119744
+    },
+    {
+      "id": "_21",
+      "label": "Nova Pazova",
+      "longitude": 20.2102416406834,
+      "latitude": 44.9377081072789
+    },
+    {
+      "id": "_22",
+      "label": "Stara Pazova",
+      "longitude": 20.1385478089977,
+      "latitude": 44.9856075698587
+    },
+    {
+      "id": "_23",
+      "label": "Inđija",
+      "longitude": 20.0920541579055,
+      "latitude": 45.0487468008111
+    },
+    {
+      "id": "_24",
+      "label": "Novi Sad",
+      "longitude": 19.829457922725,
+      "latitude": 45.265524364363
+    }
+  ]
+}

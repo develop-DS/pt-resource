@@ -1,0 +1,150 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Šumice",
+      "longitude": 20.500804979919,
+      "latitude": 44.7839063581867
+    },
+    {
+      "id": "_2",
+      "label": "Vrčin (Ivo Lola Ribar)",
+      "longitude": 20.5992131251396,
+      "latitude": 44.6733137066181
+    },
+    {
+      "id": "_3",
+      "label": "Vrčin - Centar",
+      "longitude": 20.5917612510199,
+      "latitude": 44.6634660262375
+    },
+    {
+      "id": "_4",
+      "label": "Vrčin - Centar",
+      "longitude": 20.591533132689,
+      "latitude": 44.6634870111028
+    },
+    {
+      "id": "_5",
+      "label": "Umčari R AP",
+      "longitude": 20.7469322934462,
+      "latitude": 44.5740130237716
+    },
+    {
+      "id": "_6",
+      "label": "Umčari - Ambulanta",
+      "longitude": 20.7390386371656,
+      "latitude": 44.5794676927506
+    },
+    {
+      "id": "_7",
+      "label": "Umčari centar odlazna",
+      "longitude": 20.7358762757279,
+      "latitude": 44.5832541357701
+    },
+    {
+      "id": "_8",
+      "label": "Umčari - Crkva",
+      "longitude": 20.7287603525328,
+      "latitude": 44.5835903569324
+    },
+    {
+      "id": "_9",
+      "label": "Umčari izlaz",
+      "longitude": 20.7228433679534,
+      "latitude": 44.5791811204258
+    },
+    {
+      "id": "_10",
+      "label": "Dražanj - Izlaz",
+      "longitude": 20.7010316877777,
+      "latitude": 44.5789938924109
+    },
+    {
+      "id": "_11",
+      "label": "Dražanj - Ulaz",
+      "longitude": 20.6948573067404,
+      "latitude": 44.5815959256859
+    },
+    {
+      "id": "_12",
+      "label": "Dražanj - Centar",
+      "longitude": 20.6891227103579,
+      "latitude": 44.584954325111
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Dražanj - Centar",
+      "longitude": 20.6889456175458,
+      "latitude": 44.584809142345
+    },
+    {
+      "id": "_2",
+      "label": "Dražanj - Ulaz",
+      "longitude": 20.6946601867676,
+      "latitude": 44.581600189209
+    },
+    {
+      "id": "_3",
+      "label": "Dražanj - Izlaz",
+      "longitude": 20.7012220883399,
+      "latitude": 44.57886397874
+    },
+    {
+      "id": "_4",
+      "label": "Umčari izlaz",
+      "longitude": 20.7229882856004,
+      "latitude": 44.5790817750236
+    },
+    {
+      "id": "_5",
+      "label": "Umčari - Crkva",
+      "longitude": 20.7289910438317,
+      "latitude": 44.5835330466445
+    },
+    {
+      "id": "_6",
+      "label": "Umčari centar odlazna",
+      "longitude": 20.7359566968652,
+      "latitude": 44.5830898451768
+    },
+    {
+      "id": "_7",
+      "label": "Umčari - Ambulanta",
+      "longitude": 20.7388896942139,
+      "latitude": 44.5793876647949
+    },
+    {
+      "id": "_8",
+      "label": "Umčari R AP",
+      "longitude": 20.7445585655479,
+      "latitude": 44.5755931153783
+    },
+    {
+      "id": "_9",
+      "label": "Vrčin (Ivo Lola Ribar)",
+      "longitude": 20.5992131251396,
+      "latitude": 44.6733137066181
+    },
+    {
+      "id": "_10",
+      "label": "Vrčin - Centar",
+      "longitude": 20.5917612510199,
+      "latitude": 44.6634660262375
+    },
+    {
+      "id": "_11",
+      "label": "Vrčin - Centar",
+      "longitude": 20.591533132689,
+      "latitude": 44.6634870111028
+    },
+    {
+      "id": "_12",
+      "label": "Šumice",
+      "longitude": 20.500804979919,
+      "latitude": 44.7839063581867
+    }
+  ]
+}

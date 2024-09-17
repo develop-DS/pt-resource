@@ -1,0 +1,203 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Barajevo AS",
+      "longitude": 20.4132950378123,
+      "latitude": 44.5801309664163
+    },
+    {
+      "id": "_2",
+      "label": "Barajevo (izlaz)",
+      "longitude": 20.417039402083,
+      "latitude": 44.5852790747223
+    },
+    {
+      "id": "_3",
+      "label": "Barajevo IKL",
+      "longitude": 20.4135042608739,
+      "latitude": 44.5934965463297
+    },
+    {
+      "id": "_4",
+      "label": "Svetosavska (Beli Labud)",
+      "longitude": 20.4136651882785,
+      "latitude": 44.6007083208632
+    },
+    {
+      "id": "_5",
+      "label": "Vrelinska",
+      "longitude": 20.41323066785,
+      "latitude": 44.6073196009376
+    },
+    {
+      "id": "_6",
+      "label": "Minel - Dinamo",
+      "longitude": 20.4114013961656,
+      "latitude": 44.6139492220612
+    },
+    {
+      "id": "_7",
+      "label": "Guncati R",
+      "longitude": 20.4100066526141,
+      "latitude": 44.6184856464688
+    },
+    {
+      "id": "_8",
+      "label": "Šumska uprava",
+      "longitude": 20.4099959391868,
+      "latitude": 44.6344481399212
+    },
+    {
+      "id": "_9",
+      "label": "Lipovica (milicija)",
+      "longitude": 20.4123401590483,
+      "latitude": 44.6372919885637
+    },
+    {
+      "id": "_10",
+      "label": "Sremčica",
+      "longitude": 20.4039412301242,
+      "latitude": 44.650650421652
+    },
+    {
+      "id": "_11",
+      "label": "Lipovica (policija)",
+      "longitude": 20.4119476014656,
+      "latitude": 44.6370678711624
+    },
+    {
+      "id": "_12",
+      "label": "Velika Moštanica (r)",
+      "longitude": 20.3798427581787,
+      "latitude": 44.630615234375
+    },
+    {
+      "id": "_13",
+      "label": "Meljak",
+      "longitude": 20.372314453125,
+      "latitude": 44.6250419616699
+    },
+    {
+      "id": "_14",
+      "label": "Baćevac R Ibarska",
+      "longitude": 20.3607996,
+      "latitude": 44.6103513
+    },
+    {
+      "id": "_15",
+      "label": "Baćevac - Izlaz",
+      "longitude": 20.3675847209901,
+      "latitude": 44.6069644213071
+    },
+    {
+      "id": "_16",
+      "label": "Baćevac - Igralište",
+      "longitude": 20.3704011106421,
+      "latitude": 44.5980765852529
+    },
+    {
+      "id": "_17",
+      "label": "Baćevac - Skojevska",
+      "longitude": 20.3734588032378,
+      "latitude": 44.5941574082592
+    },
+    {
+      "id": "_18",
+      "label": "Baćevac - Ekonomija",
+      "longitude": 20.3750762939453,
+      "latitude": 44.5901527404785
+    },
+    {
+      "id": "_19",
+      "label": "Baćevac - Dom",
+      "longitude": 20.3754597927979,
+      "latitude": 44.5852905364402
+    },
+    {
+      "id": "_20",
+      "label": "Baćevac R",
+      "longitude": 20.3825130462646,
+      "latitude": 44.5848503112793
+    },
+    {
+      "id": "_21",
+      "label": "Baćevac - Crkva",
+      "longitude": 20.3863173825946,
+      "latitude": 44.5868187452472
+    },
+    {
+      "id": "_22",
+      "label": "Guncati - Reka",
+      "longitude": 20.3968155461107,
+      "latitude": 44.5926905138038
+    },
+    {
+      "id": "_23",
+      "label": "Guncati - Okretnica",
+      "longitude": 20.4022604227066,
+      "latitude": 44.5963615003624
+    },
+    {
+      "id": "_24",
+      "label": "Guncati dom",
+      "longitude": 20.4002541586128,
+      "latitude": 44.6000551726383
+    },
+    {
+      "id": "_25",
+      "label": "Guncati - Lecina bara",
+      "longitude": 20.4021102549555,
+      "latitude": 44.6077702558373
+    },
+    {
+      "id": "_26",
+      "label": "Guncati - Ulaz",
+      "longitude": 20.4045886135171,
+      "latitude": 44.6125095587579
+    },
+    {
+      "id": "_27",
+      "label": "Guncati R",
+      "longitude": 20.4097973915166,
+      "latitude": 44.61851619358
+    },
+    {
+      "id": "_28",
+      "label": "Minel - Dinamo",
+      "longitude": 20.4110956063611,
+      "latitude": 44.6145258411196
+    },
+    {
+      "id": "_29",
+      "label": "Vrelinska",
+      "longitude": 20.413058962815,
+      "latitude": 44.6073921642508
+    },
+    {
+      "id": "_30",
+      "label": "Svetosavska (Beli Labud)",
+      "longitude": 20.4137402516091,
+      "latitude": 44.6014798666164
+    },
+    {
+      "id": "_31",
+      "label": "Barajevo IKL",
+      "longitude": 20.4133325429982,
+      "latitude": 44.5934889062635
+    },
+    {
+      "id": "_32",
+      "label": "Dom Zdravlja - Barajevo",
+      "longitude": 20.4165887447423,
+      "latitude": 44.5819015900865
+    },
+    {
+      "id": "_33",
+      "label": "Barajevo AS",
+      "longitude": 20.4134022984095,
+      "latitude": 44.579876533489
+    }
+  ],
+  "direction_b": []
+}

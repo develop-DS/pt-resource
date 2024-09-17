@@ -1,0 +1,467 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Barajevo AS",
+      "longitude": 20.4132950378123,
+      "latitude": 44.5801309664163
+    },
+    {
+      "id": "_2",
+      "label": "Barajevo - centar",
+      "longitude": 20.4155777110895,
+      "latitude": 44.5780186454856
+    },
+    {
+      "id": "_3",
+      "label": "Barajevo (Miodraga Vukovića)",
+      "longitude": 20.4224236942093,
+      "latitude": 44.5822634673635
+    },
+    {
+      "id": "_4",
+      "label": "Karaula R",
+      "longitude": 20.4288297497826,
+      "latitude": 44.5888474540336
+    },
+    {
+      "id": "_5",
+      "label": "Srednji kraj",
+      "longitude": 20.4288633,
+      "latitude": 44.59144
+    },
+    {
+      "id": "_6",
+      "label": "Srednji kraj - Ulaz",
+      "longitude": 20.434287,
+      "latitude": 44.594317
+    },
+    {
+      "id": "_7",
+      "label": "Srednji kraj - Šuma",
+      "longitude": 20.4409164098905,
+      "latitude": 44.5983019489922
+    },
+    {
+      "id": "_8",
+      "label": "Crkva Sv.Nikole",
+      "longitude": 20.447147205802,
+      "latitude": 44.5991289118351
+    },
+    {
+      "id": "_9",
+      "label": "Srednji kraj - Škola",
+      "longitude": 20.4495934017472,
+      "latitude": 44.6002633405597
+    },
+    {
+      "id": "_10",
+      "label": "Srednji kraj - Okretnica",
+      "longitude": 20.4543354848377,
+      "latitude": 44.6009413134824
+    },
+    {
+      "id": "_11",
+      "label": "Auto servis Neša",
+      "longitude": 20.4678189602174,
+      "latitude": 44.6002900776699
+    },
+    {
+      "id": "_12",
+      "label": "Stražarija brdo",
+      "longitude": 20.4639995098114,
+      "latitude": 44.5966976457103
+    },
+    {
+      "id": "_13",
+      "label": "Stražarija - Mlekara",
+      "longitude": 20.4618993310141,
+      "latitude": 44.5940657284405
+    },
+    {
+      "id": "_14",
+      "label": "Stražarija",
+      "longitude": 20.4524517,
+      "latitude": 44.590335
+    },
+    {
+      "id": "_15",
+      "label": "Karaula - Ivkovića kraj",
+      "longitude": 20.4482254462104,
+      "latitude": 44.5889658107431
+    },
+    {
+      "id": "_16",
+      "label": "Karaula - Ulaz",
+      "longitude": 20.4430487538725,
+      "latitude": 44.5878197002399
+    },
+    {
+      "id": "_17",
+      "label": "Put za jezero",
+      "longitude": 20.434106258355,
+      "latitude": 44.5882609554591
+    },
+    {
+      "id": "_18",
+      "label": "Karaula R",
+      "longitude": 20.4288297497826,
+      "latitude": 44.5888474540336
+    },
+    {
+      "id": "_19",
+      "label": "Srednji kraj",
+      "longitude": 20.4288502562932,
+      "latitude": 44.5919111124122
+    },
+    {
+      "id": "_20",
+      "label": "Taborište",
+      "longitude": 20.4312143108407,
+      "latitude": 44.6013817126611
+    },
+    {
+      "id": "_21",
+      "label": "Glumčevo brdo 2",
+      "longitude": 20.4340455669944,
+      "latitude": 44.6048282584866
+    },
+    {
+      "id": "_22",
+      "label": "Glumčevo brdo 3",
+      "longitude": 20.4401853837837,
+      "latitude": 44.6085537195416
+    },
+    {
+      "id": "_23",
+      "label": "Stevančevića kraj",
+      "longitude": 20.4444195405892,
+      "latitude": 44.6113660523157
+    },
+    {
+      "id": "_24",
+      "label": "Glumčevo brdo (Škola)",
+      "longitude": 20.4475912740599,
+      "latitude": 44.6141155175844
+    },
+    {
+      "id": "_25",
+      "label": "Glumčevo brdo",
+      "longitude": 20.4550210329829,
+      "latitude": 44.6150996300795
+    },
+    {
+      "id": "_26",
+      "label": "Glumčevo brdo 1",
+      "longitude": 20.4611971079111,
+      "latitude": 44.6176127503912
+    },
+    {
+      "id": "_27",
+      "label": "Glumčevo brdo (Gorčinac)",
+      "longitude": 20.4661314558633,
+      "latitude": 44.618168602965
+    },
+    {
+      "id": "_28",
+      "label": "Brđanska",
+      "longitude": 20.4687702212404,
+      "latitude": 44.6231469522158
+    },
+    {
+      "id": "_29",
+      "label": "Lipovački put",
+      "longitude": 20.4666887217559,
+      "latitude": 44.6300275563996
+    },
+    {
+      "id": "_30",
+      "label": "Timočki put",
+      "longitude": 20.4619354150802,
+      "latitude": 44.634892261618
+    },
+    {
+      "id": "_31",
+      "label": "Drenjak",
+      "longitude": 20.457285259872,
+      "latitude": 44.6383352849545
+    },
+    {
+      "id": "_32",
+      "label": "Lipovački put 4. deo",
+      "longitude": 20.4534500087516,
+      "latitude": 44.6443559412265
+    },
+    {
+      "id": "_33",
+      "label": "Stara Lipovica",
+      "longitude": 20.4451343220607,
+      "latitude": 44.6444132253765
+    },
+    {
+      "id": "_34",
+      "label": "Petkovići raskrsnica",
+      "longitude": 20.4413059504563,
+      "latitude": 44.6413599173745
+    },
+    {
+      "id": "_35",
+      "label": "Brzačka",
+      "longitude": 20.4378372187103,
+      "latitude": 44.637041964506
+    },
+    {
+      "id": "_36",
+      "label": "Petkovići - trafo",
+      "longitude": 20.4348725147916,
+      "latitude": 44.6329585945395
+    },
+    {
+      "id": "_37",
+      "label": "Simić R",
+      "longitude": 20.4293160093615,
+      "latitude": 44.6263144273425
+    },
+    {
+      "id": "_38",
+      "label": "Kuzmanovići R",
+      "longitude": 20.4293454577598,
+      "latitude": 44.6212278759604
+    },
+    {
+      "id": "_39",
+      "label": "Manastir",
+      "longitude": 20.4300987556937,
+      "latitude": 44.6165967098334
+    },
+    {
+      "id": "_40",
+      "label": "Stara lipovica - okretnica",
+      "longitude": 20.4306639197652,
+      "latitude": 44.6139373655741
+    },
+    {
+      "id": "_41",
+      "label": "Manastir",
+      "longitude": 20.4306082240019,
+      "latitude": 44.6162950453652
+    },
+    {
+      "id": "_42",
+      "label": "Kuzmanovići R",
+      "longitude": 20.4294982808867,
+      "latitude": 44.6210630393147
+    },
+    {
+      "id": "_43",
+      "label": "Simić R",
+      "longitude": 20.4293822510478,
+      "latitude": 44.6265001530482
+    },
+    {
+      "id": "_44",
+      "label": "Petkovići - trafo",
+      "longitude": 20.4350461444477,
+      "latitude": 44.632990049052
+    },
+    {
+      "id": "_45",
+      "label": "Brzačka",
+      "longitude": 20.4378,
+      "latitude": 44.63683
+    },
+    {
+      "id": "_46",
+      "label": "Petkovići raskrsnica",
+      "longitude": 20.4412546427303,
+      "latitude": 44.6411886714581
+    },
+    {
+      "id": "_47",
+      "label": "Prvomajska",
+      "longitude": 20.4364540517092,
+      "latitude": 44.6469808536605
+    },
+    {
+      "id": "_48",
+      "label": "Trebež",
+      "longitude": 20.4304785470407,
+      "latitude": 44.6490338937959
+    },
+    {
+      "id": "_49",
+      "label": "29. novembra",
+      "longitude": 20.4272586837237,
+      "latitude": 44.6459399377594
+    },
+    {
+      "id": "_50",
+      "label": "Trebež (okretnica)",
+      "longitude": 20.428755649447,
+      "latitude": 44.642399685717
+    },
+    {
+      "id": "_51",
+      "label": "Dragana Lukića",
+      "longitude": 20.4270547384704,
+      "latitude": 44.6391547293099
+    },
+    {
+      "id": "_52",
+      "label": "Jovana Deretića",
+      "longitude": 20.4260515831601,
+      "latitude": 44.6365171013383
+    },
+    {
+      "id": "_53",
+      "label": "Strugara",
+      "longitude": 20.42527,
+      "latitude": 44.63515
+    },
+    {
+      "id": "_54",
+      "label": "Jovana Deretića",
+      "longitude": 20.42617,
+      "latitude": 44.63655
+    },
+    {
+      "id": "_55",
+      "label": "Dragana Lukića",
+      "longitude": 20.42718,
+      "latitude": 44.6393
+    },
+    {
+      "id": "_56",
+      "label": "Trebež /okretnica/",
+      "longitude": 20.4285782727919,
+      "latitude": 44.6421968228043
+    },
+    {
+      "id": "_57",
+      "label": "29. novembra",
+      "longitude": 20.4274696019902,
+      "latitude": 44.6460291885113
+    },
+    {
+      "id": "_58",
+      "label": "Trebež",
+      "longitude": 20.4310187652065,
+      "latitude": 44.6487107824153
+    },
+    {
+      "id": "_59",
+      "label": "Prvomajska",
+      "longitude": 20.436674997034,
+      "latitude": 44.6468163427655
+    },
+    {
+      "id": "_60",
+      "label": "Stara Lipovica",
+      "longitude": 20.445931211818,
+      "latitude": 44.6443954770243
+    },
+    {
+      "id": "_61",
+      "label": "Lipovački put 4. deo",
+      "longitude": 20.4534095043167,
+      "latitude": 44.6441037542247
+    },
+    {
+      "id": "_62",
+      "label": "Drenjak",
+      "longitude": 20.4568724150279,
+      "latitude": 44.6385421268258
+    },
+    {
+      "id": "_63",
+      "label": "Timočki put",
+      "longitude": 20.4624068644803,
+      "latitude": 44.6343382834803
+    },
+    {
+      "id": "_64",
+      "label": "Lipovački put",
+      "longitude": 20.4664667007864,
+      "latitude": 44.6300499238614
+    },
+    {
+      "id": "_65",
+      "label": "Brđanska",
+      "longitude": 20.4686531074205,
+      "latitude": 44.623189712269
+    },
+    {
+      "id": "_66",
+      "label": "Glumčevo brdo (Gorčinac)",
+      "longitude": 20.4659921318923,
+      "latitude": 44.6182471531954
+    },
+    {
+      "id": "_67",
+      "label": "Glumčevo brdo 1",
+      "longitude": 20.4611070023387,
+      "latitude": 44.6178193233404
+    },
+    {
+      "id": "_68",
+      "label": "Glumčevo brdo - Dom",
+      "longitude": 20.4547583,
+      "latitude": 44.615255
+    },
+    {
+      "id": "_69",
+      "label": "Glumčevo brdo - Škola",
+      "longitude": 20.4474967,
+      "latitude": 44.6141533
+    },
+    {
+      "id": "_70",
+      "label": "Stevančević kraj",
+      "longitude": 20.4443033,
+      "latitude": 44.6113933
+    },
+    {
+      "id": "_71",
+      "label": "Groblje",
+      "longitude": 20.4367183,
+      "latitude": 44.6071383
+    },
+    {
+      "id": "_72",
+      "label": "Taborište",
+      "longitude": 20.430869,
+      "latitude": 44.601053
+    },
+    {
+      "id": "_73",
+      "label": "Srednji kraj",
+      "longitude": 20.4287065141927,
+      "latitude": 44.5911526076362
+    },
+    {
+      "id": "_74",
+      "label": "Karaula",
+      "longitude": 20.4287029875432,
+      "latitude": 44.5889314216418
+    },
+    {
+      "id": "_75",
+      "label": "Barajevo (Miodraga Vukovića)",
+      "longitude": 20.4225795367102,
+      "latitude": 44.5825504482293
+    },
+    {
+      "id": "_76",
+      "label": "Barajevo - centar",
+      "longitude": 20.4152699431458,
+      "latitude": 44.5780710763609
+    },
+    {
+      "id": "_77",
+      "label": "Barajevo AS",
+      "longitude": 20.4134022984095,
+      "latitude": 44.579876533489
+    }
+  ],
+  "direction_b": []
+}

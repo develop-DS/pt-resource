@@ -2,437 +2,185 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Zvezdara",
-      "longitude": 20.5037015339323,
-      "latitude": 44.7927584483672
+      "label": "Batajnica",
+      "longitude": 20.2718085874391,
+      "latitude": 44.898998604568
     },
     {
       "id": "_2",
-      "label": "Škola Vojislav Ilić",
-      "longitude": 20.4968660642852,
-      "latitude": 44.791355358691
+      "label": "Kamendin",
+      "longitude": 20.3206882476807,
+      "latitude": 44.8670310974121
     },
     {
       "id": "_3",
-      "label": "Bačvanska",
-      "longitude": 20.4943641095269,
-      "latitude": 44.7910149806456
+      "label": "Zemunsko polje",
+      "longitude": 20.33475,
+      "latitude": 44.857585
     },
     {
       "id": "_4",
-      "label": "Grčića Milenka",
-      "longitude": 20.4908465977597,
-      "latitude": 44.7914818073972
+      "label": "Altina",
+      "longitude": 20.3454055786133,
+      "latitude": 44.850040435791
     },
     {
       "id": "_5",
-      "label": "Đerdapska",
-      "longitude": 20.4867214675484,
-      "latitude": 44.7929123623297
+      "label": "Zemun",
+      "longitude": 20.3719943291078,
+      "latitude": 44.8367340119744
     },
     {
       "id": "_6",
-      "label": "MPI",
-      "longitude": 20.4811184797162,
-      "latitude": 44.7936521296967
+      "label": "Tošin bunar",
+      "longitude": 20.3945583,
+      "latitude": 44.8178583
     },
     {
       "id": "_7",
-      "label": "Maksima Gorkog",
-      "longitude": 20.4766121333117,
-      "latitude": 44.7932986831893
+      "label": "Novi Beograd",
+      "longitude": 20.417932662659,
+      "latitude": 44.8068305435762
     },
     {
       "id": "_8",
-      "label": "Mihajla Gavrilovića",
-      "longitude": 20.4722004787384,
-      "latitude": 44.7925441142261
+      "label": "Beograd centar",
+      "longitude": 20.4530933,
+      "latitude": 44.7932933
     },
     {
       "id": "_9",
-      "label": "Franše D'Eperea",
-      "longitude": 20.4682170383353,
-      "latitude": 44.7908590058077
+      "label": "Karađorđev park",
+      "longitude": 20.4657965677851,
+      "latitude": 44.7935347116048
     },
     {
       "id": "_10",
-      "label": "Deligradska",
-      "longitude": 20.4574991397711,
-      "latitude": 44.795814386296
+      "label": "Vukov spomenik",
+      "longitude": 20.4780650580181,
+      "latitude": 44.8053195483783
     },
     {
       "id": "_11",
-      "label": "Mostar",
-      "longitude": 20.4492660247473,
-      "latitude": 44.7987396141814
+      "label": "Pančevački most",
+      "longitude": 20.4903467,
+      "latitude": 44.8198183
     },
     {
       "id": "_12",
-      "label": "Sajam",
-      "longitude": 20.4415906546322,
-      "latitude": 44.7964130286058
+      "label": "Krnjača most",
+      "longitude": 20.497489514199,
+      "latitude": 44.8403286891358
     },
     {
       "id": "_13",
-      "label": "Čukarica",
-      "longitude": 20.4145017152671,
-      "latitude": 44.7863856515716
+      "label": "Krnjača",
+      "longitude": 20.5055037,
+      "latitude": 44.8480722
     },
     {
       "id": "_14",
-      "label": "Svetolika Lazarevića Laze",
-      "longitude": 20.4124687132794,
-      "latitude": 44.7837257834688
+      "label": "Sebeš",
+      "longitude": 20.5190572083758,
+      "latitude": 44.8608768066229
     },
     {
       "id": "_15",
-      "label": "Obalskih radnika",
-      "longitude": 20.4093990887355,
-      "latitude": 44.7806321651596
-    },
-    {
-      "id": "_16",
-      "label": "MZ Čukarička padina",
-      "longitude": 20.4078598830849,
-      "latitude": 44.7766734149018
-    },
-    {
-      "id": "_17",
-      "label": "Inos",
-      "longitude": 20.4074435283103,
-      "latitude": 44.7691692100635
-    },
-    {
-      "id": "_18",
-      "label": "Kontaktor",
-      "longitude": 20.4065681983337,
-      "latitude": 44.7670461802203
-    },
-    {
-      "id": "_19",
-      "label": "Ateks",
-      "longitude": 20.404568984732,
-      "latitude": 44.762419024777
-    },
-    {
-      "id": "_20",
-      "label": "Bele vode",
-      "longitude": 20.4036720870075,
-      "latitude": 44.7550220871687
-    },
-    {
-      "id": "_21",
-      "label": "Železnički tunel",
-      "longitude": 20.4000710949176,
-      "latitude": 44.7492669509591
-    },
-    {
-      "id": "_22",
-      "label": "Rupčine",
-      "longitude": 20.3962647255957,
-      "latitude": 44.7463382980396
-    },
-    {
-      "id": "_23",
-      "label": "Savska terasa",
-      "longitude": 20.3921323401039,
-      "latitude": 44.7434671867988
-    },
-    {
-      "id": "_24",
-      "label": "Put za ŽTP",
-      "longitude": 20.3893737315543,
-      "latitude": 44.7408822363754
-    },
-    {
-      "id": "_25",
-      "label": "Ranžirna stanica",
-      "longitude": 20.3857120650103,
-      "latitude": 44.7379845967094
-    },
-    {
-      "id": "_26",
-      "label": "Železnik (ulaz)",
-      "longitude": 20.3803074157722,
-      "latitude": 44.7354140191758
-    },
-    {
-      "id": "_27",
-      "label": "Zlatanovići",
-      "longitude": 20.3765578976882,
-      "latitude": 44.7339573520046
-    },
-    {
-      "id": "_28",
-      "label": "Radnih akcija",
-      "longitude": 20.3746824980462,
-      "latitude": 44.729413116956
-    },
-    {
-      "id": "_29",
-      "label": "Pijaca",
-      "longitude": 20.3732785221698,
-      "latitude": 44.7270745414992
-    },
-    {
-      "id": "_30",
-      "label": "Milorada Ćirića",
-      "longitude": 20.3705594031883,
-      "latitude": 44.7258914921754
-    },
-    {
-      "id": "_31",
-      "label": "MZ Železnik",
-      "longitude": 20.3727512080396,
-      "latitude": 44.7242241661318
-    },
-    {
-      "id": "_32",
-      "label": "Crkva",
-      "longitude": 20.3764482662237,
-      "latitude": 44.7222572041281
-    },
-    {
-      "id": "_33",
-      "label": "Gradine",
-      "longitude": 20.3793456872984,
-      "latitude": 44.7197314170505
-    },
-    {
-      "id": "_34",
-      "label": "Trafostanica",
-      "longitude": 20.3812308433434,
-      "latitude": 44.7186058464083
-    },
-    {
-      "id": "_35",
-      "label": "Stari Železnik",
-      "longitude": 20.3828290271914,
-      "latitude": 44.7207347807115
+      "label": "Ovča",
+      "longitude": 20.5437487,
+      "latitude": 44.8752154
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Stari Železnik",
-      "longitude": 20.3828290271914,
-      "latitude": 44.7207347807115
+      "label": "Ovča",
+      "longitude": 20.5437487,
+      "latitude": 44.8752154
     },
     {
       "id": "_2",
-      "label": "Trafostanica",
-      "longitude": 20.3807016297918,
-      "latitude": 44.7187559840053
+      "label": "Sebeš",
+      "longitude": 20.5190572083758,
+      "latitude": 44.8608768066229
     },
     {
       "id": "_3",
-      "label": "Gradine",
-      "longitude": 20.3790888576471,
-      "latitude": 44.7201422114979
+      "label": "Krnjača",
+      "longitude": 20.5055037,
+      "latitude": 44.8480722
     },
     {
       "id": "_4",
-      "label": "Crkva",
-      "longitude": 20.3756440647197,
-      "latitude": 44.7228558057268
+      "label": "Krnjača most",
+      "longitude": 20.497489514199,
+      "latitude": 44.8403286891358
     },
     {
       "id": "_5",
-      "label": "MZ Železnik",
-      "longitude": 20.3729499919735,
-      "latitude": 44.7242864510288
+      "label": "Pančevački most",
+      "longitude": 20.4903467,
+      "latitude": 44.8198183
     },
     {
       "id": "_6",
-      "label": "Svete Milutinovića",
-      "longitude": 20.3695014665523,
-      "latitude": 44.7268288440577
+      "label": "Vukov spomenik",
+      "longitude": 20.4780650580181,
+      "latitude": 44.8053195483783
     },
     {
       "id": "_7",
-      "label": "Pijaca",
-      "longitude": 20.3741147738254,
-      "latitude": 44.7272609020472
+      "label": "Karađorđev park",
+      "longitude": 20.4657965677851,
+      "latitude": 44.7935347116048
     },
     {
       "id": "_8",
-      "label": "Radnih akcija",
-      "longitude": 20.3747926138117,
-      "latitude": 44.7309166592682
+      "label": "Beograd centar",
+      "longitude": 20.4530933,
+      "latitude": 44.7932933
     },
     {
       "id": "_9",
-      "label": "Zlatanovići",
-      "longitude": 20.3767124625287,
-      "latitude": 44.7339077942203
+      "label": "Novi Beograd",
+      "longitude": 20.417932662659,
+      "latitude": 44.8068305435762
     },
     {
       "id": "_10",
-      "label": "Železnik (ulaz)",
-      "longitude": 20.381086211494,
-      "latitude": 44.7355550196931
+      "label": "Tošin bunar",
+      "longitude": 20.3945583,
+      "latitude": 44.8178583
     },
     {
       "id": "_11",
-      "label": "Ranžirna stanica",
-      "longitude": 20.385285157052,
-      "latitude": 44.7375179276797
+      "label": "Zemun",
+      "longitude": 20.3719943291078,
+      "latitude": 44.8367340119744
     },
     {
       "id": "_12",
-      "label": "Put za ŽTP",
-      "longitude": 20.3908183025308,
-      "latitude": 44.7418474801032
+      "label": "Altina",
+      "longitude": 20.3454055786133,
+      "latitude": 44.850040435791
     },
     {
       "id": "_13",
-      "label": "Savska terasa",
-      "longitude": 20.3933367126285,
-      "latitude": 44.7442259332722
+      "label": "Zemunsko polje",
+      "longitude": 20.33475,
+      "latitude": 44.857585
     },
     {
       "id": "_14",
-      "label": "Rupčine",
-      "longitude": 20.3971497176097,
-      "latitude": 44.7467299373675
+      "label": "Kamendin",
+      "longitude": 20.3206882476807,
+      "latitude": 44.8670310974121
     },
     {
       "id": "_15",
-      "label": "Železnički tunel",
-      "longitude": 20.4005808089505,
-      "latitude": 44.7495612038497
-    },
-    {
-      "id": "_16",
-      "label": "Bele vode",
-      "longitude": 20.40378260312,
-      "latitude": 44.7553304485051
-    },
-    {
-      "id": "_17",
-      "label": "Ateks",
-      "longitude": 20.4052759705345,
-      "latitude": 44.763695236505
-    },
-    {
-      "id": "_18",
-      "label": "Kontaktor",
-      "longitude": 20.406478120376,
-      "latitude": 44.7664643402674
-    },
-    {
-      "id": "_19",
-      "label": "Inos",
-      "longitude": 20.4078541849221,
-      "latitude": 44.7697833031114
-    },
-    {
-      "id": "_20",
-      "label": "MZ Čukarička padina",
-      "longitude": 20.4082502530515,
-      "latitude": 44.7773000004035
-    },
-    {
-      "id": "_21",
-      "label": "Obalskih radnika",
-      "longitude": 20.409834496281,
-      "latitude": 44.7813075744098
-    },
-    {
-      "id": "_22",
-      "label": "Svetolika Lazarevića Laze",
-      "longitude": 20.4126930555031,
-      "latitude": 44.7842849056458
-    },
-    {
-      "id": "_23",
-      "label": "Čukarica",
-      "longitude": 20.4151354377319,
-      "latitude": 44.786451881637
-    },
-    {
-      "id": "_24",
-      "label": "Ada Ciganlija",
-      "longitude": 20.4199404372204,
-      "latitude": 44.7884471855672
-    },
-    {
-      "id": "_25",
-      "label": "Gospodarska mehana",
-      "longitude": 20.4336127623586,
-      "latitude": 44.7944711917042
-    },
-    {
-      "id": "_26",
-      "label": "Ruska",
-      "longitude": 20.4381790000629,
-      "latitude": 44.7952642285528
-    },
-    {
-      "id": "_27",
-      "label": "Sajam",
-      "longitude": 20.4420563488721,
-      "latitude": 44.7963250729334
-    },
-    {
-      "id": "_28",
-      "label": "Mostar",
-      "longitude": 20.4488893135074,
-      "latitude": 44.7982104318979
-    },
-    {
-      "id": "_29",
-      "label": "Deligradska",
-      "longitude": 20.457407735647,
-      "latitude": 44.7953153789886
-    },
-    {
-      "id": "_30",
-      "label": "Franše D'Eperea",
-      "longitude": 20.4664495230787,
-      "latitude": 44.7914861699274
-    },
-    {
-      "id": "_31",
-      "label": "Mihajla Gavrilovića",
-      "longitude": 20.471430775116,
-      "latitude": 44.7921283918794
-    },
-    {
-      "id": "_32",
-      "label": "Maksima Gorkog",
-      "longitude": 20.4790551552128,
-      "latitude": 44.7934447921657
-    },
-    {
-      "id": "_33",
-      "label": "Đerdapska",
-      "longitude": 20.4850561378871,
-      "latitude": 44.7931478905926
-    },
-    {
-      "id": "_34",
-      "label": "Grčića Milenka",
-      "longitude": 20.4893062824142,
-      "latitude": 44.7915919583987
-    },
-    {
-      "id": "_35",
-      "label": "Bačvanska",
-      "longitude": 20.4937157349717,
-      "latitude": 44.7908735293819
-    },
-    {
-      "id": "_36",
-      "label": "Škola Vojislav Ilić",
-      "longitude": 20.4967684229495,
-      "latitude": 44.7912469359648
-    },
-    {
-      "id": "_37",
-      "label": "Zvezdara",
-      "longitude": 20.5036651188074,
-      "latitude": 44.7928788849656
+      "label": "Batajnica",
+      "longitude": 20.2718085874391,
+      "latitude": 44.898998604568
     }
   ]
 }

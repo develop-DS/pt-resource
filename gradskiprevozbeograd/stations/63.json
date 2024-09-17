@@ -1,0 +1,306 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Ustanička",
+      "longitude": 20.5173408468032,
+      "latitude": 44.78486458983
+    },
+    {
+      "id": "_2",
+      "label": "Koste Trifkovića",
+      "longitude": 20.5159594017901,
+      "latitude": 44.7893009589398
+    },
+    {
+      "id": "_3",
+      "label": "Mite Ružića",
+      "longitude": 20.5144988281368,
+      "latitude": 44.7913790896361
+    },
+    {
+      "id": "_4",
+      "label": "Milana Rakića",
+      "longitude": 20.5174828014402,
+      "latitude": 44.7921332330704
+    },
+    {
+      "id": "_5",
+      "label": "Dušana Radovića",
+      "longitude": 20.5208284171184,
+      "latitude": 44.7916468695226
+    },
+    {
+      "id": "_6",
+      "label": "Vitezova Karađorđeve zvezde",
+      "longitude": 20.5245415152447,
+      "latitude": 44.7925820603455
+    },
+    {
+      "id": "_7",
+      "label": "Selište",
+      "longitude": 20.5275184582277,
+      "latitude": 44.7901770676703
+    },
+    {
+      "id": "_8",
+      "label": "Stojčino brdo",
+      "longitude": 20.5308598491488,
+      "latitude": 44.7892494141877
+    },
+    {
+      "id": "_9",
+      "label": "Mirijevski venac",
+      "longitude": 20.5336635718338,
+      "latitude": 44.7894840238412
+    },
+    {
+      "id": "_10",
+      "label": "Mirijevo 2",
+      "longitude": 20.5331824359169,
+      "latitude": 44.7911721861946
+    },
+    {
+      "id": "_11",
+      "label": "Mirijevo",
+      "longitude": 20.5312547391697,
+      "latitude": 44.7938857990637
+    },
+    {
+      "id": "_12",
+      "label": "Vitezova Karađorđeve zvezde",
+      "longitude": 20.5276421521617,
+      "latitude": 44.7948699451475
+    },
+    {
+      "id": "_13",
+      "label": "VII Beogradska gimnazija",
+      "longitude": 20.527684,
+      "latitude": 44.797178
+    },
+    {
+      "id": "_14",
+      "label": "Ladne vode",
+      "longitude": 20.5274267689387,
+      "latitude": 44.7999160056816
+    },
+    {
+      "id": "_15",
+      "label": "Šejkina",
+      "longitude": 20.5257544448816,
+      "latitude": 44.8025567760538
+    },
+    {
+      "id": "_16",
+      "label": "Pere Ćetkovića",
+      "longitude": 20.5248386582202,
+      "latitude": 44.8057262269258
+    },
+    {
+      "id": "_17",
+      "label": "Mirijevsko brdo",
+      "longitude": 20.524387974241,
+      "latitude": 44.8082802284206
+    },
+    {
+      "id": "_18",
+      "label": "Marijane Gregoran",
+      "longitude": 20.523109073281,
+      "latitude": 44.8113077649312
+    },
+    {
+      "id": "_19",
+      "label": "Pogon Karaburma",
+      "longitude": 20.5205896478246,
+      "latitude": 44.8141915197281
+    },
+    {
+      "id": "_20",
+      "label": "Rospi ćuprija",
+      "longitude": 20.5230954184101,
+      "latitude": 44.8176001737516
+    },
+    {
+      "id": "_21",
+      "label": "Trudbenička",
+      "longitude": 20.5284316669652,
+      "latitude": 44.8156711182624
+    },
+    {
+      "id": "_22",
+      "label": "Višnjička banja",
+      "longitude": 20.5326527621815,
+      "latitude": 44.8155893811077
+    },
+    {
+      "id": "_23",
+      "label": "Toplana",
+      "longitude": 20.5371520280417,
+      "latitude": 44.8145510604222
+    },
+    {
+      "id": "_24",
+      "label": "Novo naselje",
+      "longitude": 20.5418996400027,
+      "latitude": 44.8134235579533
+    },
+    {
+      "id": "_25",
+      "label": "Lešće",
+      "longitude": 20.543774803355,
+      "latitude": 44.8116257178208
+    },
+    {
+      "id": "_26",
+      "label": "Lešće (groblje)",
+      "longitude": 20.5468381569559,
+      "latitude": 44.8101619235177
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Lešće (groblje)",
+      "longitude": 20.5468381569559,
+      "latitude": 44.8101619235177
+    },
+    {
+      "id": "_2",
+      "label": "Lešće",
+      "longitude": 20.542805277794,
+      "latitude": 44.8124084207708
+    },
+    {
+      "id": "_3",
+      "label": "Novo naselje",
+      "longitude": 20.5414187661415,
+      "latitude": 44.8137996187271
+    },
+    {
+      "id": "_4",
+      "label": "Toplana",
+      "longitude": 20.5365779282551,
+      "latitude": 44.8148799274388
+    },
+    {
+      "id": "_5",
+      "label": "Višnjika banja",
+      "longitude": 20.5319963250262,
+      "latitude": 44.8157756974849
+    },
+    {
+      "id": "_6",
+      "label": "Trudbenička",
+      "longitude": 20.5270544898722,
+      "latitude": 44.8161730269356
+    },
+    {
+      "id": "_7",
+      "label": "Rospi ćuprija",
+      "longitude": 20.5218657930662,
+      "latitude": 44.8179838388451
+    },
+    {
+      "id": "_8",
+      "label": "Pogon Karaburma",
+      "longitude": 20.5207882837203,
+      "latitude": 44.8134075905959
+    },
+    {
+      "id": "_9",
+      "label": "Marijane Gregoran",
+      "longitude": 20.523944966436,
+      "latitude": 44.8098911082815
+    },
+    {
+      "id": "_10",
+      "label": "Pere Ćetkovića",
+      "longitude": 20.5248589998429,
+      "latitude": 44.8047831597211
+    },
+    {
+      "id": "_11",
+      "label": "Šejkina",
+      "longitude": 20.5265056965095,
+      "latitude": 44.8016351422926
+    },
+    {
+      "id": "_12",
+      "label": "Ladne vode",
+      "longitude": 20.5278276535594,
+      "latitude": 44.7988017112665
+    },
+    {
+      "id": "_13",
+      "label": "VII Beogradska gimnazija",
+      "longitude": 20.527325,
+      "latitude": 44.797011
+    },
+    {
+      "id": "_14",
+      "label": "Vitezova Karađorđeve zvezde",
+      "longitude": 20.5274703103585,
+      "latitude": 44.7948638383637
+    },
+    {
+      "id": "_15",
+      "label": "Mirijevo",
+      "longitude": 20.531143544233,
+      "latitude": 44.7935685607836
+    },
+    {
+      "id": "_16",
+      "label": "Mirijevo 2",
+      "longitude": 20.5328675010256,
+      "latitude": 44.7913598961808
+    },
+    {
+      "id": "_17",
+      "label": "Mirijevski venac",
+      "longitude": 20.5333305913389,
+      "latitude": 44.7894016750489
+    },
+    {
+      "id": "_18",
+      "label": "Stojčino brdo",
+      "longitude": 20.5301761936522,
+      "latitude": 44.789399611522
+    },
+    {
+      "id": "_19",
+      "label": "Selište",
+      "longitude": 20.527653675794,
+      "latitude": 44.7906456010852
+    },
+    {
+      "id": "_20",
+      "label": "Vitezova Karađorđeve zvezde",
+      "longitude": 20.5251434432951,
+      "latitude": 44.7925413534455
+    },
+    {
+      "id": "_21",
+      "label": "Dušana Radovića",
+      "longitude": 20.5209338796574,
+      "latitude": 44.7917319054575
+    },
+    {
+      "id": "_22",
+      "label": "Mite Ružića",
+      "longitude": 20.5136194698621,
+      "latitude": 44.7904394134507
+    },
+    {
+      "id": "_23",
+      "label": "Koste Trifkovića",
+      "longitude": 20.5162784323904,
+      "latitude": 44.7886255365273
+    },
+    {
+      "id": "_24",
+      "label": "Ustanička",
+      "longitude": 20.5172001841431,
+      "latitude": 44.7847596034066
+    }
+  ]
+}

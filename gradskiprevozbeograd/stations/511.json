@@ -1,372 +1,372 @@
 {
-  "direction_a": [
-    {
-      "id": "_1",
-      "label": "Beograd na vodi",
-      "longitude": 20.444451559849,
-      "latitude": 44.8011117700695
-    },
-    {
-      "id": "_2",
-      "label": "TC Galerija",
-      "longitude": 20.4461890099644,
-      "latitude": 44.8014426648003
-    },
-    {
-      "id": "_3",
-      "label": "Kula Beograd",
-      "longitude": 20.4490089204697,
-      "latitude": 44.8031967529456
-    },
-    {
-      "id": "_4",
-      "label": "Savski park",
-      "longitude": 20.4514809503669,
-      "latitude": 44.8057267978316
-    },
-    {
-      "id": "_5",
-      "label": "Savski most",
-      "longitude": 20.4528071405128,
-      "latitude": 44.8101245281499
-    },
-    {
-      "id": "_6",
-      "label": "Savski trg",
-      "longitude": 20.4551155399825,
-      "latitude": 44.8071299145412
-    },
-    {
-      "id": "_7",
-      "label": "Palata pravde",
-      "longitude": 20.4528657838574,
-      "latitude": 44.8043923494829
-    },
-    {
-      "id": "_8",
-      "label": "Sajam",
-      "longitude": 20.4415906546322,
-      "latitude": 44.7964130286058
-    },
-    {
-      "id": "_9",
-      "label": "Čukarica",
-      "longitude": 20.4145017152671,
-      "latitude": 44.7863856515716
-    },
-    {
-      "id": "_10",
-      "label": "Put za Železnik",
-      "longitude": 20.3602750077101,
-      "latitude": 44.7418359452787
-    },
-    {
-      "id": "_11",
-      "label": "Kongrap",
-      "longitude": 20.3620484353252,
-      "latitude": 44.7332565695253
-    },
-    {
-      "id": "_12",
-      "label": "Železnik (Savska)",
-      "longitude": 20.3664030200553,
-      "latitude": 44.7305862198754
-    },
-    {
-      "id": "_13",
-      "label": "Ivo Lola Ribar",
-      "longitude": 20.3684515017316,
-      "latitude": 44.727260449222
-    },
-    {
-      "id": "_14",
-      "label": "Nićiforovićeva",
-      "longitude": 20.3687852793162,
-      "latitude": 44.723252038817
-    },
-    {
-      "id": "_15",
-      "label": "Železnička rampa",
-      "longitude": 20.3674155515417,
-      "latitude": 44.7203519981372
-    },
-    {
-      "id": "_16",
-      "label": "Stevana Filipovića",
-      "longitude": 20.3681417208355,
-      "latitude": 44.7167093356986
-    },
-    {
-      "id": "_17",
-      "label": "Žikice Jovanovića",
-      "longitude": 20.3681386982941,
-      "latitude": 44.7146591931956
-    },
-    {
-      "id": "_18",
-      "label": "Sare Bernar",
-      "longitude": 20.3782640636061,
-      "latitude": 44.6966359624108
-    },
-    {
-      "id": "_19",
-      "label": "Gorica",
-      "longitude": 20.3805063699559,
-      "latitude": 44.6922256413411
-    },
-    {
-      "id": "_20",
-      "label": "Sremčica (ulaz)",
-      "longitude": 20.3814500516285,
-      "latitude": 44.6877074786876
-    },
-    {
-      "id": "_21",
-      "label": "Šumske ekonomije",
-      "longitude": 20.3835030316087,
-      "latitude": 44.6839674499762
-    },
-    {
-      "id": "_22",
-      "label": "Obrenovačka",
-      "longitude": 20.3850362693173,
-      "latitude": 44.6821217387664
-    },
-    {
-      "id": "_23",
-      "label": "Sremčica (centar)",
-      "longitude": 20.3909236740775,
-      "latitude": 44.6766615220655
-    },
-    {
-      "id": "_24",
-      "label": "Jeličićev venac",
-      "longitude": 20.394118285206,
-      "latitude": 44.6736563316899
-    },
-    {
-      "id": "_25",
-      "label": "Tomaška",
-      "longitude": 20.3963580758952,
-      "latitude": 44.6705056327438
-    },
-    {
-      "id": "_26",
-      "label": "Tesarska",
-      "longitude": 20.3994542340361,
-      "latitude": 44.6654856270972
-    },
-    {
-      "id": "_27",
-      "label": "Mirkovićeva",
-      "longitude": 20.3982263279668,
-      "latitude": 44.662998858303
-    },
-    {
-      "id": "_28",
-      "label": "Vašarska",
-      "longitude": 20.3975717495712,
-      "latitude": 44.6597069095947
-    },
-    {
-      "id": "_29",
-      "label": "Sremčica (izlaz)",
-      "longitude": 20.3993898118444,
-      "latitude": 44.6553155593345
-    },
-    {
-      "id": "_30",
-      "label": "Sremčica",
-      "longitude": 20.4038242662481,
-      "latitude": 44.6504986174882
-    }
-  ],
-  "direction_b": [
-    {
-      "id": "_1",
-      "label": "Sremčica",
-      "longitude": 20.4039412301242,
-      "latitude": 44.650650421652
-    },
-    {
-      "id": "_2",
-      "label": "Sremčica (izlaz)",
-      "longitude": 20.3990146225862,
-      "latitude": 44.6559975763644
-    },
-    {
-      "id": "_3",
-      "label": "Vašarska",
-      "longitude": 20.3976903799216,
-      "latitude": 44.660431113522
-    },
-    {
-      "id": "_4",
-      "label": "Mirkovićeva",
-      "longitude": 20.3986616252028,
-      "latitude": 44.6633431322397
-    },
-    {
-      "id": "_5",
-      "label": "Tesarska",
-      "longitude": 20.3995768212108,
-      "latitude": 44.6658282595486
-    },
-    {
-      "id": "_6",
-      "label": "Tomaška",
-      "longitude": 20.3962509601812,
-      "latitude": 44.6708632587685
-    },
-    {
-      "id": "_7",
-      "label": "Jeličićev venac",
-      "longitude": 20.3940620462969,
-      "latitude": 44.6739710254803
-    },
-    {
-      "id": "_8",
-      "label": "Sremčica (centar)",
-      "longitude": 20.3906728221413,
-      "latitude": 44.6770093792689
-    },
-    {
-      "id": "_9",
-      "label": "Obrenovačka",
-      "longitude": 20.3860459794723,
-      "latitude": 44.6811101796167
-    },
-    {
-      "id": "_10",
-      "label": "Šumske ekonomije",
-      "longitude": 20.3827480022077,
-      "latitude": 44.6854609424165
-    },
-    {
-      "id": "_11",
-      "label": "Sremčica (ulaz)",
-      "longitude": 20.3815543741844,
-      "latitude": 44.6885774140809
-    },
-    {
-      "id": "_12",
-      "label": "Gorica",
-      "longitude": 20.3803438152524,
-      "latitude": 44.6932759292628
-    },
-    {
-      "id": "_13",
-      "label": "Sare Bernar",
-      "longitude": 20.3782571773501,
-      "latitude": 44.6972821038149
-    },
-    {
-      "id": "_14",
-      "label": "Žikice Jovanovića",
-      "longitude": 20.3682200016937,
-      "latitude": 44.7141448596952
-    },
-    {
-      "id": "_15",
-      "label": "Stevana Filipovića",
-      "longitude": 20.3682337964369,
-      "latitude": 44.7175306131515
-    },
-    {
-      "id": "_16",
-      "label": "Železnička rampa",
-      "longitude": 20.3673719962228,
-      "latitude": 44.72064334705
-    },
-    {
-      "id": "_17",
-      "label": "Nićiforovićeva",
-      "longitude": 20.3687731925329,
-      "latitude": 44.7229693828654
-    },
-    {
-      "id": "_18",
-      "label": "Ivo Lola Ribar",
-      "longitude": 20.3681757295203,
-      "latitude": 44.7275451190615
-    },
-    {
-      "id": "_19",
-      "label": "Železnik (Savska)",
-      "longitude": 20.3661724737743,
-      "latitude": 44.7308891339087
-    },
-    {
-      "id": "_20",
-      "label": "Kongrap",
-      "longitude": 20.3621920829937,
-      "latitude": 44.7332825676823
-    },
-    {
-      "id": "_21",
-      "label": "Put za Železnik",
-      "longitude": 20.3604494938084,
-      "latitude": 44.7418153195525
-    },
-    {
-      "id": "_22",
-      "label": "Čukarica",
-      "longitude": 20.4151354377319,
-      "latitude": 44.786451881637
-    },
-    {
-      "id": "_23",
-      "label": "Ada Ciganlija",
-      "longitude": 20.4199404372204,
-      "latitude": 44.7884471855672
-    },
-    {
-      "id": "_24",
-      "label": "Sajam",
-      "longitude": 20.4420563488721,
-      "latitude": 44.7963250729334
-    },
-    {
-      "id": "_25",
-      "label": "Durmitorska",
-      "longitude": 20.45156951314,
-      "latitude": 44.8021722742319
-    },
-    {
-      "id": "_26",
-      "label": "Palata pravde",
-      "longitude": 20.453773328507,
-      "latitude": 44.8049402456002
-    },
-    {
-      "id": "_27",
-      "label": "Savski trg",
-      "longitude": 20.4554103831243,
-      "latitude": 44.806963923035
-    },
-    {
-      "id": "_28",
-      "label": "Savski most",
-      "longitude": 20.4522672077257,
-      "latitude": 44.8099970348462
-    },
-    {
-      "id": "_29",
-      "label": "Kula Beograd",
-      "longitude": 20.4486263639051,
-      "latitude": 44.8032813106928
-    },
-    {
-      "id": "_30",
-      "label": "TC Galerija",
-      "longitude": 20.4456286208991,
-      "latitude": 44.8013535627872
-    },
-    {
-      "id": "_31",
-      "label": "Beograd na vodi",
-      "longitude": 20.444451559849,
-      "latitude": 44.8011117700695
-    }
-  ]
+    "direction_a": [
+        {
+            "id": "_1",
+            "label": "Beograd na vodi",
+            "longitude": 20.444451559849,
+            "latitude": 44.8011117700695
+        },
+        {
+            "id": "_2",
+            "label": "TC Galerija",
+            "longitude": 20.4461890099644,
+            "latitude": 44.8014426648003
+        },
+        {
+            "id": "_3",
+            "label": "Kula Beograd",
+            "longitude": 20.4490089204697,
+            "latitude": 44.8031967529456
+        },
+        {
+            "id": "_4",
+            "label": "Savski park",
+            "longitude": 20.4514809503669,
+            "latitude": 44.8057267978316
+        },
+        {
+            "id": "_5",
+            "label": "Savski most",
+            "longitude": 20.4528071405128,
+            "latitude": 44.8101245281499
+        },
+        {
+            "id": "_6",
+            "label": "Savski trg",
+            "longitude": 20.4551155399825,
+            "latitude": 44.8071299145412
+        },
+        {
+            "id": "_7",
+            "label": "Palata pravde",
+            "longitude": 20.4528657838574,
+            "latitude": 44.8043923494829
+        },
+        {
+            "id": "_8",
+            "label": "Sajam",
+            "longitude": 20.4415906546322,
+            "latitude": 44.7964130286058
+        },
+        {
+            "id": "_9",
+            "label": "Čukarica",
+            "longitude": 20.4145017152671,
+            "latitude": 44.7863856515716
+        },
+        {
+            "id": "_10",
+            "label": "Put za Železnik",
+            "longitude": 20.3602750077101,
+            "latitude": 44.7418359452787
+        },
+        {
+            "id": "_11",
+            "label": "Kongrap",
+            "longitude": 20.3620484353252,
+            "latitude": 44.7332565695253
+        },
+        {
+            "id": "_12",
+            "label": "Železnik (Savska)",
+            "longitude": 20.3664030200553,
+            "latitude": 44.7305862198754
+        },
+        {
+            "id": "_13",
+            "label": "Ivo Lola Ribar",
+            "longitude": 20.3684515017316,
+            "latitude": 44.727260449222
+        },
+        {
+            "id": "_14",
+            "label": "Nićiforovićeva",
+            "longitude": 20.3687852793162,
+            "latitude": 44.723252038817
+        },
+        {
+            "id": "_15",
+            "label": "Železnička rampa",
+            "longitude": 20.3674155515417,
+            "latitude": 44.7203519981372
+        },
+        {
+            "id": "_16",
+            "label": "Stevana Filipovića",
+            "longitude": 20.3681417208355,
+            "latitude": 44.7167093356986
+        },
+        {
+            "id": "_17",
+            "label": "Žikice Jovanovića",
+            "longitude": 20.3681386982941,
+            "latitude": 44.7146591931956
+        },
+        {
+            "id": "_18",
+            "label": "Sare Bernar",
+            "longitude": 20.3782640636061,
+            "latitude": 44.6966359624108
+        },
+        {
+            "id": "_19",
+            "label": "Gorica",
+            "longitude": 20.3805063699559,
+            "latitude": 44.6922256413411
+        },
+        {
+            "id": "_20",
+            "label": "Sremčica (ulaz)",
+            "longitude": 20.3814500516285,
+            "latitude": 44.6877074786876
+        },
+        {
+            "id": "_21",
+            "label": "Šumske ekonomije",
+            "longitude": 20.3835030316087,
+            "latitude": 44.6839674499762
+        },
+        {
+            "id": "_22",
+            "label": "Obrenovačka",
+            "longitude": 20.3850362693173,
+            "latitude": 44.6821217387664
+        },
+        {
+            "id": "_23",
+            "label": "Sremčica (centar)",
+            "longitude": 20.3909236740775,
+            "latitude": 44.6766615220655
+        },
+        {
+            "id": "_24",
+            "label": "Jeličićev venac",
+            "longitude": 20.394118285206,
+            "latitude": 44.6736563316899
+        },
+        {
+            "id": "_25",
+            "label": "Tomaška",
+            "longitude": 20.3963580758952,
+            "latitude": 44.6705056327438
+        },
+        {
+            "id": "_26",
+            "label": "Tesarska",
+            "longitude": 20.3994542340361,
+            "latitude": 44.6654856270972
+        },
+        {
+            "id": "_27",
+            "label": "Mirkovićeva",
+            "longitude": 20.3982263279668,
+            "latitude": 44.662998858303
+        },
+        {
+            "id": "_28",
+            "label": "Vašarska",
+            "longitude": 20.3975717495712,
+            "latitude": 44.6597069095947
+        },
+        {
+            "id": "_29",
+            "label": "Sremčica (izlaz)",
+            "longitude": 20.3993898118444,
+            "latitude": 44.6553155593345
+        },
+        {
+            "id": "_30",
+            "label": "Sremčica",
+            "longitude": 20.4038242662481,
+            "latitude": 44.6504986174882
+        }
+    ],
+    "direction_b": [
+        {
+            "id": "_1",
+            "label": "Sremčica",
+            "longitude": 20.4039412301242,
+            "latitude": 44.650650421652
+        },
+        {
+            "id": "_2",
+            "label": "Sremčica (izlaz)",
+            "longitude": 20.3990146225862,
+            "latitude": 44.6559975763644
+        },
+        {
+            "id": "_3",
+            "label": "Vašarska",
+            "longitude": 20.3976903799216,
+            "latitude": 44.660431113522
+        },
+        {
+            "id": "_4",
+            "label": "Mirkovićeva",
+            "longitude": 20.3986616252028,
+            "latitude": 44.6633431322397
+        },
+        {
+            "id": "_5",
+            "label": "Tesarska",
+            "longitude": 20.3995768212108,
+            "latitude": 44.6658282595486
+        },
+        {
+            "id": "_6",
+            "label": "Tomaška",
+            "longitude": 20.3962509601812,
+            "latitude": 44.6708632587685
+        },
+        {
+            "id": "_7",
+            "label": "Jeličićev venac",
+            "longitude": 20.3940620462969,
+            "latitude": 44.6739710254803
+        },
+        {
+            "id": "_8",
+            "label": "Sremčica (centar)",
+            "longitude": 20.3906728221413,
+            "latitude": 44.6770093792689
+        },
+        {
+            "id": "_9",
+            "label": "Obrenovačka",
+            "longitude": 20.3860459794723,
+            "latitude": 44.6811101796167
+        },
+        {
+            "id": "_10",
+            "label": "Šumske ekonomije",
+            "longitude": 20.3827480022077,
+            "latitude": 44.6854609424165
+        },
+        {
+            "id": "_11",
+            "label": "Sremčica (ulaz)",
+            "longitude": 20.3815543741844,
+            "latitude": 44.6885774140809
+        },
+        {
+            "id": "_12",
+            "label": "Gorica",
+            "longitude": 20.3803438152524,
+            "latitude": 44.6932759292628
+        },
+        {
+            "id": "_13",
+            "label": "Sare Bernar",
+            "longitude": 20.3782571773501,
+            "latitude": 44.6972821038149
+        },
+        {
+            "id": "_14",
+            "label": "Žikice Jovanovića",
+            "longitude": 20.3682200016937,
+            "latitude": 44.7141448596952
+        },
+        {
+            "id": "_15",
+            "label": "Stevana Filipovića",
+            "longitude": 20.3682337964369,
+            "latitude": 44.7175306131515
+        },
+        {
+            "id": "_16",
+            "label": "Železnička rampa",
+            "longitude": 20.3673719962228,
+            "latitude": 44.72064334705
+        },
+        {
+            "id": "_17",
+            "label": "Nićiforovićeva",
+            "longitude": 20.3687731925329,
+            "latitude": 44.7229693828654
+        },
+        {
+            "id": "_18",
+            "label": "Ivo Lola Ribar",
+            "longitude": 20.3681757295203,
+            "latitude": 44.7275451190615
+        },
+        {
+            "id": "_19",
+            "label": "Železnik (Savska)",
+            "longitude": 20.3661724737743,
+            "latitude": 44.7308891339087
+        },
+        {
+            "id": "_20",
+            "label": "Kongrap",
+            "longitude": 20.3621920829937,
+            "latitude": 44.7332825676823
+        },
+        {
+            "id": "_21",
+            "label": "Put za Železnik",
+            "longitude": 20.3604494938084,
+            "latitude": 44.7418153195525
+        },
+        {
+            "id": "_22",
+            "label": "Čukarica",
+            "longitude": 20.4151354377319,
+            "latitude": 44.786451881637
+        },
+        {
+            "id": "_23",
+            "label": "Ada Ciganlija",
+            "longitude": 20.4199404372204,
+            "latitude": 44.7884471855672
+        },
+        {
+            "id": "_24",
+            "label": "Sajam",
+            "longitude": 20.4420563488721,
+            "latitude": 44.7963250729334
+        },
+        {
+            "id": "_25",
+            "label": "Durmitorska",
+            "longitude": 20.45156951314,
+            "latitude": 44.8021722742319
+        },
+        {
+            "id": "_26",
+            "label": "Palata pravde",
+            "longitude": 20.453773328507,
+            "latitude": 44.8049402456002
+        },
+        {
+            "id": "_27",
+            "label": "Savski trg",
+            "longitude": 20.4554103831243,
+            "latitude": 44.806963923035
+        },
+        {
+            "id": "_28",
+            "label": "Savski most",
+            "longitude": 20.4522672077257,
+            "latitude": 44.8099970348462
+        },
+        {
+            "id": "_29",
+            "label": "Kula Beograd",
+            "longitude": 20.4486263639051,
+            "latitude": 44.8032813106928
+        },
+        {
+            "id": "_30",
+            "label": "TC Galerija",
+            "longitude": 20.4456286208991,
+            "latitude": 44.8013535627872
+        },
+        {
+            "id": "_31",
+            "label": "Beograd na vodi",
+            "longitude": 20.444451559849,
+            "latitude": 44.8011117700695
+        }
+    ]
 }

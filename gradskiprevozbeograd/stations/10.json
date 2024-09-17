@@ -2,293 +2,131 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Tadeuša Košćuška",
-      "longitude": 20.4552536394773,
-      "latitude": 44.8258513674243
+      "label": "Beograd centar",
+      "longitude": 20.4530933,
+      "latitude": 44.7932933
     },
     {
       "id": "_2",
-      "label": "Braće Baruh",
-      "longitude": 20.4569313944278,
-      "latitude": 44.8249413711738
+      "label": "Novi Beograd",
+      "longitude": 20.417932662659,
+      "latitude": 44.8068305435762
     },
     {
       "id": "_3",
-      "label": "Kralja Petra",
-      "longitude": 20.4602867462446,
-      "latitude": 44.8231213035395
+      "label": "Tošin bunar",
+      "longitude": 20.3945583,
+      "latitude": 44.8178583
     },
     {
       "id": "_4",
-      "label": "Dorćol (Kneginje Ljubice)",
-      "longitude": 20.4641043800112,
-      "latitude": 44.8210603098234
+      "label": "Zemun",
+      "longitude": 20.3719943291078,
+      "latitude": 44.8367340119744
     },
     {
       "id": "_5",
-      "label": "Pijaca Skadarlija",
-      "longitude": 20.4670188803185,
-      "latitude": 44.8181778406019
+      "label": "Zemunsko polje",
+      "longitude": 20.33475,
+      "latitude": 44.857585
     },
     {
       "id": "_6",
-      "label": "Bulevar despota Stefana",
-      "longitude": 20.4692938734787,
-      "latitude": 44.8163434835923
+      "label": "Batajnica",
+      "longitude": 20.2718085874391,
+      "latitude": 44.898998604568
     },
     {
       "id": "_7",
-      "label": "Takovska",
-      "longitude": 20.4718837356293,
-      "latitude": 44.8135133831198
+      "label": "Nova Pazova",
+      "longitude": 20.2102416406834,
+      "latitude": 44.9377081072789
     },
     {
       "id": "_8",
-      "label": "Palilulska pijaca",
-      "longitude": 20.4744349063776,
-      "latitude": 44.8104598570345
+      "label": "Stara Pazova",
+      "longitude": 20.1385478089977,
+      "latitude": 44.9856075698587
     },
     {
       "id": "_9",
-      "label": "Pravni fakultet",
-      "longitude": 20.4711808001071,
-      "latitude": 44.8068378959805
+      "label": "Golubinci",
+      "longitude": 20.0514314216542,
+      "latitude": 45.0163444250298
     },
     {
       "id": "_10",
-      "label": "Trg Slavija (Bulevar oslobođenja)",
-      "longitude": 20.4660196131815,
-      "latitude": 44.8014232725427
+      "label": "Putinci",
+      "longitude": 19.9661355632981,
+      "latitude": 44.9807969263321
     },
     {
       "id": "_11",
-      "label": "Karađorđev park",
-      "longitude": 20.4651954172747,
-      "latitude": 44.7970276562542
+      "label": "Kraljevci",
+      "longitude": 19.89076833043,
+      "latitude": 44.9839970639747
     },
     {
       "id": "_12",
-      "label": "Franše D'Eperea",
-      "longitude": 20.4662516364324,
-      "latitude": 44.7926677913445
+      "label": "Ruma",
+      "longitude": 19.8268830854998,
+      "latitude": 44.9896325260769
     },
     {
       "id": "_13",
-      "label": "Zvečanska",
-      "longitude": 20.4657276091827,
-      "latitude": 44.7886245509231
+      "label": "Sremska Mitrovica",
+      "longitude": 19.6137267039715,
+      "latitude": 44.9822808473254
     },
     {
       "id": "_14",
-      "label": "Trg oslobođenja",
-      "longitude": 20.4672988223481,
-      "latitude": 44.7862397716509
+      "label": "Martinci",
+      "longitude": 19.4680730129298,
+      "latitude": 45.0207573564268
     },
     {
       "id": "_15",
-      "label": "Kralja Vladimira",
-      "longitude": 20.4714618206852,
-      "latitude": 44.7820310239031
+      "label": "Kukujevci-Erdevik",
+      "longitude": 19.3427886962891,
+      "latitude": 45.0624084472656
     },
     {
       "id": "_16",
-      "label": "Vitanovačka",
-      "longitude": 20.4745825877532,
-      "latitude": 44.7770343908444
-    },
-    {
-      "id": "_17",
-      "label": "Petrovačka",
-      "longitude": 20.4756785760107,
-      "latitude": 44.7748723042334
-    },
-    {
-      "id": "_18",
-      "label": "Nikšićka",
-      "longitude": 20.4779177105912,
-      "latitude": 44.7714608699044
-    },
-    {
-      "id": "_19",
-      "label": "Visoka škola elektrotehnike",
-      "longitude": 20.4794926165984,
-      "latitude": 44.7685539560792
-    },
-    {
-      "id": "_20",
-      "label": "Saobraćajni fakultet",
-      "longitude": 20.4825168033552,
-      "latitude": 44.7651675846705
-    },
-    {
-      "id": "_21",
-      "label": "Voždovac",
-      "longitude": 20.4840977688354,
-      "latitude": 44.7612454761128
-    },
-    {
-      "id": "_22",
-      "label": "Bebelova",
-      "longitude": 20.4832383922184,
-      "latitude": 44.7584445320514
-    },
-    {
-      "id": "_23",
-      "label": "Vračarska",
-      "longitude": 20.4809280130457,
-      "latitude": 44.7571849600277
-    },
-    {
-      "id": "_24",
-      "label": "Banjica",
-      "longitude": 20.4777130800732,
-      "latitude": 44.7573683655414
+      "label": "Šid",
+      "longitude": 19.2219453671701,
+      "latitude": 45.1177064660044
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Banjica",
-      "longitude": 20.4780763081859,
-      "latitude": 44.7571468276654
+      "label": "Ruma",
+      "longitude": 19.8268830854998,
+      "latitude": 44.9896325260769
     },
     {
       "id": "_2",
-      "label": "Vračarska",
-      "longitude": 20.48122769172,
-      "latitude": 44.7570063228124
+      "label": "Sremska Mitrovica",
+      "longitude": 19.6137267039715,
+      "latitude": 44.9822808473254
     },
     {
       "id": "_3",
-      "label": "Bebelova",
-      "longitude": 20.4833778557325,
-      "latitude": 44.7583857624971
+      "label": "Martinci",
+      "longitude": 19.4680730129298,
+      "latitude": 45.0207573564268
     },
     {
       "id": "_4",
-      "label": "Voždovac",
-      "longitude": 20.4842612738022,
-      "latitude": 44.7613254074882
+      "label": "Kukujevci-Erdevik",
+      "longitude": 19.3427886962891,
+      "latitude": 45.0624084472656
     },
     {
       "id": "_5",
-      "label": "Saobraćajni fakultet",
-      "longitude": 20.4823006160142,
-      "latitude": 44.7658973770496
-    },
-    {
-      "id": "_6",
-      "label": "Visoka škola elektrotehnike",
-      "longitude": 20.4795392541324,
-      "latitude": 44.7687071606744
-    },
-    {
-      "id": "_7",
-      "label": "Nikšićka",
-      "longitude": 20.4772010711223,
-      "latitude": 44.7730415348957
-    },
-    {
-      "id": "_8",
-      "label": "Vitanovačka",
-      "longitude": 20.474630576442,
-      "latitude": 44.7773171973497
-    },
-    {
-      "id": "_9",
-      "label": "Kralja Vladimira",
-      "longitude": 20.4718924358984,
-      "latitude": 44.7816442248745
-    },
-    {
-      "id": "_10",
-      "label": "Bože Jankovića",
-      "longitude": 20.470332526245,
-      "latitude": 44.7836547393734
-    },
-    {
-      "id": "_11",
-      "label": "Trg oslobođenja",
-      "longitude": 20.4664128286546,
-      "latitude": 44.787218407701
-    },
-    {
-      "id": "_12",
-      "label": "Franše D'Eperea",
-      "longitude": 20.4662405697233,
-      "latitude": 44.7930475210909
-    },
-    {
-      "id": "_13",
-      "label": "Karađorđev park",
-      "longitude": 20.4657590648182,
-      "latitude": 44.7982550256383
-    },
-    {
-      "id": "_14",
-      "label": "Trg Slavija (Bulevar oslobođenja)",
-      "longitude": 20.4664336279974,
-      "latitude": 44.8017635811315
-    },
-    {
-      "id": "_15",
-      "label": "Pravni fakultet",
-      "longitude": 20.4721432970724,
-      "latitude": 44.8074830940531
-    },
-    {
-      "id": "_16",
-      "label": "Palilulska pijaca",
-      "longitude": 20.4748550255486,
-      "latitude": 44.8104167826562
-    },
-    {
-      "id": "_17",
-      "label": "Takovska",
-      "longitude": 20.4724907468709,
-      "latitude": 44.8132191907578
-    },
-    {
-      "id": "_18",
-      "label": "Bulevar despota Stefana",
-      "longitude": 20.4693722603082,
-      "latitude": 44.8166210312405
-    },
-    {
-      "id": "_19",
-      "label": "Pijaca Skadarlija",
-      "longitude": 20.4670683534984,
-      "latitude": 44.8185740490402
-    },
-    {
-      "id": "_20",
-      "label": "Dorćol (Kneginje Ljubice)",
-      "longitude": 20.464340466377,
-      "latitude": 44.821237802558
-    },
-    {
-      "id": "_21",
-      "label": "Kralja Petra",
-      "longitude": 20.4602737388993,
-      "latitude": 44.8234326253102
-    },
-    {
-      "id": "_22",
-      "label": "Braće Baruh",
-      "longitude": 20.457223365058,
-      "latitude": 44.8250921444758
-    },
-    {
-      "id": "_23",
-      "label": "Tadeuša Košćuška",
-      "longitude": 20.455100999193,
-      "latitude": 44.8262160224518
-    },
-    {
-      "id": "_24",
-      "label": "Kalemegdan (Donji grad)",
-      "longitude": 20.4533672502692,
-      "latitude": 44.8271563231549
+      "label": "Šid",
+      "longitude": 19.2219453671701,
+      "latitude": 45.1177064660044
     }
   ]
 }

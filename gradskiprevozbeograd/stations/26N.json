@@ -74,114 +74,66 @@
     },
     {
       "id": "_13",
-      "label": "Vojvode Dragomira",
-      "longitude": 20.4791162226368,
-      "latitude": 44.7979178460651
+      "label": "Južni bulevar",
+      "longitude": 20.4781847821195,
+      "latitude": 44.7938188192583
     },
     {
       "id": "_14",
-      "label": "Crveni krst",
-      "longitude": 20.4873972933218,
-      "latitude": 44.7973989593364
-    },
-    {
-      "id": "_15",
-      "label": "Bregalnička",
-      "longitude": 20.4907370115391,
-      "latitude": 44.7950505445845
-    },
-    {
-      "id": "_16",
-      "label": "Velimira Todorovića",
-      "longitude": 20.4950368418566,
-      "latitude": 44.7933020296051
-    },
-    {
-      "id": "_17",
-      "label": "Škola Vojislav Ilić",
-      "longitude": 20.4968660642852,
-      "latitude": 44.791355358691
-    },
-    {
-      "id": "_18",
-      "label": "Bačvanska",
-      "longitude": 20.4943641095269,
-      "latitude": 44.7910149806456
-    },
-    {
-      "id": "_19",
-      "label": "Grčića Milenka",
-      "longitude": 20.4908465977597,
-      "latitude": 44.7914818073972
-    },
-    {
-      "id": "_20",
-      "label": "Đerdapska",
-      "longitude": 20.4867214675484,
-      "latitude": 44.7929123623297
-    },
-    {
-      "id": "_21",
-      "label": "MPI",
-      "longitude": 20.4811184797162,
-      "latitude": 44.7936521296967
-    },
-    {
-      "id": "_22",
       "label": "Tetovska",
       "longitude": 20.4805828885614,
       "latitude": 44.7893713173926
     },
     {
-      "id": "_23",
+      "id": "_15",
       "label": "Dušanovac (pošta)",
       "longitude": 20.4822116676932,
       "latitude": 44.7858472487658
     },
     {
-      "id": "_24",
+      "id": "_16",
       "label": "Miška Jovanovića",
       "longitude": 20.4817847439638,
       "latitude": 44.7827008725637
     },
     {
-      "id": "_25",
+      "id": "_17",
       "label": "Peke Pavlovića",
       "longitude": 20.4863019196158,
       "latitude": 44.7808780674422
     },
     {
-      "id": "_26",
+      "id": "_18",
       "label": "Ignjata Joba",
       "longitude": 20.4885209904284,
       "latitude": 44.7771171552566
     },
     {
-      "id": "_27",
+      "id": "_19",
       "label": "Centralno groblje",
       "longitude": 20.4918004781517,
       "latitude": 44.77429145465
     },
     {
-      "id": "_28",
+      "id": "_20",
       "label": "Jovana Bijelića",
       "longitude": 20.4935307986082,
       "latitude": 44.771096521953
     },
     {
-      "id": "_29",
+      "id": "_21",
       "label": "Dragice Končar 1",
       "longitude": 20.4963112885123,
       "latitude": 44.7698781408696
     },
     {
-      "id": "_30",
+      "id": "_22",
       "label": "Dragice Končar",
       "longitude": 20.4997597540023,
       "latitude": 44.7681724990605
     },
     {
-      "id": "_31",
+      "id": "_23",
       "label": "Naselje Braće Jerković",
       "longitude": 20.4998984649882,
       "latitude": 44.7652590341702
@@ -256,132 +208,72 @@
     },
     {
       "id": "_12",
-      "label": "Maksima Gorkog",
-      "longitude": 20.4790551552128,
-      "latitude": 44.7934447921657
-    },
-    {
-      "id": "_13",
-      "label": "Đerdapska",
-      "longitude": 20.4850561378871,
-      "latitude": 44.7931478905926
-    },
-    {
-      "id": "_14",
-      "label": "Grčića Milenka",
-      "longitude": 20.4893062824142,
-      "latitude": 44.7915919583987
-    },
-    {
-      "id": "_15",
-      "label": "Bačvanska",
-      "longitude": 20.4937157349717,
-      "latitude": 44.7908735293819
-    },
-    {
-      "id": "_16",
-      "label": "Škola Vojislav Ilić",
-      "longitude": 20.4967684229495,
-      "latitude": 44.7912469359648
-    },
-    {
-      "id": "_17",
-      "label": "Škola Vojislav Ilić",
-      "longitude": 20.497423174079,
-      "latitude": 44.7918221764687
-    },
-    {
-      "id": "_18",
-      "label": "Velimira Todorovića",
-      "longitude": 20.4943810962527,
-      "latitude": 44.7937149222967
-    },
-    {
-      "id": "_19",
-      "label": "Bregalnička",
-      "longitude": 20.4907486106064,
-      "latitude": 44.7951693901315
-    },
-    {
-      "id": "_20",
-      "label": "Crveni krst",
-      "longitude": 20.4859194528292,
-      "latitude": 44.7978585259903
-    },
-    {
-      "id": "_21",
-      "label": "Vojvode Dragomira",
-      "longitude": 20.4802070456083,
-      "latitude": 44.7980577850169
-    },
-    {
-      "id": "_22",
       "label": "Pijaca Kalenić",
       "longitude": 20.4770799906071,
       "latitude": 44.8008676363606
     },
     {
-      "id": "_23",
+      "id": "_13",
       "label": "Tehnički fakulteti",
       "longitude": 20.4763383280773,
       "latitude": 44.8051840333328
     },
     {
-      "id": "_24",
+      "id": "_14",
       "label": "Pravni fakultet",
       "longitude": 20.4723282741585,
       "latitude": 44.8068809760732
     },
     {
-      "id": "_25",
+      "id": "_15",
       "label": "Glavna pošta",
       "longitude": 20.4672209588748,
       "latitude": 44.8099244175882
     },
     {
-      "id": "_26",
+      "id": "_16",
       "label": "Terazije",
       "longitude": 20.4610734378326,
       "latitude": 44.8132849311366
     },
     {
-      "id": "_27",
+      "id": "_17",
       "label": "Trg republike",
       "longitude": 20.4607188559041,
       "latitude": 44.8155277458009
     },
     {
-      "id": "_28",
+      "id": "_18",
       "label": "Dušanova",
       "longitude": 20.4647230266077,
       "latitude": 44.8189663109434
     },
     {
-      "id": "_29",
+      "id": "_19",
       "label": "Dorćol (Kneginje Ljubice)",
       "longitude": 20.464340466377,
       "latitude": 44.821237802558
     },
     {
-      "id": "_30",
+      "id": "_20",
       "label": "Kralja Petra",
       "longitude": 20.4602737388993,
       "latitude": 44.8234326253102
     },
     {
-      "id": "_31",
+      "id": "_21",
       "label": "Braće Baruh",
       "longitude": 20.457223365058,
       "latitude": 44.8250921444758
     },
     {
-      "id": "_32",
+      "id": "_22",
       "label": "Solunska",
       "longitude": 20.4560351924503,
       "latitude": 44.8269278160156
     },
     {
-      "id": "_33",
+      "id": "_23",
       "label": "Dorćol (Dunavska)",
       "longitude": 20.4613457005631,
       "latitude": 44.8281102046792

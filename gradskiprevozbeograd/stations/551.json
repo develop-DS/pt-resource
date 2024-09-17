@@ -2,9 +2,9 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "TC Galerija",
-      "longitude": 20.4456286208991,
-      "latitude": 44.8013535627872
+      "label": "Beograd na vodi",
+      "longitude": 20.4442101884538,
+      "latitude": 44.8007882285024
     },
     {
       "id": "_2",
@@ -62,108 +62,114 @@
     },
     {
       "id": "_11",
+      "label": "Moračko brdo",
+      "longitude": 20.315165,
+      "latitude": 44.687935
+    },
+    {
+      "id": "_12",
       "label": "Umka (Karađorđeva)",
       "longitude": 20.3191134197666,
       "latitude": 44.6902791331765
     },
     {
-      "id": "_12",
+      "id": "_13",
       "label": "Blagoja Rankovića",
       "longitude": 20.3238460353674,
       "latitude": 44.6975501106347
     },
     {
-      "id": "_13",
+      "id": "_14",
       "label": "Pećani (škola)",
       "longitude": 20.3305977722433,
       "latitude": 44.6928306908914
     },
     {
-      "id": "_14",
+      "id": "_15",
       "label": "Pećani (groblje)",
       "longitude": 20.3364506593623,
       "latitude": 44.6900640070349
     },
     {
-      "id": "_15",
+      "id": "_16",
       "label": "Velika Moštanica (crkva)",
       "longitude": 20.3406419309737,
       "latitude": 44.6840223787465
     },
     {
-      "id": "_16",
+      "id": "_17",
       "label": "Velika Moštanica (ekonomija)",
       "longitude": 20.3452484329924,
       "latitude": 44.677093788611
     },
     {
-      "id": "_17",
+      "id": "_18",
       "label": "Dobrivoja Jovanovića",
       "longitude": 20.3517062876649,
       "latitude": 44.6737069863643
     },
     {
-      "id": "_18",
+      "id": "_19",
       "label": "MZ Velika Moštanica",
       "longitude": 20.3527588021573,
       "latitude": 44.6697836451161
     },
     {
-      "id": "_19",
+      "id": "_20",
       "label": "Velika Moštanica (centar)",
       "longitude": 20.3534020501483,
       "latitude": 44.6652244015745
     },
     {
-      "id": "_20",
+      "id": "_21",
       "label": "Milije Marinkovića",
       "longitude": 20.3575230805529,
       "latitude": 44.6613452735659
     },
     {
-      "id": "_21",
+      "id": "_22",
       "label": "Stanićeva",
       "longitude": 20.360007163489,
       "latitude": 44.6576710634159
     },
     {
-      "id": "_22",
+      "id": "_23",
       "label": "Gilino voće",
       "longitude": 20.3656696683887,
       "latitude": 44.6550277984187
     },
     {
-      "id": "_23",
+      "id": "_24",
       "label": "Radovanovićevo",
       "longitude": 20.3714843020825,
       "latitude": 44.6501495411525
     },
     {
-      "id": "_24",
+      "id": "_25",
       "label": "Veliki trafo",
       "longitude": 20.3777146561348,
       "latitude": 44.6442598644112
     },
     {
-      "id": "_25",
+      "id": "_26",
       "label": "Mali trafo",
       "longitude": 20.3781690343554,
       "latitude": 44.6392314465263
     },
     {
-      "id": "_26",
+      "id": "_27",
       "label": "Velika Moštanica - M",
       "longitude": 20.3815651695236,
       "latitude": 44.6339615304202
     },
     {
-      "id": "_27",
+      "id": "_28",
       "label": "Lipovica (policija)",
       "longitude": 20.4121497106517,
       "latitude": 44.6372519084437
     },
     {
-      "id": "_28",
+      "id": "_29",
       "label": "Sremčica",
       "longitude": 20.4039412301242,
       "latitude": 44.650650421652
@@ -173,8 +179,8 @@
     {
       "id": "_1",
       "label": "Sremčica",
-      "longitude": 20.4039412301242,
-      "latitude": 44.650650421652
+      "longitude": 20.404354,
+      "latitude": 44.650177
     },
     {
       "id": "_2",
@@ -280,78 +286,72 @@
     },
     {
       "id": "_19",
+      "label": "Moračko brdo",
+      "longitude": 20.315054,
+      "latitude": 44.687977
+    },
+    {
+      "id": "_20",
       "label": "Umka (izlaz)",
       "longitude": 20.3123870054596,
       "latitude": 44.6855195299501
     },
     {
-      "id": "_20",
+      "id": "_21",
       "label": "Umka (centar)",
       "longitude": 20.3051606406909,
       "latitude": 44.6808878931564
     },
     {
-      "id": "_21",
+      "id": "_22",
       "label": "Zelengora",
       "longitude": 20.3120479690909,
       "latitude": 44.6898787585724
     },
     {
-      "id": "_22",
+      "id": "_23",
       "label": "Pećani",
       "longitude": 20.3175732163403,
       "latitude": 44.6976983327742
     },
     {
-      "id": "_23",
+      "id": "_24",
       "label": "Ostružnica 2",
       "longitude": 20.3146318941812,
       "latitude": 44.7225001080304
     },
     {
-      "id": "_24",
+      "id": "_25",
       "label": "Ostružnica 1",
       "longitude": 20.3209580667347,
       "latitude": 44.7333841411753
     },
     {
-      "id": "_25",
+      "id": "_26",
       "label": "Železnik R",
       "longitude": 20.3612220070836,
       "latitude": 44.7427627874396
     },
     {
-      "id": "_26",
+      "id": "_27",
       "label": "Čukarica",
       "longitude": 20.4151354377319,
       "latitude": 44.786451881637
     },
     {
-      "id": "_27",
+      "id": "_28",
       "label": "Sajam",
       "longitude": 20.4420563488721,
       "latitude": 44.7963250729334
     },
     {
-      "id": "_28",
-      "label": "Durmitorska",
-      "longitude": 20.45156951314,
-      "latitude": 44.8021722742319
-    },
-    {
       "id": "_29",
-      "label": "Palata pravde 1",
-      "longitude": 20.451327814778,
-      "latitude": 44.8034058554644
-    },
-    {
-      "id": "_30",
       "label": "Kula Beograd",
       "longitude": 20.4486263639051,
       "latitude": 44.8032813106928
     },
     {
-      "id": "_31",
+      "id": "_30",
       "label": "TC Galerija",
       "longitude": 20.4456286208991,
       "latitude": 44.8013535627872

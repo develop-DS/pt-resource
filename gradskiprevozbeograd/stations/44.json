@@ -2,245 +2,185 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Topčidersko brdo (Senjak)",
-      "longitude": 20.4430356220121,
-      "latitude": 44.7957234874612
+      "label": "Zemun",
+      "longitude": 20.3719943291078,
+      "latitude": 44.8367340119744
     },
     {
       "id": "_2",
-      "label": "Vojislava Vučkovića",
-      "longitude": 20.4418217878563,
-      "latitude": 44.7926109426166
+      "label": "Novi Beograd",
+      "longitude": 20.417932662659,
+      "latitude": 44.8068305435762
     },
     {
       "id": "_3",
-      "label": "Vase Pelagića",
-      "longitude": 20.4408353065082,
-      "latitude": 44.7887363287841
+      "label": "Beograd centar",
+      "longitude": 20.4530933,
+      "latitude": 44.7932933
     },
     {
       "id": "_4",
-      "label": "Topčiderska zvezda",
-      "longitude": 20.4441078798942,
-      "latitude": 44.7887990299809
+      "label": "Karađorđev park",
+      "longitude": 20.4657965677851,
+      "latitude": 44.7935347116048
     },
     {
       "id": "_5",
-      "label": "Ortopedski zavod",
-      "longitude": 20.4487869469579,
-      "latitude": 44.7951410939727
+      "label": "Vukov spomenik",
+      "longitude": 20.4780650580181,
+      "latitude": 44.8053195483783
     },
     {
       "id": "_6",
-      "label": "Višegradska",
-      "longitude": 20.4555782103808,
-      "latitude": 44.8017305887954
+      "label": "Pančevački most",
+      "longitude": 20.4903467,
+      "latitude": 44.8198183
     },
     {
       "id": "_7",
-      "label": "Birčaninova",
-      "longitude": 20.4595995767607,
-      "latitude": 44.8050884275429
+      "label": "Pančevo Glavna",
+      "longitude": 20.6374526150237,
+      "latitude": 44.887593982325
     },
     {
       "id": "_8",
-      "label": "London",
-      "longitude": 20.462903918343,
-      "latitude": 44.8078362004198
+      "label": "Pančevo Varoš",
+      "longitude": 20.6607181230988,
+      "latitude": 44.879038081145
     },
     {
       "id": "_9",
-      "label": "Pionirski park",
-      "longitude": 20.4641117754345,
-      "latitude": 44.8120284281989
+      "label": "Banatsko Novo Selo",
+      "longitude": 20.7868009406334,
+      "latitude": 44.9774120778443
     },
     {
       "id": "_10",
-      "label": "Trg republike",
-      "longitude": 20.4610306188357,
-      "latitude": 44.8162671711599
+      "label": "Vladimirovac",
+      "longitude": 20.8924841204591,
+      "latitude": 45.0314544477021
     },
     {
       "id": "_11",
-      "label": "Dušanova",
-      "longitude": 20.4647230266077,
-      "latitude": 44.8189663109434
+      "label": "Alibunar",
+      "longitude": 20.9566838890276,
+      "latitude": 45.0730984593557
     },
     {
       "id": "_12",
-      "label": "Dunavska",
-      "longitude": 20.4684370198097,
-      "latitude": 44.8212784511384
+      "label": "Banatski Karlovac",
+      "longitude": 21.0161788647999,
+      "latitude": 45.055672883736
     },
     {
       "id": "_13",
-      "label": "Železnička rampa",
-      "longitude": 20.4708134396958,
-      "latitude": 44.8227563546196
+      "label": "Nikolinci",
+      "longitude": 21.0661828606103,
+      "latitude": 45.060351281963
     },
     {
       "id": "_14",
-      "label": "Luka Beograd",
-      "longitude": 20.4727013487668,
-      "latitude": 44.8240123767051
+      "label": "Uljma",
+      "longitude": 21.1555722968616,
+      "latitude": 45.0509753804278
     },
     {
       "id": "_15",
-      "label": "Knežopoljska",
-      "longitude": 20.4771164190972,
-      "latitude": 44.8212805285402
+      "label": "Vlajkovac",
+      "longitude": 21.2112611747164,
+      "latitude": 45.0664981955497
     },
     {
       "id": "_16",
-      "label": "Tempo",
-      "longitude": 20.4849803847105,
-      "latitude": 44.823405773937
-    },
-    {
-      "id": "_17",
-      "label": "Viline vode",
-      "longitude": 20.48533523637,
-      "latitude": 44.8213176797633
-    },
-    {
-      "id": "_18",
-      "label": "Klanički kej",
-      "longitude": 20.4883193823756,
-      "latitude": 44.8213220230034
-    },
-    {
-      "id": "_19",
-      "label": "Železnička stanica Dunav",
-      "longitude": 20.4798767904456,
-      "latitude": 44.8188776029693
+      "label": "Vršac",
+      "longitude": 21.2837760599408,
+      "latitude": 45.105602449387
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "Železnička stanica Dunav",
-      "longitude": 20.4798767904456,
-      "latitude": 44.8188776029693
+      "label": "Beograd centar",
+      "longitude": 20.4530933,
+      "latitude": 44.7932933
     },
     {
       "id": "_2",
-      "label": "Železnička stanica Dunav",
-      "longitude": 20.4815292839587,
-      "latitude": 44.8190326722746
+      "label": "Karađorđev park",
+      "longitude": 20.4657965677851,
+      "latitude": 44.7935347116048
     },
     {
       "id": "_3",
-      "label": "Klanički kej",
-      "longitude": 20.4891403165033,
-      "latitude": 44.8214336740236
+      "label": "Vukov spomenik",
+      "longitude": 20.4780650580181,
+      "latitude": 44.8053195483783
     },
     {
       "id": "_4",
-      "label": "Viline vode",
-      "longitude": 20.4844490947327,
-      "latitude": 44.8214306962559
+      "label": "Pančevački most",
+      "longitude": 20.4903467,
+      "latitude": 44.8198183
     },
     {
       "id": "_5",
-      "label": "Tempo",
-      "longitude": 20.4849803847105,
-      "latitude": 44.823405773937
+      "label": "Pančevo Glavna",
+      "longitude": 20.6374526150237,
+      "latitude": 44.887593982325
     },
     {
       "id": "_6",
-      "label": "Centroprom",
-      "longitude": 20.4799351377495,
-      "latitude": 44.8214013306642
+      "label": "Pančevo Varoš",
+      "longitude": 20.6607181230988,
+      "latitude": 44.879038081145
     },
     {
       "id": "_7",
-      "label": "Knežopoljska",
-      "longitude": 20.4776212215923,
-      "latitude": 44.8213908215566
+      "label": "Banatsko Novo Selo",
+      "longitude": 20.7868009406334,
+      "latitude": 44.9774120778443
     },
     {
       "id": "_8",
-      "label": "Luka Beograd",
-      "longitude": 20.4727013487668,
-      "latitude": 44.8240123767051
+      "label": "Vladimirovac",
+      "longitude": 20.8924841204591,
+      "latitude": 45.0314544477021
     },
     {
       "id": "_9",
-      "label": "Železnička rampa",
-      "longitude": 20.470444872368,
-      "latitude": 44.8226826583309
+      "label": "Alibunar",
+      "longitude": 20.9566838890276,
+      "latitude": 45.0730984593557
     },
     {
       "id": "_10",
-      "label": "Dunavska",
-      "longitude": 20.4689486650316,
-      "latitude": 44.8217451947867
+      "label": "Banatski Karlovac",
+      "longitude": 21.0161788647999,
+      "latitude": 45.055672883736
     },
     {
       "id": "_11",
-      "label": "Dušanova",
-      "longitude": 20.4653654226732,
-      "latitude": 44.8195092765921
+      "label": "Nikolinci",
+      "longitude": 21.0661828606103,
+      "latitude": 45.060351281963
     },
     {
       "id": "_12",
-      "label": "Trg republike",
-      "longitude": 20.4604999027432,
-      "latitude": 44.8154151225036
+      "label": "Uljma",
+      "longitude": 21.1555722968616,
+      "latitude": 45.0509753804278
     },
     {
       "id": "_13",
-      "label": "Pionirski park",
-      "longitude": 20.4651200189327,
-      "latitude": 44.8109999868147
+      "label": "Vlajkovac",
+      "longitude": 21.2112611747164,
+      "latitude": 45.0664981955497
     },
     {
       "id": "_14",
-      "label": "Admirala Geprata",
-      "longitude": 20.4614722381804,
-      "latitude": 44.806810743113
-    },
-    {
-      "id": "_15",
-      "label": "Miloša Pocerca",
-      "longitude": 20.4560783569759,
-      "latitude": 44.8023161310522
-    },
-    {
-      "id": "_16",
-      "label": "Kozjačka",
-      "longitude": 20.4478097356035,
-      "latitude": 44.793698266477
-    },
-    {
-      "id": "_17",
-      "label": "Topčiderska zvezda",
-      "longitude": 20.443900833997,
-      "latitude": 44.7893056018222
-    },
-    {
-      "id": "_18",
-      "label": "Vase Pelagića",
-      "longitude": 20.4409132092715,
-      "latitude": 44.7890462933501
-    },
-    {
-      "id": "_19",
-      "label": "Vojislava Vučkovića",
-      "longitude": 20.4415388205174,
-      "latitude": 44.7918068051626
-    },
-    {
-      "id": "_20",
-      "label": "Senjačka",
-      "longitude": 20.4426568784014,
-      "latitude": 44.7943591160719
-    },
-    {
-      "id": "_21",
-      "label": "Topčidersko brdo (Senjak)",
-      "longitude": 20.4430356220121,
-      "latitude": 44.7957234874612
+      "label": "Vršac",
+      "longitude": 21.2837760599408,
+      "latitude": 45.105602449387
     }
   ]
 }

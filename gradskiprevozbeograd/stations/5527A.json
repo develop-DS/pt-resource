@@ -1,0 +1,377 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Barajevo AS",
+      "longitude": 20.4132950378123,
+      "latitude": 44.5801309664163
+    },
+    {
+      "id": "_2",
+      "label": "Barajevo - centar",
+      "longitude": 20.4155777110895,
+      "latitude": 44.5780186454856
+    },
+    {
+      "id": "_3",
+      "label": "Guberevac R",
+      "longitude": 20.423335,
+      "latitude": 44.570485
+    },
+    {
+      "id": "_4",
+      "label": "Servis",
+      "longitude": 20.4175983,
+      "latitude": 44.5688017
+    },
+    {
+      "id": "_5",
+      "label": "Lisović - Trafo",
+      "longitude": 20.4174094722056,
+      "latitude": 44.5650800178087
+    },
+    {
+      "id": "_6",
+      "label": "Turske njive",
+      "longitude": 20.4179933,
+      "latitude": 44.5591533
+    },
+    {
+      "id": "_7",
+      "label": "Lisović - Barake",
+      "longitude": 20.4141017,
+      "latitude": 44.5538283
+    },
+    {
+      "id": "_8",
+      "label": "Lisović - Spomenik",
+      "longitude": 20.4094862206831,
+      "latitude": 44.5477642330842
+    },
+    {
+      "id": "_9",
+      "label": "Mioljica",
+      "longitude": 20.3977542750068,
+      "latitude": 44.5250356608781
+    },
+    {
+      "id": "_10",
+      "label": "Beljina - Centar",
+      "longitude": 20.395634,
+      "latitude": 44.519961
+    },
+    {
+      "id": "_11",
+      "label": "Beljina - Strugara",
+      "longitude": 20.3991838710881,
+      "latitude": 44.516542672401
+    },
+    {
+      "id": "_12",
+      "label": "Beljina I",
+      "longitude": 20.4049956,
+      "latitude": 44.5124811
+    },
+    {
+      "id": "_13",
+      "label": "Rožanci R",
+      "longitude": 20.4062252,
+      "latitude": 44.5078074
+    },
+    {
+      "id": "_14",
+      "label": "Manić - R",
+      "longitude": 20.4113557508288,
+      "latitude": 44.5060208185836
+    },
+    {
+      "id": "_15",
+      "label": "Manić - Ulaz",
+      "longitude": 20.4161355051718,
+      "latitude": 44.5088977329735
+    },
+    {
+      "id": "_16",
+      "label": "Manić - Živorada Lukića",
+      "longitude": 20.42003,
+      "latitude": 44.5097
+    },
+    {
+      "id": "_17",
+      "label": "Manić - Selo",
+      "longitude": 20.425685,
+      "latitude": 44.51425
+    },
+    {
+      "id": "_18",
+      "label": "Pantelić R",
+      "longitude": 20.4278583,
+      "latitude": 44.5141267
+    },
+    {
+      "id": "_19",
+      "label": "Manić - Okretnica",
+      "longitude": 20.4325617,
+      "latitude": 44.51034
+    },
+    {
+      "id": "_20",
+      "label": "Pantelić R",
+      "longitude": 20.4277917,
+      "latitude": 44.51419
+    },
+    {
+      "id": "_21",
+      "label": "Manić - Selo",
+      "longitude": 20.4256667,
+      "latitude": 44.5141917
+    },
+    {
+      "id": "_22",
+      "label": "Manić - Živorada Lukića",
+      "longitude": 20.42026,
+      "latitude": 44.50971
+    },
+    {
+      "id": "_23",
+      "label": "Manić - Ulaz",
+      "longitude": 20.4161467,
+      "latitude": 44.5089717
+    },
+    {
+      "id": "_24",
+      "label": "Manić - R",
+      "longitude": 20.4113533,
+      "latitude": 44.506125
+    },
+    {
+      "id": "_25",
+      "label": "Rožanci",
+      "longitude": 20.40621,
+      "latitude": 44.5076833
+    },
+    {
+      "id": "_26",
+      "label": "Rožanci - Ulaz",
+      "longitude": 20.400875,
+      "latitude": 44.503885
+    },
+    {
+      "id": "_27",
+      "label": "Rožanci (centar)",
+      "longitude": 20.399779,
+      "latitude": 44.499053
+    },
+    {
+      "id": "_28",
+      "label": "Rožanci - Selo",
+      "longitude": 20.395815,
+      "latitude": 44.4946263
+    },
+    {
+      "id": "_29",
+      "label": "Rožanci - Kamenica",
+      "longitude": 20.3904533,
+      "latitude": 44.4889683
+    },
+    {
+      "id": "_30",
+      "label": "Rožanci M. Z.",
+      "longitude": 20.384998,
+      "latitude": 44.485284
+    },
+    {
+      "id": "_31",
+      "label": "Rožanci I",
+      "longitude": 20.3817423,
+      "latitude": 44.481775
+    },
+    {
+      "id": "_32",
+      "label": "Rožanci - Okretnica",
+      "longitude": 20.3766031,
+      "latitude": 44.4805453
+    },
+    {
+      "id": "_33",
+      "label": "Rožanci I",
+      "longitude": 20.3817377,
+      "latitude": 44.481705
+    },
+    {
+      "id": "_34",
+      "label": "Rožanci M. Z.",
+      "longitude": 20.3850333,
+      "latitude": 44.4852563
+    },
+    {
+      "id": "_35",
+      "label": "Rožanci - Kamenica",
+      "longitude": 20.390295,
+      "latitude": 44.4886883
+    },
+    {
+      "id": "_36",
+      "label": "Rožanci - Selo",
+      "longitude": 20.3958377,
+      "latitude": 44.4945833
+    },
+    {
+      "id": "_37",
+      "label": "Rožanci (centar)",
+      "longitude": 20.40004,
+      "latitude": 44.499248
+    },
+    {
+      "id": "_38",
+      "label": "Rožanci - Ulaz",
+      "longitude": 20.4008917,
+      "latitude": 44.5037811
+    },
+    {
+      "id": "_39",
+      "label": "Bela reka",
+      "longitude": 20.44601,
+      "latitude": 44.6444267
+    },
+    {
+      "id": "_40",
+      "label": "Beljina - Karaula",
+      "longitude": 20.386811,
+      "latitude": 44.507671
+    },
+    {
+      "id": "_41",
+      "label": "Arnajevo - Ulaz",
+      "longitude": 20.3759367,
+      "latitude": 44.5014483
+    },
+    {
+      "id": "_42",
+      "label": "Arnajevo - Selo",
+      "longitude": 20.3713733,
+      "latitude": 44.4963617
+    },
+    {
+      "id": "_43",
+      "label": "Arnajevo - Škola",
+      "longitude": 20.3700867,
+      "latitude": 44.4895533
+    },
+    {
+      "id": "_44",
+      "label": "Arnajevo mlekara",
+      "longitude": 20.3575017,
+      "latitude": 44.4936167
+    },
+    {
+      "id": "_45",
+      "label": "Arnajevo - Okretnica",
+      "longitude": 20.3492572705628,
+      "latitude": 44.4927055892257
+    },
+    {
+      "id": "_46",
+      "label": "Arnajevo - okretnica",
+      "longitude": 20.3494017,
+      "latitude": 44.4927583
+    },
+    {
+      "id": "_47",
+      "label": "Arnajevo - Mlekara",
+      "longitude": 20.3576,
+      "latitude": 44.4935483
+    },
+    {
+      "id": "_48",
+      "label": "Arnajevo - Škola",
+      "longitude": 20.3702367,
+      "latitude": 44.4895333
+    },
+    {
+      "id": "_49",
+      "label": "Arnajevo - Selo",
+      "longitude": 20.3715083,
+      "latitude": 44.496725
+    },
+    {
+      "id": "_50",
+      "label": "Arnajevo - Ulaz",
+      "longitude": 20.3760767,
+      "latitude": 44.5013867
+    },
+    {
+      "id": "_51",
+      "label": "Beljina - Karaula",
+      "longitude": 20.3871267,
+      "latitude": 44.5079483
+    },
+    {
+      "id": "_52",
+      "label": "Belo brdo",
+      "longitude": 20.3904717,
+      "latitude": 44.5129467
+    },
+    {
+      "id": "_53",
+      "label": "Beljina - Centar",
+      "longitude": 20.395345,
+      "latitude": 44.520837
+    },
+    {
+      "id": "_54",
+      "label": "Mioljica",
+      "longitude": 20.3976883,
+      "latitude": 44.5245433
+    },
+    {
+      "id": "_55",
+      "label": "Lisović - Spomenik",
+      "longitude": 20.4095467,
+      "latitude": 44.54771
+    },
+    {
+      "id": "_56",
+      "label": "Lisović - Baraka",
+      "longitude": 20.41442,
+      "latitude": 44.5541067
+    },
+    {
+      "id": "_57",
+      "label": "Turske njive",
+      "longitude": 20.4182839881013,
+      "latitude": 44.5594462639902
+    },
+    {
+      "id": "_58",
+      "label": "Lisović - Trafo",
+      "longitude": 20.4175544455267,
+      "latitude": 44.5650035797525
+    },
+    {
+      "id": "_59",
+      "label": "Servis",
+      "longitude": 20.4178387414048,
+      "latitude": 44.5688865059608
+    },
+    {
+      "id": "_60",
+      "label": "Guberevac R",
+      "longitude": 20.4232167,
+      "latitude": 44.570375
+    },
+    {
+      "id": "_61",
+      "label": "Barajevo - centar",
+      "longitude": 20.4152699431458,
+      "latitude": 44.5780710763609
+    },
+    {
+      "id": "_62",
+      "label": "Barajevo AS",
+      "longitude": 20.4134022984095,
+      "latitude": 44.579876533489
+    }
+  ],
+  "direction_b": []
+}

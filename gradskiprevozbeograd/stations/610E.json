@@ -1,0 +1,324 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Blok 70A",
+      "longitude": 20.4002598318885,
+      "latitude": 44.7981248813153
+    },
+    {
+      "id": "_2",
+      "label": "Jurija Gagarina",
+      "longitude": 20.3997797625758,
+      "latitude": 44.8017743845405
+    },
+    {
+      "id": "_3",
+      "label": "Omladinskih brigada",
+      "longitude": 20.3981750749657,
+      "latitude": 44.8046404276435
+    },
+    {
+      "id": "_4",
+      "label": "Blok 70",
+      "longitude": 20.3936830200988,
+      "latitude": 44.8043377814529
+    },
+    {
+      "id": "_5",
+      "label": "Gandijeva",
+      "longitude": 20.3867666614598,
+      "latitude": 44.8032966577503
+    },
+    {
+      "id": "_6",
+      "label": "Nehruova",
+      "longitude": 20.3797930284702,
+      "latitude": 44.8014862444975
+    },
+    {
+      "id": "_7",
+      "label": "OŠ Branko Radičević",
+      "longitude": 20.3750640665513,
+      "latitude": 44.7997362577074
+    },
+    {
+      "id": "_8",
+      "label": "Dr Ivana Ribara",
+      "longitude": 20.3702628435876,
+      "latitude": 44.7993158104791
+    },
+    {
+      "id": "_9",
+      "label": "Blok 61",
+      "longitude": 20.3683801673472,
+      "latitude": 44.8015787397054
+    },
+    {
+      "id": "_10",
+      "label": "Vinogradska (ulaz)",
+      "longitude": 20.3617811548243,
+      "latitude": 44.8015171460605
+    },
+    {
+      "id": "_11",
+      "label": "Surčin (centar)",
+      "longitude": 20.269576440419,
+      "latitude": 44.7909428436165
+    },
+    {
+      "id": "_12",
+      "label": "Krušedolska",
+      "longitude": 20.2618605005293,
+      "latitude": 44.7894750736203
+    },
+    {
+      "id": "_13",
+      "label": "Surčin (mlin)",
+      "longitude": 20.2560733648775,
+      "latitude": 44.7872237587599
+    },
+    {
+      "id": "_14",
+      "label": "Braće Nikolić",
+      "longitude": 20.2538782515217,
+      "latitude": 44.7833846722943
+    },
+    {
+      "id": "_15",
+      "label": "Put za SRC",
+      "longitude": 20.250345076553,
+      "latitude": 44.7812287146776
+    },
+    {
+      "id": "_16",
+      "label": "Rimski kanal",
+      "longitude": 20.2456151916687,
+      "latitude": 44.7784204051218
+    },
+    {
+      "id": "_17",
+      "label": "Put za Jakovo",
+      "longitude": 20.2402757330775,
+      "latitude": 44.7760776363002
+    },
+    {
+      "id": "_18",
+      "label": "Silosi",
+      "longitude": 20.2429745515994,
+      "latitude": 44.7702565690588
+    },
+    {
+      "id": "_19",
+      "label": "Jakovo (ulaz)",
+      "longitude": 20.2486121997479,
+      "latitude": 44.7643521452971
+    },
+    {
+      "id": "_20",
+      "label": "Servisi",
+      "longitude": 20.2521836420652,
+      "latitude": 44.7616792286397
+    },
+    {
+      "id": "_21",
+      "label": "Sremska",
+      "longitude": 20.2548358592448,
+      "latitude": 44.7597435925174
+    },
+    {
+      "id": "_22",
+      "label": "Sestara Krstonošić",
+      "longitude": 20.2582790216411,
+      "latitude": 44.7559914956221
+    },
+    {
+      "id": "_23",
+      "label": "MZ Jakovo",
+      "longitude": 20.2604168693213,
+      "latitude": 44.7537464105931
+    },
+    {
+      "id": "_24",
+      "label": "Đorđa Radovića",
+      "longitude": 20.2647138630106,
+      "latitude": 44.7491302597617
+    },
+    {
+      "id": "_25",
+      "label": "Oslobođenja",
+      "longitude": 20.2654003483027,
+      "latitude": 44.7465715698623
+    },
+    {
+      "id": "_26",
+      "label": "Jakovo",
+      "longitude": 20.2703585104837,
+      "latitude": 44.7453468975549
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Jakovo",
+      "longitude": 20.2703585104837,
+      "latitude": 44.7453468975549
+    },
+    {
+      "id": "_2",
+      "label": "Oslobođenja",
+      "longitude": 20.2654933745766,
+      "latitude": 44.7462049814524
+    },
+    {
+      "id": "_3",
+      "label": "Đorđa Radovića",
+      "longitude": 20.2644321330803,
+      "latitude": 44.7496378302618
+    },
+    {
+      "id": "_4",
+      "label": "MZ Jakovo",
+      "longitude": 20.2599176358391,
+      "latitude": 44.7544685562862
+    },
+    {
+      "id": "_5",
+      "label": "Sestara Krstonošić",
+      "longitude": 20.2577028614764,
+      "latitude": 44.7567995296458
+    },
+    {
+      "id": "_6",
+      "label": "Sremska",
+      "longitude": 20.2551992535148,
+      "latitude": 44.7595767624569
+    },
+    {
+      "id": "_7",
+      "label": "Servisi",
+      "longitude": 20.2513193774787,
+      "latitude": 44.7624835491885
+    },
+    {
+      "id": "_8",
+      "label": "Jakovo (ulaz)",
+      "longitude": 20.2483345710509,
+      "latitude": 44.7647211078371
+    },
+    {
+      "id": "_9",
+      "label": "Silosi",
+      "longitude": 20.2432005364759,
+      "latitude": 44.7701716658024
+    },
+    {
+      "id": "_10",
+      "label": "Put za Jakovo",
+      "longitude": 20.2412146727844,
+      "latitude": 44.7763556451547
+    },
+    {
+      "id": "_11",
+      "label": "Rimski kanal",
+      "longitude": 20.2473377853238,
+      "latitude": 44.7790743025036
+    },
+    {
+      "id": "_12",
+      "label": "Put za SRC",
+      "longitude": 20.2502028713941,
+      "latitude": 44.7810855910504
+    },
+    {
+      "id": "_13",
+      "label": "Braće Nikolić",
+      "longitude": 20.254356505014,
+      "latitude": 44.7839295592062
+    },
+    {
+      "id": "_14",
+      "label": "Surčin (mlin)",
+      "longitude": 20.2562724203282,
+      "latitude": 44.7872718485651
+    },
+    {
+      "id": "_15",
+      "label": "Krušedolska",
+      "longitude": 20.2624342595165,
+      "latitude": 44.7894751680994
+    },
+    {
+      "id": "_16",
+      "label": "Surčin (centar)",
+      "longitude": 20.2704291239255,
+      "latitude": 44.7902697086563
+    },
+    {
+      "id": "_17",
+      "label": "Vinogradska (ulaz)",
+      "longitude": 20.3618611611134,
+      "latitude": 44.8010032886875
+    },
+    {
+      "id": "_18",
+      "label": "Blok 61",
+      "longitude": 20.3665909669199,
+      "latitude": 44.8031383895825
+    },
+    {
+      "id": "_19",
+      "label": "Naselje Dr Ivana Ribara",
+      "longitude": 20.3695220637996,
+      "latitude": 44.7997887155459
+    },
+    {
+      "id": "_20",
+      "label": "Dr Ivana Ribara",
+      "longitude": 20.3723636222563,
+      "latitude": 44.7981447883689
+    },
+    {
+      "id": "_21",
+      "label": "OŠ Branko Radičević",
+      "longitude": 20.3758104864697,
+      "latitude": 44.7996755264851
+    },
+    {
+      "id": "_22",
+      "label": "Nehruova",
+      "longitude": 20.3801345001671,
+      "latitude": 44.8012325038803
+    },
+    {
+      "id": "_23",
+      "label": "Gandijeva",
+      "longitude": 20.3890031634022,
+      "latitude": 44.8033859914348
+    },
+    {
+      "id": "_24",
+      "label": "Blok 70",
+      "longitude": 20.3938859295558,
+      "latitude": 44.8040328697862
+    },
+    {
+      "id": "_25",
+      "label": "Omladinskih brigada",
+      "longitude": 20.3982187854152,
+      "latitude": 44.8043256732423
+    },
+    {
+      "id": "_26",
+      "label": "Jurija Gagarina",
+      "longitude": 20.3996501849434,
+      "latitude": 44.801591915606
+    },
+    {
+      "id": "_27",
+      "label": "Blok 70A",
+      "longitude": 20.4000718982624,
+      "latitude": 44.7979637064807
+    }
+  ]
+}

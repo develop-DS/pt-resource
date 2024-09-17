@@ -1,474 +1,474 @@
 {
-  "direction_a": [
-    {
-      "id": "_1",
-      "label": "Beograd na vodi",
-      "longitude": 20.4441511554856,
-      "latitude": 44.8008281955001
-    },
-    {
-      "id": "_2",
-      "label": "TC Galerija",
-      "longitude": 20.4461890099644,
-      "latitude": 44.8014426648003
-    },
-    {
-      "id": "_3",
-      "label": "Kula Beograd",
-      "longitude": 20.4490089204697,
-      "latitude": 44.8031967529456
-    },
-    {
-      "id": "_4",
-      "label": "Savski park",
-      "longitude": 20.4514809503669,
-      "latitude": 44.8057267978316
-    },
-    {
-      "id": "_5",
-      "label": "Savski most",
-      "longitude": 20.4528071405128,
-      "latitude": 44.8101245281499
-    },
-    {
-      "id": "_6",
-      "label": "Savski trg",
-      "longitude": 20.4551155399825,
-      "latitude": 44.8071299145412
-    },
-    {
-      "id": "_7",
-      "label": "Palata pravde",
-      "longitude": 20.4528657838574,
-      "latitude": 44.8043923494829
-    },
-    {
-      "id": "_8",
-      "label": "Sava centar",
-      "longitude": 20.4312350069175,
-      "latitude": 44.8076745767943
-    },
-    {
-      "id": "_9",
-      "label": "Beogradska arena (Antifašističke borbe)",
-      "longitude": 20.4223401252013,
-      "latitude": 44.8117519132287
-    },
-    {
-      "id": "_10",
-      "label": "Beogradska arena (Španskih boraca)",
-      "longitude": 20.4182681470779,
-      "latitude": 44.813621234405
-    },
-    {
-      "id": "_11",
-      "label": "Omladinskih brigada",
-      "longitude": 20.4101893320607,
-      "latitude": 44.8173417752466
-    },
-    {
-      "id": "_12",
-      "label": "Tošin bunar",
-      "longitude": 20.3999624583207,
-      "latitude": 44.8220350702065
-    },
-    {
-      "id": "_13",
-      "label": "SC Vizura",
-      "longitude": 20.3960791986334,
-      "latitude": 44.8209383460596
-    },
-    {
-      "id": "_14",
-      "label": "Železnička stanica Tošin bunar",
-      "longitude": 20.3950441292173,
-      "latitude": 44.8171224968428
-    },
-    {
-      "id": "_15",
-      "label": "Stari aerodrom",
-      "longitude": 20.3926850087571,
-      "latitude": 44.8139547969209
-    },
-    {
-      "id": "_16",
-      "label": "IMT",
-      "longitude": 20.3896383766496,
-      "latitude": 44.8124735002385
-    },
-    {
-      "id": "_17",
-      "label": "Gandijeva",
-      "longitude": 20.3814254977605,
-      "latitude": 44.8101022162771
-    },
-    {
-      "id": "_18",
-      "label": "Crkva Sv. Georgija",
-      "longitude": 20.375560014463,
-      "latitude": 44.8076945502935
-    },
-    {
-      "id": "_19",
-      "label": "Dušana Vukasovića",
-      "longitude": 20.3705756133067,
-      "latitude": 44.8056838016113
-    },
-    {
-      "id": "_20",
-      "label": "Surčinska",
-      "longitude": 20.3667746038276,
-      "latitude": 44.8041509518377
-    },
-    {
-      "id": "_21",
-      "label": "Nedeljka Gvozdenovića",
-      "longitude": 20.3596966512311,
-      "latitude": 44.8077258570245
-    },
-    {
-      "id": "_22",
-      "label": "Biodekor",
-      "longitude": 20.35238378008,
-      "latitude": 44.8064374490621
-    },
-    {
-      "id": "_23",
-      "label": "Ledine",
-      "longitude": 20.3484786557574,
-      "latitude": 44.8052093865501
-    },
-    {
-      "id": "_24",
-      "label": "SC Mladost",
-      "longitude": 20.3403779844709,
-      "latitude": 44.8027691885813
-    },
-    {
-      "id": "_25",
-      "label": "Vila Mara",
-      "longitude": 20.3353947024312,
-      "latitude": 44.8012464841295
-    },
-    {
-      "id": "_26",
-      "label": "Novo naselje",
-      "longitude": 20.3296298247723,
-      "latitude": 44.8000033794298
-    },
-    {
-      "id": "_27",
-      "label": "Vikend naselje",
-      "longitude": 20.3247211787591,
-      "latitude": 44.7992816043444
-    },
-    {
-      "id": "_28",
-      "label": "Malinjak",
-      "longitude": 20.3191312062218,
-      "latitude": 44.7984655778568
-    },
-    {
-      "id": "_29",
-      "label": "Galovica",
-      "longitude": 20.3118556244609,
-      "latitude": 44.7974051823851
-    },
-    {
-      "id": "_30",
-      "label": "Orešac",
-      "longitude": 20.3052767749274,
-      "latitude": 44.7964475432666
-    },
-    {
-      "id": "_31",
-      "label": "Surčin (ulaz)",
-      "longitude": 20.2975926668554,
-      "latitude": 44.7953477636655
-    },
-    {
-      "id": "_32",
-      "label": "Crkva",
-      "longitude": 20.2906025174149,
-      "latitude": 44.7943687583691
-    },
-    {
-      "id": "_33",
-      "label": "Marka Raba",
-      "longitude": 20.284743514014,
-      "latitude": 44.7935133841489
-    },
-    {
-      "id": "_34",
-      "label": "Skopljanska",
-      "longitude": 20.2782943207582,
-      "latitude": 44.7925675983652
-    },
-    {
-      "id": "_35",
-      "label": "Surčin (centar)",
-      "longitude": 20.269576440419,
-      "latitude": 44.7909428436165
-    },
-    {
-      "id": "_36",
-      "label": "Krušedolska",
-      "longitude": 20.2618605005293,
-      "latitude": 44.7894750736203
-    },
-    {
-      "id": "_37",
-      "label": "Surčin (mlin)",
-      "longitude": 20.2560733648775,
-      "latitude": 44.7872237587599
-    },
-    {
-      "id": "_38",
-      "label": "Braće Nikolić",
-      "longitude": 20.2538782515217,
-      "latitude": 44.7833846722943
-    },
-    {
-      "id": "_39",
-      "label": "Surčin",
-      "longitude": 20.2496792537806,
-      "latitude": 44.7809273710085
-    }
-  ],
-  "direction_b": [
-    {
-      "id": "_1",
-      "label": "Surčin",
-      "longitude": 20.2503850533377,
-      "latitude": 44.7806764025526
-    },
-    {
-      "id": "_2",
-      "label": "Braće Nikolić",
-      "longitude": 20.254356505014,
-      "latitude": 44.7839295592062
-    },
-    {
-      "id": "_3",
-      "label": "Surčin (mlin)",
-      "longitude": 20.2562724203282,
-      "latitude": 44.7872718485651
-    },
-    {
-      "id": "_4",
-      "label": "Krušedolska",
-      "longitude": 20.2624342595165,
-      "latitude": 44.7894751680994
-    },
-    {
-      "id": "_5",
-      "label": "Surčin (centar)",
-      "longitude": 20.2710959276357,
-      "latitude": 44.7911145102775
-    },
-    {
-      "id": "_6",
-      "label": "Skopljanska",
-      "longitude": 20.2800239299124,
-      "latitude": 44.7927188702734
-    },
-    {
-      "id": "_7",
-      "label": "Marka Raba",
-      "longitude": 20.2864707081862,
-      "latitude": 44.793659143584
-    },
-    {
-      "id": "_8",
-      "label": "Crkva",
-      "longitude": 20.2908991251996,
-      "latitude": 44.7942985974551
-    },
-    {
-      "id": "_9",
-      "label": "Surčin (ulaz)",
-      "longitude": 20.297800912615,
-      "latitude": 44.7952680437376
-    },
-    {
-      "id": "_10",
-      "label": "Orešac",
-      "longitude": 20.3055531545006,
-      "latitude": 44.7963772217066
-    },
-    {
-      "id": "_11",
-      "label": "Galovica",
-      "longitude": 20.3125636059471,
-      "latitude": 44.7973914314327
-    },
-    {
-      "id": "_12",
-      "label": "Malinjak",
-      "longitude": 20.3194907853936,
-      "latitude": 44.7984137158296
-    },
-    {
-      "id": "_13",
-      "label": "Vikend naselje",
-      "longitude": 20.3252701365787,
-      "latitude": 44.7992488386447
-    },
-    {
-      "id": "_14",
-      "label": "Novo naselje",
-      "longitude": 20.3304816124944,
-      "latitude": 44.8000173568798
-    },
-    {
-      "id": "_15",
-      "label": "Vila Mara",
-      "longitude": 20.3341745158971,
-      "latitude": 44.8007282298825
-    },
-    {
-      "id": "_16",
-      "label": "SC Mladost",
-      "longitude": 20.3419693171963,
-      "latitude": 44.8031167161313
-    },
-    {
-      "id": "_17",
-      "label": "Ledine",
-      "longitude": 20.3487973784396,
-      "latitude": 44.8051949981605
-    },
-    {
-      "id": "_18",
-      "label": "Biodekor",
-      "longitude": 20.3533902928537,
-      "latitude": 44.806642919573
-    },
-    {
-      "id": "_19",
-      "label": "Nedeljka Gvozdenovića",
-      "longitude": 20.3602447283376,
-      "latitude": 44.8075489258295
-    },
-    {
-      "id": "_20",
-      "label": "Surčinska",
-      "longitude": 20.367092552685,
-      "latitude": 44.8039745164506
-    },
-    {
-      "id": "_21",
-      "label": "Dušana Vukasovića",
-      "longitude": 20.3723030905809,
-      "latitude": 44.8060910504505
-    },
-    {
-      "id": "_22",
-      "label": "Crkva Sv. Georgija",
-      "longitude": 20.3770480216612,
-      "latitude": 44.8080428259182
-    },
-    {
-      "id": "_23",
-      "label": "Gandijeva",
-      "longitude": 20.3834241270228,
-      "latitude": 44.8107105483979
-    },
-    {
-      "id": "_24",
-      "label": "IMT",
-      "longitude": 20.3912076546,
-      "latitude": 44.8128076243592
-    },
-    {
-      "id": "_25",
-      "label": "Železnička stanica Tošin bunar",
-      "longitude": 20.3953373586664,
-      "latitude": 44.8168900558092
-    },
-    {
-      "id": "_26",
-      "label": "Milutina Milankovića",
-      "longitude": 20.3962247743002,
-      "latitude": 44.8203145464976
-    },
-    {
-      "id": "_27",
-      "label": "Tošin bunar",
-      "longitude": 20.3997072113744,
-      "latitude": 44.821527962086
-    },
-    {
-      "id": "_28",
-      "label": "Omladinskih brigada",
-      "longitude": 20.4098907178858,
-      "latitude": 44.8168650648114
-    },
-    {
-      "id": "_29",
-      "label": "Beogradska arena (Španskih boraca)",
-      "longitude": 20.4183934889124,
-      "latitude": 44.8129721044885
-    },
-    {
-      "id": "_30",
-      "label": "Beogradska arena (Antifašističke borbe)",
-      "longitude": 20.4225797313787,
-      "latitude": 44.8110493567159
-    },
-    {
-      "id": "_31",
-      "label": "Sava centar",
-      "longitude": 20.4310428058399,
-      "latitude": 44.8071624502829
-    },
-    {
-      "id": "_32",
-      "label": "Durmitorska",
-      "longitude": 20.45156951314,
-      "latitude": 44.8021722742319
-    },
-    {
-      "id": "_33",
-      "label": "Palata pravde",
-      "longitude": 20.453773328507,
-      "latitude": 44.8049402456002
-    },
-    {
-      "id": "_34",
-      "label": "Savski trg",
-      "longitude": 20.4554103831243,
-      "latitude": 44.806963923035
-    },
-    {
-      "id": "_35",
-      "label": "Savski most",
-      "longitude": 20.4522672077257,
-      "latitude": 44.8099970348462
-    },
-    {
-      "id": "_36",
-      "label": "Savski park",
-      "longitude": 20.4510402334204,
-      "latitude": 44.8055212704295
-    },
-    {
-      "id": "_37",
-      "label": "Kula Beograd",
-      "longitude": 20.4486263639051,
-      "latitude": 44.8032813106928
-    },
-    {
-      "id": "_38",
-      "label": "TC Galerija",
-      "longitude": 20.4456286208991,
-      "latitude": 44.8013535627872
-    },
-    {
-      "id": "_39",
-      "label": "Beograd na vodi",
-      "longitude": 20.4441511554856,
-      "latitude": 44.8008281955001
-    }
-  ]
+    "direction_a": [
+        {
+            "id": "_1",
+            "label": "Beograd na vodi",
+            "longitude": 20.4441511554856,
+            "latitude": 44.8008281955001
+        },
+        {
+            "id": "_2",
+            "label": "TC Galerija",
+            "longitude": 20.4461890099644,
+            "latitude": 44.8014426648003
+        },
+        {
+            "id": "_3",
+            "label": "Kula Beograd",
+            "longitude": 20.4490089204697,
+            "latitude": 44.8031967529456
+        },
+        {
+            "id": "_4",
+            "label": "Savski park",
+            "longitude": 20.4514809503669,
+            "latitude": 44.8057267978316
+        },
+        {
+            "id": "_5",
+            "label": "Savski most",
+            "longitude": 20.4528071405128,
+            "latitude": 44.8101245281499
+        },
+        {
+            "id": "_6",
+            "label": "Savski trg",
+            "longitude": 20.4551155399825,
+            "latitude": 44.8071299145412
+        },
+        {
+            "id": "_7",
+            "label": "Palata pravde",
+            "longitude": 20.4528657838574,
+            "latitude": 44.8043923494829
+        },
+        {
+            "id": "_8",
+            "label": "Sava centar",
+            "longitude": 20.4312350069175,
+            "latitude": 44.8076745767943
+        },
+        {
+            "id": "_9",
+            "label": "Beogradska arena (Antifašističke borbe)",
+            "longitude": 20.4223401252013,
+            "latitude": 44.8117519132287
+        },
+        {
+            "id": "_10",
+            "label": "Beogradska arena (Španskih boraca)",
+            "longitude": 20.4182681470779,
+            "latitude": 44.813621234405
+        },
+        {
+            "id": "_11",
+            "label": "Omladinskih brigada",
+            "longitude": 20.4101893320607,
+            "latitude": 44.8173417752466
+        },
+        {
+            "id": "_12",
+            "label": "Tošin bunar",
+            "longitude": 20.3999624583207,
+            "latitude": 44.8220350702065
+        },
+        {
+            "id": "_13",
+            "label": "SC Vizura",
+            "longitude": 20.3960791986334,
+            "latitude": 44.8209383460596
+        },
+        {
+            "id": "_14",
+            "label": "Železnička stanica Tošin bunar",
+            "longitude": 20.3950441292173,
+            "latitude": 44.8171224968428
+        },
+        {
+            "id": "_15",
+            "label": "Stari aerodrom",
+            "longitude": 20.3926850087571,
+            "latitude": 44.8139547969209
+        },
+        {
+            "id": "_16",
+            "label": "IMT",
+            "longitude": 20.3896383766496,
+            "latitude": 44.8124735002385
+        },
+        {
+            "id": "_17",
+            "label": "Gandijeva",
+            "longitude": 20.3814254977605,
+            "latitude": 44.8101022162771
+        },
+        {
+            "id": "_18",
+            "label": "Crkva Sv. Georgija",
+            "longitude": 20.375560014463,
+            "latitude": 44.8076945502935
+        },
+        {
+            "id": "_19",
+            "label": "Dušana Vukasovića",
+            "longitude": 20.3705756133067,
+            "latitude": 44.8056838016113
+        },
+        {
+            "id": "_20",
+            "label": "Surčinska",
+            "longitude": 20.3667746038276,
+            "latitude": 44.8041509518377
+        },
+        {
+            "id": "_21",
+            "label": "Nedeljka Gvozdenovića",
+            "longitude": 20.3596966512311,
+            "latitude": 44.8077258570245
+        },
+        {
+            "id": "_22",
+            "label": "Biodekor",
+            "longitude": 20.35238378008,
+            "latitude": 44.8064374490621
+        },
+        {
+            "id": "_23",
+            "label": "Ledine",
+            "longitude": 20.3484786557574,
+            "latitude": 44.8052093865501
+        },
+        {
+            "id": "_24",
+            "label": "SC Mladost",
+            "longitude": 20.3403779844709,
+            "latitude": 44.8027691885813
+        },
+        {
+            "id": "_25",
+            "label": "Vila Mara",
+            "longitude": 20.3353947024312,
+            "latitude": 44.8012464841295
+        },
+        {
+            "id": "_26",
+            "label": "Novo naselje",
+            "longitude": 20.3296298247723,
+            "latitude": 44.8000033794298
+        },
+        {
+            "id": "_27",
+            "label": "Vikend naselje",
+            "longitude": 20.3247211787591,
+            "latitude": 44.7992816043444
+        },
+        {
+            "id": "_28",
+            "label": "Malinjak",
+            "longitude": 20.3191312062218,
+            "latitude": 44.7984655778568
+        },
+        {
+            "id": "_29",
+            "label": "Galovica",
+            "longitude": 20.3118556244609,
+            "latitude": 44.7974051823851
+        },
+        {
+            "id": "_30",
+            "label": "Orešac",
+            "longitude": 20.3052767749274,
+            "latitude": 44.7964475432666
+        },
+        {
+            "id": "_31",
+            "label": "Surčin (ulaz)",
+            "longitude": 20.2975926668554,
+            "latitude": 44.7953477636655
+        },
+        {
+            "id": "_32",
+            "label": "Crkva",
+            "longitude": 20.2906025174149,
+            "latitude": 44.7943687583691
+        },
+        {
+            "id": "_33",
+            "label": "Marka Raba",
+            "longitude": 20.284743514014,
+            "latitude": 44.7935133841489
+        },
+        {
+            "id": "_34",
+            "label": "Skopljanska",
+            "longitude": 20.2782943207582,
+            "latitude": 44.7925675983652
+        },
+        {
+            "id": "_35",
+            "label": "Surčin (centar)",
+            "longitude": 20.269576440419,
+            "latitude": 44.7909428436165
+        },
+        {
+            "id": "_36",
+            "label": "Krušedolska",
+            "longitude": 20.2618605005293,
+            "latitude": 44.7894750736203
+        },
+        {
+            "id": "_37",
+            "label": "Surčin (mlin)",
+            "longitude": 20.2560733648775,
+            "latitude": 44.7872237587599
+        },
+        {
+            "id": "_38",
+            "label": "Braće Nikolić",
+            "longitude": 20.2538782515217,
+            "latitude": 44.7833846722943
+        },
+        {
+            "id": "_39",
+            "label": "Surčin",
+            "longitude": 20.2496792537806,
+            "latitude": 44.7809273710085
+        }
+    ],
+    "direction_b": [
+        {
+            "id": "_1",
+            "label": "Surčin",
+            "longitude": 20.2503850533377,
+            "latitude": 44.7806764025526
+        },
+        {
+            "id": "_2",
+            "label": "Braće Nikolić",
+            "longitude": 20.254356505014,
+            "latitude": 44.7839295592062
+        },
+        {
+            "id": "_3",
+            "label": "Surčin (mlin)",
+            "longitude": 20.2562724203282,
+            "latitude": 44.7872718485651
+        },
+        {
+            "id": "_4",
+            "label": "Krušedolska",
+            "longitude": 20.2624342595165,
+            "latitude": 44.7894751680994
+        },
+        {
+            "id": "_5",
+            "label": "Surčin (centar)",
+            "longitude": 20.2710959276357,
+            "latitude": 44.7911145102775
+        },
+        {
+            "id": "_6",
+            "label": "Skopljanska",
+            "longitude": 20.2800239299124,
+            "latitude": 44.7927188702734
+        },
+        {
+            "id": "_7",
+            "label": "Marka Raba",
+            "longitude": 20.2864707081862,
+            "latitude": 44.793659143584
+        },
+        {
+            "id": "_8",
+            "label": "Crkva",
+            "longitude": 20.2908991251996,
+            "latitude": 44.7942985974551
+        },
+        {
+            "id": "_9",
+            "label": "Surčin (ulaz)",
+            "longitude": 20.297800912615,
+            "latitude": 44.7952680437376
+        },
+        {
+            "id": "_10",
+            "label": "Orešac",
+            "longitude": 20.3055531545006,
+            "latitude": 44.7963772217066
+        },
+        {
+            "id": "_11",
+            "label": "Galovica",
+            "longitude": 20.3125636059471,
+            "latitude": 44.7973914314327
+        },
+        {
+            "id": "_12",
+            "label": "Malinjak",
+            "longitude": 20.3194907853936,
+            "latitude": 44.7984137158296
+        },
+        {
+            "id": "_13",
+            "label": "Vikend naselje",
+            "longitude": 20.3252701365787,
+            "latitude": 44.7992488386447
+        },
+        {
+            "id": "_14",
+            "label": "Novo naselje",
+            "longitude": 20.3304816124944,
+            "latitude": 44.8000173568798
+        },
+        {
+            "id": "_15",
+            "label": "Vila Mara",
+            "longitude": 20.3341745158971,
+            "latitude": 44.8007282298825
+        },
+        {
+            "id": "_16",
+            "label": "SC Mladost",
+            "longitude": 20.3419693171963,
+            "latitude": 44.8031167161313
+        },
+        {
+            "id": "_17",
+            "label": "Ledine",
+            "longitude": 20.3487973784396,
+            "latitude": 44.8051949981605
+        },
+        {
+            "id": "_18",
+            "label": "Biodekor",
+            "longitude": 20.3533902928537,
+            "latitude": 44.806642919573
+        },
+        {
+            "id": "_19",
+            "label": "Nedeljka Gvozdenovića",
+            "longitude": 20.3602447283376,
+            "latitude": 44.8075489258295
+        },
+        {
+            "id": "_20",
+            "label": "Surčinska",
+            "longitude": 20.367092552685,
+            "latitude": 44.8039745164506
+        },
+        {
+            "id": "_21",
+            "label": "Dušana Vukasovića",
+            "longitude": 20.3723030905809,
+            "latitude": 44.8060910504505
+        },
+        {
+            "id": "_22",
+            "label": "Crkva Sv. Georgija",
+            "longitude": 20.3770480216612,
+            "latitude": 44.8080428259182
+        },
+        {
+            "id": "_23",
+            "label": "Gandijeva",
+            "longitude": 20.3834241270228,
+            "latitude": 44.8107105483979
+        },
+        {
+            "id": "_24",
+            "label": "IMT",
+            "longitude": 20.3912076546,
+            "latitude": 44.8128076243592
+        },
+        {
+            "id": "_25",
+            "label": "Železnička stanica Tošin bunar",
+            "longitude": 20.3953373586664,
+            "latitude": 44.8168900558092
+        },
+        {
+            "id": "_26",
+            "label": "Milutina Milankovića",
+            "longitude": 20.3962247743002,
+            "latitude": 44.8203145464976
+        },
+        {
+            "id": "_27",
+            "label": "Tošin bunar",
+            "longitude": 20.3997072113744,
+            "latitude": 44.821527962086
+        },
+        {
+            "id": "_28",
+            "label": "Omladinskih brigada",
+            "longitude": 20.4098907178858,
+            "latitude": 44.8168650648114
+        },
+        {
+            "id": "_29",
+            "label": "Beogradska arena (Španskih boraca)",
+            "longitude": 20.4183934889124,
+            "latitude": 44.8129721044885
+        },
+        {
+            "id": "_30",
+            "label": "Beogradska arena (Antifašističke borbe)",
+            "longitude": 20.4225797313787,
+            "latitude": 44.8110493567159
+        },
+        {
+            "id": "_31",
+            "label": "Sava centar",
+            "longitude": 20.4310428058399,
+            "latitude": 44.8071624502829
+        },
+        {
+            "id": "_32",
+            "label": "Durmitorska",
+            "longitude": 20.45156951314,
+            "latitude": 44.8021722742319
+        },
+        {
+            "id": "_33",
+            "label": "Palata pravde",
+            "longitude": 20.453773328507,
+            "latitude": 44.8049402456002
+        },
+        {
+            "id": "_34",
+            "label": "Savski trg",
+            "longitude": 20.4554103831243,
+            "latitude": 44.806963923035
+        },
+        {
+            "id": "_35",
+            "label": "Savski most",
+            "longitude": 20.4522672077257,
+            "latitude": 44.8099970348462
+        },
+        {
+            "id": "_36",
+            "label": "Savski park",
+            "longitude": 20.4510402334204,
+            "latitude": 44.8055212704295
+        },
+        {
+            "id": "_37",
+            "label": "Kula Beograd",
+            "longitude": 20.4486263639051,
+            "latitude": 44.8032813106928
+        },
+        {
+            "id": "_38",
+            "label": "TC Galerija",
+            "longitude": 20.4456286208991,
+            "latitude": 44.8013535627872
+        },
+        {
+            "id": "_39",
+            "label": "Beograd na vodi",
+            "longitude": 20.4441511554856,
+            "latitude": 44.8008281955001
+        }
+    ]
 }
