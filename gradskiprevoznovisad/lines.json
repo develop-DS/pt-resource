@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "title": "KLISA - CENTAR - LIMAN I",
+        "title": "Klisa - Centar - Liman I",
         "type": "BUS",
         "info": [
             "GL = GORNJE LIVADE",
@@ -428,7 +428,7 @@
     },
     {
         "id": "2",
-        "title": "CENTAR - NOVO NASELJE",
+        "title": "Centar - Novo Naselje",
         "type": "BUS",
         "info": [],
         "weekday": {
@@ -814,7 +814,7 @@
     },
     {
         "id": "3",
-        "title": "PETROVARADIN - CENTAR - DETELINARA",
+        "title": "Petrovaradin - Centar - Detelinara",
         "type": "BUS",
         "info": [],
         "weekday": {
@@ -1206,7 +1206,7 @@
     },
     {
         "id": "3A",
-        "title": "ZEL.STANICA - POBED",
+        "title": "Zel.stanica - Pobed",
         "type": "BUS",
         "info": [],
         "weekday": {
@@ -1228,7 +1228,7 @@
     },
     {
         "id": "3B",
-        "title": "PETROVARADIN (O.S. J.DUCIC) - PUCKAROS",
+        "title": "Petrovaradin (O.s. J.ducic) - Puckaros",
         "type": "BUS",
         "info": [],
         "weekday": {
@@ -1263,7 +1263,7 @@
     },
     {
         "id": "4",
-        "title": "LIMAN IV - CENTAR - Ž.STANICA",
+        "title": "Liman Iv - Centar - Ž.stanica",
         "type": "BUS",
         "info": [],
         "weekday": {
@@ -1693,7 +1693,7 @@
     },
     {
         "id": "5",
-        "title": "TEMERINSKI PUT - CENTAR - AVIJATIČAR.N",
+        "title": "Temerinski Put - Centar - Avijatičar.n",
         "type": "BUS",
         "info": [],
         "weekday": {
@@ -2124,7 +2124,7 @@
     },
     {
         "id": "5N",
-        "title": "Z.STANICA - NAJLON - TEM.PUT",
+        "title": "Z.stanica - Najlon - Tem.put",
         "type": "BUS",
         "info": [],
         "weekday": {
@@ -2204,7 +2204,7 @@
     },
     {
         "id": "6",
-        "title": "PODBARA - CENTAR - ADICE",
+        "title": "Podbara - Centar - Adice",
         "type": "BUS",
         "info": [
             "D = DO DANUBIUSA PRISTANISNA ZONA",
@@ -2556,7 +2556,7 @@
     },
     {
         "id": "6A",
-        "title": "ADICE - VETERNIK (O.S.MARIJA TRANDAFIL)",
+        "title": "Adice - Veternik (O.s.marija Trandafil)",
         "type": "BUS",
         "info": [
             "SSD = S.S. D. OBRADOVIC DJACKI"
@@ -2592,7 +2592,7 @@
     },
     {
         "id": "7",
-        "title": "N.N - Ž.STAN - F.PIJA - LIMAN4 - N.N",
+        "title": "N.n - Ž.stan - F.pija - Liman4 - N.n",
         "type": "BUS",
         "weekday": {
             "starting_points_a": [
@@ -3059,7 +3059,7 @@
     },
     {
         "id": "8",
-        "title": "NOVO NASELJE - CENTAR - LIMAN I",
+        "title": "Novo Naselje - Centar - Liman I",
         "type": "BUS",
         "info": [],
         "weekday": {
@@ -3470,7 +3470,7 @@
     },
     {
         "id": "9",
-        "title": "NOVO NASELJE - LIMAN - PETROVARADIN",
+        "title": "Novo Naselje - Liman - Petrovaradin",
         "type": "BUS",
         "info": [
             "ALI = ALIBEGOVAC"
@@ -3822,7 +3822,7 @@
     },
     {
         "id": "10",
-        "title": "CENTAR - INDUST.ZONA JUG",
+        "title": "Centar - Indust.zona Jug",
         "type": "BUS",
         "info": [
             "AL = ALBUS",
@@ -3875,7 +3875,7 @@
     },
     {
         "id": "11",
-        "title": "Ž.STANICA - BOLNICA - LIMAN - Ž.STANICA",
+        "title": "Ž.stanica - Bolnica - Liman - Ž.stanica",
         "type": "BUS",
         "weekday": {
             "starting_points_a": [
@@ -4252,7 +4252,7 @@
     },
     {
         "id": "12",
-        "title": "CENTAR - TELEP",
+        "title": "Centar - Telep",
         "type": "BUS",
         "info": [],
         "weekday": {
@@ -4615,7 +4615,7 @@
     },
     {
         "id": "13",
-        "title": "DETELINARA - GRBAVICA - UNIVERZITET",
+        "title": "Detelinara - Grbavica - Univerzitet",
         "type": "BUS",
         "info": [
             "UDJ = BUL.EVROPE K.T-UNIVERZITET DJACKI"
@@ -4939,7 +4939,7 @@
     },
     {
         "id": "14",
-        "title": "CENTAR - SAJLOVO",
+        "title": "Centar - Sajlovo",
         "type": "BUS",
         "info": [
             "DDJ = DO DETELINARE DJACKI"
@@ -5235,7 +5235,7 @@
     },
     {
         "id": "15",
-        "title": "CENTAR - INDUSTR.ZONA SEVER",
+        "title": "Centar - Industr.zona Sever",
         "type": "BUS",
         "info": [
             "APT = APTIV SA I DO Z.STANICE",
@@ -5315,7 +5315,7 @@
     },
     {
         "id": "16",
-        "title": "ŽELE.STANICA - PRISTANISNA ZONA",
+        "title": "Žele.stanica - Pristanisna Zona",
         "type": "BUS",
         "info": [],
         "weekday": {
@@ -5342,7 +5342,7 @@
     },
     {
         "id": "17",
-        "title": "BIG TC - CENTAR",
+        "title": "Big Tc - Centar",
         "type": "BUS",
         "info": [],
         "weekday": {
@@ -5488,7 +5488,7 @@
     },
     {
         "id": "18",
-        "title": "N.N - DETELINARA - CENTAR - LIMAN - N.N",
+        "title": "N.n - Detelinara - Centar - Liman - N.n",
         "type": "BUS",
         "weekday": {
             "starting_points_a": [
@@ -5539,7 +5539,7 @@
     },
     {
         "id": "19",
-        "title": "Z.STANICA - MISELUK (BOLNICA)",
+        "title": "Z.stanica - Miseluk (Bolnica)",
         "type": "BUS",
         "info": [],
         "weekday": {
@@ -5623,7 +5623,7 @@
     },
     {
         "id": "20",
-        "title": "ZEL.STANICA - LESNINA",
+        "title": "Zel.stanica - Lesnina",
         "type": "BUS",
         "info": [],
         "weekday": {
@@ -5682,7 +5682,7 @@
     },
     {
         "id": "21",
-        "title": "ŽELE.STANICA - ŠANGAJ",
+        "title": "Žele.stanica - Šangaj",
         "type": "BUS",
         "info": [
             "NIS = PARKING NIS",
@@ -5833,7 +5833,7 @@
     },
     {
         "id": "22",
-        "title": "ŽELE.STANICA - KAĆ",
+        "title": "Žele.stanica - Kać",
         "type": "BUS",
         "info": [
             "C = DO CENTRA N.SADA",
@@ -5932,7 +5932,7 @@
     },
     {
         "id": "23",
-        "title": "ŽELE.STANICA - BUDISAVA",
+        "title": "Žele.stanica - Budisava",
         "type": "BUS",
         "info": [
             "C = DO CENTRA N.SADA",
@@ -6033,7 +6033,7 @@
     },
     {
         "id": "24",
-        "title": "ŽELE.STANICA - KOVILJ",
+        "title": "Žele.stanica - Kovilj",
         "type": "BUS",
         "info": [
             "AKN = OD ALBUSA KOTEKSPRO.I NEOPLANTE",
@@ -6207,7 +6207,7 @@
     },
     {
         "id": "25",
-        "title": "Z.STANICA - ZONA SEVER IV",
+        "title": "Z.stanica - Zona Sever Iv",
         "type": "BUS",
         "info": [],
         "weekday": {
@@ -6225,7 +6225,7 @@
     },
     {
         "id": "30",
-        "title": "ŽELE.STANICA - PEJIĆEVI SALAŠI",
+        "title": "Žele.stanica - Pejićevi Salaši",
         "type": "BUS",
         "info": [],
         "weekday": {
@@ -6273,7 +6273,7 @@
     },
     {
         "id": "31",
-        "title": "MAS - BAČKI JARAK",
+        "title": "Mas - Bački Jarak",
         "type": "BUS",
         "info": [
             "ĐK = ĐAČKI KOLONIJA",
@@ -6299,7 +6299,7 @@
     },
     {
         "id": "32",
-        "title": "MAS - TEMERIN",
+        "title": "Mas - Temerin",
         "type": "BUS",
         "info": [
             "AKN = OD ALBUSA KOTEKSPRO.I NEOPLANTE",
@@ -6485,7 +6485,7 @@
     },
     {
         "id": "33",
-        "title": "MAS - GOSPOĐINCI",
+        "title": "Mas - Gospođinci",
         "type": "BUS",
         "info": [
             "DT = DO TEMERINA",
@@ -6595,7 +6595,7 @@
     },
     {
         "id": "35",
-        "title": "ŽELE.STANICA - ČENEJ",
+        "title": "Žele.stanica - Čenej",
         "type": "BUS",
         "info": [
             "ČL = KROZ LIS",
@@ -6699,7 +6699,7 @@
     },
     {
         "id": "41",
-        "title": "ŽELE.STANICA - RUMENKA",
+        "title": "Žele.stanica - Rumenka",
         "type": "BUS",
         "info": [],
         "weekday": {
@@ -6773,7 +6773,7 @@
     },
     {
         "id": "42",
-        "title": "ŽELE.STANICA - KISAC",
+        "title": "Žele.stanica - Kisac",
         "type": "BUS",
         "info": [
             "KN = OD KOTEKSPROD.PORED NEOPLANTE",
@@ -6897,7 +6897,7 @@
     },
     {
         "id": "43",
-        "title": "ŽELE.STANICA - STEPANIĆEVO",
+        "title": "Žele.stanica - Stepanićevo",
         "type": "BUS",
         "info": [
             "KR = KROZ RUMENKU",
@@ -7008,7 +7008,7 @@
     },
     {
         "id": "51A",
-        "title": "Polasci za VETERNIK A",
+        "title": "Polasci Za Veternik A",
         "type": "BUS",
         "info": [
             "KS = KROZ SAJLOVO"
@@ -7057,7 +7057,7 @@
     },
     {
         "id": "51B",
-        "title": "Polasci za VETERNIK B",
+        "title": "Polasci Za Veternik B",
         "type": "BUS",
         "info": [
             "KS = KROZ SAJLOVO"
@@ -7106,7 +7106,7 @@
     },
     {
         "id": "52",
-        "title": "ŽELE.STANICA - VETERNIK",
+        "title": "Žele.stanica - Veternik",
         "type": "BUS",
         "info": [
             "SP = SAOBRACA SAMO PETKOM"
@@ -7238,7 +7238,7 @@
     },
     {
         "id": "53",
-        "title": "ŽELE.STANICA - FUTOG STARI",
+        "title": "Žele.stanica - Futog Stari",
         "type": "BUS",
         "info": [
             "CG = CENTRALNO GROBLJE"
@@ -7379,7 +7379,7 @@
     },
     {
         "id": "54",
-        "title": "ŽELE.STANICA - FUTOG(GRMEČKA)",
+        "title": "Žele.stanica - Futog(Grmečka)",
         "type": "BUS",
         "info": [
             "\"A\" = AROMA-NE SAOBRAĆA GRMEČKOM",
@@ -7480,7 +7480,7 @@
     },
     {
         "id": "55",
-        "title": "ŽELE.STANICA - FUTOG(BRAĆE BOŠNJAK)",
+        "title": "Žele.stanica - Futog(Braće Bošnjak)",
         "type": "BUS",
         "info": [
             "CG = CENTRALNO GROBLJE",
@@ -7719,7 +7719,7 @@
     },
     {
         "id": "56",
-        "title": "ŽELE.STANICA - BEGEČ",
+        "title": "Žele.stanica - Begeč",
         "type": "BUS",
         "info": [
             "C = DO CENTRA N.SADA",
@@ -7886,7 +7886,7 @@
     },
     {
         "id": "60",
-        "title": "MAS - SREMSKI KARLOVCI(BELILO II)",
+        "title": "Mas - Sremski Karlovci(Belilo Ii)",
         "type": "BUS",
         "info": [],
         "weekday": {
@@ -7915,7 +7915,7 @@
     },
     {
         "id": "61",
-        "title": "MAS - SREMSKI KARLOVCI(VINOGRDSKA)",
+        "title": "Mas - Sremski Karlovci(Vinogrdska)",
         "type": "BUS",
         "info": [
             "CĐ = KROZ CENTAR DJACKI",
@@ -8055,7 +8055,7 @@
     },
     {
         "id": "62",
-        "title": "MAS - SREMSKI KARLOVCI(DUDARA)",
+        "title": "Mas - Sremski Karlovci(Dudara)",
         "type": "BUS",
         "info": [
             "KVG = KROZ VINOGRADARSKU"
@@ -8192,7 +8192,7 @@
     },
     {
         "id": "63",
-        "title": "MAS - ČORTANOVCI",
+        "title": "Mas - Čortanovci",
         "type": "BUS",
         "info": [],
         "weekday": {
@@ -8243,7 +8243,7 @@
     },
     {
         "id": "64",
-        "title": "ŽELE.STANICA - BUKOVAC",
+        "title": "Žele.stanica - Bukovac",
         "type": "BUS",
         "info": [
             "CF = KROZ CENTAR DO FUTOSKOG STAJALISTA"
@@ -8418,7 +8418,7 @@
     },
     {
         "id": "68",
-        "title": "ŽELE.STANICA - SREMSKA KAMENICA(VOJINOVO)",
+        "title": "Žele.stanica - Sremska Kamenica(Vojinovo)",
         "type": "BUS",
         "info": [
             "IS = KROZ INSTITUT",
@@ -8481,7 +8481,7 @@
     },
     {
         "id": "69",
-        "title": "ŽELE.STANICA - SREMSKA KAMENICA(ČARDAK)",
+        "title": "Žele.stanica - Sremska Kamenica(Čardak)",
         "type": "BUS",
         "info": [
             "DJS = DJACKI PREKO MOSTA SLOBODE"
@@ -8574,7 +8574,7 @@
     },
     {
         "id": "71",
-        "title": "ŽELE.STANICA - SREMSKA KAMENICA(BOCKE)",
+        "title": "Žele.stanica - Sremska Kamenica(Bocke)",
         "type": "BUS",
         "info": [
             "Č = KROZ ČARDAK",
@@ -8767,7 +8767,7 @@
     },
     {
         "id": "72",
-        "title": "ŽELE.STANICA - SREMSKA KAMENICA(PARAGOVO)",
+        "title": "Žele.stanica - Sremska Kamenica(Paragovo)",
         "type": "BUS",
         "info": [
             "CDJ = KROZ CARDAK DJACKI",
@@ -8911,7 +8911,7 @@
     },
     {
         "id": "73",
-        "title": "ŽELE.STANICA - SREMSKA KAMENICA(MOŠINA VILA)",
+        "title": "Žele.stanica - Sremska Kamenica(Mošina Vila)",
         "type": "BUS",
         "info": [
             "IS = KROZ INSTITUT"
@@ -8960,7 +8960,7 @@
     },
     {
         "id": "74",
-        "title": "ŽELE.STANICA - SREMSKA KAMENICA(POPOVICA)",
+        "title": "Žele.stanica - Sremska Kamenica(Popovica)",
         "type": "BUS",
         "info": [
             "IS = KROZ INSTITUT"
@@ -9087,7 +9087,7 @@
     },
     {
         "id": "76",
-        "title": "ŽELE.STANICA - STARI LEDINCI",
+        "title": "Žele.stanica - Stari Ledinci",
         "type": "BUS",
         "info": [
             "NL = KROZ N.LEDINCE",
@@ -9225,7 +9225,7 @@
     },
     {
         "id": "77",
-        "title": "MAS - STARI RAKOVAC",
+        "title": "Mas - Stari Rakovac",
         "type": "BUS",
         "info": [],
         "weekday": {
@@ -9274,7 +9274,7 @@
     },
     {
         "id": "78",
-        "title": "MAS - BEOČIN SELO",
+        "title": "Mas - Beočin Selo",
         "type": "BUS",
         "info": [
             "SR = KROZ STARI RAKOVAC"
@@ -9346,7 +9346,7 @@
     },
     {
         "id": "79",
-        "title": "MAS - ČEREVIĆ",
+        "title": "Mas - Čerević",
         "type": "BUS",
         "info": [
             "BS = KROZ BEOČIN SELO",
@@ -9472,7 +9472,7 @@
     },
     {
         "id": "80",
-        "title": "MAS - BEOČIN(B.A.S.)",
+        "title": "Mas - Beočin(B.a.s.)",
         "type": "BUS",
         "info": [],
         "weekday": {
@@ -9507,7 +9507,7 @@
     },
     {
         "id": "81",
-        "title": "MAS - BANOŠTOR",
+        "title": "Mas - Banoštor",
         "type": "BUS",
         "info": [
             "DN = KROZ DUNAV NASELJE DJACKI"
@@ -9540,7 +9540,7 @@
     },
     {
         "id": "84",
-        "title": "MAS - LUG",
+        "title": "Mas - Lug",
         "type": "BUS",
         "info": [
             "DB = DO B.A.S.-A",
@@ -9613,7 +9613,7 @@
     },
     {
         "id": "86",
-        "title": "MAS - VRDNIK",
+        "title": "Mas - Vrdnik",
         "type": "BUS",
         "info": [],
         "weekday": {
