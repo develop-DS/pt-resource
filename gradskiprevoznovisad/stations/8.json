@@ -2,251 +2,292 @@
     "direction_a": [
         {
             "id": "_1",
-            "label": "NOVO NASELJE - BISTRICA - OKRETNICA",
+            "label": "Novo Naselje - Bistrica - Okretnica",
             "longitude": 19.791754249,
-            "latitude": 45.2489224745
+            "latitude": 45.2489224745,
+            "expected_arrival_seconds": 0
         },
         {
             "id": "_2",
-            "label": "BUL. KNEZA MILOŠA - DUŠANA DANILOVIĆA",
+            "label": "Bul. Kneza Miloša - Dušana Danilovića",
             "longitude": 19.7913833451,
-            "latitude": 45.2503985655
+            "latitude": 45.2503985655,
+            "expected_arrival_seconds": 72
         },
         {
             "id": "_3",
-            "label": "BUL. VOJVODE STEPE - BUL.KNEZA MILOŠA",
+            "label": "Bul. Vojvode Stepe - Bul. Kneza Miloša",
             "longitude": 19.7903530914,
-            "latitude": 45.2537969106
+            "latitude": 45.2537969106,
+            "expected_arrival_seconds": 154
         },
         {
             "id": "_4",
-            "label": "BATE BRKIĆA - GERONTOLOŠKI CENTAR",
+            "label": "Bate Brkića - Gerontološki Centar",
             "longitude": 19.7953286658,
-            "latitude": 45.2536751535
+            "latitude": 45.2536751535,
+            "expected_arrival_seconds": 239
         },
         {
             "id": "_5",
-            "label": "BUL. J. DUČIĆA - BATE BRKIĆA",
+            "label": "Bul. J. Dučića - Bate Brkića",
             "longitude": 19.7983862612,
-            "latitude": 45.2511237051
+            "latitude": 45.2511237051,
+            "expected_arrival_seconds": 307
         },
         {
             "id": "_6",
-            "label": "BUL. J. DUČIĆA - ROBNA KUĆA",
+            "label": "Bul. J. Dučića - Robna Kuća",
             "longitude": 19.8018919417,
-            "latitude": 45.2523770585
+            "latitude": 45.2523770585,
+            "expected_arrival_seconds": 369
         },
         {
             "id": "_7",
-            "label": "RAŠE RADUJKOVA - VLADIKE ĆIRIĆA",
+            "label": "Raše Radujkova - Vladike Ćirića",
             "longitude": 19.8072929653,
-            "latitude": 45.2542051645
+            "latitude": 45.2542051645,
+            "expected_arrival_seconds": 455
         },
         {
             "id": "_8",
-            "label": "HADŽI RUVIMOVA - JANKA ČMELIKA",
+            "label": "Hadži Ruvimova - Janka Čmelika",
             "longitude": 19.8145474244,
-            "latitude": 45.256618567
+            "latitude": 45.256618567,
+            "expected_arrival_seconds": 561
         },
         {
             "id": "_9",
-            "label": "HADŽI RUVIMOVA - ILIJE BIRČANINA",
+            "label": "Hadži Ruvimova - Ilije Birčanina",
             "longitude": 19.8180260671,
-            "latitude": 45.2578100769
+            "latitude": 45.2578100769,
+            "expected_arrival_seconds": 624
         },
         {
             "id": "_10",
-            "label": "KRALJA PETRA I - SAJAM",
+            "label": "Kralja Petra I - Sajam",
             "longitude": 19.8244448578,
-            "latitude": 45.2591224024
+            "latitude": 45.2591224024,
+            "expected_arrival_seconds": 711
         },
         {
             "id": "_11",
-            "label": "KRALJA PETRA I - MAŠINSKA ŠKOLA",
+            "label": "Kralja Petra I - Mašinska Škola",
             "longitude": 19.8274393446,
-            "latitude": 45.259428265
+            "latitude": 45.259428265,
+            "expected_arrival_seconds": 755
         },
         {
             "id": "_12",
-            "label": "KRALJA PETRA I - BUL. OSLOBOĐENJA",
+            "label": "Kralja Petra I - Bul. Oslobođenja",
             "longitude": 19.8329179672,
-            "latitude": 45.2607697725
+            "latitude": 45.2607697725,
+            "expected_arrival_seconds": 839
         },
         {
             "id": "_13",
-            "label": "BUL. KRALJA PETRA I - DOM ZDRAVLJA ZOV",
+            "label": "Bul. Kralja Petra I - Dom Zdravlja ZOV",
             "longitude": 19.836097904,
-            "latitude": 45.2618165848
+            "latitude": 45.2618165848,
+            "expected_arrival_seconds": 903
         },
         {
             "id": "_14",
-            "label": "KISAČKA - BUL. KRALJA PETRA I",
+            "label": "Kisačka - Bul. Kralja Petra I",
             "longitude": 19.8401023551,
-            "latitude": 45.2623699914
+            "latitude": 45.2623699914,
+            "expected_arrival_seconds": 974
         },
         {
             "id": "_15",
-            "label": "KISAČKA - VUKA KARADŽIĆA",
+            "label": "Kisačka - Vuka Karadžića",
             "longitude": 19.8420940143,
-            "latitude": 45.2609612857
+            "latitude": 45.2609612857,
+            "expected_arrival_seconds": 1046
         },
         {
             "id": "_16",
-            "label": "USPENSKA - ŠAFARIKOVA",
+            "label": "Uspenska - Šafarikova",
             "longitude": 19.8416504854,
-            "latitude": 45.255203707
+            "latitude": 45.255203707,
+            "expected_arrival_seconds": 1130
         },
         {
             "id": "_17",
-            "label": "BUL. MIHAJLA PUPINA - POTHODNIK",
+            "label": "Bul. Mihajla Pupina - Pothodnik",
             "longitude": 19.844187,
-            "latitude": 45.253337
+            "latitude": 45.253337,
+            "expected_arrival_seconds": 1192
         },
         {
             "id": "_18",
-            "label": "ŽARKA ZRENJANINA - OPŠTINA",
+            "label": "Žarka Zrenjanina - Opština",
             "longitude": 19.8471827488,
-            "latitude": 45.2524025428
+            "latitude": 45.2524025428,
+            "expected_arrival_seconds": 1258
         },
         {
             "id": "_19",
-            "label": "BUL. CARA LAZARA - URBIS",
+            "label": "Bul. Cara Lazara - Urbis",
             "longitude": 19.8488525074,
-            "latitude": 45.2474414598
+            "latitude": 45.2474414598,
+            "expected_arrival_seconds": 1365
         },
         {
             "id": "_20",
-            "label": "FRUŠKOGORSKA - NARODNOG FRONTA",
+            "label": "Fruškogorska - Narodnog Fronta",
             "longitude": 19.8475310279,
-            "latitude": 45.2420582997
+            "latitude": 45.2420582997,
+            "expected_arrival_seconds": 1478
         },
         {
             "id": "_21",
-            "label": "ŠTRAND - OKRETNICA",
+            "label": "Štrand - Okretnica",
             "longitude": 19.84777609,
-            "latitude": 45.2386999087
+            "latitude": 45.2386999087,
+            "expected_arrival_seconds": 1558
         }
     ],
     "direction_b": [
         {
-            "label": "USPENSKA - POZORIŠNI TRG",
-            "longitude": 19.8419960985,
-            "latitude": 45.255185246,
-            "id": "_6"
-        },
-        {
-            "label": "BUL. J. DUČIĆA - BUL. S. JOVANOVIĆA",
-            "longitude": 19.8031021067,
-            "latitude": 45.2529483166,
-            "id": "_16"
-        },
-        {
-            "label": "BUL. J. DUČIĆA - BRAĆE DRONJAK",
-            "longitude": 19.7983752275,
-            "latitude": 45.2513539058,
-            "id": "_17"
-        },
-        {
-            "label": "NOVO NASELJE - BISTRICA - OKRETNICA",
-            "longitude": 19.7915144259,
-            "latitude": 45.2489713023,
-            "id": "_20"
-        },
-        {
-            "label": "STRAŽILOVSKA - URBIS",
-            "longitude": 19.8492059684,
-            "latitude": 45.2481301777,
-            "id": "_3"
-        },
-        {
-            "label": "BUL .KRALJA PETRA I - GROBLJE",
-            "longitude": 19.8263471168,
-            "latitude": 45.2595168963,
-            "id": "_11"
-        },
-        {
-            "label": "BUL. MIHAJLA PUPINA - POTHODNIK",
-            "longitude": 19.844141,
-            "latitude": 45.253519,
-            "id": "_5"
-        },
-        {
-            "label": "BUL .KRALJA PETRA I - BUL. OSLOBOĐENJA",
-            "longitude": 19.8314132035,
-            "latitude": 45.2605767651,
-            "id": "_10"
-        },
-        {
-            "label": "ŽARKA ZRENJANINA - IZVRŠNO VEĆE",
-            "longitude": 19.8475593745,
-            "latitude": 45.2528535063,
-            "id": "_4"
-        },
-        {
-            "label": "ŠTRAND - OKRETNICA",
+            "id": "_1",
+            "label": "Štrand - Okretnica",
             "longitude": 19.848256,
             "latitude": 45.239001,
-            "id": "_1"
+            "expected_arrival_seconds": 0
         },
         {
-            "label": "FRUŠKOGORSKA - DR. I. ĐURIČIĆA",
+            "id": "_2",
+            "label": "Fruškogorska - Dr. I. Đuričića",
             "longitude": 19.847528317,
             "latitude": 45.2429842112,
-            "id": "_2"
+            "expected_arrival_seconds": 69
         },
         {
-            "label": "BATE BRKIĆA - GERONTOLOŠKI CENTAR",
-            "longitude": 19.7950461743,
-            "latitude": 45.2543785923,
-            "id": "_18"
+            "id": "_3",
+            "label": "Stražilovska - Urbis",
+            "longitude": 19.8492059684,
+            "latitude": 45.2481301777,
+            "expected_arrival_seconds": 152
         },
         {
-            "label": "BUL. KNEZA MILOŠA - MILEVE MARIĆ",
-            "longitude": 19.7902083832,
-            "latitude": 45.2518458292,
-            "id": "_19"
+            "id": "_4",
+            "label": "Žarka Zrenjanina - Izvršno Veće",
+            "longitude": 19.8475593745,
+            "latitude": 45.2528535063,
+            "expected_arrival_seconds": 229
         },
         {
-            "label": "KISAČKA - TEMERINSKA",
+            "id": "_5",
+            "label": "Bul. Mihajla Pupina - Pothodnik",
+            "longitude": 19.844141,
+            "latitude": 45.253519,
+            "expected_arrival_seconds": 296
+        },
+        {
+            "id": "_6",
+            "label": "Uspenska - Pozorišni Trg",
+            "longitude": 19.8419960985,
+            "latitude": 45.255185246,
+            "expected_arrival_seconds": 363
+        },
+        {
+            "id": "_7",
+            "label": "Kisačka - Temerinska",
             "longitude": 19.8423966225,
             "latitude": 45.2608711975,
-            "id": "_7"
+            "expected_arrival_seconds": 462
         },
         {
-            "label": "BRAĆE POPOVIĆ - RUMENAČKA",
-            "longitude": 19.821789798,
-            "latitude": 45.2590354052,
-            "id": "_12"
-        },
-        {
-            "label": "HADŽI RUVIMOVA - ILIJE BIRČANINA",
-            "longitude": 19.81692892,
-            "latitude": 45.2576529346,
-            "id": "_13"
-        },
-        {
-            "label": "HADŽI RUVIMOVA - JANKA ČMELIKA",
-            "longitude": 19.8135561249,
-            "latitude": 45.2565030038,
-            "id": "_14"
-        },
-        {
-            "label": "RAŠE RADUJKOVA - STOJANA NOVAKOVIĆA",
-            "longitude": 19.8064282878,
-            "latitude": 45.2540476132,
-            "id": "_15"
-        },
-        {
-            "label": "BUL. KRALJA PETRA I - KISAČKA",
+            "id": "_8",
+            "label": "Bul. Kralja Petra I - Kisačka",
             "longitude": 19.8390400612,
             "latitude": 45.2626605142,
-            "id": "_8"
+            "expected_arrival_seconds": 526
         },
         {
-            "label": "BUL. KRALJA PETRA I - KRALJEVIĆA MARKA",
+            "id": "_9",
+            "label": "Bul. Kralja Petra I - Kraljevića Marka",
             "longitude": 19.8351798744,
             "latitude": 45.2616127597,
-            "id": "_9"
+            "expected_arrival_seconds": 593
+        },
+        {
+            "id": "_10",
+            "label": "Bul. Kralja Petra I - Bul. Oslobođenja",
+            "longitude": 19.8314132035,
+            "latitude": 45.2605767651,
+            "expected_arrival_seconds": 658
+        },
+        {
+            "id": "_11",
+            "label": "Bul. Kralja Petra I - Groblje",
+            "longitude": 19.8263471168,
+            "latitude": 45.2595168963,
+            "expected_arrival_seconds": 737
+        },
+        {
+            "id": "_12",
+            "label": "Braće Popović - Rumenačka",
+            "longitude": 19.821789798,
+            "latitude": 45.2590354052,
+            "expected_arrival_seconds": 822
+        },
+        {
+            "id": "_13",
+            "label": "Hadži Ruvimova - Ilije Birčanina",
+            "longitude": 19.81692892,
+            "latitude": 45.2576529346,
+            "expected_arrival_seconds": 914
+        },
+        {
+            "id": "_14",
+            "label": "Hadži Ruvimova - Janka Čmelika",
+            "longitude": 19.8135561249,
+            "latitude": 45.2565030038,
+            "expected_arrival_seconds": 978
+        },
+        {
+            "id": "_15",
+            "label": "Raše Radujkova - Stojana Novakovića",
+            "longitude": 19.8064282878,
+            "latitude": 45.2540476132,
+            "expected_arrival_seconds": 1065
+        },
+        {
+            "id": "_16",
+            "label": "Bul. J. Dučića - Bul. S. Jovanovića",
+            "longitude": 19.8031021067,
+            "latitude": 45.2529483166,
+            "expected_arrival_seconds": 1125
+        },
+        {
+            "id": "_17",
+            "label": "Bul. J. Dučića - Braće Dronjak",
+            "longitude": 19.7983752275,
+            "latitude": 45.2513539058,
+            "expected_arrival_seconds": 1196
+        },
+        {
+            "id": "_18",
+            "label": "Bate Brkića - Gerontološki Centar",
+            "longitude": 19.7950461743,
+            "latitude": 45.2543785923,
+            "expected_arrival_seconds": 1278
+        },
+        {
+            "id": "_19",
+            "label": "Bul. Kneza Miloša - Mileve Marić",
+            "longitude": 19.7902083832,
+            "latitude": 45.2518458292,
+            "expected_arrival_seconds": 1364
+        },
+        {
+            "id": "_20",
+            "label": "Novo Naselje - Bistrica - Okretnica",
+            "longitude": 19.7915144259,
+            "latitude": 45.2489713023,
+            "expected_arrival_seconds": 1442
         }
     ]
 }

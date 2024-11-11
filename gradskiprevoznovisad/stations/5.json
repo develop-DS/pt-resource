@@ -1,282 +1,328 @@
 {
     "direction_a": [
         {
-            "id": "_13",
-            "label": "USPENSKA - ŠAFARIKOVA",
-            "longitude": 19.8414877223,
-            "latitude": 45.2554480126
-        },
-        {
-            "id": "_18",
-            "label": "RUMENAČKA - DOM ZDRAVLJA",
-            "longitude": 19.8213763649,
-            "latitude": 45.260450059
-        },
-        {
-            "id": "_19",
-            "label": "RUMENAČKA - BUL. JAŠE TOMIĆA",
-            "longitude": 19.8182127414,
-            "latitude": 45.2633439588
-        },
-        {
-            "id": "_14",
-            "label": "BUL. OSLOBOĐENJA - FUTOŠKA PIJACA",
-            "longitude": 19.8368000824,
-            "latitude": 45.2525198464
-        },
-        {
-            "id": "_20",
-            "label": "RUMENAČKA - RADNIČKO IGRALIŠTE",
-            "longitude": 19.8148147237,
-            "latitude": 45.2660444179
-        },
-        {
-            "id": "_21",
-            "label": "RUMENAČKI PUT - BENZINSKA PUMPA",
-            "longitude": 19.8121474846,
-            "latitude": 45.2681204351
-        },
-        {
-            "id": "_22",
-            "label": "AVIJATIČARSKA - RUMENAČKI PUT",
-            "longitude": 19.80785211,
-            "latitude": 45.2704064001
-        },
-        {
-            "id": "_23",
-            "label": "AVIJATIČARSKA - KASARNA - OKRETNICA",
-            "longitude": 19.8051343851,
-            "latitude": 45.2664847055
-        },
-        {
             "id": "_1",
-            "label": "TEMERINSKI PUT - NADVOŽNJAK - OKRETNICA",
+            "label": "Temerinski put - nadvožnjak - okretnica",
             "longitude": 19.8302754549,
-            "latitude": 45.3023192227
+            "latitude": 45.3023192227,
+            "expected_arrival_seconds": 0
         },
         {
             "id": "_2",
-            "label": "TEMERINSKI PUT - SAVSKA",
+            "label": "Temerinski put - Savska",
             "longitude": 19.8304360891,
-            "latitude": 45.2993083361
+            "latitude": 45.2993083361,
+            "expected_arrival_seconds": 69
         },
         {
             "id": "_3",
-            "label": "TEMERINSKI PUT - VELEBITSKA",
+            "label": "Temerinski put - Velebitska",
             "longitude": 19.8304491318,
-            "latitude": 45.2957648457
+            "latitude": 45.2957648457,
+            "expected_arrival_seconds": 137
         },
         {
             "id": "_4",
-            "label": "TEMERINSKI PUT - PAJE RADOSAVLJEVA",
+            "label": "Temerinski put - Paje Radosavljeva",
             "longitude": 19.8304941804,
-            "latitude": 45.2933241684
+            "latitude": 45.2933241684,
+            "expected_arrival_seconds": 195
         },
         {
             "id": "_5",
-            "label": "TEMERINSKI PUT - MAJKE JUGOVIĆA",
+            "label": "Temerinski put - Majke Jugovića",
             "longitude": 19.8305011638,
-            "latitude": 45.2906889242
+            "latitude": 45.2906889242,
+            "expected_arrival_seconds": 258
         },
         {
             "id": "_6",
-            "label": "TEMERINSKI PUT - OTOKARA KERŠOVANIJA",
+            "label": "Temerinski put - Otokara Keršovanija",
             "longitude": 19.8317289762,
-            "latitude": 45.2880777199
+            "latitude": 45.2880777199,
+            "expected_arrival_seconds": 326
         },
         {
             "id": "_7",
-            "label": "TEMERINSKA - NAJLON PIJACA",
+            "label": "Temerinska - Najlon pijaca",
             "longitude": 19.8346922664,
-            "latitude": 45.2828756397
+            "latitude": 45.2828756397,
+            "expected_arrival_seconds": 456
         },
         {
             "id": "_8",
-            "label": "TEMERINSKA - VIDOVDANSKO NASELJE",
+            "label": "Temerinska - Vidovdansko naselje",
             "longitude": 19.8363835969,
-            "latitude": 45.2802317297
+            "latitude": 45.2802317297,
+            "expected_arrival_seconds": 526
         },
         {
             "id": "_9",
-            "label": "TEMERINSKA - ŠAJKAŠKA",
+            "label": "Temerinska - Šajkaška",
             "longitude": 19.8411205686,
-            "latitude": 45.2725760616
+            "latitude": 45.2725760616,
+            "expected_arrival_seconds": 695
         },
         {
             "id": "_10",
-            "label": "TEMERINSKA - PARTIZANSKA",
+            "label": "Temerinska - Partizanska",
             "longitude": 19.8421271396,
-            "latitude": 45.2696690854
+            "latitude": 45.2696690854,
+            "expected_arrival_seconds": 761
         },
         {
             "id": "_11",
-            "label": "TEMERINSKA - KOSTE ŠOKICE",
+            "label": "Temerinska - Koste Šokice",
             "longitude": 19.8430703993,
-            "latitude": 45.2673052212
+            "latitude": 45.2673052212,
+            "expected_arrival_seconds": 835
         },
         {
             "id": "_12",
-            "label": "TEMERINSKA - PIJACA",
+            "label": "Temerinska - Pijaca",
             "longitude": 19.8435652321,
-            "latitude": 45.2621466908
+            "latitude": 45.2621466908,
+            "expected_arrival_seconds": 977
+        },
+        {
+            "id": "_13",
+            "label": "Uspenska - Šafarikova",
+            "longitude": 19.8414877223,
+            "latitude": 45.2554480126,
+            "expected_arrival_seconds": 1178
+        },
+        {
+            "id": "_14",
+            "label": "Bul. oslobođenja - Futoška pijaca",
+            "longitude": 19.8368000824,
+            "latitude": 45.2525198464,
+            "expected_arrival_seconds": 1302
         },
         {
             "id": "_15",
-            "label": "NOVOSADSKOG SAJMA - BUL.OSLOBOĐENJA",
+            "label": "Novosadskog sajma - Bul. oslobođenja",
             "longitude": 19.8339511487,
-            "latitude": 45.2551283388
+            "latitude": 45.2551283388,
+            "expected_arrival_seconds": 1381
         },
         {
             "id": "_16",
-            "label": "NOVOSADSKOG SAJMA -O.Š. PETEFI ŠANDOR",
+            "label": "Novosadskog sajma - O.Š. Petefi Šandor",
             "longitude": 19.8300945566,
-            "latitude": 45.2547426103
+            "latitude": 45.2547426103,
+            "expected_arrival_seconds": 1528
         },
         {
             "id": "_17",
-            "label": "HAJDUK VELJKOVA - NOVOSADSKOG SAJMA",
+            "label": "Hajduk Veljkova - Novosadskog sajma",
             "longitude": 19.8244393678,
-            "latitude": 45.2545639152
+            "latitude": 45.2545639152,
+            "expected_arrival_seconds": 1703
+        },
+        {
+            "id": "_18",
+            "label": "Rumenačka - Dom zdravlja",
+            "longitude": 19.8213763649,
+            "latitude": 45.260450059,
+            "expected_arrival_seconds": 1813
+        },
+        {
+            "id": "_19",
+            "label": "Rumenačka - Bul. Jaše Tomića",
+            "longitude": 19.8182127414,
+            "latitude": 45.2633439588,
+            "expected_arrival_seconds": 1910
+        },
+        {
+            "id": "_20",
+            "label": "Rumenačka - Radničko igralište",
+            "longitude": 19.8148147237,
+            "latitude": 45.2660444179,
+            "expected_arrival_seconds": 2012
+        },
+        {
+            "id": "_21",
+            "label": "Rumenački put - Benzinska pumpa",
+            "longitude": 19.8121474846,
+            "latitude": 45.2681204351,
+            "expected_arrival_seconds": 2099
+        },
+        {
+            "id": "_22",
+            "label": "Avijatičarska - Rumenački put",
+            "longitude": 19.80785211,
+            "latitude": 45.2704064001,
+            "expected_arrival_seconds": 2235
+        },
+        {
+            "id": "_23",
+            "label": "Avijatičarska - Kasarna - Okretnica",
+            "longitude": 19.8051343851,
+            "latitude": 45.2664847055,
+            "expected_arrival_seconds": 2362
         }
     ],
     "direction_b": [
         {
-            "label": "USPENSKA - USPENSKA CRKVA",
-            "longitude": 19.8418302098,
-            "latitude": 45.2554755764,
-            "id": "_10"
-        },
-        {
-            "label": "RUMENAČKA - KORNELIJA STANKOVIĆA",
-            "longitude": 19.8174016008,
-            "latitude": 45.2636389127,
-            "id": "_4"
-        },
-        {
-            "label": "RUMENAČKA - ABC SAMOPOSLUGA",
-            "longitude": 19.8204896166,
-            "latitude": 45.2609008436,
-            "id": "_5"
-        },
-        {
-            "label": "BUL. OSLOBOÐENJA - NOVOSADSKOG SAJMA",
-            "longitude": 19.8353175469,
-            "latitude": 45.2545506888,
-            "id": "_9"
-        },
-        {
-            "label": "AVIJATIČARSKA - KASARNA - OKRETNICA",
+            "id": "_1",
+            "label": "Avijatičarska - Kasarna - Okretnica",
             "longitude": 19.8051343851,
             "latitude": 45.2664847055,
-            "id": "_1"
+            "expected_arrival_seconds": 0
         },
         {
-            "label": "RUMENAČKI PUT - AVIJATIČARSKA",
+            "id": "_2",
+            "label": "Rumenački put - Avijatičarska",
             "longitude": 19.8089150153,
             "latitude": 45.2702133075,
-            "id": "_2"
+            "expected_arrival_seconds": 120
         },
         {
-            "label": "RUMENAČKA - POLICIJSKA STANICA",
+            "id": "_3",
+            "label": "Rumenačka - Policijska stanica",
             "longitude": 19.8130603695,
             "latitude": 45.2670846403,
-            "id": "_3"
+            "expected_arrival_seconds": 256
         },
         {
-            "label": "TEMERINSKA - TRG MARIJE TRANDAFIL",
-            "longitude": 19.8431916148,
-            "latitude": 45.2610079188,
-            "id": "_11"
+            "id": "_4",
+            "label": "Rumenačka - Kornelija Stankovića",
+            "longitude": 19.8174016008,
+            "latitude": 45.2636389127,
+            "expected_arrival_seconds": 394
         },
         {
-            "label": "TEMERINSKA - GUNDULIĆEVA",
-            "longitude": 19.8438347072,
-            "latitude": 45.264154136,
-            "id": "_12"
+            "id": "_5",
+            "label": "Rumenačka - ABC Samoposluga",
+            "longitude": 19.8204896166,
+            "latitude": 45.2609008436,
+            "expected_arrival_seconds": 482
         },
         {
-            "label": "TEMERINSKA - PATRIJARHA ČARNOJEVIĆA",
-            "longitude": 19.8433774932,
-            "latitude": 45.2669400366,
-            "id": "_13"
-        },
-        {
-            "label": "TEMERINSKA - PUT ŠAJKAŠKOG ODREDA",
-            "longitude": 19.8419173482,
-            "latitude": 45.2710086836,
-            "id": "_14"
-        },
-        {
-            "label": "SENTANDREJSKI PUT - MOST KANAL DTD",
-            "longitude": 19.8410463411,
-            "latitude": 45.2733137159,
-            "id": "_15"
-        },
-        {
-            "label": "TEMERINSKA - VIDOVDANSKO NASELJE",
-            "longitude": 19.8361991299,
-            "latitude": 45.2809013055,
-            "id": "_16"
-        },
-        {
-            "label": "TEMERINSKA - NAJLON PIJACA",
-            "longitude": 19.8345314956,
-            "latitude": 45.2835133286,
-            "id": "_17"
-        },
-        {
-            "label": "TEMERINSKI PUT - OTOKARA KERŠOVANIJA",
-            "longitude": 19.8316979215,
-            "latitude": 45.2887458333,
-            "id": "_18"
-        },
-        {
-            "label": "TEMERINSKI PUT - MAJKE JUGOVIĆA",
-            "longitude": 19.8307752397,
-            "latitude": 45.2910920332,
-            "id": "_19"
-        },
-        {
-            "label": "TEMERINSKI PUT - PAJE RADOSAVLJEVA",
-            "longitude": 19.8307538038,
-            "latitude": 45.2941004442,
-            "id": "_20"
-        },
-        {
-            "label": "TEMERINSKI PUT - DEČANSKA",
-            "longitude": 19.830743315,
-            "latitude": 45.2964910099,
-            "id": "_21"
-        },
-        {
-            "label": "TEMERINSKI PUT - SAVSKA",
-            "longitude": 19.8305569794,
-            "latitude": 45.3002863203,
-            "id": "_22"
-        },
-        {
-            "label": "TEMERINSKI PUT - NADVOŽNJAK - OKRETNICA",
-            "longitude": 19.8302754549,
-            "latitude": 45.3023192227,
-            "id": "_23"
-        },
-        {
-            "label": "HAJDUK VELJKOVA - SAJAM",
+            "id": "_6",
+            "label": "Hajduk Veljkova - Sajam",
             "longitude": 19.8241177466,
             "latitude": 45.2569093044,
-            "id": "_6"
+            "expected_arrival_seconds": 593
         },
         {
-            "label": "NOVOSADSKOG SAJMA - BAZENI",
+            "id": "_7",
+            "label": "Novosadskog sajma - Bazeni",
             "longitude": 19.8248078801,
             "latitude": 45.2541117451,
-            "id": "_7"
+            "expected_arrival_seconds": 652
         },
         {
-            "label": "NOVOSADSKOG SAJMA -O.Š. PETEFI FANDOR",
+            "id": "_8",
+            "label": "Novosadskog sajma - O.Š. Petefi Šandor",
             "longitude": 19.8309370182,
             "latitude": 45.2547956381,
-            "id": "_8"
+            "expected_arrival_seconds": 828
+        },
+        {
+            "id": "_9",
+            "label": "Bul. Oslobođenja - Novosadskog sajma",
+            "longitude": 19.8353175469,
+            "latitude": 45.2545506888,
+            "expected_arrival_seconds": 919
+        },
+        {
+            "id": "_10",
+            "label": "Uspenska - Uspenska crkva",
+            "longitude": 19.8418302098,
+            "latitude": 45.2554755764,
+            "expected_arrival_seconds": 1090
+        },
+        {
+            "id": "_11",
+            "label": "Temerinska - Trg Marije Trandafil",
+            "longitude": 19.8431916148,
+            "latitude": 45.2610079188,
+            "expected_arrival_seconds": 1257
+        },
+        {
+            "id": "_12",
+            "label": "Temerinska - Gundulićeva",
+            "longitude": 19.8438347072,
+            "latitude": 45.264154136,
+            "expected_arrival_seconds": 1344
+        },
+        {
+            "id": "_13",
+            "label": "Temerinska - Patrijarha Čarnojevića",
+            "longitude": 19.8433774932,
+            "latitude": 45.2669400366,
+            "expected_arrival_seconds": 1434
+        },
+        {
+            "id": "_14",
+            "label": "Temerinska - Put Šajkaškog Odreda",
+            "longitude": 19.8419173482,
+            "latitude": 45.2710086836,
+            "expected_arrival_seconds": 1557
+        },
+        {
+            "id": "_15",
+            "label": "Sentandrejski put - Most kanal DTD",
+            "longitude": 19.8410463411,
+            "latitude": 45.2733137159,
+            "expected_arrival_seconds": 1638
+        },
+        {
+            "id": "_16",
+            "label": "Temerinska - Vidovdansko naselje",
+            "longitude": 19.8361991299,
+            "latitude": 45.2809013055,
+            "expected_arrival_seconds": 1810
+        },
+        {
+            "id": "_17",
+            "label": "Temerinska - Najlon pijaca",
+            "longitude": 19.8345314956,
+            "latitude": 45.2835133286,
+            "expected_arrival_seconds": 1902
+        },
+        {
+            "id": "_18",
+            "label": "Temerinski put - Otokara Keršovanija",
+            "longitude": 19.8316979215,
+            "latitude": 45.2887458333,
+            "expected_arrival_seconds": 2045
+        },
+        {
+            "id": "_19",
+            "label": "Temerinski put - Majke Jugovića",
+            "longitude": 19.8307752397,
+            "latitude": 45.2910920332,
+            "expected_arrival_seconds": 2135
+        },
+        {
+            "id": "_20",
+            "label": "Temerinski put - Paje Radosavljeva",
+            "longitude": 19.8307538038,
+            "latitude": 45.2941004442,
+            "expected_arrival_seconds": 2228
+        },
+        {
+            "id": "_21",
+            "label": "Temerinski put - Dečanska",
+            "longitude": 19.830743315,
+            "latitude": 45.2964910099,
+            "expected_arrival_seconds": 2309
+        },
+        {
+            "id": "_22",
+            "label": "Temerinski put - Savska",
+            "longitude": 19.8305569794,
+            "latitude": 45.3002863203,
+            "expected_arrival_seconds": 2426
+        },
+        {
+            "id": "_23",
+            "label": "Temerinski put - nadvožnjak - okretnica",
+            "longitude": 19.8302754549,
+            "latitude": 45.3023192227,
+            "expected_arrival_seconds": 2510
         }
     ]
 }
