@@ -1,126 +1,146 @@
 {
     "direction_a": [
         {
-            "id": "_5",
-            "label": "BUL. MIHAJLA PUPINA - POTHODNIK",
-            "longitude": 19.844187,
-            "latitude": 45.253337
-        },
-        {
-            "id": "_6",
-            "label": "BUL. MIHAJLA PUPINA - SONJE MARINKOVIĆ",
-            "longitude": 19.8530960428,
-            "latitude": 45.2542765403
-        },
-        {
-            "id": "_7",
-            "label": "BEOGRADSKA - LISINSKOG",
-            "longitude": 19.8620128358,
-            "latitude": 45.2547734365
-        },
-        {
-            "id": "_8",
-            "label": "PRERADOVIĆEVA - LOVAČKI DOM",
-            "longitude": 19.8678103709,
-            "latitude": 45.2525866389
-        },
-        {
-            "id": "_9",
-            "label": "PRERADOVIĆEVA - O.Š. JOVAN DUČIĆ",
-            "longitude": 19.8727083512,
-            "latitude": 45.2516407374
-        },
-        {
-            "id": "_3",
-            "label": "BUL. OSLOBOÐENJA - NOVOSADSKOG SAJMA",
-            "longitude": 19.8353175469,
-            "latitude": 45.2545506888
-        },
-        {
-            "id": "_4",
-            "label": "JEVREJSKA - BUL. OSLOBOĐENJA",
-            "longitude": 19.8377609655,
-            "latitude": 45.2522080286
+            "id": "_1",
+            "label": "Železnička Stanica",
+            "longitude": 19.8295879176,
+            "latitude": 45.264478508,
+            "expected_arrival_seconds": 0
         },
         {
             "id": "_2",
-            "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
+            "label": "Bul. Oslobođenja - Kralja Petra I",
             "longitude": 19.8322222835,
-            "latitude": 45.2601777537
+            "latitude": 45.2601777537,
+            "expected_arrival_seconds": 107
         },
         {
-            "id": "_1",
-            "label": "ŽELEZNIČKA STANICA",
-            "longitude": 19.8295879176,
-            "latitude": 45.264478508
+            "id": "_3",
+            "label": "Bul. Oslobođenja - Novosadskog Sajma",
+            "longitude": 19.8353175469,
+            "latitude": 45.2545506888,
+            "expected_arrival_seconds": 233
+        },
+        {
+            "id": "_4",
+            "label": "Jevrejska - Bul. Oslobođenja",
+            "longitude": 19.8377609655,
+            "latitude": 45.2522080286,
+            "expected_arrival_seconds": 317
+        },
+        {
+            "id": "_5",
+            "label": "Bul. Mihajla Pupina - Pothodnik",
+            "longitude": 19.844187,
+            "latitude": 45.253337,
+            "expected_arrival_seconds": 424
+        },
+        {
+            "id": "_6",
+            "label": "Bul. Mihajla Pupina - Sonje Marinković",
+            "longitude": 19.8530960428,
+            "latitude": 45.2542765403,
+            "expected_arrival_seconds": 554
+        },
+        {
+            "id": "_7",
+            "label": "Beogradska - Lisinskog",
+            "longitude": 19.8620128358,
+            "latitude": 45.2547734365,
+            "expected_arrival_seconds": 683
+        },
+        {
+            "id": "_8",
+            "label": "Preradovićeva - Lovački Dom",
+            "longitude": 19.8678103709,
+            "latitude": 45.2525866389,
+            "expected_arrival_seconds": 789
+        },
+        {
+            "id": "_9",
+            "label": "Preradovićeva - O.Š. Jovan Dučić",
+            "longitude": 19.8727083512,
+            "latitude": 45.2516407374,
+            "expected_arrival_seconds": 882
         },
         {
             "id": "_10",
-            "label": "POBEDA",
+            "label": "Pobeda",
             "longitude": 19.887341,
-            "latitude": 45.246386
+            "latitude": 45.246386,
+            "expected_arrival_seconds": 1081
         }
     ],
     "direction_b": [
         {
-            "id": "_7",
-            "label": "BUL. MIHAJLA PUPINA - POTHODNIK",
-            "longitude": 19.844141,
-            "latitude": 45.253519
+            "id": "_1",
+            "label": "Pobeda",
+            "longitude": 19.887341,
+            "latitude": 45.246386,
+            "expected_arrival_seconds": 0
         },
         {
             "id": "_2",
-            "label": "PRERADOVIĆEVA - BENZINSKA PUMPA",
+            "label": "Preradovićeva - Benzinska Pumpa",
             "longitude": 19.8757045697,
-            "latitude": 45.2496755784
+            "latitude": 45.2496755784,
+            "expected_arrival_seconds": 163
         },
         {
             "id": "_3",
-            "label": "PRERADOVIĆEVA - ŠENOINA",
+            "label": "Preradovićeva - Šenoina",
             "longitude": 19.8732154355,
-            "latitude": 45.251431704
+            "latitude": 45.251431704,
+            "expected_arrival_seconds": 241
         },
         {
             "id": "_4",
-            "label": "PRERADOVIĆEVA - LOVAČKI DOM",
+            "label": "Preradovićeva - Lovački Dom",
             "longitude": 19.8689433116,
-            "latitude": 45.2526031657
+            "latitude": 45.2526031657,
+            "expected_arrival_seconds": 329
         },
         {
             "id": "_5",
-            "label": "BEOGRADSKA - VLADIMIRA NAZORA",
+            "label": "Beogradska - Vladimira Nazora",
             "longitude": 19.8623634945,
-            "latitude": 45.2548163902
-        },
-        {
-            "id": "_8",
-            "label": "BUL. OSLOBOĐENJA - FUTOŠKA PIJACA",
-            "longitude": 19.8368000824,
-            "latitude": 45.2525198464
-        },
-        {
-            "id": "_9",
-            "label": "BUL. OSLOBOĐENJA - POKRAJINSKI SUP",
-            "longitude": 19.8351029309,
-            "latitude": 45.255629856
-        },
-        {
-            "id": "_10",
-            "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
-            "longitude": 19.8318492939,
-            "latitude": 45.2613766166
+            "latitude": 45.2548163902,
+            "expected_arrival_seconds": 442
         },
         {
             "id": "_6",
-            "label": "BUL. MIHAJLA PUPINA - DUNAVSKI PARK",
+            "label": "Bul. Mihajla Pupina - Dunavski Park",
             "longitude": 19.8519122087,
-            "latitude": 45.2542020579
+            "latitude": 45.2542020579,
+            "expected_arrival_seconds": 586
         },
         {
-            "id": "_1",
-            "label": "POBEDA",
-            "longitude": 19.887341,
-            "latitude": 45.246386
+            "id": "_7",
+            "label": "Bul. Mihajla Pupina - Pothodnik",
+            "longitude": 19.844141,
+            "latitude": 45.253519,
+            "expected_arrival_seconds": 705
+        },
+        {
+            "id": "_8",
+            "label": "Bul. Oslobođenja - Futoška Pijaca",
+            "longitude": 19.8368000824,
+            "latitude": 45.2525198464,
+            "expected_arrival_seconds": 820
+        },
+        {
+            "id": "_9",
+            "label": "Bul. Oslobođenja - Pokrajinski SUP",
+            "longitude": 19.8351029309,
+            "latitude": 45.255629856,
+            "expected_arrival_seconds": 909
+        },
+        {
+            "id": "_10",
+            "label": "Bul. Oslobođenja - Kralja Petra I",
+            "longitude": 19.8318492939,
+            "latitude": 45.2613766166,
+            "expected_arrival_seconds": 1037
         }
     ]
 }

@@ -1,162 +1,188 @@
 {
     "direction_a": [
         {
-            "id": "_7",
-            "label": "STRAŽILOVSKA - URBIS",
-            "longitude": 19.8492059684,
-            "latitude": 45.2481301777
+            "id": "_1",
+            "label": "Narodnog Fronta - Ive Andrića",
+            "longitude": 19.8262756442,
+            "latitude": 45.2371046813,
+            "expected_arrival_seconds": 0
         },
         {
             "id": "_2",
-            "label": "NARODNOG FRONTA - IVE ANDRIĆA",
+            "label": "Narodnog Fronta - Ive Andrića",
             "longitude": 19.8276347235,
-            "latitude": 45.2373436138
-        },
-        {
-            "id": "_9",
-            "label": "BUL. MIHAJLA PUPINA - POTHODNIK",
-            "longitude": 19.844141,
-            "latitude": 45.253519
-        },
-        {
-            "id": "_8",
-            "label": "ŽARKA ZRENJANINA - IZVRŠNO VEĆE",
-            "longitude": 19.8475593745,
-            "latitude": 45.2528535063
+            "latitude": 45.2373436138,
+            "expected_arrival_seconds": 58
         },
         {
             "id": "_3",
-            "label": "NARODNOG FRONTA - BALZAKOVA",
+            "label": "Narodnog Fronta - Balzakova",
             "longitude": 19.833210388,
-            "latitude": 45.2388659784
+            "latitude": 45.2388659784,
+            "expected_arrival_seconds": 159
         },
         {
             "id": "_4",
-            "label": "NARODNOG FRONTA - ŠEKSPIROVA",
+            "label": "Narodnog Fronta - Šekspirova",
             "longitude": 19.8384767147,
-            "latitude": 45.2403689153
+            "latitude": 45.2403689153,
+            "expected_arrival_seconds": 258
         },
         {
             "id": "_5",
-            "label": "NARODNOG FRONTA - BUL. OSLOBOĐENJA",
+            "label": "Narodnog Fronta - Bul. Oslobođenja",
             "longitude": 19.843435786,
-            "latitude": 45.2417640206
+            "latitude": 45.2417640206,
+            "expected_arrival_seconds": 353
         },
         {
             "id": "_6",
-            "label": "FRUŠKOGORSKA - DR. I. ĐURIČIĆA",
+            "label": "Fruškogorska - Dr. I. Đuričića",
             "longitude": 19.847528317,
-            "latitude": 45.2429842112
+            "latitude": 45.2429842112,
+            "expected_arrival_seconds": 440
+        },
+        {
+            "id": "_7",
+            "label": "Stražilovska - Urbis",
+            "longitude": 19.8492059684,
+            "latitude": 45.2481301777,
+            "expected_arrival_seconds": 555
+        },
+        {
+            "id": "_8",
+            "label": "Žarka Zrenjanina - Izvršno Veće",
+            "longitude": 19.8475593745,
+            "latitude": 45.2528535063,
+            "expected_arrival_seconds": 665
+        },
+        {
+            "id": "_9",
+            "label": "Bul. Mihajla Pupina - Pothodnik",
+            "longitude": 19.844141,
+            "latitude": 45.253519,
+            "expected_arrival_seconds": 743
         },
         {
             "id": "_10",
-            "label": "BUL. OSLOBOĐENJA - FUTOŠKA PIJACA",
+            "label": "Bul. Oslobođenja - Futoška Pijaca",
             "longitude": 19.8368000824,
-            "latitude": 45.2525198464
+            "latitude": 45.2525198464,
+            "expected_arrival_seconds": 859
         },
         {
             "id": "_11",
-            "label": "BUL. OSLOBOĐENJA - POKRAJINSKI SUP",
+            "label": "Bul. Oslobođenja - Pokrajinski SUP",
             "longitude": 19.8351029309,
-            "latitude": 45.255629856
+            "latitude": 45.255629856,
+            "expected_arrival_seconds": 948
         },
         {
             "id": "_12",
-            "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
+            "label": "Bul. Oslobođenja - Kralja Petra I",
             "longitude": 19.8318492939,
-            "latitude": 45.2613766166
+            "latitude": 45.2613766166,
+            "expected_arrival_seconds": 1076
         },
         {
             "id": "_13",
-            "label": "ŽELEZNIČKA STANICA - DOLASCI",
+            "label": "Železnička Stanica - Dolasci",
             "longitude": 19.830132455,
-            "latitude": 45.2650202834
-        },
-        {
-            "id": "_1",
-            "label": "NARODNOG FRONTA - IVE ANDRIĆA",
-            "longitude": 19.8262756442,
-            "latitude": 45.2371046813
+            "latitude": 45.2650202834,
+            "expected_arrival_seconds": 1158
         }
     ],
     "direction_b": [
         {
-            "id": "_4",
-            "label": "JEVREJSKA - BUL. OSLOBOĐENJA",
-            "longitude": 19.8377609655,
-            "latitude": 45.2522080286
-        },
-        {
-            "id": "_12",
-            "label": "NARODNOG FRONTA - IVE ANDRIĆA",
-            "longitude": 19.8273963747,
-            "latitude": 45.2374119519
-        },
-        {
-            "id": "_6",
-            "label": "ŽARKA ZRENJANINA - OPŠTINA",
-            "longitude": 19.8471827488,
-            "latitude": 45.2524025428
-        },
-        {
-            "id": "_5",
-            "label": "BUL. MIHAJLA PUPINA - POTHODNIK",
-            "longitude": 19.844187,
-            "latitude": 45.253337
-        },
-        {
-            "id": "_7",
-            "label": "BUL. CARA LAZARA - URBIS",
-            "longitude": 19.8488525074,
-            "latitude": 45.2474414598
-        },
-        {
-            "id": "_8",
-            "label": "NARODNOG FRONTA - FRUŠKOGORSKA",
-            "longitude": 19.8467941518,
-            "latitude": 45.2424582038
-        },
-        {
-            "id": "_10",
-            "label": "NARODNOG FRONTA - ŠEKSPIROVA",
-            "longitude": 19.8370412179,
-            "latitude": 45.2400602044
-        },
-        {
-            "id": "_11",
-            "label": "NARODNOG FRONTA - BALZAKOVA",
-            "longitude": 19.8316359129,
-            "latitude": 45.23861537
+            "id": "_1",
+            "label": "Železnička Stanica",
+            "longitude": 19.8295879176,
+            "latitude": 45.264478508,
+            "expected_arrival_seconds": 0
         },
         {
             "id": "_2",
-            "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
+            "label": "Bul. Oslobođenja - Kralja Petra I",
             "longitude": 19.8322222835,
-            "latitude": 45.2601777537
+            "latitude": 45.2601777537,
+            "expected_arrival_seconds": 107
         },
         {
             "id": "_3",
-            "label": "BUL. OSLOBOÐENJA - NOVOSADSKOG SAJMA",
+            "label": "Bul. Oslobođenja - Novosadskog Sajma",
             "longitude": 19.8353175469,
-            "latitude": 45.2545506888
+            "latitude": 45.2545506888,
+            "expected_arrival_seconds": 233
+        },
+        {
+            "id": "_4",
+            "label": "Jevrejska - Bul. Oslobođenja",
+            "longitude": 19.8377609655,
+            "latitude": 45.2522080286,
+            "expected_arrival_seconds": 317
+        },
+        {
+            "id": "_5",
+            "label": "Bul. Mihajla Pupina - Pothodnik",
+            "longitude": 19.844187,
+            "latitude": 45.253337,
+            "expected_arrival_seconds": 424
+        },
+        {
+            "id": "_6",
+            "label": "Žarka Zrenjanina - Opština",
+            "longitude": 19.8471827488,
+            "latitude": 45.2524025428,
+            "expected_arrival_seconds": 500
+        },
+        {
+            "id": "_7",
+            "label": "Bul. Cara Lazara - Urbis",
+            "longitude": 19.8488525074,
+            "latitude": 45.2474414598,
+            "expected_arrival_seconds": 613
+        },
+        {
+            "id": "_8",
+            "label": "Narodnog Fronta - Fruškogorska",
+            "longitude": 19.8467941518,
+            "latitude": 45.2424582038,
+            "expected_arrival_seconds": 727
         },
         {
             "id": "_9",
-            "label": "NARODNOG FRONTA - BUL. OSLOBOĐENJA",
+            "label": "Narodnog Fronta - Bul. Oslobođenja",
             "longitude": 19.8415475397,
-            "latitude": 45.2414328005
+            "latitude": 45.2414328005,
+            "expected_arrival_seconds": 823
         },
         {
-            "id": "_1",
-            "label": "ŽELEZNIČKA STANICA",
-            "longitude": 19.8295879176,
-            "latitude": 45.264478508
+            "id": "_10",
+            "label": "Narodnog Fronta - Šekspirova",
+            "longitude": 19.8370412179,
+            "latitude": 45.2400602044,
+            "expected_arrival_seconds": 914
+        },
+        {
+            "id": "_11",
+            "label": "Narodnog Fronta - Balzakova",
+            "longitude": 19.8316359129,
+            "latitude": 45.23861537,
+            "expected_arrival_seconds": 1014
+        },
+        {
+            "id": "_12",
+            "label": "Narodnog Fronta - Ive Andrića",
+            "longitude": 19.8273963747,
+            "latitude": 45.2374119519,
+            "expected_arrival_seconds": 1102
         },
         {
             "id": "_13",
-            "label": "NARODNOG FRONTA - IVE ANDRIĆA",
+            "label": "Narodnog Fronta - Ive Andrića",
             "longitude": 19.8262756442,
-            "latitude": 45.2371046813
+            "latitude": 45.2371046813,
+            "expected_arrival_seconds": 1158
         }
     ]
 }
