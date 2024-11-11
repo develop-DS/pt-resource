@@ -1,102 +1,118 @@
 {
     "direction_a": [
         {
-            "id": "_6",
-            "label": "BUL. OSLOBOĐENJA - BUL. CARA LAZARA",
-            "longitude": 19.8414842753,
-            "latitude": 45.2434304122
+            "id": "_1",
+            "label": "Bul. Oslobođenja - Bul. Jaše Tomića",
+            "longitude": 19.8304838937,
+            "latitude": 45.263325649,
+            "expected_arrival_seconds": 0
         },
         {
             "id": "_2",
-            "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
+            "label": "Bul. Oslobođenja - Kralja Petra I",
             "longitude": 19.8322222835,
-            "latitude": 45.2601777537
-        },
-        {
-            "id": "_4",
-            "label": "BUL. OSLOBOĐENJA - FUTOŠKA",
-            "longitude": 19.8370753816,
-            "latitude": 45.2514514442
-        },
-        {
-            "id": "_8",
-            "label": "OKRETNICA - MIŠELUK BOLNICA",
-            "longitude": 19.871637,
-            "latitude": 45.226923
-        },
-        {
-            "id": "_7",
-            "label": "BUL. OSLOBOĐENJA - MOST SLOBODE",
-            "longitude": 19.8428482132,
-            "latitude": 45.241081551
-        },
-        {
-            "id": "_5",
-            "label": "BUL. OSLOBOĐENJA - BRAĆE RIBNIKAR",
-            "longitude": 19.8392619075,
-            "latitude": 45.2475207776
+            "latitude": 45.2601777537,
+            "expected_arrival_seconds": 60
         },
         {
             "id": "_3",
-            "label": "BUL. OSLOBOÐENJA - NOVOSADSKOG SAJMA",
+            "label": "Bul. Oslobođenja - Novosadskog Sajma",
             "longitude": 19.8353175469,
-            "latitude": 45.2545506888
+            "latitude": 45.2545506888,
+            "expected_arrival_seconds": 150
         },
         {
-            "id": "_1",
-            "label": "BUL. OSLOBOĐENJA - BUL. JAŠE TOMIĆA",
-            "longitude": 19.8304838937,
-            "latitude": 45.263325649
+            "id": "_4",
+            "label": "Bul. Oslobođenja - Futoška",
+            "longitude": 19.8370753816,
+            "latitude": 45.2514514442,
+            "expected_arrival_seconds": 240
+        },
+        {
+            "id": "_5",
+            "label": "Bul. Oslobođenja - Braće Ribnikar",
+            "longitude": 19.8392619075,
+            "latitude": 45.2475207776,
+            "expected_arrival_seconds": 330
+        },
+        {
+            "id": "_6",
+            "label": "Bul. Oslobođenja - Bul. Cara Lazara",
+            "longitude": 19.8414842753,
+            "latitude": 45.2434304122,
+            "expected_arrival_seconds": 420
+        },
+        {
+            "id": "_7",
+            "label": "Bul. Oslobođenja - Most Slobode",
+            "longitude": 19.8428482132,
+            "latitude": 45.241081551,
+            "expected_arrival_seconds": 510
+        },
+        {
+            "id": "_8",
+            "label": "Okretnica - Mišeluk Bolnica",
+            "longitude": 19.871637,
+            "latitude": 45.226923,
+            "expected_arrival_seconds": 660
         }
     ],
     "direction_b": [
         {
-            "id": "_5",
-            "label": "BUL. OSLOBOĐENJA - FUTOŠKA PIJACA",
-            "longitude": 19.8368000824,
-            "latitude": 45.2525198464
-        },
-        {
-            "id": "_4",
-            "label": "BUL. OSLOBOĐENJA - MAKSIMA GORKOG",
-            "longitude": 19.8390130044,
-            "latitude": 45.2485327883
-        },
-        {
-            "id": "_6",
-            "label": "BUL. OSLOBOĐENJA - POKRAJINSKI SUP",
-            "longitude": 19.8351029309,
-            "latitude": 45.255629856
-        },
-        {
             "id": "_1",
-            "label": "OKRETNICA - MIŠELUK BOLNICA",
+            "label": "Okretnica - Mišeluk Bolnica",
             "longitude": 19.871637,
-            "latitude": 45.226923
-        },
-        {
-            "id": "_8",
-            "label": "ŽELEZNIČKA STANICA - DOLASCI",
-            "longitude": 19.830132455,
-            "latitude": 45.2650202834
-        },
-        {
-            "id": "_3",
-            "label": "BUL. OSLOBOĐENJA - BUL. CARA LAZARA",
-            "longitude": 19.8412524923,
-            "latitude": 45.2444754031
+            "latitude": 45.226923,
+            "expected_arrival_seconds": 0
         },
         {
             "id": "_2",
-            "label": "BUL. OSLOBOĐENJA - NARODNOG FRONTA",
+            "label": "Bul. Oslobođenja - Narodnog Fronta",
             "longitude": 19.8425582061,
-            "latitude": 45.2421433047
+            "latitude": 45.2421433047,
+            "expected_arrival_seconds": 150
+        },
+        {
+            "id": "_3",
+            "label": "Bul. Oslobođenja - Bul. Cara Lazara",
+            "longitude": 19.8412524923,
+            "latitude": 45.2444754031,
+            "expected_arrival_seconds": 240
+        },
+        {
+            "id": "_4",
+            "label": "Bul. Oslobođenja - Maksima Gorkog",
+            "longitude": 19.8390130044,
+            "latitude": 45.2485327883,
+            "expected_arrival_seconds": 330
+        },
+        {
+            "id": "_5",
+            "label": "Bul. Oslobođenja - Futoška Pijaca",
+            "longitude": 19.8368000824,
+            "latitude": 45.2525198464,
+            "expected_arrival_seconds": 420
+        },
+        {
+            "id": "_6",
+            "label": "Bul. Oslobođenja - Pokrajinski SUP",
+            "longitude": 19.8351029309,
+            "latitude": 45.255629856,
+            "expected_arrival_seconds": 510
         },
         {
             "id": "_7",
-            "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
+            "label": "Bul. Oslobođenja - Kralja Petra I",
             "longitude": 19.8318492939,
-            "latitude": 45.2613766166
+            "latitude": 45.2613766166,
+            "expected_arrival_seconds": 600
+        },
+        {
+            "id": "_8",
+            "label": "Železnička Stanica - Dolasci",
+            "longitude": 19.830132455,
+            "latitude": 45.2650202834,
+            "expected_arrival_seconds": 690
         }
     ]
 }

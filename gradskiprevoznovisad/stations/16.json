@@ -1,84 +1,97 @@
 {
     "direction_a": [
         {
-            "id": "_2",
-            "label": "KISAČKA - PODVOŽNJAK",
-            "longitude": 19.834665763,
-            "latitude": 45.2665045391
-        },
-        {
-            "id": "_7",
-            "label": "BAJČI ŽILINSKOG - DANUBIUS",
-            "longitude": 19.8589099487,
-            "latitude": 45.2658468595
-        },
-        {
-            "id": "_4",
-            "label": "BAJČI ŽILINSKOG - METALURGIJA",
-            "longitude": 19.84741502,
-            "latitude": 45.2699333114
-        },
-        {
-            "id": "_5",
-            "label": "BAJČI ŽILINSKOG - BALKAN",
-            "longitude": 19.85219461,
-            "latitude": 45.2680922537
-        },
-        {
-            "id": "_6",
-            "label": "BAJČI ŽILINSKOG - LUKA NOVI SAD",
-            "longitude": 19.8563748626,
-            "latitude": 45.2666746173
-        },
-        {
             "id": "_1",
-            "label": "ŽELEZNIČKA STANICA TERMINAL",
+            "label": "Železnička Stanica Terminal",
             "longitude": 19.8300468015,
-            "latitude": 45.2652079855
+            "latitude": 45.2652079855,
+            "expected_arrival_seconds": 0
+        },
+        {
+            "id": "_2",
+            "label": "Kisačka - Podvožnjak",
+            "longitude": 19.834665763,
+            "latitude": 45.2665045391,
+            "expected_arrival_seconds": 60
         },
         {
             "id": "_3",
-            "label": "PUT ŠAJKAŠKOG ODREDA - TEMERINSKA",
+            "label": "Put Šajkaškog Odreda - Temerinska",
             "longitude": 19.842795,
-            "latitude": 45.270255
+            "latitude": 45.270255,
+            "expected_arrival_seconds": 120
+        },
+        {
+            "id": "_4",
+            "label": "Bajči Žilinskog - Metalurgija",
+            "longitude": 19.84741502,
+            "latitude": 45.2699333114,
+            "expected_arrival_seconds": 180
+        },
+        {
+            "id": "_5",
+            "label": "Bajči Žilinskog - Balkan",
+            "longitude": 19.85219461,
+            "latitude": 45.2680922537,
+            "expected_arrival_seconds": 240
+        },
+        {
+            "id": "_6",
+            "label": "Bajči Žilinskog - Luka Novi Sad",
+            "longitude": 19.8563748626,
+            "latitude": 45.2666746173,
+            "expected_arrival_seconds": 300
+        },
+        {
+            "id": "_7",
+            "label": "Bajči Žilinskog - Danubius",
+            "longitude": 19.8589099487,
+            "latitude": 45.2658468595,
+            "expected_arrival_seconds": 420
         }
     ],
     "direction_b": [
         {
-            "id": "_5",
-            "label": "SENTANDREJSKI PUT - PARTIZANSKA",
-            "longitude": 19.8317437287,
-            "latitude": 45.2687779267
-        },
-        {
             "id": "_1",
-            "label": "BAJČI ŽILINSKOG - DANUBIUS",
+            "label": "Bajči Žilinskog - Danubius",
             "longitude": 19.8589099487,
-            "latitude": 45.2658468595
+            "latitude": 45.2658468595,
+            "expected_arrival_seconds": 0
         },
         {
             "id": "_2",
-            "label": "BAJČI ŽILINSKOG - LUKA NOVI SAD",
+            "label": "Bajči Žilinskog - Luka Novi Sad",
             "longitude": 19.8564206921,
-            "latitude": 45.2667245338
+            "latitude": 45.2667245338,
+            "expected_arrival_seconds": 60
         },
         {
             "id": "_3",
-            "label": "BAJČI ŽILINSKOG - BALKAN",
+            "label": "Bajči Žilinskog - Balkan",
             "longitude": 19.853083049,
-            "latitude": 45.2678999388
-        },
-        {
-            "id": "_6",
-            "label": "ŽELEZNIČKA STANICA - DOLASCI",
-            "longitude": 19.830132455,
-            "latitude": 45.2650202834
+            "latitude": 45.2678999388,
+            "expected_arrival_seconds": 120
         },
         {
             "id": "_4",
-            "label": "PARTIZANSKA - TEMERINSKA",
+            "label": "Partizanska - Temerinska",
             "longitude": 19.841061,
-            "latitude": 45.270261
+            "latitude": 45.270261,
+            "expected_arrival_seconds": 180
+        },
+        {
+            "id": "_5",
+            "label": "Sentandrejski Put - Partizanska",
+            "longitude": 19.8317437287,
+            "latitude": 45.2687779267,
+            "expected_arrival_seconds": 240
+        },
+        {
+            "id": "_6",
+            "label": "Železnička Stanica - Dolasci",
+            "longitude": 19.830132455,
+            "latitude": 45.2650202834,
+            "expected_arrival_seconds": 420
         }
     ]
 }

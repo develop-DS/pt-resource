@@ -1,102 +1,118 @@
 {
     "direction_a": [
         {
-            "id": "_7",
-            "label": "USPENSKA - ŠAFARIKOVA",
-            "longitude": 19.8415125346,
-            "latitude": 45.255074308
+            "id": "_1",
+            "label": "Big Šoping Centar",
+            "longitude": 19.828193,
+            "latitude": 45.275918,
+            "expected_arrival_seconds": 0
         },
         {
             "id": "_2",
-            "label": "SENTANDREJSKI PUT - BENZINSKA PUMPA",
+            "label": "Sentandrejski Put - Benzinska Pumpa",
             "longitude": 19.8308548777,
-            "latitude": 45.2713036839
+            "latitude": 45.2713036839,
+            "expected_arrival_seconds": 90
         },
         {
             "id": "_3",
-            "label": "SENTANDREJSKI PUT - PARTIZANSKA",
+            "label": "Sentandrejski Put - Partizanska",
             "longitude": 19.8317437287,
-            "latitude": 45.2687779267
+            "latitude": 45.2687779267,
+            "expected_arrival_seconds": 180
         },
         {
             "id": "_4",
-            "label": "KISAČKA - BUL. JAŠE TOMIĆA",
+            "label": "Kisačka - Bul. Jaše Tomića",
             "longitude": 19.8354809218,
-            "latitude": 45.2656954001
+            "latitude": 45.2656954001,
+            "expected_arrival_seconds": 270
         },
         {
             "id": "_5",
-            "label": "KISAČKA - BUL. KRALJA PETRA I",
+            "label": "Kisačka - Bul. Kralja Petra I",
             "longitude": 19.8401023551,
-            "latitude": 45.2623699914
+            "latitude": 45.2623699914,
+            "expected_arrival_seconds": 390
         },
         {
             "id": "_6",
-            "label": "KISAČKA - VUKA KARADŽIĆA",
+            "label": "Kisačka - Vuka Karadžića",
             "longitude": 19.8420940143,
-            "latitude": 45.2609612857
+            "latitude": 45.2609612857,
+            "expected_arrival_seconds": 510
         },
         {
-            "id": "_1",
-            "label": "BIG ŠOPING CENTAR",
-            "longitude": 19.828193,
-            "latitude": 45.275918
+            "id": "_7",
+            "label": "Uspenska - Šafarikova",
+            "longitude": 19.8415125346,
+            "latitude": 45.255074308,
+            "expected_arrival_seconds": 690
         }
     ],
     "direction_b": [
         {
             "id": "_1",
-            "label": "USPENSKA - ŠAFARIKOVA",
+            "label": "Uspenska - Šafarikova",
             "longitude": 19.8415125346,
-            "latitude": 45.255074308
+            "latitude": 45.255074308,
+            "expected_arrival_seconds": 0
         },
         {
             "id": "_2",
-            "label": "BUL. OSLOBOĐENJA - FUTOŠKA PIJACA",
+            "label": "Bul. Oslobođenja - Futoška Pijaca",
             "longitude": 19.8366307617,
-            "latitude": 45.2528681592
+            "latitude": 45.2528681592,
+            "expected_arrival_seconds": 75
         },
         {
             "id": "_3",
-            "label": "BUL. OSLOBOĐENJA - POKRAJINSKI SUP",
+            "label": "Bul. Oslobođenja - Pokrajinski SUP",
             "longitude": 19.8351029309,
-            "latitude": 45.255629856
+            "latitude": 45.255629856,
+            "expected_arrival_seconds": 150
         },
         {
             "id": "_4",
-            "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
+            "label": "Bul. Oslobođenja - Kralja Petra I",
             "longitude": 19.8318492939,
-            "latitude": 45.2613766166
-        },
-        {
-            "id": "_6",
-            "label": "KISAČKA - PODVOŽNJAK",
-            "longitude": 19.834665763,
-            "latitude": 45.2665045391
-        },
-        {
-            "id": "_7",
-            "label": "SENTANDREJSKI PUT - PARTIZANSKA",
-            "longitude": 19.8315959987,
-            "latitude": 45.2699357528
-        },
-        {
-            "id": "_8",
-            "label": "SENTANDREJSKI PUT - TEODORA MANDIĆA",
-            "longitude": 19.830315176,
-            "latitude": 45.2737069812
+            "latitude": 45.2613766166,
+            "expected_arrival_seconds": 240
         },
         {
             "id": "_5",
-            "label": "BUL. JAŠE TOMIĆA - BUL. OSLOBOĐENJA",
+            "label": "Bul. Jaše Tomića - Bul. Oslobođenja",
             "longitude": 19.831181344,
-            "latitude": 45.264414954
+            "latitude": 45.264414954,
+            "expected_arrival_seconds": 315
+        },
+        {
+            "id": "_6",
+            "label": "Kisačka - Podvožnjak",
+            "longitude": 19.834665763,
+            "latitude": 45.2665045391,
+            "expected_arrival_seconds": 420
+        },
+        {
+            "id": "_7",
+            "label": "Sentandrejski Put - Partizanska",
+            "longitude": 19.8315959987,
+            "latitude": 45.2699357528,
+            "expected_arrival_seconds": 510
+        },
+        {
+            "id": "_8",
+            "label": "Sentandrejski Put - Teodora Mandića",
+            "longitude": 19.830315176,
+            "latitude": 45.2737069812,
+            "expected_arrival_seconds": 600
         },
         {
             "id": "_9",
-            "label": "BIG ŠOPING CENTAR",
+            "label": "Big Šoping Centar",
             "longitude": 19.828193,
-            "latitude": 45.275918
+            "latitude": 45.275918,
+            "expected_arrival_seconds": 690
         }
     ]
 }
