@@ -4,127 +4,109 @@
             "id": "_1",
             "label": "Sentandrejski Put - Zmajevački Put",
             "longitude": 19.8247023774,
-            "latitude": 45.3025717506,
-            "expected_arrival_seconds": 0
+            "latitude": 45.3025717506
         },
         {
             "id": "_2",
             "label": "Sentandrejski Put - Savska",
             "longitude": 19.8226695053,
-            "latitude": 45.2997652739,
-            "expected_arrival_seconds": 100
+            "latitude": 45.2997652739
         },
         {
             "id": "_3",
             "label": "Sentandrejski Put - Velebitska",
             "longitude": 19.8223251106,
-            "latitude": 45.295793932,
-            "expected_arrival_seconds": 200
+            "latitude": 45.295793932
         },
         {
             "id": "_4",
             "label": "Sentandrejski Put - Zelengorska",
             "longitude": 19.8237880279,
-            "latitude": 45.2916390663,
-            "expected_arrival_seconds": 280
+            "latitude": 45.2916390663
         },
         {
             "id": "_5",
             "label": "Sentandrejski Put - Dolinska",
             "longitude": 19.8247619009,
-            "latitude": 45.2888681125,
-            "expected_arrival_seconds": 350
+            "latitude": 45.2888681125
         },
         {
             "id": "_6",
             "label": "Sentandrejski Put - Otokara Keršovanija",
             "longitude": 19.8256640401,
-            "latitude": 45.28628095,
-            "expected_arrival_seconds": 420
+            "latitude": 45.28628095
         },
         {
             "id": "_7",
             "label": "Sentandrejski Put - Most Kanal Dtd",
             "longitude": 19.8268347377,
-            "latitude": 45.2828585422,
-            "expected_arrival_seconds": 500
+            "latitude": 45.2828585422
         },
         {
             "id": "_8",
             "label": "Sentandrejski Put - Benzinska Pumpa",
             "longitude": 19.8308548777,
-            "latitude": 45.2713036839,
-            "expected_arrival_seconds": 650
+            "latitude": 45.2713036839
         },
         {
             "id": "_9",
             "label": "Sentandrejski Put - Partizanska",
             "longitude": 19.8317437287,
-            "latitude": 45.2687779267,
-            "expected_arrival_seconds": 720
+            "latitude": 45.2687779267
         },
         {
             "id": "_10",
             "label": "Kisačka - Bul. Jaše Tomića",
             "longitude": 19.8354809218,
-            "latitude": 45.2656954001,
-            "expected_arrival_seconds": 820
+            "latitude": 45.2656954001
         },
         {
             "id": "_11",
             "label": "Kisačka - Bul. Kralja Petra I",
             "longitude": 19.8401023551,
-            "latitude": 45.2623699914,
-            "expected_arrival_seconds": 930
+            "latitude": 45.2623699914
         },
         {
             "id": "_12",
             "label": "Kisačka - Vuka Karadžića",
             "longitude": 19.8420940143,
-            "latitude": 45.2609612857,
-            "expected_arrival_seconds": 1000
+            "latitude": 45.2609612857
         },
         {
             "id": "_13",
             "label": "Uspenska - Šafarikova",
             "longitude": 19.8416504854,
-            "latitude": 45.255203707,
-            "expected_arrival_seconds": 1100
+            "latitude": 45.255203707
         },
         {
             "id": "_14",
             "label": "Bul. Mihajla Pupina - Pothodnik",
             "longitude": 19.844187,
-            "latitude": 45.253337,
-            "expected_arrival_seconds": 1200
+            "latitude": 45.253337
         },
         {
             "id": "_15",
             "label": "Žarka Zrenjanina - Opština",
             "longitude": 19.8471827488,
-            "latitude": 45.2524025428,
-            "expected_arrival_seconds": 1300
+            "latitude": 45.2524025428
         },
         {
             "id": "_16",
             "label": "Bul. Cara Lazara - Urbis",
             "longitude": 19.8488525074,
-            "latitude": 45.2474414598,
-            "expected_arrival_seconds": 1400
+            "latitude": 45.2474414598
         },
         {
             "id": "_17",
             "label": "Fruškogorska - Narodnog Fronta",
             "longitude": 19.8475310279,
-            "latitude": 45.2420582997,
-            "expected_arrival_seconds": 1500
+            "latitude": 45.2420582997
         },
         {
             "id": "_18",
             "label": "Štrand - Okretnica",
             "longitude": 19.84777609,
-            "latitude": 45.2386999087,
-            "expected_arrival_seconds": 1600
+            "latitude": 45.2386999087
         }
     ],
     "direction_b": [
@@ -132,127 +114,109 @@
             "id": "_1",
             "label": "Štrand - Okretnica",
             "longitude": 19.848256,
-            "latitude": 45.239001,
-            "expected_arrival_seconds": 0
+            "latitude": 45.239001
         },
         {
             "id": "_2",
             "label": "Fruškogorska - Dr. I. Đuričića",
             "longitude": 19.847528317,
-            "latitude": 45.2429842112,
-            "expected_arrival_seconds": 100
+            "latitude": 45.2429842112
         },
         {
             "id": "_3",
             "label": "Stražilovska - Urbis",
             "longitude": 19.8492059684,
-            "latitude": 45.2481301777,
-            "expected_arrival_seconds": 200
+            "latitude": 45.2481301777
         },
         {
             "id": "_4",
             "label": "Žarka Zrenjanina - Izvršno Veće",
             "longitude": 19.8475593745,
-            "latitude": 45.2528535063,
-            "expected_arrival_seconds": 300
+            "latitude": 45.2528535063
         },
         {
             "id": "_5",
             "label": "Bul. Mihajla Pupina - Pothodnik",
             "longitude": 19.844141,
-            "latitude": 45.253519,
-            "expected_arrival_seconds": 400
+            "latitude": 45.253519
         },
         {
             "id": "_6",
             "label": "Uspenska - Pozorišni Trg",
             "longitude": 19.8419960985,
-            "latitude": 45.255185246,
-            "expected_arrival_seconds": 500
+            "latitude": 45.255185246
         },
         {
             "id": "_7",
             "label": "Kisačka - Temerinska",
             "longitude": 19.8423966225,
-            "latitude": 45.2608711975,
-            "expected_arrival_seconds": 600
+            "latitude": 45.2608711975
         },
         {
             "id": "_8",
             "label": "Kisačka - Dositejeva",
             "longitude": 19.8390209306,
-            "latitude": 45.2632551971,
-            "expected_arrival_seconds": 700
+            "latitude": 45.2632551971
         },
         {
             "id": "_9",
             "label": "Kisačka - Podvožnjak",
             "longitude": 19.834665763,
-            "latitude": 45.2665045391,
-            "expected_arrival_seconds": 800
+            "latitude": 45.2665045391
         },
         {
             "id": "_10",
             "label": "Sentandrejski Put - Partizanska",
             "longitude": 19.8315959987,
-            "latitude": 45.2699357528,
-            "expected_arrival_seconds": 900
+            "latitude": 45.2699357528
         },
         {
             "id": "_11",
             "label": "Sentandrejski Put - Teodora Mandića",
             "longitude": 19.830315176,
-            "latitude": 45.2737069812,
-            "expected_arrival_seconds": 1000
+            "latitude": 45.2737069812
         },
         {
             "id": "_12",
             "label": "Sentandrejski Put - Primorska",
             "longitude": 19.8263159471,
-            "latitude": 45.2848260115,
-            "expected_arrival_seconds": 1100
+            "latitude": 45.2848260115
         },
         {
             "id": "_13",
             "label": "Sentandrejski Put - Otokara Keršov.",
             "longitude": 19.825474462,
-            "latitude": 45.2872651434,
-            "expected_arrival_seconds": 1200
+            "latitude": 45.2872651434
         },
         {
             "id": "_14",
             "label": "Sentandrejski Put - Sportska Hala",
             "longitude": 19.8245477965,
-            "latitude": 45.2898775272,
-            "expected_arrival_seconds": 1300
+            "latitude": 45.2898775272
         },
         {
             "id": "_15",
             "label": "Sentandrejski Put - Zelengorska",
             "longitude": 19.8237043193,
-            "latitude": 45.2922920477,
-            "expected_arrival_seconds": 1400
+            "latitude": 45.2922920477
         },
         {
             "id": "_16",
             "label": "Sentandrejski Put - Velebitska",
             "longitude": 19.8226166593,
-            "latitude": 45.2953893559,
-            "expected_arrival_seconds": 1500
+            "latitude": 45.2953893559
         },
         {
             "id": "_17",
             "label": "Sentandrejski Put - Savska",
             "longitude": 19.8226514651,
-            "latitude": 45.2993746126,
-            "expected_arrival_seconds": 1600
+            "latitude": 45.2993746126
         },
         {
             "id": "_18",
             "label": "Sentandrejski Put - Zmajevački Put",
             "longitude": 19.8247023774,
-            "latitude": 45.3025717506,
-            "expected_arrival_seconds": 1700
+            "latitude": 45.3025717506
         }
     ]
 }
