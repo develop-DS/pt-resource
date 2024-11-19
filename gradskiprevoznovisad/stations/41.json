@@ -1,180 +1,209 @@
 {
     "direction_a": [
         {
+            "id": "_1",
+            "label": "Železnička Stanica - Terminal",
+            "longitude": 19.8293295677,
+            "latitude": 45.2649620671,
+            "expected_arrival_seconds": 0
+        },
+        {
             "id": "_2",
-            "label": "RUMENAČKA - BUL. JAŠE TOMIĆA",
+            "label": "Rumenačka - Bul. Jaše Tomića",
             "longitude": 19.8182127414,
-            "latitude": 45.2633439588
+            "latitude": 45.2633439588,
+            "expected_arrival_seconds": 90
         },
         {
             "id": "_3",
-            "label": "RUMENAČKA - RADNIČKO IGRALIŠTE",
+            "label": "Rumenačka - Radničko Igralište",
             "longitude": 19.8148147237,
-            "latitude": 45.2660444179
-        },
-        {
-            "id": "_1",
-            "label": "ŽELEZNIČKA STANICA TERMINAL",
-            "longitude": 19.8293295677,
-            "latitude": 45.2649620671
+            "latitude": 45.2660444179,
+            "expected_arrival_seconds": 180
         },
         {
             "id": "_4",
-            "label": "RUMENAČKI PUT - AVIJATIČARSKA",
+            "label": "Rumenački Put - Avijatičarska",
             "longitude": 19.8079135339,
-            "latitude": 45.2712216153
+            "latitude": 45.2712216153,
+            "expected_arrival_seconds": 300
         },
         {
             "id": "_5",
-            "label": "RUMENAČKI PUT - KRUŽNI TOK",
+            "label": "Rumenački Put - Kružni Tok",
             "longitude": 19.7998638594,
-            "latitude": 45.2759310771
+            "latitude": 45.2759310771,
+            "expected_arrival_seconds": 420
         },
         {
             "id": "_6",
-            "label": "SAJLOVO - NADVOŽNJAK",
+            "label": "Sajlovo - Nadvožnjak",
             "longitude": 19.7849461714,
-            "latitude": 45.2805491923
+            "latitude": 45.2805491923,
+            "expected_arrival_seconds": 540
         },
         {
             "id": "_7",
-            "label": "SAJLOVO - BANGLADEŠ",
+            "label": "Sajlovo - Bangladeš",
             "longitude": 19.7718910191,
-            "latitude": 45.2830754582
+            "latitude": 45.2830754582,
+            "expected_arrival_seconds": 660
         },
         {
             "id": "_8",
-            "label": "RUMENKA - ULAZ",
+            "label": "Rumenka - Ulaz",
             "longitude": 19.7486571265,
-            "latitude": 45.2902962929
+            "latitude": 45.2902962929,
+            "expected_arrival_seconds": 810
         },
         {
             "id": "_9",
-            "label": "RUMENKA - VOJVOĐANSKA 15",
+            "label": "Rumenka - Vojvođanska 15",
             "longitude": 19.7437457219,
-            "latitude": 45.2913623157
+            "latitude": 45.2913623157,
+            "expected_arrival_seconds": 900
         },
         {
             "id": "_10",
-            "label": "RUMENKA - NIKOLE TESLE 36",
+            "label": "Rumenka - Nikole Tesle 36",
             "longitude": 19.7402002932,
-            "latitude": 45.2867913439
+            "latitude": 45.2867913439,
+            "expected_arrival_seconds": 1020
         },
         {
             "id": "_11",
-            "label": "RUMENKA - VOJVODE PUTNIKA 67",
+            "label": "Rumenka - Vojvode Putnika 67",
             "longitude": 19.7349006264,
-            "latitude": 45.2872345478
+            "latitude": 45.2872345478,
+            "expected_arrival_seconds": 1110
         },
         {
             "id": "_12",
-            "label": "RUMENKA - PARTIZANSKA 4",
+            "label": "Rumenka - Partizanska 4",
             "longitude": 19.7359138518,
-            "latitude": 45.2914389856
+            "latitude": 45.2914389856,
+            "expected_arrival_seconds": 1200
         },
         {
             "id": "_13",
-            "label": "RUMENKA - PARTIZANSKA 58",
+            "label": "Rumenka - Partizanska 58",
             "longitude": 19.7393740621,
-            "latitude": 45.2963585515
+            "latitude": 45.2963585515,
+            "expected_arrival_seconds": 1350
         },
         {
             "id": "_14",
-            "label": "RUMENKA - OKRETNICA",
+            "label": "Rumenka - Okretnica",
             "longitude": 19.744365,
-            "latitude": 45.30357
+            "latitude": 45.30357,
+            "expected_arrival_seconds": 1620
         }
     ],
     "direction_b": [
         {
-            "id": "_12",
-            "label": "RUMENAČKI PUT - AVIJATIČARSKA",
-            "longitude": 19.8089150153,
-            "latitude": 45.2702133075
-        },
-        {
-            "id": "_13",
-            "label": "RUMENAČKA - POLICIJSKA STANICA",
-            "longitude": 19.8130603695,
-            "latitude": 45.2670846403
-        },
-        {
-            "id": "_14",
-            "label": "BUL. JAŠE TOMIĆA - RUMENAČKA",
-            "longitude": 19.8192032513,
-            "latitude": 45.2630741789
-        },
-        {
-            "id": "_15",
-            "label": "ŽELEZNIČKA STANICA - DOLASCI",
-            "longitude": 19.830132455,
-            "latitude": 45.2650202834
-        },
-        {
-            "id": "_9",
-            "label": "RUMENAČKI PUT - NADVOŽNJAK",
-            "longitude": 19.7863577779,
-            "latitude": 45.2801667701
-        },
-        {
-            "id": "_11",
-            "label": "RUMENAČKI PUT - KRUŽNI TOK",
-            "longitude": 19.8018176756,
-            "latitude": 45.2747023047
+            "id": "_1",
+            "label": "Rumenka - Okretnica",
+            "longitude": 19.744365,
+            "latitude": 45.30357,
+            "expected_arrival_seconds": 0
         },
         {
             "id": "_2",
-            "label": "RUMENKA - KANAL",
+            "label": "Rumenka - Kanal",
             "longitude": 19.7416538887,
-            "latitude": 45.2998666774
+            "latitude": 45.2998666774,
+            "expected_arrival_seconds": 90
         },
         {
             "id": "_3",
-            "label": "RUMENKA - PARTIZANSKA 59",
+            "label": "Rumenka - Partizanska 59",
             "longitude": 19.7383925986,
-            "latitude": 45.2951261357
+            "latitude": 45.2951261357,
+            "expected_arrival_seconds": 180
         },
         {
             "id": "_4",
-            "label": "RUMENKA - DANILA KIŠA 1",
+            "label": "Rumenka - Danila Kiša 1",
             "longitude": 19.7353517518,
-            "latitude": 45.2907294609
+            "latitude": 45.2907294609,
+            "expected_arrival_seconds": 270
         },
         {
             "id": "_5",
-            "label": "RUMENKA - VOJVODE PUTNIKA 57",
+            "label": "Rumenka - Vojvode Putnika 57",
             "longitude": 19.7359478885,
-            "latitude": 45.2868155248
+            "latitude": 45.2868155248,
+            "expected_arrival_seconds": 360
         },
         {
             "id": "_6",
-            "label": "RUMENKA - NIKOLE TESLE 21",
+            "label": "Rumenka - Nikole Tesle 21",
             "longitude": 19.7408012034,
-            "latitude": 45.2874100612
+            "latitude": 45.2874100612,
+            "expected_arrival_seconds": 450
         },
         {
             "id": "_7",
-            "label": "RUMENKA - CENTAR",
+            "label": "Rumenka - Centar",
             "longitude": 19.7447983387,
-            "latitude": 45.291518222
+            "latitude": 45.291518222,
+            "expected_arrival_seconds": 570
         },
         {
             "id": "_8",
-            "label": "SAJLOVO - BANGLADEŠ",
+            "label": "Sajlovo - Bangladeš",
             "longitude": 19.7732069555,
-            "latitude": 45.2827262394
+            "latitude": 45.2827262394,
+            "expected_arrival_seconds": 720
+        },
+        {
+            "id": "_9",
+            "label": "Rumenački Put - Gradsko Groblje",
+            "longitude": 19.7947421097,
+            "latitude": 45.2782283307,
+            "expected_arrival_seconds": 870
         },
         {
             "id": "_10",
-            "label": "RUMENAČKI PUT - GRADSKO GROBLJE",
-            "longitude": 19.7947421097,
-            "latitude": 45.2782283307
+            "label": "Rumenački Put - Kružni Tok",
+            "longitude": 19.8018176756,
+            "latitude": 45.2747023047,
+            "expected_arrival_seconds": 990
         },
         {
-            "id": "_1",
-            "label": "RUMENKA - OKRETNICA",
-            "longitude": 19.744365,
-            "latitude": 45.30357
+            "id": "_11",
+            "label": "Rumenački Put - Nadvožnjak",
+            "longitude": 19.7863577779,
+            "latitude": 45.2801667701,
+            "expected_arrival_seconds": 1080
+        },
+        {
+            "id": "_12",
+            "label": "Rumenački Put - Avijatičarska",
+            "longitude": 19.8089150153,
+            "latitude": 45.2702133075,
+            "expected_arrival_seconds": 1170
+        },
+        {
+            "id": "_13",
+            "label": "Rumenačka - Policijska Stanica",
+            "longitude": 19.8130603695,
+            "latitude": 45.2670846403,
+            "expected_arrival_seconds": 1260
+        },
+        {
+            "id": "_14",
+            "label": "Bul. Jaše Tomića - Rumenačka",
+            "longitude": 19.8192032513,
+            "latitude": 45.2630741789,
+            "expected_arrival_seconds": 1380
+        },
+        {
+            "id": "_15",
+            "label": "Železnička Stanica - Dolasci",
+            "longitude": 19.830132455,
+            "latitude": 45.2650202834,
+            "expected_arrival_seconds": 1620
         }
     ]
 }

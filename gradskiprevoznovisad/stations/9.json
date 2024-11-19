@@ -4,169 +4,145 @@
             "id": "_1",
             "label": "Novo Naselje - Bistrica - Okretnica",
             "longitude": 19.791754249,
-            "latitude": 45.2489224745,
-            "expected_arrival_seconds": 0
+            "latitude": 45.2489224745
         },
         {
             "id": "_2",
             "label": "Bul. J. Dučića - Igralište",
             "longitude": 19.7936823203,
-            "latitude": 45.2495765937,
-            "expected_arrival_seconds": 60
+            "latitude": 45.2495765937
         },
         {
             "id": "_3",
             "label": "Bul. J. Dučića - Bate Brkića",
             "longitude": 19.7983862612,
-            "latitude": 45.2511237051,
-            "expected_arrival_seconds": 120
+            "latitude": 45.2511237051
         },
         {
             "id": "_4",
             "label": "Bul. J. Dučića - Robna Kuća",
             "longitude": 19.8018919417,
-            "latitude": 45.2523770585,
-            "expected_arrival_seconds": 180
+            "latitude": 45.2523770585
         },
         {
             "id": "_5",
             "label": "Bul. S. Jovanovića - Dom Zdravlja",
             "longitude": 19.8056491406,
-            "latitude": 45.2510355315,
-            "expected_arrival_seconds": 240
+            "latitude": 45.2510355315
         },
         {
             "id": "_6",
             "label": "Futoški Put - Vršačka",
             "longitude": 19.8083415635,
-            "latitude": 45.247517576,
-            "expected_arrival_seconds": 300
+            "latitude": 45.247517576
         },
         {
             "id": "_7",
             "label": "Futoška - Higijenski Zavod",
             "longitude": 19.8177958089,
-            "latitude": 45.2488161894,
-            "expected_arrival_seconds": 370
+            "latitude": 45.2488161894
         },
         {
             "id": "_8",
             "label": "Cara Dušana - Futoška",
             "longitude": 19.8247020319,
-            "latitude": 45.2487841683,
-            "expected_arrival_seconds": 440
+            "latitude": 45.2487841683
         },
         {
             "id": "_9",
             "label": "Cara Dušana - Medicinska Škola",
             "longitude": 19.8250937953,
-            "latitude": 45.2436192236,
-            "expected_arrival_seconds": 510
+            "latitude": 45.2436192236
         },
         {
             "id": "_10",
             "label": "Bul. Cara Lazara - Ive Andrića",
             "longitude": 19.8258641034,
-            "latitude": 45.2399480828,
-            "expected_arrival_seconds": 580
+            "latitude": 45.2399480828
         },
         {
             "id": "_11",
             "label": "Bul. Cara Lazara - Dom Zdravlja",
             "longitude": 19.8317379566,
-            "latitude": 45.241465683,
-            "expected_arrival_seconds": 660
+            "latitude": 45.241465683
         },
         {
             "id": "_12",
             "label": "Bul. Cara Lazara - Šekspirova",
             "longitude": 19.8371533191,
-            "latitude": 45.2426706144,
-            "expected_arrival_seconds": 740
+            "latitude": 45.2426706144
         },
         {
             "id": "_13",
             "label": "Bul. Cara Lazara - Bul. Oslobođenja",
             "longitude": 19.8424535024,
-            "latitude": 45.2440216217,
-            "expected_arrival_seconds": 820
+            "latitude": 45.2440216217
         },
         {
             "id": "_14",
             "label": "Stražilovska - Urbis",
             "longitude": 19.8492059684,
-            "latitude": 45.2481301777,
-            "expected_arrival_seconds": 900
+            "latitude": 45.2481301777
         },
         {
             "id": "_15",
             "label": "Žarka Zrenjanina - Izvršno Veće",
             "longitude": 19.8475593745,
-            "latitude": 45.2528535063,
-            "expected_arrival_seconds": 980
+            "latitude": 45.2528535063
         },
         {
             "id": "_16",
             "label": "Bul. Mihajla Pupina - Sonje Marinković",
             "longitude": 19.8530960428,
-            "latitude": 45.2542765403,
-            "expected_arrival_seconds": 1060
+            "latitude": 45.2542765403
         },
         {
             "id": "_17",
             "label": "Beogradska - Lisinskog",
             "longitude": 19.8620128358,
-            "latitude": 45.2547734365,
-            "expected_arrival_seconds": 1140
+            "latitude": 45.2547734365
         },
         {
             "id": "_18",
             "label": "Preradovićeva - Lovački Dom",
             "longitude": 19.8678103709,
-            "latitude": 45.2525866389,
-            "expected_arrival_seconds": 1220
+            "latitude": 45.2525866389
         },
         {
             "id": "_19",
             "label": "Preradovićeva - O.Š. Jovan Dučić",
             "longitude": 19.8727083512,
-            "latitude": 45.2516407374,
-            "expected_arrival_seconds": 1300
+            "latitude": 45.2516407374
         },
         {
             "id": "_20",
             "label": "Preradovićeva - Reljkovićeva",
             "longitude": 19.876524398,
-            "latitude": 45.2488033781,
-            "expected_arrival_seconds": 1380
+            "latitude": 45.2488033781
         },
         {
             "id": "_21",
             "label": "Preradovićeva - Marina Držića",
             "longitude": 19.8801002749,
-            "latitude": 45.2455157784,
-            "expected_arrival_seconds": 1460
+            "latitude": 45.2455157784
         },
         {
             "id": "_22",
             "label": "Preradovićeva - Račkog",
             "longitude": 19.8830977084,
-            "latitude": 45.241791669,
-            "expected_arrival_seconds": 1540
+            "latitude": 45.241791669
         },
         {
             "id": "_23",
             "label": "Petrovaradin - Železnička Stanica",
             "longitude": 19.8857439999,
-            "latitude": 45.2389365212,
-            "expected_arrival_seconds": 1620
+            "latitude": 45.2389365212
         },
         {
             "id": "_24",
             "label": "Petrovaradin - Okretnica",
             "longitude": 19.8878906109,
-            "latitude": 45.2360062995,
-            "expected_arrival_seconds": 1800
+            "latitude": 45.2360062995
         }
     ],
     "direction_b": [
@@ -174,176 +150,151 @@
             "id": "_1",
             "label": "Petrovaradin - Okretnica",
             "longitude": 19.8878906109,
-            "latitude": 45.2360062995,
-            "expected_arrival_seconds": 0
+            "latitude": 45.2360062995
         },
         {
             "id": "_2",
             "label": "Petrovaradin - Železnička Stanica",
             "longitude": 19.8853872807,
-            "latitude": 45.2396101516,
-            "expected_arrival_seconds": 60
+            "latitude": 45.2396101516
         },
         {
             "id": "_3",
             "label": "Preradovićeva - Božidar Adžije",
             "longitude": 19.8814113961,
-            "latitude": 45.2439233024,
-            "expected_arrival_seconds": 120
+            "latitude": 45.2439233024
         },
         {
             "id": "_4",
             "label": "Preradovićeva - Marina Držića",
             "longitude": 19.87968712,
-            "latitude": 45.2464017138,
-            "expected_arrival_seconds": 180
+            "latitude": 45.2464017138
         },
         {
             "id": "_5",
             "label": "Preradovićeva - Benzinska Pumpa",
             "longitude": 19.8757045697,
-            "latitude": 45.2496755784,
-            "expected_arrival_seconds": 240
+            "latitude": 45.2496755784
         },
         {
             "id": "_6",
             "label": "Preradovićeva - Šenoina",
             "longitude": 19.8732154355,
-            "latitude": 45.251431704,
-            "expected_arrival_seconds": 300
+            "latitude": 45.251431704
         },
         {
             "id": "_7",
             "label": "Preradovićeva - Lovački Dom",
             "longitude": 19.8689433116,
-            "latitude": 45.2526031657,
-            "expected_arrival_seconds": 360
+            "latitude": 45.2526031657
         },
         {
             "id": "_8",
             "label": "Beogradska - Vladimira Nazora",
             "longitude": 19.8623634945,
-            "latitude": 45.2548163902,
-            "expected_arrival_seconds": 430
+            "latitude": 45.2548163902
         },
         {
             "id": "_9",
             "label": "Bul. Mihajla Pupina - Dunavski Park",
             "longitude": 19.8519122087,
-            "latitude": 45.2542020579,
-            "expected_arrival_seconds": 500
+            "latitude": 45.2542020579
         },
         {
             "id": "_10",
             "label": "Žarka Zrenjanina - Opština",
             "longitude": 19.8471827488,
-            "latitude": 45.2524025428,
-            "expected_arrival_seconds": 570
+            "latitude": 45.2524025428
         },
         {
             "id": "_11",
             "label": "Bul. Cara Lazara - Urbis",
             "longitude": 19.8488525074,
-            "latitude": 45.2474414598,
-            "expected_arrival_seconds": 640
+            "latitude": 45.2474414598
         },
         {
             "id": "_12",
             "label": "Bul. Cara Lazara - Bul. Oslobođenja",
             "longitude": 19.8407575757,
-            "latitude": 45.2437760634,
-            "expected_arrival_seconds": 710
+            "latitude": 45.2437760634
         },
         {
             "id": "_13",
             "label": "Bul. Cara Lazara - Puškinova",
             "longitude": 19.8359820245,
-            "latitude": 45.2425681438,
-            "expected_arrival_seconds": 780
+            "latitude": 45.2425681438
         },
         {
             "id": "_14",
             "label": "Bul. Cara Lazara - Dom Zdravlja",
             "longitude": 19.8302794061,
-            "latitude": 45.2413137447,
-            "expected_arrival_seconds": 850
+            "latitude": 45.2413137447
         },
         {
             "id": "_15",
             "label": "Cara Dušana - Bul. Cara Lazara",
             "longitude": 19.8253952094,
-            "latitude": 45.2403667659,
-            "expected_arrival_seconds": 920
+            "latitude": 45.2403667659
         },
         {
             "id": "_16",
             "label": "Cara Dušana - Medicinska Škola",
             "longitude": 19.8252026974,
-            "latitude": 45.2442691715,
-            "expected_arrival_seconds": 990
+            "latitude": 45.2442691715
         },
         {
             "id": "_17",
             "label": "Futoška - Bolnica",
             "longitude": 19.8238348508,
-            "latitude": 45.2494278377,
-            "expected_arrival_seconds": 1060
+            "latitude": 45.2494278377
         },
         {
             "id": "_18",
             "label": "Futoška - Bulevar Evrope",
             "longitude": 19.815564749,
-            "latitude": 45.2485623853,
-            "expected_arrival_seconds": 1130
+            "latitude": 45.2485623853
         },
         {
             "id": "_19",
             "label": "Futoška - Jugoalat",
             "longitude": 19.810052585,
-            "latitude": 45.2478325873,
-            "expected_arrival_seconds": 1200
+            "latitude": 45.2478325873
         },
         {
             "id": "_20",
             "label": "Bul. S. Jovanovića - Futoški Put",
             "longitude": 19.8075067499,
-            "latitude": 45.2482734052,
-            "expected_arrival_seconds": 1270
+            "latitude": 45.2482734052
         },
         {
             "id": "_21",
             "label": "Bul. S. Jovanovića - Branislava Borote",
             "longitude": 19.8053597388,
-            "latitude": 45.2515983077,
-            "expected_arrival_seconds": 1340
+            "latitude": 45.2515983077
         },
         {
             "id": "_22",
             "label": "Bul. J. Dučića - Bul. S. Jovanovića",
             "longitude": 19.8031021067,
-            "latitude": 45.2529483166,
-            "expected_arrival_seconds": 1410
+            "latitude": 45.2529483166
         },
         {
             "id": "_23",
             "label": "Bul. J. Dučića - Braće Dronjak",
             "longitude": 19.7983752275,
-            "latitude": 45.2513539058,
-            "expected_arrival_seconds": 1480
+            "latitude": 45.2513539058
         },
         {
             "id": "_24",
             "label": "Bul. Jovana Dučića - Igralište",
             "longitude": 19.7947978105,
-            "latitude": 45.2500788277,
-            "expected_arrival_seconds": 1550
+            "latitude": 45.2500788277
         },
         {
             "id": "_25",
             "label": "Novo Naselje - Bistrica - Okretnica",
             "longitude": 19.7915144259,
-            "latitude": 45.2489713023,
-            "expected_arrival_seconds": 1800
+            "latitude": 45.2489713023
         }
     ]
 }
