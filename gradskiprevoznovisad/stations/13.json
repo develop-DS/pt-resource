@@ -12,212 +12,184 @@
             "label": "Janka Čmelika - Dečije Obdanište",
             "longitude": 19.8104375633,
             "latitude": 45.2618134201,
-            "expected_arrival_seconds": 60
+            "expected_arrival_seconds": 66
         },
         {
             "id": "_3",
             "label": "Bulevar Evrope - Bulevar Vojvode Stepe",
             "longitude": 19.808937,
             "latitude": 45.259486,
-            "expected_arrival_seconds": 120
+            "expected_arrival_seconds": 115
         },
         {
             "id": "_4",
             "label": "Bulevar Evrope - Raše Radujkova",
             "longitude": 19.811805,
             "latitude": 45.255302,
-            "expected_arrival_seconds": 180
+            "expected_arrival_seconds": 203
         },
         {
             "id": "_5",
             "label": "Bulevar Evrope - Branka Bajića",
             "longitude": 19.813837,
             "latitude": 45.252347,
-            "expected_arrival_seconds": 240
+            "expected_arrival_seconds": 265
         },
         {
             "id": "_6",
             "label": "Bulevar Evrope - Futoška",
-            "longitude": 19.8166067011,
-            "latitude": 45.2482616918,
-            "expected_arrival_seconds": 300
+            "longitude": 19.817569304369616,
+            "latitude": 45.246928424027786,
+            "expected_arrival_seconds": 379
         },
         {
             "id": "_7",
             "label": "Bulevar Evrope - Romanijska",
             "longitude": 19.8201818748,
             "latitude": 45.2430591564,
-            "expected_arrival_seconds": 360
+            "expected_arrival_seconds": 460
         },
         {
             "id": "_8",
-            "label": "Cara Dušana - Bul. Cara Lazara",
-            "longitude": 19.8253952094,
-            "latitude": 45.2403667659,
-            "expected_arrival_seconds": 420
+            "label": "Bulevar Cara Lazara - Ive Andrića",
+            "longitude": 19.8258641034,
+            "latitude": 45.2399480828,
+            "expected_arrival_seconds": 556
         },
         {
             "id": "_9",
-            "label": "Miše Dimitrijevića - Đorđa Servickog",
-            "longitude": 19.829119,
-            "latitude": 45.242541,
-            "expected_arrival_seconds": 480
+            "label": "Bulevar Cara Lazara - Dom Zdravlja",
+            "longitude": 19.8317379566,
+            "latitude": 45.241465683,
+            "expected_arrival_seconds": 640
         },
         {
             "id": "_10",
-            "label": "Miše Dimitrijevića - Puškinova",
-            "longitude": 19.832788,
-            "latitude": 45.245973,
-            "expected_arrival_seconds": 540
+            "label": "Bulevar Cara Lazara - Šekspirova",
+            "longitude": 19.8371533191,
+            "latitude": 45.2426706144,
+            "expected_arrival_seconds": 716
         },
         {
             "id": "_11",
-            "label": "Braće Ribnikara - Miše Dimitrijevića",
-            "longitude": 19.835067,
-            "latitude": 45.248015,
-            "expected_arrival_seconds": 600
+            "label": "Bulevar Cara Lazara - Bulevar Oslobođenja",
+            "longitude": 19.8424535024,
+            "latitude": 45.2440216217,
+            "expected_arrival_seconds": 792
         },
         {
             "id": "_12",
-            "label": "Bul. Oslobođenja - Braće Ribnikar",
-            "longitude": 19.8392619075,
-            "latitude": 45.2475207776,
-            "expected_arrival_seconds": 660
+            "label": "Doktora Sime Miloševića - Bulevar Cara Lazara",
+            "longitude": 19.849049,
+            "latitude": 45.246804,
+            "expected_arrival_seconds": 895
         },
         {
             "id": "_13",
-            "label": "Bul. Cara Lazara - Bul. Oslobođenja",
-            "longitude": 19.8424535024,
-            "latitude": 45.2440216217,
-            "expected_arrival_seconds": 720
-        },
-        {
-            "id": "_14",
-            "label": "Dr Sime Miloševića - Bul. Cara Lazara",
-            "longitude": 19.849049,
-            "latitude": 45.246804,
-            "expected_arrival_seconds": 780
-        },
-        {
-            "id": "_15",
-            "label": "Univerzitet - Dr Sime Miloševića",
+            "label": "Univerzitet - Doktora Sime Miloševića",
             "longitude": 19.850994,
             "latitude": 45.243749,
-            "expected_arrival_seconds": 900
+            "expected_arrival_seconds": 959
         }
     ],
     "direction_b": [
         {
             "id": "_1",
-            "label": "Univerzitet - Dr Sime Miloševića",
+            "label": "Univerzitet - Doktora Sime Miloševića",
             "longitude": 19.850994,
             "latitude": 45.243749,
             "expected_arrival_seconds": 0
         },
         {
             "id": "_2",
-            "label": "Fruškogorska - Dr. I. Đuričića",
+            "label": "Fruškogorska - Doktora Ilije Đuričića",
             "longitude": 19.847528317,
             "latitude": 45.2429842112,
             "expected_arrival_seconds": 50
         },
         {
             "id": "_3",
-            "label": "Bul. Oslobođenja - Bul. Cara Lazara",
-            "longitude": 19.8412524923,
-            "latitude": 45.2444754031,
-            "expected_arrival_seconds": 100
+            "label": "Bulevar Cara Lazara - Bulevar Oslobođenja",
+            "longitude": 19.8407575757,
+            "latitude": 45.2437760634,
+            "expected_arrival_seconds": 145
         },
         {
             "id": "_4",
-            "label": "Braće Ribnikara - Bul. Oslobođenja",
-            "longitude": 19.837693,
-            "latitude": 45.247811,
-            "expected_arrival_seconds": 150
+            "label": "Bulevar Cara Lazara - Puškinova",
+            "longitude": 19.8359820245,
+            "latitude": 45.2425681438,
+            "expected_arrival_seconds": 215
         },
         {
             "id": "_5",
-            "label": "Miše Dimitrijevića - Braće Ribnikara",
-            "longitude": 19.834396,
-            "latitude": 45.247816,
-            "expected_arrival_seconds": 200
+            "label": "Bulevar Cara Lazara - Dom Zdravlja",
+            "longitude": 19.8302794061,
+            "latitude": 45.2413137447,
+            "expected_arrival_seconds": 297
         },
         {
             "id": "_6",
-            "label": "Miše Dimitrijevića - Puškinova",
-            "longitude": 19.831754,
-            "latitude": 45.245159,
-            "expected_arrival_seconds": 250
-        },
-        {
-            "id": "_7",
-            "label": "Miše Dimitrijevića - Đorđa Servickog",
-            "longitude": 19.82862,
-            "latitude": 45.24238,
-            "expected_arrival_seconds": 300
-        },
-        {
-            "id": "_8",
             "label": "Bulevar Evrope - Cara Dušana",
             "longitude": 19.82477,
             "latitude": 45.239855,
-            "expected_arrival_seconds": 350
+            "expected_arrival_seconds": 378
         },
         {
-            "id": "_9",
+            "id": "_7",
             "label": "Bulevar Evrope - Aranj Janoša",
             "longitude": 19.822391,
             "latitude": 45.240414,
-            "expected_arrival_seconds": 400
+            "expected_arrival_seconds": 413
         },
         {
-            "id": "_10",
+            "id": "_8",
             "label": "Bulevar Evrope - Teodora Pavlovića",
             "longitude": 19.8198292771,
             "latitude": 45.2440148287,
-            "expected_arrival_seconds": 450
+            "expected_arrival_seconds": 492
         },
         {
-            "id": "_11",
+            "id": "_9",
             "label": "Bulevar Evrope - Futoška",
             "longitude": 19.816518,
             "latitude": 45.249118,
-            "expected_arrival_seconds": 500
+            "expected_arrival_seconds": 601
         },
         {
-            "id": "_12",
+            "id": "_10",
             "label": "Bulevar Evrope - Branka Bajića",
             "longitude": 19.813681,
             "latitude": 45.253249,
-            "expected_arrival_seconds": 550
+            "expected_arrival_seconds": 691
         },
         {
-            "id": "_13",
+            "id": "_11",
             "label": "Bulevar Evrope - Hadži Ruvimova",
             "longitude": 19.811657,
             "latitude": 45.256212,
-            "expected_arrival_seconds": 600
+            "expected_arrival_seconds": 755
         },
         {
-            "id": "_14",
+            "id": "_12",
             "label": "Kornelija Stankovića - Bulevar Evrope",
             "longitude": 19.8096845247,
             "latitude": 45.2604662935,
-            "expected_arrival_seconds": 700
+            "expected_arrival_seconds": 842
         },
         {
-            "id": "_15",
+            "id": "_13",
             "label": "Milenka Grčića - Banatska",
             "longitude": 19.8111852139,
             "latitude": 45.2640112807,
-            "expected_arrival_seconds": 800
+            "expected_arrival_seconds": 914
         },
         {
-            "id": "_16",
+            "id": "_14",
             "label": "Oblačića Rada - Janka Čmelika",
             "longitude": 19.808222,
             "latitude": 45.265188,
-            "expected_arrival_seconds": 900
+            "expected_arrival_seconds": 961
         }
     ]
 }
