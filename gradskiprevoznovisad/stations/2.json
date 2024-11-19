@@ -9,180 +9,229 @@
         },
         {
             "id": "_2",
-            "label": "Futoška - Bul. Oslobođenja",
+            "label": "Futoška - Bulevar Oslobođenja",
             "longitude": 19.836036584,
             "latitude": 45.2515776887,
-            "expected_arrival_seconds": 115
+            "expected_arrival_seconds": 102
         },
         {
             "id": "_3",
             "label": "Futoška - Branislava Nušića",
             "longitude": 19.8321411697,
             "latitude": 45.2496536022,
-            "expected_arrival_seconds": 205
+            "expected_arrival_seconds": 167
         },
         {
             "id": "_4",
             "label": "Futoška - Jodna Banja",
             "longitude": 19.8289089911,
             "latitude": 45.2492337673,
-            "expected_arrival_seconds": 281
+            "expected_arrival_seconds": 212
         },
         {
             "id": "_5",
             "label": "Futoška - Bolnica",
             "longitude": 19.8238348508,
             "latitude": 45.2494278377,
-            "expected_arrival_seconds": 374
+            "expected_arrival_seconds": 281
         },
         {
             "id": "_6",
             "label": "Futoška - Bulevar Evrope",
             "longitude": 19.815564749,
             "latitude": 45.2485623853,
-            "expected_arrival_seconds": 497
+            "expected_arrival_seconds": 344
         },
         {
             "id": "_7",
             "label": "Futoška - Jugoalat",
             "longitude": 19.810052585,
             "latitude": 45.2478325873,
-            "expected_arrival_seconds": 595
+            "expected_arrival_seconds": 398
         },
         {
             "id": "_8",
-            "label": "Bul. S. Jovanovića - Futoški Put",
+            "label": "Bulevar Slobodana Jovanovića - Futoški Put",
             "longitude": 19.8075067499,
             "latitude": 45.2482734052,
-            "expected_arrival_seconds": 664
+            "expected_arrival_seconds": 452
         },
         {
             "id": "_9",
-            "label": "Bul. S. Jovanovića - Branislava Borote",
+            "label": "Bulevar Slobodana Jovanovića - Branislava Borote",
             "longitude": 19.8053597388,
             "latitude": 45.2515983077,
-            "expected_arrival_seconds": 758
+            "expected_arrival_seconds": 496
         },
         {
             "id": "_10",
-            "label": "Bul. J. Dučića - Bul. S. Jovanovića",
+            "label": "Bulevar Jovana Dučića - Bulevar Slobodana Jovanovića",
             "longitude": 19.8031021067,
             "latitude": 45.2529483166,
-            "expected_arrival_seconds": 831
+            "expected_arrival_seconds": 540
         },
         {
             "id": "_11",
-            "label": "Bul. J. Dučića - Braće Dronjak",
-            "longitude": 19.7983752275,
-            "latitude": 45.2513539058,
-            "expected_arrival_seconds": 925
+            "label": "Bulevar Bate Brkića - Bulevar Jovana Dučića",
+            "longitude": 19.797603,
+            "latitude": 45.250093,
+            "expected_arrival_seconds": 584
         },
         {
             "id": "_12",
-            "label": "Bul. Jovana Dučića - Igralište",
-            "longitude": 19.7947978105,
-            "latitude": 45.2500788277,
-            "expected_arrival_seconds": 1008
+            "label": "Bulevar Bate Brkića - Satelitska Pijaca",
+            "longitude": 19.799015,
+            "latitude": 45.248178,
+            "expected_arrival_seconds": 628
         },
         {
             "id": "_13",
-            "label": "Novo Naselje - Bistrica - Okretnica",
+            "label": "Futoški Put - Satelitska Pijaca",
+            "longitude": 19.7998632846,
+            "latitude": 45.2461119679,
+            "expected_arrival_seconds": 672
+        },
+        {
+            "id": "_14",
+            "label": "Bulevar Kneza Miloša - Futoški Put",
+            "longitude": 19.7946648286,
+            "latitude": 45.245098379,
+            "expected_arrival_seconds": 728
+        },
+        {
+            "id": "_15",
+            "label": "Bulevar Kneza Miloša - Garaža Gsp-A",
+            "longitude": 19.7933548666,
+            "latitude": 45.2472193464,
+            "expected_arrival_seconds": 784
+        },
+        {
+            "id": "_16",
+            "label": "Bulevar Jovana Dučića - Bulevar Kneza Miloša",
             "longitude": 19.7915144259,
             "latitude": 45.2489713023,
-            "expected_arrival_seconds": 1087
+            "expected_arrival_seconds": 840
+        },
+        {
+            "id": "_17",
+            "label": "Novo Naselje - Kružni Tok",
+            "longitude": 19.786933,
+            "latitude": 45.248251,
+            "expected_arrival_seconds": 1020
         }
     ],
     "direction_b": [
         {
             "id": "_1",
-            "label": "Novo Naselje - Bistrica - Okretnica",
-            "longitude": 19.791754249,
-            "latitude": 45.2489224745,
+            "label": "Novo Naselje - Kružni Tok",
+            "longitude": 19.787416,
+            "latitude": 45.247888,
             "expected_arrival_seconds": 0
         },
         {
             "id": "_2",
-            "label": "Bul. J.Dučića - Igralište",
-            "longitude": 19.7936823203,
-            "latitude": 45.2495765937,
-            "expected_arrival_seconds": 65
+            "label": "Bulevar Jovana Dučića - Bulevar Kneza Miloša",
+            "longitude": 19.791754249,
+            "latitude": 45.2489224745,
+            "expected_arrival_seconds": 63
         },
         {
             "id": "_3",
-            "label": "Bul. J. Dučića - Bate Brkića",
-            "longitude": 19.7983862612,
-            "latitude": 45.2511237051,
-            "expected_arrival_seconds": 159
+            "label": "Bulevar Kneza Miloša - Garaža Gsp-A",
+            "longitude": 19.793176626,
+            "latitude": 45.2470681807,
+            "expected_arrival_seconds": 104
         },
         {
             "id": "_4",
-            "label": "Bul. J. Dučića - Robna Kuća",
-            "longitude": 19.8018919417,
-            "latitude": 45.2523770585,
-            "expected_arrival_seconds": 241
+            "label": "Futoški Put - Bulevar Patrijarha Pavla",
+            "longitude": 19.79550631,
+            "latitude": 45.2445958159,
+            "expected_arrival_seconds": 161
         },
         {
             "id": "_5",
-            "label": "Bul. S.Jovanovića - Dom Zdravlja",
-            "longitude": 19.8056491406,
-            "latitude": 45.2510355315,
-            "expected_arrival_seconds": 325
+            "label": "Bulevar Bate Brkića - Futoški Put",
+            "longitude": 19.800352,
+            "latitude": 45.24662,
+            "expected_arrival_seconds": 238
         },
         {
             "id": "_6",
-            "label": "Futoški Put - Vršacka",
-            "longitude": 19.8083415635,
-            "latitude": 45.247517576,
-            "expected_arrival_seconds": 424
+            "label": "Bulevar Bate Brkića - Anđe Ranković",
+            "longitude": 19.79943,
+            "latitude": 45.248044,
+            "expected_arrival_seconds": 268
         },
         {
             "id": "_7",
-            "label": "Futoška - Higijenski Zavod",
-            "longitude": 19.8177958089,
-            "latitude": 45.2488161894,
-            "expected_arrival_seconds": 559
+            "label": "Bulevar Jovana Dučića - Bate Brkića",
+            "longitude": 19.7983862612,
+            "latitude": 45.2511237051,
+            "expected_arrival_seconds": 329
         },
         {
             "id": "_8",
-            "label": "Futoška - Cara Dušana",
-            "longitude": 19.8252968807,
-            "latitude": 45.2491656314,
-            "expected_arrival_seconds": 675
+            "label": "Bulevar Jovana Dučića - Robna Kuća",
+            "longitude": 19.8018919417,
+            "latitude": 45.2523770585,
+            "expected_arrival_seconds": 383
         },
         {
             "id": "_9",
-            "label": "Futoška - Antona Čehova",
-            "longitude": 19.8300215701,
-            "latitude": 45.2490835157,
-            "expected_arrival_seconds": 764
+            "label": "Bulevar Slobodana Jovanovića - Dom Zdravlja",
+            "longitude": 19.8056491406,
+            "latitude": 45.2510355315,
+            "expected_arrival_seconds": 441
         },
         {
             "id": "_10",
-            "label": "Futoška - Braće Ribnikar",
-            "longitude": 19.8331936901,
-            "latitude": 45.2498730986,
-            "expected_arrival_seconds": 841
+            "label": "Futoški Put - Vršačka",
+            "longitude": 19.8083415635,
+            "latitude": 45.247517576,
+            "expected_arrival_seconds": 518
         },
         {
             "id": "_11",
-            "label": "Jevrejska - Bul. Oslobođenja",
-            "longitude": 19.8377609655,
-            "latitude": 45.2522080286,
-            "expected_arrival_seconds": 939
+            "label": "Futoška - Higijenski Zavod",
+            "longitude": 19.8177958089,
+            "latitude": 45.2488161894,
+            "expected_arrival_seconds": 650
         },
         {
             "id": "_12",
-            "label": "Uspenska - Pozorišni Trg",
-            "longitude": 19.8422463011,
-            "latitude": 45.2548499029,
-            "expected_arrival_seconds": 1039
+            "label": "Futoška - Cara Dušana",
+            "longitude": 19.8252968807,
+            "latitude": 45.2491656314,
+            "expected_arrival_seconds": 753
         },
         {
             "id": "_13",
-            "label": "Uspenska - Šafarikova",
-            "longitude": 19.8416138869,
-            "latitude": 45.255083741,
-            "expected_arrival_seconds": 1090
+            "label": "Futoška - Antona Čehova",
+            "longitude": 19.8300215701,
+            "latitude": 45.2490835157,
+            "expected_arrival_seconds": 818
+        },
+        {
+            "id": "_14",
+            "label": "Futoška - Braće Ribnikar",
+            "longitude": 19.8331936901,
+            "latitude": 45.2498730986,
+            "expected_arrival_seconds": 864
+        },
+        {
+            "id": "_15",
+            "label": "Jevrejska - Bulevar Oslobođenja",
+            "longitude": 19.8377609655,
+            "latitude": 45.2522080286,
+            "expected_arrival_seconds": 941
+        },
+        {
+            "id": "_16",
+            "label": "Uspenska - Pozorišni Trg",
+            "longitude": 19.8422463011,
+            "latitude": 45.2548499029,
+            "expected_arrival_seconds": 1021
         }
     ]
 }
