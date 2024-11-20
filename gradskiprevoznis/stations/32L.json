@@ -1,0 +1,390 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "PAS Niš",
+      "longitude": 21.8905887068638,
+      "latitude": 43.3251601189193
+    },
+    {
+      "id": "_2",
+      "label": "Logor",
+      "longitude": 21.8875487349086,
+      "latitude": 43.3290344529612
+    },
+    {
+      "id": "_3",
+      "label": "DIN",
+      "longitude": 21.8817421640371,
+      "latitude": 43.3338828528293
+    },
+    {
+      "id": "_4",
+      "label": "Jastrebac",
+      "longitude": 21.8762735658457,
+      "latitude": 43.3381144363934
+    },
+    {
+      "id": "_5",
+      "label": "Ratka Jovića",
+      "longitude": 21.8704178880915,
+      "latitude": 43.3425845578957
+    },
+    {
+      "id": "_6",
+      "label": "Naselje Ratko Jović",
+      "longitude": 21.8677831675292,
+      "latitude": 43.3446390398645
+    },
+    {
+      "id": "_7",
+      "label": "Lovopromet",
+      "longitude": 21.8517745150415,
+      "latitude": 43.3568261887913
+    },
+    {
+      "id": "_8",
+      "label": "Čamurlija",
+      "longitude": 21.8457044536657,
+      "latitude": 43.3614714189595
+    },
+    {
+      "id": "_9",
+      "label": "Kafana Kosovka",
+      "longitude": 21.840836326552,
+      "latitude": 43.3652076264561
+    },
+    {
+      "id": "_10",
+      "label": "Eurometal",
+      "longitude": 21.836105004283,
+      "latitude": 43.3688500122397
+    },
+    {
+      "id": "_11",
+      "label": "Mlekara",
+      "longitude": 21.8305687299173,
+      "latitude": 43.3730926869193
+    },
+    {
+      "id": "_12",
+      "label": "Stovarište",
+      "longitude": 21.8254458995653,
+      "latitude": 43.3764538599998
+    },
+    {
+      "id": "_13",
+      "label": "Vrtiški put",
+      "longitude": 21.8225812241816,
+      "latitude": 43.3802671231243
+    },
+    {
+      "id": "_14",
+      "label": "Skretanje za Nais - Ikon",
+      "longitude": 21.8185658369601,
+      "latitude": 43.3855557766723
+    },
+    {
+      "id": "_15",
+      "label": "Kostin pojate",
+      "longitude": 21.814464865795,
+      "latitude": 43.3910232875967
+    },
+    {
+      "id": "_16",
+      "label": "Gornja Toponica klinika",
+      "longitude": 21.8064237128328,
+      "latitude": 43.3994857490251
+    },
+    {
+      "id": "_17",
+      "label": "Gornja Toponica naselje",
+      "longitude": 21.8066595157123,
+      "latitude": 43.4025921230176
+    },
+    {
+      "id": "_18",
+      "label": "Gornja Toponica izlaz",
+      "longitude": 21.8076521147137,
+      "latitude": 43.406434919876
+    },
+    {
+      "id": "_19",
+      "label": "Berčinac ulaz",
+      "longitude": 21.8161118078903,
+      "latitude": 43.410168357176
+    },
+    {
+      "id": "_20",
+      "label": "Berčinac",
+      "longitude": 21.8214976787567,
+      "latitude": 43.4079665143722
+    },
+    {
+      "id": "_21",
+      "label": "Paljina",
+      "longitude": 21.8348550663532,
+      "latitude": 43.4152420335379
+    },
+    {
+      "id": "_22",
+      "label": "Miljkovac raskrsnica",
+      "longitude": 21.8491888209464,
+      "latitude": 43.4250024041997
+    },
+    {
+      "id": "_23",
+      "label": "Miljkovac škola",
+      "longitude": 21.8542742729187,
+      "latitude": 43.4268568915446
+    },
+    {
+      "id": "_24",
+      "label": "Miljkovac naselje",
+      "longitude": 21.8589413188209,
+      "latitude": 43.4300631505454
+    },
+    {
+      "id": "_25",
+      "label": "Miljkovac škola",
+      "longitude": 21.8553042357405,
+      "latitude": 43.4274217976188
+    },
+    {
+      "id": "_26",
+      "label": "Miljkovac raskrsnica",
+      "longitude": 21.8494033577744,
+      "latitude": 43.4252517503419
+    },
+    {
+      "id": "_27",
+      "label": "Vele Polje ulaz",
+      "longitude": 21.8471878769028,
+      "latitude": 43.4407286804348
+    },
+    {
+      "id": "_28",
+      "label": "Vele Polje škola",
+      "longitude": 21.8472790704982,
+      "latitude": 43.4465689948286
+    },
+    {
+      "id": "_29",
+      "label": "Vele Polje naselje",
+      "longitude": 21.8489420399867,
+      "latitude": 43.4506017737833
+    },
+    {
+      "id": "_30",
+      "label": "Vele Polje raskrsnica",
+      "longitude": 21.8509215039938,
+      "latitude": 43.4536665838464
+    },
+    {
+      "id": "_31",
+      "label": "Paligrace mlin",
+      "longitude": 21.8588072083701,
+      "latitude": 43.4608353740927
+    },
+    {
+      "id": "_32",
+      "label": "Paligrace",
+      "longitude": 21.8619346580371,
+      "latitude": 43.4644642257763
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Paligrace",
+      "longitude": 21.8617522708463,
+      "latitude": 43.4647211962849
+    },
+    {
+      "id": "_2",
+      "label": "Paligrace mlin",
+      "longitude": 21.8598908266551,
+      "latitude": 43.4615284548686
+    },
+    {
+      "id": "_3",
+      "label": "Vele Polje raskrsnica",
+      "longitude": 21.8509617256447,
+      "latitude": 43.453874922984
+    },
+    {
+      "id": "_4",
+      "label": "Vele Polje naselje",
+      "longitude": 21.8489903280097,
+      "latitude": 43.450858803211
+    },
+    {
+      "id": "_5",
+      "label": "Vele Polje škola",
+      "longitude": 21.8471932570363,
+      "latitude": 43.4467150441474
+    },
+    {
+      "id": "_6",
+      "label": "Vele Polje ulaz",
+      "longitude": 21.847064501534,
+      "latitude": 43.4408727963441
+    },
+    {
+      "id": "_7",
+      "label": "Miljkovac raskrsnica",
+      "longitude": 21.8491566038132,
+      "latitude": 43.4251933099319
+    },
+    {
+      "id": "_8",
+      "label": "Miljkovac škola",
+      "longitude": 21.8542742729187,
+      "latitude": 43.4268568915446
+    },
+    {
+      "id": "_9",
+      "label": "Miljkovac naselje",
+      "longitude": 21.8589413188209,
+      "latitude": 43.4300631505454
+    },
+    {
+      "id": "_10",
+      "label": "Miljkovac škola",
+      "longitude": 21.8553042357405,
+      "latitude": 43.4274217976188
+    },
+    {
+      "id": "_11",
+      "label": "Miljkovac raskrsnica",
+      "longitude": 21.8494033577744,
+      "latitude": 43.4252517503419
+    },
+    {
+      "id": "_12",
+      "label": "Paljina",
+      "longitude": 21.834592222563,
+      "latitude": 43.4153004835538
+    },
+    {
+      "id": "_13",
+      "label": "Berčinac",
+      "longitude": 21.8217122486276,
+      "latitude": 43.4080132800071
+    },
+    {
+      "id": "_14",
+      "label": "Berčinac ulaz",
+      "longitude": 21.8158274929289,
+      "latitude": 43.4100943142053
+    },
+    {
+      "id": "_15",
+      "label": "Gornja Toponica izlaz",
+      "longitude": 21.8073892597413,
+      "latitude": 43.4064115364538
+    },
+    {
+      "id": "_16",
+      "label": "Gornja Toponica naselje",
+      "longitude": 21.8065631755166,
+      "latitude": 43.4024868908714
+    },
+    {
+      "id": "_17",
+      "label": "Gornja Toponica klinika",
+      "longitude": 21.8062734436339,
+      "latitude": 43.3994526187076
+    },
+    {
+      "id": "_18",
+      "label": "Kostin pojate",
+      "longitude": 21.8139231875158,
+      "latitude": 43.391565138823
+    },
+    {
+      "id": "_19",
+      "label": "Skretanje za Nais - Ikon",
+      "longitude": 21.8182950541758,
+      "latitude": 43.3856785817969
+    },
+    {
+      "id": "_20",
+      "label": "Vrtiški put",
+      "longitude": 21.8223452720366,
+      "latitude": 43.3803957873295
+    },
+    {
+      "id": "_21",
+      "label": "Stovarište",
+      "longitude": 21.8252473947746,
+      "latitude": 43.3765318432427
+    },
+    {
+      "id": "_22",
+      "label": "Mlekara",
+      "longitude": 21.8302685387902,
+      "latitude": 43.3732057688564
+    },
+    {
+      "id": "_23",
+      "label": "Eurometal",
+      "longitude": 21.8358421417071,
+      "latitude": 43.3689319049092
+    },
+    {
+      "id": "_24",
+      "label": "Kafana Kosovka",
+      "longitude": 21.8405733360342,
+      "latitude": 43.3652739245113
+    },
+    {
+      "id": "_25",
+      "label": "Čamurlija",
+      "longitude": 21.8458199836123,
+      "latitude": 43.3612569115448
+    },
+    {
+      "id": "_26",
+      "label": "Lovopromet",
+      "longitude": 21.8515436318299,
+      "latitude": 43.3568339896438
+    },
+    {
+      "id": "_27",
+      "label": "Naselje Ratko Jović",
+      "longitude": 21.8678149706393,
+      "latitude": 43.3442751259294
+    },
+    {
+      "id": "_28",
+      "label": "Ratka Jovića",
+      "longitude": 21.8708891187239,
+      "latitude": 43.3419022257677
+    },
+    {
+      "id": "_29",
+      "label": "MIN",
+      "longitude": 21.8759274047295,
+      "latitude": 43.3380558835071
+    },
+    {
+      "id": "_30",
+      "label": "DIN",
+      "longitude": 21.8823420736979,
+      "latitude": 43.3330734525927
+    },
+    {
+      "id": "_31",
+      "label": "Logor",
+      "longitude": 21.8868925225776,
+      "latitude": 43.3293582215928
+    },
+    {
+      "id": "_32",
+      "label": "PAS Niš",
+      "longitude": 21.8905887068638,
+      "latitude": 43.3251601189193
+    }
+  ]
+}

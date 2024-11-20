@@ -1,0 +1,288 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "PAS Niš",
+      "longitude": 21.8905887068638,
+      "latitude": 43.3251601189193
+    },
+    {
+      "id": "_2",
+      "label": "Šivara",
+      "longitude": 21.8884782066108,
+      "latitude": 43.3197355494934
+    },
+    {
+      "id": "_3",
+      "label": "Feroks",
+      "longitude": 21.8841748009106,
+      "latitude": 43.316474327193
+    },
+    {
+      "id": "_4",
+      "label": "Železnička stanica (Glavna pošta)",
+      "longitude": 21.876359694241,
+      "latitude": 43.3156938763504
+    },
+    {
+      "id": "_5",
+      "label": "Ledena stena",
+      "longitude": 21.8662988440398,
+      "latitude": 43.3152756422237
+    },
+    {
+      "id": "_6",
+      "label": "Ledena stena",
+      "longitude": 21.8589191790085,
+      "latitude": 43.3159705907125
+    },
+    {
+      "id": "_7",
+      "label": "Metro",
+      "longitude": 21.8419929040778,
+      "latitude": 43.3172490540917
+    },
+    {
+      "id": "_8",
+      "label": "Naselje Milka Protić",
+      "longitude": 21.8382375505519,
+      "latitude": 43.3176007862765
+    },
+    {
+      "id": "_9",
+      "label": "KP Dom",
+      "longitude": 21.8342857774254,
+      "latitude": 43.3180168451592
+    },
+    {
+      "id": "_10",
+      "label": "Naselje 9. maj (centar)",
+      "longitude": 21.8174451315025,
+      "latitude": 43.3163924603544
+    },
+    {
+      "id": "_11",
+      "label": "Naselje 9. maj (škola)",
+      "longitude": 21.8119315134278,
+      "latitude": 43.3158107278642
+    },
+    {
+      "id": "_12",
+      "label": "Zeleni Vir",
+      "longitude": 21.7970949294534,
+      "latitude": 43.3138048464667
+    },
+    {
+      "id": "_13",
+      "label": "Vulkan",
+      "longitude": 21.791381097765,
+      "latitude": 43.313029618112
+    },
+    {
+      "id": "_14",
+      "label": "Mramor",
+      "longitude": 21.78416333753,
+      "latitude": 43.3133243387484
+    },
+    {
+      "id": "_15",
+      "label": "Krušce - ulaz",
+      "longitude": 21.7799770850195,
+      "latitude": 43.3214390080397
+    },
+    {
+      "id": "_16",
+      "label": "Krušce",
+      "longitude": 21.777166124129,
+      "latitude": 43.3254781686885
+    },
+    {
+      "id": "_17",
+      "label": "Krušce - igralište",
+      "longitude": 21.7760181513639,
+      "latitude": 43.3293843864689
+    },
+    {
+      "id": "_18",
+      "label": "Lalinsko pojate",
+      "longitude": 21.7653644062768,
+      "latitude": 43.3453188396491
+    },
+    {
+      "id": "_19",
+      "label": "Dudulajce - raskrsnica",
+      "longitude": 21.7616200487379,
+      "latitude": 43.3514238575998
+    },
+    {
+      "id": "_20",
+      "label": "Vikendice",
+      "longitude": 21.7630040516652,
+      "latitude": 43.3689319049092
+    },
+    {
+      "id": "_21",
+      "label": "Sečanica - raskrsnica",
+      "longitude": 21.763465393832,
+      "latitude": 43.3775144235108
+    },
+    {
+      "id": "_22",
+      "label": "Sečanica - ulaz",
+      "longitude": 21.7531228045343,
+      "latitude": 43.3747382032822
+    },
+    {
+      "id": "_23",
+      "label": "Sečanica MK",
+      "longitude": 21.7482572793961,
+      "latitude": 43.3727534398429
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Sečanica MK",
+      "longitude": 21.7482572793961,
+      "latitude": 43.3727534398429
+    },
+    {
+      "id": "_2",
+      "label": "Sečanica česma",
+      "longitude": 21.7458379226335,
+      "latitude": 43.3720281466243
+    },
+    {
+      "id": "_3",
+      "label": "Sečanica - Etno kuća",
+      "longitude": 21.7462670819188,
+      "latitude": 43.3697274279445
+    },
+    {
+      "id": "_4",
+      "label": "Sečanica crkva",
+      "longitude": 21.7427480178484,
+      "latitude": 43.3667792608526
+    },
+    {
+      "id": "_5",
+      "label": "Selište raskrsnica",
+      "longitude": 21.7406049369758,
+      "latitude": 43.3607089391602
+    },
+    {
+      "id": "_6",
+      "label": "Dudulajce (raskrsnica)",
+      "longitude": 21.7614805712498,
+      "latitude": 43.35143555992
+    },
+    {
+      "id": "_7",
+      "label": "Lalinsko pojate",
+      "longitude": 21.7651069154202,
+      "latitude": 43.3455060953339
+    },
+    {
+      "id": "_8",
+      "label": "Krušce - igralište",
+      "longitude": 21.7757552902464,
+      "latitude": 43.3296965608659
+    },
+    {
+      "id": "_9",
+      "label": "Krušce",
+      "longitude": 21.7768871510197,
+      "latitude": 43.325692802561
+    },
+    {
+      "id": "_10",
+      "label": "Krušce - ulaz",
+      "longitude": 21.7798295620634,
+      "latitude": 43.3215404781657
+    },
+    {
+      "id": "_11",
+      "label": "Mramor",
+      "longitude": 21.7839986942752,
+      "latitude": 43.3133668794896
+    },
+    {
+      "id": "_12",
+      "label": "Vulkan",
+      "longitude": 21.7915574988378,
+      "latitude": 43.3129437762865
+    },
+    {
+      "id": "_13",
+      "label": "Zeleni Vir",
+      "longitude": 21.7966174914132,
+      "latitude": 43.313637009032
+    },
+    {
+      "id": "_14",
+      "label": "Naselje 9. maj (škola)",
+      "longitude": 21.8116633257603,
+      "latitude": 43.3156686079184
+    },
+    {
+      "id": "_15",
+      "label": "Naselje 9. maj (centar)",
+      "longitude": 21.8183175320753,
+      "latitude": 43.3163591973418
+    },
+    {
+      "id": "_16",
+      "label": "KP Dom",
+      "longitude": 21.8342855254191,
+      "latitude": 43.3178188068295
+    },
+    {
+      "id": "_17",
+      "label": "Naselje Milka Protić",
+      "longitude": 21.8377030242698,
+      "latitude": 43.3174606849964
+    },
+    {
+      "id": "_18",
+      "label": "Metro",
+      "longitude": 21.8422264704442,
+      "latitude": 43.3170222836346
+    },
+    {
+      "id": "_19",
+      "label": "Ledena stena",
+      "longitude": 21.8578406594633,
+      "latitude": 43.3158976921897
+    },
+    {
+      "id": "_20",
+      "label": "Ledena stena",
+      "longitude": 21.8661689785356,
+      "latitude": 43.3151596048934
+    },
+    {
+      "id": "_21",
+      "label": "Železnička stanica",
+      "longitude": 21.8789426196503,
+      "latitude": 43.3156199887215
+    },
+    {
+      "id": "_22",
+      "label": "Pirotska rampa",
+      "longitude": 21.8830330327269,
+      "latitude": 43.3159538659189
+    },
+    {
+      "id": "_23",
+      "label": "Trg kralja Aleksandra",
+      "longitude": 21.8918020230148,
+      "latitude": 43.3183845408261
+    },
+    {
+      "id": "_24",
+      "label": "PAS Niš",
+      "longitude": 21.8905887068638,
+      "latitude": 43.3251601189193
+    }
+  ]
+}

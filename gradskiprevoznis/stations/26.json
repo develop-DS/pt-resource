@@ -1,0 +1,192 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "PAS Niš",
+      "longitude": 21.8905887068638,
+      "latitude": 43.3251601189193
+    },
+    {
+      "id": "_2",
+      "label": "Šivara",
+      "longitude": 21.8884782066108,
+      "latitude": 43.3197355494934
+    },
+    {
+      "id": "_3",
+      "label": "Feroks",
+      "longitude": 21.8841748009106,
+      "latitude": 43.316474327193
+    },
+    {
+      "id": "_4",
+      "label": "Železnička stanica (Glavna pošta)",
+      "longitude": 21.876359694241,
+      "latitude": 43.3156938763504
+    },
+    {
+      "id": "_5",
+      "label": "Ledena stena",
+      "longitude": 21.8662988440398,
+      "latitude": 43.3152756422237
+    },
+    {
+      "id": "_6",
+      "label": "Metro",
+      "longitude": 21.8419929040778,
+      "latitude": 43.3172490540917
+    },
+    {
+      "id": "_7",
+      "label": "Naselje Milka Protić",
+      "longitude": 21.8382375505519,
+      "latitude": 43.3176007862765
+    },
+    {
+      "id": "_8",
+      "label": "KP Dom",
+      "longitude": 21.8342857774254,
+      "latitude": 43.3180168451592
+    },
+    {
+      "id": "_9",
+      "label": "Naselje 9. Maj (ambulanta)",
+      "longitude": 21.817911554642,
+      "latitude": 43.3180103889907
+    },
+    {
+      "id": "_10",
+      "label": "Naselje 9. Maj (groblje)",
+      "longitude": 21.8094973842371,
+      "latitude": 43.3205569913447
+    },
+    {
+      "id": "_11",
+      "label": "Ciglanski put",
+      "longitude": 21.803693307827,
+      "latitude": 43.325938654974
+    },
+    {
+      "id": "_12",
+      "label": "Lalinac ulaz",
+      "longitude": 21.7954644230805,
+      "latitude": 43.3369463598729
+    },
+    {
+      "id": "_13",
+      "label": "Lalinac škola",
+      "longitude": 21.7898956606295,
+      "latitude": 43.3389127869132
+    },
+    {
+      "id": "_14",
+      "label": "Lalinac raskrsnica",
+      "longitude": 21.7858726821929,
+      "latitude": 43.3408089241045
+    },
+    {
+      "id": "_15",
+      "label": "Lalinac okretnica - trafo",
+      "longitude": 21.7864225076248,
+      "latitude": 43.3432394824976
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Lalinac okretnica - trafo",
+      "longitude": 21.7864225076248,
+      "latitude": 43.3432394824976
+    },
+    {
+      "id": "_2",
+      "label": "Lalinac raskrsnica",
+      "longitude": 21.7858271394718,
+      "latitude": 43.3407406485873
+    },
+    {
+      "id": "_3",
+      "label": "Lalinac škola",
+      "longitude": 21.7901638754385,
+      "latitude": 43.3384563005976
+    },
+    {
+      "id": "_4",
+      "label": "Lalinac ulaz",
+      "longitude": 21.7954853842165,
+      "latitude": 43.3366927485748
+    },
+    {
+      "id": "_5",
+      "label": "Ciglanski put",
+      "longitude": 21.8034840239374,
+      "latitude": 43.3259932887084
+    },
+    {
+      "id": "_6",
+      "label": "Naselje 9. maj groblje",
+      "longitude": 21.8095190399144,
+      "latitude": 43.3204555195762
+    },
+    {
+      "id": "_7",
+      "label": "Naselje 9. maj ambulanta",
+      "longitude": 21.8179138058089,
+      "latitude": 43.3179303790648
+    },
+    {
+      "id": "_8",
+      "label": "KP Dom",
+      "longitude": 21.8342855254191,
+      "latitude": 43.3178188068295
+    },
+    {
+      "id": "_9",
+      "label": "Naselje Milka Protić",
+      "longitude": 21.8377030242698,
+      "latitude": 43.3174606849964
+    },
+    {
+      "id": "_10",
+      "label": "Metro",
+      "longitude": 21.8422264704442,
+      "latitude": 43.3170222836346
+    },
+    {
+      "id": "_11",
+      "label": "Ledena stena",
+      "longitude": 21.8661689785356,
+      "latitude": 43.3151596048934
+    },
+    {
+      "id": "_12",
+      "label": "Železnička stanica",
+      "longitude": 21.8789426196503,
+      "latitude": 43.3156199887215
+    },
+    {
+      "id": "_13",
+      "label": "Pirotska rampa",
+      "longitude": 21.8830330327269,
+      "latitude": 43.3159538659189
+    },
+    {
+      "id": "_14",
+      "label": "Kičevo",
+      "longitude": 21.8872228608338,
+      "latitude": 43.3173526389032
+    },
+    {
+      "id": "_15",
+      "label": "Trg kralja Aleksandra",
+      "longitude": 21.8918020230148,
+      "latitude": 43.3183845408261
+    },
+    {
+      "id": "_16",
+      "label": "PAS Niš",
+      "longitude": 21.8905887068638,
+      "latitude": 43.3251601189193
+    }
+  ]
+}

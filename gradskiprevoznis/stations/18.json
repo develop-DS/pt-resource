@@ -1,0 +1,252 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "PAS Niš",
+      "longitude": 21.8905887068638,
+      "latitude": 43.3251601189193
+    },
+    {
+      "id": "_2",
+      "label": "Dom Vojske Srbije",
+      "longitude": 21.902075639307,
+      "latitude": 43.3203003501236
+    },
+    {
+      "id": "_3",
+      "label": "Gradska bolnica",
+      "longitude": 21.911791328114,
+      "latitude": 43.3173623190023
+    },
+    {
+      "id": "_4",
+      "label": "ATD",
+      "longitude": 21.9171793923648,
+      "latitude": 43.3149426403545
+    },
+    {
+      "id": "_5",
+      "label": "Ćele kula",
+      "longitude": 21.9260087788505,
+      "latitude": 43.311706262001
+    },
+    {
+      "id": "_6",
+      "label": "Ekonomska škola",
+      "longitude": 21.9334671875581,
+      "latitude": 43.31044282626
+    },
+    {
+      "id": "_7",
+      "label": "Elektronska industrija",
+      "longitude": 21.9514888488563,
+      "latitude": 43.3075663749013
+    },
+    {
+      "id": "_8",
+      "label": "Brzi Brod 1",
+      "longitude": 21.9604941651667,
+      "latitude": 43.3061316316367
+    },
+    {
+      "id": "_9",
+      "label": "Brzi Brod 2",
+      "longitude": 21.965505107242,
+      "latitude": 43.305297170538
+    },
+    {
+      "id": "_10",
+      "label": "Naselje Nikola Tesla",
+      "longitude": 21.9810603438492,
+      "latitude": 43.302679956718
+    },
+    {
+      "id": "_11",
+      "label": "Banjska rampa",
+      "longitude": 21.997386130288,
+      "latitude": 43.3002339300215
+    },
+    {
+      "id": "_12",
+      "label": "Carigradska",
+      "longitude": 22.0109529399791,
+      "latitude": 43.3012040405801
+    },
+    {
+      "id": "_13",
+      "label": "Konjički klub",
+      "longitude": 22.0193670022427,
+      "latitude": 43.3018111095477
+    },
+    {
+      "id": "_14",
+      "label": "Prosek",
+      "longitude": 22.0505262304611,
+      "latitude": 43.3123469872292
+    },
+    {
+      "id": "_15",
+      "label": "Vikendice",
+      "longitude": 22.0574809943391,
+      "latitude": 43.3260479223937
+    },
+    {
+      "id": "_16",
+      "label": "Sićevo hotel",
+      "longitude": 22.0641813032469,
+      "latitude": 43.3301804280103
+    },
+    {
+      "id": "_17",
+      "label": "Kneževa česma",
+      "longitude": 22.0691404076614,
+      "latitude": 43.3334269207608
+    },
+    {
+      "id": "_18",
+      "label": "Sićevo ulaz - seoska česma",
+      "longitude": 22.0812481245759,
+      "latitude": 43.3383509571143
+    },
+    {
+      "id": "_19",
+      "label": "Sićevo selo",
+      "longitude": 22.0858294167754,
+      "latitude": 43.3400832489642
+    },
+    {
+      "id": "_20",
+      "label": "Sićevo okretnica - zadruga",
+      "longitude": 22.08662609987,
+      "latitude": 43.3390220309927
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Sićevo okretnica - zadruga",
+      "longitude": 22.08662609987,
+      "latitude": 43.3390220309927
+    },
+    {
+      "id": "_2",
+      "label": "Sićevo selo",
+      "longitude": 22.0858936740349,
+      "latitude": 43.3401651804628
+    },
+    {
+      "id": "_3",
+      "label": "Sićevo ulaz - seoska česma",
+      "longitude": 22.0811836510338,
+      "latitude": 43.3386084630841
+    },
+    {
+      "id": "_4",
+      "label": "Kneževa česma",
+      "longitude": 22.0691943381876,
+      "latitude": 43.333540076633
+    },
+    {
+      "id": "_5",
+      "label": "Sićevo hotel",
+      "longitude": 22.0643499732221,
+      "latitude": 43.3303794367655
+    },
+    {
+      "id": "_6",
+      "label": "Vikendice Sićevo",
+      "longitude": 22.0569534338313,
+      "latitude": 43.3258567042802
+    },
+    {
+      "id": "_7",
+      "label": "Prosek",
+      "longitude": 22.0489599879393,
+      "latitude": 43.3120405786314
+    },
+    {
+      "id": "_8",
+      "label": "Konjički klub",
+      "longitude": 22.0182539921197,
+      "latitude": 43.301781829833
+    },
+    {
+      "id": "_9",
+      "label": "Carigradska B",
+      "longitude": 22.0107168385686,
+      "latitude": 43.3012645525499
+    },
+    {
+      "id": "_10",
+      "label": "Banjska rampa",
+      "longitude": 21.9981570677594,
+      "latitude": 43.3004972425215
+    },
+    {
+      "id": "_11",
+      "label": "Naselje Nikola Tesla",
+      "longitude": 21.9823908834615,
+      "latitude": 43.3026415015022
+    },
+    {
+      "id": "_12",
+      "label": "Brzi Brod 2",
+      "longitude": 21.9654318948423,
+      "latitude": 43.3054994310338
+    },
+    {
+      "id": "_13",
+      "label": "Brzi Brod 1",
+      "longitude": 21.9607111718618,
+      "latitude": 43.3062918371399
+    },
+    {
+      "id": "_14",
+      "label": "Elektronska industrija",
+      "longitude": 21.9507394851671,
+      "latitude": 43.3078876867236
+    },
+    {
+      "id": "_15",
+      "label": "Ekonomska škola",
+      "longitude": 21.933942286778,
+      "latitude": 43.3105559610188
+    },
+    {
+      "id": "_16",
+      "label": "Ćele kula",
+      "longitude": 21.9264666732397,
+      "latitude": 43.3118231681998
+    },
+    {
+      "id": "_17",
+      "label": "Medicinski fakultet",
+      "longitude": 21.9161983170636,
+      "latitude": 43.3156130588459
+    },
+    {
+      "id": "_18",
+      "label": "Gradska bolnica",
+      "longitude": 21.9105455040249,
+      "latitude": 43.3181428266918
+    },
+    {
+      "id": "_19",
+      "label": "Crveni pevac",
+      "longitude": 21.9052139193894,
+      "latitude": 43.3200864481009
+    },
+    {
+      "id": "_20",
+      "label": "Trg kralja Milana (Spomenik)",
+      "longitude": 21.8958302411904,
+      "latitude": 43.3210067072558
+    },
+    {
+      "id": "_21",
+      "label": "PAS Niš",
+      "longitude": 21.8905887068638,
+      "latitude": 43.3251601189193
+    }
+  ]
+}

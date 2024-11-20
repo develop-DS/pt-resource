@@ -1,0 +1,276 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "PAS Niš",
+      "longitude": 21.8905887068638,
+      "latitude": 43.3251601189193
+    },
+    {
+      "id": "_2",
+      "label": "Jagodin mala",
+      "longitude": 21.9045325044132,
+      "latitude": 43.3276533715926
+    },
+    {
+      "id": "_3",
+      "label": "Branko Mišić Kamenko",
+      "longitude": 21.9080450612548,
+      "latitude": 43.3315034349144
+    },
+    {
+      "id": "_4",
+      "label": "Pantelej raskrsnica",
+      "longitude": 21.9102729240106,
+      "latitude": 43.335030592925
+    },
+    {
+      "id": "_5",
+      "label": "Pruga",
+      "longitude": 21.9147392863716,
+      "latitude": 43.3390278833486
+    },
+    {
+      "id": "_6",
+      "label": "Bečejska",
+      "longitude": 21.9175742624972,
+      "latitude": 43.341585308871
+    },
+    {
+      "id": "_7",
+      "label": "Prevalac I (Jumbo) ",
+      "longitude": 21.9223112416227,
+      "latitude": 43.3453656536245
+    },
+    {
+      "id": "_8",
+      "label": "Enterijeri",
+      "longitude": 21.9263183918275,
+      "latitude": 43.3479442676688
+    },
+    {
+      "id": "_9",
+      "label": "Prevalac II",
+      "longitude": 21.9298374470088,
+      "latitude": 43.3508465403381
+    },
+    {
+      "id": "_10",
+      "label": "Prevalac III",
+      "longitude": 21.9310230138558,
+      "latitude": 43.3554922282593
+    },
+    {
+      "id": "_11",
+      "label": "Babin Kal",
+      "longitude": 21.9333136569093,
+      "latitude": 43.3624893438067
+    },
+    {
+      "id": "_12",
+      "label": "Kamenica",
+      "longitude": 21.938930105107,
+      "latitude": 43.3737828733893
+    },
+    {
+      "id": "_13",
+      "label": "Kamenica škola",
+      "longitude": 21.93845787487,
+      "latitude": 43.3754322702552
+    },
+    {
+      "id": "_14",
+      "label": "Brenica vikendice",
+      "longitude": 21.9350355924496,
+      "latitude": 43.3783956129071
+    },
+    {
+      "id": "_15",
+      "label": "Brenica (okretnica)",
+      "longitude": 21.9284668305866,
+      "latitude": 43.3821541707689
+    },
+    {
+      "id": "_16",
+      "label": "Brenica vikendice",
+      "longitude": 21.934483194473,
+      "latitude": 43.3787036362683
+    },
+    {
+      "id": "_17",
+      "label": "Kamenica spomenik",
+      "longitude": 21.9407433088634,
+      "latitude": 43.3763485824627
+    },
+    {
+      "id": "_18",
+      "label": "Dabilo česma",
+      "longitude": 21.9399333000183,
+      "latitude": 43.3887778668558
+    },
+    {
+      "id": "_19",
+      "label": "Cerjanska pećina",
+      "longitude": 21.9390937015795,
+      "latitude": 43.3935921651986
+    },
+    {
+      "id": "_20",
+      "label": "Kapetanove pojate",
+      "longitude": 21.92967659367,
+      "latitude": 43.4040867895056
+    },
+    {
+      "id": "_21",
+      "label": "Bašte",
+      "longitude": 21.9269781817367,
+      "latitude": 43.4117700013854
+    },
+    {
+      "id": "_22",
+      "label": "Cerje",
+      "longitude": 21.9104075553673,
+      "latitude": 43.4269367578958
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Cerje",
+      "longitude": 21.9104075553673,
+      "latitude": 43.4269367578958
+    },
+    {
+      "id": "_2",
+      "label": "Bašte",
+      "longitude": 21.9268064655275,
+      "latitude": 43.4117115479619
+    },
+    {
+      "id": "_3",
+      "label": "Kapetanove pojate",
+      "longitude": 21.9299769614787,
+      "latitude": 43.4034183838872
+    },
+    {
+      "id": "_4",
+      "label": "Cerjanska pećina na zahtev",
+      "longitude": 21.9390159662578,
+      "latitude": 43.3936467380484
+    },
+    {
+      "id": "_5",
+      "label": "Dabilo česma",
+      "longitude": 21.939804584448,
+      "latitude": 43.3888168505644
+    },
+    {
+      "id": "_6",
+      "label": "Kamenica spomenik",
+      "longitude": 21.9405285706918,
+      "latitude": 43.3763641791464
+    },
+    {
+      "id": "_7",
+      "label": "Brenica vikendice",
+      "longitude": 21.9350355924496,
+      "latitude": 43.3783956129071
+    },
+    {
+      "id": "_8",
+      "label": "Brenica (okretnica)",
+      "longitude": 21.9284668305866,
+      "latitude": 43.3821541707689
+    },
+    {
+      "id": "_9",
+      "label": "Brenica vikendice",
+      "longitude": 21.934483194473,
+      "latitude": 43.3787036362683
+    },
+    {
+      "id": "_10",
+      "label": "Kamenica škola",
+      "longitude": 21.9384124281053,
+      "latitude": 43.375346487127
+    },
+    {
+      "id": "_11",
+      "label": "Kamenica",
+      "longitude": 21.9385545105504,
+      "latitude": 43.3736970879278
+    },
+    {
+      "id": "_12",
+      "label": "Babin Kal",
+      "longitude": 21.9331097359146,
+      "latitude": 43.3623177408148
+    },
+    {
+      "id": "_13",
+      "label": "Prevalac III",
+      "longitude": 21.9308352226699,
+      "latitude": 43.3553596106974
+    },
+    {
+      "id": "_14",
+      "label": "Prevalac II",
+      "longitude": 21.9297167247564,
+      "latitude": 43.3507724248865
+    },
+    {
+      "id": "_15",
+      "label": "Enterijeri",
+      "longitude": 21.9260985725377,
+      "latitude": 43.3479481686661
+    },
+    {
+      "id": "_16",
+      "label": "Prevalac I (Jumbo)",
+      "longitude": 21.9231962913955,
+      "latitude": 43.3459586275207
+    },
+    {
+      "id": "_17",
+      "label": "Bečejska",
+      "longitude": 21.9173759892202,
+      "latitude": 43.3415658018377
+    },
+    {
+      "id": "_18",
+      "label": "Pruga",
+      "longitude": 21.913899834152,
+      "latitude": 43.3389010821788
+    },
+    {
+      "id": "_19",
+      "label": "Pantelej raskrsnica",
+      "longitude": 21.9103778759097,
+      "latitude": 43.3352451930432
+    },
+    {
+      "id": "_20",
+      "label": "Branko Mišić Kamenko",
+      "longitude": 21.907820971313,
+      "latitude": 43.3313611900677
+    },
+    {
+      "id": "_21",
+      "label": "Jagodin mala",
+      "longitude": 21.9043660328877,
+      "latitude": 43.3277357079095
+    },
+    {
+      "id": "_22",
+      "label": "Tvrđava",
+      "longitude": 21.8957063799416,
+      "latitude": 43.3233844730451
+    },
+    {
+      "id": "_23",
+      "label": "PAS Niš",
+      "longitude": 21.8905887068638,
+      "latitude": 43.3251601189193
+    }
+  ]
+}

@@ -38,117 +38,123 @@
     },
     {
       "id": "_7",
-      "label": "1300 kaplara",
+      "label": "Jurija Gagarina",
       "longitude": 21.8669623208022,
       "latitude": 43.3007632405805
     },
     {
       "id": "_8",
+      "label": "1300 kaplara",
+      "longitude": 21.8673044414892,
+      "latitude": 43.304264699529
+    },
+    {
+      "id": "_9",
       "label": "Bubanj (spomenik)",
       "longitude": 21.868543955493,
       "latitude": 43.3072595386604
     },
     {
-      "id": "_9",
+      "id": "_10",
       "label": "Zmaja od Noćaja",
       "longitude": 21.8773219517633,
       "latitude": 43.3121505609612
     },
     {
-      "id": "_10",
+      "id": "_11",
+      "label": "Kralja Petra I",
+      "longitude": 21.8815844855073,
+      "latitude": 43.3145893827469
+    },
+    {
+      "id": "_12",
       "label": "Obilićev venac rampa",
       "longitude": 21.8854535337685,
       "latitude": 43.3157316584352
     },
     {
-      "id": "_11",
+      "id": "_13",
       "label": "Obilićev venac (Šojka)",
       "longitude": 21.8905609206792,
       "latitude": 43.3159709488717
     },
     {
-      "id": "_12",
+      "id": "_14",
       "label": "Trg Pavla Stojkovića",
       "longitude": 21.8919873863238,
       "latitude": 43.3174054938887
     },
     {
-      "id": "_13",
+      "id": "_15",
       "label": "Marger",
       "longitude": 21.8945342751719,
       "latitude": 43.3158840433485
     },
     {
-      "id": "_14",
+      "id": "_16",
       "label": "Čačanska",
       "longitude": 21.8953516714838,
       "latitude": 43.3126207700789
     },
     {
-      "id": "_15",
+      "id": "_17",
       "label": "Palilulska pijaca",
       "longitude": 21.900094136842,
       "latitude": 43.3122071663571
     },
     {
-      "id": "_16",
+      "id": "_18",
       "label": "Tehnogas",
       "longitude": 21.9058190498541,
       "latitude": 43.3120430201106
     },
     {
-      "id": "_17",
+      "id": "_19",
       "label": "Pivara",
       "longitude": 21.9100945557148,
       "latitude": 43.3119009635746
     },
     {
-      "id": "_18",
+      "id": "_20",
       "label": "Avalska",
       "longitude": 21.915859848899,
       "latitude": 43.3116387727931
     },
     {
-      "id": "_19",
+      "id": "_21",
       "label": "Triglavska",
       "longitude": 21.9195887248646,
       "latitude": 43.3113837254652
     },
     {
-      "id": "_20",
+      "id": "_22",
       "label": "Seličevica",
       "longitude": 21.9215950391878,
       "latitude": 43.3105321635383
     },
     {
-      "id": "_21",
+      "id": "_23",
       "label": "Ciglana",
       "longitude": 21.9220579855005,
       "latitude": 43.3077306545096
     },
     {
-      "id": "_22",
+      "id": "_24",
       "label": "Ciglana 1",
       "longitude": 21.9204332404891,
       "latitude": 43.3044653098145
     },
     {
-      "id": "_23",
+      "id": "_25",
       "label": "Trafo",
       "longitude": 21.9178615449851,
       "latitude": 43.3023075885478
     },
     {
-      "id": "_24",
+      "id": "_26",
       "label": "Ljubomira Nikolića",
       "longitude": 21.9185430244018,
       "latitude": 43.3007483854029
-    },
-    {
-      "id": "_25",
-      "label": "Grabovačka reka",
-      "longitude": 21.9219558262801,
-      "latitude": 43.3031045385437
     }
   ],
   "direction_b": [
@@ -244,48 +250,60 @@
     },
     {
       "id": "_16",
+      "label": "Prekršajni sud",
+      "longitude": 21.8802648219177,
+      "latitude": 43.3139648770775
+    },
+    {
+      "id": "_17",
       "label": "Salvadora Aljendea",
       "longitude": 21.8762818368867,
       "latitude": 43.3116598559612
     },
     {
-      "id": "_17",
+      "id": "_18",
       "label": "Bubanj (spomenik)",
       "longitude": 21.8687832027025,
       "latitude": 43.3077852240407
     },
     {
-      "id": "_18",
+      "id": "_19",
       "label": "1300 kaplara",
+      "longitude": 21.8672105758221,
+      "latitude": 43.3043154489527
+    },
+    {
+      "id": "_20",
+      "label": "Jurija Gagarina",
       "longitude": 21.8667839132449,
       "latitude": 43.3003523120015
     },
     {
-      "id": "_19",
+      "id": "_21",
       "label": "Čedomira Krstića",
       "longitude": 21.866400726392,
       "latitude": 43.2976780732822
     },
     {
-      "id": "_20",
+      "id": "_22",
       "label": "MK Pasi Poljana",
       "longitude": 21.8656056609778,
       "latitude": 43.2929041246828
     },
     {
-      "id": "_21",
+      "id": "_23",
       "label": "Lužičkih Srba",
       "longitude": 21.8699551180216,
       "latitude": 43.2937118043567
     },
     {
-      "id": "_22",
+      "id": "_24",
       "label": "Gligorija Đaka",
       "longitude": 21.8736909634234,
       "latitude": 43.2981247620167
     },
     {
-      "id": "_23",
+      "id": "_25",
       "label": "Novo Groblje (okretnica)",
       "longitude": 21.8797877722664,
       "latitude": 43.2958094281457

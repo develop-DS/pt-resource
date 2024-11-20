@@ -8,90 +8,96 @@
     },
     {
       "id": "_2",
+      "label": "Medoševac",
+      "longitude": 21.8645551815959,
+      "latitude": 43.324715236694
+    },
+    {
+      "id": "_3",
       "label": "Papir servis",
       "longitude": 21.8693452994034,
       "latitude": 43.3214097054591
     },
     {
-      "id": "_3",
+      "id": "_4",
       "label": "Azija (centar)",
       "longitude": 21.8785695977869,
       "latitude": 43.3203488181205
     },
     {
-      "id": "_4",
+      "id": "_5",
       "label": "Šumadijska",
       "longitude": 21.8820662044242,
       "latitude": 43.31899316038
     },
     {
-      "id": "_5",
+      "id": "_6",
       "label": "Kičevo",
       "longitude": 21.8872228608338,
       "latitude": 43.3173526389032
     },
     {
-      "id": "_6",
+      "id": "_7",
       "label": "Trg kralja Aleksandra",
       "longitude": 21.8918020230148,
       "latitude": 43.3183845408261
     },
     {
-      "id": "_7",
+      "id": "_8",
       "label": "Trg kralja Milana",
       "longitude": 21.896946556276,
       "latitude": 43.3207908920573
     },
     {
-      "id": "_8",
+      "id": "_9",
       "label": "Učiteljski dom",
       "longitude": 21.9011773494645,
       "latitude": 43.3215821077519
     },
     {
-      "id": "_9",
+      "id": "_10",
       "label": "Vojvode Mišića",
       "longitude": 21.9081578552616,
       "latitude": 43.3241966761189
     },
     {
-      "id": "_10",
+      "id": "_11",
       "label": "Niš ekspres",
       "longitude": 21.9130317845184,
       "latitude": 43.321973926178
     },
     {
-      "id": "_11",
+      "id": "_12",
       "label": "Bulevarska pijaca",
       "longitude": 21.9174450461534,
       "latitude": 43.3199671170503
     },
     {
-      "id": "_12",
+      "id": "_13",
       "label": "Romanijska",
       "longitude": 21.9205038613177,
       "latitude": 43.3197210280894
     },
     {
-      "id": "_13",
+      "id": "_14",
       "label": "TC Merkator",
       "longitude": 21.9231384066655,
       "latitude": 43.3214154811058
     },
     {
-      "id": "_14",
+      "id": "_15",
       "label": "Branka Miljkovića",
       "longitude": 21.9275463578047,
       "latitude": 43.3216713798432
     },
     {
-      "id": "_15",
+      "id": "_16",
       "label": "OŠ Dušana Radovića",
       "longitude": 21.9299411990285,
       "latitude": 43.3191223722684
     },
     {
-      "id": "_16",
+      "id": "_17",
       "label": "Duvanište (okretnica)",
       "longitude": 21.9356133558169,
       "latitude": 43.3191786085558
@@ -166,9 +172,9 @@
     },
     {
       "id": "_12",
-      "label": "Šivara",
-      "longitude": 21.8884782066108,
-      "latitude": 43.3197355494934
+      "label": "Ured",
+      "longitude": 21.8913006731576,
+      "latitude": 43.3193390516789
     },
     {
       "id": "_13",
@@ -196,6 +202,12 @@
     },
     {
       "id": "_17",
+      "label": "Medoševac",
+      "longitude": 21.8646061923069,
+      "latitude": 43.3247757252581
+    },
+    {
+      "id": "_18",
       "label": "Medoševac (terminus)",
       "longitude": 21.8640670223854,
       "latitude": 43.3249649955374

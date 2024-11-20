@@ -1,0 +1,234 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Trg kralja Aleksandra",
+      "longitude": 21.8918020230148,
+      "latitude": 43.3183845408261
+    },
+    {
+      "id": "_2",
+      "label": "Trg kralja Milana",
+      "longitude": 21.896946556276,
+      "latitude": 43.3207908920573
+    },
+    {
+      "id": "_3",
+      "label": "Učiteljski dom",
+      "longitude": 21.9011773494645,
+      "latitude": 43.3215821077519
+    },
+    {
+      "id": "_4",
+      "label": "Most mladosti",
+      "longitude": 21.9029739853228,
+      "latitude": 43.3246699209814
+    },
+    {
+      "id": "_5",
+      "label": "Jagodin mala",
+      "longitude": 21.9045325044132,
+      "latitude": 43.3276533715926
+    },
+    {
+      "id": "_6",
+      "label": "Niteks",
+      "longitude": 21.9120239224549,
+      "latitude": 43.3290880127093
+    },
+    {
+      "id": "_7",
+      "label": "OŠ Njegoš",
+      "longitude": 21.915038860654,
+      "latitude": 43.329171886428
+    },
+    {
+      "id": "_8",
+      "label": "Bojnička",
+      "longitude": 21.9185246546896,
+      "latitude": 43.3292428879816
+    },
+    {
+      "id": "_9",
+      "label": "RK Sinđelić",
+      "longitude": 21.9222547146257,
+      "latitude": 43.3293208102607
+    },
+    {
+      "id": "_10",
+      "label": "Dom Duško Radović",
+      "longitude": 21.9268682566962,
+      "latitude": 43.3294364440271
+    },
+    {
+      "id": "_11",
+      "label": "Pijaca Durlan",
+      "longitude": 21.9308231440415,
+      "latitude": 43.3295392649738
+    },
+    {
+      "id": "_12",
+      "label": "Durlan",
+      "longitude": 21.9347216036101,
+      "latitude": 43.3296604151255
+    },
+    {
+      "id": "_13",
+      "label": "Matejevački put",
+      "longitude": 21.9372157426745,
+      "latitude": 43.331152250099
+    },
+    {
+      "id": "_14",
+      "label": "Pruga",
+      "longitude": 21.9367253567129,
+      "latitude": 43.3464228596205
+    },
+    {
+      "id": "_15",
+      "label": "Čegar raskrsnica",
+      "longitude": 21.945281573008,
+      "latitude": 43.3539242020712
+    },
+    {
+      "id": "_16",
+      "label": "Donji Matejevac raskrsnica",
+      "longitude": 21.952663024402,
+      "latitude": 43.3587159160137
+    },
+    {
+      "id": "_17",
+      "label": "G. Matejevac ulaz",
+      "longitude": 21.9603261640978,
+      "latitude": 43.3619530828454
+    },
+    {
+      "id": "_18",
+      "label": "G. Matejevac centar",
+      "longitude": 21.9656235010092,
+      "latitude": 43.3642014470769
+    },
+    {
+      "id": "_19",
+      "label": "G. Matejevac izlaz",
+      "longitude": 21.970269126624,
+      "latitude": 43.3638816501358
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "G. Matejevac izlaz",
+      "longitude": 21.970244962373,
+      "latitude": 43.363971349448
+    },
+    {
+      "id": "_2",
+      "label": "G. Matejevac centar",
+      "longitude": 21.9655644832721,
+      "latitude": 43.3642716461798
+    },
+    {
+      "id": "_3",
+      "label": "G. Matejevac ulaz",
+      "longitude": 21.9600392164729,
+      "latitude": 43.3620622854619
+    },
+    {
+      "id": "_4",
+      "label": "Donji Matejevac raskrsnica",
+      "longitude": 21.9526658010442,
+      "latitude": 43.3588056229635
+    },
+    {
+      "id": "_5",
+      "label": "Čegar raskrsnica",
+      "longitude": 21.9449599714255,
+      "latitude": 43.3538539909957
+    },
+    {
+      "id": "_6",
+      "label": "Pruga",
+      "longitude": 21.9365699043469,
+      "latitude": 43.3463799475585
+    },
+    {
+      "id": "_7",
+      "label": "Matejevački put",
+      "longitude": 21.9368914403974,
+      "latitude": 43.3317130252575
+    },
+    {
+      "id": "_8",
+      "label": "Durlan",
+      "longitude": 21.934789843732,
+      "latitude": 43.32976787741
+    },
+    {
+      "id": "_9",
+      "label": "Pijaca Durlan",
+      "longitude": 21.9313404461456,
+      "latitude": 43.3296610674035
+    },
+    {
+      "id": "_10",
+      "label": "Dom Duško Radović",
+      "longitude": 21.9277507775863,
+      "latitude": 43.3295732979304
+    },
+    {
+      "id": "_11",
+      "label": "RK Sinđelić",
+      "longitude": 21.9232359965706,
+      "latitude": 43.3294659022254
+    },
+    {
+      "id": "_12",
+      "label": "Radoja Domanovića",
+      "longitude": 21.9185732748094,
+      "latitude": 43.3293595197778
+    },
+    {
+      "id": "_13",
+      "label": "OŠ Njegoš",
+      "longitude": 21.9148849998747,
+      "latitude": 43.3292721404488
+    },
+    {
+      "id": "_14",
+      "label": "Niteks",
+      "longitude": 21.9113148264066,
+      "latitude": 43.3291656949749
+    },
+    {
+      "id": "_15",
+      "label": "Jagodin mala",
+      "longitude": 21.9043660328877,
+      "latitude": 43.3277357079095
+    },
+    {
+      "id": "_16",
+      "label": "Crveni soliter",
+      "longitude": 21.9017639532257,
+      "latitude": 43.3228935358884
+    },
+    {
+      "id": "_17",
+      "label": "Trg kralja Milana (Spomenik)",
+      "longitude": 21.8958302411904,
+      "latitude": 43.3210067072558
+    },
+    {
+      "id": "_18",
+      "label": "Ured",
+      "longitude": 21.8913006731576,
+      "latitude": 43.3193390516789
+    },
+    {
+      "id": "_19",
+      "label": "Trg kralja Aleksandra",
+      "longitude": 21.8918020230148,
+      "latitude": 43.3183845408261
+    }
+  ]
+}

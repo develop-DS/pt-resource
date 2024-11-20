@@ -1,0 +1,228 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "PAS Niš",
+      "longitude": 21.8905887068638,
+      "latitude": 43.3251601189193
+    },
+    {
+      "id": "_2",
+      "label": "Ured",
+      "longitude": 21.8913006731576,
+      "latitude": 43.3193390516789
+    },
+    {
+      "id": "_3",
+      "label": "Obilićev venac",
+      "longitude": 21.8871998293522,
+      "latitude": 43.3159431330133
+    },
+    {
+      "id": "_4",
+      "label": "Prekršajni sud",
+      "longitude": 21.8802648219177,
+      "latitude": 43.3139648770775
+    },
+    {
+      "id": "_5",
+      "label": "Salvadora Aljendea",
+      "longitude": 21.8762818368867,
+      "latitude": 43.3116598559612
+    },
+    {
+      "id": "_6",
+      "label": "Bubanj (spomenik)",
+      "longitude": 21.8687832027025,
+      "latitude": 43.3077852240407
+    },
+    {
+      "id": "_7",
+      "label": "Pasi Poljana (raskrsnica)",
+      "longitude": 21.8747850959581,
+      "latitude": 43.3003841950548
+    },
+    {
+      "id": "_8",
+      "label": "Novo Groblje raskrsnica",
+      "longitude": 21.8791647674278,
+      "latitude": 43.2960036902094
+    },
+    {
+      "id": "_9",
+      "label": "Kovanluk",
+      "longitude": 21.8970447535003,
+      "latitude": 43.2965132036488
+    },
+    {
+      "id": "_10",
+      "label": "Turski šančevi",
+      "longitude": 21.9013604278053,
+      "latitude": 43.2905393294238
+    },
+    {
+      "id": "_11",
+      "label": "Malo brdo I (autootpad)",
+      "longitude": 21.9042490663886,
+      "latitude": 43.2865622780083
+    },
+    {
+      "id": "_12",
+      "label": "Popov bunar",
+      "longitude": 21.9065854044748,
+      "latitude": 43.2826572126256
+    },
+    {
+      "id": "_13",
+      "label": "Vikendice",
+      "longitude": 21.9075242035231,
+      "latitude": 43.2800758267966
+    },
+    {
+      "id": "_14",
+      "label": "Malo brdo II",
+      "longitude": 21.903696537424,
+      "latitude": 43.2780098581778
+    },
+    {
+      "id": "_15",
+      "label": "Česma",
+      "longitude": 21.9031521693202,
+      "latitude": 43.2715127303543
+    },
+    {
+      "id": "_16",
+      "label": "Malo brdo III (Svjetlost)",
+      "longitude": 21.903197800382,
+      "latitude": 43.2651848336833
+    },
+    {
+      "id": "_17",
+      "label": "Donje Vlase reka",
+      "longitude": 21.9111103398227,
+      "latitude": 43.2598974106557
+    },
+    {
+      "id": "_18",
+      "label": "Donje Vlase okretnica",
+      "longitude": 21.9124862277528,
+      "latitude": 43.2566489433871
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Donje Vlase okretnica",
+      "longitude": 21.9124862277528,
+      "latitude": 43.2566489433871
+    },
+    {
+      "id": "_2",
+      "label": "Donje Vlase reka",
+      "longitude": 21.9111962710369,
+      "latitude": 43.2599950768616
+    },
+    {
+      "id": "_3",
+      "label": "Malo brdo III (Svjetlost)",
+      "longitude": 21.903127924344,
+      "latitude": 43.2653196013014
+    },
+    {
+      "id": "_4",
+      "label": "Česma",
+      "longitude": 21.9034223885512,
+      "latitude": 43.2716631075501
+    },
+    {
+      "id": "_5",
+      "label": "Malo brdo II",
+      "longitude": 21.9038469086717,
+      "latitude": 43.2780254801319
+    },
+    {
+      "id": "_6",
+      "label": "Malo brdo I (autootpad)",
+      "longitude": 21.9076391531621,
+      "latitude": 43.2801773659787
+    },
+    {
+      "id": "_7",
+      "label": "Popov bunar",
+      "longitude": 21.9065615448473,
+      "latitude": 43.2828134200539
+    },
+    {
+      "id": "_8",
+      "label": "Vikendice Donje Vlase",
+      "longitude": 21.9043242992291,
+      "latitude": 43.2866364718238
+    },
+    {
+      "id": "_9",
+      "label": "Turski šančevi",
+      "longitude": 21.9013792702855,
+      "latitude": 43.2906701362215
+    },
+    {
+      "id": "_10",
+      "label": "Kovanluk",
+      "longitude": 21.8970714933421,
+      "latitude": 43.2965951939184
+    },
+    {
+      "id": "_11",
+      "label": "Novo Groblje raskrsnica",
+      "longitude": 21.8792697558817,
+      "latitude": 43.2960700638495
+    },
+    {
+      "id": "_12",
+      "label": "Pasi Poljana (raskrsnica)",
+      "longitude": 21.8749584806995,
+      "latitude": 43.3003907125586
+    },
+    {
+      "id": "_13",
+      "label": "Bubanj (spomenik)",
+      "longitude": 21.868543955493,
+      "latitude": 43.3072595386604
+    },
+    {
+      "id": "_14",
+      "label": "Zmaja od Noćaja",
+      "longitude": 21.8773219517633,
+      "latitude": 43.3121505609612
+    },
+    {
+      "id": "_15",
+      "label": "Kralja Petra I",
+      "longitude": 21.8815844855073,
+      "latitude": 43.3145893827469
+    },
+    {
+      "id": "_16",
+      "label": "Obilićev venac rampa",
+      "longitude": 21.8854535337685,
+      "latitude": 43.3157316584352
+    },
+    {
+      "id": "_17",
+      "label": "Obilićev venac (Šojka)",
+      "longitude": 21.8905609206792,
+      "latitude": 43.3159709488717
+    },
+    {
+      "id": "_18",
+      "label": "Trg kralja Aleksandra",
+      "longitude": 21.8918020230148,
+      "latitude": 43.3183845408261
+    },
+    {
+      "id": "_19",
+      "label": "PAS Niš",
+      "longitude": 21.8905887068638,
+      "latitude": 43.3251601189193
+    }
+  ]
+}

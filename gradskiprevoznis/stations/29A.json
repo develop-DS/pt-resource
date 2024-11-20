@@ -1,0 +1,414 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "PAS Niš",
+      "longitude": 21.8905887068638,
+      "latitude": 43.3251601189193
+    },
+    {
+      "id": "_2",
+      "label": "Šivara",
+      "longitude": 21.8884782066108,
+      "latitude": 43.3197355494934
+    },
+    {
+      "id": "_3",
+      "label": "Feroks",
+      "longitude": 21.8841748009106,
+      "latitude": 43.316474327193
+    },
+    {
+      "id": "_4",
+      "label": "Šumadijska",
+      "longitude": 21.8822301956517,
+      "latitude": 43.3183995723267
+    },
+    {
+      "id": "_5",
+      "label": "Azija (centar)",
+      "longitude": 21.8790314376121,
+      "latitude": 43.3203992702896
+    },
+    {
+      "id": "_6",
+      "label": "Papir servis",
+      "longitude": 21.8697679480872,
+      "latitude": 43.3214784974052
+    },
+    {
+      "id": "_7",
+      "label": "Medoševac",
+      "longitude": 21.8646061923069,
+      "latitude": 43.3247757252581
+    },
+    {
+      "id": "_8",
+      "label": "Medoševac izlazna",
+      "longitude": 21.8565326411233,
+      "latitude": 43.3255581686751
+    },
+    {
+      "id": "_9",
+      "label": "Medoševac - groblje",
+      "longitude": 21.8370647873139,
+      "latitude": 43.3280615296569
+    },
+    {
+      "id": "_10",
+      "label": "Popovac - ulaz",
+      "longitude": 21.8332085444939,
+      "latitude": 43.3295638869432
+    },
+    {
+      "id": "_11",
+      "label": "Popovac - centar",
+      "longitude": 21.8268406421606,
+      "latitude": 43.330656487084
+    },
+    {
+      "id": "_12",
+      "label": "Popovac - izlaz",
+      "longitude": 21.8233271219865,
+      "latitude": 43.3332786472298
+    },
+    {
+      "id": "_13",
+      "label": "Popovac - tumba",
+      "longitude": 21.819560980675,
+      "latitude": 43.3362479508171
+    },
+    {
+      "id": "_14",
+      "label": "Nadvožnjak",
+      "longitude": 21.8155963010642,
+      "latitude": 43.3428961671495
+    },
+    {
+      "id": "_15",
+      "label": "Trupale - groblje",
+      "longitude": 21.8107796629202,
+      "latitude": 43.3509479613358
+    },
+    {
+      "id": "_16",
+      "label": "Trupale (selo - škola)",
+      "longitude": 21.8079151402004,
+      "latitude": 43.3533937163778
+    },
+    {
+      "id": "_17",
+      "label": "Trupale - ambulanta",
+      "longitude": 21.8012255399759,
+      "latitude": 43.3565882623071
+    },
+    {
+      "id": "_18",
+      "label": "Trupale - izlaz",
+      "longitude": 21.7969635235593,
+      "latitude": 43.3593399616124
+    },
+    {
+      "id": "_19",
+      "label": "Vrtiška",
+      "longitude": 21.8003430657939,
+      "latitude": 43.3611867089534
+    },
+    {
+      "id": "_20",
+      "label": "Vrtište - ulaz, raskrsnica",
+      "longitude": 21.8066892286785,
+      "latitude": 43.3694778532135
+    },
+    {
+      "id": "_21",
+      "label": "Vožda Karađorđa",
+      "longitude": 21.8078536987305,
+      "latitude": 43.3727226257324
+    },
+    {
+      "id": "_22",
+      "label": "Vrtište - prodavaonica",
+      "longitude": 21.8073410526857,
+      "latitude": 43.3743482745314
+    },
+    {
+      "id": "_23",
+      "label": "Vrtište - centar",
+      "longitude": 21.8032077000535,
+      "latitude": 43.3721373311042
+    },
+    {
+      "id": "_24",
+      "label": "Vrtište izlaz",
+      "longitude": 21.7977504730225,
+      "latitude": 43.3717308044434
+    },
+    {
+      "id": "_25",
+      "label": "Mezgraja ulaz",
+      "longitude": 21.7803611755371,
+      "latitude": 43.3862037658691
+    },
+    {
+      "id": "_26",
+      "label": "Mezgraja - pruga, rampa",
+      "longitude": 21.78333788044,
+      "latitude": 43.3922609622497
+    },
+    {
+      "id": "_27",
+      "label": "Mezgraja - raskrsnica",
+      "longitude": 21.784783616992,
+      "latitude": 43.3962856664951
+    },
+    {
+      "id": "_28",
+      "label": "Donja Toponica",
+      "longitude": 21.7864197553524,
+      "latitude": 43.4056691081055
+    },
+    {
+      "id": "_29",
+      "label": "Donja Toponica - raskrsnica",
+      "longitude": 21.7877449554723,
+      "latitude": 43.4121947612352
+    },
+    {
+      "id": "_30",
+      "label": "Donja Trnava",
+      "longitude": 21.7794727883103,
+      "latitude": 43.4204750346983
+    },
+    {
+      "id": "_31",
+      "label": "Donja Trnava škola",
+      "longitude": 21.7817204794648,
+      "latitude": 43.4219984816802
+    },
+    {
+      "id": "_32",
+      "label": "Donja Trnava petlja - strugara",
+      "longitude": 21.7914836227995,
+      "latitude": 43.4228556472726
+    },
+    {
+      "id": "_33",
+      "label": "Gornja Trnava ulaz",
+      "longitude": 21.8141858795026,
+      "latitude": 43.4282282406032
+    },
+    {
+      "id": "_34",
+      "label": "Gornja Trnava - trafo",
+      "longitude": 21.8213366213202,
+      "latitude": 43.4298235635512
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Gornja Trnava - Dom Kulture",
+      "longitude": 21.8212508942037,
+      "latitude": 43.4298644687149
+    },
+    {
+      "id": "_2",
+      "label": "Gornja Trnava ulaz",
+      "longitude": 21.8143200843866,
+      "latitude": 43.4282944697428
+    },
+    {
+      "id": "_3",
+      "label": "Donja Trnava petlja - strugara",
+      "longitude": 21.7916713896155,
+      "latitude": 43.422992013407
+    },
+    {
+      "id": "_4",
+      "label": "Donja Trnava škola",
+      "longitude": 21.7816749504518,
+      "latitude": 43.4220880950147
+    },
+    {
+      "id": "_5",
+      "label": "Donja Trnava",
+      "longitude": 21.7793335023081,
+      "latitude": 43.4204594493649
+    },
+    {
+      "id": "_6",
+      "label": "Donja Toponica - raskrsnica",
+      "longitude": 21.7873213705456,
+      "latitude": 43.4125026128423
+    },
+    {
+      "id": "_7",
+      "label": "Donja Toponica",
+      "longitude": 21.7862803535933,
+      "latitude": 43.405561932658
+    },
+    {
+      "id": "_8",
+      "label": "Mezgraja - raskrsnica",
+      "longitude": 21.7847165236887,
+      "latitude": 43.3964318371638
+    },
+    {
+      "id": "_9",
+      "label": "Mezgraja - pruga, rampa",
+      "longitude": 21.7833433164445,
+      "latitude": 43.3924695128131
+    },
+    {
+      "id": "_10",
+      "label": "Mezgraja - ulaz",
+      "longitude": 21.7802828580801,
+      "latitude": 43.3862711617589
+    },
+    {
+      "id": "_11",
+      "label": "Vrtište izlaz",
+      "longitude": 21.7975540161133,
+      "latitude": 43.3716773986816
+    },
+    {
+      "id": "_12",
+      "label": "Vrtište (centar)",
+      "longitude": 21.8032720594739,
+      "latitude": 43.3720846886117
+    },
+    {
+      "id": "_13",
+      "label": "Cara Dušana",
+      "longitude": 21.8070083964902,
+      "latitude": 43.3740870208657
+    },
+    {
+      "id": "_14",
+      "label": "Vožda Karađorđa",
+      "longitude": 21.807746887207,
+      "latitude": 43.3727951049805
+    },
+    {
+      "id": "_15",
+      "label": "Vrtište (ulaz - raskrsnica)",
+      "longitude": 21.806619644165,
+      "latitude": 43.3696136474609
+    },
+    {
+      "id": "_16",
+      "label": "Vrtiška",
+      "longitude": 21.8004101695349,
+      "latitude": 43.36131931378
+    },
+    {
+      "id": "_17",
+      "label": "Trupale - izlaz",
+      "longitude": 21.7969234290278,
+      "latitude": 43.3592756072069
+    },
+    {
+      "id": "_18",
+      "label": "Trupale - ambulanta",
+      "longitude": 21.8007482042508,
+      "latitude": 43.3568846951609
+    },
+    {
+      "id": "_19",
+      "label": "Trupale (selo)",
+      "longitude": 21.8076801300049,
+      "latitude": 43.3535079956055
+    },
+    {
+      "id": "_20",
+      "label": "Trupale - groblje",
+      "longitude": 21.8106128267779,
+      "latitude": 43.3509050524728
+    },
+    {
+      "id": "_21",
+      "label": "Nadvožnjak",
+      "longitude": 21.8155324520001,
+      "latitude": 43.3430561211328
+    },
+    {
+      "id": "_22",
+      "label": "Popovac - tumba",
+      "longitude": 21.8197113366915,
+      "latitude": 43.3359163012459
+    },
+    {
+      "id": "_23",
+      "label": "Popovac - izlaz",
+      "longitude": 21.8232034448871,
+      "latitude": 43.3332552355865
+    },
+    {
+      "id": "_24",
+      "label": "Popovac - centar",
+      "longitude": 21.8268514197364,
+      "latitude": 43.3305823469817
+    },
+    {
+      "id": "_25",
+      "label": "Popovac - ulaz",
+      "longitude": 21.8324224531549,
+      "latitude": 43.3297004630357
+    },
+    {
+      "id": "_26",
+      "label": "Medoševac - groblje",
+      "longitude": 21.8367328452901,
+      "latitude": 43.3279249498792
+    },
+    {
+      "id": "_27",
+      "label": "Medoševac - izlazna",
+      "longitude": 21.8567848967125,
+      "latitude": 43.3254274369351
+    },
+    {
+      "id": "_28",
+      "label": "Medoševac",
+      "longitude": 21.8645551815959,
+      "latitude": 43.324715236694
+    },
+    {
+      "id": "_29",
+      "label": "Papir servis",
+      "longitude": 21.8693452994034,
+      "latitude": 43.3214097054591
+    },
+    {
+      "id": "_30",
+      "label": "Azija (centar)",
+      "longitude": 21.8785695977869,
+      "latitude": 43.3203488181205
+    },
+    {
+      "id": "_31",
+      "label": "Šumadijska",
+      "longitude": 21.8820662044242,
+      "latitude": 43.31899316038
+    },
+    {
+      "id": "_32",
+      "label": "Kičevo",
+      "longitude": 21.8872228608338,
+      "latitude": 43.3173526389032
+    },
+    {
+      "id": "_33",
+      "label": "Trg kralja Aleksandra",
+      "longitude": 21.8918020230148,
+      "latitude": 43.3183845408261
+    },
+    {
+      "id": "_34",
+      "label": "PAS Niš",
+      "longitude": 21.8905887068638,
+      "latitude": 43.3251601189193
+    }
+  ]
+}

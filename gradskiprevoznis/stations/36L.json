@@ -1,0 +1,288 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "PAS Niš",
+      "longitude": 21.8905887068638,
+      "latitude": 43.3251601189193
+    },
+    {
+      "id": "_2",
+      "label": "Šivara",
+      "longitude": 21.8884782066108,
+      "latitude": 43.3197355494934
+    },
+    {
+      "id": "_3",
+      "label": "Feroks",
+      "longitude": 21.8841748009106,
+      "latitude": 43.316474327193
+    },
+    {
+      "id": "_4",
+      "label": "Železnička stanica (Glavna pošta)",
+      "longitude": 21.876359694241,
+      "latitude": 43.3156938763504
+    },
+    {
+      "id": "_5",
+      "label": "Žitopek",
+      "longitude": 21.8704436078558,
+      "latitude": 43.315451124882
+    },
+    {
+      "id": "_6",
+      "label": "Ledena stena",
+      "longitude": 21.8662988440398,
+      "latitude": 43.3152756422237
+    },
+    {
+      "id": "_7",
+      "label": "Ledena stena",
+      "longitude": 21.8589191790085,
+      "latitude": 43.3159705907125
+    },
+    {
+      "id": "_8",
+      "label": "Veterinarski zavod",
+      "longitude": 21.8473107545799,
+      "latitude": 43.3166695559194
+    },
+    {
+      "id": "_9",
+      "label": "Metro",
+      "longitude": 21.8419929040778,
+      "latitude": 43.3172490540917
+    },
+    {
+      "id": "_10",
+      "label": "Naselje Milka Protić",
+      "longitude": 21.8382375505519,
+      "latitude": 43.3176007862765
+    },
+    {
+      "id": "_11",
+      "label": "KP Dom",
+      "longitude": 21.8342857774254,
+      "latitude": 43.3180168451592
+    },
+    {
+      "id": "_12",
+      "label": "Naselje 9. maj (podvožnjak)",
+      "longitude": 21.8244274812185,
+      "latitude": 43.3172693795095
+    },
+    {
+      "id": "_13",
+      "label": "Naselje 9. maj (centar)",
+      "longitude": 21.8174451315025,
+      "latitude": 43.3163924603544
+    },
+    {
+      "id": "_14",
+      "label": "Naselje 9. maj (škola)",
+      "longitude": 21.8119315134278,
+      "latitude": 43.3158107278642
+    },
+    {
+      "id": "_15",
+      "label": "Zeleni Vir",
+      "longitude": 21.7970949294534,
+      "latitude": 43.3138048464667
+    },
+    {
+      "id": "_16",
+      "label": "Vulkan",
+      "longitude": 21.791381097765,
+      "latitude": 43.313029618112
+    },
+    {
+      "id": "_17",
+      "label": "Mramor",
+      "longitude": 21.7844724586648,
+      "latitude": 43.3124231012274
+    },
+    {
+      "id": "_18",
+      "label": "Mramorsko brdo - NIŠPRODUKT",
+      "longitude": 21.7772412304139,
+      "latitude": 43.306033096771
+    },
+    {
+      "id": "_19",
+      "label": "Kvaliteta",
+      "longitude": 21.7700475470449,
+      "latitude": 43.3033785296867
+    },
+    {
+      "id": "_20",
+      "label": "Mramorski Potok - ulaz",
+      "longitude": 21.7532945313924,
+      "latitude": 43.2996346123286
+    },
+    {
+      "id": "_21",
+      "label": "Mramorski Potok - OŠ D.Maksimovic",
+      "longitude": 21.7493730831818,
+      "latitude": 43.3050415514522
+    },
+    {
+      "id": "_22",
+      "label": "Mramorski Potok (selo)",
+      "longitude": 21.7457574579749,
+      "latitude": 43.3108324940119
+    },
+    {
+      "id": "_23",
+      "label": "Mramorski Potok - okretnica",
+      "longitude": 21.7431959392991,
+      "latitude": 43.3134457518552
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Mramorski Potok - okretnica",
+      "longitude": 21.7431959392991,
+      "latitude": 43.3134457518552
+    },
+    {
+      "id": "_2",
+      "label": "Mramorski Potok (selo)",
+      "longitude": 21.7457628205796,
+      "latitude": 43.3107134407544
+    },
+    {
+      "id": "_3",
+      "label": "Mramorski Potok - OŠ D.Maksimovic",
+      "longitude": 21.749389174824,
+      "latitude": 43.3049088236861
+    },
+    {
+      "id": "_4",
+      "label": "Mramorski Potok - ulaz",
+      "longitude": 21.7531818157518,
+      "latitude": 43.2997205024848
+    },
+    {
+      "id": "_5",
+      "label": "Kvaliteta",
+      "longitude": 21.7702513864679,
+      "latitude": 43.3033551065201
+    },
+    {
+      "id": "_6",
+      "label": "Mramorsko brdo - NIŠPRODUKT",
+      "longitude": 21.7775362987921,
+      "latitude": 43.306029193081
+    },
+    {
+      "id": "_7",
+      "label": "Mramor",
+      "longitude": 21.7842847110856,
+      "latitude": 43.3123411323023
+    },
+    {
+      "id": "_8",
+      "label": "Vulkan",
+      "longitude": 21.7915574988378,
+      "latitude": 43.3129437762865
+    },
+    {
+      "id": "_9",
+      "label": "Zeleni Vir",
+      "longitude": 21.7966174914132,
+      "latitude": 43.313637009032
+    },
+    {
+      "id": "_10",
+      "label": "Naselje 9. maj (škola)",
+      "longitude": 21.8116633257603,
+      "latitude": 43.3156686079184
+    },
+    {
+      "id": "_11",
+      "label": "Naselje 9. maj (centar)",
+      "longitude": 21.8183175320753,
+      "latitude": 43.3163591973418
+    },
+    {
+      "id": "_12",
+      "label": "Naselje 9. maj (podvožnjak)",
+      "longitude": 21.8249867756568,
+      "latitude": 43.3172383289485
+    },
+    {
+      "id": "_13",
+      "label": "KP Dom",
+      "longitude": 21.8342855254191,
+      "latitude": 43.3178188068295
+    },
+    {
+      "id": "_14",
+      "label": "Naselje Milka Protić",
+      "longitude": 21.8377030242698,
+      "latitude": 43.3174606849964
+    },
+    {
+      "id": "_15",
+      "label": "Metro",
+      "longitude": 21.8422264704442,
+      "latitude": 43.3170222836346
+    },
+    {
+      "id": "_16",
+      "label": "Veterinarski zavod",
+      "longitude": 21.8479503396612,
+      "latitude": 43.3163857453271
+    },
+    {
+      "id": "_17",
+      "label": "Ledena stena",
+      "longitude": 21.8578406594633,
+      "latitude": 43.3158976921897
+    },
+    {
+      "id": "_18",
+      "label": "Ledena stena",
+      "longitude": 21.8661689785356,
+      "latitude": 43.3151596048934
+    },
+    {
+      "id": "_19",
+      "label": "Žitopek",
+      "longitude": 21.869968326309,
+      "latitude": 43.3153197240548
+    },
+    {
+      "id": "_20",
+      "label": "Železnička stanica",
+      "longitude": 21.8789426196503,
+      "latitude": 43.3156199887215
+    },
+    {
+      "id": "_21",
+      "label": "Pirotska rampa",
+      "longitude": 21.8830330327269,
+      "latitude": 43.3159538659189
+    },
+    {
+      "id": "_22",
+      "label": "Kičevo",
+      "longitude": 21.8872228608338,
+      "latitude": 43.3173526389032
+    },
+    {
+      "id": "_23",
+      "label": "Trg kralja Aleksandra",
+      "longitude": 21.8918020230148,
+      "latitude": 43.3183845408261
+    },
+    {
+      "id": "_24",
+      "label": "PAS Niš",
+      "longitude": 21.8905887068638,
+      "latitude": 43.3251601189193
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "PAS Niš",
+      "longitude": 21.8905887068638,
+      "latitude": 43.3251601189193
+    },
+    {
+      "id": "_2",
+      "label": "Jagodin mala",
+      "longitude": 21.9045325044132,
+      "latitude": 43.3276533715926
+    },
+    {
+      "id": "_3",
+      "label": "Niteks",
+      "longitude": 21.9120239224549,
+      "latitude": 43.3290880127093
+    },
+    {
+      "id": "_4",
+      "label": "RK Sinđelić",
+      "longitude": 21.9222547146257,
+      "latitude": 43.3293208102607
+    },
+    {
+      "id": "_5",
+      "label": "Pijaca Durlan",
+      "longitude": 21.9308231440415,
+      "latitude": 43.3295392649738
+    },
+    {
+      "id": "_6",
+      "label": "Durlan",
+      "longitude": 21.9347216036101,
+      "latitude": 43.3296604151255
+    },
+    {
+      "id": "_7",
+      "label": "Benzinska stanica",
+      "longitude": 21.9398654929969,
+      "latitude": 43.3297801789395
+    },
+    {
+      "id": "_8",
+      "label": "Radomira Antića",
+      "longitude": 21.9444392681644,
+      "latitude": 43.3300304582015
+    },
+    {
+      "id": "_9",
+      "label": "Donja Vrežina",
+      "longitude": 21.9470874821174,
+      "latitude": 43.3303145619511
+    },
+    {
+      "id": "_10",
+      "label": "Vulkanizer",
+      "longitude": 21.9546375274658,
+      "latitude": 43.3289260864258
+    },
+    {
+      "id": "_11",
+      "label": "Podvožnjak",
+      "longitude": 21.9643709992631,
+      "latitude": 43.3254723150268
+    },
+    {
+      "id": "_12",
+      "label": "Gornja Vrežina - vikend naselje",
+      "longitude": 21.9742119555985,
+      "latitude": 43.3253884124806
+    },
+    {
+      "id": "_13",
+      "label": "Gornja Vrežina ulaz",
+      "longitude": 21.9805177802528,
+      "latitude": 43.3263210900831
+    },
+    {
+      "id": "_14",
+      "label": "Izletište Gradac",
+      "longitude": 21.9869283679397,
+      "latitude": 43.3268693729525
+    },
+    {
+      "id": "_15",
+      "label": "Gornja Vrežina",
+      "longitude": 21.9923864393868,
+      "latitude": 43.327706421596
+    },
+    {
+      "id": "_16",
+      "label": "Gornja Vrežina MK",
+      "longitude": 21.9948890333078,
+      "latitude": 43.3294819411403
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Gornja Vrežina MK",
+      "longitude": 21.9948301206659,
+      "latitude": 43.3295385227779
+    },
+    {
+      "id": "_2",
+      "label": "Gornja Vrežina",
+      "longitude": 21.9925181052348,
+      "latitude": 43.3277298353782
+    },
+    {
+      "id": "_3",
+      "label": "Izletište Gradac",
+      "longitude": 21.9870919842127,
+      "latitude": 43.3269649804906
+    },
+    {
+      "id": "_4",
+      "label": "Gornja Vrežina ulaz",
+      "longitude": 21.980579976735,
+      "latitude": 43.3264264544351
+    },
+    {
+      "id": "_5",
+      "label": "Gornja Vrežina - vikend naselje",
+      "longitude": 21.9743780179974,
+      "latitude": 43.3254937784502
+    },
+    {
+      "id": "_6",
+      "label": "Podvožnjak",
+      "longitude": 21.9645783229012,
+      "latitude": 43.3254859735699
+    },
+    {
+      "id": "_7",
+      "label": "Vulkanizer",
+      "longitude": 21.9548416137695,
+      "latitude": 43.3289833068848
+    },
+    {
+      "id": "_8",
+      "label": "Donja Vrežina",
+      "longitude": 21.9474061287831,
+      "latitude": 43.3305199131413
+    },
+    {
+      "id": "_9",
+      "label": "Radomira Antića",
+      "longitude": 21.9436218458539,
+      "latitude": 43.3301182394194
+    },
+    {
+      "id": "_10",
+      "label": "Benzinska stanica",
+      "longitude": 21.9402307640037,
+      "latitude": 43.3299572044634
+    },
+    {
+      "id": "_11",
+      "label": "Durlan",
+      "longitude": 21.934789843732,
+      "latitude": 43.32976787741
+    },
+    {
+      "id": "_12",
+      "label": "Pijaca Durlan",
+      "longitude": 21.9313404461456,
+      "latitude": 43.3296610674035
+    },
+    {
+      "id": "_13",
+      "label": "RK Sinđelić",
+      "longitude": 21.9232359965706,
+      "latitude": 43.3294659022254
+    },
+    {
+      "id": "_14",
+      "label": "Niteks",
+      "longitude": 21.9113148264066,
+      "latitude": 43.3291656949749
+    },
+    {
+      "id": "_15",
+      "label": "Jagodin mala",
+      "longitude": 21.9043660328877,
+      "latitude": 43.3277357079095
+    },
+    {
+      "id": "_16",
+      "label": "Tvrđava",
+      "longitude": 21.8957063799416,
+      "latitude": 43.3233844730451
+    },
+    {
+      "id": "_17",
+      "label": "PAS Niš",
+      "longitude": 21.8905887068638,
+      "latitude": 43.3251601189193
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "PAS Niš",
+      "longitude": 21.8905887068638,
+      "latitude": 43.3251601189193
+    },
+    {
+      "id": "_2",
+      "label": "Dom Vojske Srbije",
+      "longitude": 21.902075639307,
+      "latitude": 43.3203003501236
+    },
+    {
+      "id": "_3",
+      "label": "Gradska bolnica",
+      "longitude": 21.911791328114,
+      "latitude": 43.3173623190023
+    },
+    {
+      "id": "_4",
+      "label": "ATD",
+      "longitude": 21.9171793923648,
+      "latitude": 43.3149426403545
+    },
+    {
+      "id": "_5",
+      "label": "Ćele kula",
+      "longitude": 21.9260087788505,
+      "latitude": 43.311706262001
+    },
+    {
+      "id": "_6",
+      "label": "Ekonomska škola",
+      "longitude": 21.9334671875581,
+      "latitude": 43.31044282626
+    },
+    {
+      "id": "_7",
+      "label": "Elektronska industrija",
+      "longitude": 21.9514888488563,
+      "latitude": 43.3075663749013
+    },
+    {
+      "id": "_8",
+      "label": "Brzi Brod 1",
+      "longitude": 21.9604941651667,
+      "latitude": 43.3061316316367
+    },
+    {
+      "id": "_9",
+      "label": "Brzi Brod 2",
+      "longitude": 21.965505107242,
+      "latitude": 43.305297170538
+    },
+    {
+      "id": "_10",
+      "label": "Naselje Nikola Tesla",
+      "longitude": 21.9810603438492,
+      "latitude": 43.302679956718
+    },
+    {
+      "id": "_11",
+      "label": "N. Nikola Tesla - crkva",
+      "longitude": 21.9845813534965,
+      "latitude": 43.2974326596266
+    },
+    {
+      "id": "_12",
+      "label": "N. Nikola Tesla - trafo",
+      "longitude": 21.9858044434265,
+      "latitude": 43.2938523641768
+    },
+    {
+      "id": "_13",
+      "label": "Prva Kutina - ulaz",
+      "longitude": 21.9851714386738,
+      "latitude": 43.2872768778389
+    },
+    {
+      "id": "_14",
+      "label": "Prva Kutina - centar",
+      "longitude": 21.9891518336283,
+      "latitude": 43.2804351185261
+    },
+    {
+      "id": "_15",
+      "label": "Prva Kutina - izlaz",
+      "longitude": 21.9916409121097,
+      "latitude": 43.2743073419438
+    },
+    {
+      "id": "_16",
+      "label": "Lazarevo Selo - raskrsnica",
+      "longitude": 21.9950982931298,
+      "latitude": 43.2646125562712
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Lazarevo Selo - raskrsnica",
+      "longitude": 21.9950580625131,
+      "latitude": 43.2645266165365
+    },
+    {
+      "id": "_2",
+      "label": "Prva Kutina - izlaz",
+      "longitude": 21.9915497252639,
+      "latitude": 43.2747369703598
+    },
+    {
+      "id": "_3",
+      "label": "Prva Kutina - centar",
+      "longitude": 21.9891893823382,
+      "latitude": 43.280548373088
+    },
+    {
+      "id": "_4",
+      "label": "Prva Kutina - ulaz",
+      "longitude": 21.9852679998103,
+      "latitude": 43.2873745001148
+    },
+    {
+      "id": "_5",
+      "label": "N. Nikola Tesla - trafo",
+      "longitude": 21.9858527111,
+      "latitude": 43.2940553963832
+    },
+    {
+      "id": "_6",
+      "label": "N. Nikola Tesla - crkva",
+      "longitude": 21.9846510933487,
+      "latitude": 43.2975693079483
+    },
+    {
+      "id": "_7",
+      "label": "Naselje Nikola Tesla",
+      "longitude": 21.9823908834615,
+      "latitude": 43.3026415015022
+    },
+    {
+      "id": "_8",
+      "label": "Brzi Brod 2",
+      "longitude": 21.9654318948423,
+      "latitude": 43.3054994310338
+    },
+    {
+      "id": "_9",
+      "label": "Brzi Brod 1",
+      "longitude": 21.9607111718618,
+      "latitude": 43.3062918371399
+    },
+    {
+      "id": "_10",
+      "label": "Elektronska industrija",
+      "longitude": 21.9507394851671,
+      "latitude": 43.3078876867236
+    },
+    {
+      "id": "_11",
+      "label": "Ekonomska škola",
+      "longitude": 21.933942286778,
+      "latitude": 43.3105559610188
+    },
+    {
+      "id": "_12",
+      "label": "Ćele kula",
+      "longitude": 21.9264666732397,
+      "latitude": 43.3118231681998
+    },
+    {
+      "id": "_13",
+      "label": "Medicinski fakultet",
+      "longitude": 21.9161983170636,
+      "latitude": 43.3156130588459
+    },
+    {
+      "id": "_14",
+      "label": "Gradska bolnica",
+      "longitude": 21.9105455040249,
+      "latitude": 43.3181428266918
+    },
+    {
+      "id": "_15",
+      "label": "Crveni pevac",
+      "longitude": 21.9052139193894,
+      "latitude": 43.3200864481009
+    },
+    {
+      "id": "_16",
+      "label": "Trg kralja Milana (Spomenik)",
+      "longitude": 21.8958302411904,
+      "latitude": 43.3210067072558
+    },
+    {
+      "id": "_17",
+      "label": "PAS Niš",
+      "longitude": 21.8905887068638,
+      "latitude": 43.3251601189193
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Niš",
+      "longitude": 21.8773306684819,
+      "latitude": 43.3163435441997
+    },
+    {
+      "id": "_2",
+      "label": "Crveni krst",
+      "longitude": 21.8809148980713,
+      "latitude": 43.3331312946622
+    },
+    {
+      "id": "_3",
+      "label": "Pantelej",
+      "longitude": 21.9158693073132,
+      "latitude": 43.3400933919654
+    },
+    {
+      "id": "_4",
+      "label": "Matejevac",
+      "longitude": 21.9562799687472,
+      "latitude": 43.3491776009589
+    },
+    {
+      "id": "_5",
+      "label": "Jasenovik",
+      "longitude": 22.0312333225629,
+      "latitude": 43.364070655296
+    },
+    {
+      "id": "_6",
+      "label": "Gramada",
+      "longitude": 22.0477447509766,
+      "latitude": 43.377799987793
+    },
+    {
+      "id": "_7",
+      "label": "Hadžićevo",
+      "longitude": 22.0500965118408,
+      "latitude": 43.3979606628418
+    },
+    {
+      "id": "_8",
+      "label": "Svrljig",
+      "longitude": 22.1182795284623,
+      "latitude": 43.4144071741319
+    },
+    {
+      "id": "_9",
+      "label": "Niševac",
+      "longitude": 22.1045366939174,
+      "latitude": 43.462546574346
+    },
+    {
+      "id": "_10",
+      "label": "Palilula",
+      "longitude": 22.1074845384317,
+      "latitude": 43.4872182271483
+    },
+    {
+      "id": "_11",
+      "label": "Svrljiški Miljkovac",
+      "longitude": 22.1350212097168,
+      "latitude": 43.4891014099121
+    },
+    {
+      "id": "_12",
+      "label": "Podvis",
+      "longitude": 22.189254270988,
+      "latitude": 43.5457057741723
+    },
+    {
+      "id": "_13",
+      "label": "Rgošte",
+      "longitude": 22.2119707149076,
+      "latitude": 43.5510565755702
+    },
+    {
+      "id": "_14",
+      "label": "Knjaževac",
+      "longitude": 22.2515846262534,
+      "latitude": 43.571260036446
+    },
+    {
+      "id": "_15",
+      "label": "Gornje Zuniče",
+      "longitude": 22.2716178894043,
+      "latitude": 43.6002769470215
+    },
+    {
+      "id": "_16",
+      "label": "Donje Zuniče",
+      "longitude": 22.2742652893066,
+      "latitude": 43.6260108947754
+    },
+    {
+      "id": "_17",
+      "label": "Minićevo",
+      "longitude": 22.2912163913224,
+      "latitude": 43.6863497762962
+    },
+    {
+      "id": "_18",
+      "label": "Selačka Reka",
+      "longitude": 22.3007477355636,
+      "latitude": 43.7077812958524
+    },
+    {
+      "id": "_19",
+      "label": "Mali Izvor",
+      "longitude": 22.3082441293361,
+      "latitude": 43.7403066671355
+    },
+    {
+      "id": "_20",
+      "label": "Vratarnica",
+      "longitude": 22.3027242935114,
+      "latitude": 43.7987777561423
+    },
+    {
+      "id": "_21",
+      "label": "Grljan",
+      "longitude": 22.2903868026864,
+      "latitude": 43.8559122207209
+    },
+    {
+      "id": "_22",
+      "label": "Timok",
+      "longitude": 22.2904938964037,
+      "latitude": 43.8942368789746
+    },
+    {
+      "id": "_23",
+      "label": "Zaječar",
+      "longitude": 22.2728951437042,
+      "latitude": 43.9047856889953
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Zaječar",
+      "longitude": 22.2728951437042,
+      "latitude": 43.9047856889953
+    },
+    {
+      "id": "_2",
+      "label": "Timok",
+      "longitude": 22.2904938964037,
+      "latitude": 43.8942368789746
+    },
+    {
+      "id": "_3",
+      "label": "Grljan",
+      "longitude": 22.2903868026864,
+      "latitude": 43.8559122207209
+    },
+    {
+      "id": "_4",
+      "label": "Vratarnica",
+      "longitude": 22.3027242935114,
+      "latitude": 43.7987777561423
+    },
+    {
+      "id": "_5",
+      "label": "Mali Izvor",
+      "longitude": 22.3082441293361,
+      "latitude": 43.7403066671355
+    },
+    {
+      "id": "_6",
+      "label": "Selačka Reka",
+      "longitude": 22.3007477355636,
+      "latitude": 43.7077812958524
+    },
+    {
+      "id": "_7",
+      "label": "Minićevo",
+      "longitude": 22.2912163913224,
+      "latitude": 43.6863497762962
+    },
+    {
+      "id": "_8",
+      "label": "Donje Zuniče",
+      "longitude": 22.2742652893066,
+      "latitude": 43.6260108947754
+    },
+    {
+      "id": "_9",
+      "label": "Gornje Zuniče",
+      "longitude": 22.2716178894043,
+      "latitude": 43.6002769470215
+    },
+    {
+      "id": "_10",
+      "label": "Knjaževac",
+      "longitude": 22.2515846262534,
+      "latitude": 43.571260036446
+    },
+    {
+      "id": "_11",
+      "label": "Rgošte",
+      "longitude": 22.2119707149076,
+      "latitude": 43.5510565755702
+    },
+    {
+      "id": "_12",
+      "label": "Podvis",
+      "longitude": 22.189254270988,
+      "latitude": 43.5457057741723
+    },
+    {
+      "id": "_13",
+      "label": "Svrljiški Miljkovac",
+      "longitude": 22.1350212097168,
+      "latitude": 43.4891014099121
+    },
+    {
+      "id": "_14",
+      "label": "Palilula",
+      "longitude": 22.1074845384317,
+      "latitude": 43.4872182271483
+    },
+    {
+      "id": "_15",
+      "label": "Niševac",
+      "longitude": 22.1045366939174,
+      "latitude": 43.462546574346
+    },
+    {
+      "id": "_16",
+      "label": "Svrljig",
+      "longitude": 22.1182795284623,
+      "latitude": 43.4144071741319
+    },
+    {
+      "id": "_17",
+      "label": "Hadžićevo",
+      "longitude": 22.0500965118408,
+      "latitude": 43.3979606628418
+    },
+    {
+      "id": "_18",
+      "label": "Gramada",
+      "longitude": 22.0477447509766,
+      "latitude": 43.377799987793
+    },
+    {
+      "id": "_19",
+      "label": "Jasenovik",
+      "longitude": 22.0312333225629,
+      "latitude": 43.364070655296
+    },
+    {
+      "id": "_20",
+      "label": "Matejevac",
+      "longitude": 21.9562799687472,
+      "latitude": 43.3491776009589
+    },
+    {
+      "id": "_21",
+      "label": "Pantelej",
+      "longitude": 21.9158693073132,
+      "latitude": 43.3400933919654
+    },
+    {
+      "id": "_22",
+      "label": "Crveni krst",
+      "longitude": 21.8809148980713,
+      "latitude": 43.3331312946622
+    },
+    {
+      "id": "_23",
+      "label": "Niš",
+      "longitude": 21.8773306684819,
+      "latitude": 43.3163435441997
+    }
+  ]
+}

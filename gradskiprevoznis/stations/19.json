@@ -1,0 +1,300 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "PAS Niš",
+      "longitude": 21.8905887068638,
+      "latitude": 43.3251601189193
+    },
+    {
+      "id": "_2",
+      "label": "Dom Vojske Srbije",
+      "longitude": 21.902075639307,
+      "latitude": 43.3203003501236
+    },
+    {
+      "id": "_3",
+      "label": "Gradska bolnica",
+      "longitude": 21.911791328114,
+      "latitude": 43.3173623190023
+    },
+    {
+      "id": "_4",
+      "label": "ATD",
+      "longitude": 21.9171793923648,
+      "latitude": 43.3149426403545
+    },
+    {
+      "id": "_5",
+      "label": "Ćele kula",
+      "longitude": 21.9260087788505,
+      "latitude": 43.311706262001
+    },
+    {
+      "id": "_6",
+      "label": "Ekonomska škola",
+      "longitude": 21.9334671875581,
+      "latitude": 43.31044282626
+    },
+    {
+      "id": "_7",
+      "label": "Elektronska industrija",
+      "longitude": 21.9514888488563,
+      "latitude": 43.3075663749013
+    },
+    {
+      "id": "_8",
+      "label": "Brzi Brod 1",
+      "longitude": 21.9604941651667,
+      "latitude": 43.3061316316367
+    },
+    {
+      "id": "_9",
+      "label": "Brzi Brod 2",
+      "longitude": 21.965505107242,
+      "latitude": 43.305297170538
+    },
+    {
+      "id": "_10",
+      "label": "Naselje Nikola Tesla",
+      "longitude": 21.9810603438492,
+      "latitude": 43.302679956718
+    },
+    {
+      "id": "_11",
+      "label": "Banjska rampa",
+      "longitude": 21.997386130288,
+      "latitude": 43.3002339300215
+    },
+    {
+      "id": "_12",
+      "label": "Jelašnička put",
+      "longitude": 22.0006479173137,
+      "latitude": 43.299841529317
+    },
+    {
+      "id": "_13",
+      "label": "Kožara",
+      "longitude": 22.0188763285821,
+      "latitude": 43.3004583720096
+    },
+    {
+      "id": "_14",
+      "label": "Jelašnička hanovi",
+      "longitude": 22.0495388546429,
+      "latitude": 43.3008448715202
+    },
+    {
+      "id": "_15",
+      "label": "Jelašnica - OŠ Đura Jakšić",
+      "longitude": 22.0578511742149,
+      "latitude": 43.2936376178362
+    },
+    {
+      "id": "_16",
+      "label": "Jelašnička hanovi",
+      "longitude": 22.0495823883726,
+      "latitude": 43.3009971282286
+    },
+    {
+      "id": "_17",
+      "label": "Hanovi izlaz",
+      "longitude": 22.0576554750056,
+      "latitude": 43.3015632075183
+    },
+    {
+      "id": "_18",
+      "label": "Kunovica raskrsnica",
+      "longitude": 22.0681483619664,
+      "latitude": 43.2992520092499
+    },
+    {
+      "id": "_19",
+      "label": "Kuražnica",
+      "longitude": 22.0728905318746,
+      "latitude": 43.2999547477485
+    },
+    {
+      "id": "_20",
+      "label": "Čirak",
+      "longitude": 22.0871170233218,
+      "latitude": 43.3030740278163
+    },
+    {
+      "id": "_21",
+      "label": "Kunovica",
+      "longitude": 22.0983823133693,
+      "latitude": 43.2997126942937
+    },
+    {
+      "id": "_22",
+      "label": "Čirak",
+      "longitude": 22.0876585340581,
+      "latitude": 43.3029256801987
+    },
+    {
+      "id": "_23",
+      "label": "Kuražnica",
+      "longitude": 22.0734265197887,
+      "latitude": 43.3000406374524
+    },
+    {
+      "id": "_24",
+      "label": "Kunovica raskrsnica",
+      "longitude": 22.0679766031099,
+      "latitude": 43.2990021447153
+    },
+    {
+      "id": "_25",
+      "label": "Krečana",
+      "longitude": 22.0876802597988,
+      "latitude": 43.2954609853755
+    },
+    {
+      "id": "_26",
+      "label": "Moralija",
+      "longitude": 22.1129302586567,
+      "latitude": 43.2861444479885
+    },
+    {
+      "id": "_27",
+      "label": "Bancarevo spomenik",
+      "longitude": 22.1160149300119,
+      "latitude": 43.2766858829952
+    },
+    {
+      "id": "_28",
+      "label": "Bancarevo okretnica",
+      "longitude": 22.1150280598684,
+      "latitude": 43.2716279544727
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Bancarevo okretnica",
+      "longitude": 22.1150280598684,
+      "latitude": 43.2716279544727
+    },
+    {
+      "id": "_2",
+      "label": "Bancarevo spomenik",
+      "longitude": 22.1160793456755,
+      "latitude": 43.2765882435668
+    },
+    {
+      "id": "_3",
+      "label": "Moralija",
+      "longitude": 22.1099226722522,
+      "latitude": 43.2879368013738
+    },
+    {
+      "id": "_4",
+      "label": "Krečana",
+      "longitude": 22.0866637376139,
+      "latitude": 43.2956366817153
+    },
+    {
+      "id": "_5",
+      "label": "Kunovica raskrsnica",
+      "longitude": 22.067412873143,
+      "latitude": 43.299162214301
+    },
+    {
+      "id": "_6",
+      "label": "Hanovi izlaz",
+      "longitude": 22.0574676320338,
+      "latitude": 43.3016569028923
+    },
+    {
+      "id": "_7",
+      "label": "Jelašnička hanovi",
+      "longitude": 22.0491583586958,
+      "latitude": 43.3012547925588
+    },
+    {
+      "id": "_8",
+      "label": "Kožara",
+      "longitude": 22.0186134781911,
+      "latitude": 43.3005286448306
+    },
+    {
+      "id": "_9",
+      "label": "Jelašnička put",
+      "longitude": 22.0010607246646,
+      "latitude": 43.2999196110165
+    },
+    {
+      "id": "_10",
+      "label": "Banjska rampa",
+      "longitude": 21.9981570677594,
+      "latitude": 43.3004972425215
+    },
+    {
+      "id": "_11",
+      "label": "Naselje Nikola Tesla",
+      "longitude": 21.9823908834615,
+      "latitude": 43.3026415015022
+    },
+    {
+      "id": "_12",
+      "label": "Brzi Brod 2",
+      "longitude": 21.9654318948423,
+      "latitude": 43.3054994310338
+    },
+    {
+      "id": "_13",
+      "label": "Brzi Brod 1",
+      "longitude": 21.9607111718618,
+      "latitude": 43.3062918371399
+    },
+    {
+      "id": "_14",
+      "label": "Elektronska industrija",
+      "longitude": 21.9507394851671,
+      "latitude": 43.3078876867236
+    },
+    {
+      "id": "_15",
+      "label": "Ekonomska škola",
+      "longitude": 21.933942286778,
+      "latitude": 43.3105559610188
+    },
+    {
+      "id": "_16",
+      "label": "Ćele kula",
+      "longitude": 21.9264666732397,
+      "latitude": 43.3118231681998
+    },
+    {
+      "id": "_17",
+      "label": "Medicinski fakultet",
+      "longitude": 21.9161983170636,
+      "latitude": 43.3156130588459
+    },
+    {
+      "id": "_18",
+      "label": "Gradska bolnica",
+      "longitude": 21.9105455040249,
+      "latitude": 43.3181428266918
+    },
+    {
+      "id": "_19",
+      "label": "Crveni pevac",
+      "longitude": 21.9052139193894,
+      "latitude": 43.3200864481009
+    },
+    {
+      "id": "_20",
+      "label": "Trg kralja Milana (Spomenik)",
+      "longitude": 21.8958302411904,
+      "latitude": 43.3210067072558
+    },
+    {
+      "id": "_21",
+      "label": "PAS Niš",
+      "longitude": 21.8905887068638,
+      "latitude": 43.3251601189193
+    }
+  ]
+}

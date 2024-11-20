@@ -1,0 +1,318 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "PAS Niš",
+      "longitude": 21.8905887068638,
+      "latitude": 43.3251601189193
+    },
+    {
+      "id": "_2",
+      "label": "Logor",
+      "longitude": 21.8875487349086,
+      "latitude": 43.3290344529612
+    },
+    {
+      "id": "_3",
+      "label": "DIN",
+      "longitude": 21.8817421640371,
+      "latitude": 43.3338828528293
+    },
+    {
+      "id": "_4",
+      "label": "Jastrebac",
+      "longitude": 21.8762735658457,
+      "latitude": 43.3381144363934
+    },
+    {
+      "id": "_5",
+      "label": "Ratka Jovića",
+      "longitude": 21.8704178880915,
+      "latitude": 43.3425845578957
+    },
+    {
+      "id": "_6",
+      "label": "Naselje Ratko Jović",
+      "longitude": 21.8677831675292,
+      "latitude": 43.3446390398645
+    },
+    {
+      "id": "_7",
+      "label": "Lovopromet",
+      "longitude": 21.8517745150415,
+      "latitude": 43.3568261887913
+    },
+    {
+      "id": "_8",
+      "label": "Čamurlija",
+      "longitude": 21.8457044536657,
+      "latitude": 43.3614714189595
+    },
+    {
+      "id": "_9",
+      "label": "Kafana Kosovka",
+      "longitude": 21.840836326552,
+      "latitude": 43.3652076264561
+    },
+    {
+      "id": "_10",
+      "label": "Eurometal",
+      "longitude": 21.836105004283,
+      "latitude": 43.3688500122397
+    },
+    {
+      "id": "_11",
+      "label": "Mlekara",
+      "longitude": 21.8305687299173,
+      "latitude": 43.3730926869193
+    },
+    {
+      "id": "_12",
+      "label": "Stovarište",
+      "longitude": 21.8254458995653,
+      "latitude": 43.3764538599998
+    },
+    {
+      "id": "_13",
+      "label": "Vrtiški put",
+      "longitude": 21.8225812241816,
+      "latitude": 43.3802671231243
+    },
+    {
+      "id": "_14",
+      "label": "Skretanje za Nais - Ikon",
+      "longitude": 21.8185658369601,
+      "latitude": 43.3855557766723
+    },
+    {
+      "id": "_15",
+      "label": "Kostin pojate",
+      "longitude": 21.814464865795,
+      "latitude": 43.3910232875967
+    },
+    {
+      "id": "_16",
+      "label": "Gornja Toponica klinika",
+      "longitude": 21.8064237128328,
+      "latitude": 43.3994857490251
+    },
+    {
+      "id": "_17",
+      "label": "Gornja Toponica naselje",
+      "longitude": 21.8066595157123,
+      "latitude": 43.4025921230176
+    },
+    {
+      "id": "_18",
+      "label": "Mezgraja - raskrsnica",
+      "longitude": 21.7848695025127,
+      "latitude": 43.3963909094121
+    },
+    {
+      "id": "_19",
+      "label": "Mezgraja igralište",
+      "longitude": 21.7764794858745,
+      "latitude": 43.3952916965974
+    },
+    {
+      "id": "_20",
+      "label": "Supovac raskrsnica 1",
+      "longitude": 21.7637121582703,
+      "latitude": 43.3960011199155
+    },
+    {
+      "id": "_21",
+      "label": "Supovac raskrsnica 2",
+      "longitude": 21.7653751262477,
+      "latitude": 43.3878227581645
+    },
+    {
+      "id": "_22",
+      "label": "Supovac okretnica",
+      "longitude": 21.7596888541168,
+      "latitude": 43.3899493163537
+    },
+    {
+      "id": "_23",
+      "label": "Supovac raskrsnica 2",
+      "longitude": 21.7652302885727,
+      "latitude": 43.3877525863202
+    },
+    {
+      "id": "_24",
+      "label": "Sečanica - raskrsnica",
+      "longitude": 21.76332860631,
+      "latitude": 43.3775865567524
+    },
+    {
+      "id": "_25",
+      "label": "Sečanica - ulaz",
+      "longitude": 21.7531228045343,
+      "latitude": 43.3747382032822
+    },
+    {
+      "id": "_26",
+      "label": "Sečanica MK",
+      "longitude": 21.7482572793961,
+      "latitude": 43.3727534398429
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Sečanica MK",
+      "longitude": 21.7482572793961,
+      "latitude": 43.3727534398429
+    },
+    {
+      "id": "_2",
+      "label": "Sečanica - ulaz",
+      "longitude": 21.7531818142407,
+      "latitude": 43.374716757266
+    },
+    {
+      "id": "_3",
+      "label": "Sečanica raskrsnica",
+      "longitude": 21.7632846832275,
+      "latitude": 43.3774871826172
+    },
+    {
+      "id": "_4",
+      "label": "Supovac raskrsnica 2",
+      "longitude": 21.7653636932373,
+      "latitude": 43.3876495361328
+    },
+    {
+      "id": "_5",
+      "label": "Supovac okretnica",
+      "longitude": 21.7596888541168,
+      "latitude": 43.3899493163537
+    },
+    {
+      "id": "_6",
+      "label": "Supovac raskrsnica 2",
+      "longitude": 21.7652302885727,
+      "latitude": 43.3877525863202
+    },
+    {
+      "id": "_7",
+      "label": "Supovac raskrsnica 1",
+      "longitude": 21.7636933933849,
+      "latitude": 43.3958822336201
+    },
+    {
+      "id": "_8",
+      "label": "Mezgraja igralište",
+      "longitude": 21.7765760404627,
+      "latitude": 43.3952195844215
+    },
+    {
+      "id": "_9",
+      "label": "Mezgraja raskrsnica",
+      "longitude": 21.7846527099609,
+      "latitude": 43.396354675293
+    },
+    {
+      "id": "_10",
+      "label": "Gornja Toponica naselje",
+      "longitude": 21.8065631755166,
+      "latitude": 43.4024868908714
+    },
+    {
+      "id": "_11",
+      "label": "Gornja Toponica klinika",
+      "longitude": 21.8062734436339,
+      "latitude": 43.3994526187076
+    },
+    {
+      "id": "_12",
+      "label": "Kostin pojate",
+      "longitude": 21.8139231875158,
+      "latitude": 43.391565138823
+    },
+    {
+      "id": "_13",
+      "label": "Skretanje za Nais - Ikon",
+      "longitude": 21.8182950541758,
+      "latitude": 43.3856785817969
+    },
+    {
+      "id": "_14",
+      "label": "Vrtiški put",
+      "longitude": 21.8223452720366,
+      "latitude": 43.3803957873295
+    },
+    {
+      "id": "_15",
+      "label": "Stovarište",
+      "longitude": 21.8252473947746,
+      "latitude": 43.3765318432427
+    },
+    {
+      "id": "_16",
+      "label": "Mlekara",
+      "longitude": 21.8302685387902,
+      "latitude": 43.3732057688564
+    },
+    {
+      "id": "_17",
+      "label": "Eurometal",
+      "longitude": 21.8358421417071,
+      "latitude": 43.3689319049092
+    },
+    {
+      "id": "_18",
+      "label": "Kafana Kosovka",
+      "longitude": 21.8405733360342,
+      "latitude": 43.3652739245113
+    },
+    {
+      "id": "_19",
+      "label": "Čamurlija",
+      "longitude": 21.8458199836123,
+      "latitude": 43.3612569115448
+    },
+    {
+      "id": "_20",
+      "label": "Lovopromet",
+      "longitude": 21.8515436318299,
+      "latitude": 43.3568339896438
+    },
+    {
+      "id": "_21",
+      "label": "Naselje Ratko Jović",
+      "longitude": 21.8678149706393,
+      "latitude": 43.3442751259294
+    },
+    {
+      "id": "_22",
+      "label": "Ratka Jovića",
+      "longitude": 21.8708891187239,
+      "latitude": 43.3419022257677
+    },
+    {
+      "id": "_23",
+      "label": "MIN",
+      "longitude": 21.8759274047295,
+      "latitude": 43.3380558835071
+    },
+    {
+      "id": "_24",
+      "label": "DIN",
+      "longitude": 21.8823420736979,
+      "latitude": 43.3330734525927
+    },
+    {
+      "id": "_25",
+      "label": "Logor",
+      "longitude": 21.8868925225776,
+      "latitude": 43.3293582215928
+    },
+    {
+      "id": "_26",
+      "label": "PAS Niš",
+      "longitude": 21.8905887068638,
+      "latitude": 43.3251601189193
+    }
+  ]
+}

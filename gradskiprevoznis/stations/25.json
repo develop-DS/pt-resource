@@ -1,0 +1,210 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "PAS Niš",
+      "longitude": 21.8905887068638,
+      "latitude": 43.3251601189193
+    },
+    {
+      "id": "_2",
+      "label": "Šivara",
+      "longitude": 21.8884782066108,
+      "latitude": 43.3197355494934
+    },
+    {
+      "id": "_3",
+      "label": "Feroks",
+      "longitude": 21.8841748009106,
+      "latitude": 43.316474327193
+    },
+    {
+      "id": "_4",
+      "label": "Železnička stanica (Glavna pošta)",
+      "longitude": 21.876359694241,
+      "latitude": 43.3156938763504
+    },
+    {
+      "id": "_5",
+      "label": "Ledena stena",
+      "longitude": 21.8662988440398,
+      "latitude": 43.3152756422237
+    },
+    {
+      "id": "_6",
+      "label": "MIN-ovo naselje",
+      "longitude": 21.8593943830182,
+      "latitude": 43.3120854222464
+    },
+    {
+      "id": "_7",
+      "label": "Naselje Vinogradi",
+      "longitude": 21.8552987457743,
+      "latitude": 43.3099210475583
+    },
+    {
+      "id": "_8",
+      "label": "Bubanj selo raskrsnica",
+      "longitude": 21.8409382504946,
+      "latitude": 43.3021292815372
+    },
+    {
+      "id": "_9",
+      "label": "Hladnjača",
+      "longitude": 21.8331062793732,
+      "latitude": 43.2994472152031
+    },
+    {
+      "id": "_10",
+      "label": "Donje Međurovo škola",
+      "longitude": 21.8287289325383,
+      "latitude": 43.297916783726
+    },
+    {
+      "id": "_11",
+      "label": "Donje Međurovo",
+      "longitude": 21.8238795382404,
+      "latitude": 43.2975068401822
+    },
+    {
+      "id": "_12",
+      "label": "Donje Međurovo mlin",
+      "longitude": 21.8201405236425,
+      "latitude": 43.3001031026154
+    },
+    {
+      "id": "_13",
+      "label": "MZ Čokot",
+      "longitude": 21.8153313183094,
+      "latitude": 43.3042588438236
+    },
+    {
+      "id": "_14",
+      "label": "Čokot škola",
+      "longitude": 21.8165141039447,
+      "latitude": 43.3074462160857
+    },
+    {
+      "id": "_15",
+      "label": "Čokot prodavaonica",
+      "longitude": 21.8172812918788,
+      "latitude": 43.3124231012274
+    },
+    {
+      "id": "_16",
+      "label": "Sime Dinića",
+      "longitude": 21.8172732315437,
+      "latitude": 43.3148352800932
+    },
+    {
+      "id": "_17",
+      "label": "Naselje 9. maj (okretnica)",
+      "longitude": 21.8177673574126,
+      "latitude": 43.3165179758755
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Naselje 9. maj (okretnica)",
+      "longitude": 21.8177673574126,
+      "latitude": 43.3165179758755
+    },
+    {
+      "id": "_2",
+      "label": "Sime Dinića",
+      "longitude": 21.817184558719,
+      "latitude": 43.3148586988362
+    },
+    {
+      "id": "_3",
+      "label": "Čokot prodavaonica",
+      "longitude": 21.8171685538056,
+      "latitude": 43.3125401994999
+    },
+    {
+      "id": "_4",
+      "label": "Čokot škola",
+      "longitude": 21.8163855498247,
+      "latitude": 43.3074540232835
+    },
+    {
+      "id": "_5",
+      "label": "MZ Čokot",
+      "longitude": 21.8152213340317,
+      "latitude": 43.3042490843132
+    },
+    {
+      "id": "_6",
+      "label": "Donje Međurovo mlin",
+      "longitude": 21.8204781499388,
+      "latitude": 43.3000133089234
+    },
+    {
+      "id": "_7",
+      "label": "Donje Međurovo",
+      "longitude": 21.823981449998,
+      "latitude": 43.297331149246
+    },
+    {
+      "id": "_8",
+      "label": "Donje Međurovo škola",
+      "longitude": 21.8289863514941,
+      "latitude": 43.2978933584551
+    },
+    {
+      "id": "_9",
+      "label": "Hladnjača",
+      "longitude": 21.8335837765487,
+      "latitude": 43.299591667205
+    },
+    {
+      "id": "_10",
+      "label": "Bubanj Selo raskrsnica",
+      "longitude": 21.8407666424267,
+      "latitude": 43.3019360361716
+    },
+    {
+      "id": "_11",
+      "label": "Naselje Vinogradi",
+      "longitude": 21.8558189389653,
+      "latitude": 43.3101084123993
+    },
+    {
+      "id": "_12",
+      "label": "MIN-ovo naselje",
+      "longitude": 21.8597509812253,
+      "latitude": 43.3121654842336
+    },
+    {
+      "id": "_13",
+      "label": "Ledena stena",
+      "longitude": 21.8661689785356,
+      "latitude": 43.3151596048934
+    },
+    {
+      "id": "_14",
+      "label": "Železnička stanica",
+      "longitude": 21.8789426196503,
+      "latitude": 43.3156199887215
+    },
+    {
+      "id": "_15",
+      "label": "Pirotska rampa",
+      "longitude": 21.8830330327269,
+      "latitude": 43.3159538659189
+    },
+    {
+      "id": "_16",
+      "label": "Trg kralja Aleksandra",
+      "longitude": 21.8918020230148,
+      "latitude": 43.3183845408261
+    },
+    {
+      "id": "_17",
+      "label": "PAS Niš",
+      "longitude": 21.8905887068638,
+      "latitude": 43.3251601189193
+    }
+  ]
+}

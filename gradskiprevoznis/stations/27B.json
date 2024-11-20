@@ -1,0 +1,162 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Trg kralja Aleksandra",
+      "longitude": 21.8918020230148,
+      "latitude": 43.3183845408261
+    },
+    {
+      "id": "_2",
+      "label": "Šivara",
+      "longitude": 21.8884782066108,
+      "latitude": 43.3197355494934
+    },
+    {
+      "id": "_3",
+      "label": "Feroks",
+      "longitude": 21.8841748009106,
+      "latitude": 43.316474327193
+    },
+    {
+      "id": "_4",
+      "label": "Šumadijska",
+      "longitude": 21.8822301956517,
+      "latitude": 43.3183995723267
+    },
+    {
+      "id": "_5",
+      "label": "Azija (centar)",
+      "longitude": 21.8790314376121,
+      "latitude": 43.3203992702896
+    },
+    {
+      "id": "_6",
+      "label": "Papir servis",
+      "longitude": 21.8697679480872,
+      "latitude": 43.3214784974052
+    },
+    {
+      "id": "_7",
+      "label": "Medoševac",
+      "longitude": 21.8646061923069,
+      "latitude": 43.3247757252581
+    },
+    {
+      "id": "_8",
+      "label": "Medoševac izlazna",
+      "longitude": 21.8565326411233,
+      "latitude": 43.3255581686751
+    },
+    {
+      "id": "_9",
+      "label": "Medoševac - groblje",
+      "longitude": 21.8370647873139,
+      "latitude": 43.3280615296569
+    },
+    {
+      "id": "_10",
+      "label": "Popovac - ulaz",
+      "longitude": 21.8332085444939,
+      "latitude": 43.3295638869432
+    },
+    {
+      "id": "_11",
+      "label": "Popovac - centar",
+      "longitude": 21.8268406421606,
+      "latitude": 43.330656487084
+    },
+    {
+      "id": "_12",
+      "label": "Popovac - Idea",
+      "longitude": 21.8291740863246,
+      "latitude": 43.3337429762898
+    },
+    {
+      "id": "_13",
+      "label": "Popovac - trafo",
+      "longitude": 21.8303565979004,
+      "latitude": 43.3361701965332
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Popovac - trafo",
+      "longitude": 21.8303565979004,
+      "latitude": 43.3361701965332
+    },
+    {
+      "id": "_2",
+      "label": "Popovac - škola",
+      "longitude": 21.8275943901104,
+      "latitude": 43.3347047894776
+    },
+    {
+      "id": "_3",
+      "label": "Popovac - izlaz",
+      "longitude": 21.8232034448871,
+      "latitude": 43.3332552355865
+    },
+    {
+      "id": "_4",
+      "label": "Popovac - centar",
+      "longitude": 21.8268514197364,
+      "latitude": 43.3305823469817
+    },
+    {
+      "id": "_5",
+      "label": "Popovac - ulaz",
+      "longitude": 21.8324224531549,
+      "latitude": 43.3297004630357
+    },
+    {
+      "id": "_6",
+      "label": "Medoševac - groblje",
+      "longitude": 21.8367328452901,
+      "latitude": 43.3279249498792
+    },
+    {
+      "id": "_7",
+      "label": "Medoševac - izlazna",
+      "longitude": 21.8567848967125,
+      "latitude": 43.3254274369351
+    },
+    {
+      "id": "_8",
+      "label": "Medoševac",
+      "longitude": 21.8645551815959,
+      "latitude": 43.324715236694
+    },
+    {
+      "id": "_9",
+      "label": "Papir servis",
+      "longitude": 21.8693452994034,
+      "latitude": 43.3214097054591
+    },
+    {
+      "id": "_10",
+      "label": "Azija (centar)",
+      "longitude": 21.8785695977869,
+      "latitude": 43.3203488181205
+    },
+    {
+      "id": "_11",
+      "label": "Šumadijska",
+      "longitude": 21.8820662044242,
+      "latitude": 43.31899316038
+    },
+    {
+      "id": "_12",
+      "label": "Kičevo",
+      "longitude": 21.8872228608338,
+      "latitude": 43.3173526389032
+    },
+    {
+      "id": "_13",
+      "label": "Trg kralja Aleksandra",
+      "longitude": 21.8918020230148,
+      "latitude": 43.3183845408261
+    }
+  ]
+}

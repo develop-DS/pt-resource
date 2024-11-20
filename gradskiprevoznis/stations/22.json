@@ -1,0 +1,204 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "PAS Niš",
+      "longitude": 21.8905887068638,
+      "latitude": 43.3251601189193
+    },
+    {
+      "id": "_2",
+      "label": "Dom Vojske Srbije",
+      "longitude": 21.902075639307,
+      "latitude": 43.3203003501236
+    },
+    {
+      "id": "_3",
+      "label": "Zetska",
+      "longitude": 21.9103090740705,
+      "latitude": 43.3166792183234
+    },
+    {
+      "id": "_4",
+      "label": "Avalska",
+      "longitude": 21.915859848899,
+      "latitude": 43.3116387727931
+    },
+    {
+      "id": "_5",
+      "label": "Seličevica",
+      "longitude": 21.9215950391878,
+      "latitude": 43.3105321635383
+    },
+    {
+      "id": "_6",
+      "label": "Ciglana",
+      "longitude": 21.9220579855005,
+      "latitude": 43.3077306545096
+    },
+    {
+      "id": "_7",
+      "label": "Trafo",
+      "longitude": 21.9178615449851,
+      "latitude": 43.3023075885478
+    },
+    {
+      "id": "_8",
+      "label": "Rasadnik",
+      "longitude": 21.9160936191501,
+      "latitude": 43.2975458825435
+    },
+    {
+      "id": "_9",
+      "label": "Kafana Palma",
+      "longitude": 21.9172310006679,
+      "latitude": 43.2904905208451
+    },
+    {
+      "id": "_10",
+      "label": "Gabrovac - ulaz",
+      "longitude": 21.9193712937974,
+      "latitude": 43.2863787455493
+    },
+    {
+      "id": "_11",
+      "label": "Gabrovac - česma",
+      "longitude": 21.9260153250556,
+      "latitude": 43.2810189630613
+    },
+    {
+      "id": "_12",
+      "label": "Prvomajska",
+      "longitude": 21.9327719177054,
+      "latitude": 43.2820597155113
+    },
+    {
+      "id": "_13",
+      "label": "Gabrovac - groblje",
+      "longitude": 21.9451257825101,
+      "latitude": 43.2803999705158
+    },
+    {
+      "id": "_14",
+      "label": "Oštra Čuka",
+      "longitude": 21.9512307339267,
+      "latitude": 43.2762914187425
+    },
+    {
+      "id": "_15",
+      "label": "Dolina",
+      "longitude": 21.955924499177,
+      "latitude": 43.2703311823159
+    },
+    {
+      "id": "_16",
+      "label": "Vukmanovo",
+      "longitude": 21.9586122005518,
+      "latitude": 43.266108669484
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Vukmanovo",
+      "longitude": 21.9587515261551,
+      "latitude": 43.2661555444997
+    },
+    {
+      "id": "_2",
+      "label": "Dolina",
+      "longitude": 21.9561283379235,
+      "latitude": 43.270249156642
+    },
+    {
+      "id": "_3",
+      "label": "Oštra Čuka",
+      "longitude": 21.9514884575059,
+      "latitude": 43.2762953243417
+    },
+    {
+      "id": "_4",
+      "label": "Gabrovac - groblje",
+      "longitude": 21.945855745465,
+      "latitude": 43.2803531064704
+    },
+    {
+      "id": "_5",
+      "label": "Prvomajska",
+      "longitude": 21.9325574506487,
+      "latitude": 43.2820987677895
+    },
+    {
+      "id": "_6",
+      "label": "Gabrovac - česma",
+      "longitude": 21.9272464513779,
+      "latitude": 43.2807084912468
+    },
+    {
+      "id": "_7",
+      "label": "Gabrovac - ulaz",
+      "longitude": 21.9196717194845,
+      "latitude": 43.286128828119
+    },
+    {
+      "id": "_8",
+      "label": "Kafana Palma",
+      "longitude": 21.9173598198103,
+      "latitude": 43.290619375408
+    },
+    {
+      "id": "_9",
+      "label": "Rasadnik",
+      "longitude": 21.9162280677327,
+      "latitude": 43.2978152741536
+    },
+    {
+      "id": "_10",
+      "label": "Trafo",
+      "longitude": 21.9182086002354,
+      "latitude": 43.3024362221502
+    },
+    {
+      "id": "_11",
+      "label": "Ciglana",
+      "longitude": 21.9220209198943,
+      "latitude": 43.307399686826
+    },
+    {
+      "id": "_12",
+      "label": "Seličevica",
+      "longitude": 21.921609700183,
+      "latitude": 43.3108489092911
+    },
+    {
+      "id": "_13",
+      "label": "Avalska",
+      "longitude": 21.9136931947377,
+      "latitude": 43.3118361858582
+    },
+    {
+      "id": "_14",
+      "label": "Gradska bolnica (Zetska)",
+      "longitude": 21.9106418601857,
+      "latitude": 43.3146979622359
+    },
+    {
+      "id": "_15",
+      "label": "Crveni pevac",
+      "longitude": 21.9052139193894,
+      "latitude": 43.3200864481009
+    },
+    {
+      "id": "_16",
+      "label": "Trg kralja Milana (Spomenik)",
+      "longitude": 21.8958302411904,
+      "latitude": 43.3210067072558
+    },
+    {
+      "id": "_17",
+      "label": "PAS Niš",
+      "longitude": 21.8905887068638,
+      "latitude": 43.3251601189193
+    }
+  ]
+}

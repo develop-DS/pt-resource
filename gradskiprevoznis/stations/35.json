@@ -1,0 +1,276 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "PAS Niš",
+      "longitude": 21.8905887068638,
+      "latitude": 43.3251601189193
+    },
+    {
+      "id": "_2",
+      "label": "Ured",
+      "longitude": 21.8913006731576,
+      "latitude": 43.3193390516789
+    },
+    {
+      "id": "_3",
+      "label": "Obilićev venac",
+      "longitude": 21.8871998293522,
+      "latitude": 43.3159431330133
+    },
+    {
+      "id": "_4",
+      "label": "Prekršajni sud",
+      "longitude": 21.8802648219177,
+      "latitude": 43.3139648770775
+    },
+    {
+      "id": "_5",
+      "label": "Salvadora Aljendea",
+      "longitude": 21.8762818368867,
+      "latitude": 43.3116598559612
+    },
+    {
+      "id": "_6",
+      "label": "Bubanj (spomenik)",
+      "longitude": 21.8687832027025,
+      "latitude": 43.3077852240407
+    },
+    {
+      "id": "_7",
+      "label": "Gornjomeđurovački put",
+      "longitude": 21.8625032954149,
+      "latitude": 43.3021683209305
+    },
+    {
+      "id": "_8",
+      "label": "G. Međurovo ulaz",
+      "longitude": 21.8502563179715,
+      "latitude": 43.2826572126256
+    },
+    {
+      "id": "_9",
+      "label": "G. Međurovo centar - trafo",
+      "longitude": 21.8458682312764,
+      "latitude": 43.2805913316597
+    },
+    {
+      "id": "_10",
+      "label": "Konjički klub",
+      "longitude": 21.8404662574849,
+      "latitude": 43.2782207542195
+    },
+    {
+      "id": "_11",
+      "label": "Bubanj selo - ulaz",
+      "longitude": 21.8435293470302,
+      "latitude": 43.2878001314071
+    },
+    {
+      "id": "_12",
+      "label": "Bubanj selo I - OŠ D.Maksimovic",
+      "longitude": 21.8412762900473,
+      "latitude": 43.290560805186
+    },
+    {
+      "id": "_13",
+      "label": "Bubanj selo II - Krst",
+      "longitude": 21.8382775884279,
+      "latitude": 43.2941920522943
+    },
+    {
+      "id": "_14",
+      "label": "Bubanj selo III - DAMM komerc",
+      "longitude": 21.8385028820978,
+      "latitude": 43.2980495267573
+    },
+    {
+      "id": "_15",
+      "label": "Bubanj Selo raskrsnica",
+      "longitude": 21.8409597819288,
+      "latitude": 43.3019262762883
+    },
+    {
+      "id": "_16",
+      "label": "Naselje Vinogradi",
+      "longitude": 21.8558189389653,
+      "latitude": 43.3101084123993
+    },
+    {
+      "id": "_17",
+      "label": "MIN-ovo naselje",
+      "longitude": 21.8597509812253,
+      "latitude": 43.3121654842336
+    },
+    {
+      "id": "_18",
+      "label": "Ledena stena",
+      "longitude": 21.8661689785356,
+      "latitude": 43.3151596048934
+    },
+    {
+      "id": "_19",
+      "label": "Železnička stanica",
+      "longitude": 21.8789426196503,
+      "latitude": 43.3156199887215
+    },
+    {
+      "id": "_20",
+      "label": "Pirotska rampa",
+      "longitude": 21.8830330327269,
+      "latitude": 43.3159538659189
+    },
+    {
+      "id": "_21",
+      "label": "Trg kralja Aleksandra",
+      "longitude": 21.8918020230148,
+      "latitude": 43.3183845408261
+    },
+    {
+      "id": "_22",
+      "label": "PAS Niš",
+      "longitude": 21.8905887068638,
+      "latitude": 43.3251601189193
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "PAS Niš",
+      "longitude": 21.8905887068638,
+      "latitude": 43.3251601189193
+    },
+    {
+      "id": "_2",
+      "label": "Šivara",
+      "longitude": 21.8884782066108,
+      "latitude": 43.3197355494934
+    },
+    {
+      "id": "_3",
+      "label": "Feroks",
+      "longitude": 21.8841748009106,
+      "latitude": 43.316474327193
+    },
+    {
+      "id": "_4",
+      "label": "Železnička stanica (Glavna pošta)",
+      "longitude": 21.876359694241,
+      "latitude": 43.3156938763504
+    },
+    {
+      "id": "_5",
+      "label": "Ledena stena",
+      "longitude": 21.8662988440398,
+      "latitude": 43.3152756422237
+    },
+    {
+      "id": "_6",
+      "label": "MIN-ovo naselje",
+      "longitude": 21.8593943830182,
+      "latitude": 43.3120854222464
+    },
+    {
+      "id": "_7",
+      "label": "Naselje Vinogradi",
+      "longitude": 21.8552987457743,
+      "latitude": 43.3099210475583
+    },
+    {
+      "id": "_8",
+      "label": "Bubanj selo raskrsnica",
+      "longitude": 21.8409382504946,
+      "latitude": 43.3021292815372
+    },
+    {
+      "id": "_9",
+      "label": "Bubanj selo III - DAMM komerc",
+      "longitude": 21.838454607977,
+      "latitude": 43.2981705569157
+    },
+    {
+      "id": "_10",
+      "label": "Bubanj selo II - Krst ( ka G.Međurovu )",
+      "longitude": 21.8380951915661,
+      "latitude": 43.2942193834397
+    },
+    {
+      "id": "_11",
+      "label": "Bubanj selo I - OŠ D.Maksimovic",
+      "longitude": 21.8411153544842,
+      "latitude": 43.2905764239174
+    },
+    {
+      "id": "_12",
+      "label": "Bubanj selo - ulaz",
+      "longitude": 21.843556167307,
+      "latitude": 43.2876478416539
+    },
+    {
+      "id": "_13",
+      "label": "Konjički klub",
+      "longitude": 21.8401014629552,
+      "latitude": 43.278056724028
+    },
+    {
+      "id": "_14",
+      "label": "G. Međurovo centar - trafo",
+      "longitude": 21.8431431053054,
+      "latitude": 43.2765765268249
+    },
+    {
+      "id": "_15",
+      "label": "G. Međurovo ulaz",
+      "longitude": 21.8498432458958,
+      "latitude": 43.2819933265808
+    },
+    {
+      "id": "_16",
+      "label": "Gornjomeđurovački put",
+      "longitude": 21.8624067187645,
+      "latitude": 43.3019223723346
+    },
+    {
+      "id": "_17",
+      "label": "Bubanj (spomenik)",
+      "longitude": 21.868543955493,
+      "latitude": 43.3072595386604
+    },
+    {
+      "id": "_18",
+      "label": "Zmaja od Noćaja",
+      "longitude": 21.8773219517633,
+      "latitude": 43.3121505609612
+    },
+    {
+      "id": "_19",
+      "label": "Kralja Petra I",
+      "longitude": 21.8815844855073,
+      "latitude": 43.3145893827469
+    },
+    {
+      "id": "_20",
+      "label": "Obilićev venac rampa",
+      "longitude": 21.8854535337685,
+      "latitude": 43.3157316584352
+    },
+    {
+      "id": "_21",
+      "label": "Obilićev venac (Šojka)",
+      "longitude": 21.8905609206792,
+      "latitude": 43.3159709488717
+    },
+    {
+      "id": "_22",
+      "label": "Trg kralja Aleksandra",
+      "longitude": 21.8918020230148,
+      "latitude": 43.3183845408261
+    },
+    {
+      "id": "_23",
+      "label": "PAS Niš",
+      "longitude": 21.8905887068638,
+      "latitude": 43.3251601189193
+    }
+  ]
+}
