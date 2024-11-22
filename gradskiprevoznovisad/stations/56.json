@@ -1,312 +1,318 @@
 {
-    "direction_a": [
-        {
-            "id": "_1",
-            "label": "Železnička Stanica - Terminal",
-            "longitude": 19.8303881347,
-            "latitude": 45.2650262948
-        },
-        {
-            "id": "_2",
-            "label": "Futoška - Bul. Oslobođenja",
-            "longitude": 19.8364491963,
-            "latitude": 45.2518040573
-        },
-        {
-            "id": "_3",
-            "label": "Futoška - Bolnica",
-            "longitude": 19.8235646906,
-            "latitude": 45.2494540403
-        },
-        {
-            "id": "_4",
-            "label": "Futoška - Jugoalat",
-            "longitude": 19.810052585,
-            "latitude": 45.2478325873
-        },
-        {
-            "id": "_5",
-            "label": "Futoški Put - Satelitska Pijaca",
-            "longitude": 19.7998632846,
-            "latitude": 45.2461119679
-        },
-        {
-            "id": "_6",
-            "label": "Futoški Put - Garaža GSP",
-            "longitude": 19.792952863,
-            "latitude": 45.2440016201
-        },
-        {
-            "id": "_7",
-            "label": "Veternik - Fešter",
-            "longitude": 19.7673159236,
-            "latitude": 45.2470495425
-        },
-        {
-            "id": "_8",
-            "label": "Veternik - Mesna Zajednica",
-            "longitude": 19.7556811934,
-            "latitude": 45.2497997749
-        },
-        {
-            "id": "_9",
-            "label": "Veternik - Zavod Za Decu",
-            "longitude": 19.7362036012,
-            "latitude": 45.2463691629
-        },
-        {
-            "id": "_10",
-            "label": "Futog - Rade Kondića - Rumenačka",
-            "longitude": 19.7268575049,
-            "latitude": 45.2443245613
-        },
-        {
-            "id": "_11",
-            "label": "Futog - Rade Kondića - Industrijska",
-            "longitude": 19.7187351485,
-            "latitude": 45.242713394
-        },
-        {
-            "id": "_12",
-            "label": "Futog - Rade Kondića - Grmečka",
-            "longitude": 19.7096935603,
-            "latitude": 45.2410495646
-        },
-        {
-            "id": "_13",
-            "label": "Futog - Benzinska Pumpa",
-            "longitude": 19.7014434935,
-            "latitude": 45.2393573607
-        },
-        {
-            "id": "_14",
-            "label": "Futog - Carice Milice - Robna Kuća",
-            "longitude": 19.69371563,
-            "latitude": 45.2388740721
-        },
-        {
-            "id": "_15",
-            "label": "Futog - Carice Milice - Kozaračka",
-            "longitude": 19.68609644,
-            "latitude": 45.2392722403
-        },
-        {
-            "id": "_16",
-            "label": "Futog - Izlaz",
-            "longitude": 19.6807476159,
-            "latitude": 45.2396103112
-        },
-        {
-            "id": "_17",
-            "label": "Bačkopalanački Put - Čarda",
-            "longitude": 19.6692785465,
-            "latitude": 45.2405123768
-        },
-        {
-            "id": "_18",
-            "label": "Bačkopalanački Put - Salaš",
-            "longitude": 19.6534083692,
-            "latitude": 45.2419113433
-        },
-        {
-            "id": "_19",
-            "label": "Begeč - Nikole Tesle - Agrobegeč",
-            "longitude": 19.6400853519,
-            "latitude": 45.2419179659
-        },
-        {
-            "id": "_20",
-            "label": "Begeč - Nikole Tesle - Ulaz",
-            "longitude": 19.634540326,
-            "latitude": 45.2410161599
-        },
-        {
-            "id": "_21",
-            "label": "Begeč - Partizanska - Fudbalski Teren",
-            "longitude": 19.6267120374,
-            "latitude": 45.241173578
-        },
-        {
-            "id": "_22",
-            "label": "Begeč - Kralja Petra I - Zmaj Jovina",
-            "longitude": 19.6220838306,
-            "latitude": 45.240328794
-        },
-        {
-            "id": "_23",
-            "label": "Begeč - Česma",
-            "longitude": 19.6229258878,
-            "latitude": 45.2373033856
-        },
-        {
-            "id": "_24",
-            "label": "Begeč - Kralja Petra I - Dositeja Obradovića",
-            "longitude": 19.6237022402,
-            "latitude": 45.2344845661
-        },
-        {
-            "id": "_25",
-            "label": "Begeč - Okretnica",
-            "longitude": 19.6220513162,
-            "latitude": 45.2310593407
-        }
-    ],
-    "direction_b": [
-        {
-            "id": "_1",
-            "label": "Begeč - Okretnica",
-            "longitude": 19.6220513162,
-            "latitude": 45.2310593407
-        },
-        {
-            "id": "_2",
-            "label": "Begeč - Kralja Petra I - Dositeja Obradovića",
-            "longitude": 19.6236073708,
-            "latitude": 45.2350784381
-        },
-        {
-            "id": "_3",
-            "label": "Begeč - Česma",
-            "longitude": 19.622897357,
-            "latitude": 45.2377119869
-        },
-        {
-            "id": "_4",
-            "label": "Begeč - Kralja Petra I - Zmaj Jovina",
-            "longitude": 19.6221147229,
-            "latitude": 45.2406816439
-        },
-        {
-            "id": "_5",
-            "label": "Begeč - Partizanska - Stadion",
-            "longitude": 19.6278103336,
-            "latitude": 45.2410597438
-        },
-        {
-            "id": "_6",
-            "label": "Begeč - Nikole Tesle - Ulaz",
-            "longitude": 19.6342153146,
-            "latitude": 45.2409278186
-        },
-        {
-            "id": "_7",
-            "label": "Begeč - Nikole Tesle - Hemiprodukt",
-            "longitude": 19.6382594445,
-            "latitude": 45.2414349692
-        },
-        {
-            "id": "_8",
-            "label": "Bačkopalanački Put - Salaš",
-            "longitude": 19.6532486911,
-            "latitude": 45.2418427335
-        },
-        {
-            "id": "_9",
-            "label": "Bačkopalanački Put - Čarda",
-            "longitude": 19.6697390487,
-            "latitude": 45.2404009547
-        },
-        {
-            "id": "_10",
-            "label": "Futog - Izlaz",
-            "longitude": 19.6794477912,
-            "latitude": 45.2396198902
-        },
-        {
-            "id": "_11",
-            "label": "Futog - Kozaračka - Stara Okretnica",
-            "longitude": 19.6864559541,
-            "latitude": 45.2391587159
-        },
-        {
-            "id": "_12",
-            "label": "Futog - Carice Milice - Robna Kuća",
-            "longitude": 19.6945874305,
-            "latitude": 45.2386780841
-        },
-        {
-            "id": "_13",
-            "label": "Futog - Rade Kondića - Njegoševa",
-            "longitude": 19.7040749573,
-            "latitude": 45.2398713667
-        },
-        {
-            "id": "_14",
-            "label": "Futog - Rade Kondića - Grmečka",
-            "longitude": 19.710492541,
-            "latitude": 45.2410451184
-        },
-        {
-            "id": "_15",
-            "label": "Futog - Rade Kondića - Industrijska",
-            "longitude": 19.7194038535,
-            "latitude": 45.2427078645
-        },
-        {
-            "id": "_16",
-            "label": "Futog - Rade Kondića - Rumenačka",
-            "longitude": 19.7278720071,
-            "latitude": 45.2444242272
-        },
-        {
-            "id": "_17",
-            "label": "Veternik - Zavod Za Decu",
-            "longitude": 19.7371847016,
-            "latitude": 45.2463545316
-        },
-        {
-            "id": "_18",
-            "label": "Veternik - Pravoslavna Crkva",
-            "longitude": 19.7572312271,
-            "latitude": 45.2492300271
-        },
-        {
-            "id": "_19",
-            "label": "Veternik - Fešter",
-            "longitude": 19.7680295823,
-            "latitude": 45.2466526277
-        },
-        {
-            "id": "_20",
-            "label": "Futoški Put - Garaža GSP",
-            "longitude": 19.792701,
-            "latitude": 45.243705
-        },
-        {
-            "id": "_21",
-            "label": "Futoški Put - Bul. Patrijarha Pavla",
-            "longitude": 19.79550631,
-            "latitude": 45.2445958159
-        },
-        {
-            "id": "_22",
-            "label": "Futoški Put - Satelitska Pijaca",
-            "longitude": 19.8010162498,
-            "latitude": 45.24628254
-        },
-        {
-            "id": "_23",
-            "label": "Futoški Put - Vršacka",
-            "longitude": 19.8083415635,
-            "latitude": 45.247517576
-        },
-        {
-            "id": "_24",
-            "label": "Futoška - Cara Dušana",
-            "longitude": 19.8252968807,
-            "latitude": 45.2491656314
-        },
-        {
-            "id": "_25",
-            "label": "Bul. Oslobođenja - Futoška Pijaca",
-            "longitude": 19.8366307617,
-            "latitude": 45.2528681592
-        },
-        {
-            "id": "_26",
-            "label": "Železnička Stanica - Dolasci",
-            "longitude": 19.830132455,
-            "latitude": 45.2650202834
-        }
-    ]
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Železnička Stanica - Terminal",
+      "longitude": 19.8303881347,
+      "latitude": 45.2650262948
+    },
+    {
+      "id": "_2",
+      "label": "Futoška - Bul. Oslobođenja",
+      "longitude": 19.8364491963,
+      "latitude": 45.2518040573
+    },
+    {
+      "id": "_3",
+      "label": "Futoška - Bolnica",
+      "longitude": 19.8235646906,
+      "latitude": 45.2494540403
+    },
+    {
+      "id": "_4",
+      "label": "Futoška - Jugoalat",
+      "longitude": 19.810052585,
+      "latitude": 45.2478325873
+    },
+    {
+      "id": "_5",
+      "label": "Futoški Put - Satelitska Pijaca",
+      "longitude": 19.7998632846,
+      "latitude": 45.2461119679
+    },
+    {
+      "id": "_6",
+      "label": "Futoški Put - Garaža GSP",
+      "longitude": 19.792952863,
+      "latitude": 45.2440016201
+    },
+    {
+      "id": "_7",
+      "label": "Veternik - Fešter",
+      "longitude": 19.7673159236,
+      "latitude": 45.2470495425
+    },
+    {
+      "id": "_8",
+      "label": "Veternik - Mesna Zajednica",
+      "longitude": 19.7556811934,
+      "latitude": 45.2497997749
+    },
+    {
+      "id": "_9",
+      "label": "Veternik - Zavod Za Decu",
+      "longitude": 19.7362036012,
+      "latitude": 45.2463691629
+    },
+    {
+      "id": "_10",
+      "label": "Futog - Rade Kondića - Rumenačka",
+      "longitude": 19.7268575049,
+      "latitude": 45.2443245613
+    },
+    {
+      "id": "_11",
+      "label": "Futog - Rade Kondića - Industrijska",
+      "longitude": 19.7187351485,
+      "latitude": 45.242713394
+    },
+    {
+      "id": "_12",
+      "label": "Futog - Rade Kondića - Grmečka",
+      "longitude": 19.7096935603,
+      "latitude": 45.2410495646
+    },
+    {
+      "id": "_13",
+      "label": "Futog - Benzinska Pumpa",
+      "longitude": 19.7014434935,
+      "latitude": 45.2393573607
+    },
+    {
+      "id": "_14",
+      "label": "Futog - Carice Milice - Robna Kuća",
+      "longitude": 19.69371563,
+      "latitude": 45.2388740721
+    },
+    {
+      "id": "_15",
+      "label": "Futog - Carice Milice - Kozaračka",
+      "longitude": 19.68609644,
+      "latitude": 45.2392722403
+    },
+    {
+      "id": "_16",
+      "label": "Futog - Izlaz",
+      "longitude": 19.6807476159,
+      "latitude": 45.2396103112
+    },
+    {
+      "id": "_17",
+      "label": "Bačkopalanački Put - Čarda",
+      "longitude": 19.6692785465,
+      "latitude": 45.2405123768
+    },
+    {
+      "id": "_18",
+      "label": "Bačkopalanački Put - Salaš",
+      "longitude": 19.6534083692,
+      "latitude": 45.2419113433
+    },
+    {
+      "id": "_19",
+      "label": "Begeč - Nikole Tesle - Agrobegeč",
+      "longitude": 19.6400853519,
+      "latitude": 45.2419179659
+    },
+    {
+      "id": "_20",
+      "label": "Begeč - Nikole Tesle - Ulaz",
+      "longitude": 19.634540326,
+      "latitude": 45.2410161599
+    },
+    {
+      "id": "_21",
+      "label": "Begeč - Partizanska - Fudbalski Teren",
+      "longitude": 19.6267120374,
+      "latitude": 45.241173578
+    },
+    {
+      "id": "_22",
+      "label": "Begeč - Kralja Petra I - Zmaj Jovina",
+      "longitude": 19.6220838306,
+      "latitude": 45.240328794
+    },
+    {
+      "id": "_23",
+      "label": "Begeč - Česma",
+      "longitude": 19.6229258878,
+      "latitude": 45.2373033856
+    },
+    {
+      "id": "_24",
+      "label": "Begeč - Kralja Petra I - Dositeja Obradovića",
+      "longitude": 19.6237022402,
+      "latitude": 45.2344845661
+    },
+    {
+      "id": "_25",
+      "label": "Begeč - Okretnica",
+      "longitude": 19.6220513162,
+      "latitude": 45.2310593407
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Begeč - Okretnica",
+      "longitude": 19.6220513162,
+      "latitude": 45.2310593407
+    },
+    {
+      "id": "_2",
+      "label": "Begeč - Kralja Petra I - Dositeja Obradovića",
+      "longitude": 19.6236073708,
+      "latitude": 45.2350784381
+    },
+    {
+      "id": "_3",
+      "label": "Begeč - Česma",
+      "longitude": 19.622897357,
+      "latitude": 45.2377119869
+    },
+    {
+      "id": "_4",
+      "label": "Begeč - Kralja Petra I - Zmaj Jovina",
+      "longitude": 19.6221147229,
+      "latitude": 45.2406816439
+    },
+    {
+      "id": "_5",
+      "label": "Begeč - Partizanska - Stadion",
+      "longitude": 19.6278103336,
+      "latitude": 45.2410597438
+    },
+    {
+      "id": "_6",
+      "label": "Begeč - Nikole Tesle - Ulaz",
+      "longitude": 19.6342153146,
+      "latitude": 45.2409278186
+    },
+    {
+      "id": "_7",
+      "label": "Begeč - Nikole Tesle - Hemiprodukt",
+      "longitude": 19.6382594445,
+      "latitude": 45.2414349692
+    },
+    {
+      "id": "_8",
+      "label": "Bačkopalanački Put - Salaš",
+      "longitude": 19.6532486911,
+      "latitude": 45.2418427335
+    },
+    {
+      "id": "_9",
+      "label": "Bačkopalanački Put - Čarda",
+      "longitude": 19.6697390487,
+      "latitude": 45.2404009547
+    },
+    {
+      "id": "_10",
+      "label": "Futog - Izlaz",
+      "longitude": 19.6794477912,
+      "latitude": 45.2396198902
+    },
+    {
+      "id": "_11",
+      "label": "Futog - Kozaračka - Stara Okretnica",
+      "longitude": 19.6864559541,
+      "latitude": 45.2391587159
+    },
+    {
+      "id": "_12",
+      "label": "Futog - Carice Milice - Robna Kuća",
+      "longitude": 19.6945874305,
+      "latitude": 45.2386780841
+    },
+    {
+      "id": "_13",
+      "label": "Futog - Rade Kondića - Njegoševa",
+      "longitude": 19.7040749573,
+      "latitude": 45.2398713667
+    },
+    {
+      "id": "_14",
+      "label": "Futog - Rade Kondića - Grmečka",
+      "longitude": 19.710492541,
+      "latitude": 45.2410451184
+    },
+    {
+      "id": "_15",
+      "label": "Futog - Rade Kondića - Industrijska",
+      "longitude": 19.7194038535,
+      "latitude": 45.2427078645
+    },
+    {
+      "id": "_16",
+      "label": "Futog - Rade Kondića - Rumenačka",
+      "longitude": 19.7278720071,
+      "latitude": 45.2444242272
+    },
+    {
+      "id": "_17",
+      "label": "Veternik - Zavod Za Decu",
+      "longitude": 19.7371847016,
+      "latitude": 45.2463545316
+    },
+    {
+      "id": "_18",
+      "label": "Veternik - Pravoslavna Crkva",
+      "longitude": 19.7572312271,
+      "latitude": 45.2492300271
+    },
+    {
+      "id": "_19",
+      "label": "Veternik - Fešter",
+      "longitude": 19.7680295823,
+      "latitude": 45.2466526277
+    },
+    {
+      "id": "_20",
+      "label": "Futoški Put - Garaža GSP",
+      "longitude": 19.792701,
+      "latitude": 45.243705
+    },
+    {
+      "id": "_21",
+      "label": "Futoški Put - Bul. Patrijarha Pavla",
+      "longitude": 19.79550631,
+      "latitude": 45.2445958159
+    },
+    {
+      "id": "_22",
+      "label": "Futoški Put - Satelitska Pijaca",
+      "longitude": 19.8010162498,
+      "latitude": 45.24628254
+    },
+    {
+      "id": "_23",
+      "label": "Futoški Put - Vršacka",
+      "longitude": 19.8083415635,
+      "latitude": 45.247517576
+    },
+    {
+      "id": "_24",
+      "label": "Futoška - Cara Dušana",
+      "longitude": 19.8252968807,
+      "latitude": 45.2491656314
+    },
+    {
+      "id": "_25",
+      "label": "Bul. Oslobođenja - Futoška Pijaca",
+      "longitude": 19.8366307617,
+      "latitude": 45.2528681592
+    },
+    {
+      "id": "_26",
+      "label": "Železnička Stanica - Dolasci",
+      "longitude": 19.830132455,
+      "latitude": 45.2650202834
+    },
+    {
+      "id": "_",
+      "label": "DOLAZNI PERON",
+      "longitude": 19.830784,
+      "latitude": 45.26467
+    }
+  ]
 }

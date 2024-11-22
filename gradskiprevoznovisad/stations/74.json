@@ -1,276 +1,312 @@
 {
-    "direction_a": [
-        {
-            "id": "_2",
-            "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
-            "longitude": 19.8322222835,
-            "latitude": 45.2601777537
-        },
-        {
-            "id": "_3",
-            "label": "BUL. OSLOBOÐENJA - NOVOSADSKOG SAJMA",
-            "longitude": 19.8353175469,
-            "latitude": 45.2545506888
-        },
-        {
-            "id": "_4",
-            "label": "BUL. OSLOBOĐENJA - FUTOŠKA",
-            "longitude": 19.8370753816,
-            "latitude": 45.2514514442
-        },
-        {
-            "id": "_5",
-            "label": "BUL. OSLOBOĐENJA - BRAĆE RIBNIKAR",
-            "longitude": 19.8392619075,
-            "latitude": 45.2475207776
-        },
-        {
-            "id": "_6",
-            "label": "BUL. OSLOBOĐENJA - BUL. CARA LAZARA",
-            "longitude": 19.8414842753,
-            "latitude": 45.2434304122
-        },
-        {
-            "id": "_10",
-            "label": "MOŠE PIJADE - SŠUP SR. KAMENICA",
-            "longitude": 19.8480204015,
-            "latitude": 45.2214886206
-        },
-        {
-            "id": "_7",
-            "label": "BUL. OSLOBOĐENJA - MOST SLOBODE",
-            "longitude": 19.8428482132,
-            "latitude": 45.241081551
-        },
-        {
-            "id": "_8",
-            "label": "INSTITUTSKI PUT - PETLJA MIŠELUK",
-            "longitude": 19.8567651282,
-            "latitude": 45.22717493
-        },
-        {
-            "id": "_9",
-            "label": "INSTITUTSKI PUT - NOVOSADSKA",
-            "longitude": 19.8554431781,
-            "latitude": 45.2238312414
-        },
-        {
-            "id": "_1",
-            "label": "ŽELEZNIČKA STANICA",
-            "longitude": 19.8294363876,
-            "latitude": 45.2647056244
-        },
-        {
-            "id": "_11",
-            "label": "SR. KAMENICA - CENTAR",
-            "longitude": 19.8424277822,
-            "latitude": 45.2231492291
-        },
-        {
-            "id": "_12",
-            "label": "SR. KAMENICA - LOLE RIBARA - GROBLJE",
-            "longitude": 19.8429834635,
-            "latitude": 45.2170096066
-        },
-        {
-            "id": "_13",
-            "label": "SR. KAMENICA - LOLE RIBARA - ZELENI BREG",
-            "longitude": 19.8423810743,
-            "latitude": 45.2123018031
-        },
-        {
-            "id": "_14",
-            "label": "POPOVICA - FRUŠKOGORSKI PUT - JAGODA\r\n",
-            "longitude": 19.8362552752,
-            "latitude": 45.2186987902
-        },
-        {
-            "id": "_15",
-            "label": "POPOVICA - FRUŠKOGORSKI PUT - STAROIRIŠKI PUT\r\n",
-            "longitude": 19.8352180106,
-            "latitude": 45.2166478383
-        },
-        {
-            "id": "_16",
-            "label": "POPOVICA - MOŠINA VILA",
-            "longitude": 19.8338695929,
-            "latitude": 45.2091152747
-        },
-        {
-            "id": "_17",
-            "label": "POPOVICA - FRUŠKOGORSKI PUT - PANČIĆEVE OMORIKE",
-            "longitude": 19.8328679912,
-            "latitude": 45.2065622792
-        },
-        {
-            "id": "_18",
-            "label": "POPOVICA - FRUŠKOGORSKI PUT 130",
-            "longitude": 19.8324784414,
-            "latitude": 45.2033316592
-        },
-        {
-            "id": "_19",
-            "label": "POPOVICA - FRUŠKOGORSKI PUT - LOVAČKI DOM",
-            "longitude": 19.8322207906,
-            "latitude": 45.19945007
-        },
-        {
-            "id": "_20",
-            "label": "POPOVICA - FRUŠKOGORSKI PUT - PARAGOVO",
-            "longitude": 19.8343244524,
-            "latitude": 45.1922952209
-        },
-        {
-            "id": "_21",
-            "label": "POPOVICA - FRUŠKOGORSKI PUT - BUDŽAK",
-            "longitude": 19.8309066634,
-            "latitude": 45.1873303412
-        },
-        {
-            "id": "_22",
-            "label": "POPOVICA - FRUŠKOGORSKI PUT 368",
-            "longitude": 19.8279935158,
-            "latitude": 45.1847280832
-        }
-    ],
-    "direction_b": [
-        {
-            "id": "_17",
-            "label": "BUL. OSLOBOĐENJA - NARODNOG FRONTA",
-            "longitude": 19.8425582061,
-            "latitude": 45.2421433047
-        },
-        {
-            "id": "_18",
-            "label": "BUL. OSLOBOĐENJA - BUL. CARA LAZARA",
-            "longitude": 19.8412524923,
-            "latitude": 45.2444754031
-        },
-        {
-            "id": "_19",
-            "label": "BUL. OSLOBOĐENJA - MAKSIMA GORKOG",
-            "longitude": 19.8390130044,
-            "latitude": 45.2485327883
-        },
-        {
-            "id": "_20",
-            "label": "BUL. OSLOBOĐENJA - FUTOŠKA PIJACA",
-            "longitude": 19.8368000824,
-            "latitude": 45.2525198464
-        },
-        {
-            "id": "_21",
-            "label": "BUL. OSLOBOĐENJA - POKRAJINSKI SUP",
-            "longitude": 19.8351029309,
-            "latitude": 45.255629856
-        },
-        {
-            "id": "_22",
-            "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
-            "longitude": 19.8318492939,
-            "latitude": 45.2613766166
-        },
-        {
-            "id": "_4",
-            "label": "POPOVICA - FRUŠKOGORSKI PUT - PARAGOVO",
-            "longitude": 19.8344198161,
-            "latitude": 45.1913531404
-        },
-        {
-            "id": "_5",
-            "label": "POPOVICA - FRUŠKOGORSKI PUT - LOVAČKI DOM",
-            "longitude": 19.8323392888,
-            "latitude": 45.2000612297
-        },
-        {
-            "id": "_6",
-            "label": "POPOVICA - FRUŠKOGORSKI PUT 130",
-            "longitude": 19.8325368015,
-            "latitude": 45.2034743309
-        },
-        {
-            "id": "_7",
-            "label": "POPOVICA - FRUŠKOGORSKI PUT - ČETINARSKA",
-            "longitude": 19.8330313529,
-            "latitude": 45.2066937132
-        },
-        {
-            "id": "_8",
-            "label": "POPOVICA - OKRETNICA - MOŠINA VILA",
-            "longitude": 19.8340762893,
-            "latitude": 45.209161201
-        },
-        {
-            "id": "_9",
-            "label": "POPOVICA - FRUŠKOGORSKI PUT - STAROIRIŠKI PUT",
-            "longitude": 19.8354305629,
-            "latitude": 45.2169365584
-        },
-        {
-            "id": "_10",
-            "label": "POPOVICA - FRUŠKOGORSKI PUT - JAGODA",
-            "longitude": 19.836473285,
-            "latitude": 45.2189671454
-        },
-        {
-            "id": "_14",
-            "label": "MOŠE PIJADE - SŠUP SR. KAMENICA",
-            "longitude": 19.8485735281,
-            "latitude": 45.2215936729
-        },
-        {
-            "id": "_13",
-            "label": "SR. KAMENICA - CENTAR",
-            "longitude": 19.8429845913,
-            "latitude": 45.2231734727
-        },
-        {
-            "id": "_15",
-            "label": "INSTITUTSKI BUT - BRANISLAVA BUKUROVA",
-            "longitude": 19.855319878,
-            "latitude": 45.2234187828
-        },
-        {
-            "id": "_16",
-            "label": "PETLJA MIŠELUK - TUNEL",
-            "longitude": 19.8592274923,
-            "latitude": 45.2292476482
-        },
-        {
-            "id": "_23",
-            "label": "ŽELEZNIČKA STANICA - DOLASCI",
-            "longitude": 19.830132455,
-            "latitude": 45.2650202834
-        },
-        {
-            "id": "_11",
-            "label": "SR. KAMENICA - PARAGOVSKI PUT - OBILAZNICA",
-            "longitude": 19.8413850019,
-            "latitude": 45.2108676677
-        },
-        {
-            "id": "_12",
-            "label": "SR. KAMENICA - LOLE RIBARA - GROBLJE",
-            "longitude": 19.8431314567,
-            "latitude": 45.2166627491
-        },
-        {
-            "id": "_1",
-            "label": "POPOVICA - FRUŠKOGORSKI PUT - OKRETNICA",
-            "longitude": 19.8225995678,
-            "latitude": 45.1847875226
-        },
-        {
-            "id": "_2",
-            "label": "POPOVICA - FRUŠKOGORSKI PUT 368",
-            "longitude": 19.8279943932,
-            "latitude": 45.1845358924
-        },
-        {
-            "id": "_3",
-            "label": "POPOVICA - FRUŠKOGORSKI PUT - BUDŽAK",
-            "longitude": 19.8304970138,
-            "latitude": 45.1867647917
-        }
-    ]
+  "direction_a": [
+    {
+      "id": "_2",
+      "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
+      "longitude": 19.8322222835,
+      "latitude": 45.2601777537
+    },
+    {
+      "id": "_3",
+      "label": "BUL. OSLOBOÐENJA - NOVOSADSKOG SAJMA",
+      "longitude": 19.8353175469,
+      "latitude": 45.2545506888
+    },
+    {
+      "id": "_4",
+      "label": "BUL. OSLOBOĐENJA - FUTOŠKA",
+      "longitude": 19.8370753816,
+      "latitude": 45.2514514442
+    },
+    {
+      "id": "_5",
+      "label": "BUL. OSLOBOĐENJA - BRAĆE RIBNIKAR",
+      "longitude": 19.8392619075,
+      "latitude": 45.2475207776
+    },
+    {
+      "id": "_6",
+      "label": "BUL. OSLOBOĐENJA - BUL. CARA LAZARA",
+      "longitude": 19.8414842753,
+      "latitude": 45.2434304122
+    },
+    {
+      "id": "_7",
+      "label": "BUL. OSLOBOĐENJA - MOST SLOBODE",
+      "longitude": 19.8428482132,
+      "latitude": 45.241081551
+    },
+    {
+      "id": "_8",
+      "label": "INSTITUTSKI PUT - PETLJA MIŠELUK",
+      "longitude": 19.8567651282,
+      "latitude": 45.22717493
+    },
+    {
+      "id": "_9",
+      "label": "INSTITUTSKI PUT - NOVOSADSKA",
+      "longitude": 19.8554431781,
+      "latitude": 45.2238312414
+    },
+    {
+      "id": "_10",
+      "label": "MOŠE PIJADE - SŠUP SR. KAMENICA",
+      "longitude": 19.8480204015,
+      "latitude": 45.2214886206
+    },
+    {
+      "id": "_11",
+      "label": "SR. KAMENICA - CENTAR",
+      "longitude": 19.8424277822,
+      "latitude": 45.2231492291
+    },
+    {
+      "id": "_13",
+      "label": "SR. KAMENICA - LOLE RIBARA - ZELENI BREG",
+      "longitude": 19.8423810743,
+      "latitude": 45.2123018031
+    },
+    {
+      "id": "_14",
+      "label": "POPOVICA - FRUŠKOGORSKI PUT - JAGODA\r\n",
+      "longitude": 19.8362552752,
+      "latitude": 45.2186987902
+    },
+    {
+      "id": "_15",
+      "label": "POPOVICA - FRUŠKOGORSKI PUT - STAROIRIŠKI PUT\r\n",
+      "longitude": 19.8352180106,
+      "latitude": 45.2166478383
+    },
+    {
+      "id": "_16",
+      "label": "POPOVICA - MOŠINA VILA",
+      "longitude": 19.8338695929,
+      "latitude": 45.2091152747
+    },
+    {
+      "id": "_17",
+      "label": "POPOVICA - FRUŠKOGORSKI PUT - PANČIĆEVE OMORIKE",
+      "longitude": 19.8328679912,
+      "latitude": 45.2065622792
+    },
+    {
+      "id": "_18",
+      "label": "POPOVICA - FRUŠKOGORSKI PUT 130",
+      "longitude": 19.8324784414,
+      "latitude": 45.2033316592
+    },
+    {
+      "id": "_19",
+      "label": "POPOVICA - FRUŠKOGORSKI PUT - LOVAČKI DOM",
+      "longitude": 19.8322207906,
+      "latitude": 45.19945007
+    },
+    {
+      "id": "_20",
+      "label": "POPOVICA - FRUŠKOGORSKI PUT - PARAGOVO",
+      "longitude": 19.8343244524,
+      "latitude": 45.1922952209
+    },
+    {
+      "id": "_21",
+      "label": "POPOVICA - FRUŠKOGORSKI PUT - BUDŽAK",
+      "longitude": 19.8309066634,
+      "latitude": 45.1873303412
+    },
+    {
+      "id": "_22",
+      "label": "POPOVICA - FRUŠKOGORSKI PUT 368",
+      "longitude": 19.8279935158,
+      "latitude": 45.1847280832
+    },
+    {
+      "id": "_",
+      "label": "ŽELEZNIČKA STANICA",
+      "longitude": 19.8295879176,
+      "latitude": 45.264478508
+    },
+    {
+      "id": "_",
+      "label": "POPOVICA - FRUŠKOGORSKI PUT - OKRETNICA",
+      "longitude": 19.8225995678,
+      "latitude": 45.1847875226
+    },
+    {
+      "id": "_",
+      "label": "POPOVICA - FRUŠKOGORSKI PUT - SOKOLSKA ULICA",
+      "longitude": 19.835003,
+      "latitude": 45.21287
+    },
+    {
+      "id": "_",
+      "label": "POPOVICA - FRUŠKOGORSKI PUT 238",
+      "longitude": 19.83278,
+      "latitude": 45.196059
+    },
+    {
+      "id": "_",
+      "label": "SREMSKA KAMENICA - LOLE RIBARA - GROBLJE",
+      "longitude": 19.842964,
+      "latitude": 45.216972
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "POPOVICA - FRUŠKOGORSKI PUT - OKRETNICA",
+      "longitude": 19.8225995678,
+      "latitude": 45.1847875226
+    },
+    {
+      "id": "_2",
+      "label": "POPOVICA - FRUŠKOGORSKI PUT 368",
+      "longitude": 19.8279943932,
+      "latitude": 45.1845358924
+    },
+    {
+      "id": "_3",
+      "label": "POPOVICA - FRUŠKOGORSKI PUT - BUDŽAK",
+      "longitude": 19.8304970138,
+      "latitude": 45.1867647917
+    },
+    {
+      "id": "_4",
+      "label": "POPOVICA - FRUŠKOGORSKI PUT - PARAGOVO",
+      "longitude": 19.8344198161,
+      "latitude": 45.1913531404
+    },
+    {
+      "id": "_5",
+      "label": "POPOVICA - FRUŠKOGORSKI PUT - LOVAČKI DOM",
+      "longitude": 19.8323392888,
+      "latitude": 45.2000612297
+    },
+    {
+      "id": "_6",
+      "label": "POPOVICA - FRUŠKOGORSKI PUT 130",
+      "longitude": 19.8325368015,
+      "latitude": 45.2034743309
+    },
+    {
+      "id": "_7",
+      "label": "POPOVICA - FRUŠKOGORSKI PUT - ČETINARSKA",
+      "longitude": 19.8330313529,
+      "latitude": 45.2066937132
+    },
+    {
+      "id": "_8",
+      "label": "POPOVICA - OKRETNICA - MOŠINA VILA",
+      "longitude": 19.8340762893,
+      "latitude": 45.209161201
+    },
+    {
+      "id": "_9",
+      "label": "POPOVICA - FRUŠKOGORSKI PUT - STAROIRIŠKI PUT",
+      "longitude": 19.8354305629,
+      "latitude": 45.2169365584
+    },
+    {
+      "id": "_10",
+      "label": "POPOVICA - FRUŠKOGORSKI PUT - JAGODA",
+      "longitude": 19.836473285,
+      "latitude": 45.2189671454
+    },
+    {
+      "id": "_11",
+      "label": "SR. KAMENICA - PARAGOVSKI PUT - OBILAZNICA",
+      "longitude": 19.8413850019,
+      "latitude": 45.2108676677
+    },
+    {
+      "id": "_12",
+      "label": "SR. KAMENICA - LOLE RIBARA - GROBLJE",
+      "longitude": 19.8431314567,
+      "latitude": 45.2166627491
+    },
+    {
+      "id": "_13",
+      "label": "SR. KAMENICA - CENTAR",
+      "longitude": 19.8429845913,
+      "latitude": 45.2231734727
+    },
+    {
+      "id": "_14",
+      "label": "MOŠE PIJADE - SŠUP SR. KAMENICA",
+      "longitude": 19.8485735281,
+      "latitude": 45.2215936729
+    },
+    {
+      "id": "_15",
+      "label": "INSTITUTSKI BUT - BRANISLAVA BUKUROVA",
+      "longitude": 19.855319878,
+      "latitude": 45.2234187828
+    },
+    {
+      "id": "_16",
+      "label": "PETLJA MIŠELUK - TUNEL",
+      "longitude": 19.8592274923,
+      "latitude": 45.2292476482
+    },
+    {
+      "id": "_17",
+      "label": "BUL. OSLOBOĐENJA - NARODNOG FRONTA",
+      "longitude": 19.8425582061,
+      "latitude": 45.2421433047
+    },
+    {
+      "id": "_18",
+      "label": "BUL. OSLOBOĐENJA - BUL. CARA LAZARA",
+      "longitude": 19.8412524923,
+      "latitude": 45.2444754031
+    },
+    {
+      "id": "_19",
+      "label": "BUL. OSLOBOĐENJA - MAKSIMA GORKOG",
+      "longitude": 19.8390130044,
+      "latitude": 45.2485327883
+    },
+    {
+      "id": "_20",
+      "label": "BUL. OSLOBOĐENJA - FUTOŠKA PIJACA",
+      "longitude": 19.8368000824,
+      "latitude": 45.2525198464
+    },
+    {
+      "id": "_21",
+      "label": "BUL. OSLOBOĐENJA - POKRAJINSKI SUP",
+      "longitude": 19.8351029309,
+      "latitude": 45.255629856
+    },
+    {
+      "id": "_22",
+      "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
+      "longitude": 19.8318492939,
+      "latitude": 45.2613766166
+    },
+    {
+      "id": "_23",
+      "label": "ŽELEZNIČKA STANICA - DOLASCI",
+      "longitude": 19.830132455,
+      "latitude": 45.2650202834
+    },
+    {
+      "id": "_",
+      "label": "POPOVICA - FRUŠKOGORSKI PUT - SOKOLSKA ULICA",
+      "longitude": 19.835088,
+      "latitude": 45.212914
+    },
+    {
+      "id": "_",
+      "label": "POPOVICA - FRUŠKOGORSKI PUT 173",
+      "longitude": 19.832471,
+      "latitude": 45.198581
+    },
+    {
+      "id": "_",
+      "label": "DOLAZNI PERON",
+      "longitude": 19.830784,
+      "latitude": 45.26467
+    }
+  ]
 }

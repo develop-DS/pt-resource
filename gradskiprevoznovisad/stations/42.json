@@ -1,240 +1,258 @@
 {
-    "direction_a": [
-        {
-            "id": "_2",
-            "label": "RUMENAČKA - BUL. JAŠE TOMIĆA",
-            "longitude": 19.8182127414,
-            "latitude": 45.2633439588
-        },
-        {
-            "id": "_3",
-            "label": "RUMENAČKA - RADNIČKO IGRALIŠTE",
-            "longitude": 19.8148147237,
-            "latitude": 45.2660444179
-        },
-        {
-            "id": "_1",
-            "label": "ŽELEZNIČKA STANICA TERMINAL",
-            "longitude": 19.8293295677,
-            "latitude": 45.2649620671
-        },
-        {
-            "id": "_4",
-            "label": "RUMENAČKI PUT - AVIJATIČARSKA",
-            "longitude": 19.8079135339,
-            "latitude": 45.2712216153
-        },
-        {
-            "id": "_5",
-            "label": "RUMENAČKI PUT - KRUŽNI TOK",
-            "longitude": 19.7998638594,
-            "latitude": 45.2759310771
-        },
-        {
-            "id": "_6",
-            "label": "SAJLOVO - NADVOŽNJAK",
-            "longitude": 19.7849461714,
-            "latitude": 45.2805491923
-        },
-        {
-            "id": "_7",
-            "label": "SAJLOVO - BANGLADEŠ",
-            "longitude": 19.7718910191,
-            "latitude": 45.2830754582
-        },
-        {
-            "id": "_8",
-            "label": "RUMENKA - ULAZ",
-            "longitude": 19.7486571265,
-            "latitude": 45.2902962929
-        },
-        {
-            "id": "_10",
-            "label": "RUMENKA - PARTIZANSKA 58",
-            "longitude": 19.7393740621,
-            "latitude": 45.2963585515
-        },
-        {
-            "id": "_11",
-            "label": "RUMENKA - KANAL",
-            "longitude": 19.7421633381,
-            "latitude": 45.3003445282
-        },
-        {
-            "id": "_9",
-            "label": "RUMENKA - CENTAR",
-            "longitude": 19.7425533426,
-            "latitude": 45.292387897
-        },
-        {
-            "id": "_12",
-            "label": "RUMENKA - KISAČKI PUT - ASFALTNA BAZA",
-            "longitude": 19.7427194154,
-            "latitude": 45.3081735891
-        },
-        {
-            "id": "_13",
-            "label": "KISAČ - ULAZ",
-            "longitude": 19.7270478081,
-            "latitude": 45.3398144161
-        },
-        {
-            "id": "_14",
-            "label": "KISAČ - DR. JANKA GOMBARA 165",
-            "longitude": 19.723498187,
-            "latitude": 45.3417675086
-        },
-        {
-            "id": "_15",
-            "label": "KISAČ - RASKRSNICA ZA STEPANOVIĆEVO",
-            "longitude": 19.7273239371,
-            "latitude": 45.348466498
-        },
-        {
-            "id": "_16",
-            "label": "KISAČ - OSNOVNA ŠKOLA",
-            "longitude": 19.7314018958,
-            "latitude": 45.355580618
-        },
-        {
-            "id": "_17",
-            "label": "KISAČ - ŽELEZNIČKA STANICA",
-            "longitude": 19.7331543826,
-            "latitude": 45.3589186851
-        },
-        {
-            "id": "_18",
-            "label": "KISAČ - JANA KOLARA - MIHALA KARDELISA",
-            "longitude": 19.7311112386,
-            "latitude": 45.3612543718
-        },
-        {
-            "id": "_19",
-            "label": "KISAČ - MIHALA KARDELISA - OMLADINSKA",
-            "longitude": 19.7283248707,
-            "latitude": 45.3647063948
-        }
-    ],
-    "direction_b": [
-        {
-            "id": "_17",
-            "label": "RUMENAČKI PUT - AVIJATIČARSKA",
-            "longitude": 19.8089150153,
-            "latitude": 45.2702133075
-        },
-        {
-            "id": "_18",
-            "label": "RUMENAČKA - POLICIJSKA STANICA",
-            "longitude": 19.8130603695,
-            "latitude": 45.2670846403
-        },
-        {
-            "id": "_19",
-            "label": "BUL. JAŠE TOMIĆA - RUMENAČKA",
-            "longitude": 19.8192032513,
-            "latitude": 45.2630741789
-        },
-        {
-            "id": "_20",
-            "label": "ŽELEZNIČKA STANICA - DOLASCI",
-            "longitude": 19.830132455,
-            "latitude": 45.2650202834
-        },
-        {
-            "id": "_14",
-            "label": "RUMENAČKI PUT - NADVOŽNJAK",
-            "longitude": 19.7863577779,
-            "latitude": 45.2801667701
-        },
-        {
-            "id": "_16",
-            "label": "RUMENAČKI PUT - KRUŽNI TOK",
-            "longitude": 19.8018176756,
-            "latitude": 45.2747023047
-        },
-        {
-            "id": "_10",
-            "label": "RUMENKA - KANAL",
-            "longitude": 19.7416538887,
-            "latitude": 45.2998666774
-        },
-        {
-            "id": "_11",
-            "label": "RUMENKA - PARTIZANSKA 59",
-            "longitude": 19.7383925986,
-            "latitude": 45.2951261357
-        },
-        {
-            "id": "_1",
-            "label": "KISAČ - OKRETNICA",
-            "longitude": 19.7264007767,
-            "latitude": 45.3688030497
-        },
-        {
-            "id": "_2",
-            "label": "KISAČ - MIHALJA KARDELISA - OMLADINSKA",
-            "longitude": 19.7283956395,
-            "latitude": 45.3644564073
-        },
-        {
-            "id": "_3",
-            "label": "KISAČ - JANA KOLARA - MIHALA KARDELISA",
-            "longitude": 19.7307323674,
-            "latitude": 45.3611210212
-        },
-        {
-            "id": "_4",
-            "label": "KISAČ - ŽELEZNIČKA STANICA",
-            "longitude": 19.7330422654,
-            "latitude": 45.359210214
-        },
-        {
-            "id": "_5",
-            "label": "KISAČ - MLIN",
-            "longitude": 19.7308155346,
-            "latitude": 45.3546615353
-        },
-        {
-            "id": "_6",
-            "label": "KISAČ - BENZINSKA PUMPA",
-            "longitude": 19.7262662918,
-            "latitude": 45.3467969
-        },
-        {
-            "id": "_7",
-            "label": "KISAČ - DR. JANKA GOMBARA 196",
-            "longitude": 19.7234010713,
-            "latitude": 45.3417537798
-        },
-        {
-            "id": "_8",
-            "label": "KISAČ - ULAZ",
-            "longitude": 19.7256711919,
-            "latitude": 45.3402478207
-        },
-        {
-            "id": "_9",
-            "label": "RUMENKA - KISAČKI PUT - ASFALTNA BAZA",
-            "longitude": 19.742680494,
-            "latitude": 45.3080190296
-        },
-        {
-            "id": "_12",
-            "label": "RUMENKA - CENTAR",
-            "longitude": 19.7447983387,
-            "latitude": 45.291518222
-        },
-        {
-            "id": "_13",
-            "label": "SAJLOVO - BANGLADEŠ",
-            "longitude": 19.7732069555,
-            "latitude": 45.2827262394
-        },
-        {
-            "id": "_15",
-            "label": "RUMENAČKI PUT - GRADSKO GROBLJE",
-            "longitude": 19.7947421097,
-            "latitude": 45.2782283307
-        }
-    ]
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "ŽELEZNIČKA STANICA TERMINAL",
+      "longitude": 19.8293295677,
+      "latitude": 45.2649620671
+    },
+    {
+      "id": "_2",
+      "label": "RUMENAČKA - BUL. JAŠE TOMIĆA",
+      "longitude": 19.8182127414,
+      "latitude": 45.2633439588
+    },
+    {
+      "id": "_3",
+      "label": "RUMENAČKA - RADNIČKO IGRALIŠTE",
+      "longitude": 19.8148147237,
+      "latitude": 45.2660444179
+    },
+    {
+      "id": "_4",
+      "label": "RUMENAČKI PUT - AVIJATIČARSKA",
+      "longitude": 19.8079135339,
+      "latitude": 45.2712216153
+    },
+    {
+      "id": "_5",
+      "label": "RUMENAČKI PUT - KRUŽNI TOK",
+      "longitude": 19.7998638594,
+      "latitude": 45.2759310771
+    },
+    {
+      "id": "_6",
+      "label": "SAJLOVO - NADVOŽNJAK",
+      "longitude": 19.7849461714,
+      "latitude": 45.2805491923
+    },
+    {
+      "id": "_7",
+      "label": "SAJLOVO - BANGLADEŠ",
+      "longitude": 19.7718910191,
+      "latitude": 45.2830754582
+    },
+    {
+      "id": "_8",
+      "label": "RUMENKA - ULAZ",
+      "longitude": 19.7486571265,
+      "latitude": 45.2902962929
+    },
+    {
+      "id": "_9",
+      "label": "RUMENKA - CENTAR",
+      "longitude": 19.7425533426,
+      "latitude": 45.292387897
+    },
+    {
+      "id": "_10",
+      "label": "RUMENKA - PARTIZANSKA 58",
+      "longitude": 19.7393740621,
+      "latitude": 45.2963585515
+    },
+    {
+      "id": "_11",
+      "label": "RUMENKA - KANAL",
+      "longitude": 19.7421633381,
+      "latitude": 45.3003445282
+    },
+    {
+      "id": "_12",
+      "label": "RUMENKA - KISAČKI PUT - ASFALTNA BAZA",
+      "longitude": 19.7427194154,
+      "latitude": 45.3081735891
+    },
+    {
+      "id": "_13",
+      "label": "KISAČ - ULAZ",
+      "longitude": 19.7270478081,
+      "latitude": 45.3398144161
+    },
+    {
+      "id": "_14",
+      "label": "KISAČ - DR. JANKA GOMBARA 165",
+      "longitude": 19.723498187,
+      "latitude": 45.3417675086
+    },
+    {
+      "id": "_15",
+      "label": "KISAČ - RASKRSNICA ZA STEPANOVIĆEVO",
+      "longitude": 19.7273239371,
+      "latitude": 45.348466498
+    },
+    {
+      "id": "_16",
+      "label": "KISAČ - OSNOVNA ŠKOLA",
+      "longitude": 19.7314018958,
+      "latitude": 45.355580618
+    },
+    {
+      "id": "_17",
+      "label": "KISAČ - ŽELEZNIČKA STANICA",
+      "longitude": 19.7331543826,
+      "latitude": 45.3589186851
+    },
+    {
+      "id": "_18",
+      "label": "KISAČ - JANA KOLARA - MIHALA KARDELISA",
+      "longitude": 19.7311112386,
+      "latitude": 45.3612543718
+    },
+    {
+      "id": "_19",
+      "label": "KISAČ - MIHALA KARDELISA - OMLADINSKA",
+      "longitude": 19.7283248707,
+      "latitude": 45.3647063948
+    },
+    {
+      "id": "_",
+      "label": "KISAČ - OKRETNICA",
+      "longitude": 19.7264007767,
+      "latitude": 45.3688030497
+    },
+    {
+      "id": "_",
+      "label": "RUMENAČKI PUT - GRADSKO GROBLJE\r\n",
+      "longitude": 19.794461,
+      "latitude": 45.278626
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "KISAČ - OKRETNICA",
+      "longitude": 19.7264007767,
+      "latitude": 45.3688030497
+    },
+    {
+      "id": "_2",
+      "label": "KISAČ - MIHALJA KARDELISA - OMLADINSKA",
+      "longitude": 19.7283956395,
+      "latitude": 45.3644564073
+    },
+    {
+      "id": "_3",
+      "label": "KISAČ - JANA KOLARA - MIHALA KARDELISA",
+      "longitude": 19.7307323674,
+      "latitude": 45.3611210212
+    },
+    {
+      "id": "_4",
+      "label": "KISAČ - ŽELEZNIČKA STANICA",
+      "longitude": 19.7330422654,
+      "latitude": 45.359210214
+    },
+    {
+      "id": "_5",
+      "label": "KISAČ - MLIN",
+      "longitude": 19.7308155346,
+      "latitude": 45.3546615353
+    },
+    {
+      "id": "_6",
+      "label": "KISAČ - BENZINSKA PUMPA",
+      "longitude": 19.7262662918,
+      "latitude": 45.3467969
+    },
+    {
+      "id": "_7",
+      "label": "KISAČ - DR. JANKA GOMBARA 196",
+      "longitude": 19.7234010713,
+      "latitude": 45.3417537798
+    },
+    {
+      "id": "_8",
+      "label": "KISAČ - ULAZ",
+      "longitude": 19.7256711919,
+      "latitude": 45.3402478207
+    },
+    {
+      "id": "_9",
+      "label": "RUMENKA - KISAČKI PUT - ASFALTNA BAZA",
+      "longitude": 19.742680494,
+      "latitude": 45.3080190296
+    },
+    {
+      "id": "_10",
+      "label": "RUMENKA - KANAL",
+      "longitude": 19.7416538887,
+      "latitude": 45.2998666774
+    },
+    {
+      "id": "_11",
+      "label": "RUMENKA - PARTIZANSKA 59",
+      "longitude": 19.7383925986,
+      "latitude": 45.2951261357
+    },
+    {
+      "id": "_12",
+      "label": "RUMENKA - CENTAR",
+      "longitude": 19.7447983387,
+      "latitude": 45.291518222
+    },
+    {
+      "id": "_13",
+      "label": "SAJLOVO - BANGLADEŠ",
+      "longitude": 19.7732069555,
+      "latitude": 45.2827262394
+    },
+    {
+      "id": "_14",
+      "label": "RUMENAČKI PUT - NADVOŽNJAK",
+      "longitude": 19.7863577779,
+      "latitude": 45.2801667701
+    },
+    {
+      "id": "_16",
+      "label": "RUMENAČKI PUT - KRUŽNI TOK",
+      "longitude": 19.8018176756,
+      "latitude": 45.2747023047
+    },
+    {
+      "id": "_17",
+      "label": "RUMENAČKI PUT - AVIJATIČARSKA",
+      "longitude": 19.8089150153,
+      "latitude": 45.2702133075
+    },
+    {
+      "id": "_18",
+      "label": "RUMENAČKA - POLICIJSKA STANICA",
+      "longitude": 19.8130603695,
+      "latitude": 45.2670846403
+    },
+    {
+      "id": "_19",
+      "label": "BUL. JAŠE TOMIĆA - RUMENAČKA",
+      "longitude": 19.8192032513,
+      "latitude": 45.2630741789
+    },
+    {
+      "id": "_20",
+      "label": "ŽELEZNIČKA STANICA - DOLASCI",
+      "longitude": 19.830132455,
+      "latitude": 45.2650202834
+    },
+    {
+      "id": "_",
+      "label": "RUMENAČKI PUT - GRADSKO GROBLJE",
+      "longitude": 19.793917,
+      "latitude": 45.278569
+    },
+    {
+      "id": "_",
+      "label": "DOLAZNI PERON",
+      "longitude": 19.830784,
+      "latitude": 45.26467
+    }
+  ]
 }

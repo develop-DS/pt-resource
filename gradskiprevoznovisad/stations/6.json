@@ -2,9 +2,9 @@
     "direction_a": [
         {
             "id": "_1",
-            "label": "Podbara - Okretnica",
-            "longitude": 19.850372,
-            "latitude": 45.26401,
+            "label": "Kosovska",
+            "longitude": 19.8502923003,
+            "latitude": 45.2635605256,
             "expected_arrival_seconds": 0
         },
         {
@@ -16,146 +16,139 @@
         },
         {
             "id": "_3",
-            "label": "Marka Miljanova - Kvantaška Pijaca",
-            "longitude": 19.8538122701,
-            "latitude": 45.261706836,
-            "expected_arrival_seconds": 91
-        },
-        {
-            "id": "_4",
             "label": "Beogradski kej - Marka Miljanova",
             "longitude": 19.8557970812,
             "latitude": 45.2608772309,
             "expected_arrival_seconds": 122
         },
         {
-            "id": "_5",
+            "id": "_4",
             "label": "Beogradski kej - Miloša Bajića",
             "longitude": 19.8546271049,
             "latitude": 45.2575567077,
             "expected_arrival_seconds": 187
         },
         {
-            "id": "_6",
+            "id": "_5",
             "label": "Bul. Mihajla Pupina - Dunavski park",
             "longitude": 19.8519122087,
             "latitude": 45.2542020579,
             "expected_arrival_seconds": 261
         },
         {
-            "id": "_7",
+            "id": "_6",
             "label": "Bul. Mihajla Pupina - Pothodnik",
             "longitude": 19.844141,
             "latitude": 45.253519,
             "expected_arrival_seconds": 367
         },
         {
-            "id": "_8",
+            "id": "_7",
             "label": "Futoška - Bul. Oslobođenja",
             "longitude": 19.836036584,
             "latitude": 45.2515776887,
             "expected_arrival_seconds": 482
         },
         {
-            "id": "_9",
+            "id": "_8",
             "label": "Futoška - Branislava Nušića",
             "longitude": 19.8321411697,
             "latitude": 45.2496536022,
             "expected_arrival_seconds": 546
         },
         {
-            "id": "_10",
+            "id": "_9",
             "label": "Futoška - Jodna Banja",
             "longitude": 19.8289089911,
             "latitude": 45.2492337673,
             "expected_arrival_seconds": 590
         },
         {
-            "id": "_11",
+            "id": "_10",
             "label": "Futoška - Bolnica",
             "longitude": 19.8238348508,
             "latitude": 45.2494278377,
             "expected_arrival_seconds": 659
         },
         {
-            "id": "_12",
+            "id": "_11",
             "label": "Futoška - Bulevar Evrope",
             "longitude": 19.815564749,
             "latitude": 45.2485623853,
             "expected_arrival_seconds": 772
         },
         {
-            "id": "_13",
+            "id": "_12",
             "label": "Futoška - Jugoalat",
             "longitude": 19.810052585,
             "latitude": 45.2478325873,
             "expected_arrival_seconds": 848
         },
         {
-            "id": "_14",
+            "id": "_13",
             "label": "Vršacka - Dom zdravlja",
             "longitude": 19.809183123,
             "latitude": 45.2446632301,
             "expected_arrival_seconds": 910
         },
         {
-            "id": "_15",
+            "id": "_14",
             "label": "Vršacka - Adi Endrea",
             "longitude": 19.8108398895,
             "latitude": 45.2418383087,
             "expected_arrival_seconds": 968
         },
         {
-            "id": "_16",
+            "id": "_15",
             "label": "Feješ Klare - Bul. Patrijarha Pavla",
             "longitude": 19.811146825,
             "latitude": 45.2403907599,
             "expected_arrival_seconds": 996
         },
         {
-            "id": "_17",
+            "id": "_16",
             "label": "Ćirila i Metodija - Šarplaninska",
             "longitude": 19.808189521,
             "latitude": 45.2383877496,
             "expected_arrival_seconds": 1051
         },
         {
-            "id": "_18",
+            "id": "_17",
             "label": "Ćirila i Metodija - Varga Đule",
             "longitude": 19.8008255822,
             "latitude": 45.2391202342,
             "expected_arrival_seconds": 1151
         },
         {
-            "id": "_19",
+            "id": "_18",
             "label": "Branka Ćopića 42",
             "longitude": 19.7971920511,
             "latitude": 45.2356763766,
             "expected_arrival_seconds": 1233
         },
         {
-            "id": "_20",
+            "id": "_19",
             "label": "Branka Ćopića - Jesenjinova",
             "longitude": 19.7917712223,
             "latitude": 45.2336724229,
             "expected_arrival_seconds": 1316
         },
         {
-            "id": "_21",
+            "id": "_20",
             "label": "Branka Ćopića - Sime Šolaje",
             "longitude": 19.7869691233,
             "latitude": 45.2330428141,
             "expected_arrival_seconds": 1382
         },
         {
-            "id": "_22",
+            "id": "_21",
             "label": "Banjalučka - Branka Ćopića",
             "longitude": 19.7845240714,
             "latitude": 45.2330981747,
             "expected_arrival_seconds": 1415
         },
         {
-            "id": "_23",
+            "id": "_22",
             "label": "Smederevska - Banjalučka",
             "longitude": 19.7847028632,
             "latitude": 45.2344242907,
@@ -278,8 +271,8 @@
         {
             "id": "_17",
             "label": "Bul. Mihajla Pupina - Sonje Marinković",
-            "longitude": 19.8530960428,
-            "latitude": 45.2542765403,
+            "longitude": 19.852979,
+            "latitude": 45.254153,
             "expected_arrival_seconds": 1206
         },
         {
@@ -298,9 +291,9 @@
         },
         {
             "id": "_20",
-            "label": "Marka Miljanova - Kosovska",
-            "longitude": 19.8510251212,
-            "latitude": 45.2615941131,
+            "label": "Kosovska - Marka Miljanova",
+            "longitude": 19.850373,
+            "latitude": 45.261569,
             "expected_arrival_seconds": 1391
         },
         {

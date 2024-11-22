@@ -1,22 +1,16 @@
 {
     "direction_a": [
         {
+            "id": "_1",
+            "label": "MAS - POLAZNI PERON BR. 14",
+            "longitude": 19.8285457138,
+            "latitude": 45.2640888897
+        },
+        {
             "id": "__",
             "label": "BUL. OSLOBOĐENJA - FUTOŠKA",
             "longitude": 19.8370753816,
             "latitude": 45.2514514442
-        },
-        {
-            "id": "__",
-            "label": "SR. KAMENICA - UNIVERZITET",
-            "longitude": 19.8520544672,
-            "latitude": 45.227563923
-        },
-        {
-            "id": "__",
-            "label": "SR. KAMENICA - PETRA KOČIĆA",
-            "longitude": 19.8481049154,
-            "latitude": 45.2257504705
         },
         {
             "id": "__",
@@ -26,39 +20,27 @@
         },
         {
             "id": "__",
-            "label": "SR. KAMENICA - CENTAR",
-            "longitude": 19.8425048162,
-            "latitude": 45.2234788568
+            "label": "ČEREVIĆ VI - IZLAZ",
+            "longitude": 19.6560341561,
+            "latitude": 45.2200185605
         },
         {
             "id": "__",
-            "label": "SR. KAMENICA - LEDINAČKI PUT - ŠIMŠIROVA",
-            "longitude": 19.8282294427,
-            "latitude": 45.2203782107
+            "label": "SR. KAMENICA - UNIVERZITET",
+            "longitude": 19.8520544672,
+            "latitude": 45.227563923
+        },
+        {
+            "id": "_",
+            "label": "BULEVAR OSLOBOĐENJA - BULEVAR KRALJA PETRA PRVOG",
+            "longitude": 19.8322222835,
+            "latitude": 45.2601777537
         },
         {
             "id": "__",
-            "label": "SR. KAMENICA - LEDINAČKI PUT - BOCKE",
-            "longitude": 19.8220383026,
-            "latitude": 45.2187669648
-        },
-        {
-            "id": "_1",
-            "label": "MAS - POLAZNI PERON BR. 14",
-            "longitude": 19.8285457138,
-            "latitude": 45.2640888897
-        },
-        {
-            "id": "__",
-            "label": "LEDINCI - TRAFOSTANICA",
-            "longitude": 19.8145230578,
-            "latitude": 45.2175956398
-        },
-        {
-            "id": "__",
-            "label": "LEDINCI - RASKRS. ZA LEDINCE",
-            "longitude": 19.8056262273,
-            "latitude": 45.2152729956
+            "label": "ČEREVIĆ I-BRAZILIJA ULAZ",
+            "longitude": 19.6904640239,
+            "latitude": 45.2100968462
         },
         {
             "id": "__",
@@ -71,6 +53,18 @@
             "label": "RAKOVAC I - SMRDANOV POTOK",
             "longitude": 19.7903427896,
             "latitude": 45.2109741424
+        },
+        {
+            "id": "__",
+            "label": "SR. KAMENICA - LEDINAČKI PUT - ŠIMŠIROVA",
+            "longitude": 19.8282294427,
+            "latitude": 45.2203782107
+        },
+        {
+            "id": "__",
+            "label": "LEDINCI - RASKRS. ZA LEDINCE",
+            "longitude": 19.8056262273,
+            "latitude": 45.2152729956
         },
         {
             "id": "__",
@@ -140,12 +134,6 @@
         },
         {
             "id": "__",
-            "label": "ČEREVIĆ I-BRAZILIJA ULAZ",
-            "longitude": 19.6904640239,
-            "latitude": 45.2100968462
-        },
-        {
-            "id": "__",
             "label": "ČEREVIĆ II-BRAZILIJA IZLAZ",
             "longitude": 19.6842878937,
             "latitude": 45.2126839633
@@ -167,12 +155,6 @@
             "label": "ČEREVIĆ V-SPOMENIK",
             "longitude": 19.6637500772,
             "latitude": 45.2200803236
-        },
-        {
-            "id": "__",
-            "label": "ČEREVIĆ VI - IZLAZ",
-            "longitude": 19.6560341561,
-            "latitude": 45.2200185605
         },
         {
             "id": "__",
@@ -289,14 +271,14 @@
             "latitude": 45.2103949114
         },
         {
-            "id": "__",
-            "label": "SUSEK II - ?????????????????????",
-            "longitude": 19.5554666275,
-            "latitude": 45.2156870168
+            "id": "_",
+            "label": "BARE",
+            "longitude": 19.646714,
+            "latitude": 45.219196
         },
         {
             "id": "__",
-            "label": "SUSEK II - NIKOLE TESLE 183\r\n",
+            "label": "SUSEK II - NIKOLE TESLE 183",
             "longitude": 19.5471713862,
             "latitude": 45.2197728153
         },
@@ -343,16 +325,16 @@
             "latitude": 45.2072933087
         },
         {
+            "id": "_",
+            "label": "RAKOVAC 2 - ODMARALIŠTE NOVOMONTA",
+            "longitude": 19.7783365463,
+            "latitude": 45.2098060464
+        },
+        {
             "id": "__",
             "label": "BANOŠTOR IV - CENTAR",
             "longitude": 19.610357,
             "latitude": 45.213523
-        },
-        {
-            "id": "__",
-            "label": "KORUŠKA III",
-            "longitude": 19.573741,
-            "latitude": 45.189179
         },
         {
             "id": "__",
@@ -371,62 +353,50 @@
             "label": "SUSEK I - NIKOLE TESLE 168 - ULAZ",
             "longitude": 19.559511,
             "latitude": 45.213891
-        }
-    ],
-    "direction_b": [
-        {
-            "id": "__",
-            "label": "BUL. OSLOBOĐENJA - NARODNOG FRONTA",
-            "longitude": 19.8425582061,
-            "latitude": 45.2421433047
-        },
-        {
-            "id": "__",
-            "label": "BUL. OSLOBOĐENJA - FUTOŠKA PIJACA",
-            "longitude": 19.8368000824,
-            "latitude": 45.2525198464
-        },
-        {
-            "id": "__",
-            "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
-            "longitude": 19.8318492939,
-            "latitude": 45.2613766166
-        },
-        {
-            "id": "__",
-            "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
-            "longitude": 19.8322222835,
-            "latitude": 45.2601777537
-        },
-        {
-            "id": "__",
-            "label": "SR. KAMENICA - PETRA KOČIĆA",
-            "longitude": 19.8481745994,
-            "latitude": 45.2257062238
-        },
-        {
-            "id": "__",
-            "label": "SR. KAMENICA - UNIVERZITET",
-            "longitude": 19.8534869134,
-            "latitude": 45.2277113259
         },
         {
             "id": "__",
             "label": "SR. KAMENICA - LEDINAČKI PUT - BOCKE",
-            "longitude": 19.820909925,
-            "latitude": 45.2183331
+            "longitude": 19.8220383026,
+            "latitude": 45.2187669648
         },
         {
             "id": "__",
-            "label": "SR. KAMENICA - LEDINAČKI PUT - ŠIMŠIROVA",
-            "longitude": 19.8277369153,
-            "latitude": 45.2202518686
+            "label": "SR. KAMENICA - PETRA KOČIĆA",
+            "longitude": 19.8481049154,
+            "latitude": 45.2257504705
+        },
+        {
+            "id": "__",
+            "label": "KORUŠKA III",
+            "longitude": 19.573741,
+            "latitude": 45.189179
+        },
+        {
+            "id": "_",
+            "label": "DUNAV NASELJE - OKRETNICA",
+            "longitude": 19.71538,
+            "latitude": 45.226899
         },
         {
             "id": "__",
             "label": "SR. KAMENICA - CENTAR",
-            "longitude": 19.8429845913,
-            "latitude": 45.2231734727
+            "longitude": 19.8425048162,
+            "latitude": 45.2234788568
+        },
+        {
+            "id": "__",
+            "label": "LEDINCI - TRAFOSTANICA",
+            "longitude": 19.8145230578,
+            "latitude": 45.2175956398
+        }
+    ],
+    "direction_b": [
+        {
+            "id": "_1",
+            "label": "LUG III-CENTAR",
+            "longitude": 19.5454098161,
+            "latitude": 45.181009891
         },
         {
             "id": "__",
@@ -436,15 +406,57 @@
         },
         {
             "id": "__",
-            "label": "LEDINCI - TRAFOSTANICA",
-            "longitude": 19.8159702911,
-            "latitude": 45.2177684323
+            "label": "BUL. OSLOBOĐENJA - FUTOŠKA PIJACA",
+            "longitude": 19.8368000824,
+            "latitude": 45.2525198464
         },
         {
             "id": "__",
-            "label": "RAKOVAC IV",
-            "longitude": 19.7683725375,
-            "latitude": 45.2082255865
+            "label": "SR. KAMENICA - CENTAR",
+            "longitude": 19.8429845913,
+            "latitude": 45.2231734727
+        },
+        {
+            "id": "__",
+            "label": "SR. KAMENICA - LEDINAČKI PUT - ŠIMŠIROVA",
+            "longitude": 19.8277369153,
+            "latitude": 45.2202518686
+        },
+        {
+            "id": "__",
+            "label": "SR. KAMENICA - PETRA KOČIĆA",
+            "longitude": 19.8481745994,
+            "latitude": 45.2257062238
+        },
+        {
+            "id": "__",
+            "label": "RAKOVAC I - SMRDANOV POTOK",
+            "longitude": 19.7913883196,
+            "latitude": 45.2112595179
+        },
+        {
+            "id": "__",
+            "label": "SR. KAMENICA - LEDINAČKI PUT - BOCKE",
+            "longitude": 19.820909925,
+            "latitude": 45.2183331
+        },
+        {
+            "id": "_",
+            "label": "BANOŠTOR 5 - BUNAR",
+            "longitude": 19.606419,
+            "latitude": 45.211359
+        },
+        {
+            "id": "__",
+            "label": "SR. KAMENICA - UNIVERZITET",
+            "longitude": 19.8534869134,
+            "latitude": 45.2277113259
+        },
+        {
+            "id": "__",
+            "label": "BUL. OSLOBOĐENJA - NARODNOG FRONTA",
+            "longitude": 19.8425582061,
+            "latitude": 45.2421433047
         },
         {
             "id": "__",
@@ -519,10 +531,10 @@
             "latitude": 45.178802
         },
         {
-            "id": "_1",
-            "label": "LUG III-CENTAR",
-            "longitude": 19.5454098161,
-            "latitude": 45.181009891
+            "id": "_",
+            "label": "BARE",
+            "longitude": 19.647704,
+            "latitude": 45.219155
         },
         {
             "id": "__",
@@ -568,7 +580,7 @@
         },
         {
             "id": "__",
-            "label": "KORUŠKA III - ČARDA 1\r\n",
+            "label": "KORUŠKA III - ČARDA 1",
             "longitude": 19.5704259646,
             "latitude": 45.2102858138
         },
@@ -580,19 +592,19 @@
         },
         {
             "id": "__",
-            "label": "KORUŠKA I - PILANA\r\n",
+            "label": "KORUŠKA I - PILANA",
             "longitude": 19.5806639534,
             "latitude": 45.2055644097
         },
         {
             "id": "__",
-            "label": "KRUŠEVLJE\r\n",
+            "label": "KRUŠEVLJE",
             "longitude": 19.5870467645,
             "latitude": 45.2063202965
         },
         {
             "id": "__",
-            "label": "BANOŠTOR VI - IZLAZ\r\n",
+            "label": "BANOŠTOR VI - IZLAZ",
             "longitude": 19.5989070558,
             "latitude": 45.2080365253
         },
@@ -718,12 +730,6 @@
         },
         {
             "id": "__",
-            "label": "RAKOVAC II - ODM. NOVOMONTA",
-            "longitude": 19.779770709,
-            "latitude": 45.2096273813
-        },
-        {
-            "id": "__",
             "label": "RAKOVAC I - SMRDANOV POTOK",
             "longitude": 19.7913883196,
             "latitude": 45.2112595179
@@ -736,9 +742,9 @@
         },
         {
             "id": "__",
-            "label": "LEDINCI - RASKRS. ZA LEDINCE",
-            "longitude": 19.8061859913,
-            "latitude": 45.2153457017
+            "label": "DUGA MEĐA (pre raskrsnice)",
+            "longitude": 19.574815,
+            "latitude": 45.202231
         },
         {
             "id": "__",
@@ -747,10 +753,28 @@
             "latitude": 45.189179
         },
         {
+            "id": "_",
+            "label": "RAKOVAC 3 - RASKRSNICA ZA BEOČIN",
+            "longitude": 19.7693125662,
+            "latitude": 45.2101263501
+        },
+        {
             "id": "__",
-            "label": "DUGA MEĐA (pre raskrsnice)",
-            "longitude": 19.574815,
-            "latitude": 45.202231
+            "label": "RAKOVAC II - ODM. NOVOMONTA",
+            "longitude": 19.779770709,
+            "latitude": 45.2096273813
+        },
+        {
+            "id": "__",
+            "label": "LEDINCI - RASKRS. ZA LEDINCE",
+            "longitude": 19.8061859913,
+            "latitude": 45.2153457017
+        },
+        {
+            "id": "__",
+            "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
+            "longitude": 19.8318492939,
+            "latitude": 45.2613766166
         }
     ]
 }

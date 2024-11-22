@@ -1,34 +1,10 @@
 {
     "direction_a": [
         {
-            "id": "_8",
-            "label": "BUL. MIHAJLA PUPINA - SONJE MARINKOVIĆ",
-            "longitude": 19.8530960428,
-            "latitude": 45.2542765403
-        },
-        {
-            "id": "_9",
-            "label": "BEOGRADSKA - LISINSKOG",
-            "longitude": 19.8620128358,
-            "latitude": 45.2547734365
-        },
-        {
-            "id": "_10",
-            "label": "PRERADOVIĆEVA - O.Š. JOVAN DUČIĆ",
-            "longitude": 19.8727083512,
-            "latitude": 45.2516407374
-        },
-        {
-            "id": "_11",
-            "label": "PRERADOVIĆEVA - RELJKOVIĆEVA",
-            "longitude": 19.876524398,
-            "latitude": 45.2488033781
-        },
-        {
-            "id": "_7",
-            "label": "ŽARKA ZRENJANINA - IZVRŠNO VEĆE",
-            "longitude": 19.8475593745,
-            "latitude": 45.2528535063
+            "id": "_1",
+            "label": "ŽELEZNIČKA STANICA",
+            "longitude": 19.8295879176,
+            "latitude": 45.264478508
         },
         {
             "id": "_2",
@@ -61,10 +37,28 @@
             "latitude": 45.2488624702
         },
         {
-            "id": "_1",
-            "label": "ŽELEZNIČKA STANICA TERMINAL",
-            "longitude": 19.8300468015,
-            "latitude": 45.2652079855
+            "id": "_7",
+            "label": "ŽARKA ZRENJANINA - IZVRŠNO VEĆE",
+            "longitude": 19.8475593745,
+            "latitude": 45.2528535063
+        },
+        {
+            "id": "_9",
+            "label": "BEOGRADSKA - LISINSKOG",
+            "longitude": 19.8620128358,
+            "latitude": 45.2547734365
+        },
+        {
+            "id": "_10",
+            "label": "PRERADOVIĆEVA - O.Š. JOVAN DUČIĆ",
+            "longitude": 19.8727083512,
+            "latitude": 45.2516407374
+        },
+        {
+            "id": "_11",
+            "label": "PRERADOVIĆEVA - RELJKOVIĆEVA",
+            "longitude": 19.876524398,
+            "latitude": 45.2488033781
         },
         {
             "id": "_12",
@@ -131,69 +125,21 @@
             "label": "BUKOVAC - CENTAR",
             "longitude": 19.8937409094,
             "latitude": 45.1942358257
+        },
+        {
+            "id": "_",
+            "label": "BULEVAR MIHAJLA PUPINA - SONJE MARINKOVIĆ",
+            "longitude": 19.852979,
+            "latitude": 45.254153
+        },
+        {
+            "id": "_",
+            "label": "BUKOVAC - OKRETNICA",
+            "longitude": 19.8947300019,
+            "latitude": 45.1915036219
         }
     ],
     "direction_b": [
-        {
-            "id": "_16",
-            "label": "ŽARKA ZRENJANINA - OPŠTINA",
-            "longitude": 19.8471827488,
-            "latitude": 45.2524025428
-        },
-        {
-            "id": "_13",
-            "label": "PRERADOVIĆEVA - BENZINSKA PUMPA",
-            "longitude": 19.8757045697,
-            "latitude": 45.2496755784
-        },
-        {
-            "id": "_14",
-            "label": "PRERADOVIĆEVA - ŠENOINA",
-            "longitude": 19.8732154355,
-            "latitude": 45.251431704
-        },
-        {
-            "id": "_15",
-            "label": "BEOGRADSKA - VLADIMIRA NAZORA",
-            "longitude": 19.8623634945,
-            "latitude": 45.2548163902
-        },
-        {
-            "id": "_18",
-            "label": "BUL. OSLOBOĐENJA - MAKSIMA GORKOG",
-            "longitude": 19.8390130044,
-            "latitude": 45.2485327883
-        },
-        {
-            "id": "_19",
-            "label": "BUL. OSLOBOĐENJA - FUTOŠKA PIJACA",
-            "longitude": 19.8368000824,
-            "latitude": 45.2525198464
-        },
-        {
-            "id": "_20",
-            "label": "BUL. OSLOBOĐENJA - POKRAJINSKI SUP",
-            "longitude": 19.8351029309,
-            "latitude": 45.255629856
-        },
-        {
-            "id": "_21",
-            "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
-            "longitude": 19.8318492939,
-            "latitude": 45.2613766166
-        },
-        {
-            "id": "_17",
-            "label": "MAKSIMA GORKOG - SREMSKA",
-            "longitude": 19.8421576964,
-            "latitude": 45.2488034819
-        },
-        {
-            "id": "_22",
-            "label": "ŽELEZNIČKA STANICA - DOLASCI",
-            "longitude": 19.830132455,
-            "latitude": 45.2650202834
-        },
         {
             "id": "_1",
             "label": "BUKOVAC - OKRETNICA",
@@ -265,6 +211,78 @@
             "label": "PETROVARADIN - RAČKOG - PETROVARADINSKA PIJACA",
             "longitude": 19.8833365176,
             "latitude": 45.2402949361
+        },
+        {
+            "id": "_13",
+            "label": "PRERADOVIĆEVA - BENZINSKA PUMPA",
+            "longitude": 19.8757045697,
+            "latitude": 45.2496755784
+        },
+        {
+            "id": "_14",
+            "label": "PRERADOVIĆEVA - ŠENOINA",
+            "longitude": 19.8732154355,
+            "latitude": 45.251431704
+        },
+        {
+            "id": "_15",
+            "label": "BEOGRADSKA - VLADIMIRA NAZORA",
+            "longitude": 19.8623634945,
+            "latitude": 45.2548163902
+        },
+        {
+            "id": "_16",
+            "label": "ŽARKA ZRENJANINA - OPŠTINA",
+            "longitude": 19.8471827488,
+            "latitude": 45.2524025428
+        },
+        {
+            "id": "_17",
+            "label": "MAKSIMA GORKOG - SREMSKA",
+            "longitude": 19.8421576964,
+            "latitude": 45.2488034819
+        },
+        {
+            "id": "_18",
+            "label": "BUL. OSLOBOĐENJA - MAKSIMA GORKOG",
+            "longitude": 19.8390130044,
+            "latitude": 45.2485327883
+        },
+        {
+            "id": "_19",
+            "label": "BUL. OSLOBOĐENJA - FUTOŠKA PIJACA",
+            "longitude": 19.8368000824,
+            "latitude": 45.2525198464
+        },
+        {
+            "id": "_20",
+            "label": "BUL. OSLOBOĐENJA - POKRAJINSKI SUP",
+            "longitude": 19.8351029309,
+            "latitude": 45.255629856
+        },
+        {
+            "id": "_21",
+            "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
+            "longitude": 19.8318492939,
+            "latitude": 45.2613766166
+        },
+        {
+            "id": "_22",
+            "label": "ŽELEZNIČKA STANICA - DOLASCI",
+            "longitude": 19.830132455,
+            "latitude": 45.2650202834
+        },
+        {
+            "id": "_",
+            "label": "BULEVAR MIHAJLA PUPINA - DUNAVSKI PARK",
+            "longitude": 19.8519122087,
+            "latitude": 45.2542020579
+        },
+        {
+            "id": "_",
+            "label": "DOLAZNI PERON",
+            "longitude": 19.830784,
+            "latitude": 45.26467
         }
     ]
 }

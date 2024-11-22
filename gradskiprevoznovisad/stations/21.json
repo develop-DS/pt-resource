@@ -1,202 +1,202 @@
 {
-    "direction_a": [
-        {
-            "id": "_1",
-            "label": "Bul. Jaše Tomića - Bul. Oslobođenja",
-            "longitude": 19.831181344,
-            "latitude": 45.264414954,
-            "expected_arrival_seconds": 0
-        },
-        {
-            "id": "_2",
-            "label": "Kisačka - Bul. Jaše Tomića",
-            "longitude": 19.8354809218,
-            "latitude": 45.2656954001,
-            "expected_arrival_seconds": 60
-        },
-        {
-            "id": "_3",
-            "label": "Kisačka - Bul. Kralja Petra I",
-            "longitude": 19.8401023551,
-            "latitude": 45.2623699914,
-            "expected_arrival_seconds": 120
-        },
-        {
-            "id": "_4",
-            "label": "Temerinska - Trg Marije Trandafil",
-            "longitude": 19.8431916148,
-            "latitude": 45.2610079188,
-            "expected_arrival_seconds": 180
-        },
-        {
-            "id": "_5",
-            "label": "Temerinska - Gundulićeva",
-            "longitude": 19.8438347072,
-            "latitude": 45.264154136,
-            "expected_arrival_seconds": 240
-        },
-        {
-            "id": "_6",
-            "label": "Temerinska - Patrijarha Čarnojevića",
-            "longitude": 19.8433774932,
-            "latitude": 45.2669400366,
-            "expected_arrival_seconds": 300
-        },
-        {
-            "id": "_7",
-            "label": "Put Šajkaškog Odreda - Temerinska",
-            "longitude": 19.842795,
-            "latitude": 45.270255,
-            "expected_arrival_seconds": 360
-        },
-        {
-            "id": "_8",
-            "label": "Put Šajkaškog Odreda - Butangas",
-            "longitude": 19.8541396629,
-            "latitude": 45.2801714789,
-            "expected_arrival_seconds": 480
-        },
-        {
-            "id": "_9",
-            "label": "Put Šajkaškog Odreda - Naftagas I",
-            "longitude": 19.860216648,
-            "latitude": 45.2801022232,
-            "expected_arrival_seconds": 570
-        },
-        {
-            "id": "_10",
-            "label": "Put Šajkaškog Odreda - Naftagas II",
-            "longitude": 19.8698335025,
-            "latitude": 45.2800445045,
-            "expected_arrival_seconds": 630
-        },
-        {
-            "id": "_11",
-            "label": "Put Šajkaškog Odreda - Hidrosonda",
-            "longitude": 19.8739061759,
-            "latitude": 45.2800159943,
-            "expected_arrival_seconds": 720
-        },
-        {
-            "id": "_12",
-            "label": "Kapija - Šangaj",
-            "longitude": 19.8744280768,
-            "latitude": 45.2753695785,
-            "expected_arrival_seconds": 780
-        },
-        {
-            "id": "_13",
-            "label": "Šangaj - Škola",
-            "longitude": 19.8746858691,
-            "latitude": 45.2728481382,
-            "expected_arrival_seconds": 840
-        },
-        {
-            "id": "_14",
-            "label": "Šangaj - Okretnica",
-            "longitude": 19.8734833608,
-            "latitude": 45.2716456299,
-            "expected_arrival_seconds": 900
-        }
-    ],
-    "direction_b": [
-        {
-            "id": "_1",
-            "label": "Šangaj - Okretnica",
-            "longitude": 19.8734833608,
-            "latitude": 45.2716456299,
-            "expected_arrival_seconds": 0
-        },
-        {
-            "id": "_2",
-            "label": "Šangaj - Škola",
-            "longitude": 19.8746020003,
-            "latitude": 45.2727640906,
-            "expected_arrival_seconds": 60
-        },
-        {
-            "id": "_3",
-            "label": "Kapija - Šangaj",
-            "longitude": 19.8750018148,
-            "latitude": 45.2759625849,
-            "expected_arrival_seconds": 120
-        },
-        {
-            "id": "_4",
-            "label": "Put Šajkaškog Odreda - Hidrosonda",
-            "longitude": 19.8725659095,
-            "latitude": 45.2801291859,
-            "expected_arrival_seconds": 180
-        },
-        {
-            "id": "_5",
-            "label": "Put Šajkaškog Odreda - Naftagas II",
-            "longitude": 19.8687013766,
-            "latitude": 45.280162797,
-            "expected_arrival_seconds": 240
-        },
-        {
-            "id": "_6",
-            "label": "Put Šajkaškog Odreda - Naftagas I",
-            "longitude": 19.8594856773,
-            "latitude": 45.2802328142,
-            "expected_arrival_seconds": 300
-        },
-        {
-            "id": "_7",
-            "label": "Put Šajkaškog Odreda - Butangas",
-            "longitude": 19.8545442322,
-            "latitude": 45.2802887336,
-            "expected_arrival_seconds": 360
-        },
-        {
-            "id": "_8",
-            "label": "Temerinska - Partizanska",
-            "longitude": 19.8421271396,
-            "latitude": 45.2696690854,
-            "expected_arrival_seconds": 450
-        },
-        {
-            "id": "_9",
-            "label": "Temerinska - Koste Šokice",
-            "longitude": 19.8430703993,
-            "latitude": 45.2673052212,
-            "expected_arrival_seconds": 510
-        },
-        {
-            "id": "_10",
-            "label": "Temerinska - Pijaca",
-            "longitude": 19.8435652321,
-            "latitude": 45.2621466908,
-            "expected_arrival_seconds": 570
-        },
-        {
-            "id": "_11",
-            "label": "Kisačka - Temerinska",
-            "longitude": 19.8423966225,
-            "latitude": 45.2608711975,
-            "expected_arrival_seconds": 630
-        },
-        {
-            "id": "_12",
-            "label": "Kisačka - Dositejeva",
-            "longitude": 19.8390209306,
-            "latitude": 45.2632551971,
-            "expected_arrival_seconds": 690
-        },
-        {
-            "id": "_13",
-            "label": "Kisačka - Jovana Cvijića",
-            "longitude": 19.8364405487,
-            "latitude": 45.2652106325,
-            "expected_arrival_seconds": 750
-        },
-        {
-            "id": "_14",
-            "label": "Železnička Stanica - Dolasci",
-            "longitude": 19.830132455,
-            "latitude": 45.2650202834,
-            "expected_arrival_seconds": 900
-        }
-    ]
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Bul. Jaše Tomića - Bul. Oslobođenja",
+      "longitude": 19.831181344,
+      "latitude": 45.264414954,
+      "expected_arrival_seconds": 0
+    },
+    {
+      "id": "_2",
+      "label": "Kisačka - Bul. Jaše Tomića",
+      "longitude": 19.8354809218,
+      "latitude": 45.2656954001,
+      "expected_arrival_seconds": 60
+    },
+    {
+      "id": "_3",
+      "label": "Kisačka - Bul. Kralja Petra I",
+      "longitude": 19.8401023551,
+      "latitude": 45.2623699914,
+      "expected_arrival_seconds": 120
+    },
+    {
+      "id": "_4",
+      "label": "Temerinska - Trg Marije Trandafil",
+      "longitude": 19.8431916148,
+      "latitude": 45.2610079188,
+      "expected_arrival_seconds": 180
+    },
+    {
+      "id": "_5",
+      "label": "Temerinska - Gundulićeva",
+      "longitude": 19.8438347072,
+      "latitude": 45.264154136,
+      "expected_arrival_seconds": 240
+    },
+    {
+      "id": "_6",
+      "label": "Temerinska - Patrijarha Čarnojevića",
+      "longitude": 19.8433774932,
+      "latitude": 45.2669400366,
+      "expected_arrival_seconds": 300
+    },
+    {
+      "id": "_7",
+      "label": "Put Šajkaškog Odreda - Temerinska",
+      "longitude": 19.842795,
+      "latitude": 45.270255,
+      "expected_arrival_seconds": 360
+    },
+    {
+      "id": "_8",
+      "label": "Put Šajkaškog Odreda - Butangas",
+      "longitude": 19.8541396629,
+      "latitude": 45.2801714789,
+      "expected_arrival_seconds": 480
+    },
+    {
+      "id": "_9",
+      "label": "Put Šajkaškog Odreda - Naftagas I",
+      "longitude": 19.860216648,
+      "latitude": 45.2801022232,
+      "expected_arrival_seconds": 570
+    },
+    {
+      "id": "_10",
+      "label": "Put Šajkaškog Odreda - Naftagas II",
+      "longitude": 19.8698335025,
+      "latitude": 45.2800445045,
+      "expected_arrival_seconds": 630
+    },
+    {
+      "id": "_11",
+      "label": "Put Šajkaškog Odreda - Hidrosonda",
+      "longitude": 19.8739061759,
+      "latitude": 45.2800159943,
+      "expected_arrival_seconds": 720
+    },
+    {
+      "id": "_12",
+      "label": "Kapija - Šangaj",
+      "longitude": 19.8744280768,
+      "latitude": 45.2753695785,
+      "expected_arrival_seconds": 780
+    },
+    {
+      "id": "_13",
+      "label": "Šangaj - Škola",
+      "longitude": 19.8746858691,
+      "latitude": 45.2728481382,
+      "expected_arrival_seconds": 840
+    },
+    {
+      "id": "_14",
+      "label": "Šangaj - Okretnica",
+      "longitude": 19.8734833608,
+      "latitude": 45.2716456299,
+      "expected_arrival_seconds": 900
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Šangaj - Okretnica",
+      "longitude": 19.8734833608,
+      "latitude": 45.2716456299,
+      "expected_arrival_seconds": 0
+    },
+    {
+      "id": "_2",
+      "label": "Šangaj - Škola",
+      "longitude": 19.8746020003,
+      "latitude": 45.2727640906,
+      "expected_arrival_seconds": 60
+    },
+    {
+      "id": "_3",
+      "label": "Kapija - Šangaj",
+      "longitude": 19.8750018148,
+      "latitude": 45.2759625849,
+      "expected_arrival_seconds": 120
+    },
+    {
+      "id": "_4",
+      "label": "Put Šajkaškog Odreda - Hidrosonda",
+      "longitude": 19.8725659095,
+      "latitude": 45.2801291859,
+      "expected_arrival_seconds": 180
+    },
+    {
+      "id": "_5",
+      "label": "Put Šajkaškog Odreda - Naftagas II",
+      "longitude": 19.8687013766,
+      "latitude": 45.280162797,
+      "expected_arrival_seconds": 240
+    },
+    {
+      "id": "_6",
+      "label": "Put Šajkaškog Odreda - Naftagas I",
+      "longitude": 19.8594856773,
+      "latitude": 45.2802328142,
+      "expected_arrival_seconds": 300
+    },
+    {
+      "id": "_7",
+      "label": "Put Šajkaškog Odreda - Butangas",
+      "longitude": 19.8545442322,
+      "latitude": 45.2802887336,
+      "expected_arrival_seconds": 360
+    },
+    {
+      "id": "_8",
+      "label": "Temerinska - Partizanska",
+      "longitude": 19.8421271396,
+      "latitude": 45.2696690854,
+      "expected_arrival_seconds": 450
+    },
+    {
+      "id": "_9",
+      "label": "Temerinska - Koste Šokice",
+      "longitude": 19.8430703993,
+      "latitude": 45.2673052212,
+      "expected_arrival_seconds": 510
+    },
+    {
+      "id": "_10",
+      "label": "Temerinska - Pijaca",
+      "longitude": 19.8435652321,
+      "latitude": 45.2621466908,
+      "expected_arrival_seconds": 570
+    },
+    {
+      "id": "_11",
+      "label": "Kisačka - Temerinska",
+      "longitude": 19.8423966225,
+      "latitude": 45.2608711975,
+      "expected_arrival_seconds": 630
+    },
+    {
+      "id": "_12",
+      "label": "Kisačka - Dositejeva",
+      "longitude": 19.8390209306,
+      "latitude": 45.2632551971,
+      "expected_arrival_seconds": 690
+    },
+    {
+      "id": "_13",
+      "label": "Kisačka - Jovana Cvijića",
+      "longitude": 19.8364405487,
+      "latitude": 45.2652106325,
+      "expected_arrival_seconds": 750
+    },
+    {
+      "id": "_14",
+      "label": "Železnička Stanica - Dolasci",
+      "longitude": 19.830132455,
+      "latitude": 45.2650202834,
+      "expected_arrival_seconds": 900
+    }
+  ]
 }

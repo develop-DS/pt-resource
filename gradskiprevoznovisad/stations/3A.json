@@ -2,9 +2,9 @@
     "direction_a": [
         {
             "id": "_1",
-            "label": "Železnička Stanica",
-            "longitude": 19.8295879176,
-            "latitude": 45.264478508,
+            "label": "BULEVAR OSLOBOĐENJA - BULEVAR JAŠE TOMIĆA",
+            "longitude": 19.8304838937,
+            "latitude": 45.263325649,
             "expected_arrival_seconds": 0
         },
         {
@@ -38,8 +38,8 @@
         {
             "id": "_6",
             "label": "Bul. Mihajla Pupina - Sonje Marinković",
-            "longitude": 19.8530960428,
-            "latitude": 45.2542765403,
+            "longitude": 19.852979,
+            "latitude": 45.254153,
             "expected_arrival_seconds": 554
         },
         {
@@ -66,17 +66,16 @@
         {
             "id": "_10",
             "label": "Pobeda",
-            "longitude": 19.887341,
-            "latitude": 45.246386,
-            "expected_arrival_seconds": 1081
+            "longitude": 19.881576,
+            "latitude": 45.253667
         }
     ],
     "direction_b": [
         {
             "id": "_1",
             "label": "Pobeda",
-            "longitude": 19.887341,
-            "latitude": 45.246386,
+            "longitude": 19.881576,
+            "latitude": 45.253667,
             "expected_arrival_seconds": 0
         },
         {
@@ -141,6 +140,13 @@
             "longitude": 19.8318492939,
             "latitude": 45.2613766166,
             "expected_arrival_seconds": 1037
+        },
+        {
+            "id": "_11",
+            "label": "ŽELEZNIČKA STANICA - DOLASCI",
+            "longitude": 19.830132455,
+            "latitude": 45.2650202834,
+            "expected_arrival_seconds": 1080
         }
     ]
 }

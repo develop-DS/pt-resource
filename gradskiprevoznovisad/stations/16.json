@@ -2,9 +2,9 @@
     "direction_a": [
         {
             "id": "_1",
-            "label": "Železnička Stanica Terminal",
-            "longitude": 19.8300468015,
-            "latitude": 45.2652079855,
+            "label": "BULEVAR JAŠE TOMIĆA - BULEVAR OSLOBOĐENJA",
+            "longitude": 19.831181344,
+            "latitude": 45.264414954,
             "expected_arrival_seconds": 0
         },
         {
@@ -48,6 +48,12 @@
             "longitude": 19.8589099487,
             "latitude": 45.2658468595,
             "expected_arrival_seconds": 420
+        },
+        {
+            "id": "_",
+            "label": "BULEVAR MIHAJLA PUPINA - SONJE MARINKOVIĆ",
+            "longitude": 19.852979,
+            "latitude": 45.254153
         }
     ],
     "direction_b": [
@@ -92,6 +98,12 @@
             "longitude": 19.830132455,
             "latitude": 45.2650202834,
             "expected_arrival_seconds": 420
+        },
+        {
+            "id": "_",
+            "label": "AZOTARA",
+            "longitude": 19.848567,
+            "latitude": 45.272147
         }
     ]
 }

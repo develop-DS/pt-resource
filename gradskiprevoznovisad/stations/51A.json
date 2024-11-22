@@ -1,4 +1,240 @@
 {
-    "direction_a": [],
-    "direction_b": []
+  "direction_a": [
+    {
+      "id": "_",
+      "label": "FUTOŠKA - BOLNICA",
+      "longitude": 19.8235646906,
+      "latitude": 45.2494540403
+    },
+    {
+      "id": "_",
+      "label": "FUTOŠKA - BULEVAR EVROPE",
+      "longitude": 19.815564749,
+      "latitude": 45.2485623853
+    },
+    {
+      "id": "_",
+      "label": "FUTOŠKA - JUGOALAT",
+      "longitude": 19.810052585,
+      "latitude": 45.2478325873
+    },
+    {
+      "id": "_",
+      "label": "FUTOŠKI PUT - GRAFIKA",
+      "longitude": 19.8055379367,
+      "latitude": 45.2475026928
+    },
+    {
+      "id": "_",
+      "label": "FUTOŠKI PUT - SATELITSKA PIJACA",
+      "longitude": 19.7998632846,
+      "latitude": 45.2461119679
+    },
+    {
+      "id": "_",
+      "label": "FUTOŠKI PUT - GARAŽA GSP-A",
+      "longitude": 19.792952863,
+      "latitude": 45.2440016201
+    },
+    {
+      "id": "_",
+      "label": "FUTOŠKI PUT - BENZINSKA PUMPA",
+      "longitude": 19.7871434415,
+      "latitude": 45.243434196
+    },
+    {
+      "id": "_",
+      "label": "VETERNIK - RENO SERVIS",
+      "longitude": 19.7646595404,
+      "latitude": 45.2568003751
+    },
+    {
+      "id": "_",
+      "label": "BULEVAR OSLOBOĐENJA - BULEVAR KRALJA PETRA PRVOG",
+      "longitude": 19.8322222835,
+      "latitude": 45.2601777537
+    },
+    {
+      "id": "_",
+      "label": "VETERNIK - NOVOSADSKI PUT - SONJE MARINKOVIĆ",
+      "longitude": 19.7628098913,
+      "latitude": 45.248109015
+    },
+    {
+      "id": "_",
+      "label": "VETERNIK - CENTAR",
+      "longitude": 19.7570349816,
+      "latitude": 45.2502026841
+    },
+    {
+      "id": "_",
+      "label": "VETERNIK - STADION",
+      "longitude": 19.7606394502,
+      "latitude": 45.2531656254
+    },
+    {
+      "id": "_",
+      "label": "VETERNIK - VOJVODE PUTNIKA 16",
+      "longitude": 19.758905971,
+      "latitude": 45.2595710981
+    },
+    {
+      "id": "_",
+      "label": "VETERNIK - VOJVODE BOJOVIĆA 57",
+      "longitude": 19.7562757223,
+      "latitude": 45.2563655281
+    },
+    {
+      "id": "_",
+      "label": "FUTOŠKA - BULEVAR OSLOBOĐENJA",
+      "longitude": 19.8364491963,
+      "latitude": 45.2518040573
+    },
+    {
+      "id": "_",
+      "label": "VETERNIK - FEŠTER",
+      "longitude": 19.7673159236,
+      "latitude": 45.2470495425
+    },
+    {
+      "id": "_",
+      "label": "ŽELEZNIČKA STANICA TERMINAL",
+      "longitude": 19.8303881347,
+      "latitude": 45.2650262948
+    },
+    {
+      "id": "_",
+      "label": "NOVOSADSKI PUT - ZORANA RADMILOVIĆA",
+      "longitude": 19.7819769289,
+      "latitude": 45.2437879717
+    },
+    {
+      "id": "_",
+      "label": "SPORTSKI CENTAR",
+      "longitude": 19.7746201566,
+      "latitude": 45.2453178784
+    },
+    {
+      "id": "_",
+      "label": "FUTOŠKA - JODNA BANJA",
+      "longitude": 19.8289089911,
+      "latitude": 45.2492337673
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_",
+      "label": "VETERNIK - ŠKOLSKA - BRAĆE TOKIN",
+      "longitude": 19.744452,
+      "latitude": 45.251508
+    },
+    {
+      "id": "_",
+      "label": "RUMENAČKI PUT - GRADSKO GROBLJE",
+      "longitude": 19.7944074552,
+      "latitude": 45.2782101032
+    },
+    {
+      "id": "_",
+      "label": "RUMENAČKI PUT - KRUŽNI TOK",
+      "longitude": 19.8018176756,
+      "latitude": 45.2747023047
+    },
+    {
+      "id": "_",
+      "label": "DONJE SAJLOVO - SAJLOVO 9",
+      "longitude": 19.78288,
+      "latitude": 45.271724
+    },
+    {
+      "id": "_",
+      "label": "RUMENAČKA - POLICIJSKA STANICA",
+      "longitude": 19.8130603695,
+      "latitude": 45.2670846403
+    },
+    {
+      "id": "_",
+      "label": "BULEVAR JAŠE TOMIĆA - RUMENAČKA",
+      "longitude": 19.8192032513,
+      "latitude": 45.2630741789
+    },
+    {
+      "id": "_",
+      "label": "DONJE SAJLOVO - STEVANA NEŠTICKOG",
+      "longitude": 19.787356,
+      "latitude": 45.275676
+    },
+    {
+      "id": "_",
+      "label": "VETERNIK - BRAĆE TOKIN - OMLADINSKA",
+      "longitude": 19.748075,
+      "latitude": 45.249245
+    },
+    {
+      "id": "_",
+      "label": "RUMENAČKI PUT - AVIJATIČARSKA",
+      "longitude": 19.8089150153,
+      "latitude": 45.2702133075
+    },
+    {
+      "id": "_",
+      "label": "VETERNIK - OMLADINSKA - PIJACA VETERNIK",
+      "longitude": 19.7534046769,
+      "latitude": 45.2503360437
+    },
+    {
+      "id": "_",
+      "label": "VETERNIK - VASE EŠKIĆEVIĆA",
+      "longitude": 19.767468,
+      "latitude": 45.258778
+    },
+    {
+      "id": "_",
+      "label": "VETERNIK - CENTAR",
+      "longitude": 19.7570349816,
+      "latitude": 45.2502026841
+    },
+    {
+      "id": "_",
+      "label": "VETERNIK - STADION",
+      "longitude": 19.7606394502,
+      "latitude": 45.2531656254
+    },
+    {
+      "id": "_",
+      "label": "VETERNIK - VOJVODE BOJOVIĆA 57",
+      "longitude": 19.7562757223,
+      "latitude": 45.2563655281
+    },
+    {
+      "id": "_",
+      "label": "VETERNIK - ŠKOLA",
+      "longitude": 19.7540706069,
+      "latitude": 45.2537168486
+    },
+    {
+      "id": "_",
+      "label": "VETERNIK - GASNA PODSTANICA",
+      "longitude": 19.7495228035,
+      "latitude": 45.2527996498
+    },
+    {
+      "id": "_",
+      "label": "VETERNIK - ZRMANJSKA",
+      "longitude": 19.765075,
+      "latitude": 45.256777
+    },
+    {
+      "id": "_",
+      "label": "ŽELEZNIČKA STANICA TERMINAL",
+      "longitude": 19.8303881347,
+      "latitude": 45.2650262948
+    },
+    {
+      "id": "_",
+      "label": "DOLAZNI PERON",
+      "longitude": 19.830784,
+      "latitude": 45.26467
+    }
+  ]
 }

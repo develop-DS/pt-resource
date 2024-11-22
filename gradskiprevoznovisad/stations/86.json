@@ -1,12 +1,6 @@
 {
     "direction_a": [
         {
-            "id": "__",
-            "label": "ST. RAKOVAC II - NIKOLE PAŠIĆA",
-            "longitude": 19.7693003063,
-            "latitude": 45.1993500796
-        },
-        {
             "id": "_1",
             "label": "MAS - POLAZNI PERON BR. 14",
             "longitude": 19.8285457138,
@@ -14,9 +8,21 @@
         },
         {
             "id": "__",
-            "label": "ST. RAKOVAC I - IZVOR",
-            "longitude": 19.7678383662,
-            "latitude": 45.2038129587
+            "label": "BUL. OSLOBOĐENJA - FUTOŠKA",
+            "longitude": 19.8370753816,
+            "latitude": 45.2514514442
+        },
+        {
+            "id": "_",
+            "label": "IRIG - IRIŠKI VENAC",
+            "longitude": 19.829075,
+            "latitude": 45.149911
+        },
+        {
+            "id": "__",
+            "label": "BUL. OSLOBOĐENJA - MOST SLOBODE",
+            "longitude": 19.8428482132,
+            "latitude": 45.241081551
         },
         {
             "id": "__",
@@ -31,10 +37,28 @@
             "latitude": 45.2601777537
         },
         {
-            "id": "__",
-            "label": "LEDINCI - STAMBENE ZGRADE",
-            "longitude": 19.7989506277,
-            "latitude": 45.2132356106
+            "id": "_",
+            "label": "PARAGOVO - IRIŠKI PUT 2",
+            "longitude": 19.8386304932,
+            "latitude": 45.1796982494
+        },
+        {
+            "id": "_",
+            "label": "SREMSKA KAMENICA - LOLE RIBARA - ZELENI BREG",
+            "longitude": 19.8423810743,
+            "latitude": 45.2123018031
+        },
+        {
+            "id": "_",
+            "label": "SREMSKA KAMENICA - PARAGOVSKI PUT - OBILAZNICA",
+            "longitude": 19.8407859545,
+            "latitude": 45.2092819987
+        },
+        {
+            "id": "_",
+            "label": "PARAGOVO - PARAGOVSKI PUT - KASARNA",
+            "longitude": 19.8412669184,
+            "latitude": 45.2049447003
         },
         {
             "id": "__",
@@ -44,93 +68,15 @@
         },
         {
             "id": "__",
-            "label": "ST. RAKOVAC III - ŽUTA KUĆA",
-            "longitude": 19.7697641355,
-            "latitude": 45.1957323556
-        },
-        {
-            "id": "__",
-            "label": "ST. RAKOVAC IV - MANASTIRSKA 93",
-            "longitude": 19.7700944286,
-            "latitude": 45.1929113601
-        },
-        {
-            "id": "__",
-            "label": "ST. RAKOVAC V - STOLICE",
-            "longitude": 19.7707423706,
-            "latitude": 45.1909469729
-        },
-        {
-            "id": "__",
-            "label": "ST. RAKOVAC VI - MANASTIRSKA 28",
-            "longitude": 19.7715375314,
-            "latitude": 45.1877161493
-        },
-        {
-            "id": "__",
-            "label": "ST. RAKOVAC VII - MANASTIR",
-            "longitude": 19.7734903978,
-            "latitude": 45.1844876799
-        },
-        {
-            "id": "__",
-            "label": "LEDINCI - SMRDANOV POTOK",
-            "longitude": 19.7903427896,
-            "latitude": 45.2109741424
-        },
-        {
-            "id": "__",
-            "label": "ST. RAKOVAC VIII - OKRETNICA",
-            "longitude": 19.7708796828,
-            "latitude": 45.1812208015
-        },
-        {
-            "id": "__",
             "label": "VRDNIK (ŽELEZNIČKA STANICA) - OKRETNICA",
             "longitude": 19.78748,
             "latitude": 45.125866
         },
         {
-            "id": "__",
-            "label": "SR. KAMENICA - LEDINAČKI PUT - ŠIMŠIROVA",
-            "longitude": 19.8282294427,
-            "latitude": 45.2203782107
-        },
-        {
-            "id": "__",
-            "label": "LEDINCI - RASKRS. ZA LEDINCE",
-            "longitude": 19.8056262273,
-            "latitude": 45.2152729956
-        },
-        {
-            "id": "__",
-            "label": "BUL. OSLOBOĐENJA - MOST SLOBODE",
-            "longitude": 19.8428482132,
-            "latitude": 45.241081551
-        },
-        {
-            "id": "__",
-            "label": "RAKOVAC II - ODM.NOVOMONTA",
-            "longitude": 19.7783365463,
-            "latitude": 45.2098060464
-        },
-        {
-            "id": "__",
-            "label": "RAKOVAC IV",
-            "longitude": 19.7681622527,
-            "latitude": 45.2079050353
-        },
-        {
-            "id": "__",
-            "label": "BUL. OSLOBOĐENJA - FUTOŠKA",
-            "longitude": 19.8370753816,
-            "latitude": 45.2514514442
-        },
-        {
-            "id": "__",
-            "label": "SR. KAMENICA - LEDINAČKI PUT - BOCKE",
-            "longitude": 19.8220383026,
-            "latitude": 45.2187669648
+            "id": "_",
+            "label": "SREMSKA KAMENICA - LOLE RIBARA - GROBLJE",
+            "longitude": 19.842964,
+            "latitude": 45.216972
         },
         {
             "id": "__",
@@ -145,24 +91,42 @@
             "latitude": 45.141781
         },
         {
-            "id": "__",
-            "label": "SR. KAMENICA - CENTAR",
-            "longitude": 19.8425048162,
-            "latitude": 45.2234788568
+            "id": "_",
+            "label": "PARAGOVO - IRIŠKI PUT - VODNIKA MILOŠA LASICE",
+            "longitude": 19.840569,
+            "latitude": 45.191066
         },
         {
-            "id": "__",
-            "label": "SR.KAMENICA - TRAFOSTANICA",
-            "longitude": 19.8145230578,
-            "latitude": 45.2175956398
+            "id": "_",
+            "label": "VRDNIK - RASKRSNICA ZMAJEVAC",
+            "longitude": 19.779881,
+            "latitude": 45.157392
+        },
+        {
+            "id": "_",
+            "label": "SREMSKA KAMENICA - CENTAR",
+            "longitude": 19.8424277822,
+            "latitude": 45.2231492291
         }
     ],
     "direction_b": [
+        {
+            "id": "_1",
+            "label": "VRDNIK (ŽELEZNIČKA STANICA) - OKRETNICA",
+            "longitude": 19.78748,
+            "latitude": 45.125866
+        },
         {
             "id": "__",
             "label": "MAS - DOLAZNI PERON",
             "longitude": 19.8292532816,
             "latitude": 45.2646698037
+        },
+        {
+            "id": "_",
+            "label": "PARAGOVO - IRIŠKI PUT - VODNIKA MILOŠA LASICE",
+            "longitude": 19.8405984914,
+            "latitude": 45.1902301653
         },
         {
             "id": "__",
@@ -178,18 +142,6 @@
         },
         {
             "id": "__",
-            "label": "ST. RAKOVAC VII - MANASTIR",
-            "longitude": 19.7734983986,
-            "latitude": 45.1842531899
-        },
-        {
-            "id": "__",
-            "label": "SR. KAMENICA - LEDINAČKI PUT - ŠIMŠIROVA",
-            "longitude": 19.8277369153,
-            "latitude": 45.2202518686
-        },
-        {
-            "id": "__",
             "label": "SR. KAMENICA - PETRA KOČIĆA",
             "longitude": 19.8481745994,
             "latitude": 45.2257062238
@@ -201,76 +153,34 @@
             "latitude": 45.142399
         },
         {
-            "id": "__",
-            "label": "RAKOVAC I - SMRDANOV POTOK",
-            "longitude": 19.7913883196,
-            "latitude": 45.2112595179
+            "id": "_",
+            "label": "PARAGOVO - IRIŠKI PUT 2",
+            "longitude": 19.8388229918,
+            "latitude": 45.1798435695
         },
         {
-            "id": "__",
-            "label": "ST. RAKOVAC III - ŽUTA KUĆA\r\n",
-            "longitude": 19.7697839398,
-            "latitude": 45.1956904089
+            "id": "_",
+            "label": "PARAGOVO - IRIŠKI PUT - SLAVUJEVA",
+            "longitude": 19.8414031489,
+            "latitude": 45.1964616703
         },
         {
-            "id": "__",
-            "label": "LEDINCI - TRAFOSTANICA",
-            "longitude": 19.8159702911,
-            "latitude": 45.2177684323
+            "id": "_",
+            "label": "PARAGOVO - PARAGOVSKI PUT - KASARNA",
+            "longitude": 19.8412199425,
+            "latitude": 45.2054219768
         },
         {
-            "id": "__",
-            "label": "SR. KAMENICA - LEDINAČKI PUT - BOCKE",
-            "longitude": 19.820909925,
-            "latitude": 45.2183331
+            "id": "_",
+            "label": "SREMSKA KAMENICA - PARAGOVSKI PUT - OBILAZNICA",
+            "longitude": 19.8413850019,
+            "latitude": 45.2108676677
         },
         {
-            "id": "__",
-            "label": "ST. RAKOVAC I - IZVOR",
-            "longitude": 19.7678604993,
-            "latitude": 45.2039823235
-        },
-        {
-            "id": "__",
-            "label": "STARI RAKOVAC VIII - OKRETNICA ",
-            "longitude": 19.771001,
-            "latitude": 45.181127
-        },
-        {
-            "id": "_1",
-            "label": "VRDNIK (ŽELEZNIČKA STANICA) - OKRETNICA",
-            "longitude": 19.78748,
-            "latitude": 45.125866
-        },
-        {
-            "id": "__",
-            "label": "ST. RAKOVAC VI - MANASTIRSKA 28",
-            "longitude": 19.7714884243,
-            "latitude": 45.1877953428
-        },
-        {
-            "id": "__",
-            "label": "ST. RAKOVAC IV - MANASTIRSKA 93",
-            "longitude": 19.770104,
-            "latitude": 45.192941
-        },
-        {
-            "id": "__",
-            "label": "ST. RAKOVAC V - STOLICE",
-            "longitude": 19.7708133477,
-            "latitude": 45.1912738049
-        },
-        {
-            "id": "__",
-            "label": "ST. RAKOVAC II - NIKOLE PAŠIĆA",
-            "longitude": 19.7691391825,
-            "latitude": 45.2000086131
-        },
-        {
-            "id": "__",
-            "label": "RAKOVAC IV",
-            "longitude": 19.7683725375,
-            "latitude": 45.2082255865
+            "id": "_",
+            "label": "SREMSKA KAMENICA - LOLE RIBARA - GROBLJE",
+            "longitude": 19.8431314567,
+            "latitude": 45.2166627491
         },
         {
             "id": "__",
@@ -286,39 +196,27 @@
         },
         {
             "id": "__",
-            "label": "LEDINCI - DUNAVSKA - STAMBENE ZGRADE",
-            "longitude": 19.7999135468,
-            "latitude": 45.2133129739
-        },
-        {
-            "id": "__",
             "label": "VRDNIK - MARTINA KLASIĆA - KARAĐORĐEVA",
             "longitude": 19.790162,
             "latitude": 45.132557
+        },
+        {
+            "id": "_",
+            "label": "VRDNIK - RASKRSNICA ZMAJEVAC",
+            "longitude": 19.779604,
+            "latitude": 45.157352
+        },
+        {
+            "id": "_",
+            "label": "IRIG - IRIŠKI VENAC",
+            "longitude": 19.830103,
+            "latitude": 45.1501
         },
         {
             "id": "__",
             "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
             "longitude": 19.8318492939,
             "latitude": 45.2613766166
-        },
-        {
-            "id": "__",
-            "label": "RAKOVAC III - RAS. ZA BEOČIN",
-            "longitude": 19.7693125662,
-            "latitude": 45.2101263501
-        },
-        {
-            "id": "__",
-            "label": "RAKOVAC II - ODM. NOVOMONTA",
-            "longitude": 19.779770709,
-            "latitude": 45.2096273813
-        },
-        {
-            "id": "__",
-            "label": "LEDINCI - RASKRS. ZA LEDINCE",
-            "longitude": 19.8061859913,
-            "latitude": 45.2153457017
         }
     ]
 }

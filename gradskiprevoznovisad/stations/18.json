@@ -1,461 +1,461 @@
 {
-    "direction_a": [
-        {
-            "id": "_1",
-            "label": "Novo Naselje - Kružni Tok",
-            "longitude": 19.787416,
-            "latitude": 45.247888,
-            "expected_arrival_seconds": 0
-        },
-        {
-            "id": "_2",
-            "label": "Bulevar Jovana Dučića - Bulevar Kneza Miloša",
-            "longitude": 19.791754249,
-            "latitude": 45.2489224745,
-            "expected_arrival_seconds": 51
-        },
-        {
-            "id": "_3",
-            "label": "Bulevar Jovana Dučića - Igralište",
-            "longitude": 19.7936823203,
-            "latitude": 45.2495765937,
-            "expected_arrival_seconds": 75
-        },
-        {
-            "id": "_4",
-            "label": "Bulevar Jovana Dučića - Bate Brkića",
-            "longitude": 19.7983862612,
-            "latitude": 45.2511237051,
-            "expected_arrival_seconds": 133
-        },
-        {
-            "id": "_5",
-            "label": "Bulevar Jovana Dučića - Robna Kuća",
-            "longitude": 19.8018919417,
-            "latitude": 45.2523770585,
-            "expected_arrival_seconds": 177
-        },
-        {
-            "id": "_6",
-            "label": "Bulevar Slobodana Jovanovića - Todora Toze Jovanovića",
-            "longitude": 19.8026436487,
-            "latitude": 45.2556482515,
-            "expected_arrival_seconds": 230
-        },
-        {
-            "id": "_7",
-            "label": "Bulevar Vojvode Stepe - Bulevar Slobodana Jovanovića",
-            "longitude": 19.8022341912,
-            "latitude": 45.2579092564,
-            "expected_arrival_seconds": 266
-        },
-        {
-            "id": "_8",
-            "label": "Kornelija Stankovića - Bulevar Evrope",
-            "longitude": 19.8096845247,
-            "latitude": 45.2604662935,
-            "expected_arrival_seconds": 359
-        },
-        {
-            "id": "_9",
-            "label": "Kornelija Stankovića - Ilije Birčanina",
-            "longitude": 19.8135399393,
-            "latitude": 45.2620111469,
-            "expected_arrival_seconds": 409
-        },
-        {
-            "id": "_10",
-            "label": "Rumenačka - Kornelija Stankovića",
-            "longitude": 19.8174016008,
-            "latitude": 45.2636389127,
-            "expected_arrival_seconds": 459
-        },
-        {
-            "id": "_11",
-            "label": "Rumenačka - Abc Samoposluga",
-            "longitude": 19.8204896166,
-            "latitude": 45.2609008436,
-            "expected_arrival_seconds": 514
-        },
-        {
-            "id": "_12",
-            "label": "Bulevar Kralja Petra Prvog - Sajam",
-            "longitude": 19.8244448578,
-            "latitude": 45.2591224024,
-            "expected_arrival_seconds": 566
-        },
-        {
-            "id": "_13",
-            "label": "Bulevar Kralja Petra Prvog - Mašinska Škola",
-            "longitude": 19.8274393446,
-            "latitude": 45.259428265,
-            "expected_arrival_seconds": 600
-        },
-        {
-            "id": "_14",
-            "label": "Bulevar Oslobođenja - Bulevar Kralja Petra Prvog",
-            "longitude": 19.8322222835,
-            "latitude": 45.2601777537,
-            "expected_arrival_seconds": 655
-        },
-        {
-            "id": "_15",
-            "label": "Bulevar Oslobođenja - Novosadskog Sajma",
-            "longitude": 19.8353175469,
-            "latitude": 45.2545506888,
-            "expected_arrival_seconds": 751
-        },
-        {
-            "id": "_16",
-            "label": "Jevrejska - Bulevar Oslobođenja",
-            "longitude": 19.8377609655,
-            "latitude": 45.2522080286,
-            "expected_arrival_seconds": 797
-        },
-        {
-            "id": "_17",
-            "label": "Uspenska - Šafarikova",
-            "longitude": 19.8416138869,
-            "latitude": 45.255083741,
-            "expected_arrival_seconds": 860
-        },
-        {
-            "id": "_18",
-            "label": "Bulevar Mihajla Pupina - Pothodnik",
-            "longitude": 19.844187,
-            "latitude": 45.253337,
-            "expected_arrival_seconds": 900
-        },
-        {
-            "id": "_19",
-            "label": "Žarka Zrenjanina - Opština",
-            "longitude": 19.8471827488,
-            "latitude": 45.2524025428,
-            "expected_arrival_seconds": 937
-        },
-        {
-            "id": "_20",
-            "label": "Bulevar Cara Lazara - Urbis",
-            "longitude": 19.8488525074,
-            "latitude": 45.2474414598,
-            "expected_arrival_seconds": 1018
-        },
-        {
-            "id": "_21",
-            "label": "Bulevar Cara Lazara - Bulevar Oslobođenja",
-            "longitude": 19.8407575757,
-            "latitude": 45.2437760634,
-            "expected_arrival_seconds": 1126
-        },
-        {
-            "id": "_22",
-            "label": "Bulevar Cara Lazara - Puškinova",
-            "longitude": 19.8359820245,
-            "latitude": 45.2425681438,
-            "expected_arrival_seconds": 1183
-        },
-        {
-            "id": "_23",
-            "label": "Bulevar Cara Lazara - Dom Zdravlja",
-            "longitude": 19.8302794061,
-            "latitude": 45.2413137447,
-            "expected_arrival_seconds": 1250
-        },
-        {
-            "id": "_24",
-            "label": "Bulevar Evrope - Cara Dušana",
-            "longitude": 19.82477,
-            "latitude": 45.239855,
-            "expected_arrival_seconds": 1316
-        },
-        {
-            "id": "_25",
-            "label": "Bulevar Patrijarha Pavla - Bulevar Evrope",
-            "longitude": 19.821792,
-            "latitude": 45.23977,
-            "expected_arrival_seconds": 1349
-        },
-        {
-            "id": "_26",
-            "label": "Bulevar Patrijarha Pavla - Subotička",
-            "longitude": 19.815733,
-            "latitude": 45.240393,
-            "expected_arrival_seconds": 1418
-        },
-        {
-            "id": "_27",
-            "label": "Bulevar Patrijarha Pavla - Vršačka",
-            "longitude": 19.8107038207,
-            "latitude": 45.2408800594,
-            "expected_arrival_seconds": 1475
-        },
-        {
-            "id": "_28",
-            "label": "Bulevar Patrijarha Pavla - Ilirska",
-            "longitude": 19.8064595317,
-            "latitude": 45.2413029105,
-            "expected_arrival_seconds": 1523
-        },
-        {
-            "id": "_29",
-            "label": "Bulevar Patrijarha Pavla - Ilariona Ruvarca",
-            "longitude": 19.8023266636,
-            "latitude": 45.2417062369,
-            "expected_arrival_seconds": 1570
-        },
-        {
-            "id": "_30",
-            "label": "Bulevar Patrijarha Pavla - Drvarska",
-            "longitude": 19.7984549409,
-            "latitude": 45.2420787039,
-            "expected_arrival_seconds": 1614
-        },
-        {
-            "id": "_31",
-            "label": "Bulevar Kneza Miloša - Futoški Put",
-            "longitude": 19.7946648286,
-            "latitude": 45.245098379,
-            "expected_arrival_seconds": 1678
-        },
-        {
-            "id": "_32",
-            "label": "Bulevar Kneza Miloša - Garaža Gsp-A",
-            "longitude": 19.7933548666,
-            "latitude": 45.2472193464,
-            "expected_arrival_seconds": 1715
-        },
-        {
-            "id": "_33",
-            "label": "Bulevar Jovana Dučića - Bulevar Kneza Miloša",
-            "longitude": 19.7915144259,
-            "latitude": 45.2489713023,
-            "expected_arrival_seconds": 1750
-        },
-        {
-            "id": "_34",
-            "label": "Novo Naselje - Kružni Tok",
-            "longitude": 19.786933,
-            "latitude": 45.248251,
-            "expected_arrival_seconds": 1803
-        }
-    ],
-    "direction_b": [
-        {
-            "id": "_1",
-            "label": "Bulevar Kneza Miloša - Bulevar Jovana Dučića",
-            "longitude": 19.7921260989,
-            "latitude": 45.2487632498,
-            "expected_arrival_seconds": 0
-        },
-        {
-            "id": "_2",
-            "label": "Bulevar Kneza Miloša - Garaža Gsp-A",
-            "longitude": 19.793176626,
-            "latitude": 45.2470681807,
-            "expected_arrival_seconds": 30
-        },
-        {
-            "id": "_3",
-            "label": "Bulevar Patrijarha Pavla - Futoški Put",
-            "longitude": 19.795029964,
-            "latitude": 45.2440339225,
-            "expected_arrival_seconds": 84
-        },
-        {
-            "id": "_4",
-            "label": "Bulevar Patrijarha Pavla - Drvarska",
-            "longitude": 19.7996161438,
-            "latitude": 45.2417500565,
-            "expected_arrival_seconds": 148
-        },
-        {
-            "id": "_5",
-            "label": "Bulevar Patrijarha Pavla - Prvomajska",
-            "longitude": 19.8036125161,
-            "latitude": 45.2413580417,
-            "expected_arrival_seconds": 194
-        },
-        {
-            "id": "_6",
-            "label": "Bulevar Patrijarha Pavla - Senteleki Kornela",
-            "longitude": 19.8076663846,
-            "latitude": 45.2409610249,
-            "expected_arrival_seconds": 241
-        },
-        {
-            "id": "_7",
-            "label": "Bulevar Patrijarha Pavla - Feješ Klare",
-            "longitude": 19.81195,
-            "latitude": 45.240548,
-            "expected_arrival_seconds": 291
-        },
-        {
-            "id": "_8",
-            "label": "Bulevar Patrijarha Pavla - Jožef Atile",
-            "longitude": 19.816809,
-            "latitude": 45.240038,
-            "expected_arrival_seconds": 347
-        },
-        {
-            "id": "_9",
-            "label": "Bulevar Cara Lazara - Ive Andrića",
-            "longitude": 19.8258641034,
-            "latitude": 45.2399480828,
-            "expected_arrival_seconds": 451
-        },
-        {
-            "id": "_10",
-            "label": "Bulevar Cara Lazara - Dom Zdravlja",
-            "longitude": 19.8317379566,
-            "latitude": 45.241465683,
-            "expected_arrival_seconds": 523
-        },
-        {
-            "id": "_11",
-            "label": "Bulevar Cara Lazara - Šekspirova",
-            "longitude": 19.8371533191,
-            "latitude": 45.2426706144,
-            "expected_arrival_seconds": 588
-        },
-        {
-            "id": "_12",
-            "label": "Bulevar Cara Lazara - Bulevar Oslobođenja",
-            "longitude": 19.8424535024,
-            "latitude": 45.2440216217,
-            "expected_arrival_seconds": 653
-        },
-        {
-            "id": "_13",
-            "label": "Stražilovska - Urbis",
-            "longitude": 19.8492059684,
-            "latitude": 45.2481301777,
-            "expected_arrival_seconds": 755
-        },
-        {
-            "id": "_14",
-            "label": "Žarka Zrenjanina - Izvršno Veće",
-            "longitude": 19.8475593745,
-            "latitude": 45.2528535063,
-            "expected_arrival_seconds": 834
-        },
-        {
-            "id": "_15",
-            "label": "Bulevar Mihajla Pupina - Pothodnik",
-            "longitude": 19.844141,
-            "latitude": 45.253519,
-            "expected_arrival_seconds": 875
-        },
-        {
-            "id": "_16",
-            "label": "Uspenska - Šafarikova",
-            "longitude": 19.8416138869,
-            "latitude": 45.255083741,
-            "expected_arrival_seconds": 914
-        },
-        {
-            "id": "_17",
-            "label": "Bulevar Oslobođenja - Futoška Pijaca",
-            "longitude": 19.8368000824,
-            "latitude": 45.2525198464,
-            "expected_arrival_seconds": 983
-        },
-        {
-            "id": "_18",
-            "label": "Bulevar Oslobođenja - Pokrajinski Sup",
-            "longitude": 19.8351029309,
-            "latitude": 45.255629856,
-            "expected_arrival_seconds": 1037
-        },
-        {
-            "id": "_19",
-            "label": "Bulevar Kralja Petra Prvog - Bulevar Oslobođenja",
-            "longitude": 19.8314132035,
-            "latitude": 45.2605767651,
-            "expected_arrival_seconds": 1128
-        },
-        {
-            "id": "_20",
-            "label": "Bulevar Kralja Petra Prvog - Groblje",
-            "longitude": 19.8263471168,
-            "latitude": 45.2595168963,
-            "expected_arrival_seconds": 1189
-        },
-        {
-            "id": "_21",
-            "label": "Rumenačka - Dom Zdravlja",
-            "longitude": 19.8213763649,
-            "latitude": 45.260450059,
-            "expected_arrival_seconds": 1248
-        },
-        {
-            "id": "_22",
-            "label": "Rumenačka - Bulevar Jaše Tomića",
-            "longitude": 19.8182127414,
-            "latitude": 45.2633439588,
-            "expected_arrival_seconds": 1307
-        },
-        {
-            "id": "_23",
-            "label": "Kornelija Stankovića - Filipa Filipovića",
-            "longitude": 19.8156966528,
-            "latitude": 45.2634661042,
-            "expected_arrival_seconds": 1336
-        },
-        {
-            "id": "_24",
-            "label": "Kornelija Stankovića - Milenka Grčića",
-            "longitude": 19.8122424682,
-            "latitude": 45.2616253594,
-            "expected_arrival_seconds": 1386
-        },
-        {
-            "id": "_25",
-            "label": "Bulevar Vojvode Stepe - Bulevar Evrope",
-            "longitude": 19.807755,
-            "latitude": 45.260028,
-            "expected_arrival_seconds": 1444
-        },
-        {
-            "id": "_26",
-            "label": "Bulevar Slobodana Jovanovića - Bulevar Vojvode Stepe",
-            "longitude": 19.8015188427,
-            "latitude": 45.2569890699,
-            "expected_arrival_seconds": 1531
-        },
-        {
-            "id": "_27",
-            "label": "Bulevar Jovana Dučića - Bulevar Slobodana Jovanovića",
-            "longitude": 19.8031021067,
-            "latitude": 45.2529483166,
-            "expected_arrival_seconds": 1599
-        },
-        {
-            "id": "_28",
-            "label": "Bulevar Jovana Dučića - Braće Dronjak",
-            "longitude": 19.7983752275,
-            "latitude": 45.2513539058,
-            "expected_arrival_seconds": 1659
-        },
-        {
-            "id": "_29",
-            "label": "Bulevar Jovana Dučića - Igralište",
-            "longitude": 19.7947978105,
-            "latitude": 45.2500788277,
-            "expected_arrival_seconds": 1705
-        },
-        {
-            "id": "_30",
-            "label": "Bulevar Jovana Dučića - Bulevar Kneza Miloša",
-            "longitude": 19.7915144259,
-            "latitude": 45.2489713023,
-            "expected_arrival_seconds": 1747
-        },
-        {
-            "id": "_31",
-            "label": "Novo Naselje - Kružni Tok",
-            "longitude": 19.786933,
-            "latitude": 45.248251,
-            "expected_arrival_seconds": 1801
-        }
-    ]
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Novo Naselje - Kružni Tok",
+      "longitude": 19.787416,
+      "latitude": 45.247888,
+      "expected_arrival_seconds": 0
+    },
+    {
+      "id": "_2",
+      "label": "Bulevar Jovana Dučića - Bulevar Kneza Miloša",
+      "longitude": 19.791754249,
+      "latitude": 45.2489224745,
+      "expected_arrival_seconds": 51
+    },
+    {
+      "id": "_3",
+      "label": "Bulevar Jovana Dučića - Igralište",
+      "longitude": 19.7936823203,
+      "latitude": 45.2495765937,
+      "expected_arrival_seconds": 75
+    },
+    {
+      "id": "_4",
+      "label": "Bulevar Jovana Dučića - Bate Brkića",
+      "longitude": 19.7983862612,
+      "latitude": 45.2511237051,
+      "expected_arrival_seconds": 133
+    },
+    {
+      "id": "_5",
+      "label": "Bulevar Jovana Dučića - Robna Kuća",
+      "longitude": 19.8018919417,
+      "latitude": 45.2523770585,
+      "expected_arrival_seconds": 177
+    },
+    {
+      "id": "_6",
+      "label": "Bulevar Slobodana Jovanovića - Todora Toze Jovanovića",
+      "longitude": 19.8026436487,
+      "latitude": 45.2556482515,
+      "expected_arrival_seconds": 230
+    },
+    {
+      "id": "_7",
+      "label": "Bulevar Vojvode Stepe - Bulevar Slobodana Jovanovića",
+      "longitude": 19.8022341912,
+      "latitude": 45.2579092564,
+      "expected_arrival_seconds": 266
+    },
+    {
+      "id": "_8",
+      "label": "Kornelija Stankovića - Bulevar Evrope",
+      "longitude": 19.8096845247,
+      "latitude": 45.2604662935,
+      "expected_arrival_seconds": 359
+    },
+    {
+      "id": "_9",
+      "label": "Kornelija Stankovića - Ilije Birčanina",
+      "longitude": 19.8135399393,
+      "latitude": 45.2620111469,
+      "expected_arrival_seconds": 409
+    },
+    {
+      "id": "_10",
+      "label": "Rumenačka - Kornelija Stankovića",
+      "longitude": 19.8174016008,
+      "latitude": 45.2636389127,
+      "expected_arrival_seconds": 459
+    },
+    {
+      "id": "_11",
+      "label": "Rumenačka - Abc Samoposluga",
+      "longitude": 19.8204896166,
+      "latitude": 45.2609008436,
+      "expected_arrival_seconds": 514
+    },
+    {
+      "id": "_12",
+      "label": "Bulevar Kralja Petra Prvog - Sajam",
+      "longitude": 19.8244448578,
+      "latitude": 45.2591224024,
+      "expected_arrival_seconds": 566
+    },
+    {
+      "id": "_13",
+      "label": "Bulevar Kralja Petra Prvog - Mašinska Škola",
+      "longitude": 19.8274393446,
+      "latitude": 45.259428265,
+      "expected_arrival_seconds": 600
+    },
+    {
+      "id": "_14",
+      "label": "Bulevar Oslobođenja - Bulevar Kralja Petra Prvog",
+      "longitude": 19.8322222835,
+      "latitude": 45.2601777537,
+      "expected_arrival_seconds": 655
+    },
+    {
+      "id": "_15",
+      "label": "Bulevar Oslobođenja - Novosadskog Sajma",
+      "longitude": 19.8353175469,
+      "latitude": 45.2545506888,
+      "expected_arrival_seconds": 751
+    },
+    {
+      "id": "_16",
+      "label": "Jevrejska - Bulevar Oslobođenja",
+      "longitude": 19.8377609655,
+      "latitude": 45.2522080286,
+      "expected_arrival_seconds": 797
+    },
+    {
+      "id": "_17",
+      "label": "Uspenska - Šafarikova",
+      "longitude": 19.8416138869,
+      "latitude": 45.255083741,
+      "expected_arrival_seconds": 860
+    },
+    {
+      "id": "_18",
+      "label": "Bulevar Mihajla Pupina - Pothodnik",
+      "longitude": 19.844187,
+      "latitude": 45.253337,
+      "expected_arrival_seconds": 900
+    },
+    {
+      "id": "_19",
+      "label": "Žarka Zrenjanina - Opština",
+      "longitude": 19.8471827488,
+      "latitude": 45.2524025428,
+      "expected_arrival_seconds": 937
+    },
+    {
+      "id": "_20",
+      "label": "Bulevar Cara Lazara - Urbis",
+      "longitude": 19.8488525074,
+      "latitude": 45.2474414598,
+      "expected_arrival_seconds": 1018
+    },
+    {
+      "id": "_21",
+      "label": "Bulevar Cara Lazara - Bulevar Oslobođenja",
+      "longitude": 19.8407575757,
+      "latitude": 45.2437760634,
+      "expected_arrival_seconds": 1126
+    },
+    {
+      "id": "_22",
+      "label": "Bulevar Cara Lazara - Puškinova",
+      "longitude": 19.8359820245,
+      "latitude": 45.2425681438,
+      "expected_arrival_seconds": 1183
+    },
+    {
+      "id": "_23",
+      "label": "Bulevar Cara Lazara - Dom Zdravlja",
+      "longitude": 19.8302794061,
+      "latitude": 45.2413137447,
+      "expected_arrival_seconds": 1250
+    },
+    {
+      "id": "_24",
+      "label": "Bulevar Evrope - Cara Dušana",
+      "longitude": 19.82477,
+      "latitude": 45.239855,
+      "expected_arrival_seconds": 1316
+    },
+    {
+      "id": "_25",
+      "label": "Bulevar Patrijarha Pavla - Bulevar Evrope",
+      "longitude": 19.821792,
+      "latitude": 45.23977,
+      "expected_arrival_seconds": 1349
+    },
+    {
+      "id": "_26",
+      "label": "Bulevar Patrijarha Pavla - Subotička",
+      "longitude": 19.815733,
+      "latitude": 45.240393,
+      "expected_arrival_seconds": 1418
+    },
+    {
+      "id": "_27",
+      "label": "Bulevar Patrijarha Pavla - Vršačka",
+      "longitude": 19.8107038207,
+      "latitude": 45.2408800594,
+      "expected_arrival_seconds": 1475
+    },
+    {
+      "id": "_28",
+      "label": "Bulevar Patrijarha Pavla - Ilirska",
+      "longitude": 19.8064595317,
+      "latitude": 45.2413029105,
+      "expected_arrival_seconds": 1523
+    },
+    {
+      "id": "_29",
+      "label": "Bulevar Patrijarha Pavla - Ilariona Ruvarca",
+      "longitude": 19.8023266636,
+      "latitude": 45.2417062369,
+      "expected_arrival_seconds": 1570
+    },
+    {
+      "id": "_30",
+      "label": "Bulevar Patrijarha Pavla - Drvarska",
+      "longitude": 19.7984549409,
+      "latitude": 45.2420787039,
+      "expected_arrival_seconds": 1614
+    },
+    {
+      "id": "_31",
+      "label": "Bulevar Kneza Miloša - Futoški Put",
+      "longitude": 19.7946648286,
+      "latitude": 45.245098379,
+      "expected_arrival_seconds": 1678
+    },
+    {
+      "id": "_32",
+      "label": "Bulevar Kneza Miloša - Garaža Gsp-A",
+      "longitude": 19.7933548666,
+      "latitude": 45.2472193464,
+      "expected_arrival_seconds": 1715
+    },
+    {
+      "id": "_33",
+      "label": "Bulevar Jovana Dučića - Bulevar Kneza Miloša",
+      "longitude": 19.7915144259,
+      "latitude": 45.2489713023,
+      "expected_arrival_seconds": 1750
+    },
+    {
+      "id": "_34",
+      "label": "Novo Naselje - Kružni Tok",
+      "longitude": 19.786933,
+      "latitude": 45.248251,
+      "expected_arrival_seconds": 1803
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Bulevar Kneza Miloša - Bulevar Jovana Dučića",
+      "longitude": 19.7921260989,
+      "latitude": 45.2487632498,
+      "expected_arrival_seconds": 0
+    },
+    {
+      "id": "_2",
+      "label": "Bulevar Kneza Miloša - Garaža Gsp-A",
+      "longitude": 19.793176626,
+      "latitude": 45.2470681807,
+      "expected_arrival_seconds": 30
+    },
+    {
+      "id": "_3",
+      "label": "Bulevar Patrijarha Pavla - Futoški Put",
+      "longitude": 19.795029964,
+      "latitude": 45.2440339225,
+      "expected_arrival_seconds": 84
+    },
+    {
+      "id": "_4",
+      "label": "Bulevar Patrijarha Pavla - Drvarska",
+      "longitude": 19.7996161438,
+      "latitude": 45.2417500565,
+      "expected_arrival_seconds": 148
+    },
+    {
+      "id": "_5",
+      "label": "Bulevar Patrijarha Pavla - Prvomajska",
+      "longitude": 19.8036125161,
+      "latitude": 45.2413580417,
+      "expected_arrival_seconds": 194
+    },
+    {
+      "id": "_6",
+      "label": "Bulevar Patrijarha Pavla - Senteleki Kornela",
+      "longitude": 19.8076663846,
+      "latitude": 45.2409610249,
+      "expected_arrival_seconds": 241
+    },
+    {
+      "id": "_7",
+      "label": "Bulevar Patrijarha Pavla - Feješ Klare",
+      "longitude": 19.81195,
+      "latitude": 45.240548,
+      "expected_arrival_seconds": 291
+    },
+    {
+      "id": "_8",
+      "label": "Bulevar Patrijarha Pavla - Jožef Atile",
+      "longitude": 19.816809,
+      "latitude": 45.240038,
+      "expected_arrival_seconds": 347
+    },
+    {
+      "id": "_9",
+      "label": "Bulevar Cara Lazara - Ive Andrića",
+      "longitude": 19.8258641034,
+      "latitude": 45.2399480828,
+      "expected_arrival_seconds": 451
+    },
+    {
+      "id": "_10",
+      "label": "Bulevar Cara Lazara - Dom Zdravlja",
+      "longitude": 19.8317379566,
+      "latitude": 45.241465683,
+      "expected_arrival_seconds": 523
+    },
+    {
+      "id": "_11",
+      "label": "Bulevar Cara Lazara - Šekspirova",
+      "longitude": 19.8371533191,
+      "latitude": 45.2426706144,
+      "expected_arrival_seconds": 588
+    },
+    {
+      "id": "_12",
+      "label": "Bulevar Cara Lazara - Bulevar Oslobođenja",
+      "longitude": 19.8424535024,
+      "latitude": 45.2440216217,
+      "expected_arrival_seconds": 653
+    },
+    {
+      "id": "_13",
+      "label": "Stražilovska - Urbis",
+      "longitude": 19.8492059684,
+      "latitude": 45.2481301777,
+      "expected_arrival_seconds": 755
+    },
+    {
+      "id": "_14",
+      "label": "Žarka Zrenjanina - Izvršno Veće",
+      "longitude": 19.8475593745,
+      "latitude": 45.2528535063,
+      "expected_arrival_seconds": 834
+    },
+    {
+      "id": "_15",
+      "label": "Bulevar Mihajla Pupina - Pothodnik",
+      "longitude": 19.844141,
+      "latitude": 45.253519,
+      "expected_arrival_seconds": 875
+    },
+    {
+      "id": "_16",
+      "label": "Uspenska - Šafarikova",
+      "longitude": 19.8416138869,
+      "latitude": 45.255083741,
+      "expected_arrival_seconds": 914
+    },
+    {
+      "id": "_17",
+      "label": "Bulevar Oslobođenja - Futoška Pijaca",
+      "longitude": 19.8368000824,
+      "latitude": 45.2525198464,
+      "expected_arrival_seconds": 983
+    },
+    {
+      "id": "_18",
+      "label": "Bulevar Oslobođenja - Pokrajinski Sup",
+      "longitude": 19.8351029309,
+      "latitude": 45.255629856,
+      "expected_arrival_seconds": 1037
+    },
+    {
+      "id": "_19",
+      "label": "Bulevar Kralja Petra Prvog - Bulevar Oslobođenja",
+      "longitude": 19.8314132035,
+      "latitude": 45.2605767651,
+      "expected_arrival_seconds": 1128
+    },
+    {
+      "id": "_20",
+      "label": "Bulevar Kralja Petra Prvog - Groblje",
+      "longitude": 19.8263471168,
+      "latitude": 45.2595168963,
+      "expected_arrival_seconds": 1189
+    },
+    {
+      "id": "_21",
+      "label": "Rumenačka - Dom Zdravlja",
+      "longitude": 19.8213763649,
+      "latitude": 45.260450059,
+      "expected_arrival_seconds": 1248
+    },
+    {
+      "id": "_22",
+      "label": "Rumenačka - Bulevar Jaše Tomića",
+      "longitude": 19.8182127414,
+      "latitude": 45.2633439588,
+      "expected_arrival_seconds": 1307
+    },
+    {
+      "id": "_23",
+      "label": "Kornelija Stankovića - Filipa Filipovića",
+      "longitude": 19.8156966528,
+      "latitude": 45.2634661042,
+      "expected_arrival_seconds": 1336
+    },
+    {
+      "id": "_24",
+      "label": "Kornelija Stankovića - Milenka Grčića",
+      "longitude": 19.8122424682,
+      "latitude": 45.2616253594,
+      "expected_arrival_seconds": 1386
+    },
+    {
+      "id": "_25",
+      "label": "Bulevar Vojvode Stepe - Bulevar Evrope",
+      "longitude": 19.807755,
+      "latitude": 45.260028,
+      "expected_arrival_seconds": 1444
+    },
+    {
+      "id": "_26",
+      "label": "Bulevar Slobodana Jovanovića - Bulevar Vojvode Stepe",
+      "longitude": 19.8015188427,
+      "latitude": 45.2569890699,
+      "expected_arrival_seconds": 1531
+    },
+    {
+      "id": "_27",
+      "label": "Bulevar Jovana Dučića - Bulevar Slobodana Jovanovića",
+      "longitude": 19.8031021067,
+      "latitude": 45.2529483166,
+      "expected_arrival_seconds": 1599
+    },
+    {
+      "id": "_28",
+      "label": "Bulevar Jovana Dučića - Braće Dronjak",
+      "longitude": 19.7983752275,
+      "latitude": 45.2513539058,
+      "expected_arrival_seconds": 1659
+    },
+    {
+      "id": "_29",
+      "label": "Bulevar Jovana Dučića - Igralište",
+      "longitude": 19.7947978105,
+      "latitude": 45.2500788277,
+      "expected_arrival_seconds": 1705
+    },
+    {
+      "id": "_30",
+      "label": "Bulevar Jovana Dučića - Bulevar Kneza Miloša",
+      "longitude": 19.7915144259,
+      "latitude": 45.2489713023,
+      "expected_arrival_seconds": 1747
+    },
+    {
+      "id": "_31",
+      "label": "Novo Naselje - Kružni Tok",
+      "longitude": 19.786933,
+      "latitude": 45.248251,
+      "expected_arrival_seconds": 1801
+    }
+  ]
 }

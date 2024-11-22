@@ -95,10 +95,9 @@
     "direction_b": [
         {
             "id": "_1",
-            "label": "Železnička Stanica",
-            "longitude": 19.8295879176,
-            "latitude": 45.264478508,
-            "expected_arrival_seconds": 0
+            "label": "BULEVAR OSLOBOĐENJA - BULEVAR JAŠE TOMIĆA",
+            "longitude": 19.8304838937,
+            "latitude": 45.263325649
         },
         {
             "id": "_2",
