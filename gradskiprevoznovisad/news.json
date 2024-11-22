@@ -1,22 +1,44 @@
 [
     {
+        "date": "22.11.2024",
+        "title": "Linije 22, 23, 24 – Polazak sa stajališta u \"Potkovici\" od 23. 11.",
+        "sections": [
+            {
+                "text": "Od  23.11.2024.godine autobuske linije broj 22, 23 i 24 po važećem redu vožnje ponovo saobraćaju sa autobuskog stajališta u\" Potkovici\", koje se nalazi sa desne strane od ulaska u „Potkovicu“ (naspram polaznog stajališta za Futog, pre punjača za elektro autobuse) ."
+            },
+            {
+                "text": "Do navedenog datuma na snazi je privremeno, polazno stajalište Kisačka-Bulevar Jaše Tomića."
+            }
+        ],
+        "url": "http://www.gspns.co.rs/dokumenti/potkovica_2211.pdf"
+    },
+    {
         "date": "20.11.2024",
         "title": "Linija 9A privremeno preusmerena do okretnice u Petrovaradinu",
         "sections": [
             {
-                "text": "Zbog preusmeravanja železničkog saobraćaja na Železničku stanicu Petrovaradin, obaveštavamo putnike da je zbog rasterećenja postojećih linija autobusa linija 9A produžena do petrovaradinske okretnice. \n\nPodsećamo putnike da je na relaciji Šafarikova ulica - Železnička stanica Petrovaradin uvedena vanredna linija na kojoj je prevoz BESPLATAN, te da su građanima pored gradskih linija za prevoz do Železničke stanice Petrovaradin na raspolaganju i međumesne linije 60, 61, 62 i 63 koje kreću sa Međumesne autobuske stanice."
+                "text": "Zbog preusmeravanja železničkog saobraćaja na Železničku stanicu Petrovaradin, obaveštavamo putnike da je zbog rasterećenja postojećih linija autobusa, linija 9A u smeru od Alibegovca produžena do petrovaradinske okretnice linija 3 i 9, odakle dalje saobraća redovnom trasom do Novog naselja. \n\nPodsećamo putnike da je na relaciji Šafarikova ulica - Železnička stanica Petrovaradin uvedena vanredna linija na kojoj je prevoz BESPLATAN, te da su građanima pored gradskih linija za prevoz do Železničke stanice Petrovaradin na raspolaganju i međumesne linije 60, 61, 62 i 63 koje kreću sa Međumesne autobuske stanice."
+            }
+        ]
+    },
+    {
+        "date": "20.11.2024",
+        "title": "Linije 51, 52, 53, 54, 55, 56 – Od 21. 11. redovna polazna i dolazna stajališta",
+        "sections": [
+            {
+                "text": "Autobusi na linijama 51a, 52, 53, 54, 55, 56 od 21. 11. 2024. godine ponovo će koristiti redovna polazna i dolazna stajališta. \n\nNa navedenim linijama neće biti na snazi privremeno izmeštanje stajališta na Bulevar oslobođenja-Bulevar Kralja Petra I."
             }
         ]
     },
     {
         "date": "15.11.2024",
-        "title": "Autobusi ne saobraćaju sa Potkovice - privremena polazna stajališta",
+        "title": "Linije 41, 42, 43, 51b, 64, 68, 69, 71, 72, 73, 74, 76 - privremena polazna stajališta van \"Potkovice\"",
         "sections": [
             {
-                "text": "Zbog tragičnog događaja na Železničkoj stanici, podsećamo putnike da svi autobusi na linijama čije trase polaze, odnosno završavaju na Potkovici, saobraćaju sa redovnih stajališta na širem potezu oko Potkovice .\n\nMolimo putnike za razumevanje za novonastalu situaciju. Autobusi će ponovo saobraćati Potkovicom nakon što se za to steknu potrebni uslovi."
+                "text": "Zbog tragičnog događaja na Železničkoj stanici, iz \"Potkovice\" su izmeštene linije 41, 42,43, 51б, 64, 68, 69, 71, 72, 73, 74 i 76."
             },
             {
-                "text": "Linije koje su izmeštene iz Potkovice kao polazno stajalište koriste:"
+                "text": "Navedene linije kao polazno stajalište koriste:"
             }
         ]
     },
@@ -99,29 +121,5 @@
             }
         ],
         "url": "http://www.gspns.co.rs/dokumenti/cardak_0111.pdf"
-    },
-    {
-        "date": "04.10.2024",
-        "title": "Linije 3, 8 – Privremeno ukidanje stajališta Bulevar kralja Petra I/Sajam",
-        "sections": [
-            {
-                "text": "Zbog radova na vodovodno-kanalizacionom priključku na Bulevaru kralja Petra I u Novom Sadu, određuje se privremeno ukidanje stajališta Bulevar kralja Petra I/Sajam na linijama broj 3 Detelinara-Centar-Petrovaradin i broj 8 Novo naselje-Centar-Liman I."
-            },
-            {
-                "text": "Stajalište će biti ukinuto u periodu od 07.10.2024. do završetka radova."
-            }
-        ]
-    },
-    {
-        "date": "26.09.2024",
-        "title": "Linija 6 - Privremeno izmeštanje autobuskog stajališta",
-        "sections": [
-            {
-                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, od 27. 09. 2024. do 31. 10. 2025. godine privremeno će biti izmešteno autobusko stajalište „Vršačka-Adi Endrea“ u Vršačkoj ulici, ispred kućnog broja 58."
-            },
-            {
-                "text": "Stajalište se izmešta zbog radova na izgradnji stambenog objekta."
-            }
-        ]
     }
 ]
