@@ -1,72 +1,72 @@
 {
-  "direction_a": [
-    {
-      "id": "_",
-      "label": "PRERADOVIĆEVA - RAČKOG",
-      "longitude": 19.8830977084,
-      "latitude": 45.241791669
-    },
-    {
-      "id": "_",
-      "label": "TEKIJE - BENZINSKA PUMPA",
-      "longitude": 19.8936378798,
-      "latitude": 45.2312570434
-    },
-    {
-      "id": "_",
-      "label": "PETROVARADIN - ŽELEZNIČKA STANICA",
-      "longitude": 19.8857439999,
-      "latitude": 45.2389365212
-    },
-    {
-      "id": "_",
-      "label": "PRERADOVIĆEVA - OSNOVNA ŠKOLA JOVAN DUČIĆ",
-      "longitude": 19.8727083512,
-      "latitude": 45.2516407374
-    },
-    {
-      "id": "_",
-      "label": "BREZA - TOME MARETIĆA",
-      "longitude": 19.894552,
-      "latitude": 45.22373
-    }
-  ],
-  "direction_b": [
-    {
-      "id": "_",
-      "label": "BREZA - PAVLA RISTIĆA",
-      "longitude": 19.896569,
-      "latitude": 45.221418
-    },
-    {
-      "id": "_",
-      "label": "TEKIJE - NAVIP",
-      "longitude": 19.8914101033,
-      "latitude": 45.2332483189
-    },
-    {
-      "id": "_",
-      "label": "BREZA - TOME MARETIĆA",
-      "longitude": 19.894552,
-      "latitude": 45.22373
-    },
-    {
-      "id": "_",
-      "label": "PETROVARADIN - ŽELEZNIČKA STANICA",
-      "longitude": 19.8853872807,
-      "latitude": 45.2396101516
-    },
-    {
-      "id": "_",
-      "label": "PRERADOVIĆEVA - ŠENOINA",
-      "longitude": 19.8732154355,
-      "latitude": 45.251431704
-    },
-    {
-      "id": "_",
-      "label": "TEKIJE 2 - VINOGRADI",
-      "longitude": 19.9009328712,
-      "latitude": 45.2225249456
-    }
-  ]
+    "direction_a": [
+        {
+            "id": "_",
+            "label": "PRERADOVIĆEVA - RAČKOG",
+            "longitude": 19.8830977084,
+            "latitude": 45.241791669
+        },
+        {
+            "id": "_",
+            "label": "TEKIJE - BENZINSKA PUMPA",
+            "longitude": 19.8936378798,
+            "latitude": 45.2312570434
+        },
+        {
+            "id": "_",
+            "label": "PETROVARADIN - ŽELEZNIČKA STANICA",
+            "longitude": 19.8857439999,
+            "latitude": 45.2389365212
+        },
+        {
+            "id": "_1",
+            "label": "PRERADOVIĆEVA - OSNOVNA ŠKOLA JOVAN DUČIĆ",
+            "longitude": 19.8727083512,
+            "latitude": 45.2516407374
+        },
+        {
+            "id": "_",
+            "label": "BREZA - TOME MARETIĆA",
+            "longitude": 19.894552,
+            "latitude": 45.22373
+        }
+    ],
+    "direction_b": [
+        {
+            "id": "_",
+            "label": "BREZA - PAVLA RISTIĆA",
+            "longitude": 19.896569,
+            "latitude": 45.221418
+        },
+        {
+            "id": "_",
+            "label": "TEKIJE - NAVIP",
+            "longitude": 19.8914101033,
+            "latitude": 45.2332483189
+        },
+        {
+            "id": "_1",
+            "label": "BREZA - TOME MARETIĆA",
+            "longitude": 19.894552,
+            "latitude": 45.22373
+        },
+        {
+            "id": "_",
+            "label": "PETROVARADIN - ŽELEZNIČKA STANICA",
+            "longitude": 19.8853872807,
+            "latitude": 45.2396101516
+        },
+        {
+            "id": "_",
+            "label": "PRERADOVIĆEVA - ŠENOINA",
+            "longitude": 19.8732154355,
+            "latitude": 45.251431704
+        },
+        {
+            "id": "_",
+            "label": "TEKIJE 2 - VINOGRADI",
+            "longitude": 19.9009328712,
+            "latitude": 45.2225249456
+        }
+    ]
 }

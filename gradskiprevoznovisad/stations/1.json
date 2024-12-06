@@ -1,270 +1,270 @@
 {
-  "direction_a": [
-    {
-      "id": "_1",
-      "label": "Sentandrejski Put - Zmajevački Put",
-      "longitude": 19.8247023774,
-      "latitude": 45.3025717506
-    },
-    {
-      "id": "_2",
-      "label": "Sentandrejski Put - Savska",
-      "longitude": 19.8226695053,
-      "latitude": 45.2997652739
-    },
-    {
-      "id": "_3",
-      "label": "Sentandrejski Put - Velebitska",
-      "longitude": 19.8223251106,
-      "latitude": 45.295793932
-    },
-    {
-      "id": "_4",
-      "label": "Sentandrejski Put - Zelengorska",
-      "longitude": 19.8237880279,
-      "latitude": 45.2916390663
-    },
-    {
-      "id": "_5",
-      "label": "Sentandrejski Put - Dolinska",
-      "longitude": 19.8247619009,
-      "latitude": 45.2888681125
-    },
-    {
-      "id": "_6",
-      "label": "Sentandrejski Put - Otokara Keršovanija",
-      "longitude": 19.8256640401,
-      "latitude": 45.28628095
-    },
-    {
-      "id": "_7",
-      "label": "Sentandrejski Put - Most Kanal Dtd",
-      "longitude": 19.8268347377,
-      "latitude": 45.2828585422
-    },
-    {
-      "id": "_8",
-      "label": "Sentandrejski Put - Benzinska Pumpa",
-      "longitude": 19.8308548777,
-      "latitude": 45.2713036839
-    },
-    {
-      "id": "_9",
-      "label": "Sentandrejski Put - Partizanska",
-      "longitude": 19.8317437287,
-      "latitude": 45.2687779267
-    },
-    {
-      "id": "_10",
-      "label": "Kisačka - Bul. Jaše Tomića",
-      "longitude": 19.8354809218,
-      "latitude": 45.2656954001
-    },
-    {
-      "id": "_11",
-      "label": "Kisačka - Bul. Kralja Petra I",
-      "longitude": 19.8401023551,
-      "latitude": 45.2623699914
-    },
-    {
-      "id": "_12",
-      "label": "Kisačka - Vuka Karadžića",
-      "longitude": 19.8420940143,
-      "latitude": 45.2609612857
-    },
-    {
-      "id": "_13",
-      "label": "Uspenska - Šafarikova",
-      "longitude": 19.8416504854,
-      "latitude": 45.255203707
-    },
-    {
-      "id": "_14",
-      "label": "Bul. Mihajla Pupina - Pothodnik",
-      "longitude": 19.844187,
-      "latitude": 45.253337
-    },
-    {
-      "id": "_15",
-      "label": "Žarka Zrenjanina - Opština",
-      "longitude": 19.8471827488,
-      "latitude": 45.2524025428
-    },
-    {
-      "id": "_16",
-      "label": "Bul. Cara Lazara - Urbis",
-      "longitude": 19.8488525074,
-      "latitude": 45.2474414598
-    },
-    {
-      "id": "_17",
-      "label": "Fruškogorska - Narodnog Fronta",
-      "longitude": 19.8475310279,
-      "latitude": 45.2420582997
-    },
-    {
-      "id": "_18",
-      "label": "Štrand - Okretnica",
-      "longitude": 19.84777609,
-      "latitude": 45.2386999087
-    },
-    {
-      "id": "_",
-      "label": "BULEVAR EVROPE - OKRETNICA",
-      "longitude": 19.807564,
-      "latitude": 45.30128
-    },
-    {
-      "id": "_",
-      "label": "PROLETERSKA - DRAGE GARAŠANIN",
-      "longitude": 19.8140267639,
-      "latitude": 45.301786862
-    },
-    {
-      "id": "_",
-      "label": "PROLETERSKA - ZATVOR",
-      "longitude": 19.819219952,
-      "latitude": 45.3030527389
-    },
-    {
-      "id": "_",
-      "label": "PROLETERSKA 157",
-      "longitude": 19.823915,
-      "latitude": 45.303117
-    }
-  ],
-  "direction_b": [
-    {
-      "id": "_1",
-      "label": "Štrand - Okretnica",
-      "longitude": 19.848256,
-      "latitude": 45.239001
-    },
-    {
-      "id": "_2",
-      "label": "Fruškogorska - Dr. I. Đuričića",
-      "longitude": 19.847528317,
-      "latitude": 45.2429842112
-    },
-    {
-      "id": "_3",
-      "label": "Stražilovska - Urbis",
-      "longitude": 19.8492059684,
-      "latitude": 45.2481301777
-    },
-    {
-      "id": "_4",
-      "label": "Žarka Zrenjanina - Izvršno Veće",
-      "longitude": 19.8475593745,
-      "latitude": 45.2528535063
-    },
-    {
-      "id": "_5",
-      "label": "Bul. Mihajla Pupina - Pothodnik",
-      "longitude": 19.844141,
-      "latitude": 45.253519
-    },
-    {
-      "id": "_6",
-      "label": "Uspenska - Pozorišni Trg",
-      "longitude": 19.8419960985,
-      "latitude": 45.255185246
-    },
-    {
-      "id": "_7",
-      "label": "Kisačka - Temerinska",
-      "longitude": 19.8423966225,
-      "latitude": 45.2608711975
-    },
-    {
-      "id": "_8",
-      "label": "Kisačka - Dositejeva",
-      "longitude": 19.8390209306,
-      "latitude": 45.2632551971
-    },
-    {
-      "id": "_9",
-      "label": "Kisačka - Podvožnjak",
-      "longitude": 19.834665763,
-      "latitude": 45.2665045391
-    },
-    {
-      "id": "_10",
-      "label": "Sentandrejski Put - Partizanska",
-      "longitude": 19.8315959987,
-      "latitude": 45.2699357528
-    },
-    {
-      "id": "_11",
-      "label": "Sentandrejski Put - Teodora Mandića",
-      "longitude": 19.830315176,
-      "latitude": 45.2737069812
-    },
-    {
-      "id": "_12",
-      "label": "Sentandrejski Put - Primorska",
-      "longitude": 19.8263159471,
-      "latitude": 45.2848260115
-    },
-    {
-      "id": "_13",
-      "label": "Sentandrejski Put - Otokara Keršov.",
-      "longitude": 19.825474462,
-      "latitude": 45.2872651434
-    },
-    {
-      "id": "_14",
-      "label": "Sentandrejski Put - Sportska Hala",
-      "longitude": 19.8245477965,
-      "latitude": 45.2898775272
-    },
-    {
-      "id": "_15",
-      "label": "Sentandrejski Put - Zelengorska",
-      "longitude": 19.8237043193,
-      "latitude": 45.2922920477
-    },
-    {
-      "id": "_16",
-      "label": "Sentandrejski Put - Velebitska",
-      "longitude": 19.8226166593,
-      "latitude": 45.2953893559
-    },
-    {
-      "id": "_17",
-      "label": "Sentandrejski Put - Savska",
-      "longitude": 19.8226514651,
-      "latitude": 45.2993746126
-    },
-    {
-      "id": "_18",
-      "label": "Sentandrejski Put - Zmajevački Put",
-      "longitude": 19.8247023774,
-      "latitude": 45.3025717506
-    },
-    {
-      "id": "_",
-      "label": "BULEVAR EVROPE - OKRETNICA",
-      "longitude": 19.807564,
-      "latitude": 45.30128
-    },
-    {
-      "id": "_",
-      "label": "PROLETERSKA - IVECO",
-      "longitude": 19.8240177931,
-      "latitude": 45.303126713
-    },
-    {
-      "id": "_",
-      "label": "PROLETERSKA - ZATVOR",
-      "longitude": 19.8183800667,
-      "latitude": 45.3026601998
-    },
-    {
-      "id": "_",
-      "label": "PROLETERSKA - DRAGE GARAŠANIN",
-      "longitude": 19.8143882272,
-      "latitude": 45.3018931203
-    }
-  ]
+    "direction_a": [
+        {
+            "id": "_1",
+            "label": "Bulevar Evrope - Okretnica",
+            "longitude": 19.807564,
+            "latitude": 45.30128
+        },
+        {
+            "id": "_2",
+            "label": "Proleterska - Drage Garašanin",
+            "longitude": 19.8140267639,
+            "latitude": 45.301786862
+        },
+        {
+            "id": "_3",
+            "label": "Proleterska - Zatvor",
+            "longitude": 19.819219952,
+            "latitude": 45.3030527389
+        },
+        {
+            "id": "_4",
+            "label": "Proleterska 157",
+            "longitude": 19.823915,
+            "latitude": 45.303117
+        },
+        {
+            "id": "_5",
+            "label": "Sentandrejski Put - Zmajevački Put",
+            "longitude": 19.8247023774,
+            "latitude": 45.3025717506
+        },
+        {
+            "id": "_6",
+            "label": "Sentandrejski Put - Savska",
+            "longitude": 19.8226695053,
+            "latitude": 45.2997652739
+        },
+        {
+            "id": "_7",
+            "label": "Sentandrejski Put - Velebitska",
+            "longitude": 19.8223251106,
+            "latitude": 45.295793932
+        },
+        {
+            "id": "_8",
+            "label": "Sentandrejski Put - Zelengorska",
+            "longitude": 19.8237880279,
+            "latitude": 45.2916390663
+        },
+        {
+            "id": "_9",
+            "label": "Sentandrejski Put - Dolinska",
+            "longitude": 19.8247619009,
+            "latitude": 45.2888681125
+        },
+        {
+            "id": "_10",
+            "label": "Sentandrejski Put - Otokara Keršovanija",
+            "longitude": 19.8256640401,
+            "latitude": 45.28628095
+        },
+        {
+            "id": "_11",
+            "label": "Sentandrejski Put - Most Kanal Dtd",
+            "longitude": 19.8268347377,
+            "latitude": 45.2828585422
+        },
+        {
+            "id": "_12",
+            "label": "Sentandrejski Put - Benzinska Pumpa",
+            "longitude": 19.8308548777,
+            "latitude": 45.2713036839
+        },
+        {
+            "id": "_13",
+            "label": "Sentandrejski Put - Partizanska",
+            "longitude": 19.8317437287,
+            "latitude": 45.2687779267
+        },
+        {
+            "id": "_14",
+            "label": "Kisačka - Bul. Jaše Tomića",
+            "longitude": 19.8354809218,
+            "latitude": 45.2656954001
+        },
+        {
+            "id": "_15",
+            "label": "Kisačka - Bul. Kralja Petra I",
+            "longitude": 19.8401023551,
+            "latitude": 45.2623699914
+        },
+        {
+            "id": "_16",
+            "label": "Kisačka - Vuka Karadžića",
+            "longitude": 19.8420940143,
+            "latitude": 45.2609612857
+        },
+        {
+            "id": "_17",
+            "label": "Uspenska - Šafarikova",
+            "longitude": 19.8416504854,
+            "latitude": 45.255203707
+        },
+        {
+            "id": "_18",
+            "label": "Bul. Mihajla Pupina - Pothodnik",
+            "longitude": 19.844187,
+            "latitude": 45.253337
+        },
+        {
+            "id": "_19",
+            "label": "Žarka Zrenjanina - Opština",
+            "longitude": 19.8471827488,
+            "latitude": 45.2524025428
+        },
+        {
+            "id": "_20",
+            "label": "Bul. Cara Lazara - Urbis",
+            "longitude": 19.8488525074,
+            "latitude": 45.2474414598
+        },
+        {
+            "id": "_21",
+            "label": "Fruškogorska - Narodnog Fronta",
+            "longitude": 19.8475310279,
+            "latitude": 45.2420582997
+        },
+        {
+            "id": "_22",
+            "label": "Štrand - Okretnica",
+            "longitude": 19.84777609,
+            "latitude": 45.2386999087
+        }
+    ],
+    "direction_b": [
+        {
+            "id": "_1",
+            "label": "Štrand - Okretnica",
+            "longitude": 19.848256,
+            "latitude": 45.239001
+        },
+        {
+            "id": "_2",
+            "label": "Fruškogorska - Dr. I. Đuričića",
+            "longitude": 19.847528317,
+            "latitude": 45.2429842112
+        },
+        {
+            "id": "_3",
+            "label": "Stražilovska - Urbis",
+            "longitude": 19.8492059684,
+            "latitude": 45.2481301777
+        },
+        {
+            "id": "_4",
+            "label": "Žarka Zrenjanina - Izvršno Veće",
+            "longitude": 19.8475593745,
+            "latitude": 45.2528535063
+        },
+        {
+            "id": "_5",
+            "label": "Bul. Mihajla Pupina - Pothodnik",
+            "longitude": 19.844141,
+            "latitude": 45.253519
+        },
+        {
+            "id": "_6",
+            "label": "Uspenska - Pozorišni Trg",
+            "longitude": 19.8419960985,
+            "latitude": 45.255185246
+        },
+        {
+            "id": "_7",
+            "label": "Kisačka - Temerinska",
+            "longitude": 19.8423966225,
+            "latitude": 45.2608711975
+        },
+        {
+            "id": "_8",
+            "label": "Kisačka - Dositejeva",
+            "longitude": 19.8390209306,
+            "latitude": 45.2632551971
+        },
+        {
+            "id": "_9",
+            "label": "Kisačka - Podvožnjak",
+            "longitude": 19.834665763,
+            "latitude": 45.2665045391
+        },
+        {
+            "id": "_10",
+            "label": "Sentandrejski Put - Partizanska",
+            "longitude": 19.8315959987,
+            "latitude": 45.2699357528
+        },
+        {
+            "id": "_11",
+            "label": "Sentandrejski Put - Teodora Mandića",
+            "longitude": 19.830315176,
+            "latitude": 45.2737069812
+        },
+        {
+            "id": "_12",
+            "label": "Sentandrejski Put - Primorska",
+            "longitude": 19.8263159471,
+            "latitude": 45.2848260115
+        },
+        {
+            "id": "_13",
+            "label": "Sentandrejski Put - Otokara Keršov.",
+            "longitude": 19.825474462,
+            "latitude": 45.2872651434
+        },
+        {
+            "id": "_14",
+            "label": "Sentandrejski Put - Sportska Hala",
+            "longitude": 19.8245477965,
+            "latitude": 45.2898775272
+        },
+        {
+            "id": "_15",
+            "label": "Sentandrejski Put - Zelengorska",
+            "longitude": 19.8237043193,
+            "latitude": 45.2922920477
+        },
+        {
+            "id": "_16",
+            "label": "Sentandrejski Put - Velebitska",
+            "longitude": 19.8226166593,
+            "latitude": 45.2953893559
+        },
+        {
+            "id": "_17",
+            "label": "Sentandrejski Put - Savska",
+            "longitude": 19.8226514651,
+            "latitude": 45.2993746126
+        },
+        {
+            "id": "_18",
+            "label": "Sentandrejski Put - Zmajevački Put",
+            "longitude": 19.8247023774,
+            "latitude": 45.3025717506
+        },
+        {
+            "id": "_19",
+            "label": "Proleterska - Iveco",
+            "longitude": 19.8240177931,
+            "latitude": 45.303126713
+        },
+        {
+            "id": "_20",
+            "label": "Proleterska - Zatvor",
+            "longitude": 19.8183800667,
+            "latitude": 45.3026601998
+        },
+        {
+            "id": "_21",
+            "label": "Proleterska - Drage Garašanin",
+            "longitude": 19.8143882272,
+            "latitude": 45.3018931203
+        },
+        {
+            "id": "_22",
+            "label": "Bulevar Evrope - Okretnica",
+            "longitude": 19.807564,
+            "latitude": 45.30128
+        }
+    ]
 }
