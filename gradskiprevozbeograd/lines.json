@@ -12987,6 +12987,7 @@
     },
     {
         "id": "24",
+        "type": "BUS",
         "title": "Dorćol /SRC Milan Gale Muškatirović/ - Neimar",
         "info": [
             "Važi od: 01-12-2024"
@@ -15390,6 +15391,7 @@
     },
     {
         "id": "26L",
+        "type": "BUS",
         "title": "Medaković 3 - Vojvode Vlahovića /terminus/",
         "info": [
             "Važi od: 01-10-2024"
@@ -22672,6 +22674,7 @@
     },
     {
         "id": "34",
+        "type": "BUS",
         "title": "Topčidersko brdo (Senjak) - Pere Velimirovića",
         "info": [
             "Važi od: 01-10-2024"
@@ -38701,6 +38704,7 @@
     },
     {
         "id": "60",
+        "type": "BUS",
         "title": "Zeleni Venac - Novi Beograd /Toplana/",
         "info": [
             "Važi od: 16-09-2023"
@@ -38744,6 +38748,7 @@
     },
     {
         "id": "60L",
+        "type": "BUS",
         "title": "Zeleni Venac - Novi Beograd /Toplana/",
         "info": [
             "Važi od: 01-10-2024"
@@ -39133,6 +39138,7 @@
     },
     {
         "id": "64",
+        "type": "BUS",
         "title": "Zvezdara (Zeleno brdo) - Šumice",
         "info": [
             "Važi od: 01-10-2024"
@@ -40082,6 +40088,7 @@
     },
     {
         "id": "66",
+        "type": "BUS",
         "title": "Vukov spomenik - Naučno-težnološki park Zvezdar",
         "info": [
             "Važi od: 14-10-2024"
@@ -47823,6 +47830,7 @@
     },
     {
         "id": "87A",
+        "type": "BUS",
         "title": "Čukarička padina (Banovo brdo) - Čukarička Padina",
         "info": [
             "Važi od: 16-09-2023"
@@ -59890,6 +59898,7 @@
     },
     {
         "id": "309L",
+        "type": "BUS",
         "title": "Kaluđerica (Put za institut) - Kaluđerica ((Višnjićeva)",
         "info": [
             "Važi od: 01-10-2024"
@@ -60155,6 +60164,7 @@
     },
     {
         "id": "310",
+        "type": "BUS",
         "title": "Šumice - Mali mokri lug",
         "info": [
             "Važi od: 14-10-2024"
@@ -60859,6 +60869,7 @@
     },
     {
         "id": "312",
+        "type": "BUS",
         "title": "MZ Veliki mokri lug - Kumodraž - MZ Veliki mokri lug",
         "info": [
             "Važi od: 07-10-2024"
@@ -60989,6 +61000,7 @@
     },
     {
         "id": "313",
+        "type": "BUS",
         "title": "Mirijevo 4 - Kaluđerica - Leštane (Ravan)",
         "info": [
             "Važi od: 16-09-2023"
@@ -63127,6 +63139,7 @@
     },
     {
         "id": "405L",
+        "type": "BUS",
         "title": "Glumčevo brdo - Nenadovac - Karalula - Barajevo - Karaula - Glumčevo brdo",
         "info": [
             "Važi od: 14-10-2024"
@@ -63233,6 +63246,7 @@
     },
     {
         "id": "406",
+        "type": "BUS",
         "title": "Voždovac - Institut",
         "info": [
             "Važi od: 14-10-2024"
@@ -63360,6 +63374,7 @@
     },
     {
         "id": "406L",
+        "type": "BUS",
         "title": "Voždovac - Zemljoradnička - Beli potok /Igralište/",
         "info": [
             "Važi od: 01-10-2024"
@@ -63771,6 +63786,7 @@
     },
     {
         "id": "407L",
+        "type": "BUS",
         "title": "Bela reka - Trebež (okretnica)",
         "info": [
             "Važi od: 01-10-2024"
@@ -64126,6 +64142,7 @@
     },
     {
         "id": "409",
+        "type": "BUS",
         "title": "Voždovac-Jajinci-Ulica Ruža - Voždovac",
         "info": [
             "Važi od: 14-10-2024"
@@ -65915,6 +65932,7 @@
     },
     {
         "id": "501",
+        "type": "BUS",
         "title": "Petlovo brdo - Staro Kijevo",
         "info": [
             "Važi od: 14-10-2024"
@@ -66906,6 +66924,7 @@
     },
     {
         "id": "505",
+        "type": "BUS",
         "title": "Miljakovac 1 - Miljakovačke livade",
         "info": [
             "Važi od: 14-10-2024"
@@ -67464,6 +67483,7 @@
     },
     {
         "id": "506",
+        "type": "BUS",
         "title": "Miljakovac 1 - Resnik (Patin majdan)",
         "info": [
             "Važi od: 14-10-2024"
@@ -67797,6 +67817,7 @@
     },
     {
         "id": "507",
+        "type": "BUS",
         "title": "Kneževac - Rušanj (Drobnjački kraj)",
         "info": [
             "Važi od: 14-10-2024"
@@ -69072,6 +69093,7 @@
     },
     {
         "id": "513",
+        "type": "BUS",
         "title": "Cremčica /Naselje Gorica/ - Velika Moštanica",
         "info": [
             "Važi od: 14-10-2024"
@@ -69469,6 +69491,7 @@
     },
     {
         "id": "522",
+        "type": "BUS",
         "title": "Novi Železnik - Milorada Ćirića - Novi Železnik",
         "info": [
             "Važi od: 14-10-2024"
@@ -75554,6 +75577,7 @@
     },
     {
         "id": "613",
+        "type": "BUS",
         "title": "Novi Beograd /Paviljoni/ - Radiofar",
         "info": [
             "Važi od: 30-09-2024"
@@ -79729,6 +79753,7 @@
     },
     {
         "id": "860BL",
+        "type": "BUS",
         "title": "Industrijska zona Barič - Lazarevac",
         "info": [
             "Važi od: 16-09-2023"
@@ -79858,6 +79883,7 @@
     },
     {
         "id": "860D",
+        "type": "BUS",
         "title": "Banovo brdo - Veverički kraj - Draževac",
         "info": [
             "Važi od: 16-09-2023"
@@ -80336,6 +80362,7 @@
     },
     {
         "id": "860G",
+        "type": "BUS",
         "title": "AS Obrenovac - Grabovac (Donji kraj) - Dren (Iverić)",
         "info": [
             "Važi od: 01-01-2024"
@@ -81230,6 +81257,7 @@
     },
     {
         "id": "860R",
+        "type": "BUS",
         "title": "Industrijska zona Barič - Rvati - Trstenica - Industrijska zona Barič",
         "info": [
             "Važi od: 16-09-2023"
@@ -81386,6 +81414,7 @@
     },
     {
         "id": "860Š",
+        "type": "BUS",
         "title": "Sremčica - Veverički kraj - Šumadija - Vis - Mislođin - Industrijska zona Barič",
         "info": [
             "Važi od: 16-09-2023"
@@ -81941,6 +81970,7 @@
     },
     {
         "id": "860Z",
+        "type": "BUS",
         "title": "Duboko - Mala Moštanica - Zabrežje",
         "info": [
             "Važi od: 16-09-2023"
@@ -86360,6 +86390,7 @@
     },
     {
         "id": "4444",
+        "type": "BUS",
         "title": "Sopot - Senja - Đurinci -  Ropočevo",
         "info": [
             "Važi od: 16-09-2023"
@@ -86397,6 +86428,7 @@
     },
     {
         "id": "5519",
+        "type": "BUS",
         "title": "Barajevo - Baćevac",
         "info": [
             "Važi od: 16-09-2023"
@@ -86691,6 +86723,7 @@
     },
     {
         "id": "5524",
+        "type": "BUS",
         "title": "Barajevo - Guncati",
         "info": [
             "Važi od: 09-11-2023"
@@ -86996,6 +87029,7 @@
     },
     {
         "id": "5528",
+        "type": "BUS",
         "title": "Barajevo - Šiljakovac",
         "info": [
             "Važi od: 16-09-2023"
@@ -87285,6 +87319,7 @@
     },
     {
         "id": "5533B",
+        "type": "BUS",
         "title": "Barajevo - Trebež - Stara Lipovica - Glumčevo brdo - Nenadovac - Barajevo",
         "info": [
             "Važi od: 01-11-2023"
@@ -87765,6 +87800,7 @@
     },
     {
         "id": "860U1",
+        "type": "BUS",
         "title": "AS Obrenovac - Staro Ušće",
         "info": [
             "Važi od: 16-09-2023"
@@ -87850,6 +87886,7 @@
     },
     {
         "id": "860U2",
+        "type": "BUS",
         "title": "Industrijska zona Barič - Ušće (Gola bara)",
         "info": [
             "Važi od: 16-09-2023"
