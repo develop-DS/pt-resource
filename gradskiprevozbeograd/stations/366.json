@@ -2,80 +2,6 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Trajna jaruga - Okretnica",
-      "longitude": 20.7650318277442,
-      "latitude": 44.6223936370169
-    },
-    {
-      "id": "_2",
-      "label": "Kamendol - Centar",
-      "longitude": 20.7555618286133,
-      "latitude": 44.614086151123
-    },
-    {
-      "id": "_3",
-      "label": "Kamendol izlaz - Pesak",
-      "longitude": 20.7454319000244,
-      "latitude": 44.6107368469238
-    },
-    {
-      "id": "_4",
-      "label": "Kamendol R",
-      "longitude": 20.7285003662109,
-      "latitude": 44.6149711608887
-    },
-    {
-      "id": "_5",
-      "label": "Pudarci - Trafo",
-      "longitude": 20.7239484482364,
-      "latitude": 44.6131281982904
-    },
-    {
-      "id": "_6",
-      "label": "Pudarci - Prodavnica",
-      "longitude": 20.7247906527284,
-      "latitude": 44.6077893513067
-    },
-    {
-      "id": "_7",
-      "label": "Pudarci čokanj",
-      "longitude": 20.7256355285645,
-      "latitude": 44.5996475219727
-    },
-    {
-      "id": "_8",
-      "label": "Umčari - Čekerac",
-      "longitude": 20.7279020365093,
-      "latitude": 44.5927057941452
-    },
-    {
-      "id": "_9",
-      "label": "Umčari centar odlazna",
-      "longitude": 20.7358762757279,
-      "latitude": 44.5832541357701
-    },
-    {
-      "id": "_10",
-      "label": "Umčari - Ambulanta",
-      "longitude": 20.7388896942139,
-      "latitude": 44.5793876647949
-    },
-    {
-      "id": "_11",
-      "label": "Umčari R AP",
-      "longitude": 20.7445585655479,
-      "latitude": 44.5755931153783
-    },
-    {
-      "id": "_12",
-      "label": "Šumice",
-      "longitude": 20.500804979919,
-      "latitude": 44.7839063581867
-    }
-  ],
-  "direction_b": [
-    {
-      "id": "_1",
       "label": "Šumice",
       "longitude": 20.500804979919,
       "latitude": 44.7839063581867
@@ -145,6 +71,80 @@
       "label": "Trajna jaruga - Okretnica",
       "longitude": 20.7651284306581,
       "latitude": 44.6223630919457
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Trajna jaruga - Okretnica",
+      "longitude": 20.7650318277442,
+      "latitude": 44.6223936370169
+    },
+    {
+      "id": "_2",
+      "label": "Kamendol - Centar",
+      "longitude": 20.7555618286133,
+      "latitude": 44.614086151123
+    },
+    {
+      "id": "_3",
+      "label": "Kamendol izlaz - Pesak",
+      "longitude": 20.7454319000244,
+      "latitude": 44.6107368469238
+    },
+    {
+      "id": "_4",
+      "label": "Kamendol R",
+      "longitude": 20.7285003662109,
+      "latitude": 44.6149711608887
+    },
+    {
+      "id": "_5",
+      "label": "Pudarci - Trafo",
+      "longitude": 20.7239484482364,
+      "latitude": 44.6131281982904
+    },
+    {
+      "id": "_6",
+      "label": "Pudarci - Prodavnica",
+      "longitude": 20.7247906527284,
+      "latitude": 44.6077893513067
+    },
+    {
+      "id": "_7",
+      "label": "Pudarci čokanj",
+      "longitude": 20.7256355285645,
+      "latitude": 44.5996475219727
+    },
+    {
+      "id": "_8",
+      "label": "Umčari - Čekerac",
+      "longitude": 20.7279020365093,
+      "latitude": 44.5927057941452
+    },
+    {
+      "id": "_9",
+      "label": "Umčari centar odlazna",
+      "longitude": 20.7358762757279,
+      "latitude": 44.5832541357701
+    },
+    {
+      "id": "_10",
+      "label": "Umčari - Ambulanta",
+      "longitude": 20.7388896942139,
+      "latitude": 44.5793876647949
+    },
+    {
+      "id": "_11",
+      "label": "Umčari R AP",
+      "longitude": 20.7445585655479,
+      "latitude": 44.5755931153783
+    },
+    {
+      "id": "_12",
+      "label": "Šumice",
+      "longitude": 20.500804979919,
+      "latitude": 44.7839063581867
     }
   ]
 }

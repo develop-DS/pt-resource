@@ -1,5 +1,6 @@
 {
-  "direction_a": [
+  "direction_a": [],
+  "direction_b": [
     {
       "id": "_1",
       "label": "Žuto brdo",
@@ -126,6 +127,5 @@
       "longitude": 20.413362884315,
       "latitude": 44.8057246427
     }
-  ],
-  "direction_b": []
+  ]
 }

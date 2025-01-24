@@ -1,5 +1,6 @@
 {
-  "direction_a": [
+  "direction_a": [],
+  "direction_b": [
     {
       "longitude": 20.354775,
       "latitude": 44.353788
@@ -7848,6 +7849,5 @@
       "longitude": 20.413079,
       "latitude": 44.805705
     }
-  ],
-  "direction_b": []
+  ]
 }

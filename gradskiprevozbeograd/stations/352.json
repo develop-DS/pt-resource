@@ -2,80 +2,6 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Umčari - Šefkać",
-      "longitude": 20.715435141481,
-      "latitude": 44.5786232555827
-    },
-    {
-      "id": "_2",
-      "label": "Dražanj - Okretnica",
-      "longitude": 20.6720638392493,
-      "latitude": 44.584572264422
-    },
-    {
-      "id": "_3",
-      "label": "Dražanj - Škola",
-      "longitude": 20.6821113855307,
-      "latitude": 44.5848206041555
-    },
-    {
-      "id": "_4",
-      "label": "Dražanj - Centar",
-      "longitude": 20.6889456175458,
-      "latitude": 44.584809142345
-    },
-    {
-      "id": "_5",
-      "label": "Dražanj - Ulaz",
-      "longitude": 20.6946601867676,
-      "latitude": 44.581600189209
-    },
-    {
-      "id": "_6",
-      "label": "Dražanj - Izlaz",
-      "longitude": 20.7012220883399,
-      "latitude": 44.57886397874
-    },
-    {
-      "id": "_7",
-      "label": "Umčari izlaz",
-      "longitude": 20.7229882856004,
-      "latitude": 44.5790817750236
-    },
-    {
-      "id": "_8",
-      "label": "Umčari - Crkva",
-      "longitude": 20.7289910438317,
-      "latitude": 44.5835330466445
-    },
-    {
-      "id": "_9",
-      "label": "Umčari centar dolazna",
-      "longitude": 20.7360452224914,
-      "latitude": 44.5830382654761
-    },
-    {
-      "id": "_10",
-      "label": "Umčari - Ambulanta",
-      "longitude": 20.7388896942139,
-      "latitude": 44.5793876647949
-    },
-    {
-      "id": "_11",
-      "label": "Umčari R AP",
-      "longitude": 20.7445585655479,
-      "latitude": 44.5755931153783
-    },
-    {
-      "id": "_12",
-      "label": "Šumice",
-      "longitude": 20.500804979919,
-      "latitude": 44.7839063581867
-    }
-  ],
-  "direction_b": [
-    {
-      "id": "_1",
       "label": "Šumice",
       "longitude": 20.500804979919,
       "latitude": 44.7839063581867
@@ -145,6 +71,80 @@
       "label": "Dražanj - Okretnica",
       "longitude": 20.6719493865967,
       "latitude": 44.5846176147461
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Umčari - Šefkać",
+      "longitude": 20.715435141481,
+      "latitude": 44.5786232555827
+    },
+    {
+      "id": "_2",
+      "label": "Dražanj - Okretnica",
+      "longitude": 20.6720638392493,
+      "latitude": 44.584572264422
+    },
+    {
+      "id": "_3",
+      "label": "Dražanj - Škola",
+      "longitude": 20.6821113855307,
+      "latitude": 44.5848206041555
+    },
+    {
+      "id": "_4",
+      "label": "Dražanj - Centar",
+      "longitude": 20.6889456175458,
+      "latitude": 44.584809142345
+    },
+    {
+      "id": "_5",
+      "label": "Dražanj - Ulaz",
+      "longitude": 20.6946601867676,
+      "latitude": 44.581600189209
+    },
+    {
+      "id": "_6",
+      "label": "Dražanj - Izlaz",
+      "longitude": 20.7012220883399,
+      "latitude": 44.57886397874
+    },
+    {
+      "id": "_7",
+      "label": "Umčari izlaz",
+      "longitude": 20.7229882856004,
+      "latitude": 44.5790817750236
+    },
+    {
+      "id": "_8",
+      "label": "Umčari - Crkva",
+      "longitude": 20.7289910438317,
+      "latitude": 44.5835330466445
+    },
+    {
+      "id": "_9",
+      "label": "Umčari centar dolazna",
+      "longitude": 20.7360452224914,
+      "latitude": 44.5830382654761
+    },
+    {
+      "id": "_10",
+      "label": "Umčari - Ambulanta",
+      "longitude": 20.7388896942139,
+      "latitude": 44.5793876647949
+    },
+    {
+      "id": "_11",
+      "label": "Umčari R AP",
+      "longitude": 20.7445585655479,
+      "latitude": 44.5755931153783
+    },
+    {
+      "id": "_12",
+      "label": "Šumice",
+      "longitude": 20.500804979919,
+      "latitude": 44.7839063581867
     }
   ]
 }
