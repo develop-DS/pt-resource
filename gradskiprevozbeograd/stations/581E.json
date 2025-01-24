@@ -3,71 +3,83 @@
     {
       "id": "_1",
       "label": "BAS",
-      "longitude": 20.4543059627735,
-      "latitude": 44.8101721002059
+      "longitude": 20.413362884315,
+      "latitude": 44.8057246427
     },
     {
       "id": "_2",
-      "label": "Palata pravde 1",
-      "longitude": 20.4515238525443,
-      "latitude": 44.8029928139838
+      "label": "Sava centar",
+      "longitude": 20.4310428058399,
+      "latitude": 44.8071624502829
     },
     {
       "id": "_3",
+      "label": "Sajam",
+      "longitude": 20.4415906546322,
+      "latitude": 44.7964130286058
+    },
+    {
+      "id": "_4",
+      "label": "Čukarica",
+      "longitude": 20.4145017152671,
+      "latitude": 44.7863856515716
+    },
+    {
+      "id": "_5",
       "label": "Žarkovo",
       "longitude": 20.4151557283503,
       "latitude": 44.7585334682741
     },
     {
-      "id": "_4",
+      "id": "_6",
       "label": "Meljak",
       "longitude": 20.372314453125,
       "latitude": 44.6250419616699
     },
     {
-      "id": "_5",
+      "id": "_7",
       "label": "Baćevac R Ibarska",
       "longitude": 20.3598278632504,
       "latitude": 44.6108101755115
     },
     {
-      "id": "_6",
+      "id": "_8",
       "label": "Šiljakovac R",
       "longitude": 20.3307420554641,
       "latitude": 44.5819321564382
     },
     {
-      "id": "_7",
+      "id": "_9",
       "label": "Stepojevac",
       "longitude": 20.2946716148953,
       "latitude": 44.5125854846983
     },
     {
-      "id": "_8",
+      "id": "_10",
       "label": "Veliki crljeni - Dom",
       "longitude": 20.2840607998846,
       "latitude": 44.4674135894041
     },
     {
-      "id": "_9",
+      "id": "_11",
       "label": "Vreoci - Zavod",
       "longitude": 20.2790879869391,
       "latitude": 44.4286045889612
     },
     {
-      "id": "_10",
+      "id": "_12",
       "label": "Lazarevac - Rampa",
       "longitude": 20.2538108466146,
       "latitude": 44.3866608333294
     },
     {
-      "id": "_11",
+      "id": "_13",
       "label": "Lazarevac (centar)",
       "longitude": 20.259395234033,
       "latitude": 44.3803848874534
     },
     {
-      "id": "_12",
+      "id": "_14",
       "label": "Lazarevac AS",
       "longitude": 20.2646310995547,
       "latitude": 44.3789586165643
@@ -136,15 +148,21 @@
     },
     {
       "id": "_11",
-      "label": "Palata pravde 1",
-      "longitude": 20.451327814778,
-      "latitude": 44.8034058554644
+      "label": "Čukarica",
+      "longitude": 20.4151354377319,
+      "latitude": 44.786451881637
     },
     {
       "id": "_12",
+      "label": "Sajam",
+      "longitude": 20.4420563488721,
+      "latitude": 44.7963250729334
+    },
+    {
+      "id": "_13",
       "label": "BAS",
-      "longitude": 20.4543059627735,
-      "latitude": 44.8101721002059
+      "longitude": 20.413362884315,
+      "latitude": 44.8057246427
     }
   ]
 }

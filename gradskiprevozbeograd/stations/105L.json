@@ -2,126 +2,162 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Borča 3",
-      "longitude": 20.4487321036547,
-      "latitude": 44.8747575091995
+      "label": "Zemun (Bačka)",
+      "longitude": 20.3797251982401,
+      "latitude": 44.8485712816992
     },
     {
       "id": "_2",
-      "label": "Bele Bartoka",
-      "longitude": 20.4518386123245,
-      "latitude": 44.8776414096
+      "label": "Bačka",
+      "longitude": 20.3793491284847,
+      "latitude": 44.8506139254291
     },
     {
       "id": "_3",
-      "label": "Kombinatova",
-      "longitude": 20.4529338648228,
-      "latitude": 44.8806848411228
+      "label": "Banatska",
+      "longitude": 20.3779253341391,
+      "latitude": 44.8583331448915
     },
     {
       "id": "_4",
+      "label": "Groblje Zbeg",
+      "longitude": 20.4529223276776,
+      "latitude": 44.8990813655596
+    },
+    {
+      "id": "_5",
+      "label": "Mali zbeg",
+      "longitude": 20.4564027458025,
+      "latitude": 44.8938512616383
+    },
+    {
+      "id": "_6",
+      "label": "Pretok",
+      "longitude": 20.4581746603036,
+      "latitude": 44.8912048199244
+    },
+    {
+      "id": "_7",
+      "label": "Zrenjaninski put",
+      "longitude": 20.4598023501255,
+      "latitude": 44.8871717620513
+    },
+    {
+      "id": "_8",
+      "label": "Drinske divizije",
+      "longitude": 20.4578940758053,
+      "latitude": 44.8854672736455
+    },
+    {
+      "id": "_9",
+      "label": "Save Mrkalja",
+      "longitude": 20.454957197326,
+      "latitude": 44.882775135379
+    },
+    {
+      "id": "_10",
       "label": "Mihajla Šolohova",
       "longitude": 20.4563793559971,
       "latitude": 44.879061523216
     },
     {
-      "id": "_5",
+      "id": "_11",
       "label": "Milana Ajvaza",
       "longitude": 20.4590020770869,
       "latitude": 44.8774234252863
     },
     {
-      "id": "_6",
+      "id": "_12",
       "label": "Valjevskog odreda",
       "longitude": 20.4628655275921,
       "latitude": 44.8754563026721
     },
     {
-      "id": "_7",
+      "id": "_13",
       "label": "Popova bara",
       "longitude": 20.4694618821182,
       "latitude": 44.881027033668
     },
     {
-      "id": "_8",
+      "id": "_14",
       "label": "Mihaila Petrovića",
       "longitude": 20.4726671988003,
       "latitude": 44.8815475749535
     },
     {
-      "id": "_9",
+      "id": "_15",
       "label": "Put za Ovču",
       "longitude": 20.4769608545235,
       "latitude": 44.8812612443177
     },
     {
-      "id": "_10",
+      "id": "_16",
       "label": "Mirgorodska",
       "longitude": 20.4828687157376,
       "latitude": 44.8813600125448
     },
     {
-      "id": "_11",
+      "id": "_17",
       "label": "Branislava Cige Jerinića",
       "longitude": 20.4917152998459,
       "latitude": 44.8820924864876
     },
     {
-      "id": "_12",
+      "id": "_18",
       "label": "Efeska",
       "longitude": 20.4966424344398,
       "latitude": 44.8826091673597
     },
     {
-      "id": "_13",
+      "id": "_19",
       "label": "Vojvođanski salaši",
       "longitude": 20.5041151940666,
       "latitude": 44.8835776318719
     },
     {
-      "id": "_14",
+      "id": "_20",
       "label": "Atovi",
       "longitude": 20.510690535986,
       "latitude": 44.8844157939792
     },
     {
-      "id": "_15",
+      "id": "_21",
       "label": "Agro-koka",
       "longitude": 20.5153388105037,
       "latitude": 44.885020473175
     },
     {
-      "id": "_16",
+      "id": "_22",
       "label": "Ovča (izlaz)",
       "longitude": 20.5233382296281,
       "latitude": 44.8863678766631
     },
     {
-      "id": "_17",
+      "id": "_23",
       "label": "Ovča (ulaz)",
       "longitude": 20.5301461277611,
       "latitude": 44.8870132960377
     },
     {
-      "id": "_18",
+      "id": "_24",
       "label": "Ovča (centar)",
       "longitude": 20.5348282971214,
       "latitude": 44.8881788833171
     },
     {
-      "id": "_19",
+      "id": "_25",
       "label": "Njegoševa",
       "longitude": 20.5361988423278,
       "latitude": 44.8855458005601
     },
     {
-      "id": "_20",
+      "id": "_26",
       "label": "Železnička rampa",
       "longitude": 20.5390814449843,
       "latitude": 44.875800237906
     },
     {
-      "id": "_21",
+      "id": "_27",
       "label": "Ovča (Železnička stanica)",
       "longitude": 20.5434995698431,
       "latitude": 44.8753625142111
@@ -268,21 +304,51 @@
     },
     {
       "id": "_24",
-      "label": "Kombinatova",
-      "longitude": 20.4520965351724,
-      "latitude": 44.8800832843137
+      "label": "Save Mrkalja",
+      "longitude": 20.4549161232786,
+      "latitude": 44.8825661538478
     },
     {
       "id": "_25",
-      "label": "Bele Bartoka",
-      "longitude": 20.4514405407691,
-      "latitude": 44.877173336995
+      "label": "Drinske divizije",
+      "longitude": 20.4576773385603,
+      "latitude": 44.8850900741041
     },
     {
       "id": "_26",
-      "label": "Borča 3",
-      "longitude": 20.4487321036547,
-      "latitude": 44.8747575091995
+      "label": "Bratstva i jedinstva",
+      "longitude": 20.4601084635954,
+      "latitude": 44.8885573114419
+    },
+    {
+      "id": "_27",
+      "label": "Pretok",
+      "longitude": 20.4576305086878,
+      "latitude": 44.8922623784065
+    },
+    {
+      "id": "_28",
+      "label": "Mali zbeg",
+      "longitude": 20.4557685618205,
+      "latitude": 44.8950523745025
+    },
+    {
+      "id": "_29",
+      "label": "Groblje Zbeg",
+      "longitude": 20.4538291957137,
+      "latitude": 44.897976961232
+    },
+    {
+      "id": "_30",
+      "label": "Banatska",
+      "longitude": 20.3779346366211,
+      "latitude": 44.857465648138
+    },
+    {
+      "id": "_31",
+      "label": "Zemun (Bačka)",
+      "longitude": 20.3791195543265,
+      "latitude": 44.8484222127299
     }
   ]
 }

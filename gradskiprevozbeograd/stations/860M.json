@@ -2,126 +2,120 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "BAS",
-      "longitude": 20.4543059627735,
-      "latitude": 44.8101721002059
+      "label": "Beograd na vodi",
+      "longitude": 20.444451559849,
+      "latitude": 44.8011117700695
     },
     {
       "id": "_2",
-      "label": "Palata pravde 1",
-      "longitude": 20.4515238525443,
-      "latitude": 44.8029928139838
-    },
-    {
-      "id": "_3",
       "label": "Sajam",
       "longitude": 20.4415906546322,
       "latitude": 44.7964130286058
     },
     {
-      "id": "_4",
+      "id": "_3",
       "label": "Čukarica",
       "longitude": 20.4145017152671,
       "latitude": 44.7863856515716
     },
     {
-      "id": "_5",
+      "id": "_4",
       "label": "Železnik R",
       "longitude": 20.3589500715381,
       "latitude": 44.7422083297655
     },
     {
-      "id": "_6",
+      "id": "_5",
       "label": "Ostružnica 1",
       "longitude": 20.3210717392176,
       "latitude": 44.7335972061237
     },
     {
-      "id": "_7",
+      "id": "_6",
       "label": "Ostružnica 2",
       "longitude": 20.3145425020959,
       "latitude": 44.7236605299118
     },
     {
-      "id": "_8",
+      "id": "_7",
       "label": "Pećani",
       "longitude": 20.3168674129367,
       "latitude": 44.6965529664518
     },
     {
-      "id": "_9",
+      "id": "_8",
       "label": "Zelengora",
       "longitude": 20.3116150901158,
       "latitude": 44.6895701694761
     },
     {
-      "id": "_10",
+      "id": "_9",
       "label": "Umka (centar)",
       "longitude": 20.3034499389404,
       "latitude": 44.6785807791686
     },
     {
-      "id": "_11",
+      "id": "_10",
       "label": "Umka - Rasadnik",
       "longitude": 20.2971446205955,
       "latitude": 44.6706977240969
     },
     {
-      "id": "_12",
+      "id": "_11",
       "label": "Duboko",
       "longitude": 20.2882182546752,
       "latitude": 44.6638265833212
     },
     {
-      "id": "_13",
+      "id": "_12",
       "label": "Barič - Vinogradi",
       "longitude": 20.2706283433642,
       "latitude": 44.6568592314875
     },
     {
-      "id": "_14",
+      "id": "_13",
       "label": "Barič - Rampa",
       "longitude": 20.2611440638441,
       "latitude": 44.6527093292308
     },
     {
-      "id": "_15",
+      "id": "_14",
       "label": "Industrijska zona Barič",
       "longitude": 20.2486664056778,
       "latitude": 44.6553214172857
     },
     {
-      "id": "_16",
+      "id": "_15",
       "label": "Mislođinski kanal",
       "longitude": 20.2436238604342,
       "latitude": 44.6522113210033
     },
     {
-      "id": "_17",
+      "id": "_16",
       "label": "Barič - Izlaz",
       "longitude": 20.2348583988054,
       "latitude": 44.6498986750362
     },
     {
-      "id": "_18",
+      "id": "_17",
       "label": "Mislođin r",
       "longitude": 20.2242240905762,
       "latitude": 44.6516036987305
     },
     {
-      "id": "_19",
+      "id": "_18",
       "label": "Bazeni",
       "longitude": 20.2164799154759,
       "latitude": 44.6551802263448
     },
     {
-      "id": "_20",
+      "id": "_19",
       "label": "Naselje Dudovi",
       "longitude": 20.2087068750349,
       "latitude": 44.6586412133102
     },
     {
-      "id": "_21",
+      "id": "_20",
       "label": "Obrenovac AS",
       "longitude": 20.1960387941531,
       "latitude": 44.6553824727213
@@ -244,15 +238,15 @@
     },
     {
       "id": "_20",
-      "label": "Palata pravde 1",
-      "longitude": 20.451327814778,
-      "latitude": 44.8034058554644
+      "label": "Kula Beograd",
+      "longitude": 20.4486263639051,
+      "latitude": 44.8032813106928
     },
     {
       "id": "_21",
-      "label": "BAS",
-      "longitude": 20.4543059627735,
-      "latitude": 44.8101721002059
+      "label": "TC Galerija",
+      "longitude": 20.4456286208991,
+      "latitude": 44.8013535627872
     }
   ]
 }

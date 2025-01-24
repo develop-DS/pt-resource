@@ -1,156 +1,156 @@
 {
-    "direction_a": [
-        {
-            "id": "_1",
-            "label": "Aerodrom Batajnica",
-            "longitude": 20.2448957186008,
-            "latitude": 44.9271839257007
-        },
-        {
-            "id": "_2",
-            "label": "Moma Stanojlović",
-            "longitude": 20.2525213043679,
-            "latitude": 44.9187997316463
-        },
-        {
-            "id": "_3",
-            "label": "Oficirska kolonija",
-            "longitude": 20.2598583640302,
-            "latitude": 44.9139859016283
-        },
-        {
-            "id": "_4",
-            "label": "Posavska",
-            "longitude": 20.2671272734949,
-            "latitude": 44.9104562704415
-        },
-        {
-            "id": "_5",
-            "label": "Batajnica (centar)",
-            "longitude": 20.2751255461711,
-            "latitude": 44.90584906497
-        },
-        {
-            "id": "_6",
-            "label": "Majke Jugovića",
-            "longitude": 20.2824902787812,
-            "latitude": 44.9015811073952
-        },
-        {
-            "id": "_7",
-            "label": "Braće Smiljanić",
-            "longitude": 20.287021307534,
-            "latitude": 44.8992857432581
-        },
-        {
-            "id": "_8",
-            "label": "Maksima Brankovića",
-            "longitude": 20.2897212178661,
-            "latitude": 44.8980155948193
-        },
-        {
-            "id": "_9",
-            "label": "Batajnica (ulaz)",
-            "longitude": 20.2964521939137,
-            "latitude": 44.894885724698
-        },
-        {
-            "id": "_10",
-            "label": "Coca-Cola",
-            "longitude": 20.3562573258036,
-            "latitude": 44.8684639094224
-        },
-        {
-            "id": "_11",
-            "label": "Zemun (Gornji grad)",
-            "longitude": 20.3783375530751,
-            "latitude": 44.8588303502097
-        },
-        {
-            "id": "_12",
-            "label": "Kej oslobođenja",
-            "longitude": 20.4159911940337,
-            "latitude": 44.8436751886467
-        }
-    ],
-    "direction_b": [
-        {
-            "id": "_1",
-            "label": "Kej oslobođenja",
-            "longitude": 20.4159911940337,
-            "latitude": 44.8436751886467
-        },
-        {
-            "id": "_2",
-            "label": "Zemun (pošta)",
-            "longitude": 20.4133320184886,
-            "latitude": 44.8421929039194
-        },
-        {
-            "id": "_3",
-            "label": "Zemun (Gornji grad)",
-            "longitude": 20.3780768215081,
-            "latitude": 44.8590737214802
-        },
-        {
-            "id": "_4",
-            "label": "Coca-Cola",
-            "longitude": 20.3537456511705,
-            "latitude": 44.8696791024904
-        },
-        {
-            "id": "_5",
-            "label": "Batajnica (ulaz)",
-            "longitude": 20.295393945171,
-            "latitude": 44.8954929825352
-        },
-        {
-            "id": "_6",
-            "label": "Maksima Brankovića",
-            "longitude": 20.2916960421567,
-            "latitude": 44.8972196711163
-        },
-        {
-            "id": "_7",
-            "label": "Braće Smiljanić",
-            "longitude": 20.2856849801639,
-            "latitude": 44.9000441699599
-        },
-        {
-            "id": "_8",
-            "label": "Majke Jugovića",
-            "longitude": 20.2809119106436,
-            "latitude": 44.9026511408495
-        },
-        {
-            "id": "_9",
-            "label": "Batajnica (centar)",
-            "longitude": 20.2744451852882,
-            "latitude": 44.9063811224187
-        },
-        {
-            "id": "_10",
-            "label": "Posavska",
-            "longitude": 20.2662095552029,
-            "latitude": 44.911119950862
-        },
-        {
-            "id": "_11",
-            "label": "Oficirska kolonija",
-            "longitude": 20.2584178393944,
-            "latitude": 44.9147163361376
-        },
-        {
-            "id": "_12",
-            "label": "Moma Stanojlović",
-            "longitude": 20.2523798455392,
-            "latitude": 44.919160582939
-        },
-        {
-            "id": "_13",
-            "label": "Aerodrom Batajnica",
-            "longitude": 20.2448957186008,
-            "latitude": 44.9271839257007
-        }
-    ]
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Kej oslobođenja",
+      "longitude": 20.4159911940337,
+      "latitude": 44.8436751886467
+    },
+    {
+      "id": "_2",
+      "label": "Zemun (pošta)",
+      "longitude": 20.4133320184886,
+      "latitude": 44.8421929039194
+    },
+    {
+      "id": "_3",
+      "label": "Zemun (Gornji grad)",
+      "longitude": 20.3780768215081,
+      "latitude": 44.8590737214802
+    },
+    {
+      "id": "_4",
+      "label": "Coca-Cola",
+      "longitude": 20.3537456511705,
+      "latitude": 44.8696791024904
+    },
+    {
+      "id": "_5",
+      "label": "Batajnica (ulaz)",
+      "longitude": 20.295393945171,
+      "latitude": 44.8954929825352
+    },
+    {
+      "id": "_6",
+      "label": "Maksima Brankovića",
+      "longitude": 20.2916960421567,
+      "latitude": 44.8972196711163
+    },
+    {
+      "id": "_7",
+      "label": "Braće Smiljanić",
+      "longitude": 20.2856849801639,
+      "latitude": 44.9000441699599
+    },
+    {
+      "id": "_8",
+      "label": "Majke Jugovića",
+      "longitude": 20.2809119106436,
+      "latitude": 44.9026511408495
+    },
+    {
+      "id": "_9",
+      "label": "Batajnica (centar)",
+      "longitude": 20.2744451852882,
+      "latitude": 44.9063811224187
+    },
+    {
+      "id": "_10",
+      "label": "Posavska",
+      "longitude": 20.2662095552029,
+      "latitude": 44.911119950862
+    },
+    {
+      "id": "_11",
+      "label": "Oficirska kolonija",
+      "longitude": 20.2584178393944,
+      "latitude": 44.9147163361376
+    },
+    {
+      "id": "_12",
+      "label": "Moma Stanojlović",
+      "longitude": 20.2523798455392,
+      "latitude": 44.919160582939
+    },
+    {
+      "id": "_13",
+      "label": "Aerodrom Batajnica",
+      "longitude": 20.2448957186008,
+      "latitude": 44.9271839257007
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Aerodrom Batajnica",
+      "longitude": 20.2448957186008,
+      "latitude": 44.9271839257007
+    },
+    {
+      "id": "_2",
+      "label": "Moma Stanojlović",
+      "longitude": 20.2525213043679,
+      "latitude": 44.9187997316463
+    },
+    {
+      "id": "_3",
+      "label": "Oficirska kolonija",
+      "longitude": 20.2598583640302,
+      "latitude": 44.9139859016283
+    },
+    {
+      "id": "_4",
+      "label": "Posavska",
+      "longitude": 20.2671272734949,
+      "latitude": 44.9104562704415
+    },
+    {
+      "id": "_5",
+      "label": "Batajnica (centar)",
+      "longitude": 20.2751255461711,
+      "latitude": 44.90584906497
+    },
+    {
+      "id": "_6",
+      "label": "Majke Jugovića",
+      "longitude": 20.2824902787812,
+      "latitude": 44.9015811073952
+    },
+    {
+      "id": "_7",
+      "label": "Braće Smiljanić",
+      "longitude": 20.287021307534,
+      "latitude": 44.8992857432581
+    },
+    {
+      "id": "_8",
+      "label": "Maksima Brankovića",
+      "longitude": 20.2897212178661,
+      "latitude": 44.8980155948193
+    },
+    {
+      "id": "_9",
+      "label": "Batajnica (ulaz)",
+      "longitude": 20.2964521939137,
+      "latitude": 44.894885724698
+    },
+    {
+      "id": "_10",
+      "label": "Coca-Cola",
+      "longitude": 20.3562573258036,
+      "latitude": 44.8684639094224
+    },
+    {
+      "id": "_11",
+      "label": "Zemun (Gornji grad)",
+      "longitude": 20.3783375530751,
+      "latitude": 44.8588303502097
+    },
+    {
+      "id": "_12",
+      "label": "Kej oslobođenja",
+      "longitude": 20.4159911940337,
+      "latitude": 44.8436751886467
+    }
+  ]
 }

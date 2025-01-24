@@ -2,144 +2,138 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "BAS",
-      "longitude": 20.4543059627735,
-      "latitude": 44.8101721002059
+      "label": "Beograd na vodi",
+      "longitude": 20.444451559849,
+      "latitude": 44.8011117700695
     },
     {
       "id": "_2",
-      "label": "Palata pravde 1",
-      "longitude": 20.4515238525443,
-      "latitude": 44.8029928139838
-    },
-    {
-      "id": "_3",
       "label": "Sajam",
       "longitude": 20.4415906546322,
       "latitude": 44.7964130286058
     },
     {
-      "id": "_4",
+      "id": "_3",
       "label": "Čukarica",
       "longitude": 20.4145017152671,
       "latitude": 44.7863856515716
     },
     {
-      "id": "_5",
+      "id": "_4",
       "label": "Železnik R",
       "longitude": 20.3589500715381,
       "latitude": 44.7422083297655
     },
     {
-      "id": "_6",
+      "id": "_5",
       "label": "Ostružnica 1",
       "longitude": 20.3210717392176,
       "latitude": 44.7335972061237
     },
     {
-      "id": "_7",
+      "id": "_6",
       "label": "Ostružnica 2",
       "longitude": 20.3145425020959,
       "latitude": 44.7236605299118
     },
     {
-      "id": "_8",
+      "id": "_7",
       "label": "Pećani",
       "longitude": 20.3168674129367,
       "latitude": 44.6965529664518
     },
     {
-      "id": "_9",
+      "id": "_8",
       "label": "Zelengora",
       "longitude": 20.3116150901158,
       "latitude": 44.6895701694761
     },
     {
-      "id": "_10",
+      "id": "_9",
       "label": "Umka (centar)",
       "longitude": 20.3034499389404,
       "latitude": 44.6785807791686
     },
     {
-      "id": "_11",
+      "id": "_10",
       "label": "Umka - Rasadnik",
       "longitude": 20.2971446205955,
       "latitude": 44.6706977240969
     },
     {
-      "id": "_12",
+      "id": "_11",
       "label": "Duboko",
       "longitude": 20.2882137298584,
       "latitude": 44.663501739502
     },
     {
-      "id": "_13",
+      "id": "_12",
       "label": "Naselje Samar",
       "longitude": 20.2945374774792,
       "latitude": 44.6527532148083
     },
     {
-      "id": "_14",
+      "id": "_13",
       "label": "Mala Moštanica - brdo",
       "longitude": 20.2944141369546,
       "latitude": 44.6481355067545
     },
     {
-      "id": "_15",
+      "id": "_14",
       "label": "Mala Moštanica - pošta",
       "longitude": 20.3031259261537,
       "latitude": 44.646463882137
     },
     {
-      "id": "_16",
+      "id": "_15",
       "label": "Mala Moštanica - okretnica",
       "longitude": 20.3085117992875,
       "latitude": 44.6378073019255
     },
     {
-      "id": "_17",
+      "id": "_16",
       "label": "Igralište",
       "longitude": 20.3033237457275,
       "latitude": 44.6362571716309
     },
     {
-      "id": "_18",
+      "id": "_17",
       "label": "Put uz brdo",
       "longitude": 20.2967319488525,
       "latitude": 44.6347694396973
     },
     {
-      "id": "_19",
+      "id": "_18",
       "label": "Karaula",
       "longitude": 20.2783531130315,
       "latitude": 44.6337342929438
     },
     {
-      "id": "_20",
+      "id": "_19",
       "label": "Put za groblje",
       "longitude": 20.2709808349609,
       "latitude": 44.6381149291992
     },
     {
-      "id": "_21",
+      "id": "_20",
       "label": "Trafo",
       "longitude": 20.2659344416344,
       "latitude": 44.6421166693128
     },
     {
-      "id": "_22",
+      "id": "_21",
       "label": "Vojska",
       "longitude": 20.263427734375,
       "latitude": 44.6471252441406
     },
     {
-      "id": "_23",
+      "id": "_22",
       "label": "Barič (rampa)",
       "longitude": 20.2609187544347,
       "latitude": 44.6516159952118
     },
     {
-      "id": "_24",
+      "id": "_23",
       "label": "Industrijska zona Barič",
       "longitude": 20.2486664056778,
       "latitude": 44.6553214172857
@@ -280,15 +274,15 @@
     },
     {
       "id": "_23",
-      "label": "Palata pravde 1",
-      "longitude": 20.451327814778,
-      "latitude": 44.8034058554644
+      "label": "Kula Beograd",
+      "longitude": 20.4486263639051,
+      "latitude": 44.8032813106928
     },
     {
       "id": "_24",
-      "label": "BAS",
-      "longitude": 20.4543059627735,
-      "latitude": 44.8101721002059
+      "label": "TC Galerija",
+      "longitude": 20.4456286208991,
+      "latitude": 44.8013535627872
     }
   ]
 }

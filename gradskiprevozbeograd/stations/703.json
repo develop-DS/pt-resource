@@ -2,6 +2,218 @@
   "direction_a": [
     {
       "id": "_1",
+      "label": "Kej oslobođenja",
+      "longitude": 20.415187272676,
+      "latitude": 44.8431131251542
+    },
+    {
+      "id": "_2",
+      "label": "Zemun (pošta)",
+      "longitude": 20.4133320184886,
+      "latitude": 44.8421929039194
+    },
+    {
+      "id": "_3",
+      "label": "Nade Dimić",
+      "longitude": 20.4028827140265,
+      "latitude": 44.8491657672126
+    },
+    {
+      "id": "_4",
+      "label": "Dunavska",
+      "longitude": 20.3978588906259,
+      "latitude": 44.8510077899931
+    },
+    {
+      "id": "_5",
+      "label": "Filipa Višnjića",
+      "longitude": 20.3867265075406,
+      "latitude": 44.8552415413263
+    },
+    {
+      "id": "_6",
+      "label": "Zemun (Gornji grad)",
+      "longitude": 20.3780768215081,
+      "latitude": 44.8590737214802
+    },
+    {
+      "id": "_7",
+      "label": "Preduzeće Galenika Magmasil",
+      "longitude": 20.3587940672045,
+      "latitude": 44.8674899859596
+    },
+    {
+      "id": "_8",
+      "label": "Metro",
+      "longitude": 20.3492288434434,
+      "latitude": 44.8650638405244
+    },
+    {
+      "id": "_9",
+      "label": "Zemun Park",
+      "longitude": 20.3442206541778,
+      "latitude": 44.8665922064327
+    },
+    {
+      "id": "_10",
+      "label": "Pupin Telekom",
+      "longitude": 20.3399684985473,
+      "latitude": 44.8694962213776
+    },
+    {
+      "id": "_11",
+      "label": "Put za Novi Sad",
+      "longitude": 20.3366484426734,
+      "latitude": 44.8729724377838
+    },
+    {
+      "id": "_12",
+      "label": "Put za 13. maj",
+      "longitude": 20.3338282734333,
+      "latitude": 44.8782909433028
+    },
+    {
+      "id": "_13",
+      "label": "Ciglana",
+      "longitude": 20.3167671732028,
+      "latitude": 44.8857230358798
+    },
+    {
+      "id": "_14",
+      "label": "Naselje ekonomija",
+      "longitude": 20.3085141093397,
+      "latitude": 44.8894928933937
+    },
+    {
+      "id": "_15",
+      "label": "Belarička",
+      "longitude": 20.3019250115022,
+      "latitude": 44.8925127491577
+    },
+    {
+      "id": "_16",
+      "label": "Batajnica (ulaz)",
+      "longitude": 20.295393945171,
+      "latitude": 44.8954929825352
+    },
+    {
+      "id": "_17",
+      "label": "Kralja Uroša",
+      "longitude": 20.2900399205192,
+      "latitude": 44.8970132375448
+    },
+    {
+      "id": "_18",
+      "label": "Stevana Dubajića",
+      "longitude": 20.2873430091866,
+      "latitude": 44.8959867679098
+    },
+    {
+      "id": "_19",
+      "label": "Braće Radišić",
+      "longitude": 20.2831274513898,
+      "latitude": 44.8979817403846
+    },
+    {
+      "id": "_20",
+      "label": "Kralja Radoslava",
+      "longitude": 20.2788759257937,
+      "latitude": 44.9004011012233
+    },
+    {
+      "id": "_21",
+      "label": "Batajnica (železnička stanica)",
+      "longitude": 20.2709673852804,
+      "latitude": 44.9001800762709
+    },
+    {
+      "id": "_22",
+      "label": "Batajnica (železnička rampa)",
+      "longitude": 20.2700669319617,
+      "latitude": 44.9021020125563
+    },
+    {
+      "id": "_23",
+      "label": "Batajnica (centar)",
+      "longitude": 20.2744451852882,
+      "latitude": 44.9063811224187
+    },
+    {
+      "id": "_24",
+      "label": "Kralja Stefana Tomaša",
+      "longitude": 20.2676944732666,
+      "latitude": 44.9059982299805
+    },
+    {
+      "id": "_25",
+      "label": "Šangajska",
+      "longitude": 20.2595036706187,
+      "latitude": 44.9011253043192
+    },
+    {
+      "id": "_26",
+      "label": "Stevana Simića",
+      "longitude": 20.2500834292811,
+      "latitude": 44.8977612677984
+    },
+    {
+      "id": "_27",
+      "label": "Dr Đorđa Šulce",
+      "longitude": 20.2426140177875,
+      "latitude": 44.8951743120512
+    },
+    {
+      "id": "_28",
+      "label": "Busije",
+      "longitude": 20.2299292342531,
+      "latitude": 44.8908690459241
+    },
+    {
+      "id": "_29",
+      "label": "Busije 1",
+      "longitude": 20.2227961702778,
+      "latitude": 44.8884450401446
+    },
+    {
+      "id": "_30",
+      "label": "Busije 2",
+      "longitude": 20.2126263274722,
+      "latitude": 44.883170343616
+    },
+    {
+      "id": "_31",
+      "label": "Grobljanska",
+      "longitude": 20.2074945731551,
+      "latitude": 44.8776237180729
+    },
+    {
+      "id": "_32",
+      "label": "Ugrinovci (ulaz)",
+      "longitude": 20.1997652287699,
+      "latitude": 44.871457579851
+    },
+    {
+      "id": "_33",
+      "label": "Beogradska",
+      "longitude": 20.1930606147748,
+      "latitude": 44.8736064109345
+    },
+    {
+      "id": "_34",
+      "label": "Ugrinovci (centar)",
+      "longitude": 20.1873364308896,
+      "latitude": 44.8756628132005
+    },
+    {
+      "id": "_35",
+      "label": "Ugrinovci",
+      "longitude": 20.179976332839,
+      "latitude": 44.8780906041667
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
       "label": "Ugrinovci",
       "longitude": 20.179976332839,
       "latitude": 44.8780906041667
@@ -206,221 +418,15 @@
     },
     {
       "id": "_35",
-      "label": "Trg Branka Radičevića",
-      "longitude": 20.408636759713,
-      "latitude": 44.8463949450253
+      "label": "RK Beograd",
+      "longitude": 20.4120435355163,
+      "latitude": 44.8435182287916
     },
     {
       "id": "_36",
       "label": "Kej oslobođenja",
       "longitude": 20.415187272676,
       "latitude": 44.8431131251542
-    }
-  ],
-  "direction_b": [
-    {
-      "id": "_1",
-      "label": "Kej oslobođenja",
-      "longitude": 20.415187272676,
-      "latitude": 44.8431131251542
-    },
-    {
-      "id": "_2",
-      "label": "Nade Dimić",
-      "longitude": 20.4028827140265,
-      "latitude": 44.8491657672126
-    },
-    {
-      "id": "_3",
-      "label": "Dunavska",
-      "longitude": 20.3978588906259,
-      "latitude": 44.8510077899931
-    },
-    {
-      "id": "_4",
-      "label": "Filipa Višnjića",
-      "longitude": 20.3867265075406,
-      "latitude": 44.8552415413263
-    },
-    {
-      "id": "_5",
-      "label": "Zemun (Gornji grad)",
-      "longitude": 20.3780768215081,
-      "latitude": 44.8590737214802
-    },
-    {
-      "id": "_6",
-      "label": "Preduzeće Galenika Magmasil",
-      "longitude": 20.3587940672045,
-      "latitude": 44.8674899859596
-    },
-    {
-      "id": "_7",
-      "label": "Metro",
-      "longitude": 20.3492288434434,
-      "latitude": 44.8650638405244
-    },
-    {
-      "id": "_8",
-      "label": "Zemun Park",
-      "longitude": 20.3442206541778,
-      "latitude": 44.8665922064327
-    },
-    {
-      "id": "_9",
-      "label": "Pupin Telekom",
-      "longitude": 20.3399684985473,
-      "latitude": 44.8694962213776
-    },
-    {
-      "id": "_10",
-      "label": "Put za Novi Sad",
-      "longitude": 20.3366484426734,
-      "latitude": 44.8729724377838
-    },
-    {
-      "id": "_11",
-      "label": "Put za 13. maj",
-      "longitude": 20.3338282734333,
-      "latitude": 44.8782909433028
-    },
-    {
-      "id": "_12",
-      "label": "Ciglana",
-      "longitude": 20.3167671732028,
-      "latitude": 44.8857230358798
-    },
-    {
-      "id": "_13",
-      "label": "Naselje ekonomija",
-      "longitude": 20.3085141093397,
-      "latitude": 44.8894928933937
-    },
-    {
-      "id": "_14",
-      "label": "Belarička",
-      "longitude": 20.3019250115022,
-      "latitude": 44.8925127491577
-    },
-    {
-      "id": "_15",
-      "label": "Batajnica (ulaz)",
-      "longitude": 20.295393945171,
-      "latitude": 44.8954929825352
-    },
-    {
-      "id": "_16",
-      "label": "Kralja Uroša",
-      "longitude": 20.2900399205192,
-      "latitude": 44.8970132375448
-    },
-    {
-      "id": "_17",
-      "label": "Stevana Dubajića",
-      "longitude": 20.2873430091866,
-      "latitude": 44.8959867679098
-    },
-    {
-      "id": "_18",
-      "label": "Braće Radišić",
-      "longitude": 20.2831274513898,
-      "latitude": 44.8979817403846
-    },
-    {
-      "id": "_19",
-      "label": "Kralja Radoslava",
-      "longitude": 20.2788759257937,
-      "latitude": 44.9004011012233
-    },
-    {
-      "id": "_20",
-      "label": "Batajnica (železnička stanica)",
-      "longitude": 20.2709673852804,
-      "latitude": 44.9001800762709
-    },
-    {
-      "id": "_21",
-      "label": "Batajnica (železnička rampa)",
-      "longitude": 20.2700669319617,
-      "latitude": 44.9021020125563
-    },
-    {
-      "id": "_22",
-      "label": "Batajnica (centar)",
-      "longitude": 20.2744451852882,
-      "latitude": 44.9063811224187
-    },
-    {
-      "id": "_23",
-      "label": "Kralja Stefana Tomaša",
-      "longitude": 20.2676944732666,
-      "latitude": 44.9059982299805
-    },
-    {
-      "id": "_24",
-      "label": "Šangajska",
-      "longitude": 20.2595036706187,
-      "latitude": 44.9011253043192
-    },
-    {
-      "id": "_25",
-      "label": "Stevana Simića",
-      "longitude": 20.2500834292811,
-      "latitude": 44.8977612677984
-    },
-    {
-      "id": "_26",
-      "label": "Dr Đorđa Šulce",
-      "longitude": 20.2426140177875,
-      "latitude": 44.8951743120512
-    },
-    {
-      "id": "_27",
-      "label": "Busije",
-      "longitude": 20.2299292342531,
-      "latitude": 44.8908690459241
-    },
-    {
-      "id": "_28",
-      "label": "Busije 1",
-      "longitude": 20.2227961702778,
-      "latitude": 44.8884450401446
-    },
-    {
-      "id": "_29",
-      "label": "Busije 2",
-      "longitude": 20.2126263274722,
-      "latitude": 44.883170343616
-    },
-    {
-      "id": "_30",
-      "label": "Grobljanska",
-      "longitude": 20.2074945731551,
-      "latitude": 44.8776237180729
-    },
-    {
-      "id": "_31",
-      "label": "Ugrinovci (ulaz)",
-      "longitude": 20.1997652287699,
-      "latitude": 44.871457579851
-    },
-    {
-      "id": "_32",
-      "label": "Beogradska",
-      "longitude": 20.1930606147748,
-      "latitude": 44.8736064109345
-    },
-    {
-      "id": "_33",
-      "label": "Ugrinovci (centar)",
-      "longitude": 20.1873364308896,
-      "latitude": 44.8756628132005
-    },
-    {
-      "id": "_34",
-      "label": "Ugrinovci",
-      "longitude": 20.179976332839,
-      "latitude": 44.8780906041667
     }
   ]
 }

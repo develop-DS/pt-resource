@@ -3,8 +3,8 @@
     {
       "id": "_1",
       "label": "Banovo brdo",
-      "longitude": 20.4138049186733,
-      "latitude": 44.7684981299951
+      "longitude": 20.4137858641818,
+      "latitude": 44.7684953668836
     },
     {
       "id": "_2",
@@ -38,102 +38,126 @@
     },
     {
       "id": "_7",
-      "label": "Topčiderski park",
-      "longitude": 20.4415145463123,
-      "latitude": 44.7816965764086
+      "label": "Gospodarska mehana",
+      "longitude": 20.4336127623586,
+      "latitude": 44.7944711917042
     },
     {
       "id": "_8",
-      "label": "Teodora Drajzera",
-      "longitude": 20.4475653216923,
-      "latitude": 44.7805721260151
+      "label": "Ruska",
+      "longitude": 20.4381751998929,
+      "latitude": 44.7952763240306
     },
     {
       "id": "_9",
-      "label": "Teodora Drajzera 2",
-      "longitude": 20.4506436607195,
-      "latitude": 44.7802809212493
+      "label": "Sajam",
+      "longitude": 20.4420563488721,
+      "latitude": 44.7963250729334
     },
     {
       "id": "_10",
-      "label": "IV beogradska gimnazija",
-      "longitude": 20.4554339930521,
-      "latitude": 44.7790582159126
+      "label": "Mostar",
+      "longitude": 20.4488893135074,
+      "latitude": 44.7982104318979
     },
     {
       "id": "_11",
+      "label": "Železnička stanica BGD centar",
+      "longitude": 20.4498717686176,
+      "latitude": 44.7932293959097
+    },
+    {
+      "id": "_12",
+      "label": "Muzej Jugoslavije",
+      "longitude": 20.4542684555054,
+      "latitude": 44.7897657965888
+    },
+    {
+      "id": "_13",
+      "label": "Stadion Partizan",
+      "longitude": 20.4574207698052,
+      "latitude": 44.7863284818667
+    },
+    {
+      "id": "_14",
+      "label": "Pedagoška akademija",
+      "longitude": 20.4579487668183,
+      "latitude": 44.7817411973179
+    },
+    {
+      "id": "_15",
       "label": "Bolnica Dragiša Mišović",
       "longitude": 20.4581004763674,
       "latitude": 44.7776615063441
     },
     {
-      "id": "_12",
+      "id": "_16",
       "label": "Paje Adamova",
       "longitude": 20.4625884363578,
       "latitude": 44.7727454426712
     },
     {
-      "id": "_13",
+      "id": "_17",
       "label": "Banjica",
       "longitude": 20.4659948316041,
       "latitude": 44.7694170982456
     },
     {
-      "id": "_14",
+      "id": "_18",
       "label": "Vojnomedicinska akademija",
       "longitude": 20.4701203403659,
       "latitude": 44.7655951952454
     },
     {
-      "id": "_15",
+      "id": "_19",
       "label": "Plivalište Banjica",
       "longitude": 20.4724374903204,
       "latitude": 44.763049984826
     },
     {
-      "id": "_16",
+      "id": "_20",
       "label": "Paunova",
       "longitude": 20.4769460779112,
       "latitude": 44.7609197174914
     },
     {
-      "id": "_17",
+      "id": "_21",
       "label": "Trošarina",
       "longitude": 20.4829546641654,
       "latitude": 44.7613177802674
     },
     {
-      "id": "_18",
+      "id": "_22",
       "label": "OŠ Danilo Kiš",
       "longitude": 20.4880981483081,
       "latitude": 44.7599620451463
     },
     {
-      "id": "_19",
+      "id": "_23",
       "label": "Timočke divizije",
       "longitude": 20.4911216276177,
       "latitude": 44.7588613386091
     },
     {
-      "id": "_20",
+      "id": "_24",
       "label": "Pukovnika Petra Mišića",
       "longitude": 20.4935464173661,
       "latitude": 44.7571639374265
     },
     {
-      "id": "_21",
+      "id": "_25",
       "label": "Generala Vladimira Kondića",
       "longitude": 20.4958191503937,
       "latitude": 44.7557988021515
     },
     {
-      "id": "_22",
+      "id": "_26",
       "label": "Generala Štefanika",
       "longitude": 20.4969048439262,
       "latitude": 44.7549828010453
     },
     {
-      "id": "_23",
+      "id": "_27",
       "label": "Naselje Stepa Stepanović",
       "longitude": 20.4967312262373,
       "latitude": 44.7534413057063
@@ -220,63 +244,87 @@
     },
     {
       "id": "_14",
-      "label": "IV beogradska gimnazija",
-      "longitude": 20.454499768276,
-      "latitude": 44.7795109566274
+      "label": "Pedagoška akademija",
+      "longitude": 20.4579774380025,
+      "latitude": 44.7827330855492
     },
     {
       "id": "_15",
-      "label": "Teodora Drajzera 2",
-      "longitude": 20.4502427696503,
-      "latitude": 44.7804499929698
+      "label": "Stadion Partizan",
+      "longitude": 20.4576188802743,
+      "latitude": 44.785953236666
     },
     {
       "id": "_16",
-      "label": "Teodora Drajzera",
-      "longitude": 20.4468766745273,
-      "latitude": 44.780703801701
+      "label": "Muzej Jugoslavije",
+      "longitude": 20.4534498365352,
+      "latitude": 44.7909372099593
     },
     {
       "id": "_17",
-      "label": "Topčiderski park",
-      "longitude": 20.4408621559264,
-      "latitude": 44.7822603717312
+      "label": "Železnička stanica BGD centar",
+      "longitude": 20.4501800537109,
+      "latitude": 44.7933387756348
     },
     {
       "id": "_18",
+      "label": "Ortopedski zavod",
+      "longitude": 20.4487869469579,
+      "latitude": 44.7951410939727
+    },
+    {
+      "id": "_19",
+      "label": "Mostar",
+      "longitude": 20.4492660247473,
+      "latitude": 44.7987396141814
+    },
+    {
+      "id": "_20",
+      "label": "Sajam",
+      "longitude": 20.4415906546322,
+      "latitude": 44.7964130286058
+    },
+    {
+      "id": "_21",
+      "label": "Ruska",
+      "longitude": 20.4359385437038,
+      "latitude": 44.795085842923
+    },
+    {
+      "id": "_22",
       "label": "Kneza Višeslava",
       "longitude": 20.4211209252658,
       "latitude": 44.7831002074612
     },
     {
-      "id": "_19",
+      "id": "_23",
       "label": "Škola Josif Pančić",
       "longitude": 20.4171984049806,
       "latitude": 44.7810968392086
     },
     {
-      "id": "_20",
+      "id": "_24",
       "label": "Dom zdravlja",
       "longitude": 20.4144724285048,
       "latitude": 44.77774411363
     },
     {
-      "id": "_21",
+      "id": "_25",
       "label": "Kijevska",
       "longitude": 20.4135459176844,
       "latitude": 44.775395889586
     },
     {
-      "id": "_22",
+      "id": "_26",
       "label": "Trebevićka",
       "longitude": 20.4140922912439,
       "latitude": 44.7713254696764
     },
     {
-      "id": "_23",
+      "id": "_27",
       "label": "Banovo brdo",
-      "longitude": 20.4138049186733,
-      "latitude": 44.7684981299951
+      "longitude": 20.4137858641818,
+      "latitude": 44.7684953668836
     }
   ]
 }

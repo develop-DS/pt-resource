@@ -1,234 +1,234 @@
 {
-    "direction_a": [
-        {
-            "id": "_1",
-            "label": "Nova Galenika",
-            "longitude": 20.3698996376044,
-            "latitude": 44.8570456001051
-        },
-        {
-            "id": "_2",
-            "label": "Mihajla Vukše",
-            "longitude": 20.36772539134,
-            "latitude": 44.8584861432348
-        },
-        {
-            "id": "_3",
-            "label": "Galenika",
-            "longitude": 20.3676875845358,
-            "latitude": 44.8617221365937
-        },
-        {
-            "id": "_4",
-            "label": "Zemun (Gornji grad)",
-            "longitude": 20.3783375530751,
-            "latitude": 44.8588303502097
-        },
-        {
-            "id": "_5",
-            "label": "Ruska",
-            "longitude": 20.381744584832,
-            "latitude": 44.8573278623746
-        },
-        {
-            "id": "_6",
-            "label": "Filipa Višnjića",
-            "longitude": 20.3876555986787,
-            "latitude": 44.8547227377359
-        },
-        {
-            "id": "_7",
-            "label": "Tršćanska",
-            "longitude": 20.3917837899724,
-            "latitude": 44.8531734007697
-        },
-        {
-            "id": "_8",
-            "label": "Dunavska",
-            "longitude": 20.3969153254232,
-            "latitude": 44.8512296185574
-        },
-        {
-            "id": "_9",
-            "label": "Nade Dimić",
-            "longitude": 20.4024598432292,
-            "latitude": 44.8491977628024
-        },
-        {
-            "id": "_10",
-            "label": "Trg Branka Radičevića",
-            "longitude": 20.408636759713,
-            "latitude": 44.8463949450253
-        },
-        {
-            "id": "_11",
-            "label": "RK Beograd",
-            "longitude": 20.4120435355163,
-            "latitude": 44.8435182287916
-        },
-        {
-            "id": "_12",
-            "label": "Zemun (pošta)",
-            "longitude": 20.4142591498469,
-            "latitude": 44.8408207220637
-        },
-        {
-            "id": "_13",
-            "label": "Karađorđev trg",
-            "longitude": 20.4173846006181,
-            "latitude": 44.8369272647968
-        },
-        {
-            "id": "_14",
-            "label": "Džona Kenedija",
-            "longitude": 20.4183755630291,
-            "latitude": 44.8332047057775
-        },
-        {
-            "id": "_15",
-            "label": "Hotel Jugoslavija",
-            "longitude": 20.4196373463238,
-            "latitude": 44.8271724349496
-        },
-        {
-            "id": "_16",
-            "label": "Palata Srbija",
-            "longitude": 20.4311999689162,
-            "latitude": 44.8202989319791
-        },
-        {
-            "id": "_17",
-            "label": "Ušće",
-            "longitude": 20.4389758364111,
-            "latitude": 44.8151193033414
-        },
-        {
-            "id": "_18",
-            "label": "Brankov most",
-            "longitude": 20.4526067155746,
-            "latitude": 44.8149925584042
-        },
-        {
-            "id": "_19",
-            "label": "Zeleni venac",
-            "longitude": 20.457370242161,
-            "latitude": 44.8139658411018
-        }
-    ],
-    "direction_b": [
-        {
-            "id": "_1",
-            "label": "Zeleni venac",
-            "longitude": 20.4567579495164,
-            "latitude": 44.8140043416284
-        },
-        {
-            "id": "_2",
-            "label": "Brankov most",
-            "longitude": 20.4520673994809,
-            "latitude": 44.8153355656855
-        },
-        {
-            "id": "_3",
-            "label": "Ušće",
-            "longitude": 20.4392792138466,
-            "latitude": 44.8151261862399
-        },
-        {
-            "id": "_4",
-            "label": "Palata Srbija",
-            "longitude": 20.430112880555,
-            "latitude": 44.8210368962738
-        },
-        {
-            "id": "_5",
-            "label": "Hotel Jugoslavija",
-            "longitude": 20.4195414026107,
-            "latitude": 44.8291806377152
-        },
-        {
-            "id": "_6",
-            "label": "Džona Kenedija",
-            "longitude": 20.418253187124,
-            "latitude": 44.8353207651787
-        },
-        {
-            "id": "_7",
-            "label": "Karađorđev trg",
-            "longitude": 20.4167764798883,
-            "latitude": 44.8380347107505
-        },
-        {
-            "id": "_8",
-            "label": "Zemun (pošta)",
-            "longitude": 20.4133320184886,
-            "latitude": 44.8421929039194
-        },
-        {
-            "id": "_9",
-            "label": "Trg Branka Radičevića",
-            "longitude": 20.4095506729016,
-            "latitude": 44.8460435738925
-        },
-        {
-            "id": "_10",
-            "label": "Nade Dimić",
-            "longitude": 20.4028827140265,
-            "latitude": 44.8491657672126
-        },
-        {
-            "id": "_11",
-            "label": "Dunavska",
-            "longitude": 20.3978588906259,
-            "latitude": 44.8510077899931
-        },
-        {
-            "id": "_12",
-            "label": "Tršćanska",
-            "longitude": 20.3905122701023,
-            "latitude": 44.8537768135237
-        },
-        {
-            "id": "_13",
-            "label": "Filipa Višnjića",
-            "longitude": 20.3867265075406,
-            "latitude": 44.8552415413263
-        },
-        {
-            "id": "_14",
-            "label": "Ruska",
-            "longitude": 20.3808914653133,
-            "latitude": 44.8578326286961
-        },
-        {
-            "id": "_15",
-            "label": "Zemun (Gornji grad)",
-            "longitude": 20.3780768215081,
-            "latitude": 44.8590737214802
-        },
-        {
-            "id": "_16",
-            "label": "Galenika",
-            "longitude": 20.3680025951228,
-            "latitude": 44.8623088372807
-        },
-        {
-            "id": "_17",
-            "label": "Galenika (kapija)",
-            "longitude": 20.3656790270894,
-            "latitude": 44.8595619744807
-        },
-        {
-            "id": "_18",
-            "label": "Mihajla Vukše",
-            "longitude": 20.3684183556983,
-            "latitude": 44.8580597884771
-        },
-        {
-            "id": "_19",
-            "label": "Nova Galenika",
-            "longitude": 20.3698996376044,
-            "latitude": 44.8570456001051
-        }
-    ]
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Zeleni venac",
+      "longitude": 20.4567579495164,
+      "latitude": 44.8140043416284
+    },
+    {
+      "id": "_2",
+      "label": "Brankov most",
+      "longitude": 20.4520673994809,
+      "latitude": 44.8153355656855
+    },
+    {
+      "id": "_3",
+      "label": "Ušće",
+      "longitude": 20.4392792138466,
+      "latitude": 44.8151261862399
+    },
+    {
+      "id": "_4",
+      "label": "Palata Srbija",
+      "longitude": 20.430112880555,
+      "latitude": 44.8210368962738
+    },
+    {
+      "id": "_5",
+      "label": "Hotel Jugoslavija",
+      "longitude": 20.4195414026107,
+      "latitude": 44.8291806377152
+    },
+    {
+      "id": "_6",
+      "label": "Džona Kenedija",
+      "longitude": 20.418253187124,
+      "latitude": 44.8353207651787
+    },
+    {
+      "id": "_7",
+      "label": "Karađorđev trg",
+      "longitude": 20.4167764798883,
+      "latitude": 44.8380347107505
+    },
+    {
+      "id": "_8",
+      "label": "Zemun (pošta)",
+      "longitude": 20.4133320184886,
+      "latitude": 44.8421929039194
+    },
+    {
+      "id": "_9",
+      "label": "Trg Branka Radičevića",
+      "longitude": 20.4095506729016,
+      "latitude": 44.8460435738925
+    },
+    {
+      "id": "_10",
+      "label": "Nade Dimić",
+      "longitude": 20.4028827140265,
+      "latitude": 44.8491657672126
+    },
+    {
+      "id": "_11",
+      "label": "Dunavska",
+      "longitude": 20.3978588906259,
+      "latitude": 44.8510077899931
+    },
+    {
+      "id": "_12",
+      "label": "Tršćanska",
+      "longitude": 20.3905122701023,
+      "latitude": 44.8537768135237
+    },
+    {
+      "id": "_13",
+      "label": "Filipa Višnjića",
+      "longitude": 20.3867265075406,
+      "latitude": 44.8552415413263
+    },
+    {
+      "id": "_14",
+      "label": "Ruska",
+      "longitude": 20.3808914653133,
+      "latitude": 44.8578326286961
+    },
+    {
+      "id": "_15",
+      "label": "Zemun (Gornji grad)",
+      "longitude": 20.3780768215081,
+      "latitude": 44.8590737214802
+    },
+    {
+      "id": "_16",
+      "label": "Galenika",
+      "longitude": 20.3680025951228,
+      "latitude": 44.8623088372807
+    },
+    {
+      "id": "_17",
+      "label": "Galenika (kapija)",
+      "longitude": 20.3656790270894,
+      "latitude": 44.8595619744807
+    },
+    {
+      "id": "_18",
+      "label": "Mihajla Vukše",
+      "longitude": 20.3684183556983,
+      "latitude": 44.8580597884771
+    },
+    {
+      "id": "_19",
+      "label": "Nova Galenika",
+      "longitude": 20.3698996376044,
+      "latitude": 44.8570456001051
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Nova Galenika",
+      "longitude": 20.3698996376044,
+      "latitude": 44.8570456001051
+    },
+    {
+      "id": "_2",
+      "label": "Mihajla Vukše",
+      "longitude": 20.36772539134,
+      "latitude": 44.8584861432348
+    },
+    {
+      "id": "_3",
+      "label": "Galenika",
+      "longitude": 20.3676875845358,
+      "latitude": 44.8617221365937
+    },
+    {
+      "id": "_4",
+      "label": "Zemun (Gornji grad)",
+      "longitude": 20.3783375530751,
+      "latitude": 44.8588303502097
+    },
+    {
+      "id": "_5",
+      "label": "Ruska",
+      "longitude": 20.381744584832,
+      "latitude": 44.8573278623746
+    },
+    {
+      "id": "_6",
+      "label": "Filipa Višnjića",
+      "longitude": 20.3876555986787,
+      "latitude": 44.8547227377359
+    },
+    {
+      "id": "_7",
+      "label": "Tršćanska",
+      "longitude": 20.3917837899724,
+      "latitude": 44.8531734007697
+    },
+    {
+      "id": "_8",
+      "label": "Dunavska",
+      "longitude": 20.3969153254232,
+      "latitude": 44.8512296185574
+    },
+    {
+      "id": "_9",
+      "label": "Nade Dimić",
+      "longitude": 20.4024598432292,
+      "latitude": 44.8491977628024
+    },
+    {
+      "id": "_10",
+      "label": "Trg Branka Radičevića",
+      "longitude": 20.408636759713,
+      "latitude": 44.8463949450253
+    },
+    {
+      "id": "_11",
+      "label": "RK Beograd",
+      "longitude": 20.4120435355163,
+      "latitude": 44.8435182287916
+    },
+    {
+      "id": "_12",
+      "label": "Zemun (pošta)",
+      "longitude": 20.4142591498469,
+      "latitude": 44.8408207220637
+    },
+    {
+      "id": "_13",
+      "label": "Karađorđev trg",
+      "longitude": 20.4173846006181,
+      "latitude": 44.8369272647968
+    },
+    {
+      "id": "_14",
+      "label": "Džona Kenedija",
+      "longitude": 20.4183755630291,
+      "latitude": 44.8332047057775
+    },
+    {
+      "id": "_15",
+      "label": "Hotel Jugoslavija",
+      "longitude": 20.4196373463238,
+      "latitude": 44.8271724349496
+    },
+    {
+      "id": "_16",
+      "label": "Palata Srbija",
+      "longitude": 20.4311999689162,
+      "latitude": 44.8202989319791
+    },
+    {
+      "id": "_17",
+      "label": "Ušće",
+      "longitude": 20.4389758364111,
+      "latitude": 44.8151193033414
+    },
+    {
+      "id": "_18",
+      "label": "Brankov most",
+      "longitude": 20.4526067155746,
+      "latitude": 44.8149925584042
+    },
+    {
+      "id": "_19",
+      "label": "Zeleni venac",
+      "longitude": 20.457370242161,
+      "latitude": 44.8139658411018
+    }
+  ]
 }
