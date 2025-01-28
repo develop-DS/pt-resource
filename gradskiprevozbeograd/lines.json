@@ -86886,11 +86886,21 @@
         "type": "BUS",
         "title": "Sopot - Guberevac \t",
         "info": [
-            "Važi od: 18-12-2024"
+            "Važi od: 28-01-2025"
         ],
         "weekday": {
-            "starting_points_a": [],
-            "starting_points_b": []
+            "starting_points_a": [
+                "06:00",
+                "11:30",
+                "13:40",
+                "19:00"
+            ],
+            "starting_points_b": [
+                "06:32",
+                "12:02",
+                "14:22",
+                "19:35"
+            ]
         },
         "saturday": {
             "starting_points_a": [
@@ -88664,7 +88674,7 @@
         "type": "BUS",
         "title": "Barajevo - Guberevac",
         "info": [
-            "Važi od: 09-11-2023"
+            "Važi od: 28-01-2025"
         ],
         "weekday": {
             "starting_points_a": [
@@ -88676,7 +88686,7 @@
                 "12:00"
             ],
             "starting_points_b": [
-                "14:00",
+                "14:05",
                 "16:10",
                 "17:05",
                 "19:40",
