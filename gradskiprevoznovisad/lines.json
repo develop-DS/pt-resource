@@ -5204,7 +5204,7 @@
             "APT = APTIV SA I DO Z.STANICE",
             "BM = BMTS Z.SEVER IV DO I OD Z.STANICE",
             "KN = OD KOTEKSPROD.PORED NEOPLANTE",
-            "KVL = KOTEKS VISKOFAN OD I DO LIDLA",
+            "KVL = KOTEKS VISKOFAN OD/DO LIDLA",
             "NK = DO NEOPLANTE I KOTEKSPRODUKTA",
             "NP = NEOPLANTA"
         ],
@@ -5960,9 +5960,9 @@
         "title": "Žele.stanica - Kovilj",
         "type": "BUS",
         "info": [
+            " = KROZ ŠANGAJ",
             "AKN = OD ALBUSA KOTEKSPRO.I NEOPLANTE",
             "C = DO CENTRA N.SADA",
-            "KSA = KROZ ŠANGAJ",
             "NKA = DO NEOPLANTE KOTEKSPR.I ALBUSA"
         ],
         "weekday": {
@@ -5994,7 +5994,7 @@
                 "21:30",
                 "22:20",
                 "22:45",
-                "01:15KSA"
+                "01:15"
             ],
             "starting_points_b": [
                 "04:15",
@@ -6052,7 +6052,7 @@
                 "20:00",
                 "21:00",
                 "22:45",
-                "01:15KSA"
+                "01:15"
             ],
             "starting_points_b": [
                 "04:30",
@@ -6101,7 +6101,7 @@
                 "20:00",
                 "21:00",
                 "22:45",
-                "01:15KSA"
+                "01:15"
             ],
             "starting_points_b": [
                 "04:30",
@@ -6930,7 +6930,7 @@
         "title": "Polasci Za Veternik A",
         "type": "BUS",
         "info": [
-            "KS = KROZ SAJLOVO"
+            " = KROZ SAJLOVO"
         ],
         "weekday": {
             "starting_points_a": [
@@ -6945,16 +6945,16 @@
                 "20:00"
             ],
             "starting_points_b": [
-                "05:30KS",
-                "06:30KS",
-                "07:25KS",
-                "09:35KS",
-                "12:40KS",
-                "14:45KS",
-                "16:25KS",
-                "17:55KS",
-                "19:15KS",
-                "20:30KS"
+                "05:30",
+                "06:30",
+                "07:25",
+                "09:35",
+                "12:40",
+                "14:45",
+                "16:25",
+                "17:55",
+                "19:15",
+                "20:30"
             ]
         },
         "saturday": {
@@ -6979,20 +6979,20 @@
         "title": "Polasci Za Veternik B",
         "type": "BUS",
         "info": [
-            "KS = KROZ SAJLOVO"
+            " = KROZ SAJLOVO"
         ],
         "weekday": {
             "starting_points_a": [
-                "05:30KS",
-                "06:55KS",
-                "09:10KS",
-                "12:15KS",
-                "14:15KS",
-                "14:55KS",
-                "16:15KS",
-                "17:30KS",
-                "18:35KS",
-                "20:05KS"
+                "05:30",
+                "06:55",
+                "09:10",
+                "12:15",
+                "14:15",
+                "14:55",
+                "16:15",
+                "17:30",
+                "18:35",
+                "20:05"
             ],
             "starting_points_b": [
                 "05:55",
@@ -9012,8 +9012,8 @@
         ],
         "weekday": {
             "starting_points_a": [
-                "04:55TLB",
                 "04:55",
+                "04:55TLB",
                 "06:10",
                 "07:05NL",
                 "07:30NL",
@@ -9075,8 +9075,8 @@
                 "11:25NL",
                 "13:10NL",
                 "14:45NL",
-                "15:30",
                 "15:30TLB",
+                "15:30",
                 "16:40NL",
                 "18:00NL",
                 "19:00NL",
@@ -9094,8 +9094,8 @@
                 "12:10",
                 "13:55",
                 "15:30",
-                "16:15TLB",
                 "16:15",
+                "16:15TLB",
                 "17:25",
                 "18:40",
                 "19:45",
