@@ -1,5 +1,23 @@
 [
     {
+        "date": "05.09.2025",
+        "title": "Linija 55 – Privremena izmena trase od 08. 09.",
+        "sections": [
+            {
+                "text": "Zbog izvođenja radova na sanaciji kolovozne konstrukcije u Ulici braće Bošnjak u Futogu, od 08. 09. do 30. 09. 2025. godine privremeno će biti izmenjena trasa autobuske linije 55 (Novi Sad – Futog Braće Bošnjak):"
+            },
+            {
+                "text": "Od raskrsnice ulica Ive Lole Ribara, Novosadske i Rade Kondića autobusi će saobraćati pravo Ulicom Rade Kodnića, skretati levo u Ulicu cara Lazara do raskrsnice sa Ulicom braće Bošnjak i dalje nastavljati redovnom trasom."
+            },
+            {
+                "text": "Od raskrsnice ulica Cara Lazara i Braće Bošnjak autobusi će saobraćati Ulicom cara Lazara, skretati desno u Ulicu Rade Kondića do raskrsnice sa Novosadskom ulicom i dalje nastavljati redovnom trasom."
+            },
+            {
+                "text": "NA IZMENJENOM DELU TRASE KORISTIĆE SE REDOVNA STAJALIŠTA DRUGIH LINIJA."
+            }
+        ]
+    },
+    {
         "date": "29.08.2025",
         "title": "Od 01. septembra JESENJI red vožnje",
         "sections": [
@@ -142,14 +160,5 @@
             }
         ],
         "url": "http://www.gspns.co.rs/dokumenti/redvoznje_0502.pdf"
-    },
-    {
-        "date": "17.01.2025",
-        "title": "Linija 3B – Privremeno stajalište „PRERADOVIĆEVA – BOŽIDARA ADŽIJE“ u smeru sa Puckaroša",
-        "sections": [
-            {
-                "text": "Na liniji 3B u smeru B od Puckaroša do Petrovaradina (OŠ „Jovan Dučić“) autobusi će do daljnjeg privremeno koristiti i stajalište „PRERADOVIĆEVA – BOŽIDARA ADŽIJE“ (redovna stajališta linije 3 Petrovaradin - Centar- Detelinara i linije 9 Novo naselje – Liman – Petrovaradin).\n\nNavedena izmena stupiće na snagu 20.01.2025. godine."
-            }
-        ]
     }
 ]

@@ -1,6 +1,12 @@
 {
     "direction_a": [
         {
+            "id": "_1",
+            "label": "PRERADOVIĆEVA - OSNOVNA ŠKOLA JOVAN DUČIĆ",
+            "longitude": 19.8727083512,
+            "latitude": 45.2516407374
+        },
+        {
             "id": "_",
             "label": "PRERADOVIĆEVA - RAČKOG",
             "longitude": 19.8830977084,
@@ -19,12 +25,6 @@
             "latitude": 45.2389365212
         },
         {
-            "id": "_1",
-            "label": "PRERADOVIĆEVA - OSNOVNA ŠKOLA JOVAN DUČIĆ",
-            "longitude": 19.8727083512,
-            "latitude": 45.2516407374
-        },
-        {
             "id": "_",
             "label": "BREZA - TOME MARETIĆA",
             "longitude": 19.894552,
@@ -32,6 +32,12 @@
         }
     ],
     "direction_b": [
+        {
+            "id": "_1",
+            "label": "BREZA - TOME MARETIĆA",
+            "longitude": 19.894552,
+            "latitude": 45.22373
+        },
         {
             "id": "_",
             "label": "BREZA - PAVLA RISTIĆA",
@@ -43,12 +49,6 @@
             "label": "TEKIJE - NAVIP",
             "longitude": 19.8914101033,
             "latitude": 45.2332483189
-        },
-        {
-            "id": "_1",
-            "label": "BREZA - TOME MARETIĆA",
-            "longitude": 19.894552,
-            "latitude": 45.22373
         },
         {
             "id": "_",

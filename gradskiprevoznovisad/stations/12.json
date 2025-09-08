@@ -92,18 +92,18 @@
             "expected_arrival_seconds": 900
         },
         {
-            "id": "_",
-            "label": "Stanoja Glavaša - Šarplaninska",
-            "longitude": 19.808045,
-            "latitude": 45.236683,
-            "expected_arrival_seconds": 980
-        },
-        {
             "id": "_15",
             "label": "Senteleki Kornela - O.Š. Jožef Atila",
             "longitude": 19.806373,
             "latitude": 45.237096,
             "expected_arrival_seconds": 1060
+        },
+        {
+            "id": "_14",
+            "label": "Stanoja Glavaša - Šarplaninska",
+            "longitude": 19.808045,
+            "latitude": 45.236683,
+            "expected_arrival_seconds": 980
         }
     ],
     "direction_b": [

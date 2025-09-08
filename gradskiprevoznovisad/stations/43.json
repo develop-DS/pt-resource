@@ -14,21 +14,15 @@
     },
     {
       "id": "__",
-      "label": "RUMENAČKI PUT - AVIJATIČARSKA",
-      "longitude": 19.8079135339,
-      "latitude": 45.2712216153
-    },
-    {
-      "id": "__",
       "label": "RUMENKA - KANAL",
       "longitude": 19.7421633381,
       "latitude": 45.3003445282
     },
     {
       "id": "__",
-      "label": "RUMENAČKI PUT - GRADSKO GROBLJE\r\n",
-      "longitude": 19.7998638594,
-      "latitude": 45.2759310771
+      "label": "RUMENAČKI PUT - AVIJATIČARSKA",
+      "longitude": 19.8079135339,
+      "latitude": 45.2712216153
     },
     {
       "id": "__",
@@ -92,6 +86,12 @@
     },
     {
       "id": "__",
+      "label": "RUMENAČKA - BUL. JAŠE TOMIĆA",
+      "longitude": 19.8182127414,
+      "latitude": 45.2633439588
+    },
+    {
+      "id": "__",
       "label": "RUMENAČKA - RADNIČKO IGRALIŠTE",
       "longitude": 19.8148147237,
       "latitude": 45.2660444179
@@ -110,15 +110,9 @@
     },
     {
       "id": "__",
-      "label": "RUMENAČKA - BUL. JAŠE TOMIĆA",
-      "longitude": 19.8182127414,
-      "latitude": 45.2633439588
-    },
-    {
-      "id": "_",
       "label": "RUMENAČKI PUT - GRADSKO GROBLJE\r\n",
-      "longitude": 19.794461,
-      "latitude": 45.278626
+      "longitude": 19.7998638594,
+      "latitude": 45.2759310771
     }
   ],
   "direction_b": [
@@ -133,30 +127,6 @@
       "label": "RUMENAČKI PUT - KRUŽNI TOK",
       "longitude": 19.8018176756,
       "latitude": 45.2747023047
-    },
-    {
-      "id": "__",
-      "label": "RUMENAČKA - POLICIJSKA STANICA",
-      "longitude": 19.8130603695,
-      "latitude": 45.2670846403
-    },
-    {
-      "id": "__",
-      "label": "BUL. JAŠE TOMIĆA - RUMENAČKA",
-      "longitude": 19.8192032513,
-      "latitude": 45.2630741789
-    },
-    {
-      "id": "__",
-      "label": "RUMENAČKI PUT - NADVOŽNJAK",
-      "longitude": 19.7863577779,
-      "latitude": 45.2801667701
-    },
-    {
-      "id": "__",
-      "label": "RUMENAČKI PUT - AVIJATIČARSKA",
-      "longitude": 19.8089150153,
-      "latitude": 45.2702133075
     },
     {
       "id": "_",
@@ -231,16 +201,40 @@
       "latitude": 45.2827262394
     },
     {
+      "id": "_",
+      "label": "DOLAZNI PERON",
+      "longitude": 19.830784,
+      "latitude": 45.26467
+    },
+    {
       "id": "__",
       "label": "RUMENKA - KISAČKI PUT - ASFALTNA BAZA",
       "longitude": 19.742680494,
       "latitude": 45.3080190296
     },
     {
-      "id": "_",
-      "label": "DOLAZNI PERON",
-      "longitude": 19.830784,
-      "latitude": 45.26467
+      "id": "__",
+      "label": "RUMENAČKI PUT - NADVOŽNJAK",
+      "longitude": 19.7863577779,
+      "latitude": 45.2801667701
+    },
+    {
+      "id": "__",
+      "label": "RUMENAČKI PUT - AVIJATIČARSKA",
+      "longitude": 19.8089150153,
+      "latitude": 45.2702133075
+    },
+    {
+      "id": "__",
+      "label": "BUL. JAŠE TOMIĆA - RUMENAČKA",
+      "longitude": 19.8192032513,
+      "latitude": 45.2630741789
+    },
+    {
+      "id": "__",
+      "label": "RUMENAČKA - POLICIJSKA STANICA",
+      "longitude": 19.8130603695,
+      "latitude": 45.2670846403
     }
   ]
 }

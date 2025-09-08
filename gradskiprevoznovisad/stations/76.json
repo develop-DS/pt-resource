@@ -1,324 +1,324 @@
 {
-  "direction_a": [
-    {
-      "id": "_1",
-      "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
-      "longitude": 19.8322222835,
-      "latitude": 45.2601777537
-    },
-    {
-      "id": "_2",
-      "label": "BUL. OSLOBOÐENJA - NOVOSADSKOG SAJMA",
-      "longitude": 19.8353175469,
-      "latitude": 45.2545506888
-    },
-    {
-      "id": "_3",
-      "label": "BUL. OSLOBOĐENJA - FUTOŠKA",
-      "longitude": 19.8370753816,
-      "latitude": 45.2514514442
-    },
-    {
-      "id": "_4",
-      "label": "BUL. OSLOBOĐENJA - BUL. CARA LAZARA",
-      "longitude": 19.8414842753,
-      "latitude": 45.2434304122
-    },
-    {
-      "id": "_5",
-      "label": "BUL. OSLOBOĐENJA - MOST SLOBODE",
-      "longitude": 19.8428482132,
-      "latitude": 45.241081551
-    },
-    {
-      "id": "_6",
-      "label": "SR. KAMENICA - UNIVERZITET",
-      "longitude": 19.8520544672,
-      "latitude": 45.227563923
-    },
-    {
-      "id": "_7",
-      "label": "SR. KAMENICA - PETRA KOČIĆA",
-      "longitude": 19.8481049154,
-      "latitude": 45.2257504705
-    },
-    {
-      "id": "_8",
-      "label": "SR. KAMENICA - CENTAR",
-      "longitude": 19.8425048162,
-      "latitude": 45.2234788568
-    },
-    {
-      "id": "_9",
-      "label": "SR. KAMENICA - OKRETNICA KOD DUNAVA",
-      "longitude": 19.8366526852,
-      "latitude": 45.2238692543
-    },
-    {
-      "id": "_10",
-      "label": "SR. KAMENICA - LEDINAČKI PUT - ŠIMŠIROVA",
-      "longitude": 19.8282294427,
-      "latitude": 45.2203782107
-    },
-    {
-      "id": "_11",
-      "label": "SR. KAMENICA - LEDINAČKI PUT - BOCKE",
-      "longitude": 19.8220383026,
-      "latitude": 45.2187669648
-    },
-    {
-      "id": "_12",
-      "label": "LEDINCI - TRAFOSTANICA",
-      "longitude": 19.8145230578,
-      "latitude": 45.2175956398
-    },
-    {
-      "id": "_13",
-      "label": "LEDINCI - RASKRS. ZA LEDINCE",
-      "longitude": 19.8066631981,
-      "latitude": 45.2152153458
-    },
-    {
-      "id": "_14",
-      "label": "LEDINCI - RASKRS. ZA NOVE LEDINCE",
-      "longitude": 19.807499,
-      "latitude": 45.211079
-    },
-    {
-      "id": "_15",
-      "label": "STARI LEDINCI - RASADNIK",
-      "longitude": 19.8082116183,
-      "latitude": 45.2065820416
-    },
-    {
-      "id": "_16",
-      "label": "STARI LEDINCI - SAVLOVAČA I",
-      "longitude": 19.8082314154,
-      "latitude": 45.2018003875
-    },
-    {
-      "id": "_17",
-      "label": "STARI LEDINCI - SELIŠTE",
-      "longitude": 19.8090274492,
-      "latitude": 45.1971082141
-    },
-    {
-      "id": "_18",
-      "label": "STARI LEDINCI - VUKA KARADŽIĆA 4",
-      "longitude": 19.808240285,
-      "latitude": 45.1945084771
-    },
-    {
-      "id": "_19",
-      "label": "STARI LEDINCI - VUKA KARADŽIĆA 63",
-      "longitude": 19.805884126,
-      "latitude": 45.189634285
-    },
-    {
-      "id": "_20",
-      "label": "STARI LEDINCI - CENTAR",
-      "longitude": 19.803955189,
-      "latitude": 45.1861458648
-    },
-    {
-      "id": "_21",
-      "label": "STARI LEDINCI - VUKA KARADŽIĆA 130",
-      "longitude": 19.8036103922,
-      "latitude": 45.1835947554
-    },
-    {
-      "id": "__",
-      "label": "NOVI LEDINCI - OKRETNICA",
-      "longitude": 19.8044802304,
-      "latitude": 45.2094875768
-    },
-    {
-      "id": "_",
-      "label": "ŽELEZNIČKA STANICA",
-      "longitude": 19.8295879176,
-      "latitude": 45.264478508
-    },
-    {
-      "id": "__",
-      "label": "NOVI LEDINCI - SLOBODARSKA ULICA",
-      "longitude": 19.806704,
-      "latitude": 45.210777
-    },
-    {
-      "id": "_",
-      "label": "STARI LEDINCI - OKRETNICA",
-      "longitude": 19.8039185458,
-      "latitude": 45.1785072504
-    },
-    {
-      "id": "_",
-      "label": "BULEVAR OSLOBOĐENJA - BRAĆE RIBNIKAR",
-      "longitude": 19.8392619075,
-      "latitude": 45.2475207776
-    }
-  ],
-  "direction_b": [
-    {
-      "id": "_1",
-      "label": "STARI LEDINCI - OKRETNICA",
-      "longitude": 19.8039185458,
-      "latitude": 45.1785072504
-    },
-    {
-      "id": "_2",
-      "label": "STARI LEDINCI - VUKA KARADŽIĆA 134",
-      "longitude": 19.8037719064,
-      "latitude": 45.1833907221
-    },
-    {
-      "id": "_3",
-      "label": "STARI LEDINCI - CENTAR - PRAVOSLAVNA CRKVA",
-      "longitude": 19.8039429704,
-      "latitude": 45.1859642998
-    },
-    {
-      "id": "_4",
-      "label": "STARI LEDINCI - VUKA KARADŽIĆA 55",
-      "longitude": 19.8062528494,
-      "latitude": 45.1903205396
-    },
-    {
-      "id": "_5",
-      "label": "STARI LEDINCI - VUKA KARADŽIĆA 15",
-      "longitude": 19.8081773173,
-      "latitude": 45.1942417302
-    },
-    {
-      "id": "_6",
-      "label": "STARI LEDINCI - SAVLOVAČA III",
-      "longitude": 19.8090590919,
-      "latitude": 45.1972545699
-    },
-    {
-      "id": "_7",
-      "label": "ST.LEDINCI - SAVLOVAČA II",
-      "longitude": 19.8082662166,
-      "latitude": 45.2019795955
-    },
-    {
-      "id": "_8",
-      "label": "STARI LEDINCI - RASADNIK",
-      "longitude": 19.8083442988,
-      "latitude": 45.2066486685
-    },
-    {
-      "id": "_9",
-      "label": "LEDINCI - RASKRS. ZA NOVE LEDINCE",
-      "longitude": 19.8075464956,
-      "latitude": 45.2107760479
-    },
-    {
-      "id": "_10",
-      "label": "LEDINCI - RASKRS. ZA BEOČIN",
-      "longitude": 19.8068511787,
-      "latitude": 45.2152661381
-    },
-    {
-      "id": "_11",
-      "label": "LEDINCI - TRAFOSTANICA",
-      "longitude": 19.8159702911,
-      "latitude": 45.2177684323
-    },
-    {
-      "id": "_12",
-      "label": "SR. KAMENICA - LEDINAČKI PUT - BOCKE",
-      "longitude": 19.820909925,
-      "latitude": 45.2183331
-    },
-    {
-      "id": "_13",
-      "label": "SR. KAMENICA - LEDINAČKI PUT - ŠIMŠIROVA",
-      "longitude": 19.8277369153,
-      "latitude": 45.2202518686
-    },
-    {
-      "id": "_14",
-      "label": "SR. KAMENICA - OKRETNICA KOD DUNAVA",
-      "longitude": 19.8366471105,
-      "latitude": 45.2236649855
-    },
-    {
-      "id": "_15",
-      "label": "SR. KAMENICA - CENTAR",
-      "longitude": 19.8429845913,
-      "latitude": 45.2231734727
-    },
-    {
-      "id": "_16",
-      "label": "SR. KAMENICA - PETRA KOČIĆA",
-      "longitude": 19.8481745994,
-      "latitude": 45.2257062238
-    },
-    {
-      "id": "_17",
-      "label": "SR. KAMENICA - UNIVERZITET",
-      "longitude": 19.8534869134,
-      "latitude": 45.2277113259
-    },
-    {
-      "id": "_18",
-      "label": "BUL. OSLOBOĐENJA - NARODNOG FRONTA",
-      "longitude": 19.8425582061,
-      "latitude": 45.2421433047
-    },
-    {
-      "id": "_19",
-      "label": "BUL. OSLOBOĐENJA - BUL. CARA LAZARA",
-      "longitude": 19.8412524923,
-      "latitude": 45.2444754031
-    },
-    {
-      "id": "_20",
-      "label": "BUL. OSLOBOĐENJA - MAKSIMA GORKOG",
-      "longitude": 19.8390130044,
-      "latitude": 45.2485327883
-    },
-    {
-      "id": "_21",
-      "label": "BUL. OSLOBOĐENJA - FUTOŠKA PIJACA",
-      "longitude": 19.8368000824,
-      "latitude": 45.2525198464
-    },
-    {
-      "id": "_22",
-      "label": "BUL. OSLOBOĐENJA - POKRAJINSKI SUP",
-      "longitude": 19.8351029309,
-      "latitude": 45.255629856
-    },
-    {
-      "id": "_23",
-      "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
-      "longitude": 19.8318492939,
-      "latitude": 45.2613766166
-    },
-    {
-      "id": "_24",
-      "label": "ŽELEZNIČKA STANICA - DOLASCI",
-      "longitude": 19.830132455,
-      "latitude": 45.2650202834
-    },
-    {
-      "id": "__",
-      "label": "NOVI LEDINCI - OKRETNICA",
-      "longitude": 19.8044802304,
-      "latitude": 45.2094875768
-    },
-    {
-      "id": "__",
-      "label": "NOVI LEDINCI - SLOBODARSKA ULICA",
-      "longitude": 19.806704,
-      "latitude": 45.210777
-    },
-    {
-      "id": "_",
-      "label": "DOLAZNI PERON",
-      "longitude": 19.830784,
-      "latitude": 45.26467
-    }
-  ]
+    "direction_a": [
+        {
+            "id": "_1",
+            "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
+            "longitude": 19.8322222835,
+            "latitude": 45.2601777537
+        },
+        {
+            "id": "_2",
+            "label": "BUL. OSLOBOÐENJA - NOVOSADSKOG SAJMA",
+            "longitude": 19.8353175469,
+            "latitude": 45.2545506888
+        },
+        {
+            "id": "_3",
+            "label": "BUL. OSLOBOĐENJA - FUTOŠKA",
+            "longitude": 19.8370753816,
+            "latitude": 45.2514514442
+        },
+        {
+            "id": "_4",
+            "label": "BUL. OSLOBOĐENJA - BUL. CARA LAZARA",
+            "longitude": 19.8414842753,
+            "latitude": 45.2434304122
+        },
+        {
+            "id": "_5",
+            "label": "BUL. OSLOBOĐENJA - MOST SLOBODE",
+            "longitude": 19.8428482132,
+            "latitude": 45.241081551
+        },
+        {
+            "id": "_6",
+            "label": "SR. KAMENICA - UNIVERZITET",
+            "longitude": 19.8520544672,
+            "latitude": 45.227563923
+        },
+        {
+            "id": "_7",
+            "label": "SR. KAMENICA - PETRA KOČIĆA",
+            "longitude": 19.8481049154,
+            "latitude": 45.2257504705
+        },
+        {
+            "id": "_8",
+            "label": "SR. KAMENICA - CENTAR",
+            "longitude": 19.8425048162,
+            "latitude": 45.2234788568
+        },
+        {
+            "id": "_9",
+            "label": "SR. KAMENICA - OKRETNICA KOD DUNAVA",
+            "longitude": 19.8366526852,
+            "latitude": 45.2238692543
+        },
+        {
+            "id": "_10",
+            "label": "SR. KAMENICA - LEDINAČKI PUT - ŠIMŠIROVA",
+            "longitude": 19.8282294427,
+            "latitude": 45.2203782107
+        },
+        {
+            "id": "_11",
+            "label": "SR. KAMENICA - LEDINAČKI PUT - BOCKE",
+            "longitude": 19.8220383026,
+            "latitude": 45.2187669648
+        },
+        {
+            "id": "_12",
+            "label": "LEDINCI - TRAFOSTANICA",
+            "longitude": 19.8145230578,
+            "latitude": 45.2175956398
+        },
+        {
+            "id": "_13",
+            "label": "LEDINCI - RASKRS. ZA LEDINCE",
+            "longitude": 19.8066631981,
+            "latitude": 45.2152153458
+        },
+        {
+            "id": "_14",
+            "label": "LEDINCI - RASKRS. ZA NOVE LEDINCE",
+            "longitude": 19.807499,
+            "latitude": 45.211079
+        },
+        {
+            "id": "_15",
+            "label": "STARI LEDINCI - RASADNIK",
+            "longitude": 19.8082116183,
+            "latitude": 45.2065820416
+        },
+        {
+            "id": "_16",
+            "label": "STARI LEDINCI - SAVLOVAČA I",
+            "longitude": 19.8082314154,
+            "latitude": 45.2018003875
+        },
+        {
+            "id": "_17",
+            "label": "STARI LEDINCI - SELIŠTE",
+            "longitude": 19.8090274492,
+            "latitude": 45.1971082141
+        },
+        {
+            "id": "_18",
+            "label": "STARI LEDINCI - VUKA KARADŽIĆA 4",
+            "longitude": 19.808240285,
+            "latitude": 45.1945084771
+        },
+        {
+            "id": "_19",
+            "label": "STARI LEDINCI - VUKA KARADŽIĆA 63",
+            "longitude": 19.805884126,
+            "latitude": 45.189634285
+        },
+        {
+            "id": "_20",
+            "label": "STARI LEDINCI - CENTAR",
+            "longitude": 19.803955189,
+            "latitude": 45.1861458648
+        },
+        {
+            "id": "_21",
+            "label": "STARI LEDINCI - VUKA KARADŽIĆA 130",
+            "longitude": 19.8036103922,
+            "latitude": 45.1835947554
+        },
+        {
+            "id": "__",
+            "label": "NOVI LEDINCI - OKRETNICA",
+            "longitude": 19.8044802304,
+            "latitude": 45.2094875768
+        },
+        {
+            "id": "_",
+            "label": "ŽELEZNIČKA STANICA",
+            "longitude": 19.8295879176,
+            "latitude": 45.264478508
+        },
+        {
+            "id": "__",
+            "label": "NOVI LEDINCI - SLOBODARSKA ULICA",
+            "longitude": 19.806704,
+            "latitude": 45.210777
+        },
+        {
+            "id": "_",
+            "label": "STARI LEDINCI - OKRETNICA",
+            "longitude": 19.8039185458,
+            "latitude": 45.1785072504
+        },
+        {
+            "id": "_",
+            "label": "BULEVAR OSLOBOĐENJA - BRAĆE RIBNIKAR",
+            "longitude": 19.8392619075,
+            "latitude": 45.2475207776
+        }
+    ],
+    "direction_b": [
+        {
+            "id": "_1",
+            "label": "STARI LEDINCI - OKRETNICA",
+            "longitude": 19.8039185458,
+            "latitude": 45.1785072504
+        },
+        {
+            "id": "_2",
+            "label": "STARI LEDINCI - VUKA KARADŽIĆA 134",
+            "longitude": 19.8037719064,
+            "latitude": 45.1833907221
+        },
+        {
+            "id": "_3",
+            "label": "STARI LEDINCI - CENTAR - PRAVOSLAVNA CRKVA",
+            "longitude": 19.8039429704,
+            "latitude": 45.1859642998
+        },
+        {
+            "id": "_4",
+            "label": "STARI LEDINCI - VUKA KARADŽIĆA 55",
+            "longitude": 19.8062528494,
+            "latitude": 45.1903205396
+        },
+        {
+            "id": "_5",
+            "label": "STARI LEDINCI - VUKA KARADŽIĆA 15",
+            "longitude": 19.8081773173,
+            "latitude": 45.1942417302
+        },
+        {
+            "id": "_6",
+            "label": "STARI LEDINCI - SAVLOVAČA III",
+            "longitude": 19.8090590919,
+            "latitude": 45.1972545699
+        },
+        {
+            "id": "_7",
+            "label": "ST.LEDINCI - SAVLOVAČA II",
+            "longitude": 19.8082662166,
+            "latitude": 45.2019795955
+        },
+        {
+            "id": "_8",
+            "label": "STARI LEDINCI - RASADNIK",
+            "longitude": 19.8083442988,
+            "latitude": 45.2066486685
+        },
+        {
+            "id": "_9",
+            "label": "LEDINCI - RASKRS. ZA NOVE LEDINCE",
+            "longitude": 19.8075464956,
+            "latitude": 45.2107760479
+        },
+        {
+            "id": "_10",
+            "label": "LEDINCI - RASKRS. ZA BEOČIN",
+            "longitude": 19.8068511787,
+            "latitude": 45.2152661381
+        },
+        {
+            "id": "_11",
+            "label": "LEDINCI - TRAFOSTANICA",
+            "longitude": 19.8159702911,
+            "latitude": 45.2177684323
+        },
+        {
+            "id": "_12",
+            "label": "SR. KAMENICA - LEDINAČKI PUT - BOCKE",
+            "longitude": 19.820909925,
+            "latitude": 45.2183331
+        },
+        {
+            "id": "_13",
+            "label": "SR. KAMENICA - LEDINAČKI PUT - ŠIMŠIROVA",
+            "longitude": 19.8277369153,
+            "latitude": 45.2202518686
+        },
+        {
+            "id": "_14",
+            "label": "SR. KAMENICA - OKRETNICA KOD DUNAVA",
+            "longitude": 19.8366471105,
+            "latitude": 45.2236649855
+        },
+        {
+            "id": "_15",
+            "label": "SR. KAMENICA - CENTAR",
+            "longitude": 19.8429845913,
+            "latitude": 45.2231734727
+        },
+        {
+            "id": "_16",
+            "label": "SR. KAMENICA - PETRA KOČIĆA",
+            "longitude": 19.8481745994,
+            "latitude": 45.2257062238
+        },
+        {
+            "id": "_17",
+            "label": "SR. KAMENICA - UNIVERZITET",
+            "longitude": 19.8534869134,
+            "latitude": 45.2277113259
+        },
+        {
+            "id": "_18",
+            "label": "BUL. OSLOBOĐENJA - NARODNOG FRONTA",
+            "longitude": 19.8425582061,
+            "latitude": 45.2421433047
+        },
+        {
+            "id": "_19",
+            "label": "BUL. OSLOBOĐENJA - BUL. CARA LAZARA",
+            "longitude": 19.8412524923,
+            "latitude": 45.2444754031
+        },
+        {
+            "id": "_20",
+            "label": "BUL. OSLOBOĐENJA - MAKSIMA GORKOG",
+            "longitude": 19.8390130044,
+            "latitude": 45.2485327883
+        },
+        {
+            "id": "_21",
+            "label": "BUL. OSLOBOĐENJA - FUTOŠKA PIJACA",
+            "longitude": 19.8368000824,
+            "latitude": 45.2525198464
+        },
+        {
+            "id": "_22",
+            "label": "BUL. OSLOBOĐENJA - POKRAJINSKI SUP",
+            "longitude": 19.8351029309,
+            "latitude": 45.255629856
+        },
+        {
+            "id": "_23",
+            "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
+            "longitude": 19.8318492939,
+            "latitude": 45.2613766166
+        },
+        {
+            "id": "_24",
+            "label": "ŽELEZNIČKA STANICA - DOLASCI",
+            "longitude": 19.830132455,
+            "latitude": 45.2650202834
+        },
+        {
+            "id": "__",
+            "label": "NOVI LEDINCI - OKRETNICA",
+            "longitude": 19.8044802304,
+            "latitude": 45.2094875768
+        },
+        {
+            "id": "_",
+            "label": "DOLAZNI PERON",
+            "longitude": 19.830784,
+            "latitude": 45.26467
+        },
+        {
+            "id": "__",
+            "label": "NOVI LEDINCI - SLOBODARSKA ULICA",
+            "longitude": 19.806704,
+            "latitude": 45.210777
+        }
+    ]
 }

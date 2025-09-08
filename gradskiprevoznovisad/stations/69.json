@@ -1,306 +1,306 @@
 {
-  "direction_a": [
-    {
-      "id": "_2",
-      "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
-      "longitude": 19.8322222835,
-      "latitude": 45.2601777537
-    },
-    {
-      "id": "_3",
-      "label": "BUL. OSLOBOÐENJA - NOVOSADSKOG SAJMA",
-      "longitude": 19.8353175469,
-      "latitude": 45.2545506888
-    },
-    {
-      "id": "_4",
-      "label": "BUL. OSLOBOĐENJA - FUTOŠKA",
-      "longitude": 19.8370753816,
-      "latitude": 45.2514514442
-    },
-    {
-      "id": "_5",
-      "label": "MAKSIMA GORKOG - BUL.OSLOBOĐENJA",
-      "longitude": 19.839720893,
-      "latitude": 45.2480202534
-    },
-    {
-      "id": "_6",
-      "label": "MAKSIMA GORKOG - SPENS",
-      "longitude": 19.8431913572,
-      "latitude": 45.2488624702
-    },
-    {
-      "id": "_7",
-      "label": "ŽARKA ZRENJANINA - IZVRŠNO VEĆE",
-      "longitude": 19.8475593745,
-      "latitude": 45.2528535063
-    },
-    {
-      "id": "_9",
-      "label": "BEOGRADSKA - LISINSKOG",
-      "longitude": 19.8620128358,
-      "latitude": 45.2547734365
-    },
-    {
-      "id": "_10",
-      "label": "PRERADOVIĆEVA - LOVAČKI DOM",
-      "longitude": 19.8678103709,
-      "latitude": 45.2525866389
-    },
-    {
-      "id": "_11",
-      "label": "PRERADOVIĆEVA - O.Š. JOVAN DUČIĆ",
-      "longitude": 19.8727083512,
-      "latitude": 45.2516407374
-    },
-    {
-      "id": "_12",
-      "label": "KAMENIČKI PUT - TRANDŽAMENT",
-      "longitude": 19.8663045281,
-      "latitude": 45.2397771125
-    },
-    {
-      "id": "_13",
-      "label": "KAMENIČKI PUT - RIBNJAK GORNJI PUT",
-      "longitude": 19.8637483134,
-      "latitude": 45.2370775829
-    },
-    {
-      "id": "_14",
-      "label": "KAMENIČKI PUT - RTV \"NOVI SAD\"",
-      "longitude": 19.8588026936,
-      "latitude": 45.2325391031
-    },
-    {
-      "id": "_15",
-      "label": "SR. KAMENICA - UNIVERZITET",
-      "longitude": 19.8520544672,
-      "latitude": 45.227563923
-    },
-    {
-      "id": "_16",
-      "label": "SR. KAMENICA - PETRA KOČIĆA",
-      "longitude": 19.8481049154,
-      "latitude": 45.2257504705
-    },
-    {
-      "id": "_17",
-      "label": "SR.KAMENICA - ŽELEZNIČKA - MUZEJ",
-      "longitude": 19.8443834126,
-      "latitude": 45.2228156939
-    },
-    {
-      "id": "_18",
-      "label": "MOŠE PIJADE - SŠUP SR. KAMENICA",
-      "longitude": 19.8485735281,
-      "latitude": 45.2215936729
-    },
-    {
-      "id": "_19",
-      "label": "MAJORA TEPIĆA - MARKA OREŠKOVIĆA",
-      "longitude": 19.8522159283,
-      "latitude": 45.2179545299
-    },
-    {
-      "id": "_20",
-      "label": "MAJORA TEPIĆA - NADVOŽNJAK",
-      "longitude": 19.8520212543,
-      "latitude": 45.212298367
-    },
-    {
-      "id": "_",
-      "label": "BULEVAR MIHAJLA PUPINA - SONJE MARINKOVIĆ",
-      "longitude": 19.852979,
-      "latitude": 45.254153
-    },
-    {
-      "id": "_",
-      "label": "ŽELEZNIČKA STANICA",
-      "longitude": 19.8295879176,
-      "latitude": 45.264478508
-    },
-    {
-      "id": "_",
-      "label": "DUNAVSKE DIVIZIJE - KASARNA",
-      "longitude": 19.8709,
-      "latitude": 45.245
-    },
-    {
-      "id": "_",
-      "label": "SONJE MARINKOVIĆ - PLITVIČKA",
-      "longitude": 19.851008,
-      "latitude": 45.205073
-    },
-    {
-      "id": "_",
-      "label": "SONJE MARINKOVIĆ - PUDARSKA",
-      "longitude": 19.849107,
-      "latitude": 45.200209
-    },
-    {
-      "id": "_",
-      "label": "SREMSKA KAMENICA - ČARDAK - OKRETNICA",
-      "longitude": 19.847003,
-      "latitude": 45.195855
-    }
-  ],
-  "direction_b": [
-    {
-      "id": "_3",
-      "label": "MAJORA TEPIĆA - MARKA OREŠKOVIĆA",
-      "longitude": 19.8525318999,
-      "latitude": 45.2185076376
-    },
-    {
-      "id": "_4",
-      "label": "MOŠE PIJADE - SŠUP SR. KAMENICA",
-      "longitude": 19.8480204015,
-      "latitude": 45.2214886206
-    },
-    {
-      "id": "_5",
-      "label": "SR.KAMENICA - ŽELEZNIČKA",
-      "longitude": 19.8439718129,
-      "latitude": 45.2232749084
-    },
-    {
-      "id": "_6",
-      "label": "SR. KAMENICA - PETRA KOČIĆA",
-      "longitude": 19.8481745994,
-      "latitude": 45.2257062238
-    },
-    {
-      "id": "_7",
-      "label": "SR. KAMENICA - UNIVERZITET",
-      "longitude": 19.8534869134,
-      "latitude": 45.2277113259
-    },
-    {
-      "id": "_8",
-      "label": "KAMENIČKI PUT - RTV \"NOVI SAD\"",
-      "longitude": 19.859672004,
-      "latitude": 45.2331437022
-    },
-    {
-      "id": "_9",
-      "label": "KAMENIČKI PUT - RIBNJAK GORNJI PUT",
-      "longitude": 19.8637166365,
-      "latitude": 45.236946622
-    },
-    {
-      "id": "_10",
-      "label": "KAMENIČKI PUT - TRANDŽAMENT",
-      "longitude": 19.8664982288,
-      "latitude": 45.2402022434
-    },
-    {
-      "id": "_11",
-      "label": "PRERADOVIĆEVA - ŠENOINA",
-      "longitude": 19.8732154355,
-      "latitude": 45.251431704
-    },
-    {
-      "id": "_12",
-      "label": "PRERADOVIĆEVA - LOVAČKI DOM",
-      "longitude": 19.8689433116,
-      "latitude": 45.2526031657
-    },
-    {
-      "id": "_13",
-      "label": "BEOGRADSKA - VLADIMIRA NAZORA",
-      "longitude": 19.8623634945,
-      "latitude": 45.2548163902
-    },
-    {
-      "id": "_15",
-      "label": "ŽARKA ZRENJANINA - OPŠTINA",
-      "longitude": 19.8471827488,
-      "latitude": 45.2524025428
-    },
-    {
-      "id": "_16",
-      "label": "MAKSIMA GORKOG - SREMSKA",
-      "longitude": 19.8421576964,
-      "latitude": 45.2488034819
-    },
-    {
-      "id": "_17",
-      "label": "BUL. OSLOBOĐENJA - MAKSIMA GORKOG",
-      "longitude": 19.8390130044,
-      "latitude": 45.2485327883
-    },
-    {
-      "id": "_18",
-      "label": "BUL. OSLOBOĐENJA - FUTOŠKA PIJACA",
-      "longitude": 19.8368000824,
-      "latitude": 45.2525198464
-    },
-    {
-      "id": "_19",
-      "label": "BUL. OSLOBOĐENJA - POKRAJINSKI SUP",
-      "longitude": 19.8351029309,
-      "latitude": 45.255629856
-    },
-    {
-      "id": "_20",
-      "label": "ŽELEZNIČKA STANICA - DOLASCI",
-      "longitude": 19.830132455,
-      "latitude": 45.2650202834
-    },
-    {
-      "id": "_21",
-      "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
-      "longitude": 19.8318492939,
-      "latitude": 45.2613766166
-    },
-    {
-      "id": "_",
-      "label": "BULEVAR MIHAJLA PUPINA - DUNAVSKI PARK",
-      "longitude": 19.8519122087,
-      "latitude": 45.2542020579
-    },
-    {
-      "id": "_",
-      "label": "DUNAVSKE DIVIZIJE 2 - KASARNA",
-      "longitude": 19.8711,
-      "latitude": 45.244943
-    },
-    {
-      "id": "_",
-      "label": "MAJORA TEPIĆA - MOŠE PIJADE",
-      "longitude": 19.8546516,
-      "latitude": 45.2216877
-    },
-    {
-      "id": "_",
-      "label": "DOLAZNI PERON",
-      "longitude": 19.830784,
-      "latitude": 45.26467
-    },
-    {
-      "id": "_",
-      "label": "SREMSKA KAMENICA - ČARDAK - OKRETNICA",
-      "longitude": 19.847003,
-      "latitude": 45.195855
-    },
-    {
-      "id": "_",
-      "label": "SONJE MARINKOVIĆ - PUDARSKA ZA NS",
-      "longitude": 19.84931,
-      "latitude": 45.20052
-    },
-    {
-      "id": "_",
-      "label": "SONJE MARINKOVIĆ - PLITVIČKA ZA NS",
-      "longitude": 19.85094,
-      "latitude": 45.206825
-    },
-    {
-      "id": "_",
-      "label": "SONJE MARINKOVIĆ - LIVADE",
-      "longitude": 19.851746,
-      "latitude": 45.210836
-    }
-  ]
+    "direction_a": [
+        {
+            "id": "_2",
+            "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
+            "longitude": 19.8322222835,
+            "latitude": 45.2601777537
+        },
+        {
+            "id": "_3",
+            "label": "BUL. OSLOBOÐENJA - NOVOSADSKOG SAJMA",
+            "longitude": 19.8353175469,
+            "latitude": 45.2545506888
+        },
+        {
+            "id": "_4",
+            "label": "BUL. OSLOBOĐENJA - FUTOŠKA",
+            "longitude": 19.8370753816,
+            "latitude": 45.2514514442
+        },
+        {
+            "id": "_5",
+            "label": "MAKSIMA GORKOG - BUL.OSLOBOĐENJA",
+            "longitude": 19.839720893,
+            "latitude": 45.2480202534
+        },
+        {
+            "id": "_6",
+            "label": "MAKSIMA GORKOG - SPENS",
+            "longitude": 19.8431913572,
+            "latitude": 45.2488624702
+        },
+        {
+            "id": "_7",
+            "label": "ŽARKA ZRENJANINA - IZVRŠNO VEĆE",
+            "longitude": 19.8475593745,
+            "latitude": 45.2528535063
+        },
+        {
+            "id": "_9",
+            "label": "BEOGRADSKA - LISINSKOG",
+            "longitude": 19.8620128358,
+            "latitude": 45.2547734365
+        },
+        {
+            "id": "_10",
+            "label": "PRERADOVIĆEVA - LOVAČKI DOM",
+            "longitude": 19.8678103709,
+            "latitude": 45.2525866389
+        },
+        {
+            "id": "_11",
+            "label": "PRERADOVIĆEVA - O.Š. JOVAN DUČIĆ",
+            "longitude": 19.8727083512,
+            "latitude": 45.2516407374
+        },
+        {
+            "id": "_12",
+            "label": "KAMENIČKI PUT - TRANDŽAMENT",
+            "longitude": 19.8663045281,
+            "latitude": 45.2397771125
+        },
+        {
+            "id": "_13",
+            "label": "KAMENIČKI PUT - RIBNJAK GORNJI PUT",
+            "longitude": 19.8637483134,
+            "latitude": 45.2370775829
+        },
+        {
+            "id": "_14",
+            "label": "KAMENIČKI PUT - RTV \"NOVI SAD\"",
+            "longitude": 19.8588026936,
+            "latitude": 45.2325391031
+        },
+        {
+            "id": "_15",
+            "label": "SR. KAMENICA - UNIVERZITET",
+            "longitude": 19.8520544672,
+            "latitude": 45.227563923
+        },
+        {
+            "id": "_16",
+            "label": "SR. KAMENICA - PETRA KOČIĆA",
+            "longitude": 19.8481049154,
+            "latitude": 45.2257504705
+        },
+        {
+            "id": "_17",
+            "label": "SR.KAMENICA - ŽELEZNIČKA - MUZEJ",
+            "longitude": 19.8443834126,
+            "latitude": 45.2228156939
+        },
+        {
+            "id": "_18",
+            "label": "MOŠE PIJADE - SŠUP SR. KAMENICA",
+            "longitude": 19.8485735281,
+            "latitude": 45.2215936729
+        },
+        {
+            "id": "_19",
+            "label": "MAJORA TEPIĆA - MARKA OREŠKOVIĆA",
+            "longitude": 19.8522159283,
+            "latitude": 45.2179545299
+        },
+        {
+            "id": "_20",
+            "label": "MAJORA TEPIĆA - NADVOŽNJAK",
+            "longitude": 19.8520212543,
+            "latitude": 45.212298367
+        },
+        {
+            "id": "_",
+            "label": "BULEVAR MIHAJLA PUPINA - SONJE MARINKOVIĆ",
+            "longitude": 19.852979,
+            "latitude": 45.254153
+        },
+        {
+            "id": "_",
+            "label": "ŽELEZNIČKA STANICA",
+            "longitude": 19.8295879176,
+            "latitude": 45.264478508
+        },
+        {
+            "id": "_",
+            "label": "DUNAVSKE DIVIZIJE - KASARNA",
+            "longitude": 19.8709,
+            "latitude": 45.245
+        },
+        {
+            "id": "_",
+            "label": "SONJE MARINKOVIĆ - PLITVIČKA",
+            "longitude": 19.851008,
+            "latitude": 45.205073
+        },
+        {
+            "id": "_",
+            "label": "SONJE MARINKOVIĆ - PUDARSKA",
+            "longitude": 19.849107,
+            "latitude": 45.200209
+        },
+        {
+            "id": "_",
+            "label": "SREMSKA KAMENICA - ČARDAK - OKRETNICA",
+            "longitude": 19.847003,
+            "latitude": 45.195855
+        }
+    ],
+    "direction_b": [
+        {
+            "id": "_3",
+            "label": "MAJORA TEPIĆA - MARKA OREŠKOVIĆA",
+            "longitude": 19.8525318999,
+            "latitude": 45.2185076376
+        },
+        {
+            "id": "_4",
+            "label": "MOŠE PIJADE - SŠUP SR. KAMENICA",
+            "longitude": 19.8480204015,
+            "latitude": 45.2214886206
+        },
+        {
+            "id": "_5",
+            "label": "SR.KAMENICA - ŽELEZNIČKA",
+            "longitude": 19.8439718129,
+            "latitude": 45.2232749084
+        },
+        {
+            "id": "_6",
+            "label": "SR. KAMENICA - PETRA KOČIĆA",
+            "longitude": 19.8481745994,
+            "latitude": 45.2257062238
+        },
+        {
+            "id": "_7",
+            "label": "SR. KAMENICA - UNIVERZITET",
+            "longitude": 19.8534869134,
+            "latitude": 45.2277113259
+        },
+        {
+            "id": "_8",
+            "label": "KAMENIČKI PUT - RTV \"NOVI SAD\"",
+            "longitude": 19.859672004,
+            "latitude": 45.2331437022
+        },
+        {
+            "id": "_9",
+            "label": "KAMENIČKI PUT - RIBNJAK GORNJI PUT",
+            "longitude": 19.8637166365,
+            "latitude": 45.236946622
+        },
+        {
+            "id": "_10",
+            "label": "KAMENIČKI PUT - TRANDŽAMENT",
+            "longitude": 19.8664982288,
+            "latitude": 45.2402022434
+        },
+        {
+            "id": "_11",
+            "label": "PRERADOVIĆEVA - ŠENOINA",
+            "longitude": 19.8732154355,
+            "latitude": 45.251431704
+        },
+        {
+            "id": "_12",
+            "label": "PRERADOVIĆEVA - LOVAČKI DOM",
+            "longitude": 19.8689433116,
+            "latitude": 45.2526031657
+        },
+        {
+            "id": "_13",
+            "label": "BEOGRADSKA - VLADIMIRA NAZORA",
+            "longitude": 19.8623634945,
+            "latitude": 45.2548163902
+        },
+        {
+            "id": "_15",
+            "label": "ŽARKA ZRENJANINA - OPŠTINA",
+            "longitude": 19.8471827488,
+            "latitude": 45.2524025428
+        },
+        {
+            "id": "_16",
+            "label": "MAKSIMA GORKOG - SREMSKA",
+            "longitude": 19.8421576964,
+            "latitude": 45.2488034819
+        },
+        {
+            "id": "_17",
+            "label": "BUL. OSLOBOĐENJA - MAKSIMA GORKOG",
+            "longitude": 19.8390130044,
+            "latitude": 45.2485327883
+        },
+        {
+            "id": "_18",
+            "label": "BUL. OSLOBOĐENJA - FUTOŠKA PIJACA",
+            "longitude": 19.8368000824,
+            "latitude": 45.2525198464
+        },
+        {
+            "id": "_19",
+            "label": "BUL. OSLOBOĐENJA - POKRAJINSKI SUP",
+            "longitude": 19.8351029309,
+            "latitude": 45.255629856
+        },
+        {
+            "id": "_20",
+            "label": "ŽELEZNIČKA STANICA - DOLASCI",
+            "longitude": 19.830132455,
+            "latitude": 45.2650202834
+        },
+        {
+            "id": "_21",
+            "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
+            "longitude": 19.8318492939,
+            "latitude": 45.2613766166
+        },
+        {
+            "id": "_",
+            "label": "BULEVAR MIHAJLA PUPINA - DUNAVSKI PARK",
+            "longitude": 19.8519122087,
+            "latitude": 45.2542020579
+        },
+        {
+            "id": "_",
+            "label": "DUNAVSKE DIVIZIJE 2 - KASARNA",
+            "longitude": 19.8711,
+            "latitude": 45.244943
+        },
+        {
+            "id": "_",
+            "label": "DOLAZNI PERON",
+            "longitude": 19.830784,
+            "latitude": 45.26467
+        },
+        {
+            "id": "_",
+            "label": "MAJORA TEPIĆA - MOŠE PIJADE",
+            "longitude": 19.8546516,
+            "latitude": 45.2216877
+        },
+        {
+            "id": "_",
+            "label": "SREMSKA KAMENICA - ČARDAK - OKRETNICA",
+            "longitude": 19.847003,
+            "latitude": 45.195855
+        },
+        {
+            "id": "_",
+            "label": "SONJE MARINKOVIĆ - PUDARSKA ZA NS",
+            "longitude": 19.84931,
+            "latitude": 45.20052
+        },
+        {
+            "id": "_",
+            "label": "SONJE MARINKOVIĆ - PLITVIČKA ZA NS",
+            "longitude": 19.85094,
+            "latitude": 45.206825
+        },
+        {
+            "id": "_",
+            "label": "SONJE MARINKOVIĆ - LIVADE",
+            "longitude": 19.851746,
+            "latitude": 45.210836
+        }
+    ]
 }
