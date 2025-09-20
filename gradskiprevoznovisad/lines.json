@@ -24,7 +24,7 @@
                 "07:02NRG",
                 "07:13J",
                 "07:25",
-                "07:37NRG",
+                "07:35NRG",
                 "07:55NRJ",
                 "08:14GL",
                 "08:32",
@@ -1210,9 +1210,7 @@
         "id": "3B",
         "title": "Petrovaradin (O.s. J.ducic) - Puckaros",
         "type": "BUS",
-        "info": [
-            "Đ = NE SAOBRA.ZA VREME ĐAČKOG RASPUSTA"
-        ],
+        "info": [],
         "weekday": {
             "starting_points_a": [
                 "11:10Đ",
@@ -2558,7 +2556,6 @@
         "title": "Adice - Veternik (O.s.marija Trandafil)",
         "type": "BUS",
         "info": [
-            "Đ = NE SAOBRA.ZA VREME ĐAČKOG RASPUSTA",
             "SSD = S.S. D. OBRADOVIC DJACKI"
         ],
         "weekday": {
@@ -2567,14 +2564,14 @@
                 "10:30Đ",
                 "12:20Đ",
                 "13:00Đ",
-                "13:45Đ"
+                "14:00Đ"
             ],
             "starting_points_b": [
                 "11:05Đ",
                 "11:55Đ",
                 "12:45Đ",
                 "13:35Đ",
-                "14:25Đ",
+                "14:30Đ",
                 "15:25Đ",
                 "17:15Đ",
                 "18:05Đ",
@@ -4928,6 +4925,7 @@
         "type": "BUS",
         "info": [
             "DDJ = OD SAJLOVA DO DETELINARE DJACKI",
+            "NGS = NISKOPODNI KROZ GORNJE SAJLOVO",
             "NRS = NISKOPODNI SA RAMPOM SAJLOVO",
             "S = SAJLOVO"
         ],
@@ -4935,7 +4933,7 @@
             "starting_points_a": [
                 "05:00S",
                 "05:20",
-                "05:40NRS",
+                "05:40NGS",
                 "06:00NRS",
                 "06:20",
                 "06:40S",
@@ -4995,7 +4993,7 @@
                 "05:40S",
                 "05:57S",
                 "06:14",
-                "06:31NRS",
+                "06:28NGS",
                 "06:48NRS",
                 "07:05",
                 "07:22S",
@@ -5812,7 +5810,6 @@
         "type": "BUS",
         "info": [
             "C = DO CENTRA N.SADA",
-            "Đ = NE SAOBRA.ZA VREME ĐAČKOG RASPUSTA",
             "KC = KROZ CENTAR KAĆA"
         ],
         "weekday": {
@@ -5908,7 +5905,6 @@
         "type": "BUS",
         "info": [
             "C = DO CENTRA N.SADA",
-            "Đ = NE SAOBRA.ZA VREME ĐAČKOG RASPUSTA",
             "NT = NOVOM TRASOM KROZ KAC"
         ],
         "weekday": {
@@ -6148,7 +6144,7 @@
             "starting_points_b": [
                 "04:30",
                 "05:00",
-                "06:10",
+                "06:00",
                 "07:00",
                 "08:00",
                 "09:10",
@@ -6547,8 +6543,7 @@
         "type": "BUS",
         "info": [
             "ČL = KROZ LIS",
-            "ČLĐ = KROZ LIS DJACKI",
-            "Đ = NE SAOBRA.ZA VREME ĐAČKOG RASPUSTA"
+            "ČLĐ = KROZ LIS DJACKI"
         ],
         "weekday": {
             "starting_points_a": [
@@ -6859,7 +6854,7 @@
                 "16:30TK",
                 "17:10TK",
                 "18:20RTK",
-                "19:40",
+                "19:40KR",
                 "20:35",
                 "21:25RTK",
                 "22:45TK",
@@ -6993,7 +6988,7 @@
                 "05:55",
                 "06:20",
                 "06:30",
-                "06:55",
+                "06:53",
                 "07:30",
                 "07:55",
                 "08:35",
@@ -7141,8 +7136,7 @@
         "title": "Žele.stanica - Futog Stari",
         "type": "BUS",
         "info": [
-            "CG = CENTRALNO GROBLJE",
-            "Đ = NE SAOBRA.ZA VREME ĐAČKOG RASPUSTA"
+            "CG = CENTRALNO GROBLJE"
         ],
         "weekday": {
             "starting_points_a": [
@@ -7155,7 +7149,6 @@
                 "08:35CG",
                 "10:30",
                 "11:05",
-                "11:10",
                 "12:30",
                 "14:40",
                 "15:10",
@@ -7181,7 +7174,6 @@
                 "09:25CG",
                 "11:20",
                 "11:55",
-                "12:00Đ",
                 "12:20Đ",
                 "13:20",
                 "15:30",
@@ -7263,7 +7255,6 @@
         "info": [
             "\"A\" = AROMA-NE SAOBRAĆA GRMEČKOM",
             "AZG = OD AROME ZELEZNIC.GRMEC.DO NS",
-            "Đ = NE SAOBRA.ZA VREME ĐAČKOG RASPUSTA",
             "KF = OD KANALA NOVIM FUTOGOM",
             "ZA = I ZELEZNICKOM DO AROME"
         ],
@@ -7271,7 +7262,7 @@
             "starting_points_a": [
                 "05:00ZA",
                 "06:10ZA",
-                "06:53",
+                "06:55",
                 "07:35",
                 "09:15",
                 "09:40",
@@ -7364,7 +7355,6 @@
         "type": "BUS",
         "info": [
             "CG = CENTRALNO GROBLJE",
-            "Đ = NE SAOBRA.ZA VREME ĐAČKOG RASPUSTA",
             "KN = OD KOTEKSPROD.PORED NEOPLANTE",
             "NK = DO NEOPLANTE I KOTEKSPRODUKTA"
         ],
@@ -7383,7 +7373,7 @@
                 "09:25",
                 "09:50CG",
                 "10:35CG",
-                "11:10Đ",
+                "11:10",
                 "11:30",
                 "11:55",
                 "12:05CG",
@@ -7920,7 +7910,6 @@
         "title": "Mas - Sremski Karlovci(Dudara)",
         "type": "BUS",
         "info": [
-            "Đ = NE SAOBRA.ZA VREME ĐAČKOG RASPUSTA",
             "KVG = KROZ VINOGRADARSKU"
         ],
         "weekday": {
@@ -8057,9 +8046,7 @@
         "id": "63",
         "title": "Mas - Čortanovci",
         "type": "BUS",
-        "info": [
-            "Đ = NE SAOBRA.ZA VREME ĐAČKOG RASPUSTA"
-        ],
+        "info": [],
         "weekday": {
             "starting_points_a": [
                 "05:00",
@@ -8957,8 +8944,8 @@
         ],
         "weekday": {
             "starting_points_a": [
-                "04:55",
                 "04:55TLB",
+                "04:55",
                 "06:10",
                 "07:05NL",
                 "07:30NL",
@@ -9020,8 +9007,8 @@
                 "11:25NL",
                 "13:10NL",
                 "14:45NL",
-                "15:30TLB",
                 "15:30",
+                "15:30TLB",
                 "16:40NL",
                 "18:00NL",
                 "19:00NL",
@@ -9039,8 +9026,8 @@
                 "12:10",
                 "13:55",
                 "15:30",
-                "16:15",
                 "16:15TLB",
+                "16:15",
                 "17:25",
                 "18:40",
                 "19:45",
@@ -9210,7 +9197,6 @@
         "info": [
             "BS = KROZ BEOČIN SELO",
             "DB = DO B.A.S.-A",
-            "Đ = NE SAOBRA.ZA VREME ĐAČKOG RASPUSTA",
             "ĐBS = ĐAČKI KROZ B.SELO",
             "SR = KROZ STARI RAKOVAC",
             "\"B\" = DO BANOSTORA",
@@ -9332,9 +9318,7 @@
         "id": "80",
         "title": "Mas - Beočin(B.a.s.)",
         "type": "BUS",
-        "info": [
-            "Đ = NE SAOBRA.ZA VREME ĐAČKOG RASPUSTA"
-        ],
+        "info": [],
         "weekday": {
             "starting_points_a": [
                 "19:00",
