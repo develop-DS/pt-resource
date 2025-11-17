@@ -1,15 +1,31 @@
 [
     {
-        "date": "07.11.2025",
-        "title": "Red vožnje za Dan primirja",
+        "date": "14.11.2025",
+        "title": "Linija 69 - Povratak na redovnu trasu ",
         "sections": [
             {
-                "text": "Povodom državnog praznika Dan primirja u Prvom svetskom ratu, JGSP „Novi Sad“ obaveštava putnike da će 11. 11. 2025. godine autobusi saobraćati po redu vožnje za praznike (nedeljni red vožnje). Vanredni prevoz na relaciji Železnička stanica Petrovaradin - Centar grada  i  Železnička stanica Novi Sad – Ranžirna železnička stanica saobraćaće po redu vožnje za vikend. Autobusi na linijаma 3B (Petrovaradin, OŠ \"Jovan Dučić\"), 6A (Adice, OŠ \"Marija Trandafil\")  i 5N (Najlon pijaca)  navedenog datuma neće saobraćati."
-            },
-            {
-                "text": "Zbog učeničkog raspusta, 10. 11. 2025. privremeno će biti ukinuti polasci koji su u redu vožnje označeni kao \"đački\", dok autobusi na linijama 3B i 6A neće saobraćati."
+                "text": "Završetkom radova na Kameničkom putu stekli su se uslovi za povratak autobusa na liniji 69 na redovnu trasu 14. 11. 2025. godine od 15 časova."
             }
         ]
+    },
+    {
+        "date": "13.11.2025",
+        "title": "Linije 53, 55 – Privremena izmena trase u FUTOGU 14.11.",
+        "sections": [
+            {
+                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, 14. 11. 2025. godine od 6:00 časova privremeno će biti izmenjene trase autobuskih linija broj 53 i 55 u Futogu. Zbog obeležavanja manifestacije „Seoska slava“ u Futogu, autobuski saobraćaj odvijaće se na seledeći način:"
+            },
+            {
+                "text": "saobraćaće redovnom trasom do futoške raskrsnice Ulica cara Lazara/Braće Bošnjak/Svetozara Markovića, zatim će nastavljati Ulicom Svetozara Markovića, desno Partizanskom, desno Ulicom Branka Radičevića, levo Ulicom Rade Kondića i dalje redovnom trasom."
+            },
+            {
+                "text": "će autobusi saobraćati istom, izmenjenom trasom."
+            },
+            {
+                "text": "NA IZMENJENOM DELU TRASE OTVORIĆE SE PRIVREMENA STAJALIŠTA U OBA SMERA (ULICA SVETOZARA MARKOVIĆA-INDUSTRIJSKA I BRANKA RADIČEVIĆA-POVRTARSKA), KAO I STAJALIŠTA IZ PRAVCA NOVOG SADA, NEPOSREDNO POSLE RASKRSNICE ULICA S.MARKOVIĆA/B.BOŠNJAKA/ C.LAZARA. KORISTIĆE SE I POSTOJEĆA AUTOBUSKA STAJALIŠTA LINIJE 56 (PAR-BENZINSKA PUMPA)."
+            }
+        ],
+        "url": "http://www.gspns.co.rs/dokumenti/futoskaslava.jpg"
     },
     {
         "date": "06.11.2025",
@@ -128,14 +144,5 @@
             }
         ],
         "url": "http://www.gspns.co.rs/dokumenti/ranzirna_1512.pdf"
-    },
-    {
-        "date": "20.11.2024",
-        "title": "Linija 9A privremeno preusmerena do okretnice u Petrovaradinu",
-        "sections": [
-            {
-                "text": "Zbog preusmeravanja železničkog saobraćaja na Železničku stanicu Petrovaradin, obaveštavamo putnike da je zbog rasterećenja postojećih linija autobusa, linija 9A u smeru od Alibegovca produžena do petrovaradinske okretnice linija 3 i 9, odakle dalje saobraća redovnom trasom do Novog naselja. \n\nPodsećamo putnike da je na relaciji Šafarikova ulica - Železnička stanica Petrovaradin uvedena vanredna linija na kojoj je prevoz BESPLATAN, te da su građanima pored gradskih linija za prevoz do Železničke stanice Petrovaradin na raspolaganju i međumesne linije 60, 61, 62 i 63 koje kreću sa Međumesne autobuske stanice."
-            }
-        ]
     }
 ]
