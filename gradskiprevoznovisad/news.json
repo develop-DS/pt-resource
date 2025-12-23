@@ -1,10 +1,35 @@
 [
     {
-        "date": "19.12.2025",
-        "title": "Linija 12 - Povratak na redovnu trasu u Kotorskoj ulici",
+        "date": "23.12.2025",
+        "title": "Linije 7B, 11A - Povratak na redovnu trasu Ulicom Ive Andrića",
         "sections": [
             {
-                "text": "Završeni su radovi u Kotorskoj ulici, čime su se 19. 12. 2025. godine od 12:30  časova stekli uslovi za povratak autobusa linije 12 na redovnu trasu kretanja na Telepu."
+                "text": "Autobusi na linijama 7B i 11A ponovo saobraćaju redovnom trasom od 23. 12. 2025. godine (od  15  časova). Uslovi za povratak na redovan režim saobraćanja stekli su se završetkom radova u Ulici Ive Andrića."
+            }
+        ]
+    },
+    {
+        "date": "23.12.2025",
+        "title": "Linija 52 – Privremena izmena trase u Veterniku",
+        "sections": [
+            {
+                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, zbog zatvaranja Ulice Svetozara Miletića u Veterniku 24. 12. 2025. privremeno će biti izmenjena trasa autobuske linije broj 52."
+            },
+            {
+                "text": "Na kružnom toku u Veterniku autobusi će izlaziti u Ulicu kralja Aleksandra, skretati levo u Školsku ulicu, gde će se na stajalištu „Veternik-Škola“ čekati vreme do narednog polaska. Polazak za Novi Sad realizovaće se sa stajališta „Veternik-Škola“, odakle će se nastavljati redovnom trasom kretanja."
+            }
+        ],
+        "url": "http://www.gspns.co.rs/dokumenti/veternik231225.jpg"
+    },
+    {
+        "date": "23.12.2025",
+        "title": "Privremeno ukidanje đačkih polazaka i linija od 24. 12. 2025.",
+        "sections": [
+            {
+                "text": "JGSP „Novi Sad“ obaveštava korisnike usluga da polasci koji su u redu vožnje označeni kao „ĐAČKI“ neće biti na snazi od 24. 12. 2025. do 11. 01. 2026 godine."
+            },
+            {
+                "text": "U navedenom periodu neće saobraćati đačke linije 3B (Petrovaradin – Puckaroš OŠ „J.Dučić“) i 6A (Adice - Veternik OŠ „Marija Trandafil“)."
             }
         ]
     },
@@ -35,25 +60,6 @@
             }
         ],
         "url": "http://www.gspns.co.rs/dokumenti/liman19122025.jpg"
-    },
-    {
-        "date": "17.12.2025",
-        "title": "Linija 12 – Privremena izmena trase u Kotorskoj ulici",
-        "sections": [
-            {
-                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, zbog radova u Kotorskoj ulici od 18. do 19. decembra 2025. godine privremeno će biti izmenjena trasa autobuske linije broj 12."
-            },
-            {
-                "text": "Na raskrsnici Heroja Pinkija/Mornarska autobusi će skretati desno u Mornarsku ulicu, potom levo u Ulicu Ćirila i Metodija, na raskrsnici Ćirila i Metodija/Feješ Klare skretaće levo u Feješ Klare, zatim desno u Stanoja Glavaša i dalje nastavljati redovnom trasom."
-            },
-            {
-                "text": "U toku izmene trase privremeno stajalište nalaziće se u Mornarskoj ulici (nakon skretanja iz Ulice heroja Pinkija), a NEĆE se koristiti stajalište Feješ Klare – Ćirila i Metodija."
-            },
-            {
-                "text": "Od raskrsnice Ćirila i Metodija/Feješ Klare autobusi će saobraćati pravo Ulicom Ćirila i Metodija, skretati desno u Mornarsku ulicu, zatim levo u Ulicu heroja Pinkija i dalje nastavljati redovnom trasom."
-            }
-        ],
-        "url": "http://www.gspns.co.rs/dokumenti/telep171225.jpg"
     },
     {
         "date": "02.12.2025",
@@ -124,6 +130,39 @@
         ]
     },
     {
+        "date": "14.10.2025",
+        "title": "Red vožnje vanrednog prevoza Ranžirna železnička stanica Novi Sad - Centar",
+        "sections": [
+            {
+                "text": "JGSP \"Novi Sad\" obaveštava putnike da je uspostavljena vanredna linija od Ranžirne železničke stanice Novi Sad do centra grada (oba smera)."
+            },
+            {
+                "text": "Polazno stajalište u smeru iz Novog Sada ka Ranžirnoj železničkoj stanici  je redovno autobusko stajalište je u Šafarikovoj ulici (početno stajalište linije broj 2)."
+            },
+            {
+                "text": "Duž cele trase na vanrednim polascima koristi se stajalište kod apoteke \"Tilija\" kod Železničke stanice (oba smera)."
+            },
+            {
+                "text": "U skladu sa ugovorom sa „Srbijavozom“, na navedenoj relaciji prevoz  je BESPLATAN."
+            },
+            {
+                "text": "RED  VOŽNJE"
+            },
+            {
+                "text": "Smer Centar-Ranžirna železnička stanica"
+            },
+            {
+                "text": "03:40; 07:15; 08:55 (ne saobraća subotom, nedeljom i u dane državnog praznika); 10:45;  12:15 (ne saobraća subotom, nedeljom i u dane državnog praznika); 14:15; 15:40 (ne saobraća subotom, nedeljom i u dane državnog praznika); 17:55; 19:05 (ne saobraća subotom, nedeljom i u dane državnog praznika); 20:55"
+            },
+            {
+                "text": "Smer Ranžirna železnička stanica - Centar"
+            },
+            {
+                "text": "06:35; 07:35 (ne saobraća subotom, nedeljom i u dane državnog praznika); 10:20; 12:10 (ne saobraća subotom, nedeljom i u dane državnog praznika); 13:45; 15:40 (ne saobraća subotom, nedeljom i u dane državnog praznika); 17:55; 19:00 ne saobraća subotom, nedeljom i u dane državnog praznika); 20:35; 22:20"
+            }
+        ]
+    },
+    {
         "date": "29.08.2025",
         "title": "Od 01. septembra JESENJI red vožnje",
         "sections": [
@@ -147,25 +186,6 @@
             },
             {
                 "text": "Privremena izmena  važi od 28.07.2025.godine do 31.05.2027 godine."
-            }
-        ]
-    },
-    {
-        "date": "06.02.2025",
-        "title": "Od 07. 02. novi red vožnje na vanrednim polascima Železnička stanica Petrovaradin - Centar",
-        "sections": [
-            {
-                "text": "U skladu sa dopisom „Srbijavoza“ od 07. 02. 2025. godine stupa na snagu novi red vožnje na vanrednim autobuskim polascima Železnička stanica Petrovaradin - Centar. Novi red vožnje pogledajte \n\nPodsećamo, kao ispomoć redovnim linijama 3, 9, 60, 61, 62 i 63 do daljeg su uvedeni vanredni, direktni polasci autobusa sa autobuskog stajališta „Petrovaradin/Železnička stanica“ u Preradovićevoj ulici (oba smera). Autobusi iz Petrovaradina do centra saobraćaju do stajališta kod SNP-a, a iz centra do Petrovaradina sa polaznog stajališta linije 12 u Šafarikovoj ulici ().\n\nDuž cele trase vanredni polasci u oba smera saobraćaju direktno, ne koristeći ostala stajališta.\n\nShodno ugovoru sa „Srbijavozom“, na navedenoj relaciji prevoz je BESPLATAN."
-            }
-        ],
-        "url": "http://www.gspns.co.rs/dokumenti/redvoznje_0502.pdf"
-    },
-    {
-        "date": "17.01.2025",
-        "title": "Linija 3B – Privremeno stajalište „PRERADOVIĆEVA – BOŽIDARA ADŽIJE“ u smeru sa Puckaroša",
-        "sections": [
-            {
-                "text": "Na liniji 3B u smeru B od Puckaroša do Petrovaradina (OŠ „Jovan Dučić“) autobusi će do daljnjeg privremeno koristiti i stajalište „PRERADOVIĆEVA – BOŽIDARA ADŽIJE“ (redovna stajališta linije 3 Petrovaradin - Centar- Detelinara i linije 9 Novo naselje – Liman – Petrovaradin).\n\nNavedena izmena stupiće na snagu 20.01.2025. godine."
             }
         ]
     }

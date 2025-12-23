@@ -1,5 +1,24 @@
 [
     {
+        "date": "24/12/2025 - 27/12/2025",
+        "title": "Informacija o promeni režima rada linija javnog prevoza tokom izvođenja radova u ulici Bahtijara Vagabzde - Faza 3",
+        "sections": [
+            {
+                "text": "Tokom izvođenja radova na redovnom održavanju u ulici Bahtijara Vagabzade na delu između zona raskrsnica sa ulicama Baštovanska i Borska u periodu od 24.12. do 27.12.2025. godine doći će do promena u radu linija javnog prevoza."
+            },
+            {
+                "text": "Radovi podrazumevaju zatvaranje za saobraćaj leve saobraćajne trake ulice Bahtijara Vagabzade na posmatranoj deonici (gledano u smeru ka gradu)."
+            },
+            {
+                "text": "Predmetni radovi neće uticati na funkcionisanje javnog prevoza."
+            },
+            {
+                "text": "Stajalište „Pere Velimirovića“ (#864) - smer ka gradu, će i dalje biti privremeno izmešteno na poziciju koja se nalazi u ulici Borska, 15 metara ispred pešačkog prelaza u zoni raskrsnice ulica Borska i Bahtijara Vagabzade."
+            }
+        ],
+        "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/878"
+    },
+    {
         "date": "20/12/2025 - 23/12/2025",
         "title": "Informacija o promenama u radu linija javnog prevoza tokom izvođenja radova u ulici Bahtijara Vagabzade - Faza 2",
         "sections": [
@@ -14,25 +33,6 @@
             }
         ],
         "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/877"
-    },
-    {
-        "date": "17/12/2025 - 19/12/2025",
-        "title": "Informacija o promenama u radu linija javnog prevoza tokom izvođenja radova u ulici Bahtijara Vagabzade",
-        "sections": [
-            {
-                "text": "Radovi u ovoj fazi se završavaju 19.12.2025. godine, kada kreće nova faza radova."
-            },
-            {
-                "text": "Tokom izvođenja radova na redovnom održavanju u ulici Bahtijara Vagabzade na delu između zona raskrsnica sa ulicama Borska i Baštovanska u periodu od 17.12. do 20.12.2025. godine doći će do promena u radu linija javnog prevoza."
-            },
-            {
-                "text": "Radovi podrazumevaju zatvaranje za saobraćaj desne saobraćajne trake ulice Bahtijara Vagabzade na posmatranoj deonici (gledano u smeru ka Banjici), pri čemu će se vozila u visini zone radova kretati dvosmerno, preostalom širinom kolovoza."
-            },
-            {
-                "text": "Privremeno se izmešta stajalište „Pere Velimirovića“ (#864) - smer ka gradu, na poziciju koja se nalazi u ulici Borska, 15 metara ispred pešačkog prelaza u zoni raskrsnice ulica Borska i Bahtijara Vagabzade, dok se stajalište „Raška“ (#862) - smer ka gradu privremeno ukida, a stajalište „Raška“ (#861) - smer ka Miljakovcu izmešta na poziciju neposredno ispred pešačkog prelaza koji se nalazi u zoni raskrsnice sa ulicom Kraljice Ane."
-            }
-        ],
-        "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/875"
     },
     {
         "date": "25/10/2025 - 29/12/2025",
@@ -248,7 +248,7 @@
                 "text": "Tokom izvođenja radova u fazama 2 i 3 vozila javnog prevoza će saobraćati na sledeći način:"
             },
             {
-                "text": "• Vozila sa linije br. 4175 će saobraćati ulicama Svetolika Rankovića, Milovana Milovanovića, Vojni put, VRBICA, Vojni  put, Milovana Milovanovića, Stanoja Bugarskog, Nemanjina, ŽUJOVIĆI, Nemanjina, Stanoja Bugarskog, Svetolika Rankovića i dalje redovno prema AS Mladenovac;\n• Vozila sa linije br. 4175A će u smeru A saobraćati istom trasom kao i linija br. 4175, dok će u smeru B saobraćati ulicama Svetolika Rankovića, Stanoja Bugarskog, Nemanjina, ŽUJOVIĆI, Nemanjina, Stanoja Bugarskog, Svetolika Rankovića, Milovana Milovanovića, Vojni put, VRBICA, Vojni  put, Milovana Milovanovića, Svetolika Rankovića i dalje redovno prema AS Mladenovac;\n• Vozila sa linije br. 4193 će saobraćati ulicama Svetolika Rankovića, Stanoja Bugarskog, Nemanjina, ŽUJOVIĆI, Nemanjina, Stanoja Bugarskog, Svetolika Rankovića i dalje redovno prema AS Mladenovac."
+                "text": "• Vozila sa linije br. 4175 će saobraćati ulicama Svetolika Rankovića, Stanoja Bugarskog, Nemanjina, ŽUJOVIĆI, Nemanjina,  Stanoja Bugarskog,  Svetolika Rankovića, Milovana Milovanovića, Vojni put, VRBICA, Vojni  put, Milovana Milovanovića, Svetolika Rankovića i dalje redovno prema AS Mladenovac;\n• Vozila sa linije br. 4175A će u smeru A saobraćati ulicama Svetolika Rankovića, Milovana Milovanovića, Vojni put, VRBICA, Vojni put, Milovana Milovanovića, Stanoja Bugarskog, Nemanjina, ŽUJOVIĆI, Nemanjina, Stanoja Bugarskog, Svetolika Rankovića i dalje redovno prema AS Mladenovac, dok će u smeru B saobraćati ulicama Svetolika Rankovića, Stanoja Bugarskog, Nemanjina, ŽUJOVIĆI, Nemanjina, Stanoja Bugarskog, Svetolika Rankovića, Milovana Milovanovića, Vojni put, VRBICA, Vojni  put, Milovana Milovanovića, Svetolika Rankovića i dalje redovno prema AS Mladenovac;\n• Vozila sa linije br. 4193 će saobraćati ulicama Svetolika Rankovića, Stanoja Bugarskog, Nemanjina, ŽUJOVIĆI, Nemanjina, Stanoja Bugarskog, Svetolika Rankovića i dalje redovno prema AS Mladenovac.\n•"
             }
         ],
         "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/812"
@@ -340,7 +340,7 @@
         "title": "Informacija o promeni režima rada linija javnog prevoza br. 860U zbog oštećenja mosta iznad kanala u ulici gola bara u naselju Ušće - Opština Obrenovac",
         "sections": [
             {
-                "text": "Radovi su produženi do 31.05.2025. godine."
+                "text": "Radovi su produženi do 31.05.2026. godine."
             },
             {
                 "text": "Na osnovu Rešenja Sekretarijata za saobraćaj o tehničkom regulisanju saobraćaja, a prema tehničkoj dokumentaciji ''Posebna organizacija saobraćaja u zoni mosta ID 364 preko kanala u ulici Gola Bara, MZ Ušće, opština Obrenovac'', izvršena je promena trasa  linija javnog prevoza br. 860U  u samom naselju Ušće zbog ograničenja kretanja vozila čija ukupna masa prelazi 3,5t."
