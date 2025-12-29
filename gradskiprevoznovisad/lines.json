@@ -3819,7 +3819,7 @@
             "ALM = ALBUS I MASINOREMONT",
             "APT = APTIV SA I DO Z.STANICE",
             "MAL = MASINOREMONT I ALBUS",
-            "RP = RANZIRNA STANICA/PARKING"
+            "RP = RANZIRNA/PARKING"
         ],
         "weekday": {
             "starting_points_a": [
@@ -3832,6 +3832,8 @@
                 "07:40APT",
                 "13:30APT",
                 "13:35AL",
+                "15:40RP",
+                "17:55RP",
                 "21:30AL",
                 "21:30APT"
             ],
@@ -3850,7 +3852,8 @@
         "saturday": {
             "starting_points_a": [
                 "05:35AL",
-                "13:35AL"
+                "13:35AL",
+                "17:55RP"
             ],
             "starting_points_b": [
                 "06:10AL",
@@ -3859,6 +3862,7 @@
         },
         "sunday": {
             "starting_points_a": [
+                "17:55RP",
                 "21:30ZKR"
             ],
             "starting_points_b": []
