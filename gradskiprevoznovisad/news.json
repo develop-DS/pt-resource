@@ -10,30 +10,6 @@
         "url": "http://www.gspns.co.rs/dokumenti/redvoznje.jpg"
     },
     {
-        "date": "31.12.2025",
-        "title": "Red vožnje za praznike",
-        "sections": [
-            {
-                "text": "• 31.decembar – red vožnje za RADNI DAN (na liniji 17 poslednji   polazak iz „BIG“ tržnog centra u 18:33)"
-            },
-            {
-                "text": "• 1.januar – red vožnje za NEDELJU (linije 5N, 17 ne saobraćaju)"
-            },
-            {
-                "text": "• 2.januar – red vožnje za NEDELJU (linija 5N ne saobraća)"
-            },
-            {
-                "text": "• 6.januar – red vožnje za NEDELJU na liniji 17 poslednji   polazak iz „BIG“ tržnog centra u 18:33, linija 5N ne saobraća)"
-            },
-            {
-                "text": "• 7.januar – red vožnje za NEDELJU (linije 5N, 17 ne saobraćaju)"
-            },
-            {
-                "text": "TOKOM NOVOGODIŠNJE NOĆI VOZNI KAPACITETI BIĆE POJAČANI ZGLOBNIM AUTOBUSIMA NA LINIJAMA BROJ 18A I 18B (NOĆNE LINIJE), NA PRIGRADSKIM POLASCIMA U 01:15 ČASOVA PREMA KOVILJU, BEGEČU I STEPANOVIĆEVU, TE NA MEĐUMESNIM LINIJAMA ZA BEOČIN U 01:00 I TEMERIN U 01:15 ČASOVA."
-            }
-        ]
-    },
-    {
         "date": "30.12.2025",
         "title": "Međumesne linije - obaveštenje za putnike",
         "sections": [
@@ -159,21 +135,6 @@
         ]
     },
     {
-        "date": "29.08.2025",
-        "title": "Od 01. septembra JESENJI red vožnje",
-        "sections": [
-            {
-                "text": "Autobusi JGSP „Novi Sad“ od 1. septembra saobraćaće po novom redu vožnje, koji u odnosu na letnji red vožnje podrazumeva veći broj polazaka."
-            },
-            {
-                "text": "O vremenskim korekcijama polazaka korisnici usluga mogu da se informišu u rubrici https://www.gspns.rs/red-voznje, pomoću aplikacije NSMART, kao i na prodajnim mestima preduzeća."
-            },
-            {
-                "text": "Od 1. septembra ponovo će na snazi biti polasci koji su u redu vožnje označeni kao „đački“."
-            }
-        ]
-    },
-    {
         "date": "28.07.2025",
         "title": "Linije 3, 8, 18A – Privremeno izmeštanje stajališta „Bulevar kralja Petra I - Sajam“",
         "sections": [
@@ -182,6 +143,24 @@
             },
             {
                 "text": "Privremena izmena  važi od 28.07.2025.godine do 31.05.2027 godine."
+            }
+        ]
+    },
+    {
+        "date": "17.01.2025",
+        "title": "Linija 3B – Privremeno stajalište „PRERADOVIĆEVA – BOŽIDARA ADŽIJE“ u smeru sa Puckaroša",
+        "sections": [
+            {
+                "text": "Na liniji 3B u smeru B od Puckaroša do Petrovaradina (OŠ „Jovan Dučić“) autobusi će do daljnjeg privremeno koristiti i stajalište „PRERADOVIĆEVA – BOŽIDARA ADŽIJE“ (redovna stajališta linije 3 Petrovaradin - Centar- Detelinara i linije 9 Novo naselje – Liman – Petrovaradin).\n\nNavedena izmena stupiće na snagu 20.01.2025. godine."
+            }
+        ]
+    },
+    {
+        "date": "20.11.2024",
+        "title": "Linija 9A privremeno preusmerena do okretnice u Petrovaradinu",
+        "sections": [
+            {
+                "text": "Zbog preusmeravanja železničkog saobraćaja na Železničku stanicu Petrovaradin, obaveštavamo putnike da je zbog rasterećenja postojećih linija autobusa, linija 9A u smeru od Alibegovca produžena do petrovaradinske okretnice linija 3 i 9, odakle dalje saobraća redovnom trasom do Novog naselja. \n\nPodsećamo putnike da je na relaciji Šafarikova ulica - Železnička stanica Petrovaradin uvedena vanredna linija na kojoj je prevoz BESPLATAN, te da su građanima pored gradskih linija za prevoz do Železničke stanice Petrovaradin na raspolaganju i međumesne linije 60, 61, 62 i 63 koje kreću sa Međumesne autobuske stanice."
             }
         ]
     }

@@ -2596,7 +2596,7 @@
         "weekday": {
             "starting_points_a": [
                 "05:40",
-                "06:30",
+                "06:20",
                 "07:30",
                 "08:30",
                 "10:00",
@@ -2613,8 +2613,8 @@
                 "22:15"
             ],
             "starting_points_b": [
-                "06:05",
-                "07:00",
+                "06:00",
+                "06:50",
                 "08:00",
                 "09:00",
                 "10:30",
@@ -4361,7 +4361,9 @@
     {
         "id": "14",
         "title": "NIŠ - Brenica",
-        "info": [],
+        "info": [
+            "*-polasci označeni zvezdicom saobraćaju do Vinika"
+        ],
         "weekday": {
             "starting_points_a": [
                 "04:00",
@@ -4375,7 +4377,7 @@
                 "15:00",
                 "16:05",
                 "19:30",
-                "21:30*-polascioznačenizvezdicomsaobraćajudoVinika"
+                "21:30"
             ],
             "starting_points_b": [
                 "04:30",
@@ -4389,7 +4391,7 @@
                 "15:35",
                 "16:40",
                 "20:05",
-                "22:05*-polascioznačenizvezdicomsaobraćajusaVinika"
+                "22:05"
             ]
         },
         "saturday": {
@@ -4401,7 +4403,7 @@
                 "15:00",
                 "16:25",
                 "18:00*",
-                "23:30*-polascioznačenizvezdicomsaobraćajudoVinika"
+                "23:30"
             ],
             "starting_points_b": [
                 "06:30",
@@ -4410,7 +4412,7 @@
                 "13:35",
                 "15:35",
                 "17:00",
-                "18:30**-polascioznačenizvezdicomsaobraćajusaVinika"
+                "18:30*"
             ]
         },
         "sunday": {
@@ -4419,14 +4421,14 @@
                 "10:00*",
                 "12:00",
                 "18:00*",
-                "23:30*-polascioznačenizvezdicomsaobraćajudoVinika"
+                "23:30"
             ],
             "starting_points_b": [
                 "05:30",
                 "06:30",
                 "10:30*",
                 "12:35",
-                "18:30**-polascioznačenizvezdicomsaobraćajusaVinika"
+                "18:30*"
             ]
         },
         "type": "BUS"
@@ -4847,11 +4849,13 @@
     {
         "id": "19",
         "title": "NIŠ - Bancarevo",
-        "info": [],
+        "info": [
+            "*- Polasci koji svraćaju u Jelašnicu"
+        ],
         "weekday": {
             "starting_points_a": [
                 "04:45",
-                "15:30**-PolascikojisvraćajuuJelašnicu"
+                "15:30*"
             ],
             "starting_points_b": [
                 "05:50*",
@@ -4860,18 +4864,18 @@
         },
         "saturday": {
             "starting_points_a": [
-                "18:00**-PolascikojisvraćajuuJelašnicu"
+                "18:00*"
             ],
             "starting_points_b": [
-                "19:10**-PolascisaobraćajuprekoJelašnice"
+                "19:10*"
             ]
         },
         "sunday": {
             "starting_points_a": [
-                "18:00**-PolascikojisvraćajuuJelašnicu"
+                "18:00*"
             ],
             "starting_points_b": [
-                "19:10**-PolascisaobraćajuprekoJelašnice"
+                "19:10*"
             ]
         },
         "type": "BUS"
@@ -4919,7 +4923,9 @@
     {
         "id": "20L",
         "title": "NIŠ - Ostrovica",
-        "info": [],
+        "info": [
+            "*-Polazak saobraća u Sićevo naselje"
+        ],
         "weekday": {
             "starting_points_a": [
                 "05:00",
@@ -4928,7 +4934,7 @@
                 "15:00",
                 "17:15*",
                 "19:40*",
-                "22:45**-PolazaksaobraćauSićevonaselje"
+                "22:45*"
             ],
             "starting_points_b": [
                 "06:00",
@@ -4937,7 +4943,7 @@
                 "16:00",
                 "18:30",
                 "20:55",
-                "00:00*-PolazaksaobraćaprekoSićeva"
+                "00:00"
             ]
         },
         "saturday": {
@@ -4973,7 +4979,9 @@
     {
         "id": "21",
         "title": "NIŠ - Gornja Studena",
-        "info": [],
+        "info": [
+            "** - saobraća do zone radova"
+        ],
         "weekday": {
             "starting_points_a": [
                 "05:10",
@@ -4990,7 +4998,7 @@
                 "20:10",
                 "21:15",
                 "22:10",
-                "23:35**-saobraćadozoneradova"
+                "23:35"
             ],
             "starting_points_b": [
                 "05:05",
@@ -5007,7 +5015,7 @@
                 "18:25",
                 "21:05",
                 "22:10",
-                "23:05**-saobraćadozoneradova"
+                "23:05"
             ]
         },
         "saturday": {
@@ -5020,7 +5028,7 @@
                 "15:30",
                 "18:00",
                 "20:30",
-                "23:30**-saobraćadozoneradova"
+                "23:30"
             ],
             "starting_points_b": [
                 "05:30",
@@ -5031,7 +5039,7 @@
                 "14:00",
                 "16:30",
                 "19:00",
-                "21:30**-saobraćadozoneradova"
+                "21:30"
             ]
         },
         "sunday": {
@@ -5083,31 +5091,33 @@
     {
         "id": "22",
         "title": "NIŠ - Vukmanovo",
-        "info": [],
+        "info": [
+            "*- preko Berbatova"
+        ],
         "weekday": {
             "starting_points_a": [
                 "16:00",
-                "23:30**-prekoBerbatova"
+                "23:30*"
             ],
             "starting_points_b": [
                 "05:15*",
-                "16:40*-prekoBerbatova"
+                "16:40"
             ]
         },
         "saturday": {
             "starting_points_a": [
-                "23:30**-prekoBerbatova"
+                "23:30*"
             ],
             "starting_points_b": [
-                "05:15**-prekoBerbatova"
+                "05:15*"
             ]
         },
         "sunday": {
             "starting_points_a": [
-                "21:30**-prekoBerbatova"
+                "21:30*"
             ],
             "starting_points_b": [
-                "05:20**-prekoBerbatova"
+                "05:20*"
             ]
         },
         "type": "BUS"
@@ -5503,7 +5513,7 @@
                 "19:30",
                 "20:50",
                 "22:00",
-                "23:00**-saobraćadoPAS-a"
+                "23:00*"
             ]
         },
         "saturday": {
@@ -5515,7 +5525,7 @@
                 "15:20",
                 "18:00",
                 "21:45",
-                "23:35**-SaobraćasaPAS-a"
+                "23:35*"
             ],
             "starting_points_b": [
                 "06:30",
@@ -5537,7 +5547,7 @@
                 "14:40",
                 "17:15",
                 "21:00",
-                "23:35**-SaobraćasaPAS-a"
+                "23:35*"
             ],
             "starting_points_b": [
                 "07:10",
@@ -5547,7 +5557,7 @@
                 "15:05",
                 "17:40",
                 "21:30",
-                "00:00**-saobraćadoPAS-a"
+                "00:00*"
             ]
         },
         "type": "BUS"
@@ -5593,7 +5603,7 @@
                 "19:10",
                 "21:10",
                 "23:15",
-                "00:10*UlaziuPopovac"
+                "00:10"
             ]
         },
         "saturday": {
@@ -5608,7 +5618,7 @@
                 "15:30",
                 "19:00*",
                 "21:05",
-                "22:30*UlaziuPopovac**UlaziuTrupale(ul.Železnička)"
+                "22:30"
             ],
             "starting_points_b": [
                 "05:00*",
@@ -5621,7 +5631,7 @@
                 "17:45**",
                 "19:45*",
                 "21:45",
-                "23:10*UlaziuPopovac*UlaziuTrupale(ul.Železnička)"
+                "23:10"
             ]
         },
         "sunday": {
@@ -5633,7 +5643,7 @@
                 "16:00**",
                 "18:00*",
                 "20:10",
-                "21:45*UlaziuPopovac**UlaziuTrupale(ul.Železnička)"
+                "21:45"
             ],
             "starting_points_b": [
                 "06:20*",
@@ -5643,7 +5653,7 @@
                 "16:45**",
                 "18:45*",
                 "21:05",
-                "22:25*UlaziuPopovac*UlaziuTrupale(ul.Železnička)"
+                "22:25"
             ]
         },
         "type": "BUS"
@@ -5699,7 +5709,9 @@
     {
         "id": "29",
         "title": "NIŠ - Toponica - Mezgraja - Gornja Trnava",
-        "info": [],
+        "info": [
+            "* polazak ulazi u selo Mezgraja"
+        ],
         "weekday": {
             "starting_points_a": [
                 "06:00",
@@ -5711,7 +5723,7 @@
                 "16:00",
                 "17:30",
                 "21:10",
-                "23:30*polazakulaziuseloMezgraja"
+                "23:30"
             ],
             "starting_points_b": [
                 "05:15",
@@ -5723,7 +5735,7 @@
                 "15:50*",
                 "16:45",
                 "18:15",
-                "21:55*polazakulaziuseloMezgraja"
+                "21:55"
             ]
         },
         "saturday": {
@@ -5886,7 +5898,7 @@
                 "05:40",
                 "07:00",
                 "17:40",
-                "20:15*polascisaobraćajuuperiodupotpuneobustavesaobraćajauuliciPobedeuHumu"
+                "20:15"
             ],
             "starting_points_b": [
                 "06:05",
@@ -6013,7 +6025,9 @@
     {
         "id": "33",
         "title": "NIŠ - Sečanica",
-        "info": [],
+        "info": [
+            "* - polazak saobraća do Supovca"
+        ],
         "weekday": {
             "starting_points_a": [
                 "05:00",
@@ -6028,7 +6042,7 @@
                 "17:30",
                 "21:00",
                 "22:00",
-                "23:35**-polazaksaobraćadoSupovca"
+                "23:35*"
             ],
             "starting_points_b": [
                 "04:50",
@@ -6054,7 +6068,7 @@
                 "11:15",
                 "15:45",
                 "17:30",
-                "21:00**-polazaksaobraćadoSupovca"
+                "21:00*"
             ],
             "starting_points_b": [
                 "05:20",
@@ -6064,7 +6078,7 @@
                 "12:00",
                 "16:30",
                 "19:05",
-                "21:50**-polazaksaobraćaizSupovca"
+                "21:50*"
             ]
         },
         "sunday": {
@@ -6073,7 +6087,7 @@
                 "08:30",
                 "12:40",
                 "15:45",
-                "20:45**-polazaksaobraćadoSupovca"
+                "20:45*"
             ],
             "starting_points_b": [
                 "06:00",
@@ -6615,21 +6629,23 @@
     {
         "id": "39",
         "title": "NIŠ - Supovac Sečanica",
-        "info": [],
+        "info": [
+            "* - polazak saobraća do Supovca"
+        ],
         "weekday": {
             "starting_points_a": [
                 "04:10*",
                 "05:30*",
                 "11:30",
                 "15:20",
-                "20:15*-polazaksaobraćadoSupovca"
+                "20:15"
             ],
             "starting_points_b": [
                 "04:50",
                 "06:20*",
                 "12:25",
                 "16:35",
-                "21:10*-polazaksaobraćaizSupovca"
+                "21:10"
             ]
         },
         "saturday": {

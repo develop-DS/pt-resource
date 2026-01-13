@@ -62651,6 +62651,30 @@
         }
     },
     {
+        "id": "352A",
+        "type": "BUS",
+        "title": "Šumice - Vrčin - Umčari - Dražanj",
+        "info": [
+            "Važi od: 01-11-2023"
+        ],
+        "weekday": {
+            "starting_points_a": [
+                "15:00"
+            ],
+            "starting_points_b": [
+                "05:20"
+            ]
+        },
+        "saturday": {
+            "starting_points_a": [],
+            "starting_points_b": []
+        },
+        "sunday": {
+            "starting_points_a": [],
+            "starting_points_b": []
+        }
+    },
+    {
         "id": "353",
         "type": "BUS",
         "title": "Dražanj - Živkovac - Šumice (autoputem)",
@@ -62724,8 +62748,16 @@
             "Važi od: 01-12-2025"
         ],
         "weekday": {
-            "starting_points_a": [],
-            "starting_points_b": []
+            "starting_points_a": [
+                "05:30",
+                "12:30",
+                "17:50"
+            ],
+            "starting_points_b": [
+                "14:00",
+                "19:00",
+                "20:00"
+            ]
         },
         "saturday": {
             "starting_points_a": [
@@ -66359,6 +66391,76 @@
         }
     },
     {
+        "id": "462",
+        "type": "BUS",
+        "title": "Šumice - Vrčin - Jaričište",
+        "info": [
+            "Važi od: 01-11-2023"
+        ],
+        "weekday": {
+            "starting_points_a": [
+                "05:00",
+                "05:30",
+                "06:40",
+                "19:00",
+                "20:30"
+            ],
+            "starting_points_b": [
+                "05:40",
+                "07:20",
+                "19:40",
+                "21:10",
+                "23:10"
+            ]
+        },
+        "saturday": {
+            "starting_points_a": [
+                "05:00",
+                "05:30"
+            ],
+            "starting_points_b": [
+                "05:00",
+                "05:40",
+                "23:10"
+            ]
+        },
+        "sunday": {
+            "starting_points_a": [],
+            "starting_points_b": [
+                "05:00"
+            ]
+        }
+    },
+    {
+        "id": "463",
+        "type": "BUS",
+        "title": "Šumice - Vrčin - Jaričište - Ravnice",
+        "info": [
+            "Važi od: 01-11-2023"
+        ],
+        "weekday": {
+            "starting_points_a": [],
+            "starting_points_b": []
+        },
+        "saturday": {
+            "starting_points_a": [
+                "09:20",
+                "12:00",
+                "17:00"
+            ],
+            "starting_points_b": []
+        },
+        "sunday": {
+            "starting_points_a": [
+                "04:50",
+                "09:20",
+                "12:20",
+                "17:00"
+            ],
+            "starting_points_b": []
+        }
+    },
+    {
         "id": "464",
         "type": "BUS",
         "title": "Sopot - Mali Popović - Mali Požarevac - BAS",
@@ -66663,6 +66765,50 @@
         }
     },
     {
+        "id": "467",
+        "type": "BUS",
+        "title": "Vrčin - Grocka - Kamendol - Ilinski kraj",
+        "info": [
+            "Važi od: 16-10-2023"
+        ],
+        "weekday": {
+            "starting_points_a": [
+                "06:15",
+                "08:20",
+                "10:20",
+                "14:45",
+                "17:00",
+                "19:00"
+            ],
+            "starting_points_b": [
+                "07:20",
+                "09:20",
+                "11:20",
+                "15:50",
+                "18:00",
+                "20:00"
+            ]
+        },
+        "saturday": {
+            "starting_points_a": [
+                "06:15",
+                "08:20",
+                "17:00",
+                "19:00"
+            ],
+            "starting_points_b": [
+                "07:20",
+                "09:20",
+                "18:00",
+                "20:00"
+            ]
+        },
+        "sunday": {
+            "starting_points_a": [],
+            "starting_points_b": []
+        }
+    },
+    {
         "id": "470",
         "type": "BUS",
         "title": "Voždovac - Mala Ivanča (Avalskim putem)",
@@ -66693,12 +66839,34 @@
             ]
         },
         "saturday": {
-            "starting_points_a": [],
-            "starting_points_b": []
+            "starting_points_a": [
+                "06:15",
+                "10:30",
+                "15:15",
+                "17:15"
+            ],
+            "starting_points_b": [
+                "04:45",
+                "07:40",
+                "12:00",
+                "17:00",
+                "19:00"
+            ]
         },
         "sunday": {
-            "starting_points_a": [],
-            "starting_points_b": []
+            "starting_points_a": [
+                "06:15",
+                "10:30",
+                "15:15",
+                "17:15"
+            ],
+            "starting_points_b": [
+                "04:45",
+                "07:40",
+                "12:00",
+                "17:00",
+                "19:00"
+            ]
         }
     },
     {
@@ -74658,7 +74826,7 @@
         "type": "BUS",
         "title": "Banovo brdo - Meljak - Šiljakovac - Taraiš",
         "info": [
-            "Važi od: 16-09-2023"
+            "Važi od: 01-11-2023"
         ],
         "weekday": {
             "starting_points_a": [],
@@ -74668,11 +74836,15 @@
             ]
         },
         "saturday": {
-            "starting_points_a": [],
+            "starting_points_a": [
+                "06:00"
+            ],
             "starting_points_b": []
         },
         "sunday": {
-            "starting_points_a": [],
+            "starting_points_a": [
+                "06:00"
+            ],
             "starting_points_b": []
         }
     },
@@ -82698,6 +82870,229 @@
         }
     },
     {
+        "id": "860I",
+        "type": "BUS",
+        "title": "BAS - Surčin - Industrijska zona Barič",
+        "info": [
+            "Važi od: 16-09-2023"
+        ],
+        "weekday": {
+            "starting_points_a": [
+                "00:05",
+                "04:00",
+                "05:00",
+                "05:45",
+                "06:22",
+                "06:50",
+                "07:17",
+                "07:45",
+                "08:12",
+                "08:40",
+                "09:07",
+                "09:35",
+                "10:02",
+                "10:30",
+                "10:57",
+                "11:25",
+                "11:52",
+                "12:20",
+                "12:47",
+                "13:15",
+                "13:42",
+                "14:10",
+                "14:37",
+                "15:05",
+                "15:32",
+                "16:05",
+                "16:27",
+                "16:55",
+                "17:22",
+                "17:50",
+                "18:17",
+                "18:45",
+                "19:12",
+                "19:40",
+                "20:07",
+                "20:35",
+                "21:05",
+                "21:35",
+                "22:10",
+                "23:00"
+            ],
+            "starting_points_b": [
+                "03:20",
+                "04:00",
+                "04:32",
+                "05:00",
+                "05:27",
+                "05:55",
+                "06:22",
+                "06:50",
+                "07:17",
+                "07:45",
+                "08:12",
+                "08:40",
+                "09:07",
+                "09:35",
+                "10:02",
+                "10:30",
+                "10:57",
+                "11:25",
+                "11:52",
+                "12:20",
+                "12:47",
+                "13:15",
+                "13:42",
+                "14:20",
+                "14:37",
+                "15:05",
+                "15:32",
+                "16:00",
+                "16:27",
+                "16:55",
+                "17:22",
+                "17:50",
+                "18:17",
+                "18:45",
+                "19:12",
+                "19:40",
+                "20:15",
+                "21:10",
+                "22:20"
+            ]
+        },
+        "saturday": {
+            "starting_points_a": [
+                "00:05",
+                "04:00",
+                "05:00",
+                "05:45",
+                "06:22",
+                "06:59",
+                "07:35",
+                "08:11",
+                "08:47",
+                "09:23",
+                "10:00",
+                "10:37",
+                "11:13",
+                "11:50",
+                "12:27",
+                "13:03",
+                "13:40",
+                "14:17",
+                "14:53",
+                "15:30",
+                "16:13",
+                "16:56",
+                "17:25",
+                "18:00",
+                "18:33",
+                "19:10",
+                "19:47",
+                "20:33",
+                "21:37",
+                "22:50"
+            ],
+            "starting_points_b": [
+                "03:20",
+                "04:00",
+                "04:35",
+                "05:10",
+                "05:45",
+                "06:20",
+                "06:56",
+                "07:33",
+                "08:10",
+                "08:47",
+                "09:23",
+                "10:00",
+                "10:37",
+                "11:13",
+                "11:50",
+                "12:27",
+                "13:05",
+                "13:42",
+                "14:20",
+                "15:10",
+                "15:35",
+                "16:15",
+                "16:43",
+                "17:20",
+                "18:02",
+                "18:48",
+                "19:47",
+                "21:00",
+                "22:20"
+            ]
+        },
+        "sunday": {
+            "starting_points_a": [
+                "00:05",
+                "04:00",
+                "05:00",
+                "05:45",
+                "06:22",
+                "06:59",
+                "07:35",
+                "08:11",
+                "08:47",
+                "09:23",
+                "10:00",
+                "10:37",
+                "11:13",
+                "11:50",
+                "12:27",
+                "13:03",
+                "13:40",
+                "14:17",
+                "14:53",
+                "15:30",
+                "16:13",
+                "16:56",
+                "17:25",
+                "18:00",
+                "18:33",
+                "19:10",
+                "19:47",
+                "20:33",
+                "21:37",
+                "22:50"
+            ],
+            "starting_points_b": [
+                "03:20",
+                "04:00",
+                "04:35",
+                "05:10",
+                "05:45",
+                "06:20",
+                "06:56",
+                "07:33",
+                "08:10",
+                "08:47",
+                "09:23",
+                "10:00",
+                "10:37",
+                "11:13",
+                "11:50",
+                "12:27",
+                "13:05",
+                "13:42",
+                "14:20",
+                "15:10",
+                "15:35",
+                "16:15",
+                "16:43",
+                "17:20",
+                "18:02",
+                "18:48",
+                "19:47",
+                "21:00",
+                "22:20"
+            ]
+        }
+    },
+    {
         "id": "860J",
         "type": "BUS",
         "title": "BAS - Jasenak (puž)",
@@ -82776,6 +83171,80 @@
                 "14:40",
                 "17:00",
                 "19:20"
+            ]
+        }
+    },
+    {
+        "id": "860L",
+        "type": "BUS",
+        "title": "Obrenovac - Lazarevac",
+        "info": [
+            "Važi od: 23-08-2023"
+        ],
+        "weekday": {
+            "starting_points_a": [
+                "04:00",
+                "05:30",
+                "07:00",
+                "08:30",
+                "10:00",
+                "11:30",
+                "13:00",
+                "14:30",
+                "16:00",
+                "17:30",
+                "19:00",
+                "20:30"
+            ],
+            "starting_points_b": [
+                "05:50",
+                "07:00",
+                "08:30",
+                "10:00",
+                "11:30",
+                "13:00",
+                "14:45",
+                "16:00",
+                "17:30",
+                "19:00",
+                "20:30",
+                "22:00"
+            ]
+        },
+        "saturday": {
+            "starting_points_a": [
+                "05:30",
+                "08:30",
+                "11:30",
+                "14:30",
+                "17:30",
+                "20:30"
+            ],
+            "starting_points_b": [
+                "07:00",
+                "10:00",
+                "13:00",
+                "16:00",
+                "19:00",
+                "22:00"
+            ]
+        },
+        "sunday": {
+            "starting_points_a": [
+                "05:30",
+                "08:30",
+                "11:30",
+                "14:30",
+                "17:30",
+                "20:30"
+            ],
+            "starting_points_b": [
+                "07:00",
+                "10:00",
+                "13:00",
+                "16:00",
+                "19:00",
+                "22:00"
             ]
         }
     },
@@ -84454,6 +84923,40 @@
         }
     },
     {
+        "id": "921V",
+        "type": "BUS",
+        "title": "AS Obrenovac - Zvečka (Čede Todorovića)",
+        "info": [
+            "Važi od: 29-04-2025"
+        ],
+        "weekday": {
+            "starting_points_a": [
+                "04:45",
+                "05:25",
+                "06:05",
+                "10:25",
+                "13:10",
+                "19:05"
+            ],
+            "starting_points_b": [
+                "05:05",
+                "05:45",
+                "06:25",
+                "10:40",
+                "13:25",
+                "19:20"
+            ]
+        },
+        "saturday": {
+            "starting_points_a": [],
+            "starting_points_b": []
+        },
+        "sunday": {
+            "starting_points_a": [],
+            "starting_points_b": []
+        }
+    },
+    {
         "id": "922",
         "type": "BUS",
         "title": "Obrenovac - Ratari",
@@ -84563,12 +85066,46 @@
             ]
         },
         "saturday": {
-            "starting_points_a": [],
+            "starting_points_a": [
+                "05:00"
+            ],
             "starting_points_b": []
         },
         "sunday": {
             "starting_points_a": [],
             "starting_points_b": []
+        }
+    },
+    {
+        "id": "935",
+        "type": "BUS",
+        "title": "Obrenovac - Konatice",
+        "info": [
+            "Važi od: 09-11-2023"
+        ],
+        "weekday": {
+            "starting_points_a": [
+                "04:40",
+                "21:35"
+            ],
+            "starting_points_b": [
+                "05:20",
+                "22:15"
+            ]
+        },
+        "saturday": {
+            "starting_points_a": [],
+            "starting_points_b": [
+                "15:05",
+                "18:45"
+            ]
+        },
+        "sunday": {
+            "starting_points_a": [],
+            "starting_points_b": [
+                "15:05",
+                "18:45"
+            ]
         }
     },
     {
@@ -84820,7 +85357,9 @@
             ]
         },
         "saturday": {
-            "starting_points_a": [],
+            "starting_points_a": [
+                "05:10"
+            ],
             "starting_points_b": []
         },
         "sunday": {
@@ -85095,14 +85634,17 @@
         "type": "BUS",
         "title": "Obrenovac - Stubline - Piroman",
         "info": [
-            "Važi od: 16-09-2023"
+            "Važi od: 09-11-2023"
         ],
         "weekday": {
             "starting_points_a": [
                 "16:00",
                 "21:00"
             ],
-            "starting_points_b": []
+            "starting_points_b": [
+                "16:40",
+                "21:40"
+            ]
         },
         "saturday": {
             "starting_points_a": [],
@@ -85118,13 +85660,16 @@
         "type": "BUS",
         "title": "Obrenovac - Stubline - Piroman",
         "info": [
-            "Važi od: 16-09-2023"
+            "Važi od: 09-11-2023"
         ],
         "weekday": {
             "starting_points_a": [
                 "06:30"
             ],
-            "starting_points_b": []
+            "starting_points_b": [
+                "16:40",
+                "21:40"
+            ]
         },
         "saturday": {
             "starting_points_a": [],
@@ -85324,6 +85869,44 @@
         }
     },
     {
+        "id": "975B",
+        "type": "BUS",
+        "title": "Obrenovac - Orašac - Ljubinić - Vukićevica (Arsenovića kraj) - Vukićevica",
+        "info": [
+            "Važi od: 09-11-2023"
+        ],
+        "weekday": {
+            "starting_points_a": [
+                "09:00",
+                "11:00"
+            ],
+            "starting_points_b": [
+                "10:00",
+                "12:00"
+            ]
+        },
+        "saturday": {
+            "starting_points_a": [
+                "09:00",
+                "11:00"
+            ],
+            "starting_points_b": [
+                "10:00",
+                "12:00"
+            ]
+        },
+        "sunday": {
+            "starting_points_a": [
+                "09:00",
+                "11:00"
+            ],
+            "starting_points_b": [
+                "10:00",
+                "12:00"
+            ]
+        }
+    },
+    {
         "id": "977",
         "type": "BUS",
         "title": "Obrenovac - Ljubinić - Vukićevica",
@@ -85365,6 +85948,28 @@
                 "16:35",
                 "20:35"
             ]
+        }
+    },
+    {
+        "id": "977A",
+        "type": "BUS",
+        "title": "Vukićevica - Ljubinić - Grabovac - Obrenovac",
+        "info": [
+            "Važi od: 09-11-2023"
+        ],
+        "weekday": {
+            "starting_points_a": [],
+            "starting_points_b": [
+                "03:25"
+            ]
+        },
+        "saturday": {
+            "starting_points_a": [],
+            "starting_points_b": []
+        },
+        "sunday": {
+            "starting_points_a": [],
+            "starting_points_b": []
         }
     },
     {
@@ -85654,6 +86259,28 @@
         }
     },
     {
+        "id": "4106",
+        "type": "BUS",
+        "title": "Mladenovac - Marići - Kovačevac (Čot)",
+        "info": [
+            "Važi od: 01-12-2022"
+        ],
+        "weekday": {
+            "starting_points_a": [],
+            "starting_points_b": [
+                "06:15"
+            ]
+        },
+        "saturday": {
+            "starting_points_a": [],
+            "starting_points_b": []
+        },
+        "sunday": {
+            "starting_points_a": [],
+            "starting_points_b": []
+        }
+    },
+    {
         "id": "4111",
         "type": "BUS",
         "title": "Mladenovac - Jankovići - Nova škola - Mladenovac",
@@ -85925,6 +86552,28 @@
         }
     },
     {
+        "id": "4125",
+        "type": "BUS",
+        "title": "Mladenovac -Pružatovac - Međulužje - Mladenovac",
+        "info": [
+            "Važi od: 01-12-2022"
+        ],
+        "weekday": {
+            "starting_points_a": [
+                "06:45"
+            ],
+            "starting_points_b": []
+        },
+        "saturday": {
+            "starting_points_a": [],
+            "starting_points_b": []
+        },
+        "sunday": {
+            "starting_points_a": [],
+            "starting_points_b": []
+        }
+    },
+    {
         "id": "4130",
         "type": "BUS",
         "title": "Mladenovac - Međulužje - Markovac",
@@ -86138,12 +86787,46 @@
             ]
         },
         "saturday": {
-            "starting_points_a": [],
-            "starting_points_b": []
+            "starting_points_a": [
+                "05:00",
+                "06:00",
+                "09:00",
+                "11:00",
+                "14:20",
+                "17:00",
+                "19:30",
+                "21:20"
+            ],
+            "starting_points_b": [
+                "05:45",
+                "06:45",
+                "09:45",
+                "11:45",
+                "15:05",
+                "17:45",
+                "20:15",
+                "22:05"
+            ]
         },
         "sunday": {
-            "starting_points_a": [],
-            "starting_points_b": []
+            "starting_points_a": [
+                "05:00",
+                "09:00",
+                "11:00",
+                "14:20",
+                "17:00",
+                "19:30",
+                "21:20"
+            ],
+            "starting_points_b": [
+                "05:45",
+                "09:45",
+                "11:45",
+                "15:05",
+                "17:45",
+                "20:15",
+                "22:05"
+            ]
         }
     },
     {
@@ -86161,6 +86844,32 @@
             "starting_points_b": [
                 "12:05",
                 "13:50"
+            ]
+        },
+        "saturday": {
+            "starting_points_a": [],
+            "starting_points_b": []
+        },
+        "sunday": {
+            "starting_points_a": [],
+            "starting_points_b": []
+        }
+    },
+    {
+        "id": "4143",
+        "type": "BUS",
+        "title": "Mladenovac - Pružatovac - Velika Ivanča (Metaljka)",
+        "info": [
+            "Važi od: 20-09-2023"
+        ],
+        "weekday": {
+            "starting_points_a": [
+                "05:10",
+                "14:20"
+            ],
+            "starting_points_b": [
+                "05:50",
+                "15:00"
             ]
         },
         "saturday": {
@@ -86317,8 +87026,20 @@
             ]
         },
         "saturday": {
-            "starting_points_a": [],
-            "starting_points_b": []
+            "starting_points_a": [
+                "03:30",
+                "05:30",
+                "14:20",
+                "19:30",
+                "21:20"
+            ],
+            "starting_points_b": [
+                "04:00",
+                "06:05",
+                "14:55",
+                "20:05",
+                "21:55"
+            ]
         },
         "sunday": {
             "starting_points_a": [
@@ -86435,6 +87156,30 @@
         }
     },
     {
+        "id": "4175A",
+        "type": "BUS",
+        "title": "Mladenovac - Vrbica - Rajkovac - Mladenovac",
+        "info": [
+            "Važi od: 01-11-2022"
+        ],
+        "weekday": {
+            "starting_points_a": [
+                "06:20"
+            ],
+            "starting_points_b": [
+                "19:10"
+            ]
+        },
+        "saturday": {
+            "starting_points_a": [],
+            "starting_points_b": []
+        },
+        "sunday": {
+            "starting_points_a": [],
+            "starting_points_b": []
+        }
+    },
+    {
         "id": "4181",
         "type": "BUS",
         "title": "Mladenovac - Donja Dubona",
@@ -86532,6 +87277,28 @@
                 "19:40",
                 "21:20"
             ],
+            "starting_points_b": []
+        }
+    },
+    {
+        "id": "4184",
+        "type": "BUS",
+        "title": "Mladenovac - Šepšin - Dubona - Mladenovac",
+        "info": [
+            "Važi od: 01-11-2023"
+        ],
+        "weekday": {
+            "starting_points_a": [
+                "14:00"
+            ],
+            "starting_points_b": []
+        },
+        "saturday": {
+            "starting_points_a": [],
+            "starting_points_b": []
+        },
+        "sunday": {
+            "starting_points_a": [],
             "starting_points_b": []
         }
     },
@@ -87258,6 +88025,40 @@
         }
     },
     {
+        "id": "4403",
+        "type": "BUS",
+        "title": "Sopot - Ralja - Parcani",
+        "info": [
+            "Važi od: 01-11-2023"
+        ],
+        "weekday": {
+            "starting_points_a": [
+                "05:00",
+                "10:00",
+                "14:10",
+                "16:00",
+                "17:00",
+                "21:15"
+            ],
+            "starting_points_b": [
+                "05:30",
+                "10:30",
+                "14:40",
+                "16:30",
+                "17:30",
+                "21:45"
+            ]
+        },
+        "saturday": {
+            "starting_points_a": [],
+            "starting_points_b": []
+        },
+        "sunday": {
+            "starting_points_a": [],
+            "starting_points_b": []
+        }
+    },
+    {
         "id": "4404",
         "type": "BUS",
         "title": "Sopot - Sibnica",
@@ -87265,8 +88066,16 @@
             "Važi od: 01-06-2025"
         ],
         "weekday": {
-            "starting_points_a": [],
-            "starting_points_b": []
+            "starting_points_a": [
+                "03:15",
+                "04:00",
+                "04:45",
+                "05:30"
+            ],
+            "starting_points_b": [
+                "17:10",
+                "23:30"
+            ]
         },
         "saturday": {
             "starting_points_a": [
@@ -87280,6 +88089,54 @@
                 "04:00",
                 "04:45"
             ],
+            "starting_points_b": []
+        }
+    },
+    {
+        "id": "4404A",
+        "type": "BUS",
+        "title": "Sopot - Sibnica /groblje/ - Mirosaljci - Junkovac",
+        "info": [
+            "Važi od: 14-02-2023"
+        ],
+        "weekday": {
+            "starting_points_a": [
+                "13:20"
+            ],
+            "starting_points_b": [
+                "14:10"
+            ]
+        },
+        "saturday": {
+            "starting_points_a": [],
+            "starting_points_b": []
+        },
+        "sunday": {
+            "starting_points_a": [],
+            "starting_points_b": []
+        }
+    },
+    {
+        "id": "4404B",
+        "type": "BUS",
+        "title": "Sopot - Mirosaljci - Sibnica (groblje)",
+        "info": [
+            "Važi od: 14-02-2023"
+        ],
+        "weekday": {
+            "starting_points_a": [
+                "05:20"
+            ],
+            "starting_points_b": [
+                "06:40"
+            ]
+        },
+        "saturday": {
+            "starting_points_a": [],
+            "starting_points_b": []
+        },
+        "sunday": {
+            "starting_points_a": [],
             "starting_points_b": []
         }
     },
@@ -87310,6 +88167,106 @@
         }
     },
     {
+        "id": "4404D",
+        "type": "BUS",
+        "title": "Sopot - Slatina (trafo) - Sibnica",
+        "info": [
+            "Važi od: 01-11-2023"
+        ],
+        "weekday": {
+            "starting_points_a": [
+                "11:45"
+            ],
+            "starting_points_b": []
+        },
+        "saturday": {
+            "starting_points_a": [
+                "11:45"
+            ],
+            "starting_points_b": []
+        },
+        "sunday": {
+            "starting_points_a": [
+                "11:45"
+            ],
+            "starting_points_b": []
+        }
+    },
+    {
+        "id": "4405",
+        "type": "BUS",
+        "title": "Sopot - Nemenikuće - Bakčine",
+        "info": [
+            "Važi od: 01-11-2023"
+        ],
+        "weekday": {
+            "starting_points_a": [
+                "03:50",
+                "04:45",
+                "06:40",
+                "07:20",
+                "08:30",
+                "11:20",
+                "12:40",
+                "13:30",
+                "15:15",
+                "17:30",
+                "20:10",
+                "22:45"
+            ],
+            "starting_points_b": [
+                "04:08",
+                "05:03",
+                "07:00",
+                "07:40",
+                "08:48",
+                "11:40",
+                "13:00",
+                "13:50",
+                "15:33",
+                "17:48",
+                "20:30",
+                "23:03"
+            ]
+        },
+        "saturday": {
+            "starting_points_a": [
+                "04:45",
+                "08:30",
+                "11:20",
+                "13:30",
+                "17:30",
+                "20:10"
+            ],
+            "starting_points_b": [
+                "05:03",
+                "08:48",
+                "11:40",
+                "13:50",
+                "17:48",
+                "20:30"
+            ]
+        },
+        "sunday": {
+            "starting_points_a": [
+                "04:45",
+                "08:30",
+                "11:20",
+                "13:30",
+                "17:30",
+                "20:10"
+            ],
+            "starting_points_b": [
+                "05:03",
+                "08:48",
+                "11:40",
+                "13:50",
+                "17:48",
+                "20:30"
+            ]
+        }
+    },
+    {
         "id": "4406",
         "type": "BUS",
         "title": "Sopot - Rogača - Drlupa - Sibnica",
@@ -87326,11 +88283,15 @@
         },
         "saturday": {
             "starting_points_a": [],
-            "starting_points_b": []
+            "starting_points_b": [
+                "04:30"
+            ]
         },
         "sunday": {
             "starting_points_a": [],
-            "starting_points_b": []
+            "starting_points_b": [
+                "04:30"
+            ]
         }
     },
     {
@@ -87353,6 +88314,32 @@
         "sunday": {
             "starting_points_a": [],
             "starting_points_b": []
+        }
+    },
+    {
+        "id": "4406B",
+        "type": "BUS",
+        "title": "Sopot - Rogača - Drlupa - Slatina - Sibnica",
+        "info": [
+            "Važi od: 01-11-2023"
+        ],
+        "weekday": {
+            "starting_points_a": [],
+            "starting_points_b": [
+                "12:25"
+            ]
+        },
+        "saturday": {
+            "starting_points_a": [],
+            "starting_points_b": [
+                "12:25"
+            ]
+        },
+        "sunday": {
+            "starting_points_a": [],
+            "starting_points_b": [
+                "12:25"
+            ]
         }
     },
     {
@@ -87468,6 +88455,72 @@
                 "08:00",
                 "11:15",
                 "14:15"
+            ]
+        }
+    },
+    {
+        "id": "4408",
+        "type": "BUS",
+        "title": "Sopot - Tresije - Rogača (Mala ćuprija)",
+        "info": [
+            "Važi od: 01-11-2023"
+        ],
+        "weekday": {
+            "starting_points_a": [
+                "05:20",
+                "06:15",
+                "09:40",
+                "13:20",
+                "15:10",
+                "17:30",
+                "19:10",
+                "20:10"
+            ],
+            "starting_points_b": [
+                "05:45",
+                "06:45",
+                "10:10",
+                "13:45",
+                "15:40",
+                "17:55",
+                "19:35",
+                "20:40"
+            ]
+        },
+        "saturday": {
+            "starting_points_a": [
+                "05:20",
+                "09:40",
+                "13:20",
+                "15:10",
+                "17:30",
+                "20:10"
+            ],
+            "starting_points_b": [
+                "05:45",
+                "10:10",
+                "13:45",
+                "15:40",
+                "18:00",
+                "20:40"
+            ]
+        },
+        "sunday": {
+            "starting_points_a": [
+                "05:20",
+                "09:40",
+                "13:20",
+                "15:10",
+                "17:30",
+                "20:10"
+            ],
+            "starting_points_b": [
+                "05:45",
+                "10:10",
+                "13:45",
+                "15:40",
+                "18:00",
+                "20:40"
             ]
         }
     },
@@ -88180,12 +89233,42 @@
             "Važi od: 09-11-2023"
         ],
         "weekday": {
-            "starting_points_a": [],
-            "starting_points_b": []
+            "starting_points_a": [
+                "04:30",
+                "05:30",
+                "06:40",
+                "08:40",
+                "12:20",
+                "13:50",
+                "16:30",
+                "19:10",
+                "21:10",
+                "22:10"
+            ],
+            "starting_points_b": [
+                "04:55",
+                "05:55",
+                "07:05",
+                "09:05",
+                "12:45",
+                "14:15",
+                "16:55",
+                "19:35",
+                "21:35",
+                "22:35"
+            ]
         },
         "saturday": {
-            "starting_points_a": [],
-            "starting_points_b": []
+            "starting_points_a": [
+                "04:30",
+                "13:50",
+                "22:10"
+            ],
+            "starting_points_b": [
+                "04:55",
+                "14:15",
+                "22:35"
+            ]
         },
         "sunday": {
             "starting_points_a": [
@@ -88197,6 +89280,52 @@
                 "04:55",
                 "14:15",
                 "22:35"
+            ]
+        }
+    },
+    {
+        "id": "5521A",
+        "type": "BUS",
+        "title": "Barajevo - Veliki Borak - Boždarevac",
+        "info": [
+            "Važi od: 01-11-2023"
+        ],
+        "weekday": {
+            "starting_points_a": [
+                "10:30",
+                "15:40"
+            ],
+            "starting_points_b": [
+                "10:56",
+                "16:06"
+            ]
+        },
+        "saturday": {
+            "starting_points_a": [
+                "06:30",
+                "10:30",
+                "16:30",
+                "19:00"
+            ],
+            "starting_points_b": [
+                "06:56",
+                "10:56",
+                "16:56",
+                "19:26"
+            ]
+        },
+        "sunday": {
+            "starting_points_a": [
+                "06:30",
+                "10:30",
+                "16:30",
+                "19:00"
+            ],
+            "starting_points_b": [
+                "06:56",
+                "10:56",
+                "16:56",
+                "19:26"
             ]
         }
     },
@@ -88217,12 +89346,97 @@
             ]
         },
         "saturday": {
-            "starting_points_a": [],
+            "starting_points_a": [
+                "20:25"
+            ],
             "starting_points_b": []
         },
         "sunday": {
-            "starting_points_a": [],
+            "starting_points_a": [
+                "20:25"
+            ],
             "starting_points_b": []
+        }
+    },
+    {
+        "id": "5522A",
+        "type": "BUS",
+        "title": "Barajevo - Guncati - Baćevac - Barajevo",
+        "info": [
+            "Važi od: 01-11-2023"
+        ],
+        "weekday": {
+            "starting_points_a": [],
+            "starting_points_b": [
+                "07:00",
+                "09:00",
+                "11:30"
+            ]
+        },
+        "saturday": {
+            "starting_points_a": [],
+            "starting_points_b": [
+                "04:25",
+                "07:15"
+            ]
+        },
+        "sunday": {
+            "starting_points_a": [],
+            "starting_points_b": [
+                "04:25",
+                "07:15"
+            ]
+        }
+    },
+    {
+        "id": "5523",
+        "type": "BUS",
+        "title": "Barajevo - Pajšuma - Guberevac",
+        "info": [
+            "Važi od: 01-11-2023"
+        ],
+        "weekday": {
+            "starting_points_a": [
+                "13:30",
+                "15:40",
+                "16:35",
+                "19:10",
+                "22:10"
+            ],
+            "starting_points_b": [
+                "04:45",
+                "05:40",
+                "06:50",
+                "08:30",
+                "11:00",
+                "12:30"
+            ]
+        },
+        "saturday": {
+            "starting_points_a": [
+                "13:30",
+                "16:35",
+                "19:10",
+                "22:10"
+            ],
+            "starting_points_b": [
+                "05:00",
+                "06:50",
+                "11:00"
+            ]
+        },
+        "sunday": {
+            "starting_points_a": [
+                "13:30",
+                "16:35",
+                "19:10",
+                "22:10"
+            ],
+            "starting_points_b": [
+                "05:00",
+                "06:50",
+                "11:00"
+            ]
         }
     },
     {
@@ -88269,12 +89483,52 @@
             ]
         },
         "saturday": {
-            "starting_points_a": [],
-            "starting_points_b": []
+            "starting_points_a": [
+                "07:50",
+                "10:00",
+                "12:00",
+                "13:00",
+                "15:00",
+                "17:00",
+                "18:10",
+                "19:10",
+                "21:40"
+            ],
+            "starting_points_b": [
+                "08:20",
+                "10:30",
+                "12:30",
+                "13:30",
+                "15:30",
+                "17:30",
+                "18:40",
+                "19:40",
+                "22:10"
+            ]
         },
         "sunday": {
-            "starting_points_a": [],
-            "starting_points_b": []
+            "starting_points_a": [
+                "07:50",
+                "10:00",
+                "12:00",
+                "13:00",
+                "14:20",
+                "15:40",
+                "17:20",
+                "19:10",
+                "21:20"
+            ],
+            "starting_points_b": [
+                "08:20",
+                "10:30",
+                "12:30",
+                "13:30",
+                "15:00",
+                "16:10",
+                "17:50",
+                "19:40",
+                "22:00"
+            ]
         }
     },
     {
@@ -88422,12 +89676,28 @@
             ]
         },
         "saturday": {
-            "starting_points_a": [],
-            "starting_points_b": []
+            "starting_points_a": [
+                "09:00",
+                "10:20",
+                "15:40"
+            ],
+            "starting_points_b": [
+                "09:35",
+                "10:55",
+                "16:15"
+            ]
         },
         "sunday": {
-            "starting_points_a": [],
-            "starting_points_b": []
+            "starting_points_a": [
+                "09:00",
+                "10:20",
+                "15:40"
+            ],
+            "starting_points_b": [
+                "09:35",
+                "10:55",
+                "16:15"
+            ]
         }
     },
     {
@@ -88785,11 +90055,15 @@
             ]
         },
         "saturday": {
-            "starting_points_a": [],
+            "starting_points_a": [
+                "05:40"
+            ],
             "starting_points_b": []
         },
         "sunday": {
-            "starting_points_a": [],
+            "starting_points_a": [
+                "05:40"
+            ],
             "starting_points_b": []
         }
     },
@@ -89642,12 +90916,30 @@
             ]
         },
         "saturday": {
-            "starting_points_a": [],
-            "starting_points_b": []
+            "starting_points_a": [
+                "04:30",
+                "06:20",
+                "10:30"
+            ],
+            "starting_points_b": [
+                "14:00",
+                "17:05",
+                "19:40",
+                "22:40"
+            ]
         },
         "sunday": {
-            "starting_points_a": [],
-            "starting_points_b": []
+            "starting_points_a": [
+                "04:30",
+                "06:20",
+                "10:30"
+            ],
+            "starting_points_b": [
+                "14:00",
+                "17:05",
+                "19:40",
+                "22:40"
+            ]
         }
     },
     {
