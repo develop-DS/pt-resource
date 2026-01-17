@@ -1,13 +1,25 @@
 [
     {
-        "date": "01.01.2026",
-        "title": "Od 01. 01. novi red vožnje na vanrednim polascima Železnička stanica Petrovaradin - Centar",
+        "date": "14.01.2026",
+        "title": "Red vožnje na vanrednim polascima Železnička stanica Petrovaradin - Centar od 14. 01.",
         "sections": [
             {
-                "text": "U skladu sa dopisom „Srbijavoza“ od 01. 01. 2026. godine stupa na snagu novi red vožnje na vanrednim autobuskim polascima Železnička stanica Petrovaradin - Centar. Novi red vožnje pogledajte \n\nPodsećamo, kao ispomoć redovnim linijama 3, 9, 60, 61, 62 i 63 do daljeg su uvedeni vanredni, direktni polasci autobusa sa autobuskog stajališta „Petrovaradin/Železnička stanica“ u Preradovićevoj ulici (oba smera). Autobusi iz Petrovaradina do centra saobraćaju do stajališta kod SNP-a, a iz centra do Petrovaradina sa polaznog stajališta linije 12 u Šafarikovoj ulici ().\n\nDuž cele trase vanredni polasci u oba smera saobraćaju direktno, ne koristeći ostala stajališta.\n\nShodno ugovoru sa „Srbijavozom“, na navedenoj relaciji prevoz je BESPLATAN."
+                "text": "Kao ispomoć redovnim linijama 3, 9, 60, 61, 62 i 63 i dalje su na snazi vanredni, direktni polasci autobusa sa autobuskog stajališta „Petrovaradin/Železnička stanica“ u Preradovićevoj ulici (oba smera). Autobusi iz Petrovaradina do centra saobraćaju do stajališta kod SNP-a, a iz centra do Petrovaradina sa polaznog stajališta linije 12 u Šafarikovoj ulici ().\n\nDuž cele trase vanredni polasci u oba smera saobraćaju direktno, ne koristeći ostala stajališta.\n\nShodno ugovoru sa „Srbijavozom“, na navedenoj relaciji prevoz je BESPLATAN."
+            },
+            {
+                "text": "Red vožnje na vanrednim autobuskim polascima Železnička stanica Petrovaradin - Centar pogledajte"
             }
         ],
-        "url": "http://www.gspns.co.rs/dokumenti/redvoznje.jpg"
+        "url": "http://www.gspns.co.rs/dokumenti/mapapetrovaradin_0502.pdf"
+    },
+    {
+        "date": "14.01.2026",
+        "title": "Redovan autobuski saobraćaj na svim linijama",
+        "sections": [
+            {
+                "text": "Autobuski saobraćaj se odvija redovno na svim gradskim, prigradskim i međumesnim linijama (saobraćanje autobusa do Grabova i Vrdnika normalizovan je 14. januara od 14 časova)."
+            }
+        ]
     },
     {
         "date": "30.12.2025",
@@ -18,18 +30,6 @@
             },
             {
                 "text": "Molimo korisnike usluge prevoza na navedenim relacijama da pre početka prevoza sa povećanom pažnjom provere važeće redove vožnje."
-            }
-        ]
-    },
-    {
-        "date": "23.12.2025",
-        "title": "Privremeno ukidanje đačkih polazaka i linija od 24. 12. 2025.",
-        "sections": [
-            {
-                "text": "JGSP „Novi Sad“ obaveštava korisnike usluga da polasci koji su u redu vožnje označeni kao „ĐAČKI“ neće biti na snazi od 24. 12. 2025. do 11. 01. 2026 godine."
-            },
-            {
-                "text": "U navedenom periodu neće saobraćati đačke linije 3B (Petrovaradin – Puckaroš OŠ „J.Dučić“) i 6A (Adice - Veternik OŠ „Marija Trandafil“)."
             }
         ]
     },
@@ -51,55 +51,6 @@
             }
         ],
         "url": "http://www.gspns.co.rs/dokumenti/vrdnik.jpg"
-    },
-    {
-        "date": "26.11.2025",
-        "title": "Linija 6 – Nova okretnica i trajna izmena trase na Podbari",
-        "sections": [
-            {
-                "text": "Zbog izgradnje nove okretnice „Filipa Višnjića – Terminal“ ispred gasne podstanice na Podbari, od 29. 11. 2025. godine trajno se u oba smera menja trasa linije broj 6 (Podbara - Centar - Adice)."
-            },
-            {
-                "text": "Od novog stajališta „Filipa Višnjića – Trg Save Vukosavljeva“ autobusi će saobraćati do stajališta „Filipa Višnjića 5“, zatim će skretati levo u Ulicu Marka Miljanova, odakle će nastavljati redovnom trasom."
-            },
-            {
-                "text": "Stajališta koja se dodaju trasi:"
-            },
-            {
-                "text": "-        „Filipa Višnjića – Trg Save Vukosavljeva“"
-            },
-            {
-                "text": "-        „Filipa Višnjića 5“"
-            },
-            {
-                "text": "Autobusi sa postojeće trase neće skretati u Ulicu Marka Miljanova, već će produžavati pravo Beogradskim kejom, zaustavljati se na stajalištu „Beogradski kej – Marka Miljanova“ (postojeće stajalište za polaske ka „Danubiusu“), nakon čega će skretati levo u Venizelosovu ulicu, zatim levo u Ulicu Filipa Višnjića (kod „Kemoimpeksa“) do nove okretnice ispred gasne podstanice „Filipa Višnjića – Terminal“, gde će se čekati  vreme do novog polaska."
-            },
-            {
-                "text": "Stajališta koja se dodaju trasi:"
-            },
-            {
-                "text": "-        „Beogradski kej – Marka Miljanova“ (postojeće stajalište za polaske ka „Danubiusu“)"
-            },
-            {
-                "text": "-        „Filipa Višnjića – Terminal“"
-            }
-        ],
-        "url": "http://www.gspns.co.rs/dokumenti/podbara6.jpg"
-    },
-    {
-        "date": "06.11.2025",
-        "title": "Linija 14 – Produženje trase do novog stajališta u Veterniku",
-        "sections": [
-            {
-                "text": "Od 7. 11. 2025. godine produžava se trasa linije 14 (Centar-Sajlovo-Veternik) do novoizgrađenog stajališta u Veterniku, koje se nalazi između Srpske pravoslavne crkve i MZ Veternik:"
-            },
-            {
-                "text": "Iz Ulice kralja Petra I u Veterniku autobusi će preko kružnog toka saobraćati do novoizgrađenog stajališta ispred Srpske pravoslavne crkve, gde će se, nakon izlaska putnika, čekati vreme do narednog polaska za Novi Sad."
-            },
-            {
-                "text": "Od početnog novoizgrađenog stajališta autobusi će po redu vožnje saobraćati preko kružnog toka do Ulice kralja Petra I i redovnom trasom saobraćati do Sajlova i Novog Sada, koristeći usput sva redovna stajališta."
-            }
-        ]
     },
     {
         "date": "14.10.2025",
