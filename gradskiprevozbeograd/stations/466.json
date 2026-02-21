@@ -2,138 +2,126 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "BAS",
-      "longitude": 20.4543059627735,
-      "latitude": 44.8101721002059
+      "label": "Voždovac (terminus)",
+      "longitude": 20.4835420968788,
+      "latitude": 44.7611749431476
     },
     {
       "id": "_2",
-      "label": "Palata pravde 1",
-      "longitude": 20.4515238525443,
-      "latitude": 44.8029928139838
+      "label": "Baštovanska",
+      "longitude": 20.4769166183889,
+      "latitude": 44.7563225830384
     },
     {
       "id": "_3",
-      "label": "Autokomanda",
-      "longitude": 20.4657053764675,
-      "latitude": 44.7853950697871
-    },
-    {
-      "id": "_4",
-      "label": "Trošarina",
-      "longitude": 20.4807230604527,
-      "latitude": 44.7602626817462
-    },
-    {
-      "id": "_5",
       "label": "Riste Stefanovića",
       "longitude": 20.4793635447923,
       "latitude": 44.7502031706088
     },
     {
-      "id": "_6",
+      "id": "_4",
       "label": "Jajinci (Dom zdravlja)",
       "longitude": 20.4861169214133,
       "latitude": 44.740265617896
     },
     {
-      "id": "_7",
+      "id": "_5",
       "label": "Kefalonijska",
       "longitude": 20.4831979569665,
       "latitude": 44.7305292944087
     },
     {
-      "id": "_8",
+      "id": "_6",
       "label": "Rakovica selo (spomen česma)",
       "longitude": 20.4950647856393,
       "latitude": 44.7265286685876
     },
     {
-      "id": "_9",
+      "id": "_7",
       "label": "Rakovica selo",
       "longitude": 20.4982911274066,
       "latitude": 44.7215840013829
     },
     {
-      "id": "_10",
+      "id": "_8",
       "label": "Beli potok (Kumbara)",
       "longitude": 20.5060446317841,
       "latitude": 44.710800016954
     },
     {
-      "id": "_11",
+      "id": "_9",
       "label": "Avala",
       "longitude": 20.5018191701087,
       "latitude": 44.6963102467437
     },
     {
-      "id": "_12",
+      "id": "_10",
       "label": "Šumareva kuća",
       "longitude": 20.5180962401562,
       "latitude": 44.6803602265222
     },
     {
-      "id": "_13",
+      "id": "_11",
       "label": "Put za Zuce",
       "longitude": 20.5329492080462,
       "latitude": 44.6805421999326
     },
     {
-      "id": "_14",
+      "id": "_12",
       "label": "Đurđevdan",
       "longitude": 20.5395705359939,
       "latitude": 44.6742781225901
     },
     {
-      "id": "_15",
+      "id": "_13",
       "label": "Kapija Šumadije",
       "longitude": 20.5418833962195,
       "latitude": 44.6701348896609
     },
     {
-      "id": "_16",
+      "id": "_14",
       "label": "Vrčin (Avalski put)",
       "longitude": 20.543950788423,
       "latitude": 44.6626590570197
     },
     {
-      "id": "_17",
+      "id": "_15",
       "label": "Solinska bara",
       "longitude": 20.55109081598,
       "latitude": 44.6616670227313
     },
     {
-      "id": "_18",
+      "id": "_16",
       "label": "Jaričište (Stepe Stepanovića)",
       "longitude": 20.5577963231084,
       "latitude": 44.6608237802397
     },
     {
-      "id": "_19",
+      "id": "_17",
       "label": "Feroplast",
       "longitude": 20.5651295287814,
       "latitude": 44.6623538175082
     },
     {
-      "id": "_20",
+      "id": "_18",
       "label": "Jaričište (Petra Kočića)",
       "longitude": 20.5702095273625,
       "latitude": 44.66233092448
     },
     {
-      "id": "_21",
+      "id": "_19",
       "label": "Jaričište (pruga)",
       "longitude": 20.5772370177065,
       "latitude": 44.6628574618404
     },
     {
-      "id": "_22",
+      "id": "_20",
       "label": "Stadion",
       "longitude": 20.585111957693,
       "latitude": 44.6649635634605
     },
     {
-      "id": "_23",
+      "id": "_21",
       "label": "Vrčin - Centar",
       "longitude": 20.591533132689,
       "latitude": 44.6634870111028
@@ -256,27 +244,15 @@
     },
     {
       "id": "_20",
-      "label": "Crkva Sv. Vasilija Ostroškog",
-      "longitude": 20.479352212498,
-      "latitude": 44.762779177256
+      "label": "Baštovanska",
+      "longitude": 20.4772006355453,
+      "latitude": 44.7570456461003
     },
     {
       "id": "_21",
-      "label": "Trg oslobođenja",
-      "longitude": 20.4659369887447,
-      "latitude": 44.7870164037455
-    },
-    {
-      "id": "_22",
-      "label": "Palata pravde 1",
-      "longitude": 20.451327814778,
-      "latitude": 44.8034058554644
-    },
-    {
-      "id": "_23",
-      "label": "BAS",
-      "longitude": 20.4543059627735,
-      "latitude": 44.8101721002059
+      "label": "Trošarina",
+      "longitude": 20.4829546641654,
+      "latitude": 44.7613177802674
     }
   ]
 }

@@ -33,8 +33,8 @@
     {
       "id": "_6",
       "label": "Pionirski park",
-      "longitude": 20.4641117754345,
-      "latitude": 44.8120284281989
+      "longitude": 20.4641416836435,
+      "latitude": 44.812004545938
     },
     {
       "id": "_7",
@@ -51,8 +51,8 @@
     {
       "id": "_9",
       "label": "Blok 21",
-      "longitude": 20.433509600562,
-      "latitude": 44.813738913336
+      "longitude": 20.4335430447247,
+      "latitude": 44.8137037400579
     },
     {
       "id": "_10",
@@ -62,21 +62,21 @@
     },
     {
       "id": "_11",
-      "label": "Antifašističke borbe",
-      "longitude": 20.4246989886933,
-      "latitude": 44.8148452044611
+      "label": "Blok 25",
+      "longitude": 20.42368956779,
+      "latitude": 44.8128530430819
     },
     {
       "id": "_12",
-      "label": "Beogradska arena",
-      "longitude": 20.4192907313359,
-      "latitude": 44.8145317677931
+      "label": "Blok 24",
+      "longitude": 20.4209005371346,
+      "latitude": 44.8098061564859
     },
     {
       "id": "_13",
-      "label": "Blok 28",
-      "longitude": 20.417064666748,
-      "latitude": 44.8120613098145
+      "label": "Milutina Milankovića",
+      "longitude": 20.4189697656124,
+      "latitude": 44.8086966501763
     },
     {
       "id": "_14",
@@ -124,72 +124,84 @@
     },
     {
       "id": "_5",
-      "label": "Blok 28",
-      "longitude": 20.4177322387695,
-      "latitude": 44.8124046325684
+      "label": "Španskih boraca",
+      "longitude": 20.414424158055,
+      "latitude": 44.8104050434852
     },
     {
       "id": "_6",
-      "label": "Beogradska arena",
-      "longitude": 20.4202850873395,
-      "latitude": 44.8152333603724
+      "label": "Milutina Milankovića",
+      "longitude": 20.4204455155746,
+      "latitude": 44.808781511913
     },
     {
       "id": "_7",
+      "label": "Blok 24",
+      "longitude": 20.4215006697909,
+      "latitude": 44.8099711761983
+    },
+    {
+      "id": "_8",
+      "label": "Blok 25",
+      "longitude": 20.4248142199166,
+      "latitude": 44.8136776444775
+    },
+    {
+      "id": "_9",
       "label": "Antifašističke borbe",
       "longitude": 20.4257884823493,
       "latitude": 44.8138589161527
     },
     {
-      "id": "_8",
+      "id": "_10",
       "label": "Milentija Popovića",
       "longitude": 20.4305384158624,
       "latitude": 44.8116777109727
     },
     {
-      "id": "_9",
+      "id": "_11",
       "label": "Blok 21",
-      "longitude": 20.4340503176078,
-      "latitude": 44.8137811800735
+      "longitude": 20.4340150754334,
+      "latitude": 44.8137988782263
     },
     {
-      "id": "_10",
+      "id": "_12",
       "label": "Brankov most",
       "longitude": 20.4526067155746,
       "latitude": 44.8149925584042
     },
     {
-      "id": "_11",
+      "id": "_13",
       "label": "Zeleni venac",
       "longitude": 20.4568381962374,
       "latitude": 44.8143467033491
     },
     {
-      "id": "_12",
+      "id": "_14",
       "label": "Pionirski park",
       "longitude": 20.4651200189327,
       "latitude": 44.8109999868147
     },
     {
-      "id": "_13",
+      "id": "_15",
       "label": "Resavska",
       "longitude": 20.4681162674703,
       "latitude": 44.8090700158441
     },
     {
-      "id": "_14",
+      "id": "_16",
       "label": "Pravni fakultet",
       "longitude": 20.4719754000281,
       "latitude": 44.8067605591121
     },
     {
-      "id": "_15",
+      "id": "_17",
       "label": "Tehnički fakulteti",
       "longitude": 20.475579409314,
       "latitude": 44.805232765126
     },
     {
-      "id": "_16",
+      "id": "_18",
       "label": "Vukov spomenik",
       "longitude": 20.4783354886266,
       "latitude": 44.8054847139866

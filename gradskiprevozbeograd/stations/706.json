@@ -2,39 +2,39 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Novi Beograd (Blok 20)",
-      "longitude": 20.4384791395679,
-      "latitude": 44.811565661641
+      "label": "Zeleni venac",
+      "longitude": 20.4560061316883,
+      "latitude": 44.8140907748699
     },
     {
       "id": "_2",
-      "label": "Blok 21",
-      "longitude": 20.4340503176078,
-      "latitude": 44.8137811800735
-    },
-    {
-      "id": "_3",
       "label": "Džona Kenedija",
       "longitude": 20.418253187124,
       "latitude": 44.8353207651787
     },
     {
-      "id": "_4",
+      "id": "_3",
       "label": "Zemun (pošta)",
       "longitude": 20.4133320184886,
       "latitude": 44.8421929039194
     },
     {
-      "id": "_5",
+      "id": "_4",
       "label": "Nade Dimić",
       "longitude": 20.4028827140265,
       "latitude": 44.8491657672126
     },
     {
-      "id": "_6",
+      "id": "_5",
       "label": "Filipa Višnjića",
       "longitude": 20.3867265075406,
       "latitude": 44.8552415413263
+    },
+    {
+      "id": "_6",
+      "label": "Ruska",
+      "longitude": 20.3808914653133,
+      "latitude": 44.8578326286961
     },
     {
       "id": "_7",
@@ -74,72 +74,78 @@
     },
     {
       "id": "_13",
+      "label": "Bolnica",
+      "longitude": 20.329579921952,
+      "latitude": 44.8800894591861
+    },
+    {
+      "id": "_14",
       "label": "Ciglana",
       "longitude": 20.3167671732028,
       "latitude": 44.8857230358798
     },
     {
-      "id": "_14",
+      "id": "_15",
       "label": "Naselje ekonomija",
       "longitude": 20.3085141093397,
       "latitude": 44.8894928933937
     },
     {
-      "id": "_15",
+      "id": "_16",
       "label": "Belarička",
       "longitude": 20.3019250115022,
       "latitude": 44.8925127491577
     },
     {
-      "id": "_16",
+      "id": "_17",
       "label": "Batajnica (ulaz)",
       "longitude": 20.295393945171,
       "latitude": 44.8954929825352
     },
     {
-      "id": "_17",
+      "id": "_18",
       "label": "Maksima Brankovića",
       "longitude": 20.2916960421567,
       "latitude": 44.8972196711163
     },
     {
-      "id": "_18",
+      "id": "_19",
       "label": "Braće Smiljanić",
       "longitude": 20.2856849801639,
       "latitude": 44.9000441699599
     },
     {
-      "id": "_19",
+      "id": "_20",
       "label": "Majke Jugovića",
       "longitude": 20.2809119106436,
       "latitude": 44.9026511408495
     },
     {
-      "id": "_20",
+      "id": "_21",
       "label": "Batajnica (centar)",
       "longitude": 20.2744451852882,
       "latitude": 44.9063811224187
     },
     {
-      "id": "_21",
+      "id": "_22",
       "label": "Posavska",
       "longitude": 20.2662095552029,
       "latitude": 44.911119950862
     },
     {
-      "id": "_22",
+      "id": "_23",
       "label": "Drage Mihajlovića",
       "longitude": 20.2647235527661,
       "latitude": 44.9124513317983
     },
     {
-      "id": "_23",
+      "id": "_24",
       "label": "Dalmatinskih brigada",
       "longitude": 20.2672918106163,
       "latitude": 44.9136646970505
     },
     {
-      "id": "_24",
+      "id": "_25",
       "label": "Batajnica",
       "longitude": 20.2710291462093,
       "latitude": 44.9153840114502
@@ -220,75 +226,81 @@
     },
     {
       "id": "_13",
+      "label": "Bolnica",
+      "longitude": 20.3316028776849,
+      "latitude": 44.8790640635854
+    },
+    {
+      "id": "_14",
       "label": "Put za 13. maj",
       "longitude": 20.3345166004831,
       "latitude": 44.8778701684718
     },
     {
-      "id": "_14",
+      "id": "_15",
       "label": "Elektronska industrija",
       "longitude": 20.3440687716763,
       "latitude": 44.8737530863696
     },
     {
-      "id": "_15",
+      "id": "_16",
       "label": "Coca-Cola",
       "longitude": 20.3562573258036,
       "latitude": 44.8684639094224
     },
     {
-      "id": "_16",
+      "id": "_17",
       "label": "Preduzeće Galenika Magmasil",
       "longitude": 20.3601357810916,
       "latitude": 44.8667757265705
     },
     {
-      "id": "_17",
+      "id": "_18",
       "label": "Geomašina",
       "longitude": 20.3649880697733,
       "latitude": 44.8646554360307
     },
     {
-      "id": "_18",
+      "id": "_19",
       "label": "Zemun (Gornji grad)",
       "longitude": 20.3783375530751,
       "latitude": 44.8588303502097
     },
     {
-      "id": "_19",
+      "id": "_20",
+      "label": "Ruska",
+      "longitude": 20.381744584832,
+      "latitude": 44.8573278623746
+    },
+    {
+      "id": "_21",
       "label": "Filipa Višnjića",
       "longitude": 20.3876555986787,
       "latitude": 44.8547227377359
     },
     {
-      "id": "_20",
+      "id": "_22",
       "label": "Nade Dimić",
       "longitude": 20.4024598432292,
       "latitude": 44.8491977628024
     },
     {
-      "id": "_21",
+      "id": "_23",
       "label": "RK Beograd",
       "longitude": 20.4120435355163,
       "latitude": 44.8435182287916
     },
     {
-      "id": "_22",
+      "id": "_24",
       "label": "Džona Kenedija",
       "longitude": 20.4183755630291,
       "latitude": 44.8332047057775
     },
     {
-      "id": "_23",
-      "label": "Blok 21",
-      "longitude": 20.433509600562,
-      "latitude": 44.813738913336
-    },
-    {
-      "id": "_24",
-      "label": "Novi Beograd (Blok 20)",
-      "longitude": 20.438749165206,
-      "latitude": 44.8115117131936
+      "id": "_25",
+      "label": "Zeleni venac",
+      "longitude": 20.457370242161,
+      "latitude": 44.8139658411018
     }
   ]
 }

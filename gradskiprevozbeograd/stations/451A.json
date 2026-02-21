@@ -80,159 +80,141 @@
     },
     {
       "id": "_14",
-      "label": "Livnica",
-      "longitude": 20.5658392877657,
-      "latitude": 44.5771697809764
-    },
-    {
-      "id": "_15",
       "label": "13. oktobra",
       "longitude": 20.5655043825102,
       "latitude": 44.5860082047514
     },
     {
-      "id": "_16",
+      "id": "_15",
       "label": "Trešnja (Koviona)",
       "longitude": 20.5680040218179,
       "latitude": 44.5964700836117
     },
     {
-      "id": "_17",
+      "id": "_16",
       "label": "Trešnja (škola)",
       "longitude": 20.5561326082456,
       "latitude": 44.6089094255517
     },
     {
-      "id": "_18",
+      "id": "_17",
       "label": "Avalski cvet",
       "longitude": 20.5566013046247,
       "latitude": 44.6149015293374
     },
     {
-      "id": "_19",
+      "id": "_18",
       "label": "Trešnja",
       "longitude": 20.5555556014075,
       "latitude": 44.6208697757036
     },
     {
-      "id": "_20",
+      "id": "_19",
       "label": "Prnjavor (škola)",
       "longitude": 20.5544229482028,
       "latitude": 44.6322753556379
     },
     {
-      "id": "_21",
+      "id": "_20",
       "label": "Srednji prnjavor",
       "longitude": 20.5520437249662,
       "latitude": 44.6411255056078
     },
     {
-      "id": "_22",
+      "id": "_21",
       "label": "Prnjavor (ulaz)",
       "longitude": 20.5539025065363,
       "latitude": 44.6469880029181
     },
     {
-      "id": "_23",
+      "id": "_22",
       "label": "Rasadnik",
       "longitude": 20.5498526324036,
       "latitude": 44.65623657347
     },
     {
-      "id": "_24",
+      "id": "_23",
       "label": "Raskrnica-Vrčin",
       "longitude": 20.5433439187103,
       "latitude": 44.6630201009772
     },
     {
-      "id": "_25",
+      "id": "_24",
       "label": "Kapija Šumadije",
       "longitude": 20.5421001733403,
       "latitude": 44.6704759446688
     },
     {
-      "id": "_26",
+      "id": "_25",
       "label": "Đurđevdan",
       "longitude": 20.5390251470769,
       "latitude": 44.6749833143366
     },
     {
-      "id": "_27",
+      "id": "_26",
       "label": "Put za Zuce",
       "longitude": 20.5330315962401,
       "latitude": 44.6806505317814
     },
     {
-      "id": "_28",
+      "id": "_27",
       "label": "Šumareva kuća",
       "longitude": 20.5183758344286,
       "latitude": 44.6804135981769
     },
     {
-      "id": "_29",
+      "id": "_28",
       "label": "Avala",
       "longitude": 20.502043577643,
       "latitude": 44.696628010097
     },
     {
-      "id": "_30",
+      "id": "_29",
       "label": "Beli potok (Kumbara)",
       "longitude": 20.5062572465612,
       "latitude": 44.7107307340769
     },
     {
-      "id": "_31",
+      "id": "_30",
       "label": "Rakovica selo",
       "longitude": 20.4975661062226,
       "latitude": 44.7219300172401
     },
     {
-      "id": "_32",
+      "id": "_31",
       "label": "Rakovica selo (spomen česma)",
       "longitude": 20.4944744021448,
       "latitude": 44.7264792717087
     },
     {
-      "id": "_33",
+      "id": "_32",
       "label": "Spomen park Jajinci",
       "longitude": 20.4842999484184,
       "latitude": 44.7295496892026
     },
     {
-      "id": "_34",
+      "id": "_33",
       "label": "Jajinci (Dom zdravlja)",
       "longitude": 20.4852827788957,
       "latitude": 44.7412086418607
     },
     {
-      "id": "_35",
+      "id": "_34",
       "label": "Riste Stefanovića",
       "longitude": 20.4801659780458,
       "latitude": 44.7500088163803
     },
     {
+      "id": "_35",
+      "label": "Baštovanska",
+      "longitude": 20.4772006355453,
+      "latitude": 44.7570456461003
+    },
+    {
       "id": "_36",
-      "label": "Crkva Sv. Vasilija Ostroškog",
-      "longitude": 20.479352212498,
-      "latitude": 44.762779177256
-    },
-    {
-      "id": "_37",
-      "label": "Trg oslobođenja",
-      "longitude": 20.4659369887447,
-      "latitude": 44.7870164037455
-    },
-    {
-      "id": "_38",
-      "label": "Palata pravde 1",
-      "longitude": 20.451327814778,
-      "latitude": 44.8034058554644
-    },
-    {
-      "id": "_39",
-      "label": "BAS",
-      "longitude": 20.4543059627735,
-      "latitude": 44.8101721002059
+      "label": "Trošarina",
+      "longitude": 20.4829546641654,
+      "latitude": 44.7613177802674
     }
   ],
   "direction_b": []

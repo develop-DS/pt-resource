@@ -1,0 +1,402 @@
+{
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Čukarička padina",
+      "longitude": 20.4047856105471,
+      "latitude": 44.7780470368689
+    },
+    {
+      "id": "_2",
+      "label": "Stevana Đurđevića",
+      "longitude": 20.4053975044046,
+      "latitude": 44.7762826934334
+    },
+    {
+      "id": "_3",
+      "label": "MZ Čukarička padina",
+      "longitude": 20.4082502530515,
+      "latitude": 44.7773000004035
+    },
+    {
+      "id": "_4",
+      "label": "Obalskih radnika",
+      "longitude": 20.409834496281,
+      "latitude": 44.7813075744098
+    },
+    {
+      "id": "_5",
+      "label": "Svetolika Lazarevića Laze",
+      "longitude": 20.4126930555031,
+      "latitude": 44.7842849056458
+    },
+    {
+      "id": "_6",
+      "label": "Čukarica",
+      "longitude": 20.4151354377319,
+      "latitude": 44.786451881637
+    },
+    {
+      "id": "_7",
+      "label": "Ada Ciganlija",
+      "longitude": 20.4199404372204,
+      "latitude": 44.7884471855672
+    },
+    {
+      "id": "_8",
+      "label": "Petlja Radnička",
+      "longitude": 20.4269233361216,
+      "latitude": 44.7922118123979
+    },
+    {
+      "id": "_9",
+      "label": "Gospodarska mehana",
+      "longitude": 20.4336127623586,
+      "latitude": 44.7944711917042
+    },
+    {
+      "id": "_10",
+      "label": "Ruska",
+      "longitude": 20.4381751998929,
+      "latitude": 44.7952763240306
+    },
+    {
+      "id": "_11",
+      "label": "Sajam",
+      "longitude": 20.4420563488721,
+      "latitude": 44.7963250729334
+    },
+    {
+      "id": "_12",
+      "label": "Mostar",
+      "longitude": 20.4488893135074,
+      "latitude": 44.7982104318979
+    },
+    {
+      "id": "_13",
+      "label": "Ortopedski zavod",
+      "longitude": 20.449645218621,
+      "latitude": 44.7931293143198
+    },
+    {
+      "id": "_14",
+      "label": "Železnička stanica BGD centar",
+      "longitude": 20.4539804454148,
+      "latitude": 44.7925740557622
+    },
+    {
+      "id": "_15",
+      "label": "Bulevar kneza Aleksandra Karađorđevića",
+      "longitude": 20.4560364486608,
+      "latitude": 44.7900369467188
+    },
+    {
+      "id": "_16",
+      "label": "Stadion Partizan",
+      "longitude": 20.4574207698052,
+      "latitude": 44.7863284818667
+    },
+    {
+      "id": "_17",
+      "label": "Pedagoška akademija",
+      "longitude": 20.4579487668183,
+      "latitude": 44.7817411973179
+    },
+    {
+      "id": "_18",
+      "label": "Bolnica Dragiša Mišović",
+      "longitude": 20.4581004763674,
+      "latitude": 44.7776615063441
+    },
+    {
+      "id": "_19",
+      "label": "Paje Adamova",
+      "longitude": 20.4625884363578,
+      "latitude": 44.7727454426712
+    },
+    {
+      "id": "_20",
+      "label": "Banjica",
+      "longitude": 20.4659948316041,
+      "latitude": 44.7694170982456
+    },
+    {
+      "id": "_21",
+      "label": "Vojnomedicinska akademija",
+      "longitude": 20.4701203403659,
+      "latitude": 44.7655951952454
+    },
+    {
+      "id": "_22",
+      "label": "Plivalište Banjica",
+      "longitude": 20.4724374903204,
+      "latitude": 44.763049984826
+    },
+    {
+      "id": "_23",
+      "label": "Paunova",
+      "longitude": 20.4769460779112,
+      "latitude": 44.7609197174914
+    },
+    {
+      "id": "_24",
+      "label": "Trošarina",
+      "longitude": 20.4829546641654,
+      "latitude": 44.7613177802674
+    },
+    {
+      "id": "_25",
+      "label": "Bulevar Peka Dapčevića",
+      "longitude": 20.4904117661079,
+      "latitude": 44.7631923990261
+    },
+    {
+      "id": "_26",
+      "label": "SC Sport eko",
+      "longitude": 20.4935695662369,
+      "latitude": 44.7640919361457
+    },
+    {
+      "id": "_27",
+      "label": "Braće Jerković (Mitrovo brdo)",
+      "longitude": 20.4985309946891,
+      "latitude": 44.7635701430807
+    },
+    {
+      "id": "_28",
+      "label": "Naselje Braće Jerković",
+      "longitude": 20.5002027826431,
+      "latitude": 44.7657157392703
+    },
+    {
+      "id": "_29",
+      "label": "Zaplanjska",
+      "longitude": 20.5007223064412,
+      "latitude": 44.7684790761153
+    },
+    {
+      "id": "_30",
+      "label": "Svetozara Radojčića",
+      "longitude": 20.5027279457175,
+      "latitude": 44.7720930181474
+    },
+    {
+      "id": "_31",
+      "label": "Medaković 2",
+      "longitude": 20.4997769722313,
+      "latitude": 44.7770533666556
+    },
+    {
+      "id": "_32",
+      "label": "Baza Voždovac",
+      "longitude": 20.4971821167997,
+      "latitude": 44.7790543350656
+    },
+    {
+      "id": "_33",
+      "label": "Tranšped",
+      "longitude": 20.5761749001744,
+      "latitude": 44.7038573569876
+    },
+    {
+      "id": "_34",
+      "label": "Astrid Lindgren",
+      "longitude": 20.5723906411889,
+      "latitude": 44.7037386762859
+    },
+    {
+      "id": "_35",
+      "label": "IKEA",
+      "longitude": 20.561656194545,
+      "latitude": 44.7095282191039
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "IKEA",
+      "longitude": 20.561656194545,
+      "latitude": 44.7095282191039
+    },
+    {
+      "id": "_2",
+      "label": " Tržni centar",
+      "longitude": 20.5594997406006,
+      "latitude": 44.7133026123047
+    },
+    {
+      "id": "_3",
+      "label": "Tranšped",
+      "longitude": 20.5761749001744,
+      "latitude": 44.7038573569876
+    },
+    {
+      "id": "_4",
+      "label": "Medaković 2",
+      "longitude": 20.4997318423423,
+      "latitude": 44.7749526675893
+    },
+    {
+      "id": "_5",
+      "label": "Svetozara Radojčića",
+      "longitude": 20.5022425526906,
+      "latitude": 44.7721215130103
+    },
+    {
+      "id": "_6",
+      "label": "Zaplanjska",
+      "longitude": 20.5005624185723,
+      "latitude": 44.7688563634862
+    },
+    {
+      "id": "_7",
+      "label": "Naselje Braće Jerković",
+      "longitude": 20.4997741835448,
+      "latitude": 44.7650209032317
+    },
+    {
+      "id": "_8",
+      "label": "Braće Jerković (Mitrovo brdo)",
+      "longitude": 20.4975517356776,
+      "latitude": 44.7631608787103
+    },
+    {
+      "id": "_9",
+      "label": "SC Sport eko",
+      "longitude": 20.4930269061577,
+      "latitude": 44.7646115173547
+    },
+    {
+      "id": "_10",
+      "label": "Bulevar Peka Dapčevića",
+      "longitude": 20.4893441030115,
+      "latitude": 44.7627880714813
+    },
+    {
+      "id": "_11",
+      "label": "Trošarina",
+      "longitude": 20.4832738409457,
+      "latitude": 44.7615844086128
+    },
+    {
+      "id": "_12",
+      "label": "Paunova",
+      "longitude": 20.4755839751161,
+      "latitude": 44.761098763206
+    },
+    {
+      "id": "_13",
+      "label": "Plivalište Banjica",
+      "longitude": 20.4718053283322,
+      "latitude": 44.7639470370081
+    },
+    {
+      "id": "_14",
+      "label": "Vojnomedicinska akademija",
+      "longitude": 20.4694651303413,
+      "latitude": 44.766519126433
+    },
+    {
+      "id": "_15",
+      "label": "Banjica",
+      "longitude": 20.4656895425013,
+      "latitude": 44.7699196542528
+    },
+    {
+      "id": "_16",
+      "label": "Paje Adamova",
+      "longitude": 20.4618812747399,
+      "latitude": 44.7738004797968
+    },
+    {
+      "id": "_17",
+      "label": "Bolnica Dragiša Mišović",
+      "longitude": 20.4584663318714,
+      "latitude": 44.7777226308253
+    },
+    {
+      "id": "_18",
+      "label": "Pedagoška akademija",
+      "longitude": 20.4579774380025,
+      "latitude": 44.7827330855492
+    },
+    {
+      "id": "_19",
+      "label": "Stadion Partizan",
+      "longitude": 20.4576188802743,
+      "latitude": 44.785953236666
+    },
+    {
+      "id": "_20",
+      "label": "Bulevar kneza Aleksandra Karađorđevića",
+      "longitude": 20.4559346728239,
+      "latitude": 44.7898384738614
+    },
+    {
+      "id": "_21",
+      "label": "Železnička stanica BGD centar",
+      "longitude": 20.4544106201988,
+      "latitude": 44.7926343820594
+    },
+    {
+      "id": "_22",
+      "label": "Ortopedski zavod",
+      "longitude": 20.4487869469579,
+      "latitude": 44.7951410939727
+    },
+    {
+      "id": "_23",
+      "label": "Mostar",
+      "longitude": 20.4492660247473,
+      "latitude": 44.7987396141814
+    },
+    {
+      "id": "_24",
+      "label": "Sajam",
+      "longitude": 20.4415906546322,
+      "latitude": 44.7964130286058
+    },
+    {
+      "id": "_25",
+      "label": "Ruska",
+      "longitude": 20.4359385437038,
+      "latitude": 44.795085842923
+    },
+    {
+      "id": "_26",
+      "label": "Petlja Radnička",
+      "longitude": 20.4267571122724,
+      "latitude": 44.7924097733453
+    },
+    {
+      "id": "_27",
+      "label": "Čukarica",
+      "longitude": 20.4145017152671,
+      "latitude": 44.7863856515716
+    },
+    {
+      "id": "_28",
+      "label": "Svetolika Lazarevića Laze",
+      "longitude": 20.4124687132794,
+      "latitude": 44.7837257834688
+    },
+    {
+      "id": "_29",
+      "label": "Obalskih radnika",
+      "longitude": 20.4093990887355,
+      "latitude": 44.7806321651596
+    },
+    {
+      "id": "_30",
+      "label": "Strugarska",
+      "longitude": 20.4071625466712,
+      "latitude": 44.7771575898245
+    },
+    {
+      "id": "_31",
+      "label": "Čukarička padina",
+      "longitude": 20.4047856105471,
+      "latitude": 44.7780470368689
+    }
+  ]
+}

@@ -2,275 +2,280 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "Trg Slavija",
-      "longitude": 20.4658913763059,
-      "latitude": 44.8027240093001
+      "label": "Euroazija ulaz",
+      "longitude": 20.3656509686166,
+      "latitude": 44.7970483369336
     },
     {
       "id": "_2",
-      "label": "Trg Slavija (Nemanjina)",
-      "longitude": 20.4645643189521,
-      "latitude": 44.8032487975536
+      "label": "Blok 72",
+      "longitude": 20.3654159000744,
+      "latitude": 44.800774012915
     },
     {
       "id": "_3",
-      "label": "Kneza Miloša",
-      "longitude": 20.461314907081,
-      "latitude": 44.8052350860987
+      "label": "Naselje Mileva Marić Ajnštajn",
+      "longitude": 20.367192241932,
+      "latitude": 44.798533944274
     },
     {
       "id": "_4",
-      "label": "Nemanjina",
-      "longitude": 20.4583623579774,
-      "latitude": 44.8078994480017
+      "label": "Novi Beograd/Blok 71/",
+      "longitude": 20.369735,
+      "latitude": 44.796957
     },
     {
       "id": "_5",
-      "label": "Kamenička",
-      "longitude": 20.4562962076639,
-      "latitude": 44.8117342746216
-    },
-    {
-      "id": "_6",
-      "label": "Brankov most",
-      "longitude": 20.4520673994809,
-      "latitude": 44.8153355656855
-    },
-    {
-      "id": "_7",
-      "label": "Staro sajmište",
-      "longitude": 20.4401187896729,
-      "latitude": 44.8118591308594
-    },
-    {
-      "id": "_8",
-      "label": "Blok 21",
-      "longitude": 20.433509600562,
-      "latitude": 44.813738913336
-    },
-    {
-      "id": "_9",
-      "label": "Sava centar",
-      "longitude": 20.429376966835,
-      "latitude": 44.8091880699878
-    },
-    {
-      "id": "_10",
-      "label": "Blok 23",
-      "longitude": 20.4272059403329,
-      "latitude": 44.8067869745889
-    },
-    {
-      "id": "_11",
-      "label": "Milutina Milankovića",
-      "longitude": 20.4222768941996,
-      "latitude": 44.807174434539
-    },
-    {
-      "id": "_12",
-      "label": "Železnička stanica Novi Beograd",
-      "longitude": 20.4184994400701,
-      "latitude": 44.807184145511
-    },
-    {
-      "id": "_13",
-      "label": "Blok 42",
-      "longitude": 20.4161138241365,
-      "latitude": 44.8040491880885
-    },
-    {
-      "id": "_14",
-      "label": "Naselje Belvil",
-      "longitude": 20.4087912710902,
-      "latitude": 44.8043806592678
-    },
-    {
-      "id": "_15",
-      "label": "Agostina Neta",
-      "longitude": 20.402670230293,
-      "latitude": 44.804645928585
-    },
-    {
-      "id": "_16",
-      "label": "Omladinskih brigada",
-      "longitude": 20.3981750749657,
-      "latitude": 44.8046404276435
-    },
-    {
-      "id": "_17",
-      "label": "Blok 70",
-      "longitude": 20.3936830200988,
-      "latitude": 44.8043377814529
-    },
-    {
-      "id": "_18",
-      "label": "Gandijeva",
-      "longitude": 20.3867666614598,
-      "latitude": 44.8032966577503
-    },
-    {
-      "id": "_19",
-      "label": "Pijaca blok 44",
-      "longitude": 20.3845394918383,
-      "latitude": 44.8028041510327
-    },
-    {
-      "id": "_20",
-      "label": "Nehruova",
-      "longitude": 20.3797930284702,
-      "latitude": 44.8014862444975
-    },
-    {
-      "id": "_21",
-      "label": "OŠ Branko Radičević",
-      "longitude": 20.3750640665513,
-      "latitude": 44.7997362577074
-    },
-    {
-      "id": "_22",
-      "label": "Dr Ivana Ribara 1",
-      "longitude": 20.3720076477441,
-      "latitude": 44.7966975121338
-    },
-    {
-      "id": "_23",
-      "label": "Blok 45",
-      "longitude": 20.3751162660873,
-      "latitude": 44.7927636918094
-    }
-  ],
-  "direction_b": [
-    {
-      "id": "_1",
-      "label": "Blok 45",
-      "longitude": 20.3751291683801,
-      "latitude": 44.7929743516835
-    },
-    {
-      "id": "_2",
-      "label": "Dr Ivana Ribara 1",
-      "longitude": 20.372822056412,
-      "latitude": 44.795955006956
-    },
-    {
-      "id": "_3",
       "label": "Dr Ivana Ribara",
       "longitude": 20.3723636222563,
       "latitude": 44.7981447883689
     },
     {
-      "id": "_4",
+      "id": "_6",
       "label": "OŠ Branko Radičević",
       "longitude": 20.3758104864697,
       "latitude": 44.7996755264851
     },
     {
-      "id": "_5",
+      "id": "_7",
       "label": "Nehruova",
       "longitude": 20.3801345001671,
       "latitude": 44.8012325038803
     },
     {
-      "id": "_6",
-      "label": "Pijaca blok 44",
-      "longitude": 20.3838647400665,
-      "latitude": 44.8023019532235
-    },
-    {
-      "id": "_7",
+      "id": "_8",
       "label": "Gandijeva",
       "longitude": 20.3890031634022,
       "latitude": 44.8033859914348
     },
     {
-      "id": "_8",
+      "id": "_9",
       "label": "Blok 70",
       "longitude": 20.3938859295558,
       "latitude": 44.8040328697862
     },
     {
-      "id": "_9",
+      "id": "_10",
       "label": "Omladinskih brigada",
       "longitude": 20.3982187854152,
       "latitude": 44.8043256732423
     },
     {
-      "id": "_10",
+      "id": "_11",
       "label": "Agostina Neta",
       "longitude": 20.4050383387221,
       "latitude": 44.8042352593398
     },
     {
-      "id": "_11",
+      "id": "_12",
       "label": "Naselje Belvil",
       "longitude": 20.4113692,
       "latitude": 44.8039192
     },
     {
-      "id": "_12",
+      "id": "_13",
       "label": "Blok 42",
       "longitude": 20.4174981040421,
       "latitude": 44.8046717945968
     },
     {
-      "id": "_13",
+      "id": "_14",
       "label": "Železnička stanica Novi Beograd",
       "longitude": 20.4188123909699,
       "latitude": 44.8069877418935
     },
     {
-      "id": "_14",
+      "id": "_15",
       "label": "Milutina Milankovića",
       "longitude": 20.4229537163457,
       "latitude": 44.8064884771245
     },
     {
-      "id": "_15",
+      "id": "_16",
       "label": "Blok 23",
       "longitude": 20.4277141637499,
       "latitude": 44.8067841114559
     },
     {
-      "id": "_16",
+      "id": "_17",
       "label": "Sava centar",
       "longitude": 20.4306656730991,
       "latitude": 44.810044028612
     },
     {
-      "id": "_17",
+      "id": "_18",
       "label": "Blok 21",
-      "longitude": 20.4340503176078,
-      "latitude": 44.8137811800735
+      "longitude": 20.4340150754334,
+      "latitude": 44.8137988782263
     },
     {
-      "id": "_18",
+      "id": "_19",
       "label": "Staro sajmište",
       "longitude": 20.4388928723472,
       "latitude": 44.8119258670473
     },
     {
-      "id": "_19",
-      "label": "Brankov most 1",
-      "longitude": 20.4522304534912,
-      "latitude": 44.8147430419922
-    },
-    {
       "id": "_20",
-      "label": "Kamenička 1",
-      "longitude": 20.4562435150146,
-      "latitude": 44.811580657959
+      "label": "Brankov most 1",
+      "longitude": 20.45285291419,
+      "latitude": 44.814684655683
     },
     {
       "id": "_21",
+      "label": "Kamenička 1",
+      "longitude": 20.456269,
+      "latitude": 44.8115755
+    },
+    {
+      "id": "_22",
       "label": "Kneza Miloša",
       "longitude": 20.4606080823449,
       "latitude": 44.8053901574623
     },
     {
-      "id": "_22",
+      "id": "_23",
       "label": "Trg Slavija (Nemanjina)",
       "longitude": 20.4645567418167,
       "latitude": 44.8029733763053
+    },
+    {
+      "id": "_24",
+      "label": "Trg Slavija (Nemanjina)",
+      "longitude": 20.4645643189521,
+      "latitude": 44.8032487975536
+    },
+    {
+      "id": "_25",
+      "label": "Kneza Miloša",
+      "longitude": 20.461314907081,
+      "latitude": 44.8052350860987
+    },
+    {
+      "id": "_26",
+      "label": "Nemanjina",
+      "longitude": 20.4583623579774,
+      "latitude": 44.8078994480017
+    },
+    {
+      "id": "_27",
+      "label": "Kamenička",
+      "longitude": 20.4562962076639,
+      "latitude": 44.8117342746216
+    },
+    {
+      "id": "_28",
+      "label": "Brankov most",
+      "longitude": 20.4520673994809,
+      "latitude": 44.8153355656855
+    },
+    {
+      "id": "_29",
+      "label": "Novi Beograd (Ušće)",
+      "longitude": 20.4404657079707,
+      "latitude": 44.8148079964437
+    },
+    {
+      "id": "_30",
+      "label": "Staro sajmište",
+      "longitude": 20.43999,
+      "latitude": 44.81185
+    },
+    {
+      "id": "_31",
+      "label": "Blok 21",
+      "longitude": 20.4335430447247,
+      "latitude": 44.8137037400579
+    },
+    {
+      "id": "_32",
+      "label": "Sava centar",
+      "longitude": 20.429376966835,
+      "latitude": 44.8091880699878
+    },
+    {
+      "id": "_33",
+      "label": "Blok 23",
+      "longitude": 20.4272059403329,
+      "latitude": 44.8067869745889
+    },
+    {
+      "id": "_34",
+      "label": "Milutina Milankovića",
+      "longitude": 20.4222768941996,
+      "latitude": 44.807174434539
+    },
+    {
+      "id": "_35",
+      "label": "Železnička stanica Novi Beograd",
+      "longitude": 20.4184994400701,
+      "latitude": 44.807184145511
+    },
+    {
+      "id": "_36",
+      "label": "Blok 42",
+      "longitude": 20.4161138241365,
+      "latitude": 44.8040491880885
+    },
+    {
+      "id": "_37",
+      "label": "Naselje Belvil",
+      "longitude": 20.4087912710902,
+      "latitude": 44.8043806592678
+    },
+    {
+      "id": "_38",
+      "label": "Agostina Neta",
+      "longitude": 20.402670230293,
+      "latitude": 44.804645928585
+    },
+    {
+      "id": "_39",
+      "label": "Omladinskih brigada",
+      "longitude": 20.3981750749657,
+      "latitude": 44.8046404276435
+    },
+    {
+      "id": "_40",
+      "label": "Blok 70",
+      "longitude": 20.3936830200988,
+      "latitude": 44.8043377814529
+    },
+    {
+      "id": "_41",
+      "label": "Gandijeva",
+      "longitude": 20.3867666614598,
+      "latitude": 44.8032966577503
+    },
+    {
+      "id": "_42",
+      "label": "Nehruova",
+      "longitude": 20.3797930284702,
+      "latitude": 44.8014862444975
+    },
+    {
+      "id": "_43",
+      "label": "OŠ Branko Radičević",
+      "longitude": 20.3750640665513,
+      "latitude": 44.7997362577074
+    },
+    {
+      "id": "_44",
+      "label": "Novi Beograd/Blok 71/",
+      "longitude": 20.369644,
+      "latitude": 44.797086
+    },
+    {
+      "id": "_45",
+      "label": "Mileve Marić Anštajn",
+      "longitude": 20.3671557,
+      "latitude": 44.7977659
+    },
+    {
+      "id": "_46",
+      "label": "Blok 72 /TC Euroazija/",
+      "longitude": 20.3635641734482,
+      "latitude": 44.7961842257314
     }
-  ]
+  ],
+  "direction_b": []
 }
