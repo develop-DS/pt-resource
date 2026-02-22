@@ -1,109 +1,104 @@
 {
-    "direction_a": [
-        {
-            "id": "_1",
-            "label": "BULEVAR JAŠE TOMIĆA - BULEVAR OSLOBOĐENJA",
-            "longitude": 19.831181344,
-            "latitude": 45.264414954,
-            "expected_arrival_seconds": 0
-        },
-        {
-            "id": "_2",
-            "label": "Kisačka - Podvožnjak",
-            "longitude": 19.834665763,
-            "latitude": 45.2665045391,
-            "expected_arrival_seconds": 60
-        },
-        {
-            "id": "_3",
-            "label": "Put Šajkaškog Odreda - Temerinska",
-            "longitude": 19.842795,
-            "latitude": 45.270255,
-            "expected_arrival_seconds": 120
-        },
-        {
-            "id": "_4",
-            "label": "Bajči Žilinskog - Metalurgija",
-            "longitude": 19.84741502,
-            "latitude": 45.2699333114,
-            "expected_arrival_seconds": 180
-        },
-        {
-            "id": "_5",
-            "label": "Bajči Žilinskog - Balkan",
-            "longitude": 19.85219461,
-            "latitude": 45.2680922537,
-            "expected_arrival_seconds": 240
-        },
-        {
-            "id": "_6",
-            "label": "Bajči Žilinskog - Luka Novi Sad",
-            "longitude": 19.8563748626,
-            "latitude": 45.2666746173,
-            "expected_arrival_seconds": 300
-        },
-        {
-            "id": "_7",
-            "label": "Bajči Žilinskog - Danubius",
-            "longitude": 19.8589099487,
-            "latitude": 45.2658468595,
-            "expected_arrival_seconds": 420
-        },
-        {
-            "id": "_",
-            "label": "BULEVAR MIHAJLA PUPINA - SONJE MARINKOVIĆ",
-            "longitude": 19.852979,
-            "latitude": 45.254153
-        }
-    ],
-    "direction_b": [
-        {
-            "id": "_1",
-            "label": "Bajči Žilinskog - Danubius",
-            "longitude": 19.8589099487,
-            "latitude": 45.2658468595,
-            "expected_arrival_seconds": 0
-        },
-        {
-            "id": "_2",
-            "label": "Bajči Žilinskog - Luka Novi Sad",
-            "longitude": 19.8564206921,
-            "latitude": 45.2667245338,
-            "expected_arrival_seconds": 60
-        },
-        {
-            "id": "_3",
-            "label": "Bajči Žilinskog - Balkan",
-            "longitude": 19.853083049,
-            "latitude": 45.2678999388,
-            "expected_arrival_seconds": 120
-        },
-        {
-            "id": "_4",
-            "label": "Partizanska - Temerinska",
-            "longitude": 19.841061,
-            "latitude": 45.270261,
-            "expected_arrival_seconds": 180
-        },
-        {
-            "id": "_5",
-            "label": "Sentandrejski Put - Partizanska",
-            "longitude": 19.8317437287,
-            "latitude": 45.2687779267,
-            "expected_arrival_seconds": 240
-        },
-        {
-            "id": "_6",
-            "label": "Železnička Stanica - Dolasci",
-            "longitude": 19.830132455,
-            "latitude": 45.2650202834,
-            "expected_arrival_seconds": 420
-        },
-        {
-            "id": "_",
-            "label": "AZOTARA",
-            "longitude": 19.848567,
-            "latitude": 45.272147
-        }
-    ]
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Bulevar Jaše Tomića - Bulevar Oslobođenja",
+      "longitude": 19.831181344,
+      "latitude": 45.264414954,
+      "expected_arrival_seconds": 0
+    },
+    {
+      "id": "_2",
+      "label": "Kisačka - Podvožnjak",
+      "longitude": 19.834665763,
+      "latitude": 45.2665045391,
+      "expected_arrival_seconds": 52
+    },
+    {
+      "id": "_3",
+      "label": "Put Šajkaškog Odreda - Temerinska",
+      "longitude": 19.842795,
+      "latitude": 45.270255,
+      "expected_arrival_seconds": 162
+    },
+    {
+      "id": "_4",
+      "label": "Bajči Žilinskog - Metalurgija",
+      "longitude": 19.84741502,
+      "latitude": 45.2699333114,
+      "expected_arrival_seconds": 214
+    },
+    {
+      "id": "_5",
+      "label": "Bajči Žilinskog - Balkan",
+      "longitude": 19.85219461,
+      "latitude": 45.2680922537,
+      "expected_arrival_seconds": 276
+    },
+    {
+      "id": "_6",
+      "label": "Bajči Žilinskog - Luka Novi Sad",
+      "longitude": 19.8563748626,
+      "latitude": 45.2666746173,
+      "expected_arrival_seconds": 328
+    },
+    {
+      "id": "_7",
+      "label": "Bajči Žilinskog - Danubius",
+      "longitude": 19.8589099487,
+      "latitude": 45.2658468595,
+      "expected_arrival_seconds": 360
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Bajči Žilinskog - Danubius",
+      "longitude": 19.8589099487,
+      "latitude": 45.2658468595,
+      "expected_arrival_seconds": 0
+    },
+    {
+      "id": "_2",
+      "label": "Bajči Žilinskog - Luka Novi Sad",
+      "longitude": 19.8564206921,
+      "latitude": 45.2667245338,
+      "expected_arrival_seconds": 31
+    },
+    {
+      "id": "_3",
+      "label": "Bajči Žilinskog - Balkan",
+      "longitude": 19.853083049,
+      "latitude": 45.2678999388,
+      "expected_arrival_seconds": 74
+    },
+    {
+      "id": "_4",
+      "label": "Azotara",
+      "longitude": 19.848567,
+      "latitude": 45.272147,
+      "expected_arrival_seconds": 159
+    },
+    {
+      "id": "_5",
+      "label": "Partizanska - Temerinska",
+      "longitude": 19.841061,
+      "latitude": 45.270261,
+      "expected_arrival_seconds": 249
+    },
+    {
+      "id": "_6",
+      "label": "Sentandrejski Put - Partizanska",
+      "longitude": 19.8317437287,
+      "latitude": 45.2687779267,
+      "expected_arrival_seconds": 357
+    },
+    {
+      "id": "_7",
+      "label": "Železnička Stanica - Dolasci",
+      "longitude": 19.830132455,
+      "latitude": 45.2650202834,
+      "expected_arrival_seconds": 420
+    }
+  ]
 }

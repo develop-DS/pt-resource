@@ -1,230 +1,230 @@
 {
-    "direction_a": [
-        {
-            "id": "_1",
-            "label": "Uspenska - Šafarikova",
-            "longitude": 19.8414070119,
-            "latitude": 45.2550293771,
-            "expected_arrival_seconds": 0
-        },
-        {
-            "id": "_2",
-            "label": "Bul. Mihajla Pupina - Pothodnik",
-            "longitude": 19.844187,
-            "latitude": 45.253337,
-            "expected_arrival_seconds": 60
-        },
-        {
-            "id": "_3",
-            "label": "Žarka Zrenjanina - Opština",
-            "longitude": 19.8471827488,
-            "latitude": 45.2524025428,
-            "expected_arrival_seconds": 130
-        },
-        {
-            "id": "_4",
-            "label": "Maksima Gorkog - Sremska",
-            "longitude": 19.8421576964,
-            "latitude": 45.2488034819,
-            "expected_arrival_seconds": 200
-        },
-        {
-            "id": "_5",
-            "label": "Bul. Oslobođenja - Braće Ribnikar",
-            "longitude": 19.8392619075,
-            "latitude": 45.2475207776,
-            "expected_arrival_seconds": 270
-        },
-        {
-            "id": "_6",
-            "label": "Bul. Cara Lazara - Bul. Oslobođenja",
-            "longitude": 19.8407575757,
-            "latitude": 45.2437760634,
-            "expected_arrival_seconds": 350
-        },
-        {
-            "id": "_7",
-            "label": "Bul. Cara Lazara - Puškinova",
-            "longitude": 19.8359820245,
-            "latitude": 45.2425681438,
-            "expected_arrival_seconds": 420
-        },
-        {
-            "id": "_8",
-            "label": "Bul. Cara Lazara - Dom Zdravlja",
-            "longitude": 19.8302794061,
-            "latitude": 45.2413137447,
-            "expected_arrival_seconds": 500
-        },
-        {
-            "id": "_9",
-            "label": "Ive Andrića - Bulevar Evrope",
-            "longitude": 19.8253580867,
-            "latitude": 45.2394232209,
-            "expected_arrival_seconds": 580
-        },
-        {
-            "id": "_10",
-            "label": "Heroja Pinkija - Laze Lazarevića",
-            "longitude": 19.8216097718,
-            "latitude": 45.2372217236,
-            "expected_arrival_seconds": 660
-        },
-        {
-            "id": "_11",
-            "label": "Heroja Pinkija - Mornarska",
-            "longitude": 19.8180658175,
-            "latitude": 45.2349410298,
-            "expected_arrival_seconds": 740
-        },
-        {
-            "id": "_12",
-            "label": "Kotorska - Braće Miladinov",
-            "longitude": 19.8139810465,
-            "latitude": 45.234404245,
-            "expected_arrival_seconds": 820
-        },
-        {
-            "id": "_13",
-            "label": "Feješ Klare - Kotorska",
-            "longitude": 19.810173082,
-            "latitude": 45.2350171332,
-            "expected_arrival_seconds": 900
-        },
-        {
-            "id": "_15",
-            "label": "Senteleki Kornela - O.Š. Jožef Atila",
-            "longitude": 19.806373,
-            "latitude": 45.237096,
-            "expected_arrival_seconds": 1060
-        },
-        {
-            "id": "_14",
-            "label": "Stanoja Glavaša - Šarplaninska",
-            "longitude": 19.808045,
-            "latitude": 45.236683,
-            "expected_arrival_seconds": 980
-        }
-    ],
-    "direction_b": [
-        {
-            "id": "_1",
-            "label": "Senteleki Kornela - O.Š. Jožef Atila",
-            "longitude": 19.806373,
-            "latitude": 45.237096,
-            "expected_arrival_seconds": 0
-        },
-        {
-            "id": "_2",
-            "label": "Ćirila I Metodija - O.Š. Jožef Atila",
-            "longitude": 19.8079954948,
-            "latitude": 45.2383549843,
-            "expected_arrival_seconds": 70
-        },
-        {
-            "id": "_3",
-            "label": "Feješ Klare - Ćirila I Metodija",
-            "longitude": 19.810635893,
-            "latitude": 45.2376452454,
-            "expected_arrival_seconds": 140
-        },
-        {
-            "id": "_4",
-            "label": "Feješ Klare - Kotorska",
-            "longitude": 19.8100768788,
-            "latitude": 45.2349271049,
-            "expected_arrival_seconds": 210
-        },
-        {
-            "id": "_5",
-            "label": "Kotorska - Braće Miladinov",
-            "longitude": 19.813750923,
-            "latitude": 45.2343708896,
-            "expected_arrival_seconds": 280
-        },
-        {
-            "id": "_6",
-            "label": "Heroja Pinkija - Mornarska",
-            "longitude": 19.8185888685,
-            "latitude": 45.2351605706,
-            "expected_arrival_seconds": 350
-        },
-        {
-            "id": "_7",
-            "label": "Heroja Pinkija - Laze Lazarevića",
-            "longitude": 19.8221918457,
-            "latitude": 45.2373825002,
-            "expected_arrival_seconds": 420
-        },
-        {
-            "id": "_8",
-            "label": "Bul. Cara Lazara - Ive Andrića",
-            "longitude": 19.8258641034,
-            "latitude": 45.2399480828,
-            "expected_arrival_seconds": 490
-        },
-        {
-            "id": "_9",
-            "label": "Bul. Cara Lazara - Dom Zdravlja",
-            "longitude": 19.8317379566,
-            "latitude": 45.241465683,
-            "expected_arrival_seconds": 570
-        },
-        {
-            "id": "_10",
-            "label": "Bul. Cara Lazara - Šekspirova",
-            "longitude": 19.8371533191,
-            "latitude": 45.2426706144,
-            "expected_arrival_seconds": 650
-        },
-        {
-            "id": "_11",
-            "label": "Bul. Oslobođenja - Bul. Cara Lazara",
-            "longitude": 19.8412524923,
-            "latitude": 45.2444754031,
-            "expected_arrival_seconds": 730
-        },
-        {
-            "id": "_12",
-            "label": "Maksima Gorkog - Bul. Oslobođenja",
-            "longitude": 19.839720893,
-            "latitude": 45.2480202534,
-            "expected_arrival_seconds": 810
-        },
-        {
-            "id": "_13",
-            "label": "Maksima Gorkog - Spens",
-            "longitude": 19.8431913572,
-            "latitude": 45.2488624702,
-            "expected_arrival_seconds": 890
-        },
-        {
-            "id": "_14",
-            "label": "Žarka Zrenjanina - Izvršno Veće",
-            "longitude": 19.8475593745,
-            "latitude": 45.2528535063,
-            "expected_arrival_seconds": 970
-        },
-        {
-            "id": "_15",
-            "label": "Bul. Mihajla Pupina - Pothodnik",
-            "longitude": 19.844141,
-            "latitude": 45.253519,
-            "expected_arrival_seconds": 1050
-        },
-        {
-            "id": "_16",
-            "label": "Uspenska - Pozorišni Trg",
-            "longitude": 19.8422463011,
-            "latitude": 45.2548499029,
-            "expected_arrival_seconds": 1120
-        },
-        {
-            "id": "_17",
-            "label": "Uspenska - Šafarikova",
-            "longitude": 19.8414070119,
-            "latitude": 45.2550293771,
-            "expected_arrival_seconds": 1680
-        }
-    ]
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Uspenska - Šafarikova",
+      "longitude": 19.8414070119,
+      "latitude": 45.2550293771,
+      "expected_arrival_seconds": 0
+    },
+    {
+      "id": "_2",
+      "label": "Bul. Mihajla Pupina - Pothodnik",
+      "longitude": 19.844187,
+      "latitude": 45.253337,
+      "expected_arrival_seconds": 44
+    },
+    {
+      "id": "_3",
+      "label": "Žarka Zrenjanina - Opština",
+      "longitude": 19.8471827488,
+      "latitude": 45.2524025428,
+      "expected_arrival_seconds": 96
+    },
+    {
+      "id": "_4",
+      "label": "Maksima Gorkog - Sremska",
+      "longitude": 19.8421576964,
+      "latitude": 45.2488034819,
+      "expected_arrival_seconds": 147
+    },
+    {
+      "id": "_5",
+      "label": "Bul. Oslobođenja - Braće Ribnikar",
+      "longitude": 19.8392619075,
+      "latitude": 45.2475207776,
+      "expected_arrival_seconds": 199
+    },
+    {
+      "id": "_6",
+      "label": "Bul. Cara Lazara - Bul. Oslobođenja",
+      "longitude": 19.8407575757,
+      "latitude": 45.2437760634,
+      "expected_arrival_seconds": 258
+    },
+    {
+      "id": "_7",
+      "label": "Bul. Cara Lazara - Puškinova",
+      "longitude": 19.8359820245,
+      "latitude": 45.2425681438,
+      "expected_arrival_seconds": 309
+    },
+    {
+      "id": "_8",
+      "label": "Bul. Cara Lazara - Dom Zdravlja",
+      "longitude": 19.8302794061,
+      "latitude": 45.2413137447,
+      "expected_arrival_seconds": 368
+    },
+    {
+      "id": "_9",
+      "label": "Ive Andrića - Bulevar Evrope",
+      "longitude": 19.8253580867,
+      "latitude": 45.2394232209,
+      "expected_arrival_seconds": 427
+    },
+    {
+      "id": "_10",
+      "label": "Heroja Pinkija - Laze Lazarevića",
+      "longitude": 19.8216097718,
+      "latitude": 45.2372217236,
+      "expected_arrival_seconds": 486
+    },
+    {
+      "id": "_11",
+      "label": "Heroja Pinkija - Mornarska",
+      "longitude": 19.8180658175,
+      "latitude": 45.2349410298,
+      "expected_arrival_seconds": 545
+    },
+    {
+      "id": "_12",
+      "label": "Kotorska - Braće Miladinov",
+      "longitude": 19.8139810465,
+      "latitude": 45.234404245,
+      "expected_arrival_seconds": 603
+    },
+    {
+      "id": "_13",
+      "label": "Feješ Klare - Kotorska",
+      "longitude": 19.810173082,
+      "latitude": 45.2350171332,
+      "expected_arrival_seconds": 662
+    },
+    {
+      "id": "_14",
+      "label": "Stanoja Glavaša - Šarplaninska",
+      "longitude": 19.808045,
+      "latitude": 45.236683,
+      "expected_arrival_seconds": 721
+    },
+    {
+      "id": "_15",
+      "label": "Senteleki Kornela - O.Š. Jožef Atila",
+      "longitude": 19.806373,
+      "latitude": 45.237096,
+      "expected_arrival_seconds": 780
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Senteleki Kornela - O.Š. Jožef Atila",
+      "longitude": 19.806373,
+      "latitude": 45.237096,
+      "expected_arrival_seconds": 0
+    },
+    {
+      "id": "_2",
+      "label": "Ćirila I Metodija - O.Š. Jožef Atila",
+      "longitude": 19.8079954948,
+      "latitude": 45.2383549843,
+      "expected_arrival_seconds": 35
+    },
+    {
+      "id": "_3",
+      "label": "Feješ Klare - Ćirila I Metodija",
+      "longitude": 19.810635893,
+      "latitude": 45.2376452454,
+      "expected_arrival_seconds": 70
+    },
+    {
+      "id": "_4",
+      "label": "Feješ Klare - Kotorska",
+      "longitude": 19.8100768788,
+      "latitude": 45.2349271049,
+      "expected_arrival_seconds": 105
+    },
+    {
+      "id": "_5",
+      "label": "Kotorska - Braće Miladinov",
+      "longitude": 19.813750923,
+      "latitude": 45.2343708896,
+      "expected_arrival_seconds": 140
+    },
+    {
+      "id": "_6",
+      "label": "Heroja Pinkija - Mornarska",
+      "longitude": 19.8185888685,
+      "latitude": 45.2351605706,
+      "expected_arrival_seconds": 175
+    },
+    {
+      "id": "_7",
+      "label": "Heroja Pinkija - Laze Lazarevića",
+      "longitude": 19.8221918457,
+      "latitude": 45.2373825002,
+      "expected_arrival_seconds": 210
+    },
+    {
+      "id": "_8",
+      "label": "Bul. Cara Lazara - Ive Andrića",
+      "longitude": 19.8258641034,
+      "latitude": 45.2399480828,
+      "expected_arrival_seconds": 245
+    },
+    {
+      "id": "_9",
+      "label": "Bul. Cara Lazara - Dom Zdravlja",
+      "longitude": 19.8317379566,
+      "latitude": 45.241465683,
+      "expected_arrival_seconds": 285
+    },
+    {
+      "id": "_10",
+      "label": "Bul. Cara Lazara - Šekspirova",
+      "longitude": 19.8371533191,
+      "latitude": 45.2426706144,
+      "expected_arrival_seconds": 325
+    },
+    {
+      "id": "_11",
+      "label": "Bul. Oslobođenja - Bul. Cara Lazara",
+      "longitude": 19.8412524923,
+      "latitude": 45.2444754031,
+      "expected_arrival_seconds": 365
+    },
+    {
+      "id": "_12",
+      "label": "Maksima Gorkog - Bul. Oslobođenja",
+      "longitude": 19.839720893,
+      "latitude": 45.2480202534,
+      "expected_arrival_seconds": 405
+    },
+    {
+      "id": "_13",
+      "label": "Maksima Gorkog - Spens",
+      "longitude": 19.8431913572,
+      "latitude": 45.2488624702,
+      "expected_arrival_seconds": 445
+    },
+    {
+      "id": "_14",
+      "label": "Žarka Zrenjanina - Izvršno Veće",
+      "longitude": 19.8475593745,
+      "latitude": 45.2528535063,
+      "expected_arrival_seconds": 485
+    },
+    {
+      "id": "_15",
+      "label": "Bul. Mihajla Pupina - Pothodnik",
+      "longitude": 19.844141,
+      "latitude": 45.253519,
+      "expected_arrival_seconds": 525
+    },
+    {
+      "id": "_16",
+      "label": "Uspenska - Pozorišni Trg",
+      "longitude": 19.8422463011,
+      "latitude": 45.2548499029,
+      "expected_arrival_seconds": 560
+    },
+    {
+      "id": "_17",
+      "label": "Uspenska - Šafarikova",
+      "longitude": 19.8414070119,
+      "latitude": 45.2550293771,
+      "expected_arrival_seconds": 840
+    }
+  ]
 }

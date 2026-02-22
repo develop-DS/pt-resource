@@ -1,278 +1,279 @@
 {
-    "direction_a": [
-        {
-            "id": "_1",
-            "label": "Petrovaradin - Okretnica",
-            "longitude": 19.8878906109,
-            "latitude": 45.2360062995,
-            "expected_arrival_seconds": 0
-        },
-        {
-            "id": "_2",
-            "label": "Petrovaradin - Železnička Stanica",
-            "longitude": 19.8853872807,
-            "latitude": 45.2396101516,
-            "expected_arrival_seconds": 75
-        },
-        {
-            "id": "_3",
-            "label": "Preradovićeva - Božidar Adžije",
-            "longitude": 19.8814113961,
-            "latitude": 45.2439233024,
-            "expected_arrival_seconds": 172
-        },
-        {
-            "id": "_4",
-            "label": "Preradovićeva - Marina Držića",
-            "longitude": 19.87968712,
-            "latitude": 45.2464017138,
-            "expected_arrival_seconds": 224
-        },
-        {
-            "id": "_5",
-            "label": "Preradovićeva - Benzinska Pumpa",
-            "longitude": 19.8757045697,
-            "latitude": 45.2496755784,
-            "expected_arrival_seconds": 305
-        },
-        {
-            "id": "_6",
-            "label": "Preradovićeva - Šenoina",
-            "longitude": 19.8732154355,
-            "latitude": 45.251431704,
-            "expected_arrival_seconds": 352
-        },
-        {
-            "id": "_7",
-            "label": "Preradovićeva - Lovački Dom",
-            "longitude": 19.8689433116,
-            "latitude": 45.2526031657,
-            "expected_arrival_seconds": 413
-        },
-        {
-            "id": "_8",
-            "label": "Beogradska - Vladimira Nazora",
-            "longitude": 19.8623634945,
-            "latitude": 45.2548163902,
-            "expected_arrival_seconds": 510
-        },
-        {
-            "id": "_9",
-            "label": "Bul. Mihajla Pupina - Dunavski Park",
-            "longitude": 19.8519122087,
-            "latitude": 45.2542020579,
-            "expected_arrival_seconds": 649
-        },
-        {
-            "id": "_10",
-            "label": "Bul. Mihajla Pupina - Pothodnik",
-            "longitude": 19.844141,
-            "latitude": 45.253519,
-            "expected_arrival_seconds": 753
-        },
-        {
-            "id": "_11",
-            "label": "Uspenska - Pozorišni Trg",
-            "longitude": 19.8419960985,
-            "latitude": 45.255185246,
-            "expected_arrival_seconds": 795
-        },
-        {
-            "id": "_12",
-            "label": "Vojvode Bojovića - Socialno",
-            "longitude": 19.8375257882,
-            "latitude": 45.2588786887,
-            "expected_arrival_seconds": 886
-        },
-        {
-            "id": "_13",
-            "label": "Bul .Kralja Petra I - Bul. Oslobođenja",
-            "longitude": 19.8314132035,
-            "latitude": 45.2605767651,
-            "expected_arrival_seconds": 973
-        },
-        {
-            "id": "_14",
-            "label": "Bul .Kralja Petra I - Groblje",
-            "longitude": 19.8263471168,
-            "latitude": 45.2595168963,
-            "expected_arrival_seconds": 1043
-        },
-        {
-            "id": "_15",
-            "label": "Rumenačka - Dom Zdravlja",
-            "longitude": 19.8213763649,
-            "latitude": 45.260450059,
-            "expected_arrival_seconds": 1111
-        },
-        {
-            "id": "_16",
-            "label": "Rumenačka - Bul. Jaše Tomića",
-            "longitude": 19.8182127414,
-            "latitude": 45.2633439588,
-            "expected_arrival_seconds": 1180
-        },
-        {
-            "id": "_17",
-            "label": "Kornelija Stankovića - Filipa Filipovića",
-            "longitude": 19.8156966528,
-            "latitude": 45.2634661042,
-            "expected_arrival_seconds": 1213
-        },
-        {
-            "id": "_18",
-            "label": "Milenka Grčića - Banatska",
-            "longitude": 19.8111852139,
-            "latitude": 45.2640112807,
-            "expected_arrival_seconds": 1274
-        },
-        {
-            "id": "_19",
-            "label": "Oblačića Rada - Janka Čmelika",
-            "longitude": 19.808222,
-            "latitude": 45.265188,
-            "expected_arrival_seconds": 1319
-        }
-    ],
-    "direction_b": [
-        {
-            "id": "_1",
-            "label": "Janka Čmelika - Oblačića Rada",
-            "longitude": 19.8083164398,
-            "latitude": 45.2649285714,
-            "expected_arrival_seconds": 0
-        },
-        {
-            "id": "_2",
-            "label": "Janka Čmelika - Dečije Obdanište",
-            "longitude": 19.8104375633,
-            "latitude": 45.2618134201,
-            "expected_arrival_seconds": 63
-        },
-        {
-            "id": "_3",
-            "label": "Kornelija Stankovića - Ilije Birčanina",
-            "longitude": 19.8135399393,
-            "latitude": 45.2620111469,
-            "expected_arrival_seconds": 103
-        },
-        {
-            "id": "_4",
-            "label": "Rumenačka - Kornelija Stankovića",
-            "longitude": 19.8174016008,
-            "latitude": 45.2636389127,
-            "expected_arrival_seconds": 161
-        },
-        {
-            "id": "_5",
-            "label": "Rumenačka - ABC Samoposluga",
-            "longitude": 19.8204896166,
-            "latitude": 45.2609008436,
-            "expected_arrival_seconds": 224
-        },
-        {
-            "id": "_6",
-            "label": "Kralja Petra I - Sajam",
-            "longitude": 19.8244448578,
-            "latitude": 45.2591224024,
-            "expected_arrival_seconds": 284
-        },
-        {
-            "id": "_7",
-            "label": "Kralja Petra I - Mašinska Škola",
-            "longitude": 19.8274393446,
-            "latitude": 45.259428265,
-            "expected_arrival_seconds": 323
-        },
-        {
-            "id": "_8",
-            "label": "Kralja Petra I - Bul. Oslobođenja",
-            "longitude": 19.8329179672,
-            "latitude": 45.2607697725,
-            "expected_arrival_seconds": 397
-        },
-        {
-            "id": "_9",
-            "label": "Vojvode Bojovića - O.Š. Ivo Lola Ribar",
-            "longitude": 19.8371378326,
-            "latitude": 45.2588985768,
-            "expected_arrival_seconds": 461
-        },
-        {
-            "id": "_10",
-            "label": "Uspenska - Šafarikova",
-            "longitude": 19.8416504854,
-            "latitude": 45.255203707,
-            "expected_arrival_seconds": 549
-        },
-        {
-            "id": "_11",
-            "label": "Bul. Mihajla Pupina - Pothodnik",
-            "longitude": 19.844187,
-            "latitude": 45.253337,
-            "expected_arrival_seconds": 596
-        },
-        {
-            "id": "_12",
-            "label": "Bul. Mihajla Pupina - Sonje Marinković",
-            "longitude": 19.852979,
-            "latitude": 45.254153
-        },
-        {
-            "id": "_13",
-            "label": "Beogradska - Lisinskog",
-            "longitude": 19.8620128358,
-            "latitude": 45.2547734365,
-            "expected_arrival_seconds": 826
-        },
-        {
-            "id": "_14",
-            "label": "Preradovićeva - Lovački Dom",
-            "longitude": 19.8678103709,
-            "latitude": 45.2525866389,
-            "expected_arrival_seconds": 910
-        },
-        {
-            "id": "_15",
-            "label": "Preradovićeva - O.Š. Jovan Dučić",
-            "longitude": 19.8727083512,
-            "latitude": 45.2516407374,
-            "expected_arrival_seconds": 975
-        },
-        {
-            "id": "_16",
-            "label": "Preradovićeva - Reljkovićeva",
-            "longitude": 19.876524398,
-            "latitude": 45.2488033781,
-            "expected_arrival_seconds": 1046
-        },
-        {
-            "id": "_17",
-            "label": "Preradovićeva - Marina Držića",
-            "longitude": 19.8801002749,
-            "latitude": 45.2455157784,
-            "expected_arrival_seconds": 1121
-        },
-        {
-            "id": "_18",
-            "label": "Preradovićeva - Račkog",
-            "longitude": 19.8830977084,
-            "latitude": 45.241791669,
-            "expected_arrival_seconds": 1199
-        },
-        {
-            "id": "_19",
-            "label": "Petrovaradin - Železnička Stanica",
-            "longitude": 19.8857439999,
-            "latitude": 45.2389365212,
-            "expected_arrival_seconds": 1261
-        },
-        {
-            "id": "_20",
-            "label": "Petrovaradin - Okretnica",
-            "longitude": 19.8878906109,
-            "latitude": 45.2360062995,
-            "expected_arrival_seconds": 1321
-        }
-    ]
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Petrovaradin - Okretnica",
+      "longitude": 19.8878906109,
+      "latitude": 45.2360062995,
+      "expected_arrival_seconds": 0
+    },
+    {
+      "id": "_2",
+      "label": "Petrovaradin - Železnička Stanica",
+      "longitude": 19.8853872807,
+      "latitude": 45.2396101516,
+      "expected_arrival_seconds": 82
+    },
+    {
+      "id": "_3",
+      "label": "Preradovićeva - Božidar Adžije",
+      "longitude": 19.8814113961,
+      "latitude": 45.2439233024,
+      "expected_arrival_seconds": 161
+    },
+    {
+      "id": "_4",
+      "label": "Preradovićeva - Marina Držića",
+      "longitude": 19.87968712,
+      "latitude": 45.2464017138,
+      "expected_arrival_seconds": 209
+    },
+    {
+      "id": "_5",
+      "label": "Preradovićeva - Benzinska Pumpa",
+      "longitude": 19.8757045697,
+      "latitude": 45.2496755784,
+      "expected_arrival_seconds": 284
+    },
+    {
+      "id": "_6",
+      "label": "Preradovićeva - Šenoina",
+      "longitude": 19.8732154355,
+      "latitude": 45.251431704,
+      "expected_arrival_seconds": 333
+    },
+    {
+      "id": "_7",
+      "label": "Preradovićeva - Lovački Dom",
+      "longitude": 19.8689433116,
+      "latitude": 45.2526031657,
+      "expected_arrival_seconds": 389
+    },
+    {
+      "id": "_8",
+      "label": "Beogradska - Vladimira Nazora",
+      "longitude": 19.8623634945,
+      "latitude": 45.2548163902,
+      "expected_arrival_seconds": 482
+    },
+    {
+      "id": "_9",
+      "label": "Bul. Mihajla Pupina - Dunavski Park",
+      "longitude": 19.8519122087,
+      "latitude": 45.2542020579,
+      "expected_arrival_seconds": 596
+    },
+    {
+      "id": "_10",
+      "label": "Bul. Mihajla Pupina - Pothodnik",
+      "longitude": 19.844141,
+      "latitude": 45.253519,
+      "expected_arrival_seconds": 687
+    },
+    {
+      "id": "_11",
+      "label": "Uspenska - Pozorišni Trg",
+      "longitude": 19.8419960985,
+      "latitude": 45.255185246,
+      "expected_arrival_seconds": 736
+    },
+    {
+      "id": "_12",
+      "label": "Vojvode Bojovića - Socialno",
+      "longitude": 19.8375257882,
+      "latitude": 45.2588786887,
+      "expected_arrival_seconds": 832
+    },
+    {
+      "id": "_13",
+      "label": "Bul .Kralja Petra I - Bul. Oslobođenja",
+      "longitude": 19.8314132035,
+      "latitude": 45.2605767651,
+      "expected_arrival_seconds": 925
+    },
+    {
+      "id": "_14",
+      "label": "Bul .Kralja Petra I - Groblje",
+      "longitude": 19.8263471168,
+      "latitude": 45.2595168963,
+      "expected_arrival_seconds": 988
+    },
+    {
+      "id": "_15",
+      "label": "Rumenačka - Dom Zdravlja",
+      "longitude": 19.8213763649,
+      "latitude": 45.260450059,
+      "expected_arrival_seconds": 1064
+    },
+    {
+      "id": "_16",
+      "label": "Rumenačka - Bul. Jaše Tomića",
+      "longitude": 19.8182127414,
+      "latitude": 45.2633439588,
+      "expected_arrival_seconds": 1123
+    },
+    {
+      "id": "_17",
+      "label": "Kornelija Stankovića - Filipa Filipovića",
+      "longitude": 19.8156966528,
+      "latitude": 45.2634661042,
+      "expected_arrival_seconds": 1172
+    },
+    {
+      "id": "_18",
+      "label": "Milenka Grčića - Banatska",
+      "longitude": 19.8111852139,
+      "latitude": 45.2640112807,
+      "expected_arrival_seconds": 1257
+    },
+    {
+      "id": "_19",
+      "label": "Oblačića Rada - Janka Čmelika",
+      "longitude": 19.808222,
+      "latitude": 45.265188,
+      "expected_arrival_seconds": 1320
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Janka Čmelika - Oblačića Rada",
+      "longitude": 19.8083164398,
+      "latitude": 45.2649285714,
+      "expected_arrival_seconds": 0
+    },
+    {
+      "id": "_2",
+      "label": "Janka Čmelika - Dečije Obdanište",
+      "longitude": 19.8104375633,
+      "latitude": 45.2618134201,
+      "expected_arrival_seconds": 66
+    },
+    {
+      "id": "_3",
+      "label": "Kornelija Stankovića - Ilije Birčanina",
+      "longitude": 19.8135399393,
+      "latitude": 45.2620111469,
+      "expected_arrival_seconds": 124
+    },
+    {
+      "id": "_4",
+      "label": "Rumenačka - Kornelija Stankovića",
+      "longitude": 19.8174016008,
+      "latitude": 45.2636389127,
+      "expected_arrival_seconds": 191
+    },
+    {
+      "id": "_5",
+      "label": "Rumenačka - ABC Samoposluga",
+      "longitude": 19.8204896166,
+      "latitude": 45.2609008436,
+      "expected_arrival_seconds": 255
+    },
+    {
+      "id": "_6",
+      "label": "Kralja Petra I - Sajam",
+      "longitude": 19.8244448578,
+      "latitude": 45.2591224024,
+      "expected_arrival_seconds": 324
+    },
+    {
+      "id": "_7",
+      "label": "Kralja Petra I - Mašinska Škola",
+      "longitude": 19.8274393446,
+      "latitude": 45.259428265,
+      "expected_arrival_seconds": 370
+    },
+    {
+      "id": "_8",
+      "label": "Kralja Petra I - Bul. Oslobođenja",
+      "longitude": 19.8329179672,
+      "latitude": 45.2607697725,
+      "expected_arrival_seconds": 440
+    },
+    {
+      "id": "_9",
+      "label": "Vojvode Bojovića - O.Š. Ivo Lola Ribar",
+      "longitude": 19.8371378326,
+      "latitude": 45.2588985768,
+      "expected_arrival_seconds": 514
+    },
+    {
+      "id": "_10",
+      "label": "Uspenska - Šafarikova",
+      "longitude": 19.8416504854,
+      "latitude": 45.255203707,
+      "expected_arrival_seconds": 619
+    },
+    {
+      "id": "_11",
+      "label": "Bul. Mihajla Pupina - Pothodnik",
+      "longitude": 19.844187,
+      "latitude": 45.253337,
+      "expected_arrival_seconds": 674
+    },
+    {
+      "id": "_12",
+      "label": "Bul. Mihajla Pupina - Sonje Marinković",
+      "longitude": 19.852979,
+      "latitude": 45.254153,
+      "expected_arrival_seconds": 780
+    },
+    {
+      "id": "_13",
+      "label": "Beogradska - Lisinskog",
+      "longitude": 19.8620128358,
+      "latitude": 45.2547734365,
+      "expected_arrival_seconds": 882
+    },
+    {
+      "id": "_14",
+      "label": "Preradovićeva - Lovački Dom",
+      "longitude": 19.8678103709,
+      "latitude": 45.2525866389,
+      "expected_arrival_seconds": 966
+    },
+    {
+      "id": "_15",
+      "label": "Preradovićeva - O.Š. Jovan Dučić",
+      "longitude": 19.8727083512,
+      "latitude": 45.2516407374,
+      "expected_arrival_seconds": 1033
+    },
+    {
+      "id": "_16",
+      "label": "Preradovićeva - Reljkovićeva",
+      "longitude": 19.876524398,
+      "latitude": 45.2488033781,
+      "expected_arrival_seconds": 1104
+    },
+    {
+      "id": "_17",
+      "label": "Preradovićeva - Marina Držića",
+      "longitude": 19.8801002749,
+      "latitude": 45.2455157784,
+      "expected_arrival_seconds": 1178
+    },
+    {
+      "id": "_18",
+      "label": "Preradovićeva - Račkog",
+      "longitude": 19.8830977084,
+      "latitude": 45.241791669,
+      "expected_arrival_seconds": 1255
+    },
+    {
+      "id": "_19",
+      "label": "Petrovaradin - Železnička Stanica",
+      "longitude": 19.8857439999,
+      "latitude": 45.2389365212,
+      "expected_arrival_seconds": 1316
+    },
+    {
+      "id": "_20",
+      "label": "Petrovaradin - Okretnica",
+      "longitude": 19.8878906109,
+      "latitude": 45.2360062995,
+      "expected_arrival_seconds": 1380
+    }
+  ]
 }

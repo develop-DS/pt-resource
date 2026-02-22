@@ -2,245 +2,285 @@
   "direction_a": [
     {
       "id": "_1",
-      "label": "MAS - POLAZNI PERON BR. 13",
+      "label": "Mas - Polazni Peron Br. 13",
       "longitude": 19.8285213548,
-      "latitude": 45.2641307634
+      "latitude": 45.2641307634,
+      "expected_arrival_seconds": 0
     },
     {
-      "id": "__",
-      "label": "ŽARKA ZRENJANINA - IZVRŠNO VEĆE",
+      "id": "_2",
+      "label": "Žarka Zrenjanina - Izvršno Veće",
       "longitude": 19.8475593745,
-      "latitude": 45.2528535063
+      "latitude": 45.2528535063,
+      "expected_arrival_seconds": 118
     },
     {
-      "id": "__",
-      "label": "PRERADOVIĆEVA - RELJKOVIĆEVA",
+      "id": "_3",
+      "label": "Preradovićeva - Reljkovićeva",
       "longitude": 19.876524398,
-      "latitude": 45.2488033781
+      "latitude": 45.2488033781,
+      "expected_arrival_seconds": 257
     },
     {
-      "id": "__",
-      "label": "TEKIJE - BENZINSKA PUMPA",
+      "id": "_4",
+      "label": "Tekije - Benzinska Pumpa",
       "longitude": 19.8936378798,
-      "latitude": 45.2312570434
+      "latitude": 45.2312570434,
+      "expected_arrival_seconds": 400
     },
     {
-      "id": "__",
-      "label": "PETROVARADIN - ŽELEZNIČKA STANICA",
+      "id": "_5",
+      "label": "Petrovaradin - Železnička Stanica",
       "longitude": 19.8857439999,
-      "latitude": 45.2389365212
+      "latitude": 45.2389365212,
+      "expected_arrival_seconds": 464
     },
     {
-      "id": "__",
-      "label": "BEOGRADSKA - LISINSKOG",
+      "id": "_6",
+      "label": "Beogradska - Lisinskog",
       "longitude": 19.8620128358,
-      "latitude": 45.2547734365
+      "latitude": 45.2547734365,
+      "expected_arrival_seconds": 619
     },
     {
-      "id": "__",
-      "label": "BUL. OSLOBOĐENJA - FUTOŠKA",
+      "id": "_7",
+      "label": "Bul. Oslobođenja - Futoška",
       "longitude": 19.8370753816,
-      "latitude": 45.2514514442
+      "latitude": 45.2514514442,
+      "expected_arrival_seconds": 739
     },
     {
-      "id": "__",
-      "label": "MAKSIMA GORKOG - SPENS",
+      "id": "_8",
+      "label": "Maksima Gorkog - Spens",
       "longitude": 19.8431913572,
-      "latitude": 45.2488624702
+      "latitude": 45.2488624702,
+      "expected_arrival_seconds": 772
     },
     {
-      "id": "__",
-      "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
+      "id": "_9",
+      "label": "Bul. Oslobođenja - Kralja Petra I",
       "longitude": 19.8322222835,
-      "latitude": 45.2601777537
+      "latitude": 45.2601777537,
+      "expected_arrival_seconds": 865
     },
     {
-      "id": "_",
-      "label": "PRERADOVIĆEVA - OSNOVNA ŠKOLA JOVAN DUČIĆ",
+      "id": "_10",
+      "label": "Preradovićeva - Osnovna Škola Jovan Dučić",
       "longitude": 19.8727083512,
-      "latitude": 45.2516407374
+      "latitude": 45.2516407374,
+      "expected_arrival_seconds": 1064
     },
     {
-      "id": "_",
-      "label": "BULEVAR MIHAJLA PUPINA - SONJE MARINKOVIĆ",
+      "id": "_11",
+      "label": "Bulevar Mihajla Pupina - Sonje Marinković",
       "longitude": 19.852979,
-      "latitude": 45.254153
+      "latitude": 45.254153,
+      "expected_arrival_seconds": 1159
     },
     {
-      "id": "__",
-      "label": "SR.KARLOVCI I - ULAZ",
+      "id": "_12",
+      "label": "Sr.Karlovci I - Ulaz",
       "longitude": 19.9115365236,
-      "latitude": 45.2147383234
+      "latitude": 45.2147383234,
+      "expected_arrival_seconds": 1542
     },
     {
-      "id": "__",
-      "label": "SR.KARLOVCI II - PANORAMA",
+      "id": "_13",
+      "label": "Sr.Karlovci Ii - Panorama",
       "longitude": 19.9219017516,
-      "latitude": 45.2101464748
+      "latitude": 45.2101464748,
+      "expected_arrival_seconds": 1600
     },
     {
-      "id": "__",
-      "label": "SR.KARLOVCI III - ŽEL. STANICA",
+      "id": "_14",
+      "label": "Sr.Karlovci Iii - Žel. Stanica",
       "longitude": 19.9321083976,
-      "latitude": 45.2065920518
+      "latitude": 45.2065920518,
+      "expected_arrival_seconds": 1654
     },
     {
-      "id": "__",
-      "label": "SR.KARLOVCI IV - CENTAR",
+      "id": "_15",
+      "label": "Sr.Karlovci Iv - Centar",
       "longitude": 19.9378333803,
-      "latitude": 45.2034783249
+      "latitude": 45.2034783249,
+      "expected_arrival_seconds": 1689
     },
     {
-      "id": "__",
-      "label": "SR. KARLOVCI - KARLOVAČKA GIMNAZIJA",
+      "id": "_16",
+      "label": "Sr. Karlovci - Karlovačka Gimnazija",
       "longitude": 19.9333364562,
-      "latitude": 45.2022432603
+      "latitude": 45.2022432603,
+      "expected_arrival_seconds": 1711
     },
     {
-      "id": "__",
-      "label": "SR. KARLOVCI - DVORSKA BAŠTA",
+      "id": "_17",
+      "label": "Sr. Karlovci - Dvorska Bašta",
       "longitude": 19.9336466539,
-      "latitude": 45.1978374081
+      "latitude": 45.1978374081,
+      "expected_arrival_seconds": 1741
     },
     {
-      "id": "__",
-      "label": "SR. KARLOVCI - BELILO I",
+      "id": "_18",
+      "label": "Sr. Karlovci - Belilo I",
       "longitude": 19.9358006771,
-      "latitude": 45.1923136759
+      "latitude": 45.1923136759,
+      "expected_arrival_seconds": 1779
     },
     {
-      "id": "__",
-      "label": "SR. KARLOVCI - BELILO II",
+      "id": "_19",
+      "label": "Sr. Karlovci - Belilo Ii",
       "longitude": 19.9371063058,
-      "latitude": 45.1878279082
+      "latitude": 45.1878279082,
+      "expected_arrival_seconds": 1810
     },
     {
-      "id": "__",
-      "label": "TEKIJE II - VINOGRADI",
+      "id": "_20",
+      "label": "Tekije Ii - Vinogradi",
       "longitude": 19.9008106109,
-      "latitude": 45.2225589456
+      "latitude": 45.2225589456,
+      "expected_arrival_seconds": 2100
     }
   ],
   "direction_b": [
     {
       "id": "_1",
-      "label": "SR. KARLOVCI - BELILO II",
+      "label": "Sr. Karlovci - Belilo Ii",
       "longitude": 19.9371063058,
-      "latitude": 45.1878279082
+      "latitude": 45.1878279082,
+      "expected_arrival_seconds": 0
     },
     {
-      "id": "__",
-      "label": "MAKSIMA GORKOG - SREMSKA",
+      "id": "_2",
+      "label": "Maksima Gorkog - Sremska",
       "longitude": 19.8421576964,
-      "latitude": 45.2488034819
+      "latitude": 45.2488034819,
+      "expected_arrival_seconds": 368
     },
     {
-      "id": "__",
-      "label": "PRERADOVIĆEVA - BENZINSKA PUMPA",
+      "id": "_3",
+      "label": "Preradovićeva - Benzinska Pumpa",
       "longitude": 19.8757045697,
-      "latitude": 45.2496755784
+      "latitude": 45.2496755784,
+      "expected_arrival_seconds": 464
     },
     {
-      "id": "__",
-      "label": "MAS - DOLAZNI PERON",
+      "id": "_4",
+      "label": "Mas - Dolazni Peron",
       "longitude": 19.8292532816,
-      "latitude": 45.2646698037
+      "latitude": 45.2646698037,
+      "expected_arrival_seconds": 610
     },
     {
-      "id": "__",
-      "label": "BUL. MIHAJLA PUPINA - DUNAVSKI PARK",
+      "id": "_5",
+      "label": "Bul. Mihajla Pupina - Dunavski Park",
       "longitude": 19.8519122087,
-      "latitude": 45.2542020579
+      "latitude": 45.2542020579,
+      "expected_arrival_seconds": 688
     },
     {
-      "id": "__",
-      "label": "BEOGRADSKA - VLADIMIRA NAZORA",
+      "id": "_6",
+      "label": "Beogradska - Vladimira Nazora",
       "longitude": 19.8623634945,
-      "latitude": 45.2548163902
+      "latitude": 45.2548163902,
+      "expected_arrival_seconds": 718
     },
     {
-      "id": "__",
-      "label": "BUL. OSLOBOĐENJA - FUTOŠKA PIJACA",
+      "id": "_7",
+      "label": "Bul. Oslobođenja - Futoška Pijaca",
       "longitude": 19.8368000824,
-      "latitude": 45.2525198464
+      "latitude": 45.2525198464,
+      "expected_arrival_seconds": 792
     },
     {
-      "id": "__",
-      "label": "TEKIJE - NAVIP",
+      "id": "_8",
+      "label": "Tekije - Navip",
       "longitude": 19.8914101033,
-      "latitude": 45.2332483189
+      "latitude": 45.2332483189,
+      "expected_arrival_seconds": 967
     },
     {
-      "id": "__",
-      "label": "SR. KARLOVCI III - ŽEL. STANICA",
+      "id": "_9",
+      "label": "Sr. Karlovci Iii - Žel. Stanica",
       "longitude": 19.9323217935,
-      "latitude": 45.2065802878
+      "latitude": 45.2065802878,
+      "expected_arrival_seconds": 1126
     },
     {
-      "id": "__",
-      "label": "SR. KARLOVCI - BELILO I",
+      "id": "_10",
+      "label": "Sr. Karlovci - Belilo I",
       "longitude": 19.936100268,
-      "latitude": 45.1916503203
+      "latitude": 45.1916503203,
+      "expected_arrival_seconds": 1188
     },
     {
-      "id": "__",
-      "label": "SR. KARLOVCI - DVORSKA BAŠTA",
+      "id": "_11",
+      "label": "Sr. Karlovci - Dvorska Bašta",
       "longitude": 19.9332589989,
-      "latitude": 45.1987650067
+      "latitude": 45.1987650067,
+      "expected_arrival_seconds": 1218
     },
     {
-      "id": "__",
-      "label": "SR. KARLOVCI - KARLOVAČKA GIMNAZIJA",
+      "id": "_12",
+      "label": "Sr. Karlovci - Karlovačka Gimnazija",
       "longitude": 19.9330346419,
-      "latitude": 45.2014900109
+      "latitude": 45.2014900109,
+      "expected_arrival_seconds": 1229
     },
     {
-      "id": "__",
-      "label": "SR. KARLOVCI IV - CENTAR",
+      "id": "_13",
+      "label": "Sr. Karlovci Iv - Centar",
       "longitude": 19.9373887604,
-      "latitude": 45.2030489442
+      "latitude": 45.2030489442,
+      "expected_arrival_seconds": 1243
     },
     {
-      "id": "__",
-      "label": "SR. KARLOVCI II - PANORAMA",
+      "id": "_14",
+      "label": "Sr. Karlovci Ii - Panorama",
       "longitude": 19.9215868909,
-      "latitude": 45.2103090191
+      "latitude": 45.2103090191,
+      "expected_arrival_seconds": 1297
     },
     {
-      "id": "__",
-      "label": "SR. KARLOVCI I - ULAZ",
+      "id": "_15",
+      "label": "Sr. Karlovci I - Ulaz",
       "longitude": 19.9118377779,
-      "latitude": 45.2145349843
+      "latitude": 45.2145349843,
+      "expected_arrival_seconds": 1330
     },
     {
-      "id": "__",
-      "label": "PETROVARADIN - ŽELEZNIČKA STANICA",
+      "id": "_16",
+      "label": "Petrovaradin - Železnička Stanica",
       "longitude": 19.8853872807,
-      "latitude": 45.2396101516
+      "latitude": 45.2396101516,
+      "expected_arrival_seconds": 1457
     },
     {
-      "id": "_",
-      "label": "PRERADOVIĆEVA - ŠENOINA",
+      "id": "_17",
+      "label": "Preradovićeva - Šenoina",
       "longitude": 19.8732154355,
-      "latitude": 45.251431704
+      "latitude": 45.251431704,
+      "expected_arrival_seconds": 1516
     },
     {
-      "id": "__",
-      "label": "ŽARKA ZRENJANINA - OPŠTINA",
+      "id": "_18",
+      "label": "Žarka Zrenjanina - Opština",
       "longitude": 19.8471827488,
-      "latitude": 45.2524025428
+      "latitude": 45.2524025428,
+      "expected_arrival_seconds": 1591
     },
     {
-      "id": "__",
-      "label": "TEKIJE II - VINOGRADI",
+      "id": "_19",
+      "label": "Tekije Ii - Vinogradi",
       "longitude": 19.9009328712,
-      "latitude": 45.2225249456
+      "latitude": 45.2225249456,
+      "expected_arrival_seconds": 1787
     },
     {
-      "id": "__",
-      "label": "BUL. OSLOBOĐENJA - KRALJA PETRA I",
+      "id": "_20",
+      "label": "Bul. Oslobođenja - Kralja Petra I",
       "longitude": 19.8318492939,
-      "latitude": 45.2613766166
+      "latitude": 45.2613766166,
+      "expected_arrival_seconds": 2040
     }
   ]
 }

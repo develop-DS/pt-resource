@@ -12,133 +12,133 @@
       "label": "Bul. Oslobođenja - Kralja Petra I",
       "longitude": 19.8322222835,
       "latitude": 45.2601777537,
-      "expected_arrival_seconds": 100
+      "expected_arrival_seconds": 94
     },
     {
       "id": "_3",
       "label": "Futoška - Bul. Oslobođenja",
       "longitude": 19.8364491963,
       "latitude": 45.2518040573,
-      "expected_arrival_seconds": 220
+      "expected_arrival_seconds": 261
     },
     {
       "id": "_4",
       "label": "Futoška - Jodna Banja",
       "longitude": 19.8289089911,
       "latitude": 45.2492337673,
-      "expected_arrival_seconds": 350
+      "expected_arrival_seconds": 371
     },
     {
       "id": "_5",
       "label": "Futoška - Bolnica",
       "longitude": 19.8235646906,
       "latitude": 45.2494540403,
-      "expected_arrival_seconds": 450
+      "expected_arrival_seconds": 442
     },
     {
       "id": "_6",
       "label": "Futoška - Bulevar Evrope",
       "longitude": 19.815564749,
       "latitude": 45.2485623853,
-      "expected_arrival_seconds": 570
+      "expected_arrival_seconds": 549
     },
     {
       "id": "_7",
       "label": "Futoška - Jugoalat",
       "longitude": 19.810052585,
       "latitude": 45.2478325873,
-      "expected_arrival_seconds": 670
+      "expected_arrival_seconds": 623
     },
     {
       "id": "_8",
       "label": "Futoški Put - Grafika",
       "longitude": 19.8055379367,
       "latitude": 45.2475026928,
-      "expected_arrival_seconds": 770
+      "expected_arrival_seconds": 683
     },
     {
       "id": "_9",
       "label": "Futoški Put - Satelitska Pijaca",
       "longitude": 19.7998632846,
       "latitude": 45.2461119679,
-      "expected_arrival_seconds": 870
+      "expected_arrival_seconds": 762
     },
     {
       "id": "_10",
-      "label": "Futoški Put - Garaža GSP",
+      "label": "Futoški Put - Garaža Gsp",
       "longitude": 19.792952863,
       "latitude": 45.2440016201,
-      "expected_arrival_seconds": 970
+      "expected_arrival_seconds": 862
     },
     {
       "id": "_11",
       "label": "Futoški Put - Benzinska Pumpa",
       "longitude": 19.7871434415,
       "latitude": 45.243434196,
-      "expected_arrival_seconds": 1070
+      "expected_arrival_seconds": 939
     },
     {
       "id": "_12",
       "label": "Novosadski Put - Zorana Radmilovića",
       "longitude": 19.7819769289,
       "latitude": 45.2437879717,
-      "expected_arrival_seconds": 1150
+      "expected_arrival_seconds": 1008
     },
     {
       "id": "_13",
       "label": "Sportski Centar",
       "longitude": 19.7746201566,
       "latitude": 45.2453178784,
-      "expected_arrival_seconds": 1230
+      "expected_arrival_seconds": 1109
     },
     {
       "id": "_14",
       "label": "Veternik - Fešter",
       "longitude": 19.7673159236,
       "latitude": 45.2470495425,
-      "expected_arrival_seconds": 1300
+      "expected_arrival_seconds": 1211
     },
     {
       "id": "_15",
       "label": "Veternik - Novosadski Put - Sonje Marinković",
       "longitude": 19.7628098913,
       "latitude": 45.248109015,
-      "expected_arrival_seconds": 1370
+      "expected_arrival_seconds": 1273
     },
     {
       "id": "_16",
       "label": "Veternik - Centar",
       "longitude": 19.7570349816,
       "latitude": 45.2502026841,
-      "expected_arrival_seconds": 1440
+      "expected_arrival_seconds": 1359
     },
     {
       "id": "_17",
       "label": "Veternik - Stadion",
       "longitude": 19.7606394502,
       "latitude": 45.2531656254,
-      "expected_arrival_seconds": 1520
+      "expected_arrival_seconds": 1432
     },
     {
       "id": "_18",
       "label": "Veternik - Reno Servis",
       "longitude": 19.7646595404,
       "latitude": 45.2568003751,
-      "expected_arrival_seconds": 1600
+      "expected_arrival_seconds": 1519
     },
     {
       "id": "_19",
       "label": "Veternik - Vojvode Putnika 16",
       "longitude": 19.758905971,
       "latitude": 45.2595710981,
-      "expected_arrival_seconds": 1670
+      "expected_arrival_seconds": 1611
     },
     {
       "id": "_20",
       "label": "Veternik - Vojvode Bojovića 57",
       "longitude": 19.7562757223,
       "latitude": 45.2563655281,
-      "expected_arrival_seconds": 1740
+      "expected_arrival_seconds": 1680
     }
   ],
   "direction_b": [
@@ -154,150 +154,126 @@
       "label": "Veternik - Gasna Podstanica",
       "longitude": 19.7495228035,
       "latitude": 45.2527996498,
-      "expected_arrival_seconds": 100
+      "expected_arrival_seconds": 63
     },
     {
       "id": "_3",
       "label": "Veternik - Omladinska - Pijaca Veternik",
       "longitude": 19.7534046769,
       "latitude": 45.2503360437,
-      "expected_arrival_seconds": 220
+      "expected_arrival_seconds": 133
     },
     {
       "id": "_4",
       "label": "Veternik - Pravoslavna Crkva",
       "longitude": 19.7572312271,
       "latitude": 45.2492300271,
-      "expected_arrival_seconds": 350
+      "expected_arrival_seconds": 189
     },
     {
       "id": "_5",
       "label": "Veternik - Novosadski Put - Sonje Marinković",
       "longitude": 19.7636929212,
       "latitude": 45.2476834381,
-      "expected_arrival_seconds": 470
+      "expected_arrival_seconds": 280
     },
     {
       "id": "_6",
       "label": "Veternik - Fešter",
       "longitude": 19.7680295823,
       "latitude": 45.2466526277,
-      "expected_arrival_seconds": 570
+      "expected_arrival_seconds": 342
     },
     {
       "id": "_7",
       "label": "Sportski Centar",
       "longitude": 19.7751981963,
       "latitude": 45.2448774927,
-      "expected_arrival_seconds": 670
+      "expected_arrival_seconds": 444
     },
     {
       "id": "_8",
       "label": "Novosadski Put - Stevana Sinđelića",
       "longitude": 19.7826331453,
       "latitude": 45.2435354955,
-      "expected_arrival_seconds": 770
+      "expected_arrival_seconds": 546
     },
     {
       "id": "_9",
       "label": "Futoški Put - Benzinska Pumpa",
       "longitude": 19.7880484583,
       "latitude": 45.2431816762,
-      "expected_arrival_seconds": 870
+      "expected_arrival_seconds": 619
     },
     {
       "id": "_10",
-      "label": "Futoški Put - Garaža GSP",
+      "label": "Futoški Put - Garaža Gsp",
       "longitude": 19.792701,
       "latitude": 45.243705,
-      "expected_arrival_seconds": 970
+      "expected_arrival_seconds": 683
     },
     {
       "id": "_11",
       "label": "Futoški Put - Bul. Patrijarha Pavla",
       "longitude": 19.79550631,
       "latitude": 45.2445958159,
-      "expected_arrival_seconds": 1070
+      "expected_arrival_seconds": 724
     },
     {
       "id": "_12",
       "label": "Futoški Put - Satelitska Pijaca",
       "longitude": 19.8010162498,
       "latitude": 45.24628254,
-      "expected_arrival_seconds": 1170
+      "expected_arrival_seconds": 804
     },
     {
       "id": "_13",
       "label": "Futoški Put - Vršacka",
       "longitude": 19.8083415635,
       "latitude": 45.247517576,
-      "expected_arrival_seconds": 1270
+      "expected_arrival_seconds": 905
     },
     {
       "id": "_14",
       "label": "Futoška - Higijenski Zavod",
       "longitude": 19.8177958089,
       "latitude": 45.2488161894,
-      "expected_arrival_seconds": 1370
+      "expected_arrival_seconds": 1034
     },
     {
       "id": "_15",
       "label": "Futoška - Cara Dušana",
       "longitude": 19.8252968807,
       "latitude": 45.2491656314,
-      "expected_arrival_seconds": 1470
+      "expected_arrival_seconds": 1135
     },
     {
       "id": "_16",
       "label": "Futoška - Antona Čehova",
       "longitude": 19.8300215701,
       "latitude": 45.2490835157,
-      "expected_arrival_seconds": 1570
+      "expected_arrival_seconds": 1199
     },
     {
       "id": "_17",
       "label": "Bul. Oslobođenja - Futoška Pijaca",
       "longitude": 19.8366307617,
       "latitude": 45.2528681592,
-      "expected_arrival_seconds": 1670
+      "expected_arrival_seconds": 1313
     },
     {
       "id": "_18",
       "label": "Bul. Oslobođenja - Kralja Petra I",
       "longitude": 19.8318492939,
       "latitude": 45.2613766166,
-      "expected_arrival_seconds": 1700
+      "expected_arrival_seconds": 1487
     },
     {
       "id": "_19",
       "label": "Železnička Stanica - Dolasci",
       "longitude": 19.830132455,
       "latitude": 45.2650202834,
-      "expected_arrival_seconds": 1740
-    },
-    {
-      "id": "_",
-      "label": "DOLAZNI PERON",
-      "longitude": 19.830784,
-      "latitude": 45.26467
-    },
-    {
-      "id": "_",
-      "label": "VETERNIK - BRAĆE TOKIN - OMLADINSKA",
-      "longitude": 19.748075,
-      "latitude": 45.249245
-    },
-    {
-      "id": "_",
-      "label": "VETERNIK - VOJVODE BOJOVIĆA 57",
-      "longitude": 19.7562757223,
-      "latitude": 45.2563655281
-    },
-    {
-      "id": "_",
-      "label": "VETERNIK - ŠKOLSKA - BRAĆE TOKIN",
-      "longitude": 19.744452,
-      "latitude": 45.251508
+      "expected_arrival_seconds": 1560
     }
   ]
 }

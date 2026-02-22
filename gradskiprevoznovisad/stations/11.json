@@ -1,328 +1,321 @@
 {
-    "direction_a": [
-        {
-            "id": "_1",
-            "label": "Bul. Jaše Tomića - Železnička Stanica",
-            "longitude": 19.8291811843,
-            "latitude": 45.2640665923,
-            "expected_arrival_seconds": 0
-        },
-        {
-            "id": "_2",
-            "label": "Bul. Jaše Tomića - Železnički Park",
-            "longitude": 19.8231059398,
-            "latitude": 45.2640771252,
-            "expected_arrival_seconds": 60
-        },
-        {
-            "id": "_3",
-            "label": "Rumenčka - ABC Samoposluga",
-            "longitude": 19.8204896166,
-            "latitude": 45.2609008436,
-            "expected_arrival_seconds": 130
-        },
-        {
-            "id": "_4",
-            "label": "Hajduk Veljkova - Sajam",
-            "longitude": 19.8241177466,
-            "latitude": 45.2569093044,
-            "expected_arrival_seconds": 210
-        },
-        {
-            "id": "_5",
-            "label": "Hajduk Veljkova - Medicinski Fakultet",
-            "longitude": 19.8241868372,
-            "latitude": 45.2532878064,
-            "expected_arrival_seconds": 300
-        },
-        {
-            "id": "_6",
-            "label": "Cara Dušana - Futoška",
-            "longitude": 19.8247020319,
-            "latitude": 45.2487841683,
-            "expected_arrival_seconds": 390
-        },
-        {
-            "id": "_7",
-            "label": "Cara Dušana - Medicinska Škola",
-            "longitude": 19.8250937953,
-            "latitude": 45.2436192236,
-            "expected_arrival_seconds": 480
-        },
-        {
-            "id": "_8",
-            "label": "Ive Andrića - Bulevar Evrope",
-            "longitude": 19.8253580867,
-            "latitude": 45.2394232209,
-            "expected_arrival_seconds": 570
-        },
-        {
-            "id": "_9",
-            "label": "Narodnog Fronta - Ive Andrića",
-            "longitude": 19.8276347235,
-            "latitude": 45.2373436138,
-            "expected_arrival_seconds": 640
-        },
-        {
-            "id": "_10",
-            "label": "Narodnog Fronta - Balzakova",
-            "longitude": 19.833210388,
-            "latitude": 45.2388659784,
-            "expected_arrival_seconds": 710
-        },
-        {
-            "id": "_11",
-            "label": "Narodnog Fronta - Šekspirova",
-            "longitude": 19.8384767147,
-            "latitude": 45.2403689153,
-            "expected_arrival_seconds": 780
-        },
-        {
-            "id": "_12",
-            "label": "Narodnog Fronta - Bul. Oslobođenja",
-            "longitude": 19.843435786,
-            "latitude": 45.2417640206,
-            "expected_arrival_seconds": 850
-        },
-        {
-            "id": "_13",
-            "label": "Fruškogorska - Dr. I. Đuričića",
-            "longitude": 19.847528317,
-            "latitude": 45.2429842112,
-            "expected_arrival_seconds": 920
-        },
-        {
-            "id": "_14",
-            "label": "Stražilovska - Urbis",
-            "longitude": 19.8492059684,
-            "latitude": 45.2481301777,
-            "expected_arrival_seconds": 1000
-        },
-        {
-            "id": "_15",
-            "label": "Maksima Gorkog - Stevana Musića",
-            "longitude": 19.8515882207,
-            "latitude": 45.2514125025,
-            "expected_arrival_seconds": 1070
-        },
-        {
-            "id": "_16",
-            "label": "Maksima Gorkog - Kej",
-            "longitude": 19.8546993561,
-            "latitude": 45.2521192996,
-            "expected_arrival_seconds": 1140
-        },
-        {
-            "id": "_17",
-            "label": "Beogradski Kej - Kapetanija",
-            "longitude": 19.8548476045,
-            "latitude": 45.2576645565,
-            "expected_arrival_seconds": 1220
-        },
-        {
-            "id": "_18",
-            "label": "Marka Miljanova - Kvantaška Pijaca",
-            "longitude": 19.8537375388,
-            "latitude": 45.2617554805,
-            "expected_arrival_seconds": 1300
-        },
-        {
-            "id": "_19",
-            "label": "Marka Miljanova - Kosovska",
-            "longitude": 19.850373,
-            "latitude": 45.261569,
-            "expected_arrival_seconds": 1380
-        },
-        {
-            "id": "_20",
-            "label": "Gundulićeva - Koče Kolarova",
-            "longitude": 19.846968,
-            "latitude": 45.264153,
-            "expected_arrival_seconds": 1460
-        },
-        {
-            "id": "_21",
-            "label": "Gundulićeva - Temerinska",
-            "longitude": 19.843454,
-            "latitude": 45.264563,
-            "expected_arrival_seconds": 1520
-        },
-        {
-            "id": "_22",
-            "label": "Kisačka - Jovana Cvijića",
-            "longitude": 19.8364405487,
-            "latitude": 45.2652106325,
-            "expected_arrival_seconds": 1600
-        },
-        {
-            "id": "_23",
-            "label": "Železnička Stanica - Dolasci",
-            "longitude": 19.830132455,
-            "latitude": 45.2650202834,
-            "expected_arrival_seconds": 1740
-        }
-    ],
-    "direction_b": [
-        {
-            "id": "_1",
-            "label": "Bul. Jaše Tomića - Bul. Oslobođenja",
-            "longitude": 19.831181344,
-            "latitude": 45.264414954,
-            "expected_arrival_seconds": 0
-        },
-        {
-            "id": "_2",
-            "label": "Kisačka - Bul. Jaše Tomića",
-            "longitude": 19.8354809218,
-            "latitude": 45.2656954001,
-            "expected_arrival_seconds": 70
-        },
-        {
-            "id": "_3",
-            "label": "Gundulićeva - Temerinska",
-            "longitude": 19.8447802173,
-            "latitude": 45.264400104,
-            "expected_arrival_seconds": 140
-        },
-        {
-            "id": "_4",
-            "label": "Kosovska",
-            "longitude": 19.8502923003,
-            "latitude": 45.2635605256,
-            "expected_arrival_seconds": 210
-        },
-        {
-            "id": "_5",
-            "label": "Marka Miljanova - Kosovska",
-            "longitude": 19.8507066908,
-            "latitude": 45.2614748508,
-            "expected_arrival_seconds": 280
-        },
-        {
-            "id": "_6",
-            "label": "Beogradski Kej - Marka Miljanova",
-            "longitude": 19.8557970812,
-            "latitude": 45.2608772309,
-            "expected_arrival_seconds": 420
-        },
-        {
-            "id": "_7",
-            "label": "Beogradski Kej - Miloša Bajića",
-            "longitude": 19.8546271049,
-            "latitude": 45.2575567077,
-            "expected_arrival_seconds": 500
-        },
-        {
-            "id": "_8",
-            "label": "Trg Neznanog Junaka - Most Duga",
-            "longitude": 19.8549474588,
-            "latitude": 45.2549794279,
-            "expected_arrival_seconds": 580
-        },
-        {
-            "id": "_9",
-            "label": "Maksima Gorkog - Vojvode Mišića",
-            "longitude": 19.8520851559,
-            "latitude": 45.2516559504,
-            "expected_arrival_seconds": 660
-        },
-        {
-            "id": "_10",
-            "label": "Bul. Cara Lazara - Urbis",
-            "longitude": 19.8488525074,
-            "latitude": 45.2474414598,
-            "expected_arrival_seconds": 740
-        },
-        {
-            "id": "_11",
-            "label": "Narodnog Fronta - Fruškogorska",
-            "longitude": 19.8467941518,
-            "latitude": 45.2424582038,
-            "expected_arrival_seconds": 810
-        },
-        {
-            "id": "_12",
-            "label": "Narodnog Fronta - Bul. Oslobođenja",
-            "longitude": 19.8415475397,
-            "latitude": 45.2414328005,
-            "expected_arrival_seconds": 880
-        },
-        {
-            "id": "_13",
-            "label": "Narodnog Fronta - Šekspirova",
-            "longitude": 19.8370412179,
-            "latitude": 45.2400602044,
-            "expected_arrival_seconds": 950
-        },
-        {
-            "id": "_14",
-            "label": "Narodnog Fronta - Balzakova",
-            "longitude": 19.8316359129,
-            "latitude": 45.23861537,
-            "expected_arrival_seconds": 1020
-        },
-        {
-            "id": "_15",
-            "label": "Narodnog Fronta - Ive Andrića",
-            "longitude": 19.8273963747,
-            "latitude": 45.2374119519,
-            "expected_arrival_seconds": 1090
-        },
-        {
-            "id": "_16",
-            "label": "Cara Dušana - Bul. Cara Lazara",
-            "longitude": 19.8253952094,
-            "latitude": 45.2403667659,
-            "expected_arrival_seconds": 1160
-        },
-        {
-            "id": "_17",
-            "label": "Cara Dušana - Medicinska Škola",
-            "longitude": 19.8252026974,
-            "latitude": 45.2442691715,
-            "expected_arrival_seconds": 1230
-        },
-        {
-            "id": "_18",
-            "label": "Hajduk Veljkova - Dečija Bolnica",
-            "longitude": 19.8244972937,
-            "latitude": 45.2510679517,
-            "expected_arrival_seconds": 1310
-        },
-        {
-            "id": "_19",
-            "label": "Hajduk Veljkova - Novosadskog Sajma",
-            "longitude": 19.8244393678,
-            "latitude": 45.2545639152,
-            "expected_arrival_seconds": 1390
-        },
-        {
-            "id": "_20",
-            "label": "Rumenčka - Dom Zdravlja",
-            "longitude": 19.8213763649,
-            "latitude": 45.260450059,
-            "expected_arrival_seconds": 1470
-        },
-        {
-            "id": "_21",
-            "label": "Bul. Jaše Tomića - Rumenčka",
-            "longitude": 19.8192032513,
-            "latitude": 45.2630741789,
-            "expected_arrival_seconds": 1540
-        },
-        {
-            "id": "_22",
-            "label": "Bul. Jaše Tomića - Pariske Komune",
-            "longitude": 19.8246328903,
-            "latitude": 45.2637816804,
-            "expected_arrival_seconds": 1620
-        },
-        {
-            "id": "_23",
-            "label": "Železnička Stanica - Dolasci",
-            "longitude": 19.830132455,
-            "latitude": 45.2650202834,
-            "expected_arrival_seconds": 1740
-        }
-    ]
+  "direction_a": [
+    {
+      "id": "_1",
+      "label": "Bul. Jaše Tomića - Železnička Stanica",
+      "longitude": 19.8291811843,
+      "latitude": 45.2640665923,
+      "expected_arrival_seconds": 0
+    },
+    {
+      "id": "_2",
+      "label": "Bul. Jaše Tomića - Železnički Park",
+      "longitude": 19.8231059398,
+      "latitude": 45.2640771252,
+      "expected_arrival_seconds": 56
+    },
+    {
+      "id": "_3",
+      "label": "Rumenčka - ABC Samoposluga",
+      "longitude": 19.8204896166,
+      "latitude": 45.2609008436,
+      "expected_arrival_seconds": 121
+    },
+    {
+      "id": "_4",
+      "label": "Hajduk Veljkova - Sajam",
+      "longitude": 19.8241177466,
+      "latitude": 45.2569093044,
+      "expected_arrival_seconds": 196
+    },
+    {
+      "id": "_5",
+      "label": "Hajduk Veljkova - Medicinski Fakultet",
+      "longitude": 19.8241868372,
+      "latitude": 45.2532878064,
+      "expected_arrival_seconds": 279
+    },
+    {
+      "id": "_6",
+      "label": "Cara Dušana - Futoška",
+      "longitude": 19.8247020319,
+      "latitude": 45.2487841683,
+      "expected_arrival_seconds": 363
+    },
+    {
+      "id": "_7",
+      "label": "Cara Dušana - Medicinska Škola",
+      "longitude": 19.8250937953,
+      "latitude": 45.2436192236,
+      "expected_arrival_seconds": 447
+    },
+    {
+      "id": "_8",
+      "label": "Ive Andrića - Bulevar Evrope",
+      "longitude": 19.8253580867,
+      "latitude": 45.2394232209,
+      "expected_arrival_seconds": 531
+    },
+    {
+      "id": "_9",
+      "label": "Narodnog Fronta - Ive Andrića",
+      "longitude": 19.8276347235,
+      "latitude": 45.2373436138,
+      "expected_arrival_seconds": 596
+    },
+    {
+      "id": "_10",
+      "label": "Narodnog Fronta - Balzakova",
+      "longitude": 19.833210388,
+      "latitude": 45.2388659784,
+      "expected_arrival_seconds": 661
+    },
+    {
+      "id": "_11",
+      "label": "Narodnog Fronta - Šekspirova",
+      "longitude": 19.8384767147,
+      "latitude": 45.2403689153,
+      "expected_arrival_seconds": 726
+    },
+    {
+      "id": "_12",
+      "label": "Narodnog Fronta - Bul. Oslobođenja",
+      "longitude": 19.843435786,
+      "latitude": 45.2417640206,
+      "expected_arrival_seconds": 791
+    },
+    {
+      "id": "_13",
+      "label": "Fruškogorska - Dr. I. Đuričića",
+      "longitude": 19.847528317,
+      "latitude": 45.2429842112,
+      "expected_arrival_seconds": 857
+    },
+    {
+      "id": "_14",
+      "label": "Stražilovska - Urbis",
+      "longitude": 19.8492059684,
+      "latitude": 45.2481301777,
+      "expected_arrival_seconds": 931
+    },
+    {
+      "id": "_15",
+      "label": "Maksima Gorkog - Stevana Musića",
+      "longitude": 19.8515882207,
+      "latitude": 45.2514125025,
+      "expected_arrival_seconds": 996
+    },
+    {
+      "id": "_16",
+      "label": "Maksima Gorkog - Kej",
+      "longitude": 19.8546993561,
+      "latitude": 45.2521192996,
+      "expected_arrival_seconds": 1061
+    },
+    {
+      "id": "_17",
+      "label": "Beogradski Kej - Kapetanija",
+      "longitude": 19.8548476045,
+      "latitude": 45.2576645565,
+      "expected_arrival_seconds": 1136
+    },
+    {
+      "id": "_18",
+      "label": "Marka Miljanova - Kvantaška Pijaca",
+      "longitude": 19.8537375388,
+      "latitude": 45.2617554805,
+      "expected_arrival_seconds": 1210
+    },
+    {
+      "id": "_19",
+      "label": "Marka Miljanova - Kosovska",
+      "longitude": 19.850373,
+      "latitude": 45.261569,
+      "expected_arrival_seconds": 1285
+    },
+    {
+      "id": "_20",
+      "label": "Gundulićeva - Koče Kolarova",
+      "longitude": 19.846968,
+      "latitude": 45.264153,
+      "expected_arrival_seconds": 1359
+    },
+    {
+      "id": "_21",
+      "label": "Gundulićeva - Temerinska",
+      "longitude": 19.843454,
+      "latitude": 45.264563,
+      "expected_arrival_seconds": 1415
+    },
+    {
+      "id": "_22",
+      "label": "Kisačka - Jovana Cvijića",
+      "longitude": 19.8364405487,
+      "latitude": 45.2652106325,
+      "expected_arrival_seconds": 1490
+    },
+    {
+      "id": "_23",
+      "label": "Železnička Stanica - Dolasci",
+      "longitude": 19.830132455,
+      "latitude": 45.2650202834,
+      "expected_arrival_seconds": 1620
+    }
+  ],
+  "direction_b": [
+    {
+      "id": "_1",
+      "label": "Bul. Jaše Tomića - Bul. Oslobođenja",
+      "longitude": 19.831181344,
+      "latitude": 45.264414954,
+      "expected_arrival_seconds": 0
+    },
+    {
+      "id": "_2",
+      "label": "Kisačka - Bul. Jaše Tomića",
+      "longitude": 19.8354809218,
+      "latitude": 45.2656954001,
+      "expected_arrival_seconds": 65
+    },
+    {
+      "id": "_3",
+      "label": "Gundulićeva - Temerinska",
+      "longitude": 19.8447802173,
+      "latitude": 45.264400104,
+      "expected_arrival_seconds": 130
+    },
+    {
+      "id": "_4",
+      "label": "Marka Miljanova - Kosovska",
+      "longitude": 19.8507066908,
+      "latitude": 45.2614748508,
+      "expected_arrival_seconds": 261
+    },
+    {
+      "id": "_5",
+      "label": "Beogradski Kej - Marka Miljanova",
+      "longitude": 19.8557970812,
+      "latitude": 45.2608772309,
+      "expected_arrival_seconds": 391
+    },
+    {
+      "id": "_6",
+      "label": "Beogradski Kej - Miloša Bajića",
+      "longitude": 19.8546271049,
+      "latitude": 45.2575567077,
+      "expected_arrival_seconds": 466
+    },
+    {
+      "id": "_7",
+      "label": "Trg Neznanog Junaka - Most Duga",
+      "longitude": 19.8549474588,
+      "latitude": 45.2549794279,
+      "expected_arrival_seconds": 540
+    },
+    {
+      "id": "_8",
+      "label": "Maksima Gorkog - Vojvode Mišića",
+      "longitude": 19.8520851559,
+      "latitude": 45.2516559504,
+      "expected_arrival_seconds": 614
+    },
+    {
+      "id": "_9",
+      "label": "Bul. Cara Lazara - Urbis",
+      "longitude": 19.8488525074,
+      "latitude": 45.2474414598,
+      "expected_arrival_seconds": 689
+    },
+    {
+      "id": "_10",
+      "label": "Narodnog Fronta - Fruškogorska",
+      "longitude": 19.8467941518,
+      "latitude": 45.2424582038,
+      "expected_arrival_seconds": 754
+    },
+    {
+      "id": "_11",
+      "label": "Narodnog Fronta - Bul. Oslobođenja",
+      "longitude": 19.8415475397,
+      "latitude": 45.2414328005,
+      "expected_arrival_seconds": 819
+    },
+    {
+      "id": "_12",
+      "label": "Narodnog Fronta - Šekspirova",
+      "longitude": 19.8370412179,
+      "latitude": 45.2400602044,
+      "expected_arrival_seconds": 884
+    },
+    {
+      "id": "_13",
+      "label": "Narodnog Fronta - Balzakova",
+      "longitude": 19.8316359129,
+      "latitude": 45.23861537,
+      "expected_arrival_seconds": 950
+    },
+    {
+      "id": "_14",
+      "label": "Narodnog Fronta - Ive Andrića",
+      "longitude": 19.8273963747,
+      "latitude": 45.2374119519,
+      "expected_arrival_seconds": 1015
+    },
+    {
+      "id": "_15",
+      "label": "Cara Dušana - Bul. Cara Lazara",
+      "longitude": 19.8253952094,
+      "latitude": 45.2403667659,
+      "expected_arrival_seconds": 1080
+    },
+    {
+      "id": "_16",
+      "label": "Cara Dušana - Medicinska Škola",
+      "longitude": 19.8252026974,
+      "latitude": 45.2442691715,
+      "expected_arrival_seconds": 1145
+    },
+    {
+      "id": "_17",
+      "label": "Hajduk Veljkova - Dečija Bolnica",
+      "longitude": 19.8244972937,
+      "latitude": 45.2510679517,
+      "expected_arrival_seconds": 1220
+    },
+    {
+      "id": "_18",
+      "label": "Hajduk Veljkova - Novosadskog Sajma",
+      "longitude": 19.8244393678,
+      "latitude": 45.2545639152,
+      "expected_arrival_seconds": 1294
+    },
+    {
+      "id": "_19",
+      "label": "Rumenčka - Dom Zdravlja",
+      "longitude": 19.8213763649,
+      "latitude": 45.260450059,
+      "expected_arrival_seconds": 1369
+    },
+    {
+      "id": "_20",
+      "label": "Bul. Jaše Tomića - Rumenčka",
+      "longitude": 19.8192032513,
+      "latitude": 45.2630741789,
+      "expected_arrival_seconds": 1434
+    },
+    {
+      "id": "_21",
+      "label": "Bul. Jaše Tomića - Pariske Komune",
+      "longitude": 19.8246328903,
+      "latitude": 45.2637816804,
+      "expected_arrival_seconds": 1508
+    },
+    {
+      "id": "_22",
+      "label": "Železnička Stanica - Dolasci",
+      "longitude": 19.830132455,
+      "latitude": 45.2650202834,
+      "expected_arrival_seconds": 1620
+    }
+  ]
 }

@@ -143,6 +143,12 @@
             "label": "Petrovaradin - Okretnica",
             "longitude": 19.8878906109,
             "latitude": 45.2360062995
+        },
+        {
+            "id": "_",
+            "label": "NOVO NASELJE - KRUŽNI TOK",
+            "longitude": 19.787416,
+            "latitude": 45.247888
         }
     ],
     "direction_b": [
@@ -295,6 +301,12 @@
             "label": "Novo Naselje - Bistrica - Okretnica",
             "longitude": 19.7915144259,
             "latitude": 45.2489713023
+        },
+        {
+            "id": "_",
+            "label": "NOVO NASELJE - KRUŽNI TOK",
+            "longitude": 19.786933,
+            "latitude": 45.248251
         }
     ]
 }

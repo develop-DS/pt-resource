@@ -12,63 +12,63 @@
       "label": "Bulevar Oslobođenja - Bulevar Kralja Petra Prvog",
       "longitude": 19.8322222835,
       "latitude": 45.2601777537,
-      "expected_arrival_seconds": 36
+      "expected_arrival_seconds": 32
     },
     {
       "id": "_3",
       "label": "Bulevar Oslobođenja - Novosadskog Sajma",
       "longitude": 19.8353175469,
       "latitude": 45.2545506888,
-      "expected_arrival_seconds": 100
+      "expected_arrival_seconds": 89
     },
     {
       "id": "_4",
       "label": "Bulevar Oslobođenja - Futoška",
       "longitude": 19.8370753816,
       "latitude": 45.2514514442,
-      "expected_arrival_seconds": 136
+      "expected_arrival_seconds": 121
     },
     {
       "id": "_5",
       "label": "Bulevar Oslobođenja - Braće Ribnikar",
       "longitude": 19.8392619075,
       "latitude": 45.2475207776,
-      "expected_arrival_seconds": 181
+      "expected_arrival_seconds": 161
     },
     {
       "id": "_6",
       "label": "Bulevar Oslobođenja - Bulevar Cara Lazara",
       "longitude": 19.8414842753,
       "latitude": 45.2434304122,
-      "expected_arrival_seconds": 228
+      "expected_arrival_seconds": 203
     },
     {
       "id": "_7",
       "label": "Bulevar Oslobođenja - Most Slobode",
       "longitude": 19.8428482132,
       "latitude": 45.241081551,
-      "expected_arrival_seconds": 255
+      "expected_arrival_seconds": 227
     },
     {
       "id": "_8",
       "label": "Kamenički Put - Rtv \"Novi Sad\"",
       "longitude": 19.8588026936,
       "latitude": 45.2325391031,
-      "expected_arrival_seconds": 406
+      "expected_arrival_seconds": 362
     },
     {
       "id": "_9",
       "label": "Petlja Mišeluk - Tunel",
       "longitude": 19.8592274923,
       "latitude": 45.2292476482,
-      "expected_arrival_seconds": 441
+      "expected_arrival_seconds": 393
     },
     {
       "id": "_10",
       "label": "Mišeluk - Bolnica - Okretnica",
       "longitude": 19.8716683,
       "latitude": 45.226521,
-      "expected_arrival_seconds": 539
+      "expected_arrival_seconds": 480
     }
   ],
   "direction_b": [
@@ -84,56 +84,56 @@
       "label": "Okretnica - Rtv \"Novi Sad\"",
       "longitude": 19.860366,
       "latitude": 45.23356,
-      "expected_arrival_seconds": 133
+      "expected_arrival_seconds": 127
     },
     {
       "id": "_3",
       "label": "Bulevar Oslobođenja - Narodnog Fronta",
       "longitude": 19.8425582061,
       "latitude": 45.2421433047,
-      "expected_arrival_seconds": 323
+      "expected_arrival_seconds": 308
     },
     {
       "id": "_4",
       "label": "Bulevar Oslobođenja - Bulevar Cara Lazara",
       "longitude": 19.8412524923,
       "latitude": 45.2444754031,
-      "expected_arrival_seconds": 354
+      "expected_arrival_seconds": 338
     },
     {
       "id": "_5",
       "label": "Bulevar Oslobođenja - Maksima Gorkog",
       "longitude": 19.8390130044,
       "latitude": 45.2485327883,
-      "expected_arrival_seconds": 408
+      "expected_arrival_seconds": 389
     },
     {
       "id": "_6",
       "label": "Bulevar Oslobođenja - Futoška Pijaca",
       "longitude": 19.8368000824,
       "latitude": 45.2525198464,
-      "expected_arrival_seconds": 462
+      "expected_arrival_seconds": 441
     },
     {
       "id": "_7",
       "label": "Bulevar Oslobođenja - Pokrajinski Sup",
       "longitude": 19.8351029309,
       "latitude": 45.255629856,
-      "expected_arrival_seconds": 504
+      "expected_arrival_seconds": 481
     },
     {
       "id": "_8",
       "label": "Bulevar Oslobođenja - Bulevar Kralja Petra Prvog",
       "longitude": 19.8318492939,
       "latitude": 45.2613766166,
-      "expected_arrival_seconds": 581
+      "expected_arrival_seconds": 554
     },
     {
       "id": "_9",
       "label": "Železnička Stanica - Dolasci",
       "longitude": 19.830132455,
       "latitude": 45.2650202834,
-      "expected_arrival_seconds": 629
+      "expected_arrival_seconds": 600
     }
   ]
 }
