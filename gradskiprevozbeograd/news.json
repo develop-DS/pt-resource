@@ -1,8 +1,11 @@
 [
     {
-        "date": "12/03/2026 - 22/03/2026",
+        "date": "12/03/2026 - 25/03/2026",
         "title": "Informacija o promeni režima rada linija javnog prevoza tokom izvođenja radova u zoni raskrsnice ulica  Pariske komune, Narodnih heroja i Otona Župančića",
         "sections": [
+            {
+                "text": "Radovi su produženi do 25.3.2026. godine."
+            },
             {
                 "text": "Tokom izvođenja radova na redovnom održavanju u zoni raskrsnice ulica  Pariske komune, Narodnih heroja i Otona Župančića, u periodu od 12.03.2026. godine  do 22.03.2026. godine doći će do promena u radu linija javnog prevoza."
             },
@@ -128,6 +131,34 @@
         "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/884"
     },
     {
+        "date": "21/03/2026 - 13/04/2026",
+        "title": "Informacija o promeni režima rada linija javnog prevoza tokom izvođenja radova u ulici Trg Zorana Đinđića u Surčinu - Faze 1B i 2",
+        "sections": [
+            {
+                "text": "Tokom izvođenja radova na izgradnji sekundarnog vodovoda i potisnog cevovoda fekalne kanalizacije u ulici Trg Zorana Đinđića  (Surčin) u periodu od 21.03. do 13.04.2026. godine doći će do promena u radu linija javnog prevoza. Radovi će se izvoditi po fazama i to:"
+            },
+            {
+                "text": "Faza 1B - radovi u ovoj fazi podrazumevaju zauzeće dela raskrsnice Vojvođanska - Trg Zorana Đinđića- Braće Puhalović zbog izgradnje šahta (zbog čega će biti onemogućeno levo skretanje od Novog Beograda prema Trgu Zorana Đinđića, dok će ulica Trg Zoran Đinđića u smeru prema centru Surčina biti zatvorena za saobraćaj);"
+            },
+            {
+                "text": "Faza 2 - radovi u ovoj fazi podrazumevaju zauzeće desne saobraćajne trake ulice Trg Zorana Đinđića (gledano u smeru ka centru Surčina), na delu od zone raskrsnice sa ulicom Galovačka do zone raskrsnice sa ulicom Vojvođanska."
+            },
+            {
+                "text": "Tokom izvođea obe faze radova, vozila javnog prevoza će saobraćati na sledeći način:"
+            },
+            {
+                "text": "Linija br. 602 će u smeru ka SRC „Surčin“ saobraćati ulicama Vinogradska, Mite Uče, Vojvođanska i dalje redovno, dok će se u smeru ka Novom Beogradu saobraćati redovno;"
+            },
+            {
+                "text": "Linija br. 610E će u smeru ka Jakovu saobraćati trasom podlinije 610Ea preko petlje „Jakovo“, dok će se u smeru ka Novom Beogradu saobraćati redovno."
+            },
+            {
+                "text": "Predmetni radovi će se izvoditi po završetku planiranih radova na asfaltiranju kolovoza u zoni raskrsnice ulica Trg Zorana Đinđića, Vojvođanska i Braće Puhalović u subotu, 21.03.2026. godine, do kada će važiti postojeći režim rada linija javnog prevoza."
+            }
+        ],
+        "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/933"
+    },
+    {
         "date": "16/03/2026 - 31/03/2026",
         "title": "Informacija o promeni režima rada linija javnog prevoza tokom izvođenja radova u visini međumesnog  stajališta „Autokomanda“",
         "sections": [
@@ -170,9 +201,28 @@
         "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/929"
     },
     {
-        "date": "17/03/2026 - 21/03/2026",
+        "date": "20/12/2024 - 31/12/2026",
+        "title": "Informacija o ukidanju stajališta „Savski trg (Savska)“ tokom izvođenja radova na rekonstrukciji zgrade Pošte u ulici Savska",
+        "sections": [
+            {
+                "text": "Radovi su produženi do 31.12.2026. godine."
+            },
+            {
+                "text": "Tokom izvođenja radova na rekonstrukciji zgrade Pošte (u funkciji prenamene objekta u kulturni centar) u ulici Savska u periodu od 20.12.2024. godine do 31.03.2025. godine doći će do promena u radu linija javnog prevoza. Tokom izvođenja radova doći će do zauzeća krajnje desne saobraćajne trake u smeru ka Sajmu, na delu od objekta pošte do zone autobuskog stajališta „Savski trg (Savska)“. Vozila JLPP-a će se u zoni radova kretati preostalom slobodnom širinom kolovoza (leva saobraćajna traka)."
+            },
+            {
+                "text": "Tokom izvođenja radova privremeno se ukida autobusko stajalište „Savski trg (Savska)“ (šifra st. #1726 za linije br. 36, 51, 511 i 601 - gledano u smeru ka Sajmu)."
+            }
+        ],
+        "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/649"
+    },
+    {
+        "date": "21/03/2026 - 26/03/2026",
         "title": "Informacija o promeni režima rada tramvajskih linija zbog izvođenja hitnih radova u ulici Ruzveltova",
         "sections": [
+            {
+                "text": "Radovi su produženi do 26.3.2026. godine."
+            },
             {
                 "text": "Tokom izvođenja hitnih radova na kanaliizacionoj mreži u ulici Ruzveltova, ispred objekta sa kućnim brojem 33, u periodu od 17.03.2026. godine do 21.03.2026. godine doći će do promena u radu linija JLPP-a i to:"
             },
@@ -184,6 +234,25 @@
             }
         ],
         "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/930"
+    },
+    {
+        "date": "20/03/2026 - 31/03/2026",
+        "title": "Informacija o promeni režima rada linija javnog prevoza tokom izvođenja radova u ulici Takovska",
+        "sections": [
+            {
+                "text": "Tokom izvođenja radova na redovnom održavanju kolovoza u Takovskoj ulici, u okviru Faze 2, doći će do privremenih izmena u funkcionisanju javnog gradskog prevoza."
+            },
+            {
+                "text": "Radovi će se izvoditi na deonici od ulice Džordža Vašingtona do Trga Nikole Pašića, posmatrano u smeru ka ulici Nemanjina, u periodu od 20. do 31. marta 2026. godine."
+            },
+            {
+                "text": "U navedenom periodu biće privremeno ukinuto autobusko stajalište „Glavna pošta“ (#266) za linije 23, 28, 40 i 304n."
+            },
+            {
+                "text": "Istovremeno, stajalište „27. marta“ (#240) biće privremeno izmešteno u Takovskoj ulici, na poziciju koja se nalazi oko 50 metara nakon zone raskrsnice sa Dalmatinskom ulicom."
+            }
+        ],
+        "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/931"
     },
     {
         "date": "10/03/2026 - 24/03/2026",
@@ -218,65 +287,6 @@
         "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/920"
     },
     {
-        "date": "11/03/2026 - 31/03/2026",
-        "title": "Informacija o promeni režima rada linija javnog prevoza tokom izvođenja radova u ulici Trg Zorana Đinđića u Surčinu",
-        "sections": [
-            {
-                "text": "Tokom izvođenja radova na izgradnji sekundarnog vodovoda i potisnog cevovoda fekalne kanalizacije u ulici Trg Zorana Đinđića  (Surčin) doći će do promena u radu linija javnog prevoza Radovi će se izvoditi po fazama i to:"
-            },
-            {
-                "text": "Faza 4 - radovi u ovoj fazi podrazumevaju zauzeće celokupnog kolovoza ulice Trg Zorana Đinđića, na delu od zone raskrsnice sa ulicom Vinogradska do zone raskrsnice sa ulicom Đačka u periodu od 11.03. do 31.03.2026. godine."
-            },
-            {
-                "text": "Faza 5 - radovi u ovoj fazi podrazumevaju zauzeće desne saobraćajne trake ulice Trg Zorana Đinđića (gledano u smeru ka autoputu „Miloš Veliki“), na delu od zone raskrsnice sa ulicom Vinogradska narednih 135,0 metara u periodu od 11.03. do 31.03.2026. godine, pri čemu će se saobraćaj u visini zone radova kretati uz naizmenično propuštanje regulisano uz pomoć pokretnih semafora."
-            },
-            {
-                "text": "Tokom izvođenja obe faze radova vozila javnog prevoza će se kretati na sledeći način:"
-            },
-            {
-                "text": "Linija br. 602 će u oba smera saobraćati ulicama Vinogradska, Mite Uče, Vojvođanska i dalje u skladu sa radovima u centru Surčina;"
-            },
-            {
-                "text": "Linija br. 610E će u oba smera saobraćati trasom podlinije 610Ea preko petlje „Jakovo“."
-            }
-        ],
-        "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/924"
-    },
-    {
-        "date": "25/02/2026 - 20/03/2026",
-        "title": "Informacija o promeni režima rada linija javnog prevoza tokom izvođenja u ulici Trg Zorana Đinđića u Surčinu",
-        "sections": [
-            {
-                "text": "Radovi su produženi do 20.03.2026.godine."
-            },
-            {
-                "text": "Tokom izvođenja radova na izgradnji sekundarnog vodovoda i potisnog cevovoda fekalne kanalizacije u ulici Trg Zorana Đinđića  (Surčin) u periodu od 25.02.2026. godine do 09.03.2026. godine doći će do promena u radu linija javnog prevoza. Radovi će se izvoditi po fazama i to:"
-            },
-            {
-                "text": "Faza 1A - radovi u ovoj fazi podrazumevaju zauzeće dela raskrsnice Vojvođanska - Trg Zorana Đinđića- Braće Puhalović zbog izgradnje šahta (zbog čega će biti onemogućeno kretanje iz smera Novog Beograda prema okretnici „Surčin“, kao i levo skretanje od Novog Beograda prema Trgu Zorana Đinđića, levo skretanje iz smera okretnice „Surčin“ prema Dobanovcima, dok će ulica Braće Puhalović u smeru prema centru Surčina biti zatvorena za saobraćaj). Vozila javnog prevoza će saobraćati na sledeći način:"
-            },
-            {
-                "text": "Linije br. 601, 602, 604, 605, 610, 860I i 601N će u smeru ka okretnici „Surčin“ saobraćati ulicama Vojvođanska, Braće Puhalović, Udarne desetine, Krušedolska, Braće Nikolić i dalje redovnim trasama, dok će u suprotnom smeru saobraćati redovno;"
-            },
-            {
-                "text": "Linije br.603 i 603N će u smeru ka Dobanovcima saobraćati redovno, dok će se u smeru od Dobanovaca, vozila kretati ulicama Braće Puhalović, Udarne desetine, Krušedolska, Braće Nikolić, Vojvođanska i dalje redovno;"
-            },
-            {
-                "text": "Linija br. 606 će u smeru ka Grmovcu saobraćati ulicama Braće Nikolić, Krušedolska, Udarne desetine, Braće Puhalović i dalje redovno, dok će u suprotnom smeru saobraćati ulicama Braće Puhalović, Udarne desetine, Krušedolska, Braće Nikolić do okretnice „Surčin“;"
-            },
-            {
-                "text": "Vozila će na izmenjenom delu trase koristiti sva postojeća kao i novouspostavljena stajalšta JLPP-a:"
-            },
-            {
-                "text": "•  „Krušedolska 1“ za linije 606 i 601N u ulici Krušedolska, preko puta ED stuba koji se nalazi u visini kućnog broja 3, odnosno oko 50 metara posle zone raskrsnice ulice Braće Nikolić i Krušedolska;"
-            },
-            {
-                "text": "•  „Braće Suzić 1“ za linije 601, 603, 604, 605, 610, 860I, 601N, 603N u ulici Udarne desetine, na poziciji ED stuba koji se nalazi preko puta kućnog broja 9, odnosno oko 70 metara posle zone raskrsnice ulice Braće Puhalović i Udarne Desetine."
-            }
-        ],
-        "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/911"
-    },
-    {
         "date": "11/03/2026 - 02/04/2026",
         "title": "Informacija o privremenom izmeštanju stajališta \"Nade Dimić\" u ulici Cara Dušana, GO Zemun",
         "sections": [
@@ -294,16 +304,6 @@
             }
         ],
         "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/923"
-    },
-    {
-        "date": "16/03/2026 - 25/03/2026",
-        "title": "Informacija o privremenom ukidanju stajališta \"27. marta\" u ulici Takovska",
-        "sections": [
-            {
-                "text": "Tokom izvođenja radova na redovnom održavanju u ulici Takovska, GO Stari grad - FAZA 1, na potezu od ulice Džordža Vašingtona do ulice Majke Jevrosime (u smeru ka Bulevaru kralja Aleksandra), u vremenskom periodu od 16. 03. do 25. 03. 2026. godine doći će do privremenog ukidanja stajališta javnog prevoza „27. marta“ (#240) za linije br. 23, 28, 40 i 304n."
-            }
-        ],
-        "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/926"
     },
     {
         "date": "06/03/2026 - 01/04/2026",
@@ -345,25 +345,6 @@
             }
         ],
         "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/901"
-    },
-    {
-        "date": "18/02/2026 - 16/03/2026",
-        "title": "Informacija o promeni režima rada linija javnog prevoza tokom izvođenja radova u ulici Trg Zorana Đinđića u Surčinu",
-        "sections": [
-            {
-                "text": "Tokom izvođenja radova na izgradnji sekundarnog vodovoda i potisnog cevovoda fekalne kanalizacije u ulici Trg Zorana Đinđića  (Surčin) - Faza 4 u periodu od 18.02.2026. godine do 16.03.2026. godine doći će do promena u radu linija javnog prevoza."
-            },
-            {
-                "text": "Radovi u ovoj fazi podrazumevaju potpuno zatvaranje za saobraćaj ulice Trg Zorana Đinđića, na delu od zone raskrsnice sa ulicom Galovačka do zone raskrsnice sa ulicom Vinogradska, zbog čega će vozila javnog prevoza saobraćati na sledeći način:"
-            },
-            {
-                "text": "Linija br. 602 će u oba smera saobraćati ulicama Vinogradska, Mite Uče, Vojvođanska i dalje redovno;"
-            },
-            {
-                "text": "Linija br. 610E će u oba smera saobraćati trasom podlinije 610Ea preko petlje „Jakovo“."
-            }
-        ],
-        "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/906"
     },
     {
         "date": "14/01/2026 - 01/05/2026",

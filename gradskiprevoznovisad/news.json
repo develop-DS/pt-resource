@@ -1,15 +1,85 @@
 [
     {
-        "date": "06.03.2026",
-        "title": "Linija 74 – Skraćenje trase na Popovici 07.03.",
+        "date": "20.03.2026",
+        "title": "Linija 13 – Privremena izmena trase od 21. 03.",
         "sections": [
             {
-                "text": "Zbog održavanja taktično-pokazne vežbe „FRUSAR 2026“ na Fruškoj gori, 07.03.2026. godine (SUBOTA), u periodu od 08:00 do 13:00 časova privremeno će biti skraćena trasa linije broj 74 Novi Sad -Popovica."
+                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, zbog radova na turbo kružnom toku od 21. do 23. 03. 2026. godine privremeno će biti izmenjena trasa linije 13."
             },
             {
-                "text": "Autobusi na liniji broj 74 saobraćaće do i od okretnice kod Mošine vile (okretnica linije br. 73)."
+                "text": "Smer Detelinara - Univerzitet"
+            },
+            {
+                "text": "Redovna trasa kretanja."
+            },
+            {
+                "text": "Smer Univerzitet - Detelinara"
+            },
+            {
+                "text": "Iz Jiričekove ulice autobusi će saobraćati pravo Ulicom Narodnog fronta, skretati desno na Bulevar oslobođenja, levo na Bulevar cara Lazara i dalje nastavljati redovnom trasom."
+            },
+            {
+                "text": "Na izmenjenom delu trase koristiće se redovno stajalište linija 4 i 11B  „Narodnog fronta – Fruškogorska“ ."
             }
         ]
+    },
+    {
+        "date": "20.03.2026",
+        "title": "Linije 1, 11A, 11B, 17, 21, 22, 23, 24, 30 – Izmena trase u Kisačkoj ulici",
+        "sections": [
+            {
+                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, zbog radova u Kisačkoj ulici od 23. 03. do 15. 05. 2026. godine privremeno će biti izmenjene trase autobuskih linija 1, 11A, 11B,17, 21, 22, 23, 24 i 30."
+            },
+            {
+                "text": "LINIJE 1, 17"
+            },
+            {
+                "text": "Smer A"
+            },
+            {
+                "text": "Linije 1, 17: Autobusi će iz Kisačke ulice skretati desno na Bulevar Jaše Tomića, levo na Bulevar oslobođenja, levo na Bulevar kralja Petra I, zatim desno u Kisačku ulicu, odakle će nastavljati redovnom trasom."
+            },
+            {
+                "text": "Smer B"
+            },
+            {
+                "text": "Linija 1: Iz Kisačke ulice autobusi će skretati levo na Bulevar kralja Petra I, desno na Bulevar oslobođenja, desno na Bulevar Jaše Tomića, zatim levo u Kisačku ulicu, odakle će nastavljati redovnom trasom."
+            },
+            {
+                "text": "Linija 17: Redovna trasa."
+            },
+            {
+                "text": "LINIJA 11A"
+            },
+            {
+                "text": "Iz Gundulićeve ulice autobusi će skretati levo u Temerinsku ulicu, desno u Kisačku ulicu, levo na Bulevar kralja Petra I, desno na Bulevar oslobođenja i nastavljati pravo do svog poslednjeg stajališta."
+            },
+            {
+                "text": "LINIJA 11B"
+            },
+            {
+                "text": "Sa Bulevara Jaše Tomića autobusi će skretati levo u Kisačku ulicu, desno u Partizansku ulicu, desno u Temerinsku ulicu, levo u Gundulićevu ulicu i dalje će nastavljati redovnom trasom."
+            },
+            {
+                "text": "LINIJE 21, 22, 23, 24, 30"
+            },
+            {
+                "text": "Smer A"
+            },
+            {
+                "text": "Autobusi će saobraćati pravo Bulevarom oslobođenja, skretati levo na Bulevar kralja Petra I, zatim desno u  Kisačku ulicu, levo u Temerinsku ulicu  i dalje nastavljati redovnom trasom."
+            },
+            {
+                "text": "Smer B"
+            },
+            {
+                "text": "Iz Kisačke ulice autobusi će skretati levo na Bulevar kralja Petra I, desno na Bulevar oslobođenja i dalje nastavljati pravo do svog poslednjeg stajališta."
+            },
+            {
+                "text": "Na linijama 22, 23 i 24 polasci koji saobraćaju do centra, do Zone sever i Zone jug (oba smera), neće menjati trasu kretanja."
+            }
+        ],
+        "url": "http://www.gspns.co.rs/dokumenti/kisacka2003.jpg"
     },
     {
         "date": "25.02.2026",
