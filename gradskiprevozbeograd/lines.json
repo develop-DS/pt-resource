@@ -6271,7 +6271,7 @@
         "type": "TRA",
         "title": "Kalemegdan /Donji grad/ - Banjica ",
         "info": [
-            "Važi od: 17-03-2026 do 26-03-2026"
+            "Važi od: 17-03-2026 do 05-05-2026"
         ],
         "weekday": {
             "starting_points_a": [
@@ -7003,7 +7003,7 @@
         "type": "TRA",
         "title": "Tašmajdan - Banovo brdo",
         "info": [
-            "Važi od: 17-03-2026 do 26-03-2026"
+            "Važi od: 17-03-2026 do 05-05-2026"
         ],
         "weekday": {
             "starting_points_a": [
@@ -68198,13 +68198,12 @@
         "type": "BUS",
         "title": "Mladenovac - Dubona - Šepšin - Senaja - BAS",
         "info": [
-            "Važi od: 01-06-2025"
+            "Važi od: 01-01-2026"
         ],
         "weekday": {
             "starting_points_a": [
                 "04:00",
                 "05:00",
-                "08:50",
                 "09:20",
                 "11:00",
                 "14:05",
@@ -68213,6 +68212,7 @@
             ],
             "starting_points_b": [
                 "06:50",
+                "08:50",
                 "11:10",
                 "13:15",
                 "15:45",
@@ -74790,12 +74790,12 @@
         "type": "BUS",
         "title": "Banovo brdo - Vranić - Taraiš",
         "info": [
-            "Važi od: 01-06-2025"
+            "Važi od: 26-03-2026"
         ],
         "weekday": {
             "starting_points_a": [
                 "05:00",
-                "05:30",
+                "05:40",
                 "06:30",
                 "08:00",
                 "09:00",
@@ -87605,34 +87605,35 @@
         "type": "BUS",
         "title": "Rajkovac - Koraćička banja",
         "info": [
-            "Važi od: 16-09-2023"
+            "Važi od: 26-03-2026"
         ],
         "weekday": {
             "starting_points_a": [
-                "07:00",
+                "06:55",
                 "08:15",
                 "09:15",
                 "10:15",
                 "11:15",
                 "12:15",
-                "13:15",
+                "13:00",
                 "14:15",
                 "15:15",
                 "16:15",
                 "17:15",
-                "18:15"
+                "18:15",
+                "19:15"
             ],
             "starting_points_b": []
         },
         "saturday": {
             "starting_points_a": [
-                "07:00",
+                "06:55",
                 "08:15",
                 "09:15",
                 "10:15",
                 "11:15",
                 "12:15",
-                "13:15",
+                "13:00",
                 "14:15"
             ],
             "starting_points_b": []
@@ -90317,7 +90318,7 @@
         "type": "BUS",
         "title": "Barajevo - Gaj - Novo naselje",
         "info": [
-            "Važi od: 01-12-2025"
+            "Važi od: 26-03-2026"
         ],
         "weekday": {
             "starting_points_a": [
@@ -90393,6 +90394,7 @@
                 "15:40",
                 "15:50",
                 "16:20",
+                "16:30",
                 "16:40",
                 "17:10",
                 "17:50",
