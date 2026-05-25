@@ -1,5 +1,33 @@
 [
     {
+        "date": "22.05.2026",
+        "title": "Linija 6 – Privremena izmena trase u Vršačkoj ulici",
+        "sections": [
+            {
+                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, 25. 05. 2026. godine privremeno će biti izmenjena trasa autobuske linije broj 6 zbog radova u Vršačkoj ulici."
+            },
+            {
+                "text": "Na raskrsnici Futoška ulica/Bulevar Evrope autobusi će skretati levo i saobraćati Bulevarom Evrope do kružnog toka, skretati desno na Bulevar patrijarha Pavla, produžavati pravo Bulevarom patrijarha Pavla do raskrsnice Vršačka/Feješ Klare,  skretati levo u Ulicu Feješ Klare i dalje nastavljati redovnom trasom kretanja"
+            },
+            {
+                "text": "Na raskrsnici Feješ Klare/Bulevar patrijarha Pavla autobusi će skretati desno na Bulevar patrijarha Pavla i saobraćati do kružnog toka, skretati levo na Bulevar Evrope i saobraćati do raskrsnice sa Futoškom ulicom, skretati desno i dalje nastavljati redovnom trasom."
+            },
+            {
+                "text": "NA IZMENJENOM DELU TRASE KORISTIĆE SE AUTOBUSKA STAJALIŠTA DRUGIH LINIJA."
+            }
+        ],
+        "url": "http://www.gspns.co.rs/dokumenti/vrsacka2205.jpg"
+    },
+    {
+        "date": "21.05.2026",
+        "title": "Linija 41 (42,43 polasci kroz Rumenku) - Povratak na redovnu trasu",
+        "sections": [
+            {
+                "text": "Autobusi na liniji 41, kao i polasci kroz Rumenku linija 42 i 43, ponovo saobraćaju redovnim trasama od 12:40 časova, dana 21. 05. 2026. godine."
+            }
+        ]
+    },
+    {
         "date": "18.05.2026",
         "title": "Linija 14 – Izmena trase na polascima do i od Veternika",
         "sections": [
@@ -75,7 +103,7 @@
                 "text": "Autobusi na linijama 11a i 11b ponovo saobraćaju redovnom trasom kroz Ulicu Jovana Cvijića od 12:00 časova, dana 15. maja."
             },
             {
-                "text": "Ostale  prigradske linije 21, 22, 23 i 23  i dalje saobraćaju izmenjenim trasama u navedenom delu grada zbog radova u Kisačkoj ulici."
+                "text": "Ostale linije 1, 17, 21, 22, 23, 24, 30  i dalje saobraćaju izmenjenim trasama u navedenom delu grada zbog radova u Kisačkoj ulici."
             }
         ]
     },
@@ -258,6 +286,39 @@
     },
     {
         "date": "14.01.2026",
+        "title": "Red vožnje vanrednog prevoza Ranžirna železnička stanica Novi Sad - Centar",
+        "sections": [
+            {
+                "text": "JGSP \"Novi Sad\" obaveštava putnike da je uspostavljena vanredna linija od Ranžirne železničke stanice Novi Sad do centra grada (oba smera)."
+            },
+            {
+                "text": "Polazno stajalište u smeru iz Novog Sada ka Ranžirnoj železničkoj stanici  je redovno autobusko stajalište je u Šafarikovoj ulici (početno stajalište linije broj 2)."
+            },
+            {
+                "text": "Duž cele trase na vanrednim polascima koristi se stajalište kod apoteke \"Tilija\" kod Železničke stanice (oba smera)."
+            },
+            {
+                "text": "U skladu sa ugovorom sa „Srbijavozom“, na navedenoj relaciji prevoz  je BESPLATAN."
+            },
+            {
+                "text": "RED  VOŽNJE (radni dan, vikend, praznik)"
+            },
+            {
+                "text": "Smer Centar-Ranžirna železnička stanica"
+            },
+            {
+                "text": "07:15; 12:15; 14:15; 15:40; 19:05; 20:55"
+            },
+            {
+                "text": "Smer Ranžirna železnička stanica - Centar"
+            },
+            {
+                "text": "06:35; 10:20; 13:45; 15:40; 19:00; 20:35"
+            }
+        ]
+    },
+    {
+        "date": "14.01.2026",
         "title": "Red vožnje na vanrednim polascima Železnička stanica Petrovaradin - Centar od 14. 01.",
         "sections": [
             {
@@ -268,5 +329,14 @@
             }
         ],
         "url": "http://www.gspns.co.rs/dokumenti/mapapetrovaradin_0502.pdf"
+    },
+    {
+        "date": "20.11.2024",
+        "title": "Linija 9A privremeno preusmerena do okretnice u Petrovaradinu",
+        "sections": [
+            {
+                "text": "Zbog preusmeravanja železničkog saobraćaja na Železničku stanicu Petrovaradin, obaveštavamo putnike da je zbog rasterećenja postojećih linija autobusa, linija 9A u smeru od Alibegovca produžena do petrovaradinske okretnice linija 3 i 9, odakle dalje saobraća redovnom trasom do Novog naselja. \n\nPodsećamo putnike da je na relaciji Šafarikova ulica - Železnička stanica Petrovaradin uvedena vanredna linija na kojoj je prevoz BESPLATAN, te da su građanima pored gradskih linija za prevoz do Železničke stanice Petrovaradin na raspolaganju i međumesne linije 60, 61, 62 i 63 koje kreću sa Međumesne autobuske stanice."
+            }
+        ]
     }
 ]
