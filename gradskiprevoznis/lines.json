@@ -3,9 +3,10 @@
         "id": "1",
         "title": "NIŠKA BANjA - MINOVO NASELjE",
         "info": [
-            "*polasci označeni zvezdicom saobraćaju DO LEDENE STENE",
-            "polasci označeni ** saobraćaju od Šivare do MIN-ovog naselja",
-            "polasci označeni *** svraćaju u LOZNI KALEM polasci **** saobraćaju od Šivare do Ledene Stene"
+            "* - polasci označeni zvezdicom saobraćaju DO LEDENE STENE",
+            "** - polasci saobraćaju od Šivare do MIN-ovog naselja",
+            "*** - polasci svraćaju u LOZNI KALEM",
+            "**** - polasci saobraćaju od Šivare do Ledene Stene"
         ],
         "weekday": {
             "starting_points_a": [
@@ -416,18 +417,26 @@
                 "00:53**"
             ]
         },
-        "type": "BUS"
+        "type": "BUS",
+        "info_translations": {
+            "en": [
+                "* - departures marked with an asterisk travel to Ledena Stena",
+                "** - departures run from Šivara to MIN's settlement",
+                "*** - departures stop at LOZNI KALEM",
+                "**** - departures run from Šivara to Ledena Stena"
+            ]
+        }
     },
     {
         "id": "2",
         "title": "BUBANj - DONjA VREŽINA",
         "info": [
-            "polasci označeni * saobraćaju DO DONjE VREŽINE 1",
-            "polasci označeni ** saobraćaju do Skopske",
-            "polasci označeni *** saobraćaju od Trga kralja Aleksandra do Donje Vrežine 1",
-            "polasci označeni **** saobraćaju od Trga kralja Aleksandra do G. Vrežine",
-            "polasci označeni ***** saobraćaju od Bubnja do Trga kralja Aleksandra",
-            "polasci označeni ****** saobraćaju od Trga kralja Aleksandra do Donje Vrežine"
+            "* - polasci saobraćaju DO DONjE VREŽINE 1",
+            "** - polasci saobraćaju do Skopske",
+            "*** - polasci saobraćaju od Trga kralja Aleksandra do Donje Vrežine 1",
+            "**** - polasci saobraćaju od Trga kralja Aleksandra do G. Vrežine",
+            "***** - polasci saobraćaju od Bubnja do Trga kralja Aleksandra",
+            "****** - polasci saobraćaju od Trga kralja Aleksandra do Donje Vrežine"
         ],
         "weekday": {
             "starting_points_a": [
@@ -1065,15 +1074,25 @@
                 "00:32******"
             ]
         },
-        "type": "BUS"
+        "type": "BUS",
+        "info_translations": {
+            "en": [
+                "* - departures run TO Donja Vrežina 1",
+                "** - departures travel to Skopska",
+                "*** - departures run from Trg Kralja Aleksandra to Donja Vrežina 1",
+                "**** - departures run from Trg Kralja Aleksandra to G. Vrežina",
+                "***** - departures run from Bubanj to Trg kralja Aleksandar",
+                "****** - departures run from Trg Kralja Aleksandra to Donja Vrežina"
+            ]
+        }
     },
     {
         "id": "3",
         "title": "BRZI BROD - NAS. R. JOVIĆ",
         "info": [
             "* - Polasci označeni zvezdicom kreću iz Suvog Dola",
-            "** -  Polasci označeni zvezdicom svraćaju u Suvi Do",
-            "*** -  Polasci označeni zvezdicom saobraćaju do Velproa",
+            "** - Polasci označeni zvezdicom svraćaju u Suvi Do",
+            "*** - Polasci označeni zvezdicom saobraćaju do Velproa",
             "**** - Trg K.Milana-N.Ratko Jović-Velpro"
         ],
         "weekday": {
@@ -1418,14 +1437,22 @@
                 "23:20"
             ]
         },
-        "type": "BUS"
+        "type": "BUS",
+        "info_translations": {
+            "en": [
+                "* - Departures marked with an asterisk depart from Suvo Dol",
+                "** - Departures marked with an asterisk stop at Suvi Do",
+                "*** - Departures marked with an asterisk travel to Velpro",
+                "**** - Trg K.Milana-N.Ratko Jović-Velpro"
+            ]
+        }
     },
     {
         "id": "4",
         "title": "ČALIJE - BUBANj",
         "info": [
-            "* polasci saobraćaju od Čalija do T.K. Milana",
-            "** polasci saobraćaju od Ureda do Bubnja"
+            "* - polasci saobraćaju od Čalija do T.K. Milana",
+            "** - polasci saobraćaju od Ureda do Bubnja"
         ],
         "weekday": {
             "starting_points_a": [
@@ -1766,14 +1793,20 @@
                 "22:41*"
             ]
         },
-        "type": "BUS"
+        "type": "BUS",
+        "info_translations": {
+            "en": [
+                "* - departures run from Čali to T.K. Milan",
+                "** - departures run from Ured to Bubanj"
+            ]
+        }
     },
     {
         "id": "5",
         "title": "ŽEL. STANICA - BULEVAR SV. PANTELEJMONA",
         "info": [
-            "* saobraća od Železničke stanice do T.K. Aleksandra",
-            "** saobraća od T.K. Aleksandra do Somborske"
+            "* - saobraća od Železničke stanice do T.K. Aleksandra",
+            "** - saobraća od T.K. Aleksandra do Somborske"
         ],
         "weekday": {
             "starting_points_a": [
@@ -2259,16 +2292,22 @@
                 "23:30**"
             ]
         },
-        "type": "BUS"
+        "type": "BUS",
+        "info_translations": {
+            "en": [
+                "* - runs from the Railway Station to T.K. Alexandra",
+                "** - runs from T.K. Aleksandar to Somborska"
+            ]
+        }
     },
     {
         "id": "6",
         "title": "ŽEL. STANICA - DUVANIŠTE - DUVANIŠTE",
         "info": [
-            "*polasci označeni zvezdicom saobraćaju do SKOPSKE",
-            "**saobraća od T.K. Aleksandra do Skopske",
-            "***saobraća od Ž.stanice do Trga kralja Aleksandra",
-            "****saobraća od Trga kralja Aleksandra do Duvaništa"
+            "* - polasci označeni zvezdicom saobraćaju do SKOPSKE",
+            "** - saobraća od T.K. Aleksandra do Skopske",
+            "*** - saobraća od Ž.stanice do Trga kralja Aleksandra",
+            "**** - saobraća od Trga kralja Aleksandra do Duvaništa"
         ],
         "weekday": {
             "starting_points_a": [
@@ -2682,8 +2721,8 @@
                 "22:52",
                 "23:10*",
                 "23:28***",
-                "oo:00* noćni polazak",
-                "o1:00* noćni polazak",
+                "00:00* noćni polazak",
+                "01:00* noćni polazak",
                 "02:00**** noćni polazak"
             ]
         },
@@ -2808,7 +2847,15 @@
                 "23:47"
             ]
         },
-        "type": "BUS"
+        "type": "BUS",
+        "info_translations": {
+            "en": [
+                "* - departures marked with an asterisk travel to SKOPSKA",
+                "** - runs from T.K. Aleksandar to Skopska",
+                "*** - runs from Railway Station to King Aleksandar Square",
+                "**** - runs from Trg Kralja Aleksandra to Duvanište"
+            ]
+        }
     },
     {
         "id": "7",
@@ -2906,9 +2953,9 @@
         "id": "8",
         "title": "GAB. REKA (PASI POLjANA) - N.GROBLjE",
         "info": [
-            "*saobraća od Trga Pavla Stojkovića do Novog groblja",
-            "**saobraća od Gabrovačke reke do Trga Pavla Stojkovića",
-            "S* GABROVAČKA REKA - Pasi Poljana - 8C"
+            "* - saobraća od Trga Pavla Stojkovića do Novog groblja",
+            "** - saobraća od Gabrovačke reke do Trga Pavla Stojkovića",
+            "S* - GABROVAČKA REKA - Pasi Poljana - 8C"
         ],
         "weekday": {
             "starting_points_a": [
@@ -3168,7 +3215,14 @@
                 "23:15S*"
             ]
         },
-        "type": "BUS"
+        "type": "BUS",
+        "info_translations": {
+            "en": [
+                "* - runs from Pavle Stojković Square to Novi Groblje",
+                "** - runs from Gabrovačka reka to Pavle Stojković Square",
+                "S* - GABROVAČKA REKA - Pasi Poljana - 8C"
+            ]
+        }
     },
     {
         "id": "9",
@@ -3502,9 +3556,9 @@
         "id": "10",
         "title": "NASELjE „9. maj“ - EKONOMSKA ŠKOLA",
         "info": [
-            "* Polasci koji su označeni jednom zvezdicom svraćaju u JURU",
-            "**saobraća od Trga Kralja Alekandra do Ekonomske škole",
-            "***saobraća od Naselja „9. Maj“ do Trga Kralja Alekandra"
+            "* - Polasci koji su označeni jednom zvezdicom svraćaju u JURU",
+            "** - saobraća od Trga Kralja Alekandra do Ekonomske škole",
+            "*** - saobraća od Naselja „9. Maj“ do Trga Kralja Alekandra"
         ],
         "weekday": {
             "starting_points_a": [
@@ -3906,13 +3960,20 @@
                 "00:00"
             ]
         },
-        "type": "BUS"
+        "type": "BUS",
+        "info_translations": {
+            "en": [
+                "* - Departures marked with one star stop in JURA",
+                "** - runs from Trg Kralja Aleksandra to the School of Economics",
+                "*** - runs from the Settlement \"9. Maj\" to the Square of King Alexander"
+            ]
+        }
     },
     {
         "id": "11",
         "title": "MEDOŠEVAC - DUVANIŠTE",
         "info": [
-            "*polasci označeni zvezdicom saobraćaju do Trga Pavla Stojkovića"
+            "* - polasci označeni zvezdicom saobraćaju do Trga Pavla Stojkovića"
         ],
         "weekday": {
             "starting_points_a": [
@@ -4030,7 +4091,12 @@
                 "22:30"
             ]
         },
-        "type": "BUS"
+        "type": "BUS",
+        "info_translations": {
+            "en": [
+                "* - departures marked with an asterisk travel to Pavle Stojković Square"
+            ]
+        }
     },
     {
         "id": "12",
@@ -4243,7 +4309,7 @@
         "id": "13",
         "title": "TRG K. ALEKSANDRA - BUL. NEMANjIĆA - DELIJSKI VIS - BUL. NEMANjIĆA",
         "info": [
-            "*- polasci označeni zvezdicom saobraćaju do ulice Marina Držića"
+            "* - polasci označeni zvezdicom saobraćaju do ulice Marina Držića"
         ],
         "weekday": {
             "starting_points_a": [
@@ -4632,13 +4698,18 @@
                 "23:15"
             ]
         },
-        "type": "BUS"
+        "type": "BUS",
+        "info_translations": {
+            "en": [
+                "* - departures marked with an asterisk go to Marina Držića Street"
+            ]
+        }
     },
     {
         "id": "14",
         "title": "NIŠ - Brenica",
         "info": [
-            "*-polasci označeni zvezdicom saobraćaju do Vinika"
+            "* - polasci označeni zvezdicom saobraćaju do Vinika"
         ],
         "weekday": {
             "starting_points_a": [
@@ -4713,7 +4784,12 @@
                 "18:30*"
             ]
         },
-        "type": "BUS"
+        "type": "BUS",
+        "info_translations": {
+            "en": [
+                "* - departures marked with an asterisk travel to Vinik"
+            ]
+        }
     },
     {
         "id": "14A",
@@ -4902,12 +4978,10 @@
         ],
         "weekday": {
             "starting_points_a": [
-                "06:20",
-                "Trasalinije:TrgKraljaAleksandraUjedinitelja,KneginjeLjubice,GeneralaMilojkaLešjanina,VoždaKarađorđa,KraljaStevanaPrvovenčanog,Mostmladosti,Pantelejska,Knjaževačka,Matejevačkiput,DonjiMatejevac,GornjiMatejevac.Upovratkuistomtrasomdoureda."
+                "06:20"
             ],
             "starting_points_b": [
-                "06:50",
-                "Trasalinije:TrgKraljaAleksandraUjedinitelja,KneginjeLjubice,GeneralaMilojkaLešjanina,VoždaKarađorđa,KraljaStevanaPrvovenčanog,Mostmladosti,Pantelejska,Knjaževačka,Matejevačkiput,DonjiMatejevac,GornjiMatejevac.UpovratkuistomtrasomdoUreda."
+                "06:50"
             ]
         },
         "saturday": {
@@ -4918,7 +4992,12 @@
             "starting_points_a": [],
             "starting_points_b": []
         },
-        "type": "BUS"
+        "type": "BUS",
+        "info_translations": {
+            "en": [
+                "Route of the line: Trg Kralja Aleksandra Ujedinitelja, Kneginja Ljubica, General Milojko Lešjanin, Vožda Karađorđ, Kralja Stevana Prvovenčanog, Most mladosti, Pantelejska, Knjaževačka, Matejevački put, Donji Matejevac, Gornji Matejevac. On the way back to the Ured on the same route."
+            ]
+        }
     },
     {
         "id": "16",
@@ -5024,7 +5103,7 @@
         },
         "sunday": {
             "starting_points_a": [
-                "8:00",
+                "08:00",
                 "11:10",
                 "13:00",
                 "16:40",
@@ -5170,7 +5249,12 @@
                 "19:10*"
             ]
         },
-        "type": "BUS"
+        "type": "BUS",
+        "info_translations": {
+            "en": [
+                "* - Departures that stop in Jelasnica"
+            ]
+        }
     },
     {
         "id": "20",
@@ -5216,7 +5300,7 @@
         "id": "20L",
         "title": "NIŠ - Ostrovica",
         "info": [
-            "*-Polazak saobraća u Sićevo naselje"
+            "* - Polazak saobraća u Sićevo naselje"
         ],
         "weekday": {
             "starting_points_a": [
@@ -5266,13 +5350,18 @@
                 "11:30"
             ]
         },
-        "type": "BUS"
+        "type": "BUS",
+        "info_translations": {
+            "en": [
+                "* - Departure runs to Sićevo naselje"
+            ]
+        }
     },
     {
         "id": "21",
         "title": "NIŠ - Gornja Studena",
         "info": [
-            "*-Polazak saobraća preko Proseka"
+            "* - Polazak saobraća preko Proseka"
         ],
         "weekday": {
             "starting_points_a": [
@@ -5288,7 +5377,8 @@
                 "16:00",
                 "17:30",
                 "19:00",
-                "20:10.21:15",
+                "20:10",
+                "21:15",
                 "22:10",
                 "23:35"
             ],
@@ -5351,7 +5441,12 @@
                 "21:00"
             ]
         },
-        "type": "BUS"
+        "type": "BUS",
+        "info_translations": {
+            "en": [
+                "* - Departure runs via Prosek"
+            ]
+        }
     },
     {
         "id": "21L",
@@ -5383,7 +5478,7 @@
         "id": "22",
         "title": "NIŠ - Vukmanovo",
         "info": [
-            "*- preko Berbatova"
+            "* - preko Berbatova"
         ],
         "weekday": {
             "starting_points_a": [
@@ -5411,7 +5506,12 @@
                 "05:20*"
             ]
         },
-        "type": "BUS"
+        "type": "BUS",
+        "info_translations": {
+            "en": [
+                "* - via Berbatovo"
+            ]
+        }
     },
     {
         "id": "23",
@@ -5661,7 +5761,7 @@
         "id": "26",
         "title": "NIŠ - Lalinac",
         "info": [
-            "* polazak svraća u Čokot"
+            "* - polazak svraća u Čokot"
         ],
         "weekday": {
             "starting_points_a": [
@@ -5741,7 +5841,12 @@
                 "22:00"
             ]
         },
-        "type": "BUS"
+        "type": "BUS",
+        "info_translations": {
+            "en": [
+                "* - departure stops in Čokot"
+            ]
+        }
     },
     {
         "id": "27A",
@@ -5949,7 +6054,7 @@
                 "16:00**",
                 "18:00*",
                 "20:10",
-                "21:45\t\t*prolazekrozPopovac"
+                "21:45"
             ],
             "starting_points_b": [
                 "06:20*",
@@ -6016,7 +6121,7 @@
         "id": "29",
         "title": "NIŠ - Toponica - Mezgraja - Gornja Trnava",
         "info": [
-            "*polazak ulazi u selo Mezgraja"
+            "* - polazak ulazi u selo Mezgraja"
         ],
         "weekday": {
             "starting_points_a": [
@@ -6072,7 +6177,12 @@
                 "22:00"
             ]
         },
-        "type": "BUS"
+        "type": "BUS",
+        "info_translations": {
+            "en": [
+                "* - departure enters the village of Mezgraja"
+            ]
+        }
     },
     {
         "id": "29A",
@@ -6112,7 +6222,7 @@
             "starting_points_a": [
                 "06:13",
                 "07:33",
-                "9:50",
+                "09:50",
                 "11:20",
                 "13:40",
                 "16:00",
@@ -6241,10 +6351,11 @@
         "weekday": {
             "starting_points_a": [
                 "06:35",
-                "7:30",
+                "07:30",
                 "10:20",
                 "12:10",
-                "13:25.15:30",
+                "13:25",
+                "15:30",
                 "18:00",
                 "20:30",
                 "23:30"
@@ -6252,7 +6363,7 @@
             "starting_points_b": [
                 "05:20",
                 "07:50",
-                "8:45",
+                "08:45",
                 "11:35",
                 "13:25",
                 "14:35",
@@ -6335,8 +6446,8 @@
         "id": "33",
         "title": "NIŠ - Sečanica",
         "info": [
-            "* saobraća do Supovca",
-            "**saobraća preko Selišta do Supovca"
+            "* - saobraća do Supovca",
+            "** - saobraća preko Selišta do Supovca"
         ],
         "weekday": {
             "starting_points_a": [
@@ -6408,13 +6519,19 @@
                 "16:30"
             ]
         },
-        "type": "BUS"
+        "type": "BUS",
+        "info_translations": {
+            "en": [
+                "* - runs to Supovac",
+                "** - runs via Selište to Supovac"
+            ]
+        }
     },
     {
         "id": "34",
         "title": "AERODROM - A. STANICA - Ž.STANICA - AERODROM - Ž. STANICA - A.STANICA",
         "info": [
-            "34 KRUŽNA LINIJA SMER A",
+            "34 - KRUŽNA LINIJA SMER A",
             "AERODROM-Autobuska stanica-Železnička stanica-Palilulska pijaca-Gradska bolnica-Trošarina-Merkator-Knjaževačka-Tehnički fakulteti-AERODROM",
             "34A",
             "* - polasci u povratku na Aerodrom svraćaju ulicom Vazduhoplovaca prilaz 1 do industrijske zone",
@@ -6646,7 +6763,16 @@
                 "21:20"
             ]
         },
-        "type": "BUS"
+        "type": "BUS",
+        "info_translations": {
+            "en": [
+                "34 - CIRCULAR LINE DIRECTION A",
+                "AERODROM-Autobuska stanica-Železnička stanica-Palilulska pijaca-Gradska bolnica-Trošarina-Merkator-Knjaževačka-Tehnički fakulteti-AERODROM",
+                "34A",
+                "* - departures on the way back to the Airport stop by Vazduhoplovaca Street, approach 1 to the industrial zone",
+                "** - departures departing from the Airport stop at Vazduhoplovaca street, approach 1 to the industrial zone"
+            ]
+        }
     },
     {
         "id": "35",
@@ -6974,8 +7100,8 @@
         "id": "39",
         "title": "NIŠ - Supovac - Sečanica",
         "info": [
-            "*saobraća do Supovca ",
-            "**ulazi u Mezgraju "
+            "* - saobraća do Supovca",
+            "** - ulazi u Mezgraju"
         ],
         "weekday": {
             "starting_points_a": [
@@ -7019,6 +7145,12 @@
                 "16:30"
             ]
         },
-        "type": "BUS"
+        "type": "BUS",
+        "info_translations": {
+            "en": [
+                "* - runs to Supovac",
+                "** - enters Mezgraja"
+            ]
+        }
     }
 ]

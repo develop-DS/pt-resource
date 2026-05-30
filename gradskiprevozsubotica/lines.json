@@ -208,6 +208,12 @@
                 "22:10",
                 "22:40 do M"
             ]
+        },
+        "info_translations": {
+            "en": [
+                "J - Jadran",
+                "M - MEŠC"
+            ]
         }
     },
     {
@@ -421,6 +427,12 @@
                 "22:05",
                 "22:45 do M"
             ]
+        },
+        "info_translations": {
+            "en": [
+                "J - Jadran",
+                "M - MEŠC"
+            ]
         }
     },
     {
@@ -604,6 +616,16 @@
                 "20:40",
                 "22:15"
             ]
+        },
+        "info_translations": {
+            "en": [
+                "P - Patrija",
+                "L - Lifka",
+                "O - Opština",
+                "Đ - runs according to the school calendar",
+                "J - Jadran",
+                "OŠMP - Majšanski put elementary school"
+            ]
         }
     },
     {
@@ -661,6 +683,13 @@
             ],
             "starting_points_b": [
                 "06:00"
+            ]
+        },
+        "info_translations": {
+            "en": [
+                "runs on Saturdays according to the Gordon company work calendar",
+                "PŠ - Polytechnic school",
+                "MG - Matije Gubca"
             ]
         }
     },
@@ -920,6 +949,11 @@
                 "22:03",
                 "22:40 do G"
             ]
+        },
+        "info_translations": {
+            "en": [
+                "G - Garaža"
+            ]
         }
     },
     {
@@ -982,6 +1016,12 @@
             "starting_points_b": [
                 "14:35 od L"
             ]
+        },
+        "info_translations": {
+            "en": [
+                "runs on Saturdays according to the Gordon company work calendar",
+                "L - Lifka"
+            ]
         }
     },
     {
@@ -1012,6 +1052,11 @@
         "sunday": {
             "starting_points_a": [],
             "starting_points_b": []
+        },
+        "info_translations": {
+            "en": [
+                "G - Garaža"
+            ]
         }
     },
     {
@@ -1051,6 +1096,11 @@
             ],
             "starting_points_b": [
                 "14:15"
+            ]
+        },
+        "info_translations": {
+            "en": [
+                "runs on Saturdays according to the Gordon company work calendar"
             ]
         }
     },
@@ -1362,6 +1412,12 @@
                 "12:25",
                 "17:40"
             ]
+        },
+        "info_translations": {
+            "en": [
+                "Č - Čerepeš",
+                "Đ - runs according to the school calendar"
+            ]
         }
     },
     {
@@ -1438,6 +1494,14 @@
                 "08:20",
                 "12:10",
                 "15:20"
+            ]
+        },
+        "info_translations": {
+            "en": [
+                "SV - OŠ Sveti Sava",
+                "Đ - runs according to the school calendar",
+                "B - does not enter Bikovo",
+                "on the return trip, all departures start from Regionalna deponija (Šumski pojas)"
             ]
         }
     },
@@ -1551,6 +1615,11 @@
                 "20:40",
                 "21:40"
             ]
+        },
+        "info_translations": {
+            "en": [
+                "Đ - runs according to the school calendar"
+            ]
         }
     },
     {
@@ -1617,6 +1686,13 @@
                 "08:45",
                 "11:00",
                 "14:00"
+            ]
+        },
+        "info_translations": {
+            "en": [
+                "Č. - Čantavir",
+                "R - runs during school holidays",
+                "Đ - runs according to the school calendar"
             ]
         }
     },
@@ -1716,6 +1792,11 @@
                 "11:45",
                 "17:20",
                 "19:15"
+            ]
+        },
+        "info_translations": {
+            "en": [
+                "Đ - runs according to the school calendar"
             ]
         }
     },
@@ -1841,6 +1922,11 @@
                 "19:20",
                 "21:00"
             ]
+        },
+        "info_translations": {
+            "en": [
+                "Đ - runs according to the school calendar"
+            ]
         }
     },
     {
@@ -1863,6 +1949,11 @@
         "sunday": {
             "starting_points_a": [],
             "starting_points_b": []
+        },
+        "info_translations": {
+            "en": [
+                "The line runs on weekdays only during the school year"
+            ]
         }
     },
     {
@@ -1870,7 +1961,10 @@
         "type": "BUS",
         "title": "SUBOTICA - LJUTOVO - D. TAVANKUT - GORNJI TAVANKUT",
         "info": [
-            "Đ - saobraća prema školskom kalendaru"
+            "Đ - saobraća prema školskom kalendaru",
+            "S - Sajc",
+            "K - Karaula",
+            "SK - Sajc i Karaula"
         ],
         "weekday": {
             "starting_points_a": [
@@ -1959,6 +2053,14 @@
                 "17:20",
                 "19:00"
             ]
+        },
+        "info_translations": {
+            "en": [
+                "Đ - runs according to the school calendar",
+                "S - Sajc",
+                "K - Karaula",
+                "SK - Sajc and Karaula"
+            ]
         }
     },
     {
@@ -2023,6 +2125,11 @@
                 "12:10 NŽ",
                 "17:00",
                 "19:20"
+            ]
+        },
+        "info_translations": {
+            "en": [
+                "Đ - runs according to the school calendar"
             ]
         }
     },
@@ -2089,6 +2196,11 @@
         "sunday": {
             "starting_points_a": [],
             "starting_points_b": []
+        },
+        "info_translations": {
+            "en": [
+                "Đ - runs according to the school calendar"
+            ]
         }
     },
     {
@@ -2127,6 +2239,11 @@
             "starting_points_b": [
                 "08:05",
                 "17:55"
+            ]
+        },
+        "info_translations": {
+            "en": [
+                "Đ - runs according to the school calendar"
             ]
         }
     },
@@ -2204,6 +2321,11 @@
                 "17:15",
                 "18:40"
             ]
+        },
+        "info_translations": {
+            "en": [
+                "Đ - runs according to the school calendar"
+            ]
         }
     },
     {
@@ -2267,6 +2389,12 @@
             "starting_points_b": [
                 "14:55"
             ]
+        },
+        "info_translations": {
+            "en": [
+                "runs on Saturdays according to the Gordon company work calendar",
+                "L - Lifka bus stop"
+            ]
         }
     },
     {
@@ -2295,6 +2423,11 @@
         "sunday": {
             "starting_points_a": [],
             "starting_points_b": []
+        },
+        "info_translations": {
+            "en": [
+                "Đ - runs according to the school calendar"
+            ]
         }
     },
     {
@@ -2323,6 +2456,11 @@
         "sunday": {
             "starting_points_a": [],
             "starting_points_b": []
+        },
+        "info_translations": {
+            "en": [
+                "Đ - runs according to the school calendar"
+            ]
         }
     },
     {
@@ -2348,6 +2486,11 @@
         "sunday": {
             "starting_points_a": [],
             "starting_points_b": []
+        },
+        "info_translations": {
+            "en": [
+                "Đ - runs according to the school calendar"
+            ]
         }
     }
 ]
