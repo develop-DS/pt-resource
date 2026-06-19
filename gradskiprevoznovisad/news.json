@@ -1,17 +1,85 @@
 [
     {
-        "date": "10.06.2026",
-        "title": "Linija 5 - Povratak na redovnu trasu",
+        "date": "19.06.2026",
+        "title": "Linija 8 – Izmena trase zbog održavanja manifestacije „KORZO 2026“",
         "sections": [
             {
-                "text": "Završeni su radovi u Avijatičarskoj ulici, čime su se stekli uslovi da autobusi na liniji broj 5 ponovo saobraćaju redovnom trasom od 10. 05. 2026. godine.",
+                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, privremeno će biti izmenjena trasa linije broj 8 zbog održavanja koncerta klasične muzike „KORZO 2026“ i privremene zabrane saobraćaja u delu Ulice Bate Brkića.",
                 "text_translations": {
-                    "en": "The works in Avijatičarska street have been completed, which has created the conditions for buses on route number 5 to operate again on the regular route from May 10, 2026."
+                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, the route of line number 8 will be temporarily changed due to the classical music concert \"KORZO 2026\" and a temporary ban on traffic in the part of Bata Brkića Street."
+                }
+            },
+            {
+                "text": "Izmena će biti na snazi od 6:00 časova 20. juna do 12:00 časova 22. juna.",
+                "text_translations": {
+                    "en": "The change will be in effect from 6:00 a.m. on June 20 until 12:00 p.m. on June 22."
+                }
+            },
+            {
+                "text": "Na raskrsnici Bulevara Jovana Dučića sa  Bulevarom kneza Miloša autobusi će produžavati pravo Bulevarom Jovana Dučića i dalje nastavljati redovnom trasom.",
+                "text_translations": {
+                    "en": "At the intersection of Jovan Dučić Boulevard with Knez Miloša Boulevard, buses will continue straight along Jovan Dučić Boulevard and continue along the regular route."
+                }
+            },
+            {
+                "text": "Na raskrsnici Bulevara Jovana Dučića sa Ulicom Bate Brkića autobusi će produžavati pravo Bulevarom Jovana Dučića i dalje nastavljati redovnom trasom.",
+                "text_translations": {
+                    "en": "At the intersection of Bulevar Jovan Dučića with Bate Brkića Street, buses will continue straight along Bulevar Jovan Dučića and continue along the regular route."
+                }
+            },
+            {
+                "text": "NA IZMENJENOM DELU TRASE KORISTIĆE SE POSTOJEĆA STAJALIŠTA DRUGIH LINIJA.",
+                "text_translations": {
+                    "en": "EXISTING STOPS OF OTHER LINES WILL BE USED ON THE CHANGED PART OF THE ROUTE."
+                }
+            }
+        ],
+        "url": "http://www.gspns.co.rs/dokumenti/korzo.jpg",
+        "title_translations": {
+            "en": "Line 8 - Route change due to the \"KORZO 2026\" event"
+        }
+    },
+    {
+        "date": "19.06.2026",
+        "title": "Od 22. juna LETNJI red vožnje",
+        "sections": [
+            {
+                "text": "JGSP „Novi Sad“ obaveštava putnike da će od 22. juna 2026. godine  autobusi saobraćati po organizaciji prevoza za letnji period. Novi red vožnje podrazumeva vremenske korekcije autobuskih polazaka,  koje su usklađene sa potrebama korisnika usluga prevoza u narednim mesecima i očekivanim smanjenjem broja putnika zbog korišćenja godišnjih odmora i letnjeg raspusta.",
+                "text_translations": {
+                    "en": "JGSP \"Novi Sad\" informs passengers that from June 22, 2026, buses will run according to the transportation organization for the summer period. The new timetable implies time corrections of bus departures, which are aligned with the needs of users of transportation services in the coming months and the expected decrease in the number of passengers due to the use of annual vacations and summer vacation."
                 }
             }
         ],
         "title_translations": {
-            "en": "Line 5 - Return to the regular route"
+            "en": "From June 22, SUMMER timetable"
+        }
+    },
+    {
+        "date": "18.06.2026",
+        "title": "Linija 52 – Trajna izmena trase kroz Ulicu Dragoslava Srejovića",
+        "sections": [
+            {
+                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, od 22. 06. 2026. godine menja se trasa linije broj 52 (Novi Sad-Veternik).",
+                "text_translations": {
+                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, as of June 22, 2026, the route of line number 52 (Novi Sad-Veternik) is changing."
+                }
+            },
+            {
+                "text": "Ž.stanica-Bulevar oslobođenja-Futoška-Bulevar Evrope-Radomira Raše Radujkova-Bulevar Jovana Dučića-Dragoslava Srejovića-Tome Maksimovića-Kralja Petra prvog-Svetozara Miletića-Vojvode Putnika-Vojvode Bojovića.",
+                "text_translations": {
+                    "en": "Railway Station - Boulevard of Liberation - Futoška - Boulevard of Europe - Radomir Raša Radujkova - Boulevard of Jovan Dučić - Dragoslav Srejović - Tom Maksimović - King Peter the First - Svetozar Miletić - Vojvode Putnik - Vojvode Bojović."
+                }
+            },
+            {
+                "text": "Vojvode Bojovića-Školska-Braće Tokin-Omladinska- Kralja Petra prvog -Tome Maksimovića-Dragoslava Srejovića-Radomira Raše Radujkova-Bulevar Evrope-Futoška-Bulevar oslobođenja-Ž.stanica",
+                "text_translations": {
+                    "en": "Vojvode Bojović-Scholska-Braće Tokin-Youth-Kralja Peter the First-Tome Maksimović-Dragoslav Srejović-Radomir Raša Radujkova-Bulevar Evrope-Futoška-Bulevar oslobođenja-Ž.stanica"
+                }
+            }
+        ],
+        "url": "http://www.gspns.co.rs/dokumenti/srejovica.jpg",
+        "title_translations": {
+            "en": "Line 52 - Permanent change of route through Dragoslav Srejovića Street"
         }
     },
     {
@@ -162,51 +230,6 @@
         ],
         "title_translations": {
             "en": "Lines 11A, 11B - Established traffic through Jovana Cvijić Street"
-        }
-    },
-    {
-        "date": "05.05.2026",
-        "title": "Linija 5 - Privremena izmena trase u Avijatičarskoj ulici od 07.05. do 15.06.2026.",
-        "sections": [
-            {
-                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve (broj:IV-34-2981/2026) određuje se privremena izmena trase autobuske linije broj 5 zbog rekonstrukcije vrelovoda u Avijatičarskoj ulici u Novom Sadu. Izmenjen  režim saobraćanja linije broj 5 važi od 07.05.2026. do 15.06.2026. godine:",
-                "text_translations": {
-                    "en": "In accordance with the decision of the City Administration for Traffic and Roads (number: IV-34-2981/2026), a temporary change of the route of bus line number 5 is determined due to the reconstruction of the hot water pipe in Avijatičarska street in Novi Sad. The modified traffic mode of line number 5 is valid from 05/07/2026. until 15.06.2026. years:"
-                }
-            },
-            {
-                "text": "SMER SA TEMERINSKOG PUTA:",
-                "text_translations": {
-                    "en": "DIRECTION FROM THE TEMERIN ROAD:"
-                }
-            },
-            {
-                "text": "Od raskrsnice ulica Rumenački put i Avijatičarska, autobusi saobraćaju pravo do kružnog toka gde se polukružno okreću i vreme do sledećeg polaska izdržavaju na  stajalištu „Rumenački put-Kružni tok“ (stajalište linija 10,14,14s,15,41,42 i 43).",
-                "text_translations": {
-                    "en": "From the intersection of Rumenački put and Avijatičarska streets, buses run straight to the roundabout where they turn around and wait until the next departure at the \"Rumenački put-Kružni tok\" stop (stop of lines 10, 14, 14s, 15, 41, 42 and 43)."
-                }
-            },
-            {
-                "text": "Na izmenjenom delu trase u smeru sa Temerinskog puta autobusi će, kao svoje poslednje, koristiti redovno stajalište „Rumenački put-Avijatičarska“ (stajalište linija 10,14,14s,15,41,42 i 43)",
-                "text_translations": {
-                    "en": "On the changed part of the route in the direction from Temerinski road, buses will use the regular stop \"Rumenački put-Avijatičarska\" as their last stop (stop of lines 10, 14, 14s, 15, 41, 42 and 43)."
-                }
-            },
-            {
-                "text": "SMER SA AVIJATIČARSKOG NASELJA:",
-                "text_translations": {
-                    "en": "DIRECTION FROM THE AVIATION SETTLEMENT:"
-                }
-            },
-            {
-                "text": "Autobusi linije 5 po redu vožnje saobraćaju od stajališta „Rumenački put-Kružni tok“ i kao prvo stajalište sa Avijatičarskog naselja, koriste redovno stajalište „Rumenački put-Avijataičarska“ (stajalište linija 5,10,14,14s,15,41,42 i 43) i dalje nastavljaju da saobraćaju redovnom trasom.",
-                "text_translations": {
-                    "en": "According to the timetable, buses of line 5 operate from the stop \"Rumenački put-Kružni tok\" and as the first stop from Avijatičarski settlement, they use the regular stop \"Rumenački put-Avijataičarska\" (stop of lines 5, 10, 14, 14s, 15, 41, 42 and 43) and continue to operate on the regular route."
-                }
-            }
-        ],
-        "title_translations": {
-            "en": "Line 5 - Temporary change of route in Avijatičarska street from 07.05. until 15.06.2026."
         }
     },
     {

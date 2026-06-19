@@ -1,5 +1,69 @@
 [
     {
+        "date": "19.06.2026.",
+        "title": "Privremene izmene trase na linijama 2 i 9",
+        "sections": [
+            {
+                "text": "Poštovani korisnici,",
+                "text_translations": {
+                    "en": "Dear users,"
+                }
+            },
+            {
+                "text": "Obaveštavamo vas da će zbog izvođenja radova doći do privremene izmene trase kretanja autobusa na linijima 2 i 9 u oba smera, u periodu od 22.06.2026. godine do 06.07.2026. godine.",
+                "text_translations": {
+                    "en": "We would like to inform you that due to the works, there will be a temporary change in the bus route on lines 2 and 9 in both directions, in the period from June 22, 2026. until July 6, 2026. year."
+                }
+            },
+            {
+                "text": "Smer Hale sportova – Srpski Šor",
+                "text_translations": {
+                    "en": "The direction of the Sports Hall - Serbian Shore"
+                }
+            },
+            {
+                "text": "Nakon stajališta Hala sportova, autobusi će nastavljati pravo ulicom Ferenca Sepa, zatim skretati levo na trasu linije 8, odnosno saobraćati ulicom Jovana Mikića do ulice Bračke, gde će skretanjem ulevo preko nadvožnjaka biti vraćeni na redovnu trasu u ulici Proleterskih brigada.",
+                "text_translations": {
+                    "en": "After the Hala Sports stop, the buses will continue straight along Ferenc Sep Street, then turn left onto Route 8, i.e. drive along Jovana Mikić Street to Bračka Street, where by turning left over the overpass, they will be returned to the regular route in Proleterski Brigada Street."
+                }
+            },
+            {
+                "text": "Smer Srpski Šor – Hale sportova",
+                "text_translations": {
+                    "en": "Direction Srpski Shor - Sports hall"
+                }
+            },
+            {
+                "text": "Autobusi će saobraćati istom izmenjenom trasom kao i u odlaznom smeru.",
+                "text_translations": {
+                    "en": "Buses will run on the same modified route as in the outgoing direction."
+                }
+            },
+            {
+                "text": "Stajališta koja će za vreme trajanja radova biti van upotrebe: • Dudova šuma – Groblje • Bazeni • Somborska • Drvara Subotica • Padejska",
+                "text_translations": {
+                    "en": "Stops that will be out of use for the duration of the works: • Dudova forest - Cemetery • Pools • Somborska • Drvara Subotica • Padejska"
+                }
+            },
+            {
+                "text": "Na delu trase kojim saobraća linija 8, sva postojeća stajališta biće u funkciji i mogu se koristiti za ulazak i izlazak putnika. Takođe, biće uspostavljeno privremeno autobusko stajalište kod nadvožnjaka u ulici Proleterskih brigada.",
+                "text_translations": {
+                    "en": "On the part of the route served by line 8, all existing stops will be in operation and can be used for boarding and alighting passengers. Also, a temporary bus stop will be established near the overpass in Proleterskih brigada Street."
+                }
+            },
+            {
+                "text": "Molimo putnike za razumevanje i da prilikom planiranja putovanja uzmu u obzir navedene izmene. Trans-jug d.o.o. PJ Su-trans Subotica",
+                "text_translations": {
+                    "en": "We ask travelers for their understanding and to take the mentioned changes into account when planning their trip. Trans-jug d.o.o. PJ Su-trans Subotica"
+                }
+            }
+        ],
+        "url": "https://subus.rs/sr/servisne-informacije/clanak/privremene-izmene-trase-na-linijama-2-i-9/106",
+        "title_translations": {
+            "en": "Temporary route changes on lines 2 and 9"
+        }
+    },
+    {
         "date": "22.12.2025.",
         "title": "Obaveštenje za korisnike javnog prevoza",
         "sections": [
