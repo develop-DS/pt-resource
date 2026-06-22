@@ -1,5 +1,20 @@
 [
     {
+        "date": "21.06.2026",
+        "title": "Linija 14 - Povratak na redovnu trasu ",
+        "sections": [
+            {
+                "text": "Završeni su radovi na Sajlovu, čime su se stekli uslovi za povratak autobusa  linije 14 na redovnu trasu.",
+                "text_translations": {
+                    "en": "The works on Sajlovo have been completed, which created the conditions for the return of bus line 14 to the regular route."
+                }
+            }
+        ],
+        "title_translations": {
+            "en": "Line 14 - Return to the regular route"
+        }
+    },
+    {
         "date": "19.06.2026",
         "title": "Linija 8 – Izmena trase zbog održavanja manifestacije „KORZO 2026“",
         "sections": [
@@ -606,21 +621,6 @@
         "url": "http://www.gspns.co.rs/dokumenti/mapapetrovaradin_0502.pdf",
         "title_translations": {
             "en": "Timetable for non-scheduled departures from Petrovaradin - Center railway station from 14 January."
-        }
-    },
-    {
-        "date": "20.11.2024",
-        "title": "Linija 9A privremeno preusmerena do okretnice u Petrovaradinu",
-        "sections": [
-            {
-                "text": "Zbog preusmeravanja železničkog saobraćaja na Železničku stanicu Petrovaradin, obaveštavamo putnike da je zbog rasterećenja postojećih linija autobusa, linija 9A u smeru od Alibegovca produžena do petrovaradinske okretnice linija 3 i 9, odakle dalje saobraća redovnom trasom do Novog naselja. \n\nPodsećamo putnike da je na relaciji Šafarikova ulica - Železnička stanica Petrovaradin uvedena vanredna linija na kojoj je prevoz BESPLATAN, te da su građanima pored gradskih linija za prevoz do Železničke stanice Petrovaradin na raspolaganju i međumesne linije 60, 61, 62 i 63 koje kreću sa Međumesne autobuske stanice.",
-                "text_translations": {
-                    "en": "Due to the rerouting of railway traffic to the Petrovaradin Railway Station, we inform passengers that due to the relief of existing bus lines, line 9A in the direction of Alibegovec has been extended to the Petrovaradin turnpike of lines 3 and 9, from where it runs on a regular route to New Settlement. \n\nWe remind passengers that an extraordinary line has been introduced on the route Šafarikova Street - Petrovaradin Railway Station, where transport is FREE, and that in addition to the city lines for transport to the Petrovaradin Railway Station, intercity lines 60, 61, 62 and 63 are available to citizens, which depart from the Intercity Bus Station."
-                }
-            }
-        ],
-        "title_translations": {
-            "en": "Line 9A temporarily diverted to the turnpike in Petrovaradin"
         }
     }
 ]
