@@ -1,5 +1,32 @@
 [
     {
+        "date": "09.07.2026",
+        "title": "Linija 74 – Izmena trase na Popovici 10.07.",
+        "sections": [
+            {
+                "text": "Zbog izvođenja radova na uklanjanju stabala na Fruškogorskom putu (od autobuske okretnice do kućnog broja 303), u petak 10. 07. 2026. godine u periodu od 7:30 do 13:00 časova privremeno će biti skraćena trasa linije broj 74.",
+                "text_translations": {
+                    "en": "Due to the works on the removal of trees on the Fruškogorska road (from the bus interchange to house number 303), on Friday, July 10, 2026, between 7:30 a.m. and 1:00 p.m., route number 74 will be temporarily shortened."
+                }
+            },
+            {
+                "text": "Autobusi će saobraćati do raskrsnice Fruškogorski put/Majdanska.",
+                "text_translations": {
+                    "en": "Buses will run to the Fruškogorski put/Majdanska intersection."
+                }
+            },
+            {
+                "text": "Autobusi će po aktuelnom redu vožnje saobraćati od raskrsnice Fruškogorski put/Majdanska.",
+                "text_translations": {
+                    "en": "Buses will run according to the current schedule from the Fruškogorski put/Majdanska intersection."
+                }
+            }
+        ],
+        "title_translations": {
+            "en": "Line 74 – Change of route on Popovica 10.07."
+        }
+    },
+    {
         "date": "06.07.2026",
         "title": "Linije 1, 4, 8, 9, 9A, 11A, 11B, 12, 18A, 18B, 60, 61, 62, 63, 64, 69, 71VMČ – Privremena izmena trase u Stražilovskoj ulici",
         "sections": [
@@ -199,21 +226,6 @@
         "url": "http://www.gspns.co.rs/dokumenti/strazilovska.jpg",
         "title_translations": {
             "en": "Lines 1, 4, 8, 9, 9A, 11A, 11B, 12, 18A, 18B, 60, 61, 62, 63, 64, 69, 71 VMČ - Temporary change of route in Stražilovska Street"
-        }
-    },
-    {
-        "date": "03.07.2026",
-        "title": "Linije 1, 17, 21, 22, 23, 24, 30 – Povratak na redovnu trasu ",
-        "sections": [
-            {
-                "text": "Završeni su radovi u Kisačkoj ulici, čime su se stekli uslovi za povratak autobusa na linijama 1, 17, 21, 22, 23, 24 i 30 na redovne trase.",
-                "text_translations": {
-                    "en": "The works in Kisačka street have been completed, which created the conditions for the return of buses on lines 1, 17, 21, 22, 23, 24 and 30 to regular routes."
-                }
-            }
-        ],
-        "title_translations": {
-            "en": "Lines 1, 17, 21, 22, 23, 24, 30 - Return to the regular route"
         }
     },
     {
@@ -561,93 +573,6 @@
         }
     },
     {
-        "date": "27.03.2026",
-        "title": "Linije 1, 17, 21, 22, 23, 24, 30 – Izmena trase u Kisačkoj ulici",
-        "sections": [
-            {
-                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, zbog radova u Kisačkoj ulici od 23. 03. privremeno će biti izmenjene trase autobuskih linija 1, 17, 21, 22, 23, 24 i 30.",
-                "text_translations": {
-                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, the routes of bus lines 1, 17, 21, 22, 23, 24 and 30 will be temporarily changed due to works in Kisačka Street from 03/23."
-                }
-            },
-            {
-                "text": "LINIJE 1, 17",
-                "text_translations": {
-                    "en": "LINES 1, 17"
-                }
-            },
-            {
-                "text": "Smer A",
-                "text_translations": {
-                    "en": "Direction A"
-                }
-            },
-            {
-                "text": "Linije 1, 17: Autobusi će iz Kisačke ulice skretati desno na Bulevar Jaše Tomića, levo na Bulevar oslobođenja, levo na Bulevar kralja Petra I, zatim desno u Kisačku ulicu, odakle će nastavljati redovnom trasom.",
-                "text_translations": {
-                    "en": "Lines 1, 17: From Kisačka Street, buses will turn right onto Jaša Tomića Boulevard, left onto Oslobođenja Boulevard, left onto Kralja Petar I Boulevard, then right into Kisačka Street, from where they will continue on the regular route."
-                }
-            },
-            {
-                "text": "Smer B",
-                "text_translations": {
-                    "en": "Direction B"
-                }
-            },
-            {
-                "text": "Linija 1: Iz Kisačke ulice autobusi će skretati levo na Bulevar kralja Petra I, desno na Bulevar oslobođenja, desno na Bulevar Jaše Tomića, zatim levo u Kisačku ulicu, odakle će nastavljati redovnom trasom.",
-                "text_translations": {
-                    "en": "Line 1: From Kisačka Street, buses will turn left onto Kralja Petra I Boulevard, right onto Oslobođenja Boulevard, right onto Jaša Tomić Boulevard, then left into Kisačka Street, from where they will continue on their regular route."
-                }
-            },
-            {
-                "text": "Linija 17: Redovna trasa.",
-                "text_translations": {
-                    "en": "Line 17: Regular route."
-                }
-            },
-            {
-                "text": "LINIJE 21, 22, 23, 24, 30",
-                "text_translations": {
-                    "en": "LINES 21, 22, 23, 24, 30"
-                }
-            },
-            {
-                "text": "Smer A",
-                "text_translations": {
-                    "en": "Direction A"
-                }
-            },
-            {
-                "text": "Autobusi će saobraćati pravo Bulevarom oslobođenja, skretati levo na Bulevar kralja Petra I, zatim desno u  Kisačku ulicu, levo u Temerinsku ulicu  i dalje nastavljati redovnom trasom.",
-                "text_translations": {
-                    "en": "Buses will drive straight along Liberation Boulevard, turn left onto Kralja Petar I Boulevard, then right into Kisačka Street, left into Temerinska Street and continue along the regular route."
-                }
-            },
-            {
-                "text": "Smer B",
-                "text_translations": {
-                    "en": "Direction B"
-                }
-            },
-            {
-                "text": "Iz Kisačke ulice autobusi će skretati levo na Bulevar kralja Petra I, desno na Bulevar oslobođenja i dalje nastavljati pravo do svog poslednjeg stajališta.",
-                "text_translations": {
-                    "en": "From Kisacka Street, buses will turn left onto Kralja Petra I Boulevard, right onto Oslobodenja Boulevard and continue straight to their last stop."
-                }
-            },
-            {
-                "text": "Na linijama 22, 23 i 24 polasci koji saobraćaju do centra, do Zone sever i Zone jug (oba smera), neće menjati trasu kretanja",
-                "text_translations": {
-                    "en": "On lines 22, 23 and 24, departures that travel to the center, to Zone North and Zone South (both directions), will not change their route"
-                }
-            }
-        ],
-        "title_translations": {
-            "en": "Lines 1, 17, 21, 22, 23, 24, 30 - Change of route in Kisacka Street"
-        }
-    },
-    {
         "date": "25.02.2026",
         "title": "Linije 10 i 24 – Privremena izmena režima saobraćaja od 26. 02.",
         "sections": [
@@ -818,6 +743,21 @@
         "url": "http://www.gspns.co.rs/dokumenti/mapapetrovaradin_0502.pdf",
         "title_translations": {
             "en": "Timetable for non-scheduled departures from Petrovaradin - Center railway station from 14 January."
+        }
+    },
+    {
+        "date": "20.11.2024",
+        "title": "Linija 9A privremeno preusmerena do okretnice u Petrovaradinu",
+        "sections": [
+            {
+                "text": "Zbog preusmeravanja železničkog saobraćaja na Železničku stanicu Petrovaradin, obaveštavamo putnike da je zbog rasterećenja postojećih linija autobusa, linija 9A u smeru od Alibegovca produžena do petrovaradinske okretnice linija 3 i 9, odakle dalje saobraća redovnom trasom do Novog naselja. \n\nPodsećamo putnike da je na relaciji Šafarikova ulica - Železnička stanica Petrovaradin uvedena vanredna linija na kojoj je prevoz BESPLATAN, te da su građanima pored gradskih linija za prevoz do Železničke stanice Petrovaradin na raspolaganju i međumesne linije 60, 61, 62 i 63 koje kreću sa Međumesne autobuske stanice.",
+                "text_translations": {
+                    "en": "Due to the rerouting of railway traffic to the Petrovaradin Railway Station, we inform passengers that due to the relief of existing bus lines, line 9A in the direction of Alibegovec has been extended to the Petrovaradin turnpike of lines 3 and 9, from where it runs on a regular route to New Settlement. \n\nWe remind passengers that an extraordinary line has been introduced on the route Šafarikova Street - Petrovaradin Railway Station, where transport is FREE, and that in addition to the city lines for transport to the Petrovaradin Railway Station, intercity lines 60, 61, 62 and 63 are available to citizens, which depart from the Intercity Bus Station."
+                }
+            }
+        ],
+        "title_translations": {
+            "en": "Line 9A temporarily diverted to the turnpike in Petrovaradin"
         }
     }
 ]

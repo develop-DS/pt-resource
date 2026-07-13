@@ -200,167 +200,174 @@
     },
     {
       "id": "_2",
-      "label": "Kovilj - Laze Kostića - Stevana Pešića",
+      "label": "Kovilj - Stevana Pešića - Jovice Pavlice",
       "longitude": 20.033591,
       "latitude": 45.219451,
-      "expected_arrival_seconds": 90
+      "expected_arrival_seconds": 64
     },
     {
       "id": "_3",
       "label": "Kovilj - Stevana Pešića - Lale Novosela",
       "longitude": 20.025438,
       "latitude": 45.22069,
-      "expected_arrival_seconds": 180
+      "expected_arrival_seconds": 122
     },
     {
       "id": "_4",
-      "label": "Kovilj - Centar",
-      "longitude": 20.0210002715,
-      "latitude": 45.2248524735,
-      "expected_arrival_seconds": 270
+      "label": "Kovilj - Laze Kostića - Stevana Pešića",
+      "longitude": 20.020095,
+      "latitude": 45.221491,
+      "expected_arrival_seconds": 165
     },
     {
       "id": "_5",
-      "label": "Kovilj - Laze Kostića - Osnovna Škola",
-      "longitude": 20.0234782608,
-      "latitude": 45.2308145679,
-      "expected_arrival_seconds": 360
+      "label": "Kovilj - Centar",
+      "longitude": 20.0210002715,
+      "latitude": 45.2248524735,
+      "expected_arrival_seconds": 204
     },
     {
       "id": "_6",
-      "label": "Kovilj - Laze Kostića - Toze Markovića",
-      "longitude": 20.0276966986,
-      "latitude": 45.2351773498,
-      "expected_arrival_seconds": 450
+      "label": "Kovilj - Laze Kostića - Osnovna Škola",
+      "longitude": 20.0234782608,
+      "latitude": 45.2308145679,
+      "expected_arrival_seconds": 264
     },
     {
       "id": "_7",
-      "label": "Kovilj - Ulaz",
-      "longitude": 20.0283089757,
-      "latitude": 45.2378216977,
-      "expected_arrival_seconds": 540
+      "label": "Kovilj - Laze Kostića - Toze Markovića",
+      "longitude": 20.0276966986,
+      "latitude": 45.2351773498,
+      "expected_arrival_seconds": 318
     },
     {
       "id": "_8",
-      "label": "Kovilj - Branka Bajića - Poljoprivredna Zadruga",
-      "longitude": 20.0240126707,
-      "latitude": 45.2429228057,
-      "expected_arrival_seconds": 630
+      "label": "Kovilj - Ulaz",
+      "longitude": 20.0283089757,
+      "latitude": 45.2378216977,
+      "expected_arrival_seconds": 352
     },
     {
       "id": "_9",
-      "label": "Raskrsnica Budisava - Kovilj - Titel",
-      "longitude": 20.0112875057,
-      "latitude": 45.2794507099,
-      "expected_arrival_seconds": 720
+      "label": "Kovilj - Branka Bajića - Poljoprivredna Zadruga",
+      "longitude": 20.0240126707,
+      "latitude": 45.2429228057,
+      "expected_arrival_seconds": 410
     },
     {
       "id": "_10",
-      "label": "Budisava - Izlaz",
-      "longitude": 20.0004166877,
-      "latitude": 45.2802629078,
-      "expected_arrival_seconds": 810
+      "label": "Raskrsnica Budisava - Kovilj - Titel",
+      "longitude": 20.0112875057,
+      "latitude": 45.2794507099,
+      "expected_arrival_seconds": 698
     },
     {
       "id": "_11",
-      "label": "Budisava - Centar",
-      "longitude": 19.9918237241,
-      "latitude": 45.2808805972,
-      "expected_arrival_seconds": 900
+      "label": "Budisava - Izlaz",
+      "longitude": 20.0004166877,
+      "latitude": 45.2802629078,
+      "expected_arrival_seconds": 768
     },
     {
       "id": "_12",
-      "label": "Budisava - Ulaz",
-      "longitude": 19.9831579365,
-      "latitude": 45.2815364692,
-      "expected_arrival_seconds": 990
+      "label": "Budisava - Centar",
+      "longitude": 19.9918237241,
+      "latitude": 45.2808805972,
+      "expected_arrival_seconds": 827
     },
     {
       "id": "_13",
-      "label": "Kać - Izlaz",
-      "longitude": 19.9561497848,
-      "latitude": 45.2939174167,
-      "expected_arrival_seconds": 1080
+      "label": "Budisava - Ulaz",
+      "longitude": 19.9831579365,
+      "latitude": 45.2815364692,
+      "expected_arrival_seconds": 887
     },
     {
       "id": "_14",
-      "label": "Kać - Kralja Petra I 55",
-      "longitude": 19.9465126777,
-      "latitude": 45.2971199977,
-      "expected_arrival_seconds": 1170
+      "label": "Kać - Izlaz",
+      "longitude": 19.9561497848,
+      "latitude": 45.2939174167,
+      "expected_arrival_seconds": 1066
     },
     {
       "id": "_15",
-      "label": "Kać - Centar",
-      "longitude": 19.9385582837,
-      "latitude": 45.300283342,
-      "expected_arrival_seconds": 1260
+      "label": "Kać - Kralja Petra I 55",
+      "longitude": 19.9465126777,
+      "latitude": 45.2971199977,
+      "expected_arrival_seconds": 1136
     },
     {
       "id": "_16",
-      "label": "Kać - Svetosavska 62a",
-      "longitude": 19.9299340635,
-      "latitude": 45.3032820269,
-      "expected_arrival_seconds": 1350
+      "label": "Kać - Centar",
+      "longitude": 19.9385582837,
+      "latitude": 45.300283342,
+      "expected_arrival_seconds": 1197
     },
     {
       "id": "_17",
-      "label": "Kać - Ekonomija",
-      "longitude": 19.9233073502,
-      "latitude": 45.3048958017,
-      "expected_arrival_seconds": 1440
+      "label": "Kać - Svetosavska 62a",
+      "longitude": 19.9299340635,
+      "latitude": 45.3032820269,
+      "expected_arrival_seconds": 1261
     },
     {
       "id": "_18",
-      "label": "Put Ns - Zr - Autosalon Kia",
-      "longitude": 19.8969594834,
-      "latitude": 45.3093188521,
-      "expected_arrival_seconds": 1530
+      "label": "Kać - Ekonomija",
+      "longitude": 19.9233073502,
+      "latitude": 45.3048958017,
+      "expected_arrival_seconds": 1312
     },
     {
       "id": "_19",
-      "label": "Industrijska Zona Veliki Rit",
-      "longitude": 19.8557151201,
-      "latitude": 45.2983090783,
-      "expected_arrival_seconds": 1620
+      "label": "Put Ns - Zr - Autosalon Kia",
+      "longitude": 19.8969594834,
+      "latitude": 45.3093188521,
+      "expected_arrival_seconds": 1465
     },
     {
       "id": "_20",
-      "label": "Naftagas",
-      "longitude": 19.8506658724,
-      "latitude": 45.2807541595,
-      "expected_arrival_seconds": 1710
+      "label": "Industrijska Zona Veliki Rit",
+      "longitude": 19.8557151201,
+      "latitude": 45.2983090783,
+      "expected_arrival_seconds": 1705
     },
     {
       "id": "_21",
-      "label": "Temerinska - Partizanska",
-      "longitude": 19.8421271396,
-      "latitude": 45.2696690854,
-      "expected_arrival_seconds": 1800
+      "label": "Naftagas",
+      "longitude": 19.8506658724,
+      "latitude": 45.2807541595,
+      "expected_arrival_seconds": 1850
     },
     {
       "id": "_22",
-      "label": "Kisačka - Temerinska",
-      "longitude": 19.8423966225,
-      "latitude": 45.2608711975,
-      "expected_arrival_seconds": 1890
+      "label": "Temerinska - Partizanska",
+      "longitude": 19.8421271396,
+      "latitude": 45.2696690854,
+      "expected_arrival_seconds": 1956
     },
     {
       "id": "_23",
-      "label": "Kisačka - Jovana Cvijića",
-      "longitude": 19.8364405487,
-      "latitude": 45.2652106325,
-      "expected_arrival_seconds": 1980
+      "label": "Kisačka - Temerinska",
+      "longitude": 19.8423966225,
+      "latitude": 45.2608711975,
+      "expected_arrival_seconds": 2035
     },
     {
       "id": "_24",
-      "label": "Železnička Stanica - Dolasci",
-      "longitude": 19.830132455,
-      "latitude": 45.2650202834,
-      "expected_arrival_seconds": 2070
+      "label": "Kisačka - Jovana Cvijića",
+      "longitude": 19.8364405487,
+      "latitude": 45.2652106325,
+      "expected_arrival_seconds": 2094
     },
     {
       "id": "_25",
+      "label": "Železnička Stanica - Dolasci",
+      "longitude": 19.830132455,
+      "latitude": 45.2650202834,
+      "expected_arrival_seconds": 2141
+    },
+    {
+      "id": "_26",
       "label": "Dolazni Peron",
       "longitude": 19.830784,
       "latitude": 45.26467,

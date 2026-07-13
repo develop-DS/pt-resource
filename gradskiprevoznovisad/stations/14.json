@@ -12,146 +12,139 @@
       "label": "Bul. Oslobođenja - Futoška Pijaca",
       "longitude": 19.8368000824,
       "latitude": 45.2525198464,
-      "expected_arrival_seconds": 79
+      "expected_arrival_seconds": 132
     },
     {
       "id": "_3",
       "label": "Bul. Oslobođenja - Pokrajinski SUP",
       "longitude": 19.8351029309,
       "latitude": 45.255629856,
-      "expected_arrival_seconds": 142
+      "expected_arrival_seconds": 241
     },
     {
       "id": "_4",
       "label": "Bul. Oslobođenja - Kralja Petra I",
       "longitude": 19.8318492939,
       "latitude": 45.2613766166,
-      "expected_arrival_seconds": 258
+      "expected_arrival_seconds": 429
     },
     {
       "id": "_5",
       "label": "Bul. Jaše Tomića - Železnička Stanica",
       "longitude": 19.8291811843,
       "latitude": 45.2640665923,
-      "expected_arrival_seconds": 320
+      "expected_arrival_seconds": 536
     },
     {
       "id": "_6",
       "label": "Bul. Jaše Tomića - Železnički Park",
       "longitude": 19.8231059398,
       "latitude": 45.2640771252,
-      "expected_arrival_seconds": 401
+      "expected_arrival_seconds": 671
     },
     {
       "id": "_7",
       "label": "Rumenačka - Bul. Jaše Tomića",
       "longitude": 19.8182127414,
       "latitude": 45.2633439588,
-      "expected_arrival_seconds": 467
+      "expected_arrival_seconds": 785
     },
     {
       "id": "_8",
       "label": "Rumenačka - Radničko Igralište",
       "longitude": 19.8148147237,
       "latitude": 45.2660444179,
-      "expected_arrival_seconds": 535
+      "expected_arrival_seconds": 901
     },
     {
       "id": "_9",
       "label": "Rumenački Put - Benzinska Pumpa",
       "longitude": 19.8121474846,
       "latitude": 45.2681204351,
-      "expected_arrival_seconds": 588
+      "expected_arrival_seconds": 994
     },
     {
       "id": "_10",
       "label": "Rumenački Put - Avijatičarska",
       "longitude": 19.8079135339,
       "latitude": 45.2712216153,
-      "expected_arrival_seconds": 669
+      "expected_arrival_seconds": 1130
     },
     {
       "id": "_11",
       "label": "Rumenački Put - Kružni Tok",
       "longitude": 19.7998638594,
       "latitude": 45.2759310771,
-      "expected_arrival_seconds": 808
+      "expected_arrival_seconds": 1351
     },
     {
       "id": "_12",
       "label": "Rumenački Put - Gradsko Groblje",
       "longitude": 19.7937338396,
       "latitude": 45.2785344884,
-      "expected_arrival_seconds": 903
+      "expected_arrival_seconds": 1508
     },
     {
       "id": "_13",
       "label": "Sajlovo I",
       "longitude": 19.7896525102,
       "latitude": 45.2778935404,
-      "expected_arrival_seconds": 958
+      "expected_arrival_seconds": 1605
     },
     {
       "id": "_14",
       "label": "Sajlovo II",
       "longitude": 19.7865491723,
       "latitude": 45.2751092444,
-      "expected_arrival_seconds": 1025
+      "expected_arrival_seconds": 1719
     },
     {
       "id": "_15",
       "label": "Sajlovo III",
       "longitude": 19.7830517183,
       "latitude": 45.2719896416,
-      "expected_arrival_seconds": 1100
+      "expected_arrival_seconds": 1846
+    },
+    {
+      "id": "_16",
+      "label": "Donje Sajlovo - Doktora Miloša Krne",
+      "longitude": 19.78086,
+      "latitude": 45.270245,
+      "expected_arrival_seconds": 1926
     },
     {
       "id": "_17",
-      "label": "Veternik - Kralja Petra Prvog Naspram Br. 24",
-      "longitude": 19.7638405755272,
-      "latitude": 45.2558385846175,
-      "expected_arrival_seconds": 1597
+      "label": "Veternik - Kralja Petra Prvog Br. 97",
+      "longitude": 19.7704969152352,
+      "latitude": 45.2609518927876,
+      "expected_arrival_seconds": 2272
     },
     {
       "id": "_18",
       "label": "Veternik - Savke Subotić",
       "longitude": 19.76754,
       "latitude": 45.258963,
-      "expected_arrival_seconds": 1692
+      "expected_arrival_seconds": 2368
     },
     {
       "id": "_19",
-      "label": "Veternik - Kralja Petra Prvog Br. 97",
-      "longitude": 19.7704969152352,
-      "latitude": 45.2609518927876,
-      "expected_arrival_seconds": 1759
+      "label": "Veternik - Kralja Petra Prvog Naspram Br. 24",
+      "longitude": 19.7638405755272,
+      "latitude": 45.2558385846175,
+      "expected_arrival_seconds": 2497
     },
     {
       "id": "_20",
-      "label": "Veternik - Centar",
-      "longitude": 19.7570349816,
-      "latitude": 45.2502026841,
-      "expected_arrival_seconds": 2093
+      "label": "Veternik - Kralja Petra Prvog 9A",
+      "longitude": 19.7597206841289,
+      "latitude": 45.2524693028534,
+      "expected_arrival_seconds": 2636
     },
     {
       "id": "_21",
       "label": "Veternik - Pravoslavna Crkva - Okretnica",
       "longitude": 19.75592,
       "latitude": 45.248742,
-      "expected_arrival_seconds": 2132
-    },
-    {
-      "id": "_22",
-      "label": "Veternik - Kralja Petra Prvog 9A",
-      "longitude": 19.7597206841289,
-      "latitude": 45.2524693028534,
-      "expected_arrival_seconds": 2239
-    },
-    {
-      "id": "_23",
-      "label": "Donje Sajlovo - Doktora Miloša Krne",
-      "longitude": 19.78086,
-      "latitude": 45.270245,
       "expected_arrival_seconds": 2780
     }
   ],
@@ -164,112 +157,137 @@
       "expected_arrival_seconds": 0
     },
     {
-      "id": "_",
-      "label": "RUMENAČKI PUT - KRUŽNI TOK",
-      "longitude": 19.8018176756,
-      "latitude": 45.2747023047
+      "id": "_2",
+      "label": "Veternik - Centar",
+      "longitude": 19.7570349816,
+      "latitude": 45.2502026841,
+      "expected_arrival_seconds": 62
     },
     {
-      "id": "_",
-      "label": "VETERNIK - STADION",
+      "id": "_3",
+      "label": "Veternik - Stadion",
       "longitude": 19.7606394502,
-      "latitude": 45.2531656254
+      "latitude": 45.2531656254,
+      "expected_arrival_seconds": 188
     },
     {
-      "id": "_",
-      "label": "VETERNIK - KRALJA PETRA PRVOG NSPRAM BR. 101",
-      "longitude": 19.7708375111044,
-      "latitude": 45.2611073303386
-    },
-    {
-      "id": "_",
-      "label": "VETERNIK - VASE EŠKIĆEVIĆA",
-      "longitude": 19.767468,
-      "latitude": 45.258778
-    },
-    {
-      "id": "_",
-      "label": "BULEVAR OSLOBOĐENJA - BULEVAR KRALJA PETRA PRVOG",
-      "longitude": 19.8322222835,
-      "latitude": 45.2601777537
-    },
-    {
-      "id": "_",
-      "label": "BULEVAR OSLOBOÐENJA - NOVOSADSKOG SAJMA",
-      "longitude": 19.8353175469,
-      "latitude": 45.2545506888
-    },
-    {
-      "id": "_",
-      "label": "USPENSKA - POZORIŠNI TRG",
-      "longitude": 19.8422463011,
-      "latitude": 45.2548499029
-    },
-    {
-      "id": "_",
-      "label": "JEVREJSKA - BULEVAR OSLOBOĐENJA",
-      "longitude": 19.8377609655,
-      "latitude": 45.2522080286
-    },
-    {
-      "id": "_",
-      "label": "BULEVAR JAŠE TOMIĆA - PARISKE KOMUNE",
-      "longitude": 19.8246328903,
-      "latitude": 45.2637816804
-    },
-    {
-      "id": "_",
-      "label": "BULEVAR OSLOBOĐENJA - BULEVAR JAŠE TOMIĆA",
-      "longitude": 19.8304838937,
-      "latitude": 45.263325649
-    },
-    {
-      "id": "_",
-      "label": "RUMENAČKI PUT - AVIJATIČARSKA",
-      "longitude": 19.8089150153,
-      "latitude": 45.2702133075
-    },
-    {
-      "id": "_",
-      "label": "RUMENAČKA - KORNELIJA STANKOVIĆA",
-      "longitude": 19.8174016008,
-      "latitude": 45.2636389127
-    },
-    {
-      "id": "_",
-      "label": "VETERNIK - TOME MAKSIMOVIĆA - STADION",
+      "id": "_4",
+      "label": "Veternik - Tome Maksimovića - Stadion",
       "longitude": 19.7620929551699,
-      "latitude": 45.2543231427185
+      "latitude": 45.2543231427185,
+      "expected_arrival_seconds": 246
     },
     {
-      "id": "_",
-      "label": "DONJE SAJLOVO - SAJLOVO 9",
-      "longitude": 19.78288,
-      "latitude": 45.271724
-    },
-    {
-      "id": "_",
-      "label": "DONJE SAJLOVO - STEVANA NEŠTICKOG",
-      "longitude": 19.787356,
-      "latitude": 45.275676
-    },
-    {
-      "id": "_",
-      "label": "VETERNIK - ZRMANJSKA",
+      "id": "_5",
+      "label": "Veternik - Zrmanjska",
       "longitude": 19.765075,
-      "latitude": 45.256777
+      "latitude": 45.256777,
+      "expected_arrival_seconds": 353
     },
     {
-      "id": "_",
-      "label": "RUMENAČKI PUT - GRADSKO GROBLJE",
+      "id": "_6",
+      "label": "Veternik - Vase Eškićevića",
+      "longitude": 19.767468,
+      "latitude": 45.258778,
+      "expected_arrival_seconds": 442
+    },
+    {
+      "id": "_7",
+      "label": "Veternik - Kralja Petra Prvog Naspram Br. 101",
+      "longitude": 19.7708375111044,
+      "latitude": 45.2611073303386,
+      "expected_arrival_seconds": 551
+    },
+    {
+      "id": "_8",
+      "label": "Donje Sajlovo - Sajlovo 9",
+      "longitude": 19.78288,
+      "latitude": 45.271724,
+      "expected_arrival_seconds": 951
+    },
+    {
+      "id": "_9",
+      "label": "Donje Sajlovo - Stevana Neštickog",
+      "longitude": 19.787356,
+      "latitude": 45.275676,
+      "expected_arrival_seconds": 1109
+    },
+    {
+      "id": "_10",
+      "label": "Rumenački Put - Gradsko Groblje",
       "longitude": 19.7944074552,
-      "latitude": 45.2782101032
+      "latitude": 45.2782101032,
+      "expected_arrival_seconds": 1282
     },
     {
-      "id": "_",
-      "label": "RUMENAČKA - POLICIJSKA STANICA",
+      "id": "_11",
+      "label": "Rumenački Put - Kružni Tok",
+      "longitude": 19.8018176756,
+      "latitude": 45.2747023047,
+      "expected_arrival_seconds": 1475
+    },
+    {
+      "id": "_12",
+      "label": "Rumenački Put - Avijatičarska",
+      "longitude": 19.8089150153,
+      "latitude": 45.2702133075,
+      "expected_arrival_seconds": 1681
+    },
+    {
+      "id": "_13",
+      "label": "Rumenačka - Policijska Stanica",
       "longitude": 19.8130603695,
-      "latitude": 45.2670846403
+      "latitude": 45.2670846403,
+      "expected_arrival_seconds": 1817
+    },
+    {
+      "id": "_14",
+      "label": "Rumenačka - Kornelija Stankovića",
+      "longitude": 19.8174016008,
+      "latitude": 45.2636389127,
+      "expected_arrival_seconds": 1963
+    },
+    {
+      "id": "_15",
+      "label": "Bulevar Jaše Tomića - Pariske Komune",
+      "longitude": 19.8246328903,
+      "latitude": 45.2637816804,
+      "expected_arrival_seconds": 2122
+    },
+    {
+      "id": "_16",
+      "label": "Bulevar Oslobođenja - Bulevar Jaše Tomića",
+      "longitude": 19.8304838937,
+      "latitude": 45.263325649,
+      "expected_arrival_seconds": 2254
+    },
+    {
+      "id": "_17",
+      "label": "Bulevar Oslobođenja - Bulevar Kralja Petra Prvog",
+      "longitude": 19.8322222835,
+      "latitude": 45.2601777537,
+      "expected_arrival_seconds": 2365
+    },
+    {
+      "id": "_18",
+      "label": "Bulevar Oslobođenja - Novosadskog Sajma",
+      "longitude": 19.8353175469,
+      "latitude": 45.2545506888,
+      "expected_arrival_seconds": 2551
+    },
+    {
+      "id": "_19",
+      "label": "Jevrejska - Bulevar Oslobođenja",
+      "longitude": 19.8377609655,
+      "latitude": 45.2522080286,
+      "expected_arrival_seconds": 2648
+    },
+    {
+      "id": "_20",
+      "label": "Uspenska - Pozorišni Trg",
+      "longitude": 19.8422463011,
+      "latitude": 45.2548499029,
+      "expected_arrival_seconds": 2780
     }
   ]
 }
