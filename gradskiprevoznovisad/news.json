@@ -1,231 +1,38 @@
 [
     {
-        "date": "09.07.2026",
-        "title": "Linija 74 – Izmena trase na Popovici 10.07.",
+        "date": "17.07.2026",
+        "title": "Linije 60, 61, 62, 63, 64, 69, 71VMČ - Povratak na redovne trase u Stražilovskoj od 17. 06.",
         "sections": [
             {
-                "text": "Zbog izvođenja radova na uklanjanju stabala na Fruškogorskom putu (od autobuske okretnice do kućnog broja 303), u petak 10. 07. 2026. godine u periodu od 7:30 do 13:00 časova privremeno će biti skraćena trasa linije broj 74.",
+                "text": "Autobusi na linijama 60, 61, 62, 63, 64, 69 i 71VMČ ponovo saobraćaju redovnim trasama kroz Stražilovsku ulicu od 17. 06. 2026. godine.",
                 "text_translations": {
-                    "en": "Due to the works on the removal of trees on the Fruškogorska road (from the bus interchange to house number 303), on Friday, July 10, 2026, between 7:30 a.m. and 1:00 p.m., route number 74 will be temporarily shortened."
-                }
-            },
-            {
-                "text": "Autobusi će saobraćati do raskrsnice Fruškogorski put/Majdanska.",
-                "text_translations": {
-                    "en": "Buses will run to the Fruškogorski put/Majdanska intersection."
-                }
-            },
-            {
-                "text": "Autobusi će po aktuelnom redu vožnje saobraćati od raskrsnice Fruškogorski put/Majdanska.",
-                "text_translations": {
-                    "en": "Buses will run according to the current schedule from the Fruškogorski put/Majdanska intersection."
+                    "en": "Buses on lines 60, 61, 62, 63, 64, 69 and 71VMČ will once again operate on regular routes through Stražilovska Street from June 17, 2026."
                 }
             }
         ],
         "title_translations": {
-            "en": "Line 74 – Change of route on Popovica 10.07."
+            "en": "Lines 60, 61, 62, 63, 64, 69, 71 VMČ - Return to regular routes in Stražilovska from June 17."
         }
     },
     {
-        "date": "06.07.2026",
-        "title": "Linije 1, 4, 8, 9, 9A, 11A, 11B, 12, 18A, 18B, 60, 61, 62, 63, 64, 69, 71VMČ – Privremena izmena trase u Stražilovskoj ulici",
+        "date": "16.07.2026",
+        "title": "Linije 1, 4, 8, 9, 9A, 11A, 11B, 12, 18A, 18B– Povratak na redovne trase u Stražilovskoj ulici 16.07.",
         "sections": [
             {
-                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, od 07. do 18. 07. 2026 godine privremeno se menjaju trase autobuskih linija broj 1, 4, 8, 9, 9A, 11A, 11B, 12, 18A, 18B, 60, 61, 62, 63, 64, 69 i 71 VMČ zbog radova na rekonstrukciji kolektora kanalizacione mreže u Stražilovskoj ulici.",
+                "text": "Završeni su radovi u Stražilovskoj ulici čime su se stekli uslovi za povratak autobusa na linijama 1, 4, 8, 9, 9A, 11A, 11B,12, 18A i 18B na redovne trase od 20 časova dana 16.07.",
                 "text_translations": {
-                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, from July 7 to July 18, 2026, the routes of bus lines number 1, 4, 8, 9, 9A, 11A, 11B, 12, 18A, 18B, 60, 61, 62, 63, 64, 69 and 71 will be temporarily changed due to the reconstruction works collector of the sewer network in Stražilovska street."
+                    "en": "The works in Stražilovska Street have been completed, which created the conditions for the return of buses on lines 1, 4, 8, 9, 9A, 11A, 11B, 12, 18A and 18B to regular routes from 20:00 on 16.07."
                 }
             },
             {
-                "text": "LINIJE 1, 8",
+                "text": "Autobusi na prigradskim linijama 60, 61, 62, 63, 64, 69 i 71 VMČ saobraćaće redovnim trasama od 17. 07.",
                 "text_translations": {
-                    "en": "LINES 1, 8"
-                }
-            },
-            {
-                "text": "Na raskrsnici Bulevar Mihajla Pupina/Ulica Žarka Zrenjanina autobusi produžavaju pravo Bulevarom Mihajla Pupina, skreću desno na Trg neznanog junaka, desno na Kej žrtava racije, desno na Bulevar cara Lazara do raskrsnice sa Fruškogorskom ulicom i dalje nastavljaju redovnom trasom.",
-                "text_translations": {
-                    "en": "At the intersection of Bulevar Mihajla Pupina/Ulica Žarka Zrenjanina, buses continue straight along Bulevar Mihajla Pupina, turn right onto Trg neznano junaka, right onto Kej žrtiva racija, right onto Bulevar Tsara Lazar to the intersection with Fruškogorska Street and continue along the regular route."
-                }
-            },
-            {
-                "text": "Na raskrsnici Fruškogorska/Bulevar cara Lazara (kružni tok) autobusi skreću levo na Bulevar cara Lazara, desno na Bulevar oslobođenja, desno u Jevrejsku ulicu, levo u Uspensku ulicu i dalje nastavljaju redovnom trasom kretanja.",
-                "text_translations": {
-                    "en": "At the intersection of Fruškogorska/Cara Lazar Boulevard (roundabout), buses turn left onto Cara Lazar Boulevard, right onto Liberation Boulevard, right into Jevrejska ulica, left into Uspenska ulica and continue on their regular route."
-                }
-            },
-            {
-                "text": "NA IZMENJENOM DELU TRASE  KORISTE SE POSTOJEĆA STAJALIŠTA DRUGIH LINIJA.",
-                "text_translations": {
-                    "en": "EXISTING STOPS OF OTHER LINES ARE USED ON THE CHANGED PART OF THE ROUTE."
-                }
-            },
-            {
-                "text": "LINIJA 4",
-                "text_translations": {
-                    "en": "LINE 4"
-                }
-            },
-            {
-                "text": "Na raskrsnici Bulevar Mihajla Pupina/Ulica Žarka Zrenjanina autobusi produžavaju pravo Bulevarom Mihajla Pupina, skreću desno na Trg neznanog junaka, desno na Kej žrtava racije, desno na Bulevar cara Lazara do raskrsnice sa Fruškogorskom ulicom i dalje nastavljaju redovnom trasom.",
-                "text_translations": {
-                    "en": "At the intersection of Bulevar Mihajla Pupina/Ulica Žarka Zrenjanina, buses continue straight along Bulevar Mihajla Pupina, turn right onto Trg neznano junaka, right onto Kej žrtiva racija, right onto Bulevar Tsara Lazar to the intersection with Fruškogorska Street and continue along the regular route."
-                }
-            },
-            {
-                "text": "Na raskrsnici Fruškogorska ulica/Bulevar cara Lazara (kružni tok) autobusi skreću levo na Bulevar cara Lazara, desno na Bulevar oslobođenja i dalje nastavljaju pravo do redovne trase kretanja.",
-                "text_translations": {
-                    "en": "At the intersection of Fruškogorska ulica/Bulevar cara Lazara (roundabout), buses turn left onto Bulevar cara Lazara, right onto Bulevar oslobođenja and continue straight to the regular route."
-                }
-            },
-            {
-                "text": "NA IZMENJENOM DELU TRASE  KORISTE SE POSTOJEĆA STAJALIŠTA DRUGIH LINIJA.",
-                "text_translations": {
-                    "en": "EXISTING STOPS OF OTHER LINES ARE USED ON THE CHANGED PART OF THE ROUTE."
-                }
-            },
-            {
-                "text": "LINIJE 9, 9A",
-                "text_translations": {
-                    "en": "LINES 9, 9A"
-                }
-            },
-            {
-                "text": "Autobusi skreću desno iz Ulice Žarka Zrenjanina u Ulicu Vojvođanskih brigada, zatim desno u Ulicu Maksima Gorkog, levo na Bulevar oslobođenja, desno na Bulevar cara Lazara i dalje nastavljaju redovnom trasom kretanja.",
-                "text_translations": {
-                    "en": "Buses turn right from Žarka Zrenjanina Street to Vojvođanskih Brigada Street, then right to Maksima Gorki Street, left to Liberation Boulevard, right to Cara Lazar Boulevard and continue on their regular route."
-                }
-            },
-            {
-                "text": "Na raskrsnice Bulevar cara Lazara/Stražilovska ulica autobusi produžavaju pravo Bulevarom cara Lazara, skreću levo na Kej žrtava racije, levo na Trg neznanog junaka do Bulevara Mihajla Pupina i dalje nastavljaju redovnom trasom kretanja (preko Varadinskog mosta).",
-                "text_translations": {
-                    "en": "At the intersection of Tsar Lazar Boulevard/Stražilovska Street, buses continue straight along Tsar Lazar Boulevard, turn left onto the Quay of the Raid Victims, left onto Trg Neznogo Junaka to Mihajlo Pupin Boulevard and continue along the regular route (over the Varadin Bridge)."
-                }
-            },
-            {
-                "text": "NA IZMENJENOM DELU TRASE  KORISTE SE POSTOJEĆA STAJALIŠTA DRUGIH LINIJA I PRIVREMENA STAJALIŠTA NA BULEVAR CARA LAZARA (ISPRED TEHNOLOŠKOG FAKULTETA) I NA KEJU ŽRTAVA RACIJE/MAKSIMA GORKOG.",
-                "text_translations": {
-                    "en": "EXISTING STOPS OF OTHER LINES AND TEMPORARY STOPS ON BULEVAR CARA LAZARA (IN FRONT OF THE FACULTY OF TECHNOLOGY) AND ON QUAY VICTIM OF THE RAID/MAXIM GORKOGI ARE USED ON THE MODIFIED SECTION OF THE ROUTE."
-                }
-            },
-            {
-                "text": "LINIJA 11A",
-                "text_translations": {
-                    "en": "LINE 11A"
-                }
-            },
-            {
-                "text": "Na raskrsnici Bulevar cara Lazara/Stražilovska ulica autobusi produžavaju pravo Bulevarom cara Lazara, nastavljaju Kejom žrtava racije, Beogradskim kejom i dalje saobraćaju redovnom trasom.",
-                "text_translations": {
-                    "en": "At the intersection of Bulevar cara Lazara/Stražilovska ulica, the buses continue straight along Bulevar cara Lazara, continue along Quay of the victims of the raid, Belgrade quay and continue on the regular route."
-                }
-            },
-            {
-                "text": "NA IZMENJENOM DELU TRASE  KORISTE SE POSTOJEĆA STAJALIŠTA DRUGIH LINIJA I PRIVREMENA STAJALIŠTA NA BULEVARU CARA LAZARA (ISPRED TEHNOLOŠKOG FAKULTETA) I NA KEJU ŽRTAVA RACIJE/MAKSIMA GORKOG.",
-                "text_translations": {
-                    "en": "ON THE MODIFIED PART OF THE ROUTE THE EXISTING STOPS OF OTHER LINES AND TEMPORARY STOPS ON CARA LAZARA BOULEVARD (IN FRONT OF THE FACULTY OF TECHNOLOGY) AND ON THE QUAY OF THE VICTIM OF THE RAID/MAXIM GORKO will be used."
-                }
-            },
-            {
-                "text": "LINIJA 11B",
-                "text_translations": {
-                    "en": "LINE 11B"
-                }
-            },
-            {
-                "text": "Autobusi do Ulice Marka Miljanova saobraćaju redovnom trasom, zatim ulaze u kružni tok, izlaze na drugom izlazu, produžavaju pravo preko drumsko-železničkog mosta, skreću desno na Kej skojevaca, desno na Varadinski most, produžavaju pravo Bulevarom Mihajla Pupina, skreću levo u Ulicu Žarka Zrenjanina, desno u Ulicu Vojvođanskih brigada, desno u Ulicu Maksima Gorkog, levo na Bulevar oslobođenja, desno u Ulicu Narodnog fronta i dalje nastavljaju redovnom trasom kretanja.",
-                "text_translations": {
-                    "en": "Buses to Marka Miljanova Street travel along the regular route, then enter the roundabout, exit at the second exit, continue straight across the road-railway bridge, turn right onto Kei Skojevac, right onto Varadinski Bridge, continue straight onto Mihajla Pupin Boulevard, turn left into Žarka Zrenjanina Street, right into Vojvođanskih Brigada Street, right into Maksima Gorkog Street, left onto Bulevar oslobodenja, right into People's Front Street continues along the regular route."
-                }
-            },
-            {
-                "text": "NA IZMENJENOM DELU TRASE  KORISTE SE POSTOJEĆA STAJALIŠTA DRUGIH LINIJA.",
-                "text_translations": {
-                    "en": "EXISTING STOPS OF OTHER LINES ARE USED ON THE CHANGED PART OF THE ROUTE."
-                }
-            },
-            {
-                "text": "LINIJA 12",
-                "text_translations": {
-                    "en": "LINE 12"
-                }
-            },
-            {
-                "text": "Autobusi saobraćaju redovnom trasom.",
-                "text_translations": {
-                    "en": "Buses operate on a regular route."
-                }
-            },
-            {
-                "text": "Na raskrsnici Bulevar oslobođenja/Ulica Maksima Gorkog autobusi produžavaju pravo Bulevarom oslobođenja, skreću desno u Jevrejsku ulicu, levo u Uspensku ulicu i dalje nastavljaju redovnom trasom.",
-                "text_translations": {
-                    "en": "At the intersection of Boulevard of Liberation/Ulica Maksima Gorki, buses continue straight along Boulevard of Liberation, turn right into Jevrejska Street, left into Uspenska Street, and continue along the regular route."
-                }
-            },
-            {
-                "text": "NA IZMENJENOM DELU TRASE  KORISTE SE POSTOJEĆA STAJALIŠTA DRUGIH LINIJA.",
-                "text_translations": {
-                    "en": "EXISTING STOPS OF OTHER LINES ARE USED ON THE CHANGED PART OF THE ROUTE."
-                }
-            },
-            {
-                "text": "LINIJE 18A, 18B",
-                "text_translations": {
-                    "en": "LINES 18A, 18B"
-                }
-            },
-            {
-                "text": "Autobusi iz Ulice Žarka Zrenjanina skreću desno u Ulicu Vojvođanskih brigada, desno u Ulicu Maksima Gorkog, levo na Bulevar oslobođenja, desno na Bulevar cara Lazara i dalje nastavljaju redovnom trasom kretanja.",
-                "text_translations": {
-                    "en": "Buses from Žarka Zrenjanina Street turn right into Vojvođanskih Brigada Street, right into Maksima Gorki Street, left onto Liberation Boulevard, right onto Tsar Lazar Boulevard and continue on their regular route."
-                }
-            },
-            {
-                "text": "Na raskrsnici Bulevar cara Lazara/Bulevar oslobođenja autobusi skreću levo na Bulevar oslobođenja, desno u Jevrejsku ulicu, levo u Uspensku ulicu do Šafarikove ulice i dalje nastavljaju redovnom trasom kretanja.",
-                "text_translations": {
-                    "en": "At the intersection Bulevar cara Lazara/Bulevar oslobodenja, buses turn left onto Bulevar oslobodenja, right into Jevrejska ulica, left into Uspenska ulica to Šafarikova ulica and continue along the regular route."
-                }
-            },
-            {
-                "text": "NA IZMENJENOM DELU TRASE  KORISTE SE POSTOJEĆA STAJALIŠTA DRUGIH LINIJA.",
-                "text_translations": {
-                    "en": "EXISTING STOPS OF OTHER LINES ARE USED ON THE CHANGED PART OF THE ROUTE."
-                }
-            },
-            {
-                "text": "LINIJE 60, 61, 62, 63, 64, 69, 71VMČ",
-                "text_translations": {
-                    "en": "LINES 60, 61, 62, 63, 64, 69, 71 VMČ"
-                }
-            },
-            {
-                "text": "Autobusi sa Bulevara oslobođenja skreću levo u Jevrejsku ulicu  zatim desno na Bulevar Mihajla Pupina i dalje nastavljaju pravo redovnom trasom.",
-                "text_translations": {
-                    "en": "Buses from Liberation Boulevard turn left into Jevrejska Street, then right onto Mihajla Pupina Boulevard and continue straight along the regular route."
-                }
-            },
-            {
-                "text": "(NAVEDENOM TRASOM AUTOBUSI NA LINIJI 71 VMČ SAOBRAĆAĆE SAMO NA POLASKU U 21:05)",
-                "text_translations": {
-                    "en": "(BUSES ON LINE 71 VMCH WILL OPERATE ON THIS ROUTE ONLY FOR THE DEPARTURE AT 21:05)"
-                }
-            },
-            {
-                "text": "Redovna trasa.",
-                "text_translations": {
-                    "en": "Regular route."
-                }
-            },
-            {
-                "text": "NA IZMENJENOM DELU TRASE  KORISTE SE POSTOJEĆA STAJALIŠTA DRUGIH LINIJA.",
-                "text_translations": {
-                    "en": "EXISTING STOPS OF OTHER LINES ARE USED ON THE CHANGED PART OF THE ROUTE."
+                    "en": "Buses on suburban lines 60, 61, 62, 63, 64, 69 and 71 of the VMČ will operate on regular routes from 07.17."
                 }
             }
         ],
-        "url": "http://www.gspns.co.rs/dokumenti/strazilovska.jpg",
         "title_translations": {
-            "en": "Lines 1, 4, 8, 9, 9A, 11A, 11B, 12, 18A, 18B, 60, 61, 62, 63, 64, 69, 71 VMČ - Temporary change of route in Stražilovska Street"
+            "en": "Lines 1, 4, 8, 9, 9A, 11A, 11B, 12, 18A, 18B – Return to regular routes in Stražilovska Street 16.07."
         }
     },
     {
@@ -350,28 +157,6 @@
         }
     },
     {
-        "date": "02.06.2026",
-        "title": "Linija 43 – Ukida se stara okretnica u Stepanovićevu",
-        "sections": [
-            {
-                "text": "Nakon izgradnje dva nova stajališta u Ulici Stepe Stepanovića u Stepanovićevu, autobusi na liniji 43 (Novi Sad-Stepanovićevo) od 03. 06. 2026. godine neće koristiti staru okretnicu.",
-                "text_translations": {
-                    "en": "After the construction of two new stops in Stepe Stepanovića Street in Stepanovićevo, buses on route 43 (Novi Sad-Stepanovićevo) will not use the old turnstile from June 3, 2026."
-                }
-            },
-            {
-                "text": "Nova stajališta su izgrađena u blizini stare okretnice (jedno stajalište za smer iz Novog Sada, a drugo za smer iz Stepanovićeva).",
-                "text_translations": {
-                    "en": "New stops were built near the old turnpike (one stop for the direction from Novi Sad, and the other for the direction from Stepanovićevo)."
-                }
-            }
-        ],
-        "url": "http://www.gspns.co.rs/dokumenti/stepanovicevo.jpg",
-        "title_translations": {
-            "en": "Line 43 – The old turnpike in Stepanovićevo is being abolished"
-        }
-    },
-    {
         "date": "18.05.2026",
         "title": "Linije 6, 11B – Privremena izmena trase na keju (druga faza radova)",
         "sections": [
@@ -433,27 +218,6 @@
         "url": "http://www.gspns.co.rs/dokumenti/kej1805.jpg",
         "title_translations": {
             "en": "Lines 6, 11B – Temporary change of route on the quay (second phase of works)"
-        }
-    },
-    {
-        "date": "15.05.2026",
-        "title": "Linije 11A, 11B - Uspostavljen saobraćaj kroz Ulicu Jovana Cvijića",
-        "sections": [
-            {
-                "text": "Autobusi na linijama 11a i 11b ponovo saobraćaju redovnom trasom kroz Ulicu Jovana Cvijića od 12:00 časova, dana 15. maja.",
-                "text_translations": {
-                    "en": "Buses on lines 11a and 11b are running again on the regular route through Jovana Cvijić Street from 12:00 on May 15."
-                }
-            },
-            {
-                "text": "Ostale linije 1, 17, 21, 22, 23, 24, 30  i dalje saobraćaju izmenjenim trasama u navedenom delu grada zbog radova u Kisačkoj ulici.",
-                "text_translations": {
-                    "en": "Other lines 1, 17, 21, 22, 23, 24, 30 continue to operate on modified routes in the mentioned part of the city due to the works in Kisačka street."
-                }
-            }
-        ],
-        "title_translations": {
-            "en": "Lines 11A, 11B - Established traffic through Jovana Cvijić Street"
         }
     },
     {
@@ -570,94 +334,6 @@
         "url": "http://www.gspns.co.rs/dokumenti/podbara0304.jpg",
         "title_translations": {
             "en": "Lines 6, 11A, 11B – Change of the route on the Belgrade Quay from April 6 (1st phase)"
-        }
-    },
-    {
-        "date": "25.02.2026",
-        "title": "Linije 10 i 24 – Privremena izmena režima saobraćaja od 26. 02.",
-        "sections": [
-            {
-                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, od 26. 02. do 10. 04. 2026. godine menja se trasa autobuske linije broj 10 (Centar – Industrijska zona JUG) i linije 24 na polasku 04:45NKA, zbog privremene zabrane odvijanja saobraćaja na Putu Novosadskog partizanskog odreda, u delu od Privrednikove ulice do Ulice dr Nikole Krstića.",
-                "text_translations": {
-                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, from February 26 to April 10, 2026, the route of bus line number 10 (Center - Industrial zone SOUTH) and line 24 departing at 04:45 NKA will be changed, due to the temporary ban on traffic on the Novi Sad Partisan Detachment Road, in the part from Privrednikova Street to Dr. Nikola Krstić Street."
-                }
-            },
-            {
-                "text": "LINIJA 10 (Centar – Industrijska zona JUG)",
-                "text_translations": {
-                    "en": "LINE 10 (Center - Industrial zone SOUTH)"
-                }
-            },
-            {
-                "text": "SMER A",
-                "text_translations": {
-                    "en": "Direction A"
-                }
-            },
-            {
-                "text": "Sa Puta Novosadskog partizanskog odreda autobusi skreću desno u Ulicu dr Nikole Krstića, levo u Privrednikovu ulicu i dalje nastavljaju redovnom trasom.",
-                "text_translations": {
-                    "en": "From the Novi Sad Partisan Detachment Road, buses turn right into Dr. Nikola Krstić Street, left into Privrednikova Street and continue on their regular route."
-                }
-            },
-            {
-                "text": "Na izmenjenom delu trase koristi se privremeno stajalište u Ulici dr Nikole Krstića, odmah nakon desnog skretanja sa Puta Novosadskog partizanskog odreda.",
-                "text_translations": {
-                    "en": "On the changed part of the route, a temporary stop is used in Ulica Dr. Nikola Krstića, immediately after the right turn from the road of the Novi Sad Partisan Detachment."
-                }
-            },
-            {
-                "text": "Sa Puta Novosadskog partizanskog odreda autobusi skreću desno u Ulicu dr Nikole Krstića, zatim desno u Privrednikovu ulicu i dalje nastavljaju redovnom trasom.",
-                "text_translations": {
-                    "en": "From the Novi Sad Partisan Detachment Road, buses turn right into Dr. Nikola Krstić Street, then right into Privrednikova Street and continue on the regular route."
-                }
-            },
-            {
-                "text": "Na izmenjenom delu trase koristi se privremeno stajalište u Ulici dr Nikole Krstića, odmah nakon desnog skretanja sa Puta Novosadskog partizanskog odreda.",
-                "text_translations": {
-                    "en": "On the changed part of the route, a temporary stop is used in Ulica Dr. Nikola Krstića, immediately after the right turn from the road of the Novi Sad Partisan Detachment."
-                }
-            },
-            {
-                "text": "SMER B",
-                "text_translations": {
-                    "en": "Direction B"
-                }
-            },
-            {
-                "text": "Na okretnici ispred ALBUS-a autobusi produžavaju pravo Privrednikovom ulicom, skreću desno u Ulicu dr Nikole Krstića, levo na Put Novosadskog partizanskog odreda i dalje nastavljaju redovnom trasom.",
-                "text_translations": {
-                    "en": "At the turnpike in front of ALBUS, buses continue straight along Privrednikova Street, turn right onto Dr. Nikola Krstić Street, left onto Put Novosadski Partisanski Odet Road and continue along the regular route."
-                }
-            },
-            {
-                "text": "Na izmenjenom delu trase koristi se privremeno stajalište u Privrednikovoj ulici (ujedno i početno stajalište), odmah nakon raskrsnice sa  Putem Novosadskog partizanskog odreda, kao i privremeno stajalište u Ulici dr Nikole Krstića, neposredno pre levog skretanja na Put Novosadskog partizanskog odreda.",
-                "text_translations": {
-                    "en": "On the changed part of the route, a temporary stop is used in Privrednikova Street (also the starting stop), immediately after the intersection with the Novi Sad Partisan Detachment Road, as well as a temporary stop in Dr. Nikola Krstić Street, just before the left turn onto the Novi Sad Partisan Detachment Road."
-                }
-            },
-            {
-                "text": "NA SVIM NAVEDENIM POLASCIMA PRIVREMENO SE UKIDAJU STAJALIŠTA „PUT NOVOSADSKOG PARTIZANSKOG ODREDA – STANDARD“ (u oba smera)  I  „PUT NOVOSADSKOG PARTIZANSKOG ODREDA – ALBUS“.",
-                "text_translations": {
-                    "en": "ON ALL THE ABOVE DEPARTURES, THE STOPS \"ROAD OF THE NOVI SAD PARTISAN DETACHMENT - STANDARD\" (in both directions) AND \"ROAD OF THE NOV SADIAN PARTISAN DETACHMENT - ALBUS\" ARE TEMPORARILY ABOLISHED."
-                }
-            },
-            {
-                "text": "LINIJA 24 Kovilj – Zona SEVER",
-                "text_translations": {
-                    "en": "LINE 24 Kovilj - Zone SEVER"
-                }
-            },
-            {
-                "text": "Autobusi iz Privrednikove ulice ne skreću na Put Novosadskog partizanskog odreda, već nastavljaju pravo Privrednikovom ulicom do poslednjeg, privremenog stajališta sa desne strane, koje se nalazi odmah nakon raskrsnice sa Putem Novosadskog partizanskog odreda, a u povratku nastavljaju pravo Privrednikovom ulicom, zatim skreću desno u Ulicu dr Nikole Krstića, levo na Put Novosadskog partizanskog odreda i dalje nastavljaju redovnom trasom.",
-                "text_translations": {
-                    "en": "Buses from Privrednikova Street do not turn onto the Road of the Novi Sad Partisan Detachment, but continue straight along Privrednikova Street to the last, temporary stop on the right, which is located immediately after the intersection with the Road of the Novi Sad Partisan Detachment, and on the way back they continue straight along Privrednikova Street, then turn right into Dr. Nikola Krstić Street, left onto the Road of the Novi Sad Partisan Detachment and continue along the regular route."
-                }
-            }
-        ],
-        "url": "http://www.gspns.co.rs/dokumenti/mapa250226.jpg",
-        "title_translations": {
-            "en": "Lines 10 and 24 - Temporary change of traffic regime from February 26."
         }
     },
     {
