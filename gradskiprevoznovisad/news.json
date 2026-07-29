@@ -1,5 +1,41 @@
 [
     {
+        "date": "27.07.2026",
+        "title": "PRIVREMENO UKIDANJE STAJALIŠTA",
+        "sections": [
+            {
+                "text": "Prema rešenju Gradske Uprave za saobraćaj i puteve IV-34-4498/26-2 od 21.07.2026.god usled radova na Bulevaru cara Lazara u Novom Sadu, određuje se privremeno ukidanje stajališta „Bulevar cara Lazara – Dom zdravlja“ koje koriste linije 9, 9a, 12, 13 i 18b u smeru ka Bulevaru oslobođenja.",
+                "text_translations": {
+                    "en": "According to the decision of the City Administration for Traffic and Roads IV-34-4498/26-2 dated 21/07/2026 due to the works on Tsar Lazar Boulevard in Novi Sad, the stop \"Cara Lazar Boulevard - Dom zdravlja\" used by lines 9, 9a, 12, 13 and 18b in the direction of Liberation Boulevard is determined to be temporarily cancelled."
+                }
+            },
+            {
+                "text": "Stajalište će biti ukinuto u periodu od 27.07.2026. do 10.08.2026.god.",
+                "text_translations": {
+                    "en": "The stop will be abolished in the period from July 27, 2026. until August 10, 2026."
+                }
+            }
+        ],
+        "title_translations": {
+            "en": "TEMPORARY TERMINATION OF STOPS"
+        }
+    },
+    {
+        "date": "21.07.2026",
+        "title": "Linija 16 – Izmena vremena polaska",
+        "sections": [
+            {
+                "text": "Obaveštavamo korisnike usluge prevoza na liniji 16 da je zbog usklađivanja sa potrebama građana polazak u 15:10 časova u aktuelnom redu vožnje pomeren na 16:10 časova.",
+                "text_translations": {
+                    "en": "We inform the users of the transportation service on line 16 that, due to compliance with the needs of citizens, the departure at 3:10 p.m. in the current timetable has been moved to 4:10 p.m."
+                }
+            }
+        ],
+        "title_translations": {
+            "en": "Line 16 – Change of departure time"
+        }
+    },
+    {
         "date": "17.07.2026",
         "title": "Linije 60, 61, 62, 63, 64, 69, 71VMČ - Povratak na redovne trase u Stražilovskoj od 17. 06.",
         "sections": [
