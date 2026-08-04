@@ -1232,7 +1232,7 @@
         "type": "TRA",
         "title": "Pristanište - Trg Slavija - Gospodarska mehana",
         "info": [
-            "Važi od: 28-06-2026 do 01-08-2026"
+            "Važi od: 28-06-2026 do 01-09-2026"
         ],
         "weekday": {
             "starting_points_a": [
@@ -35472,7 +35472,7 @@
         "type": "BUS",
         "title": "Zvezdara - Stari Železnik",
         "info": [
-            "Važi od: 13-06-2026 do 31-07-2026"
+            "Važi od: 13-06-2026 do 31-08-2026"
         ],
         "weekday": {
             "starting_points_a": [
@@ -60795,33 +60795,50 @@
         "type": "BUS",
         "title": "Živkovac - Dražanj - Kamendol - Brestovik - Živkovac",
         "info": [
-            "Važi od: 01-06-2025"
+            "Važi od: 01-08-2026 do 08-08-2026"
         ],
         "weekday": {
             "starting_points_a": [
                 "06:20",
-                "10:20",
+                "08:00",
+                "10:00",
+                "12:00",
                 "14:55",
-                "18:10",
-                "21:20"
+                "17:00",
+                "19:00",
+                "21:00"
             ],
             "starting_points_b": [
-                "08:20",
-                "12:20",
-                "19:10"
+                "07:00",
+                "09:00",
+                "11:00",
+                "13:00",
+                "16:00",
+                "18:00",
+                "20:00",
+                "22:00"
             ]
         },
         "saturday": {
             "starting_points_a": [
                 "06:20",
-                "10:20",
+                "08:00",
+                "10:00",
+                "12:00",
                 "14:55",
-                "21:20"
+                "17:00",
+                "19:00",
+                "21:00"
             ],
             "starting_points_b": [
-                "08:20",
-                "12:20",
-                "19:10"
+                "07:00",
+                "09:00",
+                "11:00",
+                "13:00",
+                "16:00",
+                "18:00",
+                "20:00",
+                "22:00"
             ]
         },
         "sunday": {
@@ -60834,7 +60851,7 @@
         "type": "BUS",
         "title": "Šumice - Grocka - Brestovik - Dražanj",
         "info": [
-            "Važi od: 01-06-2025"
+            "Važi od: 01-08-2026 do 08-08-2026"
         ],
         "weekday": {
             "starting_points_a": [
@@ -60871,7 +60888,8 @@
                 "16:00",
                 "17:00",
                 "18:45",
-                "19:15"
+                "19:15",
+                "20:20"
             ]
         },
         "saturday": {
@@ -60896,7 +60914,8 @@
                 "10:30",
                 "13:30",
                 "15:00",
-                "16:00"
+                "16:00",
+                "20:20"
             ]
         },
         "sunday": {
@@ -60919,7 +60938,8 @@
                 "10:30",
                 "13:30",
                 "15:00",
-                "16:00"
+                "16:00",
+                "20:20"
             ]
         }
     },
@@ -61079,7 +61099,7 @@
         "type": "BUS",
         "title": "Šumice - Grocka - Kamendol - Dražanj",
         "info": [
-            "Važi od: 16-09-2023"
+            "Važi od: 01-08-2026 do 08-08-2026"
         ],
         "weekday": {
             "starting_points_a": [],
@@ -61093,9 +61113,11 @@
         },
         "sunday": {
             "starting_points_a": [
-                "17:00"
+                "17:00",
+                "23:00"
             ],
             "starting_points_b": [
+                "16:20",
                 "18:45"
             ]
         }
@@ -61131,22 +61153,37 @@
         "type": "BUS",
         "title": "Šumice - Grocka - Brestovik - Kamendol - Dražanj",
         "info": [
-            "Važi od: 16-09-2023"
+            "Važi od: 01-08-2026 do 08-08-2026"
         ],
         "weekday": {
-            "starting_points_a": [],
+            "starting_points_a": [
+                "07:20",
+                "12:45",
+                "14:45",
+                "16:15",
+                "18:30",
+                "20:15"
+            ],
             "starting_points_b": [
-                "20:20"
+                "04:30",
+                "05:20",
+                "06:00",
+                "12:00"
             ]
         },
         "saturday": {
             "starting_points_a": [
-                "10:30"
+                "07:20",
+                "10:30",
+                "14:45",
+                "16:15",
+                "18:30"
             ],
             "starting_points_b": [
+                "04:30",
+                "05:20",
                 "12:00",
-                "17:00",
-                "20:20"
+                "17:00"
             ]
         },
         "sunday": {
@@ -61165,20 +61202,25 @@
         "type": "BUS",
         "title": "Grocka - Kamendol - Umčari",
         "info": [
-            "Važi od: 16-09-2023"
+            "Važi od: 01-08-2026 do 08-08-2026"
         ],
         "weekday": {
             "starting_points_a": [
-                "19:00"
+                "09:00",
+                "18:30"
             ],
             "starting_points_b": []
         },
         "saturday": {
-            "starting_points_a": [],
+            "starting_points_a": [
+                "09:00"
+            ],
             "starting_points_b": []
         },
         "sunday": {
-            "starting_points_a": [],
+            "starting_points_a": [
+                "09:00"
+            ],
             "starting_points_b": []
         }
     },
@@ -61211,12 +61253,10 @@
         "type": "BUS",
         "title": "Šumice - Grocka - Živkovac",
         "info": [
-            "Važi od: 16-09-2023"
+            "Važi od: 01-08-2026 do 08-08-2026"
         ],
         "weekday": {
-            "starting_points_a": [
-                "05:30"
-            ],
+            "starting_points_a": [],
             "starting_points_b": []
         },
         "saturday": {
@@ -61224,7 +61264,9 @@
             "starting_points_b": []
         },
         "sunday": {
-            "starting_points_a": [],
+            "starting_points_a": [
+                "16:15"
+            ],
             "starting_points_b": []
         }
     },
@@ -61389,34 +61431,34 @@
         "type": "BUS",
         "title": "Grocka - Umčari - Mladenovac",
         "info": [
-            "Važi od: 16-09-2023"
+            "Važi od: 01-08-2026 do 08-08-2026"
         ],
         "weekday": {
             "starting_points_a": [
                 "06:30",
-                "09:00",
-                "14:30",
-                "17:30"
+                "09:50",
+                "14:50",
+                "18:10"
             ],
             "starting_points_b": [
-                "07:40",
+                "08:10",
                 "13:10",
-                "16:10",
-                "18:45"
+                "16:30",
+                "19:50"
             ]
         },
         "saturday": {
             "starting_points_a": [
                 "06:30",
-                "09:00",
-                "14:30",
-                "17:30"
+                "09:50",
+                "14:50",
+                "18:10"
             ],
             "starting_points_b": [
-                "07:40",
+                "08:10",
                 "13:10",
-                "16:10",
-                "18:45"
+                "16:30",
+                "19:50"
             ]
         },
         "sunday": {
@@ -61429,13 +61471,16 @@
         "type": "BUS",
         "title": "Šumice - Umčari - Kamendol (autoputem)",
         "info": [
-            "Važi od: 01-12-2025"
+            "Važi od: 01-08-2026 do 08-08-2026"
         ],
         "weekday": {
             "starting_points_a": [
+                "05:30",
                 "11:00",
                 "11:20",
+                "12:40",
                 "14:20",
+                "15:30",
                 "21:30"
             ],
             "starting_points_b": [

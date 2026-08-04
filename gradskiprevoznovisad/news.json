@@ -1,5 +1,44 @@
 [
     {
+        "date": "31.07.2026",
+        "title": "Izmena trase linije broj 6",
+        "sections": [
+            {
+                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve  određuje se privremena izmena trase autobuske linije broj 6 zbog radova na izgradnji priključka za vodu i kanalizaciju za objekat  u Ulici Vršačka, u Novom Sadu. \n\nIzmenjen režim saobraćanja linije važi  dana 04.08.2026 god.",
+                "text_translations": {
+                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, a temporary change of the route of bus line number 6 is determined due to the works on the construction of the water and sewage connection for the building in Vršačka Street, in Novi Sad. \n\nThe modified traffic mode of the line is valid on 04.08.2026."
+                }
+            },
+            {
+                "text": "AUTOBUSI NA LINIJI BROJ 6 MENJAJU TRASU KRETANJA NA SLEDEĆI NAČIN:",
+                "text_translations": {
+                    "en": "BUSES ON LINE NUMBER 6 CHANGE THE TRAVEL ROUTE AS FOLLOWS:"
+                }
+            },
+            {
+                "text": "SMER A: Podbara- Centar-Adice\n\nOd raskrsnice Futoške ulice i Bulevara Evrope, autobusi saobraćaju levo Bulevarom Evrope do kružnog toka, skreću desno u Bulevar patrijarha Pavla, pravo Bulevarom patrijarha Pavla do raskrsnice sa ulicama Vršačkom i Feješ Klare, gde skreću levo u ulicu Feješ Klare i dalje nastavljaju redovnom trasom kretanja",
+                "text_translations": {
+                    "en": "DIRECTION A: Podbara- Centar-Adice\n\nFrom the intersection of Futoška Street and Evrope Boulevard, buses drive left along Europa Boulevard to the roundabout, turn right onto Patriarch Pavla Boulevard, straight along Patriarch Pavla Boulevard to the intersection with Vršačka and Feješ Klare Streets, where they turn left onto Feješ Klare Street and continue along the regular route"
+                }
+            },
+            {
+                "text": "SMER B: Adice-Centar -Podbara\n\nOd raskrsnice ulice Feješ Klare sa Bulevarom patrijarha Pavla autobusi saobraćaju desno Bulevarom patrijarha Pavla do kružnog toka, skreću levo u Bulevar Evrope i saobraćaju do raskrsnice sa Futoškom ulicom gde skreću desno i dalje nastavljaju redovnom trasom.",
+                "text_translations": {
+                    "en": "DIRECTION B: Adice-Center-Podbara\n\nFrom the intersection of Feješ Klare Street with Patriarch Pavla Boulevard, buses drive right along Patriarch Pavla Boulevard to the roundabout, turn left into Europa Boulevard and drive to the intersection with Futoška Street, where they turn right and continue along the regular route."
+                }
+            },
+            {
+                "text": "AUTOBUSI NA IZMENJENOM DELU TRASE KORISTE AUTOBUSKA STAJALIŠTA DRUGIH LINIJA",
+                "text_translations": {
+                    "en": "BUSES ON THE CHANGED PART OF THE ROUTE USE BUS STOPS OF OTHER LINES"
+                }
+            }
+        ],
+        "title_translations": {
+            "en": "Modification of the route of line number 6"
+        }
+    },
+    {
         "date": "27.07.2026",
         "title": "PRIVREMENO UKIDANJE STAJALIŠTA",
         "sections": [
