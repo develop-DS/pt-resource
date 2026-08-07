@@ -1,5 +1,151 @@
 [
     {
+        "date": "6. avgust 2026.",
+        "title": "Privremena izmena trasa linija broj 2, 34, 15, 15L, 16 i 17L",
+        "sections": [
+            {
+                "text": "Zbog izvođenja radova na izgradnji bypass linije Knjaževačkog kolektora u ulicama Knjaževačka i Đorđa Jovanovića, vrši se potpuna obustava saobraćaja u ulici Knjaževačkoj kod pošte u periodu od 10.8.2026. godine do 21.8.2026. godine.",
+                "text_translations": {
+                    "en": "Due to the construction of the bypass line of the Knjaževačka collector in the streets Knjaževačka and Đorđe Jovanovića, a complete suspension of traffic in Knjaževačka street near the post office is being carried out in the period from August 10, 2026. until August 21, 2026. year."
+                }
+            },
+            {
+                "text": "U skladu sa navedenim, linije javnog prevoza broj 2, 34, 15, 15L, 16 i 17L, privremeno menjaju trase na sledeći način:",
+                "text_translations": {
+                    "en": "In accordance with the above, public transport lines number 2, 34, 15, 15L, 16 and 17L temporarily change routes as follows:"
+                }
+            },
+            {
+                "text": "Linija 2:",
+                "text_translations": {
+                    "en": "Line 2:"
+                }
+            },
+            {
+                "text": "Smer A: Od raskrsnice ulica Knjaževačka - Studenička, ulicama Studenička, Bulevar Svetog Pantelejmona, Despota Đurđa, Knjaževačka i nadalje redovnom trasom.",
+                "text_translations": {
+                    "en": "Direction A: From the intersection of the streets Knjaževačka - Studenička, along the streets Studenička, Bulevar Svetog Pantelejmon, Despota Đurđa, Knjaževačka and further along the regular route."
+                }
+            },
+            {
+                "text": "Smer B: Od raskrsnice ulica Despota Đurđa - Knjaževačka, ulicama Despota Đurđa, Bulevar Svetog Pantelejmona, Studenička, Knjaževačka i nadalje redovnom trasom.",
+                "text_translations": {
+                    "en": "Direction B: From the intersection of Despota Đurđa - Knjaževačka streets, along Despota Đurđa streets, Bulevar Sveti Pantelejmon, Studenička, Knjaževačka and further along the regular route."
+                }
+            },
+            {
+                "text": "Linija 34:",
+                "text_translations": {
+                    "en": "Line 34:"
+                }
+            },
+            {
+                "text": "Smer A: Od raskrsnice ulica Branka Miljkovića - Vizantijski bulevar, ulicama Vizantijski bulevar, Bulevar Nemanjića, Vojvode Mišića, Jovana Ćirića, Pantelejska i nadalje redovnom trasom.",
+                "text_translations": {
+                    "en": "Direction A: From the intersection of Branko Miljkovića - Byzantijski boulevard, along Byzantijski boulevard, Nemanjića boulevard, Vojvoda Mišića, Jovan Ćirića, Pantelejska and further along the regular route."
+                }
+            },
+            {
+                "text": "Smer B: Od raskrsnice ulica Pantelejska - Jovana Ćirića, ulicama Jovana Ćirića, Vojvode Mišića, Bulevar Nemanjića, Vizantijski bulevar, Branka Miljkovića i nadalje redovnom trasom.",
+                "text_translations": {
+                    "en": "Direction B: From the intersection of Pantelejska - Jovan Ćirić streets, along Jovan Ćirić, Vojvoda Mišić, Bulevar Nemanjića, Byzantijski boulevard, Branko Miljkovića streets and further along the regular route."
+                }
+            },
+            {
+                "text": "Linije 15, 15L",
+                "text_translations": {
+                    "en": "Lines 15, 15L"
+                }
+            },
+            {
+                "text": "Smer A: Od raskrsnice ulica Knjaževačka - Studenička, ulicama Studenička, Bulevar Svetog Pantelejmona, Matejevački put i nadalje redovnom trasom.",
+                "text_translations": {
+                    "en": "Direction A: From the intersection of Knjaževačka - Studenička streets, along Studenička streets, Bulevar Svetog Pantelejmon, Matejevački put and further along the regular route."
+                }
+            },
+            {
+                "text": "Smer B: Od raskrsnice ulica Matejevački put - Bulevar Svetog Pantelejmona, ulicama Bulevar Svetog Pantelejmona, Studenička, Knjaževačka i nadalje redovnom trasom.",
+                "text_translations": {
+                    "en": "Direction B: From the intersection of Matejevački put - St. Panteleimon Boulevard, St. Panteleimon Boulevard, Studenička, Knjaževačka streets and further along the regular route."
+                }
+            },
+            {
+                "text": "Linije 16, 17 i 17L",
+                "text_translations": {
+                    "en": "Lines 16, 17 and 17L"
+                }
+            },
+            {
+                "text": "Smer A: Od raskrsnice ulica Knjaževačka - Studenička, ulicama Studenička, Bulevar Svetog Pantelejmona, Matejevački put, Knjaževačka i nadalje redovnom trasom.",
+                "text_translations": {
+                    "en": "Direction A: From the intersection of Knjaževačka - Studenička streets, along Studenička streets, Bulevar Svetog Pantelejmon, Matejevački put, Knjaževačka and further along the regular route."
+                }
+            },
+            {
+                "text": "Smer B: Od raskrsnice ulica Knjaževačka - Matejevački put, ulicama Matejevački put, Bulevar Svetog Pantelejmona, Studenička, Knjaževačka i nadalje redovnom trasom.",
+                "text_translations": {
+                    "en": "Direction B: From the intersection of the streets Knjaževačka - Matejevački put, along the streets Matejevački put, Bulevar Svetog Pantelejmon, Studenička, Knjaževačka and further along the regular route."
+                }
+            },
+            {
+                "text": "Na izmenjenom delu trase koristiti postojeća stajališta na zahtev putnika.",
+                "text_translations": {
+                    "en": "On the changed part of the route, use the existing stops at the request of passengers."
+                }
+            }
+        ],
+        "url": "https://jgpnis.rs/06/08/2026/novosti/privremena-izmena-trasa-linija-broj-2-34-15-15l-16-i-17l/",
+        "date_translations": {
+            "en": "August 6, 2026"
+        },
+        "title_translations": {
+            "en": "Temporary change of routes of lines number 2, 34, 15, 15L, 16 and 17L"
+        }
+    },
+    {
+        "date": "5. avgust 2026.",
+        "title": "Privremena izmena trasa linija broj 5, 14 i 14A-verski praznik Sveti Pantelejmon",
+        "sections": [
+            {
+                "text": "U skladu sa zahtevom Gradske opštine Pantelej vrši se potpuna obustava saobraćaja u ulici Kosovke devojke na delu od raskrsnice sa ulicom Pantelejskom do raskrsnice sa Bulevarom Svetog Pantelejmona, dana 08.08.2026. godine (subota) u periodu od 1 4:00 do 22:00 časa i dana 09.08.2026. godine (nedelja) u periodu od 1 0:00 do 22:00 časa , zbog proslave verskog praznika Svetog Pantelejmona.",
+                "text_translations": {
+                    "en": "In accordance with the request of the City Municipality of Pantelej, a complete suspension of traffic is carried out in Kosovke devojke Street, from the intersection with Pantelejska Street to the intersection with St. Panteleimon Boulevard, on August 8, 2026. year (Saturday) in the period from 1 4:00 a.m. to 10:00 p.m. and on 08/09/2026. year (Sunday) in the period from 1:00 a.m. to 10:00 p.m., due to the celebration of the religious holiday of Saint Panteleimon."
+                }
+            },
+            {
+                "text": "U skladu sa navedenim, trase linija javnog prevoza broj 5, 14 i 14A privremeno se menjaju na sledeći način:",
+                "text_translations": {
+                    "en": "In accordance with the above, the routes of public transport lines number 5, 14 and 14A are temporarily changed as follows:"
+                }
+            },
+            {
+                "text": "Na liniji broj 5 , umesto ulicom Kosovke devojke, vozila se preusmeravaju, u smeru ka naselju Pantelej - Pantelejskom, Knjaževačkom, Studeničkom do raskrsnice sa ul. Bulevar Sv. Pantelejmona i nadalje redovnom trasom (u oba smera).",
+                "text_translations": {
+                    "en": "On line number 5, instead of Kosovke dvojke Street, vehicles are diverted in the direction of the Pantelei - Pantelejska, Knjaževačka, Studenička settlement to the intersection with ul. Bulevar St. Panteleimon and further along the regular route (in both directions)."
+                }
+            },
+            {
+                "text": "Na linijama broj 14 i 14A , umesto ul. Kosovke devojke, vozila se preusmeravaju Pantelejskom, Knjaževačkom, Studeničkom, Gornjomatejevačkom (u povratku ul. Bulevar Sv. Pantelejmona) i nadalje redovnim trasama.",
+                "text_translations": {
+                    "en": "On lines 14 and 14A, instead of ul. Kosovo girls, vehicles are diverted to Pantelejka, Knjaževačka, Studenička, Gornjomatejevačka (on the way back to Bulevar St. Pantelejmona St.) and further along the regular routes."
+                }
+            },
+            {
+                "text": "Na izmenjenom delu trase koristiće se postojeća stajališta na zahtev putnika.",
+                "text_translations": {
+                    "en": "On the changed part of the route, existing stops will be used at the request of passengers."
+                }
+            }
+        ],
+        "url": "https://jgpnis.rs/05/08/2026/novosti/privremena-izmena-trasa-linija-broj-5-14-i-14a-verski-praznik-sveti-pantelejmon/",
+        "date_translations": {
+            "en": "August 5, 2026"
+        },
+        "title_translations": {
+            "en": "Temporary change of routes of lines number 5, 14 and 14A - religious holiday of Saint Panteleimon"
+        }
+    },
+    {
         "date": "3. avgust 2026.",
         "title": "Normalizacija saobraćaja na liniji 21 Niš-Gornja Studena",
         "sections": [
@@ -13,6 +159,12 @@
                 "text": "Od srede 05.08.2026.godine normalizuje se saobraćaj na prigradskoj liniji broj 21 PAS Niš-Gornja Studena, polasci saobraćaju po letnjem redu vožnje (bez presedanja putnika).",
                 "text_translations": {
                     "en": "As of Wednesday, August 5, 2026, the traffic on suburban line number 21 PAS Niš-Gornja Studena will be normalized, departures will operate according to the summer timetable (without passengers changing)."
+                }
+            },
+            {
+                "text": "Red vožnje za liniju br. 21 Niš-Gornja Studena možete pogledati ovde .",
+                "text_translations": {
+                    "en": "Timetable for line no. 21 Niš-Gornja Studena can be viewed here."
                 }
             },
             {
@@ -195,86 +347,6 @@
         },
         "title_translations": {
             "en": "Temporary change of routes of public transport lines number 34A, 34B, 22, 23, 23L and 23K"
-        }
-    },
-    {
-        "date": "12. jun 2026.",
-        "title": "Izmena reda vožnje na liniji 21L PAS Niš - Jelašnica",
-        "sections": [
-            {
-                "text": "Od ponedeljka 15.06.2026. godine vrši se izmena reda vožnje na liniji 21L PAS Niš - Jelašnica, na kojoj se privremeno uvode novi polasci koji će se realizovati minibusom na relaciji Jelašnica ( zona radova) - Niška Banja (banjska rampa).",
-                "text_translations": {
-                    "en": "From Monday 15.06.2026., the timetable of the 21L PAS Niš - Jelašnica line is being changed, on which new departures will be temporarily introduced, which will be realized by minibus on the route Jelašnica (work zone) - Niška Banja (spa ramp)."
-                }
-            },
-            {
-                "text": "Novi polasci se realizuju radnim danima, do završetka radova na izgradnji kanalizacione mreže.",
-                "text_translations": {
-                    "en": "New departures are realized on weekdays, until the completion of works on the construction of the sewage network."
-                }
-            },
-            {
-                "text": "Red vožnje je prikazan u tabelama:",
-                "text_translations": {
-                    "en": "The timetable is shown in the tables:"
-                }
-            },
-            {
-                "text": "Za sve ostale informacije možete se obratiti informativnom centru JKP Direkcije za javni prevoz grada Niša na telefone 018/505-656, 018/505-665 ili putem veb sajta http://jgpnis.rs/ .",
-                "text_translations": {
-                    "en": "For all other information, you can contact the information center of the PUC Directorate for Public Transport of the city of Niš at 018/505-656, 018/505-665 or via the website http://jgpnis.rs/."
-                }
-            }
-        ],
-        "url": "https://jgpnis.rs/12/06/2026/novosti/izmena-reda-voznje-na-liniji-21l-pas-nis-jelasnica/",
-        "date_translations": {
-            "en": "June 12, 2026"
-        },
-        "title_translations": {
-            "en": "Change of timetable on line 21L PAS Niš - Jelašnica"
-        }
-    },
-    {
-        "date": "31. maj 2026.",
-        "title": "Privremena izmena trasa linija 8 i 34",
-        "sections": [
-            {
-                "text": "Zbog organizovanja manifestacije „Palilulsko veče 2026″ vrši se potpuna obustava saobraćaja u ulicama Episkopskoj, Božidarčevoj i Vojvode Gojka.",
-                "text_translations": {
-                    "en": "Due to the organization of the \"Palilul evening 2026\" event, traffic is completely stopped in Episkopska, Božidarceva and Vojvoda Gojka streets."
-                }
-            },
-            {
-                "text": "U skladu sa navedenim, trase linija javnog gradskog prevoza broj 8 i 34, u periodu od 09:00 dana 2.6.2026. do 01:00 časova dana 3.6.2026. godine, na delu od raskrsnice ulica Dušana Popovića- Episkopska -Mokranjčeva -Stanoja Bunuševca preusmeravaju se ulicama Stanoja Bunuševca - Njegoševa - Hilandarska -Obrenovićeva i dalje redovnom trasom za liniju 8 i ulicama Stanoja Bunuševca -Njegoševa -Branka Radičevića i na dalje redovnom trasom za liniju 34.",
-                "text_translations": {
-                    "en": "In accordance with the above, the routes of public city transport lines number 8 and 34, in the period from 09:00 on 06/02/2026. until 1:00 a.m. on June 3, 2026. year, on the part from the intersection of the streets Dušana Popovića-Episkopska-Mokranjčeva-Stanoja Bunuševac, they are rerouted along the streets Stanoj Bunuševac-Njegoševa-Hilandarska-Obrenovićeva and further along the regular route for line 8 and the streets of Stanoj Bunuševac-Njegoševa-Branko Radičevića and further along the regular route for line 34."
-                }
-            },
-            {
-                "text": "Privremeno izmenjena trasa važi za oba smera navedenih linija.",
-                "text_translations": {
-                    "en": "The temporarily changed route is valid for both directions of the mentioned lines."
-                }
-            },
-            {
-                "text": "Na privremenoj trasi koristiće se postojeća stajališta.",
-                "text_translations": {
-                    "en": "Existing stops will be used on the temporary route."
-                }
-            },
-            {
-                "text": "Za sve ostale informacije možete se obratiti informativnom centru JKP Direkcije za javni prevoz grada Niša na telefone 018/505-656, 018/505-665 ili putem veb sajta http://jgpnis.rs/.",
-                "text_translations": {
-                    "en": "For all other information, you can contact the information center of the PUC Directorate for Public Transport of the city of Niš at 018/505-656, 018/505-665 or via the website http://jgpnis.rs/."
-                }
-            }
-        ],
-        "url": "https://jgpnis.rs/31/05/2026/novosti/privremena-izmena-trasa-linija-8-i-34-2/",
-        "date_translations": {
-            "en": "31 May 2026"
-        },
-        "title_translations": {
-            "en": "Temporary change of routes of lines 8 and 34"
         }
     }
 ]

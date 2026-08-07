@@ -1,62 +1,86 @@
 [
     {
-        "date": "31.07.2026",
-        "title": "Izmena trase linije broj 6",
+        "date": "07.08.2026",
+        "title": "Linije 7A, 7B – Privremena izmena trase od 10. 08.",
         "sections": [
             {
-                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve  određuje se privremena izmena trase autobuske linije broj 6 zbog radova na izgradnji priključka za vodu i kanalizaciju za objekat  u Ulici Vršačka, u Novom Sadu. \n\nIzmenjen režim saobraćanja linije važi  dana 04.08.2026 god.",
+                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, od 10. 8. do 12. 8. 2026. godine privremeno će biti izmenjene trase autobuskih linija 7A i 7B zbog radova u zoni raskrsnice Bulevar Evrope/Bulevar patrijarha Pavla (kružni tok).",
                 "text_translations": {
-                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, a temporary change of the route of bus line number 6 is determined due to the works on the construction of the water and sewage connection for the building in Vršačka Street, in Novi Sad. \n\nThe modified traffic mode of the line is valid on 04.08.2026."
+                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, from August 10 to August 12, 2026, the routes of bus lines 7A and 7B will be temporarily changed due to works in the area of ​​the Bulevar Evrope/Bulevar Patriarch Pavla intersection (roundabout)."
                 }
             },
             {
-                "text": "AUTOBUSI NA LINIJI BROJ 6 MENJAJU TRASU KRETANJA NA SLEDEĆI NAČIN:",
+                "text": "LINIJA 7A",
                 "text_translations": {
-                    "en": "BUSES ON LINE NUMBER 6 CHANGE THE TRAVEL ROUTE AS FOLLOWS:"
+                    "en": "LINE 7A"
                 }
             },
             {
-                "text": "SMER A: Podbara- Centar-Adice\n\nOd raskrsnice Futoške ulice i Bulevara Evrope, autobusi saobraćaju levo Bulevarom Evrope do kružnog toka, skreću desno u Bulevar patrijarha Pavla, pravo Bulevarom patrijarha Pavla do raskrsnice sa ulicama Vršačkom i Feješ Klare, gde skreću levo u ulicu Feješ Klare i dalje nastavljaju redovnom trasom kretanja",
+                "text": "Na kružnom toku autobusi će izlaziti na Bulevar Evrope, zatim skretati levo na Futoški put, produžavati pravo do Bulevara kneza Miloša, skretati desno i dalje nastavljati redovnom trasom.",
                 "text_translations": {
-                    "en": "DIRECTION A: Podbara- Centar-Adice\n\nFrom the intersection of Futoška Street and Evrope Boulevard, buses drive left along Europa Boulevard to the roundabout, turn right onto Patriarch Pavla Boulevard, straight along Patriarch Pavla Boulevard to the intersection with Vršačka and Feješ Klare Streets, where they turn left onto Feješ Klare Street and continue along the regular route"
+                    "en": "At the roundabout, the buses will exit onto Bulevar Europa, then turn left onto Futoški put, continue straight to Bulevar Knez Milos, turn right and continue along the regular route."
                 }
             },
             {
-                "text": "SMER B: Adice-Centar -Podbara\n\nOd raskrsnice ulice Feješ Klare sa Bulevarom patrijarha Pavla autobusi saobraćaju desno Bulevarom patrijarha Pavla do kružnog toka, skreću levo u Bulevar Evrope i saobraćaju do raskrsnice sa Futoškom ulicom gde skreću desno i dalje nastavljaju redovnom trasom.",
+                "text": "LINIJA  7B",
                 "text_translations": {
-                    "en": "DIRECTION B: Adice-Center-Podbara\n\nFrom the intersection of Feješ Klare Street with Patriarch Pavla Boulevard, buses drive right along Patriarch Pavla Boulevard to the roundabout, turn left into Europa Boulevard and drive to the intersection with Futoška Street, where they turn right and continue along the regular route."
+                    "en": "LINE 7B"
                 }
             },
             {
-                "text": "AUTOBUSI NA IZMENJENOM DELU TRASE KORISTE AUTOBUSKA STAJALIŠTA DRUGIH LINIJA",
+                "text": "Autobusi će sa Bulevara kneza Miloša skretati levo na Futoški put, zatim desno na Bulevar Evrope i saobraćati do kružnog toka i dalje nastavljati redovnom trasom.",
                 "text_translations": {
-                    "en": "BUSES ON THE CHANGED PART OF THE ROUTE USE BUS STOPS OF OTHER LINES"
+                    "en": "Buses will turn left from Bulevar Knez Miloša onto Futoški put, then right onto Bulevar Europa and drive to the roundabout and continue on the regular route."
+                }
+            },
+            {
+                "text": "AUTOBUSI ĆE NA IZMENjENOM DELU TRASE KORISTITI SVA REDOVNA STAJALIŠTA.",
+                "text_translations": {
+                    "en": "BUSES WILL USE ALL REGULAR STOPS ON THE CHANGED PART OF THE ROUTE."
                 }
             }
         ],
         "title_translations": {
-            "en": "Modification of the route of line number 6"
+            "en": "Lines 7A, 7B - Temporary route change from 10.08."
         }
     },
     {
-        "date": "27.07.2026",
-        "title": "PRIVREMENO UKIDANJE STAJALIŠTA",
+        "date": "06.08.2026",
+        "title": "Linije 68, 71, 76, 77, 78, 79, 80, 81 i 84 - Privremena izmena trase",
         "sections": [
             {
-                "text": "Prema rešenju Gradske Uprave za saobraćaj i puteve IV-34-4498/26-2 od 21.07.2026.god usled radova na Bulevaru cara Lazara u Novom Sadu, određuje se privremeno ukidanje stajališta „Bulevar cara Lazara – Dom zdravlja“ koje koriste linije 9, 9a, 12, 13 i 18b u smeru ka Bulevaru oslobođenja.",
+                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve (broj:IV-34-5716/26) određuje se privremena izmena trase autobuskih linija broj 68, 71, 76, 77, 78, 79, 80, 81 i 84  u ulici Karađorđeva u Sremskoj Kamenici. Izmenjen režim saobraćanja linija važi od 06.08. do 23.08.2026.g.",
                 "text_translations": {
-                    "en": "According to the decision of the City Administration for Traffic and Roads IV-34-4498/26-2 dated 21/07/2026 due to the works on Tsar Lazar Boulevard in Novi Sad, the stop \"Cara Lazar Boulevard - Dom zdravlja\" used by lines 9, 9a, 12, 13 and 18b in the direction of Liberation Boulevard is determined to be temporarily cancelled."
+                    "en": "In accordance with the decision of the City Administration for Traffic and Roads (number: IV-34-5716/26), a temporary change in the route of bus lines number 68, 71, 76, 77, 78, 79, 80, 81 and 84 in Karađorđeva Street in Sremska Kamenica is determined. The changed traffic mode of the lines is valid from 06.08. until August 23, 2026."
                 }
             },
             {
-                "text": "Stajalište će biti ukinuto u periodu od 27.07.2026. do 10.08.2026.god.",
+                "text": "AUTOBUSI NA LINIJAMA BROJ 68, 71, 76, 77, 78, 79, 80, 81 i 84 MENJAJU TRASU KRETANJA:",
                 "text_translations": {
-                    "en": "The stop will be abolished in the period from July 27, 2026. until August 10, 2026."
+                    "en": "BUSES ON LINES 68, 71, 76, 77, 78, 79, 80, 81 and 84 ARE CHANGING THE TRAVEL ROUTE:"
+                }
+            },
+            {
+                "text": "Smer iz Novog Sada: Od raskrsnice ulica Trg Zmaj Jove i Ive Lole Ribara autobusi  saobraćaju levo ulicom Ive Lole Ribara, zatim desno na Paragovski put, levo na Ledinački put i dalje nastavljaju redovnom trasom kretanja.",
+                "text_translations": {
+                    "en": "Direction from Novi Sad: From the intersection of Trg Zmaj Jove and Ive Lola Ribara streets, buses drive left along Ive Lola Ribara street, then right onto Paragovski put, left onto Ledinački put and continue along the regular route."
+                }
+            },
+            {
+                "text": "Smer iz Sremske Kamenice: Od raskrsnice ulica Ledinački put i Paragovski put autobusi saobraćaju desno na Paragovski put, zatim levo ulicom Ive Lole Ribara, desno na Trg Zmaj Jove i dalje nastavljaju redovnom trasom kretanja.",
+                "text_translations": {
+                    "en": "Direction from Sremska Kamenica: From the intersection of Ledinački put and Paragovski put, buses drive right to Paragovski put, then left to Ive Lola Ribara street, right to Trg Zmaj Jove and continue along the regular route."
+                }
+            },
+            {
+                "text": "Na izmenjenom delu trase autobusi koriste stajališta drugih linija.",
+                "text_translations": {
+                    "en": "On the changed part of the route, buses use stops of other lines."
                 }
             }
         ],
         "title_translations": {
-            "en": "TEMPORARY TERMINATION OF STOPS"
+            "en": "Lines 68, 71, 76, 77, 78, 79, 80, 81 and 84 - Temporary route change"
         }
     },
     {
@@ -72,99 +96,6 @@
         ],
         "title_translations": {
             "en": "Line 16 – Change of departure time"
-        }
-    },
-    {
-        "date": "17.07.2026",
-        "title": "Linije 60, 61, 62, 63, 64, 69, 71VMČ - Povratak na redovne trase u Stražilovskoj od 17. 06.",
-        "sections": [
-            {
-                "text": "Autobusi na linijama 60, 61, 62, 63, 64, 69 i 71VMČ ponovo saobraćaju redovnim trasama kroz Stražilovsku ulicu od 17. 06. 2026. godine.",
-                "text_translations": {
-                    "en": "Buses on lines 60, 61, 62, 63, 64, 69 and 71VMČ will once again operate on regular routes through Stražilovska Street from June 17, 2026."
-                }
-            }
-        ],
-        "title_translations": {
-            "en": "Lines 60, 61, 62, 63, 64, 69, 71 VMČ - Return to regular routes in Stražilovska from June 17."
-        }
-    },
-    {
-        "date": "16.07.2026",
-        "title": "Linije 1, 4, 8, 9, 9A, 11A, 11B, 12, 18A, 18B– Povratak na redovne trase u Stražilovskoj ulici 16.07.",
-        "sections": [
-            {
-                "text": "Završeni su radovi u Stražilovskoj ulici čime su se stekli uslovi za povratak autobusa na linijama 1, 4, 8, 9, 9A, 11A, 11B,12, 18A i 18B na redovne trase od 20 časova dana 16.07.",
-                "text_translations": {
-                    "en": "The works in Stražilovska Street have been completed, which created the conditions for the return of buses on lines 1, 4, 8, 9, 9A, 11A, 11B, 12, 18A and 18B to regular routes from 20:00 on 16.07."
-                }
-            },
-            {
-                "text": "Autobusi na prigradskim linijama 60, 61, 62, 63, 64, 69 i 71 VMČ saobraćaće redovnim trasama od 17. 07.",
-                "text_translations": {
-                    "en": "Buses on suburban lines 60, 61, 62, 63, 64, 69 and 71 of the VMČ will operate on regular routes from 07.17."
-                }
-            }
-        ],
-        "title_translations": {
-            "en": "Lines 1, 4, 8, 9, 9A, 11A, 11B, 12, 18A, 18B – Return to regular routes in Stražilovska Street 16.07."
-        }
-    },
-    {
-        "date": "29.06.2026",
-        "title": "Linija 19 – Privremena izmena trase od 30. 06.",
-        "sections": [
-            {
-                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve,  od 30.06.2026. do 21.07.2026. određuje se privremena izmena trase autobuske linije broj 19. Zbog radova u zoni petlje MIŠELUK, na delu saobraćajnice prema Kameničkom putu od Ulice Dinka Šimunovića, autobuski saobraćaj odvijaće se na sledeći način:",
-                "text_translations": {
-                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, dated June 30, 2026. until 21.07.2026. a temporary change to the route of bus line number 19 is being determined. Due to works in the area of ​​the MIŠELUK interchange, on the part of the road towards Kamenički put from Dinka Šimunovića Street, bus traffic will proceed as follows:"
-                }
-            },
-            {
-                "text": "Smer A",
-                "text_translations": {
-                    "en": "Direction A"
-                }
-            },
-            {
-                "text": "Izlaskom iz tunela autobusi će skretati redovno desno do raskrsnice za Institut, zatim nastavljati pravo do prvog desnog isključenja za Kamenički put i nastavljati do zgrade RTV-a Kameničkim putem.",
-                "text_translations": {
-                    "en": "Upon exiting the tunnel, the buses will regularly turn right to the intersection for the Institute, then continue straight to the first right exit for Kamenički put and continue to the RTV building on Kamenički put."
-                }
-            },
-            {
-                "text": "Od zgrade RTV-a autobusi će produžavati pravo Kameničkim putem do prvog desnog isključenja prema raskrsnici za Institut i od semafora saobraćati redovnom trasom do bolnice „Mišeluk“.",
-                "text_translations": {
-                    "en": "From the RTV building, buses will continue straight along Kamenička Street to the first right-hand exit towards the intersection for the Institute, and from the traffic light, they will travel along the regular route to the \"Mišeluk\" hospital."
-                }
-            },
-            {
-                "text": "Smer B",
-                "text_translations": {
-                    "en": "Direction B"
-                }
-            },
-            {
-                "text": "Na raskrsnici Ulice Dinka Šimunovića kod restorana „La Brasa“, autobusi će skretati levo prema raskrsnici za Institut, zatim desno na semaforu do prvog desnog isključenja za Kamenički put, te nastavljati do zgrade RTV-a Kameničkim putem.",
-                "text_translations": {
-                    "en": "At the intersection of Dinka Šimunovića Street near the \"La Brasa\" restaurant, buses will turn left towards the intersection for the Institute, then right at the traffic lights until the first right exit for Kamenički put, and continue to the RTV building on Kamenički put."
-                }
-            },
-            {
-                "text": "Od zgrade RTV-a autobusi će produžavati pravo Kameničkim putem do prvog desnog isključenja prema raskrsnici za Institut, a od reskrsnice (semafor) skretati levo prema isključenju ka mostu „Slobode“ i nastavljati redovnom trasom do železničke stanice.",
-                "text_translations": {
-                    "en": "From the RTV building, buses will continue straight along Kamenički Street to the first right exit towards the intersection for the Institute, and from the intersection (traffic light) turn left towards the exit towards the \"Slobode\" bridge and continue along the regular route to the railway station."
-                }
-            },
-            {
-                "text": "NA IZMENJENOM DELU TRASE KORISTIĆE SE SVA REDOVNA STAJALIŠTA.",
-                "text_translations": {
-                    "en": "ALL REGULAR STOPS WILL BE USED ON THE CHANGED PART OF THE ROUTE."
-                }
-            }
-        ],
-        "title_translations": {
-            "en": "Line 19 - Temporary route change from June 30."
         }
     },
     {
