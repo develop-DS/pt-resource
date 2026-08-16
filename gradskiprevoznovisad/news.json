@@ -1,75 +1,109 @@
 [
     {
-        "date": "07.08.2026",
-        "title": "Linije 7A, 7B – Privremena izmena trase od 10. 08.",
+        "date": "14.08.2026",
+        "title": "Linije 68, 71, 76, 77, 78, 79, 80, 81, 84 – Povratak na redovne trase",
         "sections": [
             {
-                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, od 10. 8. do 12. 8. 2026. godine privremeno će biti izmenjene trase autobuskih linija 7A i 7B zbog radova u zoni raskrsnice Bulevar Evrope/Bulevar patrijarha Pavla (kružni tok).",
+                "text": "Obaveštavamo putnike da autobusi na linijama 68, 71, 76, 77, 78, 79, 80, 81, 84 saobraćaju redovnim trasama 14. 8. od  17 časova. Uslovi za povratak na redovne trase stekli su se završetkom radova u Karađorđevoj ulici u Sremskoj Kamenici.",
                 "text_translations": {
-                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, from August 10 to August 12, 2026, the routes of bus lines 7A and 7B will be temporarily changed due to works in the area of ​​the Bulevar Evrope/Bulevar Patriarch Pavla intersection (roundabout)."
-                }
-            },
-            {
-                "text": "LINIJA 7A",
-                "text_translations": {
-                    "en": "LINE 7A"
-                }
-            },
-            {
-                "text": "Na kružnom toku autobusi će izlaziti na Bulevar Evrope, zatim skretati levo na Futoški put, produžavati pravo do Bulevara kneza Miloša, skretati desno i dalje nastavljati redovnom trasom.",
-                "text_translations": {
-                    "en": "At the roundabout, the buses will exit onto Bulevar Europa, then turn left onto Futoški put, continue straight to Bulevar Knez Milos, turn right and continue along the regular route."
-                }
-            },
-            {
-                "text": "LINIJA  7B",
-                "text_translations": {
-                    "en": "LINE 7B"
-                }
-            },
-            {
-                "text": "Autobusi će sa Bulevara kneza Miloša skretati levo na Futoški put, zatim desno na Bulevar Evrope i saobraćati do kružnog toka i dalje nastavljati redovnom trasom.",
-                "text_translations": {
-                    "en": "Buses will turn left from Bulevar Knez Miloša onto Futoški put, then right onto Bulevar Europa and drive to the roundabout and continue on the regular route."
-                }
-            },
-            {
-                "text": "AUTOBUSI ĆE NA IZMENjENOM DELU TRASE KORISTITI SVA REDOVNA STAJALIŠTA.",
-                "text_translations": {
-                    "en": "BUSES WILL USE ALL REGULAR STOPS ON THE CHANGED PART OF THE ROUTE."
+                    "en": "We inform passengers that buses on lines 68, 71, 76, 77, 78, 79, 80, 81, 84 operate on regular routes on August 14 from 5 p.m. The conditions for returning to regular routes were achieved with the completion of works in Karađorđeva Street in Sremska Kamenica."
                 }
             }
         ],
         "title_translations": {
-            "en": "Lines 7A, 7B - Temporary route change from 10.08."
+            "en": "Lines 68, 71, 76, 77, 78, 79, 80, 81, 84 - Return to regular routes"
+        }
+    },
+    {
+        "date": "13.08.2026",
+        "title": "Linije 6, 11B – Povratak na redovne trase na Beogradskom keju",
+        "sections": [
+            {
+                "text": "U skladu sa obaveštenjem izvođača radova na rekonstrukciji poveznog voda na Beogradskom keju, obaveštavamo putnike da će se 16. 8. 2026. godine steći uslovi za ukidanje privremene izmene trasa linija 6 i 11B. Autobusi će se vratiti na redovnu trasu odmah nakon puštanja saobraćajnica u redovan saobraćaj.",
+                "text_translations": {
+                    "en": "In accordance with the notification of the contractor for the reconstruction of the connecting line on the Belgrade Quay, we inform passengers that on August 16, 2026, the conditions will be met for the cancellation of the temporary changes to the routes of lines 6 and 11B. The buses will return to the regular route immediately after the roads are opened to regular traffic."
+                }
+            }
+        ],
+        "title_translations": {
+            "en": "Lines 6, 11B – Return to regular routes on Belgrade Quay"
+        }
+    },
+    {
+        "date": "12.08.2026",
+        "title": "Linija 24 - Privremena izmena trase u Kovilju",
+        "sections": [
+            {
+                "text": "Obaveštavamo putnike da će od 13. 8. do 28. 8. 2026. godine privremeno biti izmenjena trasa autobuske linije broj 24. U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, do izmene će doći zbog rekonstrukcije Ulice Branka Bajića, na delu od Ulice Petra Drapšina i Ulice Laze Kostića do Ulice kralja Petra prvog u Kovilju.",
+                "text_translations": {
+                    "en": "We inform passengers that from August 13 to August 28, 2026, the route of bus line number 24 will be temporarily changed. In accordance with the decision of the City Administration for Traffic and Roads, the change will occur due to the reconstruction of Branko Bajić Street, on the part from Petra Drapšin Street and Laza Kostić Street to Kralja Petra prvič Street in Kovilje."
+                }
+            },
+            {
+                "text": "Na raskrsnici ulica Branka Bajića i Petra Drapšina autobusi će skretati desno u Ulicu Petra Drapšina, saobraćati pravo do Kralja Petra prvog, levo ulicom Kralja Petra prvog do Ulice Laze Kostića i desno nastavljati redovnom trasom.",
+                "text_translations": {
+                    "en": "At the intersection of Branko Bajića and Petra Drapšina streets, the buses will turn right into Petra Drapšina Street, drive straight to Kralja Petra the first, left along Kralja Petra the first to Laza Kostić Street and continue on the right on the regular route."
+                }
+            },
+            {
+                "text": "Na raskrsnici ulica Laze Kostića i Kralja Petra prvog autobusi će saobraćati levo Ulicom kralja Petra prvog do Ulice Petra Drapšina, skretati desno u Ulicu Petra Drapšina, nastavljati pravo do Ulice Branka Bajića, levo Ulicom Branka Bajića i dalje redovnom trasom.",
+                "text_translations": {
+                    "en": "At the intersection of Laza Kostića and Kralja Petra 1st streets, buses will drive left along Kralja Petra 1st Street to Petra Drapšina Street, turn right into Petra Drapšina Street, continue straight to Branka Bajić Street, left along Branka Bajić Street and continue along the regular route."
+                }
+            }
+        ],
+        "url": "http://www.gspns.co.rs/dokumenti/kovilj128.jpg",
+        "title_translations": {
+            "en": "Line 24 - Temporary route change in Kovilje"
+        }
+    },
+    {
+        "date": "10.08.2026",
+        "title": "Linija 14 – Privremeno ukidanje stajališta Veternik-Kralja Petra prvog",
+        "sections": [
+            {
+                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve,  od 11. 8. do 25. 8. 2026. godine privremeno se ukida autobusko stajalište Veternik-Kralja Petra prvog 97 (ispred auto salona „KIA“), smer sa Sajlova. Navedeno stajalište neće biti u funkciji zbog izvođenja građevinskih radova.",
+                "text_translations": {
+                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, from August 11 to August 25, 2026, the Veternik-Kralja Petra first bus stop at 97 (in front of the \"KIA\" car showroom), direction from Sajlov, will be temporarily closed. The said stop will not be in operation due to construction works."
+                }
+            }
+        ],
+        "title_translations": {
+            "en": "Line 14 - Temporary cancellation of the Veternik-Kralja Petar I stop"
         }
     },
     {
         "date": "06.08.2026",
-        "title": "Linije 68, 71, 76, 77, 78, 79, 80, 81 i 84 - Privremena izmena trase",
+        "title": "Linije 68, 71, 76, 77, 78, 79, 80, 81, 84 - Privremena izmena trase",
         "sections": [
             {
-                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve (broj:IV-34-5716/26) određuje se privremena izmena trase autobuskih linija broj 68, 71, 76, 77, 78, 79, 80, 81 i 84  u ulici Karađorđeva u Sremskoj Kamenici. Izmenjen režim saobraćanja linija važi od 06.08. do 23.08.2026.g.",
+                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve  određuje se privremena izmena trase autobuskih linija broj 68, 71, 76, 77, 78, 79, 80, 81 i 84  u Karađorđevoj ulici u Sremskoj Kamenici. Izmenjen režim saobraćanja linija važi od 6. 8. do 23. 8. 2026.",
                 "text_translations": {
-                    "en": "In accordance with the decision of the City Administration for Traffic and Roads (number: IV-34-5716/26), a temporary change in the route of bus lines number 68, 71, 76, 77, 78, 79, 80, 81 and 84 in Karađorđeva Street in Sremska Kamenica is determined. The changed traffic mode of the lines is valid from 06.08. until August 23, 2026."
+                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, a temporary change in the route of bus lines 68, 71, 76, 77, 78, 79, 80, 81 and 84 in Karađorđeva Street in Sremska Kamenica is determined. The changed traffic regime of the lines is valid from 6 August to 23 August 2026."
                 }
             },
             {
-                "text": "AUTOBUSI NA LINIJAMA BROJ 68, 71, 76, 77, 78, 79, 80, 81 i 84 MENJAJU TRASU KRETANJA:",
+                "text": "Smer iz Novog Sada",
                 "text_translations": {
-                    "en": "BUSES ON LINES 68, 71, 76, 77, 78, 79, 80, 81 and 84 ARE CHANGING THE TRAVEL ROUTE:"
+                    "en": "Direction from Novi Sad"
                 }
             },
             {
-                "text": "Smer iz Novog Sada: Od raskrsnice ulica Trg Zmaj Jove i Ive Lole Ribara autobusi  saobraćaju levo ulicom Ive Lole Ribara, zatim desno na Paragovski put, levo na Ledinački put i dalje nastavljaju redovnom trasom kretanja.",
+                "text": "Od raskrsnice Trg Zmaj Jove/Ive Lole Ribara autobusi  saobraćaju levo ulicom Ive Lole Ribara, zatim skreću desno na Paragovski put, levo na Ledinački put i dalje nastavljaju redovnom trasom kretanja.",
                 "text_translations": {
-                    "en": "Direction from Novi Sad: From the intersection of Trg Zmaj Jove and Ive Lola Ribara streets, buses drive left along Ive Lola Ribara street, then right onto Paragovski put, left onto Ledinački put and continue along the regular route."
+                    "en": "From the Trg Zmaj Jove/Ive Lola Ribara intersection, buses drive left along Ive Lola Ribara street, then turn right onto Paragovski put, left onto Ledinački put and continue along the regular route."
                 }
             },
             {
-                "text": "Smer iz Sremske Kamenice: Od raskrsnice ulica Ledinački put i Paragovski put autobusi saobraćaju desno na Paragovski put, zatim levo ulicom Ive Lole Ribara, desno na Trg Zmaj Jove i dalje nastavljaju redovnom trasom kretanja.",
+                "text": "Smer iz Sremske Kamenice",
                 "text_translations": {
-                    "en": "Direction from Sremska Kamenica: From the intersection of Ledinački put and Paragovski put, buses drive right to Paragovski put, then left to Ive Lola Ribara street, right to Trg Zmaj Jove and continue along the regular route."
+                    "en": "Direction from Sremska Kamenica"
+                }
+            },
+            {
+                "text": "Od raskrsnice Ledinački put/Paragovski put autobusi saobraćaju desno na Paragovski put, zatim levo Ulicom Ive Lole Ribara, desno na Trg Zmaj Jove i dalje nastavljaju redovnom trasom kretanja.",
+                "text_translations": {
+                    "en": "From the intersection of Ledinački put/Paragovski put, buses turn right to Paragovski put, then left to Ive Lola Ribara Street, right to Trg Zmaj Jove and continue along the regular route."
                 }
             },
             {
@@ -80,7 +114,7 @@
             }
         ],
         "title_translations": {
-            "en": "Lines 68, 71, 76, 77, 78, 79, 80, 81 and 84 - Temporary route change"
+            "en": "Lines 68, 71, 76, 77, 78, 79, 80, 81, 84 - Temporary route change"
         }
     },
     {
@@ -139,27 +173,6 @@
         "url": "http://www.gspns.co.rs/dokumenti/srejovica.jpg",
         "title_translations": {
             "en": "Line 52 - Permanent change of route through Dragoslav Srejovića Street"
-        }
-    },
-    {
-        "date": "03.06.2026",
-        "title": "Linije 10, 14, 41, 42, 43 – Privremeno ukidanje stajališta „Rumenački put – Avijatičarska“",
-        "sections": [
-            {
-                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, od 04. 06. 2026. godine privremeno se ukida stajalište „Rumenački put – Avijatičarska“.",
-                "text_translations": {
-                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, the stop \"Rumenački put - Avijatičarska\" will be temporarily abolished from June 4, 2026."
-                }
-            },
-            {
-                "text": "Navedeno stajalište linija 10, 14, 41, 42 i 43 neće biti u funkciji do završetka radova na pristupnim putevima za privremenu železničku stanicu.",
-                "text_translations": {
-                    "en": "The mentioned stop of lines 10, 14, 41, 42 and 43 will not be in operation until the completion of works on the access roads for the temporary railway station."
-                }
-            }
-        ],
-        "title_translations": {
-            "en": "Lines 10, 14, 41, 42, 43 - Temporary cancellation of the \"Rumenački put - Avijatičarska\" stop"
         }
     },
     {
