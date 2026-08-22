@@ -1,5 +1,24 @@
 [
     {
+        "date": "20. avgust 2026.",
+        "title": "Privremena izmena trasa linija broj 5",
+        "sections": [
+            {
+                "text": "Povodom održavanja manifestacije“Auto skup TSC Street Dreams 2K25″ koja će se održati u nedelju 23.08.2026. godine u vremenu od 10:00 do 22:00 časova, linija gradskog prevoza broj 5 Ž. stanica — Bulevar Svetog Pantelejmona, u periodu privremene izmene režima saobraćaja (od 10:00 do 22:00), održava se skraćeno do raskrsnice Bulevar Svetog Pantelejmona — Despota Đurđa.",
+                "text_translations": {
+                    "en": "On the occasion of the event \"Car Rally TSC Street Dreams 2K25\", which will take place on Sunday, August 23, 2026, from 10:00 a.m. to 10:00 p.m., the city transport line number 5 from the railway station — Bulevar Sveti Panteleimon, during the period of temporary change of traffic regime (from 10:00 a.m. to 10:00 p.m.), is held abbreviated to the intersection Bulevar Svetog Panteleimon — Despot Đurđa."
+                }
+            }
+        ],
+        "url": "https://jgpnis.rs/20/08/2026/novosti/privremena-izmena-trasa-linija-broj-5/",
+        "date_translations": {
+            "en": "August 20, 2026"
+        },
+        "title_translations": {
+            "en": "Temporary change of routes of line number 5"
+        }
+    },
+    {
         "date": "6. avgust 2026.",
         "title": "Privremena izmena trasa linija broj 2, 34, 15, 15L, 16 i 17L",
         "sections": [
@@ -316,37 +335,6 @@
         },
         "title_translations": {
             "en": "Summer timetable from Saturday, June 20, 2026"
-        }
-    },
-    {
-        "date": "12. jun 2026.",
-        "title": "Privremena izmena trasa linija javnog prevoza broj 34A, 34B, 22,23,23L i 23K",
-        "sections": [
-            {
-                "text": "Zbog izvođenja radova na infrastrukturnom (magistralnom) toplovodu vrši se potpuna obustava saobraćaja u ulici Zetska, na delu od ulice Ljube Nenadovića do Medicinske škole „Dr. Miodrag Lazić“, u periodu od 17.06.2026. godine do 04.07.2026. godine . Svi polasci na linijama javnog gradskog i prigradskog prevoza putnika br.22, 23, 23L, 23K i 34 preusmeravaju se tako da se vozila javnog gradskog prevoza kreću sledećim trasama:",
-                "text_translations": {
-                    "en": "Due to the execution of works on the infrastructure (main) heat pipe, there is a complete suspension of traffic on Zetska Street, on the part from Ljuba Nenadovića Street to the \"Dr. Miodrag Lazić\" Medical School, in the period from June 17, 2026. until July 4, 2026. years. All departures on public city and suburban passenger transport lines No. 22, 23, 23L, 23K and 34 are rerouted so that public city transport vehicles move along the following routes:"
-                }
-            },
-            {
-                "text": "Na izmenjenim trasama linija koristiće se postojeća stajališta.",
-                "text_translations": {
-                    "en": "Existing stops will be used on the changed routes."
-                }
-            },
-            {
-                "text": "Za sve ostale informacije možete se obratiti informativnom centru JKP Direkcije za javni prevoz grada Niša na telefone 018/505-656, 018/505-665 ili putem veb sajta http://jgpnis.rs/ .",
-                "text_translations": {
-                    "en": "For all other information, you can contact the information center of the PUC Directorate for Public Transport of the city of Niš at 018/505-656, 018/505-665 or via the website http://jgpnis.rs/."
-                }
-            }
-        ],
-        "url": "https://jgpnis.rs/12/06/2026/novosti/privremena-izmena-trasa-linija-javnog-prevoza-broj-34a-34b-222323l-i-23k/",
-        "date_translations": {
-            "en": "June 12, 2026"
-        },
-        "title_translations": {
-            "en": "Temporary change of routes of public transport lines number 34A, 34B, 22, 23, 23L and 23K"
         }
     }
 ]

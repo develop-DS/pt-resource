@@ -1,17 +1,136 @@
 [
     {
-        "date": "14.08.2026",
-        "title": "Linije 68, 71, 76, 77, 78, 79, 80, 81, 84 – Povratak na redovne trase",
+        "date": "21.08.2026",
+        "title": "Linije 1, 8, 17 – Privremena izmena trase u Ulici Jovana Subotića",
         "sections": [
             {
-                "text": "Obaveštavamo putnike da autobusi na linijama 68, 71, 76, 77, 78, 79, 80, 81, 84 saobraćaju redovnim trasama 14. 8. od  17 časova. Uslovi za povratak na redovne trase stekli su se završetkom radova u Karađorđevoj ulici u Sremskoj Kamenici.",
+                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, zbog radova u Ulici Jovana Subotića od 24. 8. do 28. 8. 2026. godine privremeno će biti izmenjene trase autobuskih linija broj 1, 8  i 17.",
                 "text_translations": {
-                    "en": "We inform passengers that buses on lines 68, 71, 76, 77, 78, 79, 80, 81, 84 operate on regular routes on August 14 from 5 p.m. The conditions for returning to regular routes were achieved with the completion of works in Karađorđeva Street in Sremska Kamenica."
+                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, due to works in Jovana Subotić Street from August 24 to August 28, 2026, the routes of bus lines 1, 8 and 17 will be temporarily changed."
+                }
+            },
+            {
+                "text": "LINIJA 1",
+                "text_translations": {
+                    "en": "LINE 1"
+                }
+            },
+            {
+                "text": "Na raskrsnici Kisačka/Bulevar kralja Petra prvog autobusi će skretati desno na Bulevar kralja Petra prvog, levo u Ulicu braće Jovandić, saobraćati Ulicom vojvode Bojovića, skretati desno u Ulicu Jovana Subotića i dalje će nastavljati redovnom trasom.",
+                "text_translations": {
+                    "en": "At the intersection of Kisačka/Bulevar Kralja Petar I, buses will turn right onto Bulevar Kralja Petar I, left into Ulica Brače Jovandić, drive through Ulica Vojvoda Bojovića, turn right into Ulica Jovana Subotić and continue on the regular route."
+                }
+            },
+            {
+                "text": "Na izmenjenom delu trase koristiće se stajalište  BULEVAR KRALJA PETRA PRVOG- KISAČKA.",
+                "text_translations": {
+                    "en": "On the changed part of the route, the stop KRALJA PETRA PRVOG - KISAČKA will be used."
+                }
+            },
+            {
+                "text": "Na raskrsnici Vojvode Bojovića/Jovana Subotića autobusi će skretati levo u Ulicu vojvode Bojovića, saobraćati Ulicom braće Jovandić, skretati desno na Bulevar kralja Petra prvog i saobraćati do Kisačke ulice gde će skretati levo i nastavljati redovnom trasom.",
+                "text_translations": {
+                    "en": "At the intersection of Vojvoda Bojović/Jovan Subotić, buses will turn left into Vojvoda Bojovića Street, drive through Brače Jovandić Street, turn right onto Kralja Petar 1 Boulevard and drive to Kisačka Street, where they will turn left and continue along the regular route."
+                }
+            },
+            {
+                "text": "Na izmenjenom delu trase koristiće se stajalište  VOJVODE BOJOVIĆA -SOCIJALNO.",
+                "text_translations": {
+                    "en": "On the changed part of the route, the stop VOJVODE BOJOVĆ - SOCIJALNO will be used."
+                }
+            },
+            {
+                "text": "LINIJA 8",
+                "text_translations": {
+                    "en": "LINE 8"
+                }
+            },
+            {
+                "text": "Na raskrsnici Bulevar oslobođenja/Bulevar kralja Petra prvog autobusi će skretati desno na Bulevar oslobođenja, levo u Jevrejsku ulicu, desno na Bulevar Mihajla Pupina, gde će nastavljati redovnom trasom.",
+                "text_translations": {
+                    "en": "At the intersection of Boulevard of Liberation/Bulevar of King Peter the First, buses will turn right onto Boulevard of Liberation, left into Jevrejska Street, right onto Boulevard of Mihajla Pupin, where they will continue on their regular route."
+                }
+            },
+            {
+                "text": "Na izmenjenom delu trase koristiće se stajalište  BULEVAR OSLOBOĐENJA - BULEVAR KRALJA PETRA PRVOG (Lutrija).",
+                "text_translations": {
+                    "en": "On the changed part of the route, the stop BULEVAR OSLOBOĖENJA - BULEVAR KRALJA PETRA PRVOG (Lottery) will be used."
+                }
+            },
+            {
+                "text": "Na raskrsnici Bulevar Mihajla Pupina/Jevrejska ulica autobusi će skretati levo u Jevrejsku ulicu, desno na Bulevar oslobođenja, levo na Bulevar kralja Petra prvog i nastavljati redovnom trasom.",
+                "text_translations": {
+                    "en": "At the intersection of Bulevar Mihajla Pupina/Jevrejska ulica, buses will turn left onto Jevrejska ulica, right onto Bulevar oslobodenja, left onto Bulevar Kralja Petar the First and continue along the regular route."
+                }
+            },
+            {
+                "text": "Na izmenjenom delu trase koristiće se stajalište  BULEVAR OSLOBOĐENJA – JEVREJSKA (Futoška pijaca).",
+                "text_translations": {
+                    "en": "On the changed part of the route, the stop BULEVAR OSLOBOĖENJA - JEVREJSKA (Futoška pijaca) will be used."
+                }
+            },
+            {
+                "text": "LINIJA 17",
+                "text_translations": {
+                    "en": "LINE 17"
+                }
+            },
+            {
+                "text": "Na raskrsnici Kisačka/Bulevar kralja Petra prvog autobusi će skretati desno na Bulevar kralja Petra prvog, levo u Ulicu braće Jovandić, saobraćati Ulicom vojvode Bojovića, skretati desno u Ulicu Jovana Subotića i nastavljati redovnom trasom.",
+                "text_translations": {
+                    "en": "At the Kisačka/King Petar I Boulevard intersection, buses will turn right onto Kralja Petar I Boulevard, left into Ulica Brače Jovandić, drive through Ulica Vojvoda Bojovića, turn right into Ulica Jovana Subotić and continue along the regular route."
+                }
+            },
+            {
+                "text": "Na izmenjenom delu trase koristiće se stajalište  BULEVAR KRALJA PETRA PRVOG- KISAČKA.",
+                "text_translations": {
+                    "en": "On the changed part of the route, the stop KRALJA PETRA PRVOG - KISAČKA will be used."
+                }
+            },
+            {
+                "text": "Redovna trasa.",
+                "text_translations": {
+                    "en": "Regular route."
+                }
+            },
+            {
+                "text": "Mapu izmena pogledajte OVDE",
+                "text_translations": {
+                    "en": "See the map of changes HERE"
                 }
             }
         ],
+        "url": "http://www.gspns.co.rs/dokumenti/centar.jpg",
         "title_translations": {
-            "en": "Lines 68, 71, 76, 77, 78, 79, 80, 81, 84 - Return to regular routes"
+            "en": "Lines 1, 8, 17 – Temporary change of route in Jovana Subotić Street"
+        }
+    },
+    {
+        "date": "20.08.2026",
+        "title": "Linija 54 – Privremena izmena trase u Futogu",
+        "sections": [
+            {
+                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, u periodu od 20. avgusta do 4. septembra 2026. godine određuje se privremena izmena trase autobuske linije broj 54.",
+                "text_translations": {
+                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, in the period from August 20 to September 4, 2026, a temporary change of the route of bus line number 54 is determined."
+                }
+            },
+            {
+                "text": "Do završetka radova na popravci i rekonstrukciji kolovoza, autobusi će umesto Grmečkom ulicom u oba smera saobraćati ŽELEZNIČKOM ULICOM.",
+                "text_translations": {
+                    "en": "Until the completion of the roadway repair and reconstruction works, instead of Grmečka Street, buses will travel in both directions on ŽELEZNIČKA STREET."
+                }
+            },
+            {
+                "text": "Na izmenjenom delu trase koristiće se stajališta „Rade Kondića – NIS benzinska pumpa“ i „Železnička – Dom za stara lica“ (smer iz Novog Sada), a u povratku stajališta „Železnička – Dom za stara lica“ i „Železnička – Njegoševa“.",
+                "text_translations": {
+                    "en": "On the modified part of the route, the stops \"Rade Kondića - NIS gas station\" and \"Zeleznička - Dom za stara lica\" (direction from Novi Sad) will be used, and on the way back the stops \"Zeleznička - Dom za stara lica\" and \"Zeleznička - Njegoševa\" will be used."
+                }
+            }
+        ],
+        "url": "http://www.gspns.co.rs/dokumenti/futog208.png",
+        "title_translations": {
+            "en": "Line 54 – Temporary route change in Futog"
         }
     },
     {
@@ -73,51 +192,6 @@
         }
     },
     {
-        "date": "06.08.2026",
-        "title": "Linije 68, 71, 76, 77, 78, 79, 80, 81, 84 - Privremena izmena trase",
-        "sections": [
-            {
-                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve  određuje se privremena izmena trase autobuskih linija broj 68, 71, 76, 77, 78, 79, 80, 81 i 84  u Karađorđevoj ulici u Sremskoj Kamenici. Izmenjen režim saobraćanja linija važi od 6. 8. do 23. 8. 2026.",
-                "text_translations": {
-                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, a temporary change in the route of bus lines 68, 71, 76, 77, 78, 79, 80, 81 and 84 in Karađorđeva Street in Sremska Kamenica is determined. The changed traffic regime of the lines is valid from 6 August to 23 August 2026."
-                }
-            },
-            {
-                "text": "Smer iz Novog Sada",
-                "text_translations": {
-                    "en": "Direction from Novi Sad"
-                }
-            },
-            {
-                "text": "Od raskrsnice Trg Zmaj Jove/Ive Lole Ribara autobusi  saobraćaju levo ulicom Ive Lole Ribara, zatim skreću desno na Paragovski put, levo na Ledinački put i dalje nastavljaju redovnom trasom kretanja.",
-                "text_translations": {
-                    "en": "From the Trg Zmaj Jove/Ive Lola Ribara intersection, buses drive left along Ive Lola Ribara street, then turn right onto Paragovski put, left onto Ledinački put and continue along the regular route."
-                }
-            },
-            {
-                "text": "Smer iz Sremske Kamenice",
-                "text_translations": {
-                    "en": "Direction from Sremska Kamenica"
-                }
-            },
-            {
-                "text": "Od raskrsnice Ledinački put/Paragovski put autobusi saobraćaju desno na Paragovski put, zatim levo Ulicom Ive Lole Ribara, desno na Trg Zmaj Jove i dalje nastavljaju redovnom trasom kretanja.",
-                "text_translations": {
-                    "en": "From the intersection of Ledinački put/Paragovski put, buses turn right to Paragovski put, then left to Ive Lola Ribara Street, right to Trg Zmaj Jove and continue along the regular route."
-                }
-            },
-            {
-                "text": "Na izmenjenom delu trase autobusi koriste stajališta drugih linija.",
-                "text_translations": {
-                    "en": "On the changed part of the route, buses use stops of other lines."
-                }
-            }
-        ],
-        "title_translations": {
-            "en": "Lines 68, 71, 76, 77, 78, 79, 80, 81, 84 - Temporary route change"
-        }
-    },
-    {
         "date": "21.07.2026",
         "title": "Linija 16 – Izmena vremena polaska",
         "sections": [
@@ -130,329 +204,6 @@
         ],
         "title_translations": {
             "en": "Line 16 – Change of departure time"
-        }
-    },
-    {
-        "date": "19.06.2026",
-        "title": "Od 22. juna LETNJI red vožnje",
-        "sections": [
-            {
-                "text": "JGSP „Novi Sad“ obaveštava putnike da će od 22. juna 2026. godine  autobusi saobraćati po organizaciji prevoza za letnji period. Novi red vožnje podrazumeva vremenske korekcije autobuskih polazaka,  koje su usklađene sa potrebama korisnika usluga prevoza u narednim mesecima i očekivanim smanjenjem broja putnika zbog korišćenja godišnjih odmora i letnjeg raspusta.",
-                "text_translations": {
-                    "en": "JGSP \"Novi Sad\" informs passengers that from June 22, 2026, buses will run according to the transportation organization for the summer period. The new timetable implies time corrections of bus departures, which are aligned with the needs of users of transportation services in the coming months and the expected decrease in the number of passengers due to the use of annual vacations and summer vacation."
-                }
-            }
-        ],
-        "title_translations": {
-            "en": "From June 22, SUMMER timetable"
-        }
-    },
-    {
-        "date": "18.06.2026",
-        "title": "Linija 52 – Trajna izmena trase kroz Ulicu Dragoslava Srejovića",
-        "sections": [
-            {
-                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, od 22. 06. 2026. godine menja se trasa linije broj 52 (Novi Sad-Veternik).",
-                "text_translations": {
-                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, as of June 22, 2026, the route of line number 52 (Novi Sad-Veternik) is changing."
-                }
-            },
-            {
-                "text": "Ž.stanica-Bulevar oslobođenja-Futoška-Bulevar Evrope-Radomira Raše Radujkova-Bulevar Jovana Dučića-Dragoslava Srejovića-Tome Maksimovića-Kralja Petra prvog-Svetozara Miletića-Vojvode Putnika-Vojvode Bojovića.",
-                "text_translations": {
-                    "en": "Railway Station - Boulevard of Liberation - Futoška - Boulevard of Europe - Radomir Raša Radujkova - Boulevard of Jovan Dučić - Dragoslav Srejović - Tom Maksimović - King Peter the First - Svetozar Miletić - Vojvode Putnik - Vojvode Bojović."
-                }
-            },
-            {
-                "text": "Vojvode Bojovića-Školska-Braće Tokin-Omladinska- Kralja Petra prvog -Tome Maksimovića-Dragoslava Srejovića-Radomira Raše Radujkova-Bulevar Evrope-Futoška-Bulevar oslobođenja-Ž.stanica",
-                "text_translations": {
-                    "en": "Vojvode Bojović-Scholska-Braće Tokin-Youth-Kralja Peter the First-Tome Maksimović-Dragoslav Srejović-Radomir Raša Radujkova-Bulevar Evrope-Futoška-Bulevar oslobođenja-Ž.stanica"
-                }
-            }
-        ],
-        "url": "http://www.gspns.co.rs/dokumenti/srejovica.jpg",
-        "title_translations": {
-            "en": "Line 52 - Permanent change of route through Dragoslav Srejovića Street"
-        }
-    },
-    {
-        "date": "18.05.2026",
-        "title": "Linije 6, 11B – Privremena izmena trase na keju (druga faza radova)",
-        "sections": [
-            {
-                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, od 19. 05. do 15. 08. 2026. godine privremeno će biti izmenjene trase linija broj 6 i 11B zbog druge faze radova na rekonstrukciji poveznog vrelovoda GRS-TO JUG, od Varadinskog mosta do Ulice Marka Miljanova.",
-                "text_translations": {
-                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, from May 19 to August 15, 2026, the routes of lines 6 and 11B will be temporarily changed due to the second phase of works on the reconstruction of the connecting spring pipeline GRS-TO JUG, from Varadinski bridge to Marka Miljanova Street."
-                }
-            },
-            {
-                "text": "LINIJA 6",
-                "text_translations": {
-                    "en": "LINE 6"
-                }
-            },
-            {
-                "text": "Autobusi će iz Ulice Marka Miljanova ulaziti u kružni tok, saobraćati pravo preko Žeželjevog mosta, skretati desno na Kej skojevaca, zatim desno na Varadinski most, produžavati Bulevarom Mihajla Pupina i dalje nastavljati redovnom trasom kretanja.",
-                "text_translations": {
-                    "en": "Buses will enter the roundabout from Marko Miljanova Street, drive straight across the Žeželje Bridge, turn right onto the Skojevac Quay, then right onto the Varadinski Bridge, continue along the Mihajla Pupin Boulevard and continue along the regular route."
-                }
-            },
-            {
-                "text": "Redovna trasa.",
-                "text_translations": {
-                    "en": "Regular route."
-                }
-            },
-            {
-                "text": "LINIJA 11 A",
-                "text_translations": {
-                    "en": "LINE 11 A"
-                }
-            },
-            {
-                "text": "Autobusi će od Beogradskog keja saobraćati redovnom trasom.",
-                "text_translations": {
-                    "en": "Buses will run on a regular route from Belgrade Quay."
-                }
-            },
-            {
-                "text": "LINIJA 11 B",
-                "text_translations": {
-                    "en": "LINE 11 B"
-                }
-            },
-            {
-                "text": "Autobusi će do Ulice Marka Miljanova saobraćati redovnom trasom, ulaziti u kružni tok, nastavljati pravo preko Žeželjevog mosta, skretati desno na Kej skojevaca, zatim desno na Varadinski most i produžavati pravo Bulevarom Mihajla Pupina, skretati levo u Ulicu Žarka Zrenjanina, zatim pravo Stražilovskom ulicom i dalje nastavljati redovnom trasom kretanja.",
-                "text_translations": {
-                    "en": "Buses will travel on the regular route to Marka Miljanova Street, enter the roundabout, continue straight across the Žeželje Bridge, turn right onto the Skojevac Quay, then right onto the Varadinski Bridge and continue straight along Mihajla Pupina Boulevard, turn left onto Žarka Zrenjanina Street, then straight onto Stražilovska Street and continue along the regular route."
-                }
-            },
-            {
-                "text": "NA IZMENJENOM DELU TRASE KORISTIĆE SE POSTOJEĆE STAJALIŠTE „BULEVAR MIHAJLA PUPINA-DUNAVSKI PARK“  NA BULEVARU MIHAJLA PUPINA.",
-                "text_translations": {
-                    "en": "THE EXISTING STOP \"BOULEVARD MIHAJLA PUPINA-DUNAVSKI PARK\" ON BOULEVARD MIHAJLA PUPINA WILL BE USED ON THE CHANGED PART OF THE ROUTE."
-                }
-            }
-        ],
-        "url": "http://www.gspns.co.rs/dokumenti/kej1805.jpg",
-        "title_translations": {
-            "en": "Lines 6, 11B – Temporary change of route on the quay (second phase of works)"
-        }
-    },
-    {
-        "date": "09.04.2026",
-        "title": "Linije 11A, 11B – Privremena izmena trase u Ulici Maksima Gorkog od 14.04.    ",
-        "sections": [
-            {
-                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, od 14. aprila 2026. godine, pa do završetka radova u Ulici Maksima Gorkog, privremeno se menja trasa autobuskih linija 11A i 11B.",
-                "text_translations": {
-                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, from April 14, 2026, until the completion of the works in Maksima Gorki Street, the route of bus lines 11A and 11B will be temporarily changed."
-                }
-            },
-            {
-                "text": "LINIJA 11A  (Ž.stanica-Bolnica-Liman-Ž.stanica)",
-                "text_translations": {
-                    "en": "LINE 11A (Train station-Hospital-Liman-Train station)"
-                }
-            },
-            {
-                "text": "Na raskrsnici Bulevar cara Lazara/Stražilovska autobusi će produžavati pravo Bulevarom cara Lazara, zatim Kejom žrtava racija do raskrsnice sa Ulicom Maksima Gorkog i dalje nastavljati ranije izmenjenom trasom zbog radova na Keju.",
-                "text_translations": {
-                    "en": "At the intersection of Tsar Lazar Boulevard/Stražilovska, buses will continue straight along Tsar Lazar Boulevard, then along the Raid Victims Quay to the intersection with Maksima Gorki Street, and continue along the previously changed route due to works on the Quay."
-                }
-            },
-            {
-                "text": "LINIJA 11B (Ž.stanica- Liman-Bolnica-Ž.stanica)",
-                "text_translations": {
-                    "en": "LINE 11B (Train station - Liman - Hospital - Train station)"
-                }
-            },
-            {
-                "text": "Na raskrsnici Kej žrtava racija/Maksima Gorkog autobusi će saobraćati pravo Kejom žrtava racija, zatim Bulevarom cara Lazara do raskrsnice sa Stražilovskom ulicom, te dalje nastavljati redovnom trasom.",
-                "text_translations": {
-                    "en": "At the intersection of Raid Victims Quay/Maksim Gorki, buses will drive straight along Raid Victims Quay, then Tsar Lazar Boulevard to the intersection with Stražilovska Street, and then continue on the regular route."
-                }
-            }
-        ],
-        "url": "http://www.gspns.co.rs/dokumenti/maksima09.jpg",
-        "title_translations": {
-            "en": "Lines 11A, 11B – Temporary change of route in Maksima Gorki Street from 14.04."
-        }
-    },
-    {
-        "date": "03.04.2026",
-        "title": "Linije 6, 11A, 11B – Izmena trase na Beogradskom keju od 06. 04. (1. faza)",
-        "sections": [
-            {
-                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, od 06. 04. 2026. godine do završetka prve faze radova na rekonstrukciji poveznog vrelovoda GRS-TO JUG od Varadinskog mosta do Ulice Marka Miljanova, privremeno će biti izmenjene trase autobuskih linija broj 6, 11A i 11B.",
-                "text_translations": {
-                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, from April 6, 2026, until the completion of the first phase of works on the reconstruction of the connecting hot water pipeline GRS-TO JUG from Varadinski bridge to Marka Miljanova Street, the routes of bus lines number 6, 11A and 11B will be temporarily changed."
-                }
-            },
-            {
-                "text": "Linija 6",
-                "text_translations": {
-                    "en": "Line 6"
-                }
-            },
-            {
-                "text": "Autobusi će iz Ulice Filipa Višnjića skretati desno u Ulicu Marka Miljanova, levo u Kosovsku ulicu, levo na Trg republike, nastavljati pravo Ulicom Miloša Bajića, skretati desno na Beogradski kej i dalje nastavljati redovnom trasom kretanja. Polasci do „Danubiusa“ neće saobraćati.",
-                "text_translations": {
-                    "en": "Buses will turn right from Filipa Višnjić Street to Marka Miljanova Street, left to Kosovska Street, left to Trg Republike, continue straight along Miloša Bajić Street, turn right to Beogradski Kej and continue along the regular route. Departures to \"Danubius\" will not operate."
-                }
-            },
-            {
-                "text": "NA IZMENJENOM DELU TRASE KORISTIĆE SE PRIVREMENA STAJALIŠTA U KOSOVSKOJ ULICI (NAKON LEVOG SKRETANJA IZ ULICE MARKA MILJANOVA) I ISPRED DOMA VOJSKE NA BEOGRADSKOM KEJU (NAKON DESNOG SKRETANJA IZ ULICE MILOŠA BAJIĆA).",
-                "text_translations": {
-                    "en": "TEMPORARY STOPS WILL BE USED ON THE CHANGED PART OF THE ROUTE IN KOSOVSKÁ STREET (AFTER THE LEFT TURN FROM MARKO MILJANOVA STREET) AND IN FRONT OF THE ARMY HOME ON BELGRADE QUAY (AFTER THE RIGHT TURN FROM MILOŠA BAJIĆA STREET)."
-                }
-            },
-            {
-                "text": "Autobusi će saobraćati redovnom trasom.",
-                "text_translations": {
-                    "en": "Buses will operate on a regular route."
-                }
-            },
-            {
-                "text": "Linija 11A (Smer Ž.stanica-Bolnica-Liman-Ž.stanica)",
-                "text_translations": {
-                    "en": "Line 11A (Direction Train Station-Hospital-Liman-Train Station)"
-                }
-            },
-            {
-                "text": "Autobusi će sa Beogradskog keja skretati levo u Ulicu Miloša Bajića, nastavljati pravo Trgom republike, skretati desno u Kosovsku ulicu i dalje saobraćati pravo redovnom trasom do Temerinske ulice gde će skretati levo, zatim desno u Kisačku ulicu, levo na Bulevar kralja Petra I, desno na Bulevar oslobođenja i produžavati do svog poslednjeg stajališta.",
-                "text_translations": {
-                    "en": "Buses will turn left from Beogradski Quay into Miloša Bajić Street, continue straight along Trg Republike, turn right into Kosovska Street and continue straight along the regular route to Temerinska Street, where they will turn left, then right into Kisačka Street, left onto Kralja Petra I Boulevard, right onto Liberation Boulevard and continue to their last stop."
-                }
-            },
-            {
-                "text": "NA IZMENJENOM DELU TRASE KORISTIĆE SE SVA REDOVNA STAJALIŠTA DRUGIH LINIJA, KAO I PRIVREMENA STAJALIŠTA U ULICI MILOŠA BAJIĆA (NAKON LEVOG SKRETANJA SA BEOGRADSKOG KEJA) I TEMERINSKOJ ULICI (NAKON LEVOG SKRETANJA IZ GUNDULIĆEVE ULICE).",
-                "text_translations": {
-                    "en": "ALL REGULAR STOPS OF OTHER LINES WILL BE USED ON THE CHANGED SECTION OF THE ROUTE, AS WELL AS TEMPORARY STOPS IN MILOSHA BAJIĆA STREET (AFTER THE LEFT TURN FROM BELGRADE QUAY) AND TEMERINSKA STREET (AFTER THE LEFT TURN FROM GUNDULIĆEVU STREET)."
-                }
-            },
-            {
-                "text": "Linija 11B (Ž.stanica- Liman-Bolnica-Ž.stanica)",
-                "text_translations": {
-                    "en": "Line 11B (Train station - Liman - Hospital - Train station)"
-                }
-            },
-            {
-                "text": "Autobusi će sa Bulevara Jaše Tomića skretati levo u Kisačku ulicu, desno u Partizansku ulicu, desno u Temerinsku ulicu, levo u Gundulićevu ulicu, nastavljati redovnom trasom do raskrsnice Kosovska/Marka Miljanova, produžavati Kosovskom ulicom, skretati levo na Trg republike, nastavljati pravo Ulicom Miloša Bajića, skretati desno na Beogradski kej i dalje saobraćati redovnom trasom kretanja.",
-                "text_translations": {
-                    "en": "From Bulevar Jaša Tomić, the buses will turn left into Kisačka Street, right into Partizanska Street, right into Temerinska Street, left into Gundulićeva Street, continue along the regular route to the Kosovska/Marka Miljanova intersection, continue along Kosovska Street, turn left onto Trg Republike, continue straight onto Miloša Bajić Street, turn right onto Beogradski Kej and continue on the regular route."
-                }
-            },
-            {
-                "text": "NA IZMENJENOM DELU TRASE KORISTIĆE SE POSTOJEĆE STAJALIŠTE „KISAČKA-PODVOŽNJAK“, KAO I PRIVREMENA STAJALIŠTA U KOSOVSKOJ ULICI (NAKON RASKRSNICE SA ULICOM MARKA MILJANOVA) I ISPRED DOMA VOJSKE NA BEOGRADSKOM KEJU (NAKON DESNOG SKRETANJA IZ ULICE MILOŠA BAJIĆA).",
-                "text_translations": {
-                    "en": "THE EXISTING STOP \"KISAČKA-PODVOZNJAK\" WILL BE USED ON THE CHANGED SECTION OF THE ROUTE, AS WELL AS TEMPORARY STOPS IN KOSOVSKÁ STREET (AFTER THE INTERSECTION WITH MARKA MILJANOVA STREET) AND IN FRONT OF THE ARMY HOME ON BELGRADE QUAY (AFTER THE RIGHT TURN FROM MILOSHA BAJIĆ STREET)."
-                }
-            }
-        ],
-        "url": "http://www.gspns.co.rs/dokumenti/podbara0304.jpg",
-        "title_translations": {
-            "en": "Lines 6, 11A, 11B – Change of the route on the Belgrade Quay from April 6 (1st phase)"
-        }
-    },
-    {
-        "date": "14.01.2026",
-        "title": "Red vožnje vanrednog prevoza Ranžirna železnička stanica Novi Sad - Centar",
-        "sections": [
-            {
-                "text": "JGSP \"Novi Sad\" obaveštava putnike da je uspostavljena vanredna linija od Ranžirne železničke stanice Novi Sad do centra grada (oba smera).",
-                "text_translations": {
-                    "en": "JGSP \"Novi Sad\" informs passengers that an emergency line has been established from the Novi Sad Shunting Railway Station to the city center (both directions)."
-                }
-            },
-            {
-                "text": "Polazno stajalište u smeru iz Novog Sada ka Ranžirnoj železničkoj stanici  je redovno autobusko stajalište je u Šafarikovoj ulici (početno stajalište linije broj 2).",
-                "text_translations": {
-                    "en": "The starting stop in the direction from Novi Sad to Ranžirna railway station is a regular bus stop in Šafarikova street (initial stop of line number 2)."
-                }
-            },
-            {
-                "text": "Duž cele trase na vanrednim polascima koristi se stajalište kod apoteke \"Tilija\" kod Železničke stanice (oba smera).",
-                "text_translations": {
-                    "en": "Along the entire route, on extraordinary departures, the stop at the pharmacy \"Tilija\" near the railway station (both directions) is used."
-                }
-            },
-            {
-                "text": "U skladu sa ugovorom sa „Srbijavozom“, na navedenoj relaciji prevoz  je BESPLATAN.",
-                "text_translations": {
-                    "en": "In accordance with the contract with \"Srbijavoz\", transportation on the specified route is FREE."
-                }
-            },
-            {
-                "text": "RED  VOŽNJE (radni dan, vikend, praznik)",
-                "text_translations": {
-                    "en": "DRIVING SCHEDULE (weekday, weekend, holiday)"
-                }
-            },
-            {
-                "text": "Smer Centar-Ranžirna železnička stanica",
-                "text_translations": {
-                    "en": "Direction Center-Shunting railway station"
-                }
-            },
-            {
-                "text": "07:15; 12:15; 14:15; 15:40; 19:05; 20:55",
-                "text_translations": {
-                    "en": "07:15; 12:15; 14:15; 15:40; 19:05; 20:55"
-                }
-            },
-            {
-                "text": "Smer Ranžirna železnička stanica - Centar",
-                "text_translations": {
-                    "en": "Direction Shunting railway station - Center"
-                }
-            },
-            {
-                "text": "06:35; 10:20; 13:45; 15:40; 19:00; 20:35",
-                "text_translations": {
-                    "en": "06:35; 10:20; 13:45; 15:40; 19:00; 20:35"
-                }
-            }
-        ],
-        "title_translations": {
-            "en": "Timetable of extraordinary transport Shunting railway station Novi Sad - Centar"
-        }
-    },
-    {
-        "date": "14.01.2026",
-        "title": "Red vožnje na vanrednim polascima Železnička stanica Petrovaradin - Centar od 14. 01.",
-        "sections": [
-            {
-                "text": "Kao ispomoć redovnim linijama 3, 9, 60, 61, 62 i 63 i dalje su na snazi vanredni, direktni polasci autobusa sa autobuskog stajališta „Petrovaradin/Železnička stanica“ u Preradovićevoj ulici (oba smera). Autobusi iz Petrovaradina do centra saobraćaju do stajališta kod SNP-a, a iz centra do Petrovaradina sa polaznog stajališta linije 12 u Šafarikovoj ulici ().\n\nDuž cele trase vanredni polasci u oba smera saobraćaju direktno, ne koristeći ostala stajališta.\n\nShodno ugovoru sa „Srbijavozom“, na navedenoj relaciji prevoz je BESPLATAN.",
-                "text_translations": {
-                    "en": "In addition to the regular lines 3, 9, 60, 61, 62 and 63, extraordinary, direct bus departures from the \"Petrovaradin/Railway Station\" bus stop in Preradovićeva Street (both directions) are still in force. Buses from Petrovaradin to the center run to the bus stop near SNP, and from the center to Petrovaradin from the departure stop of line 12 in Šafarikova street ().\n\nAlong the entire route, extraordinary departures in both directions operate directly, without using other stops.\n\nAccording to the contract with \"Srbijavoz\", transportation on the mentioned route is FREE."
-                }
-            },
-            {
-                "text": "Red vožnje na vanrednim autobuskim polascima Železnička stanica Petrovaradin - Centar pogledajte",
-                "text_translations": {
-                    "en": "See the schedule of non-scheduled bus departures from the Petrovaradin - Center railway station"
-                }
-            }
-        ],
-        "url": "http://www.gspns.co.rs/dokumenti/mapapetrovaradin_0502.pdf",
-        "title_translations": {
-            "en": "Timetable for non-scheduled departures from Petrovaradin - Center railway station from 14 January."
-        }
-    },
-    {
-        "date": "20.11.2024",
-        "title": "Linija 9A privremeno preusmerena do okretnice u Petrovaradinu",
-        "sections": [
-            {
-                "text": "Zbog preusmeravanja železničkog saobraćaja na Železničku stanicu Petrovaradin, obaveštavamo putnike da je zbog rasterećenja postojećih linija autobusa, linija 9A u smeru od Alibegovca produžena do petrovaradinske okretnice linija 3 i 9, odakle dalje saobraća redovnom trasom do Novog naselja. \n\nPodsećamo putnike da je na relaciji Šafarikova ulica - Železnička stanica Petrovaradin uvedena vanredna linija na kojoj je prevoz BESPLATAN, te da su građanima pored gradskih linija za prevoz do Železničke stanice Petrovaradin na raspolaganju i međumesne linije 60, 61, 62 i 63 koje kreću sa Međumesne autobuske stanice.",
-                "text_translations": {
-                    "en": "Due to the rerouting of railway traffic to the Petrovaradin Railway Station, we inform passengers that due to the relief of existing bus lines, line 9A in the direction of Alibegovec has been extended to the Petrovaradin turnpike of lines 3 and 9, from where it runs on a regular route to New Settlement. \n\nWe remind passengers that an extraordinary line has been introduced on the route Šafarikova Street - Petrovaradin Railway Station, where transport is FREE, and that in addition to the city lines for transport to the Petrovaradin Railway Station, intercity lines 60, 61, 62 and 63 are available to citizens, which depart from the Intercity Bus Station."
-                }
-            }
-        ],
-        "title_translations": {
-            "en": "Line 9A temporarily diverted to the turnpike in Petrovaradin"
         }
     }
 ]
