@@ -1,12 +1,88 @@
 [
     {
-        "date": "21.08.2026",
-        "title": "Linije 1, 8, 17 – Privremena izmena trase u Ulici Jovana Subotića",
+        "date": "28.08.2026",
+        "title": "Linije 1, 5, 8, 17 - Povratak na redovne trase u Ulici Jovana Subotića",
         "sections": [
             {
-                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, zbog radova u Ulici Jovana Subotića od 24. 8. do 28. 8. 2026. godine privremeno će biti izmenjene trase autobuskih linija broj 1, 8  i 17.",
+                "text": "Završeni su radovi u Ulici Jovana Subotića, čime su se stekli uslovi za povratak autobusa na linijama 1, 5, 8 i 17 na redovne trase 28. 8. od 9:00 časova.",
                 "text_translations": {
-                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, due to works in Jovana Subotić Street from August 24 to August 28, 2026, the routes of bus lines 1, 8 and 17 will be temporarily changed."
+                    "en": "The works in Jovana Subotić Street have been completed, which created the conditions for the return of buses on lines 1, 5, 8 and 17 to their regular routes on August 28 from 9:00 a.m."
+                }
+            }
+        ],
+        "title_translations": {
+            "en": "Lines 1, 5, 8, 17 - Return to regular routes in Jovana Subotić Street"
+        }
+    },
+    {
+        "date": "28.08.2026",
+        "title": "Linije 11A, 11B – Privremena izmena trase u Gundulićevoj ulici",
+        "sections": [
+            {
+                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve  o zatvaranju dela Gundulićeve ulice zbog izvođenja radova na izgradnji priključka, od 31. 8. do 21. 9. 2026. godine privremeno će biti izmenjene trase autobuskih linija 11A i 11B .",
+                "text_translations": {
+                    "en": "In accordance with the decision of the City Administration for Traffic and Roads on closing part of Gundulićeva Street due to the construction of the connection, from August 31 to September 21, 2026, the routes of bus lines 11A and 11B will be temporarily changed."
+                }
+            },
+            {
+                "text": "Autobusi na Beogradskom keju nastavljaju pravo i nakon drumsko-železničkog mosta  skreću levo u Venizelosovu ulicu, desno u Temerinsku ulicu, levo u Partizansku ulicu, levo u Kisačku ulicu, desno na Bulevar Jaše Tomića i dalje nastavljaju redovnom trasom.",
+                "text_translations": {
+                    "en": "Buses on Belgrade Quay continue straight and after the road-railway bridge turn left into Venizelosova Street, right into Temerinska Street, left into Partizanska Street, left into Kisačka Street, right onto Jaša Tomić Boulevard and continue along the regular route."
+                }
+            },
+            {
+                "text": "Na izmenjenom delu trase koristi se  stajalište „Beogradski kej - Marka Miljanova“ na Beogradskom keju.",
+                "text_translations": {
+                    "en": "On the modified part of the route, the stop \"Belgrade Quay - Marka Miljanova\" on the Belgrade Quay is used."
+                }
+            },
+            {
+                "text": "Autobusi iz Ulice Jovana Cvijića skreću levo u Temerinsku ulicu, desno u Venizelosovu ulicu, desno pored Kvantaša saobraćaju do kružnog toka, skreću levo u Ulicu Marka Miljanova, desno na Begradski kej i dalje nastavljaju redovnom trasom.",
+                "text_translations": {
+                    "en": "Buses from Jovana Cvijić Street turn left into Temerinska Street, right into Venizelosova Street, right past Kvantaš to the roundabout, turn left into Marko Miljanova Street, right onto Begradski Quay and continue along the regular route."
+                }
+            },
+            {
+                "text": "Na izmenjenom delu trase koristi se privremeno stajalište u Temerinskoj ulici, odmah nakon levog skretanja iz Ulice Jovana Cvijića.",
+                "text_translations": {
+                    "en": "On the changed part of the route, a temporary stop is used in Temerinska Street, immediately after the left turn from Jovana Cvijić Street."
+                }
+            },
+            {
+                "text": "Mapu izmena pogledajte OVDE",
+                "text_translations": {
+                    "en": "See the map of changes HERE"
+                }
+            }
+        ],
+        "url": "http://www.gspns.co.rs/dokumenti/gunduliceva.jpg",
+        "title_translations": {
+            "en": "Lines 11A, 11B – Temporary route change in Gundulićeva street"
+        }
+    },
+    {
+        "date": "28.08.2026",
+        "title": "Linija 1GL ponovo saobraća",
+        "sections": [
+            {
+                "text": "Sanirana je havarija na Klisi, čime su sa stekli uslovi za ponovo uspostavljanje saobraćaja na liniji 1GL 28. 8.  od 16 časova.",
+                "text_translations": {
+                    "en": "The accident on Klisa was repaired, which created the conditions for the re-establishment of traffic on line 1GL on August 28 from 4 p.m."
+                }
+            }
+        ],
+        "title_translations": {
+            "en": "Line 1GL is running again"
+        }
+    },
+    {
+        "date": "21.08.2026",
+        "title": "Linije 1, 5, 8, 17 – Privremena izmena trase u Ulici Jovana Subotića",
+        "sections": [
+            {
+                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, zbog radova u Ulici Jovana Subotića od 24. 8. do 28. 8. 2026. godine privremeno će biti izmenjene trase autobuskih linija broj 1, 5, 8  i 17.",
+                "text_translations": {
+                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, due to works in Jovana Subotić Street from August 24 to August 28, 2026, the routes of bus lines 1, 5, 8 and 17 will be temporarily changed."
                 }
             },
             {
@@ -18,7 +94,7 @@
             {
                 "text": "Na raskrsnici Kisačka/Bulevar kralja Petra prvog autobusi će skretati desno na Bulevar kralja Petra prvog, levo u Ulicu braće Jovandić, saobraćati Ulicom vojvode Bojovića, skretati desno u Ulicu Jovana Subotića i dalje će nastavljati redovnom trasom.",
                 "text_translations": {
-                    "en": "At the intersection of Kisačka/Bulevar Kralja Petar I, buses will turn right onto Bulevar Kralja Petar I, left into Ulica Brače Jovandić, drive through Ulica Vojvoda Bojovića, turn right into Ulica Jovana Subotić and continue on the regular route."
+                    "en": "At the intersection of Kisačka/Bulevar Kralja Petar I, the buses will turn right onto Bulevar Kralja Petar I, left into Ulica Brače Jovandić, drive through Ulica Vojvoda Bojovića, turn right into Ulica Jovana Subotić and continue on the regular route."
                 }
             },
             {
@@ -30,13 +106,37 @@
             {
                 "text": "Na raskrsnici Vojvode Bojovića/Jovana Subotića autobusi će skretati levo u Ulicu vojvode Bojovića, saobraćati Ulicom braće Jovandić, skretati desno na Bulevar kralja Petra prvog i saobraćati do Kisačke ulice gde će skretati levo i nastavljati redovnom trasom.",
                 "text_translations": {
-                    "en": "At the intersection of Vojvoda Bojović/Jovan Subotić, buses will turn left into Vojvoda Bojovića Street, drive through Brače Jovandić Street, turn right onto Kralja Petar 1 Boulevard and drive to Kisačka Street, where they will turn left and continue along the regular route."
+                    "en": "At the intersection of Vojvoda Bojović/Jovan Subotić, the buses will turn left into Vojvoda Bojovića Street, drive through Brače Jovandić Street, turn right onto Kralja Petar the First Boulevard and drive to Kisačka Street, where they will turn left and continue along the regular route."
                 }
             },
             {
                 "text": "Na izmenjenom delu trase koristiće se stajalište  VOJVODE BOJOVIĆA -SOCIJALNO.",
                 "text_translations": {
                     "en": "On the changed part of the route, the stop VOJVODE BOJOVĆ - SOCIJALNO will be used."
+                }
+            },
+            {
+                "text": "LINIJA 5",
+                "text_translations": {
+                    "en": "LINE 5"
+                }
+            },
+            {
+                "text": "Smer A (Temerinski put-Avijatičarsko naselje)",
+                "text_translations": {
+                    "en": "Direction A (Temerin road-Aviatičarsko naselje)"
+                }
+            },
+            {
+                "text": "Autobusi će iz Temerinske ulice skretati desno u Kisačku ulicu, levo u Ulicu kralja Petra, levo na Bulevar oslobođenja i desno u Ulicu Novosadskog sajma.",
+                "text_translations": {
+                    "en": "Buses will turn right from Temerinska Street to Kisačka Street, left to Kralja Petra Street, left to Liberation Boulevard and right to Novosadski Fair Street."
+                }
+            },
+            {
+                "text": "Na izmenjenom delu trase koristiće se sva postojeća autobuska stajališta.",
+                "text_translations": {
+                    "en": "All existing bus stops will be used on the modified part of the route."
                 }
             },
             {
@@ -48,7 +148,7 @@
             {
                 "text": "Na raskrsnici Bulevar oslobođenja/Bulevar kralja Petra prvog autobusi će skretati desno na Bulevar oslobođenja, levo u Jevrejsku ulicu, desno na Bulevar Mihajla Pupina, gde će nastavljati redovnom trasom.",
                 "text_translations": {
-                    "en": "At the intersection of Boulevard of Liberation/Bulevar of King Peter the First, buses will turn right onto Boulevard of Liberation, left into Jevrejska Street, right onto Boulevard of Mihajla Pupin, where they will continue on their regular route."
+                    "en": "At the intersection Bulevar oslojednje/Bulevar Kralja Petar I, buses will turn right onto Bulevar oslojednja, left into Jevrejska Street, right onto Bulevar Mihajla Pupina, where they will continue on their regular route."
                 }
             },
             {
@@ -78,7 +178,7 @@
             {
                 "text": "Na raskrsnici Kisačka/Bulevar kralja Petra prvog autobusi će skretati desno na Bulevar kralja Petra prvog, levo u Ulicu braće Jovandić, saobraćati Ulicom vojvode Bojovića, skretati desno u Ulicu Jovana Subotića i nastavljati redovnom trasom.",
                 "text_translations": {
-                    "en": "At the Kisačka/King Petar I Boulevard intersection, buses will turn right onto Kralja Petar I Boulevard, left into Ulica Brače Jovandić, drive through Ulica Vojvoda Bojovića, turn right into Ulica Jovana Subotić and continue along the regular route."
+                    "en": "At the intersection of Kisačka/Bulevar Kralja Petar I, buses will turn right onto Bulevar Kralja Petar I, left into Ulica Brače Jovandić, travel along Ulica Vojvoda Bojovića, turn right into Ulica Jovana Subotić and continue along the regular route."
                 }
             },
             {
@@ -92,17 +192,10 @@
                 "text_translations": {
                     "en": "Regular route."
                 }
-            },
-            {
-                "text": "Mapu izmena pogledajte OVDE",
-                "text_translations": {
-                    "en": "See the map of changes HERE"
-                }
             }
         ],
-        "url": "http://www.gspns.co.rs/dokumenti/centar.jpg",
         "title_translations": {
-            "en": "Lines 1, 8, 17 – Temporary change of route in Jovana Subotić Street"
+            "en": "Lines 1, 5, 8, 17 - Temporary route change in Jovana Subotića Street"
         }
     },
     {
@@ -131,64 +224,6 @@
         "url": "http://www.gspns.co.rs/dokumenti/futog208.png",
         "title_translations": {
             "en": "Line 54 – Temporary route change in Futog"
-        }
-    },
-    {
-        "date": "13.08.2026",
-        "title": "Linije 6, 11B – Povratak na redovne trase na Beogradskom keju",
-        "sections": [
-            {
-                "text": "U skladu sa obaveštenjem izvođača radova na rekonstrukciji poveznog voda na Beogradskom keju, obaveštavamo putnike da će se 16. 8. 2026. godine steći uslovi za ukidanje privremene izmene trasa linija 6 i 11B. Autobusi će se vratiti na redovnu trasu odmah nakon puštanja saobraćajnica u redovan saobraćaj.",
-                "text_translations": {
-                    "en": "In accordance with the notification of the contractor for the reconstruction of the connecting line on the Belgrade Quay, we inform passengers that on August 16, 2026, the conditions will be met for the cancellation of the temporary changes to the routes of lines 6 and 11B. The buses will return to the regular route immediately after the roads are opened to regular traffic."
-                }
-            }
-        ],
-        "title_translations": {
-            "en": "Lines 6, 11B – Return to regular routes on Belgrade Quay"
-        }
-    },
-    {
-        "date": "12.08.2026",
-        "title": "Linija 24 - Privremena izmena trase u Kovilju",
-        "sections": [
-            {
-                "text": "Obaveštavamo putnike da će od 13. 8. do 28. 8. 2026. godine privremeno biti izmenjena trasa autobuske linije broj 24. U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, do izmene će doći zbog rekonstrukcije Ulice Branka Bajića, na delu od Ulice Petra Drapšina i Ulice Laze Kostića do Ulice kralja Petra prvog u Kovilju.",
-                "text_translations": {
-                    "en": "We inform passengers that from August 13 to August 28, 2026, the route of bus line number 24 will be temporarily changed. In accordance with the decision of the City Administration for Traffic and Roads, the change will occur due to the reconstruction of Branko Bajić Street, on the part from Petra Drapšin Street and Laza Kostić Street to Kralja Petra prvič Street in Kovilje."
-                }
-            },
-            {
-                "text": "Na raskrsnici ulica Branka Bajića i Petra Drapšina autobusi će skretati desno u Ulicu Petra Drapšina, saobraćati pravo do Kralja Petra prvog, levo ulicom Kralja Petra prvog do Ulice Laze Kostića i desno nastavljati redovnom trasom.",
-                "text_translations": {
-                    "en": "At the intersection of Branko Bajića and Petra Drapšina streets, the buses will turn right into Petra Drapšina Street, drive straight to Kralja Petra the first, left along Kralja Petra the first to Laza Kostić Street and continue on the right on the regular route."
-                }
-            },
-            {
-                "text": "Na raskrsnici ulica Laze Kostića i Kralja Petra prvog autobusi će saobraćati levo Ulicom kralja Petra prvog do Ulice Petra Drapšina, skretati desno u Ulicu Petra Drapšina, nastavljati pravo do Ulice Branka Bajića, levo Ulicom Branka Bajića i dalje redovnom trasom.",
-                "text_translations": {
-                    "en": "At the intersection of Laza Kostića and Kralja Petra 1st streets, buses will drive left along Kralja Petra 1st Street to Petra Drapšina Street, turn right into Petra Drapšina Street, continue straight to Branka Bajić Street, left along Branka Bajić Street and continue along the regular route."
-                }
-            }
-        ],
-        "url": "http://www.gspns.co.rs/dokumenti/kovilj128.jpg",
-        "title_translations": {
-            "en": "Line 24 - Temporary route change in Kovilje"
-        }
-    },
-    {
-        "date": "10.08.2026",
-        "title": "Linija 14 – Privremeno ukidanje stajališta Veternik-Kralja Petra prvog",
-        "sections": [
-            {
-                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve,  od 11. 8. do 25. 8. 2026. godine privremeno se ukida autobusko stajalište Veternik-Kralja Petra prvog 97 (ispred auto salona „KIA“), smer sa Sajlova. Navedeno stajalište neće biti u funkciji zbog izvođenja građevinskih radova.",
-                "text_translations": {
-                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, from August 11 to August 25, 2026, the Veternik-Kralja Petra first bus stop at 97 (in front of the \"KIA\" car showroom), direction from Sajlov, will be temporarily closed. The said stop will not be in operation due to construction works."
-                }
-            }
-        ],
-        "title_translations": {
-            "en": "Line 14 - Temporary cancellation of the Veternik-Kralja Petar I stop"
         }
     },
     {
