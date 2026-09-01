@@ -1,5 +1,74 @@
 [
     {
+        "date": "01.09.2026",
+        "title": "Od 1.septembra novi red vožnje",
+        "sections": [
+            {
+                "text": "Autobusi JGSP „Novi Sad“ od 1. septembra saobraćaće po novom redu vožnje, koji u odnosu na letnji red vožnje podrazumeva veći broj polazaka.\n\nO vremenskim korekcijama polazaka korisnici usluga mogu da se informišu u rubrici RED VOŽNJE, kao i putem aplikacije NSMART, te na prodajnim mestima preduzeća.\n\nOd 1. septembra ponovo će na snazi biti polasci koji su u redu vožnje označeni kao „đački“.",
+                "text_translations": {
+                    "en": "From September 1, JGSP \"Novi Sad\" buses will operate according to a new timetable, which, compared to the summer timetable, implies a greater number of departures.\n\nService users can be informed about time corrections of departures in the section RED VOZNJE, as well as through the NSMART application and at the company's sales points.\n\nFrom September 1, the departures marked as \"pupil\" in the timetable will be valid again."
+                }
+            }
+        ],
+        "title_translations": {
+            "en": "New timetable from September 1"
+        }
+    },
+    {
+        "date": "31.08.2026",
+        "title": "Izmena trase linije broj 5",
+        "sections": [
+            {
+                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve (broj:IV-34-5866/26-1) određuje se privremena izmena trase autobuske linije broj 5 zbog radova u avijatičarskoj ulici u Novom Sadu. Izmenjen  režim saobraćanja linije broj 5 važi od 01.09.2026.-05.10.2026. godine, na sledeći način:",
+                "text_translations": {
+                    "en": "In accordance with the decision of the City Administration for Traffic and Roads (number: IV-34-5866/26-1), a temporary change in the route of bus line number 5 due to works in Avijatičarska street in Novi Sad is determined. The modified traffic mode of line number 5 is valid from September 1, 2026 to October 5, 2026. year, as follows:"
+                }
+            },
+            {
+                "text": "SMER SA TEMERINSKOG PUTA:",
+                "text_translations": {
+                    "en": "DIRECTION FROM THE TEMERIN ROAD:"
+                }
+            },
+            {
+                "text": "Od raskrsnice ulica Rumenački put i Avijatičarska autobusi saobraćaju pravo do kružnog toka gde se polukružno okreću i vreme do sledećeg polaska izdržavaju na  stajalištu „Rumenački put-Kružni tok“(stajalište linija 10,14,14s,15,41,42 i 43,).\n\nNa izmenjenom delu trase u smeru sa temerinskog puta autobusi će kao svoje poslednje, koristiti redovno stajalište „Rumenački put-Avijatičarska“(stajalište linija 10,14,14s,15,41,42 i 43)",
+                "text_translations": {
+                    "en": "From the intersection of Rumenački put and Avijatičarska streets, buses run straight to the roundabout, where they turn in a semi-circle and wait until the next departure at the \"Rumenački put-Kružni tok\" stop (stop of lines 10, 14, 14s, 15, 41, 42 and 43).\n\nOn the changed part of the route in the direction from the Temerina road, buses will use the regular stop \"Rumenački put-Avijatičarska\" as their last stop (stop of lines 10, 14, 14s, 15, 41, 42 and 43)."
+                }
+            },
+            {
+                "text": "SMER SA AVIJATIČARSKOG NASELJA",
+                "text_translations": {
+                    "en": "DIRECTION FROM THE AVIATION SETTLEMENT"
+                }
+            },
+            {
+                "text": "Autobusi linije 5 po redu vožnje saobraćaju od stajališta „Rumenački put-Kružni tok“   i kao prvo  stajalište sa Avijatičarskog naselja koriste redovno stajalište „Rumenački put-Avijataičarska“ (stajalište linija 5,10,14,14s,15,41,42 i 43,) i dalje nastavljaju da saobraćaju redovnom trasom.",
+                "text_translations": {
+                    "en": "According to the timetable, buses of line 5 operate from the stop \"Rumenački put-Kružni tok\" and as the first stop from Avijatičarski settlement they use the regular stop \"Rumenački put-Avijataičarska\" (stop of lines 5, 10, 14, 14s, 15, 41, 42 and 43) and continue to operate on the regular route."
+                }
+            }
+        ],
+        "title_translations": {
+            "en": "Modification of the route of line number 5"
+        }
+    },
+    {
+        "date": "31.08.2026",
+        "title": "Linija 54 – Povratak na redovnu trasu od 15:00 časova",
+        "sections": [
+            {
+                "text": "Završeni su radovi na rekonstrukciji kolovoza, čime su se stekli uslovi za povratak linije 54 na redovnu trasu počev od 15:00 časova.",
+                "text_translations": {
+                    "en": "The works on the reconstruction of the roadway were completed, which created the conditions for the return of line 54 to the regular route starting at 15:00."
+                }
+            }
+        ],
+        "title_translations": {
+            "en": "Line 54 - Return to the regular route from 15:00"
+        }
+    },
+    {
         "date": "28.08.2026",
         "title": "Linije 1, 5, 8, 17 - Povratak na redovne trase u Ulici Jovana Subotića",
         "sections": [
