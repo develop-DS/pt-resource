@@ -3763,6 +3763,7 @@
             "ALM = ALBUS I MASINOREMONT",
             "APT = APTIV SA I DO Z.STANICE",
             "MAL = MASINOREMONT I ALBUS",
+            "MR = MAŠINOREMONT",
             "RP = RANZIRNA/PARKING"
         ],
         "weekday": {
@@ -3774,6 +3775,7 @@
                 "06:40MAL",
                 "07:35MAL",
                 "07:40APT",
+                "08:20MAL",
                 "13:30APT",
                 "13:35AL",
                 "21:30AL",
@@ -3785,8 +3787,9 @@
                 "14:10ALM",
                 "14:15APT",
                 "15:05ALM",
-                "16:10AL",
+                "16:10ALM",
                 "16:15APT",
+                "17:05MR",
                 "22:15APT",
                 "22:15AL"
             ]
@@ -5613,6 +5616,7 @@
                 "04:20",
                 "04:55",
                 "05:35",
+                "05:45TET",
                 "06:15TET",
                 "06:30",
                 "06:55",
