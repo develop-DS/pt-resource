@@ -1,29 +1,174 @@
 [
     {
-        "date": "04.09.2026",
-        "title": "Izmena trasa linija broj 12, 60, 61, 62, 63, 64, 69 i 71vmč",
+        "date": "11.09.2026",
+        "title": "Linije 9, 12, 13, 18A, 18B – Privremena izmena trase u Ulici cara Lazara",
         "sections": [
             {
-                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve ( IV-34-8295/25-3) određuje se privremena izmena trase autobuskih linija broj 12, 60, 61, 62, 63, 64, 69 i 71vmč  zbog izvođenja radova na rekonstrukciji kolektora kanalizacione mreže  u Maksima Gorkog, od Stražilovske do Sutjeske ulice u Novom Sadu. Izmenjen  režim saobraćnja linija važi od 07.09.2026 do 20.11.2026 godine. Autobusi na ovim linijama menjaju trasu kretanja:",
+                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, 13. 9. 2026. godine privremeno će biti izmenjene trase autobuskih linija broj 9, 12, 13, 18A i 18B zbog radova na rekonstrukciji toplovoda i presecanja kolovoza na Bulevaru cara Lazara, naspram Podgoričke ulice (NIS-ova zgrada).",
                 "text_translations": {
-                    "en": "In accordance with the decision of the City Administration for Traffic and Roads (IV-34-8295/25-3), a temporary change in the route of bus lines number 12, 60, 61, 62, 63, 64, 69 and 71vmč is determined due to the performance of works on the reconstruction of the sewer network collector in Maksim Gorko, from Stražilovska to Sutjeska street in Novi Sad. The modified mode of the traffic line is valid from 07.09.2026 to 20.11.2026. Buses on these lines are changing their route:"
+                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, on September 13, 2026, the routes of bus lines 9, 12, 13, 18A and 18B will be temporarily changed due to works on the reconstruction of heating pipes and the cutting of the roadway on Tsar Lazar Boulevard, opposite Podgorička Street (NIS building)."
                 }
             },
             {
-                "text": "LINIJA BROJ 12  \n\nSmer iz Centra: : Autobusi saobraćaju redovnom trasom kretanja.\n\nSmer sa Telepa: Autobusi od raskrsnice Bul oslobođenja i ulice Maksima Gorkog nastavljaju pravo Bul oslobođenja, skreću desno u Jevrejsku ulicu, levo u Uspensku ulicu i dalje redovnom trasom.\n\nAUTOBUSI NA IZMENJENOM DELU TRASE  KORISTE POSTOJEĆA STAJALIŠTA DRUGIH LINIJA.",
+                "text": "LINIJE 9, 13, 18A",
                 "text_translations": {
-                    "en": "LINE NUMBER 12  \n\nDirection from the Center: : Buses operate on a regular route.\n\nDirection from Telep: Buses from the intersection of Bul oslobodenja and Maksim Gorki Street continue straight on Bul oslobodenja, turn right into Jevrejska ulica, left into Uspenska ulica and continue along the regular route.\n\nBUSES ON THE MODIFIED PART OF THE ROUTE USE THE EXISTING STOPS OF OTHER LINES."
+                    "en": "LINES 9, 13, 18A"
                 }
             },
             {
-                "text": "LINIJE BROJ 60, 61, 62, 63, 64, 69 i 71vmč .\n\nSmer iz Novog Sada: Autobusi sa Bulevara oslobođenja skreću levo u Jevrejsku ulicu  zatim desno u Bul.Mihajla Pupina, i dalje pravo redovnom trasom.\n\n(NAVEDENOM TRASOM  ĆE SAOBRAĆATI AUTOBUS NA LINIJI 71, SAMO POLAZAK U 21:05vmč)\n\nSmer iz mesta: Autobusi saobraćaju redovnom trasom kretanja.\n\n AUTOBUSI NA IZMENJENOM DELU TRASE  KORISTE POSTOJEĆA STAJALIŠTA DRUGIH LINIJA.",
+                "text": "Na raskrsnici Bulevar cara Lazara/Bulevar oslobođenja autobusi će skretati levo na Bulevar oslobođenja, desno u Ulicu Narodnog fronta, desno u Šekspirovu ulicu, levo  na Bulevar cara Lazara i dalje nastavljati redovnom trasom.",
                 "text_translations": {
-                    "en": "LINES NUMBER 60, 61, 62, 63, 64, 69 and 71vmč.\n\nDirection from Novi Sad: Buses from the Boulevard of Liberation turn left into Jevrejska Street, then right into Bul. Mihajla Pupin, and continue straight along the regular route.\n\n(THE LINE 71 BUS WILL OPERATE ON THIS ROUTE, ONLY DEPARTURES AT 9:05 PM)\n\nDirection from the city: Buses operate on a regular route.\n\n BUSES ON THE MODIFIED PART OF THE ROUTE USE THE EXISTING STOPS OF OTHER LINES."
+                    "en": "At the intersection Bulevar Tsara Lazar/Bulevar oslobodenja, buses will turn left onto Boulevard oslobodenja, right into Ulica Narodni Fronta, right into Šekspirova Ulica, left onto Bulevar Tsara Lazar and continue on the regular route."
+                }
+            },
+            {
+                "text": "Na izmenjenom delu trase koristiće se POSTOJEĆE stajalište „Bulevar oslobođenja – Bulevar cara Lazara“ (kod „Merkatora“).",
+                "text_translations": {
+                    "en": "On the changed part of the route, the EXISTING stop \"Bulevar oslobođenja - Bulevar Tsara Lazar\" (next to \"Mercator\") will be used."
+                }
+            },
+            {
+                "text": "LINIJE 9, 13, 18B",
+                "text_translations": {
+                    "en": "LINES 9, 13, 18B"
+                }
+            },
+            {
+                "text": "Na raskrsnici Bulevar cara Lazara/Šekspirova autobusi će skretati desno u Šekspirovu ulicu, levo u Ulicu Narodnog fronta, levo na Bulevar oslobođenja, desno na Bulevar cara Lazara i dalje nastavljati redovnom trasom.",
+                "text_translations": {
+                    "en": "At the intersection Bulevar Tsara Lazar / Šekspirova, buses will turn right into Šekspirova Street, left into Ulica Narodni Fronta, left onto Bulevar oslobođenja, right onto Bulevar Tsar Lazar and continue on the regular route."
+                }
+            },
+            {
+                "text": "Na izmenjenom delu trase koristiće se PRIVREMENO stajalište u Šekspirovoj ulici, nakon desnog skretanja sa Bulevara cara Lazara.",
+                "text_translations": {
+                    "en": "On the changed part of the route, a TEMPORARY stop will be used in Šekspirova Street, after the right turn from Tsar Lazar Boulevard."
+                }
+            },
+            {
+                "text": "LINIJA 12",
+                "text_translations": {
+                    "en": "LINE 12"
+                }
+            },
+            {
+                "text": "Na raskrsnici Bulevar oslobođenja/Bulevar cara Lazara autobusi će produžavati pravo Bulevarom oslobođenja, skretati desno u Ulicu Narodnog fronta, desno u Šekspirovu ulicu, levo na Bulevar cara Lazara i dalje nastavljati redovnom trasom.",
+                "text_translations": {
+                    "en": "At the intersection Bulevar oslobodenja/Bulevar tsar Lazar, buses will continue straight along Bulevar oslobodenja, turn right into Ulica Narodni fronta, right into Šekspirova ulica, left onto Bulevar tsar Lazar and continue along the regular route."
+                }
+            },
+            {
+                "text": "Na izmenjenom delu trase koristiće se POSTOJEĆE stajalište „Bulevar oslobođenja – Bulevar cara Lazara“(kod „Merkatora“).",
+                "text_translations": {
+                    "en": "On the changed part of the route, the EXISTING stop \"Bulevar oslobođenja - Bulevar cara Lazar\" (next to \"Mercator\") will be used."
+                }
+            },
+            {
+                "text": "Na raskrsnici Bulevar cara Lazara/Šekspirova autobusi će skretati desno u Šekspirovu ulicu, levo u Ulicu Narodnog fronta, levo na Bulevar oslobođenja i dalje nastavljati redovnom trasom.",
+                "text_translations": {
+                    "en": "At the intersection of Bulevar Tsara Lazara/Sekspirova, buses will turn right into Šekspirova Street, left into Narodni Fronta Street, left onto Bulevar oslobođenja and continue along the regular route."
+                }
+            },
+            {
+                "text": "Na izmenjenom delu trase koristiće se PRIVREMENO stajalište u Šekspirovoj ulici, nakon desnog skretanja sa Bulevara cara Lazara.",
+                "text_translations": {
+                    "en": "On the changed part of the route, a TEMPORARY stop will be used in Šekspirova Street, after the right turn from Tsar Lazar Boulevard."
+                }
+            },
+            {
+                "text": "Mapu izmena pogledajte OVDE",
+                "text_translations": {
+                    "en": "See the map of changes HERE"
+                }
+            }
+        ],
+        "url": "http://www.gspns.co.rs/dokumenti/caralazara.jpg",
+        "title_translations": {
+            "en": "Lines 9, 12, 13, 18A, 18B – Temporary route change in Cara Lazar Street"
+        }
+    },
+    {
+        "date": "08.09.2026",
+        "title": "Linije 5, 10 APT, 14, 41, 42, 43 – Privremeno ukidanje stajališta RUMENAČKA – RADNIČKO IGRALIŠTE",
+        "sections": [
+            {
+                "text": "U skladu sa rešenjem Gradske Uprave za saobraćaj i puteve Grada Novog Sada, od 9. 9. 2026. godine do završetka radova privremeno će biti ukinuto autobusko stajalište Rumenačka – Radničko igralište zbog izvođenja građevinskih radova. Navedeno stajalište koriste linije broj 5, 10 APT, 14, 41, 42, 43 – smer ka Sajlovu).",
+                "text_translations": {
+                    "en": "In accordance with the decision of the City Administration for Traffic and Roads of the City of Novi Sad, from September 9, 2026, until the completion of the works, the bus stop Rumenačka - Radničko igraštet will be temporarily closed due to construction works. The mentioned stop is used by lines number 5, 10 APT, 14, 41, 42, 43 - direction to Saylov)."
                 }
             }
         ],
         "title_translations": {
-            "en": "Change of routes of lines number 12, 60, 61, 62, 63, 64, 69 and 71vmč"
+            "en": "Lines 5, 10 APT, 14, 41, 42, 43 - Temporary cancellation of the stop RUMENAČKA - RADNIČKO IGRALISTE"
+        }
+    },
+    {
+        "date": "04.09.2026",
+        "title": "Linije 12, 60, 61, 62, 63, 64, 69 i 71vmč – Privremena izmena trasa u Ulici Maksima Gorkog",
+        "sections": [
+            {
+                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, određuje se privremena izmena trase autobuskih linija broj 12, 60, 61, 62, 63, 64, 69 i 71vmč  zbog izvođenja radova na rekonstrukciji kolektora kanalizacione mreže  u Maksima Gorkog, od Stražilovske ulice do Sutjeske ulice u Novom Sadu. Izmenjen  režim saobraćnja linija važi u periodu od 7. 9. do 20. 11. 2026. godine.",
+                "text_translations": {
+                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, a temporary change in the route of bus lines number 12, 60, 61, 62, 63, 64, 69 and 71vmč is determined due to the performance of works on the reconstruction of the sewer network collector in Maksim Gorko, from Stražilovska Street to Sutjeska Street in Novi Sad. Izmenjen  režim saobraćnja linija važi u periodu od 7. 9. do 20. 11. 2026. godine."
+                }
+            },
+            {
+                "text": "LINIJA 12",
+                "text_translations": {
+                    "en": "LINE 12"
+                }
+            },
+            {
+                "text": "Autobusi saobraćaju redovnom trasom kretanja.",
+                "text_translations": {
+                    "en": "Buses operate on a regular route."
+                }
+            },
+            {
+                "text": "Autobusi na raskrsnici Bulevar oslobođenja/Ulice Maksima Gorkog produžavaju pravo Bulevarom oslobođenja, skreću desno u Jevrejsku ulicu, levo u Uspensku ulicu i dalje nastavljaju redovnom trasom.",
+                "text_translations": {
+                    "en": "Buses at the intersection Bulevar oslobodenja/Ulica Maksima Gorki continue straight along Bulevar oslobodenja, turn right into Jevrejska ulica, left into Uspenska ulica and continue on the regular route."
+                }
+            },
+            {
+                "text": "NA IZMENJENOM DELU TRASE KORISTE SE POSTOJEĆA STAJALIŠTA DRUGIH LINIJA.",
+                "text_translations": {
+                    "en": "EXISTING STOPS OF OTHER LINES ARE USED ON THE MODIFIED PART OF THE ROUTE."
+                }
+            },
+            {
+                "text": "LINIJE 60, 61, 62, 63, 64, 69 i 71vmč",
+                "text_translations": {
+                    "en": "LINES 60, 61, 62, 63, 64, 69 and 71"
+                }
+            },
+            {
+                "text": "Autobusi sa Bulevara oslobođenja skreću levo u Jevrejsku ulicu, desno na Bulevar Mihajla Pupina i dalje produžavaju pravo redovnom trasom.",
+                "text_translations": {
+                    "en": "Buses from Liberation Boulevard turn left into Jevrejska Street, right onto Mihajla Pupina Boulevard and continue straight along the regular route."
+                }
+            },
+            {
+                "text": "(NAVEDENOM TRASOM  ĆE SAOBRAĆATI AUTOBUS NA LINIJI 71, SAMO POLAZAK U 21:05vmč)",
+                "text_translations": {
+                    "en": "(THE LINE 71 BUS WILL RUN ON THIS ROUTE, ONLY DEPARTURES AT 9:05 PM)"
+                }
+            },
+            {
+                "text": "Autobusi saobraćaju redovnom trasom kretanja.",
+                "text_translations": {
+                    "en": "Buses operate on a regular route."
+                }
+            },
+            {
+                "text": "AUTOBUSI NA IZMENJENOM DELU TRASE  KORISTE POSTOJEĆA STAJALIŠTA DRUGIH LINIJA.",
+                "text_translations": {
+                    "en": "BUSES ON THE CHANGED PART OF THE ROUTE USE THE EXISTING STOPS OF OTHER LINES."
+                }
+            }
+        ],
+        "title_translations": {
+            "en": "Lines 12, 60, 61, 62, 63, 64, 69 and 71 vmč - Temporary change of routes in Maksima Gorki Street"
         }
     },
     {
@@ -43,41 +188,41 @@
     },
     {
         "date": "31.08.2026",
-        "title": "Izmena trase linije broj 5",
+        "title": "Linija 5 - Privremena izmena trase u Avijatičarskoj ulici",
         "sections": [
             {
-                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve (broj:IV-34-5866/26-1) određuje se privremena izmena trase autobuske linije broj 5 zbog radova u avijatičarskoj ulici u Novom Sadu. Izmenjen  režim saobraćanja linije broj 5 važi od 01.09.2026.-05.10.2026. godine, na sledeći način:",
+                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, zbog radova u Avijatičarskoj ulici od 1. 9. do  5. 10. 2026. godine određuje se privremena izmena trase autobuske linije broj 5 .",
                 "text_translations": {
-                    "en": "In accordance with the decision of the City Administration for Traffic and Roads (number: IV-34-5866/26-1), a temporary change in the route of bus line number 5 due to works in Avijatičarska street in Novi Sad is determined. The modified traffic mode of line number 5 is valid from September 1, 2026 to October 5, 2026. year, as follows:"
+                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, due to works in Avijatičarska street from September 1 to October 5, 2026, a temporary change of the route of bus line number 5 has been determined."
                 }
             },
             {
-                "text": "SMER SA TEMERINSKOG PUTA:",
+                "text": "Smer sa Temerinskog puta",
                 "text_translations": {
-                    "en": "DIRECTION FROM THE TEMERIN ROAD:"
+                    "en": "Direction from Temerinsky road"
                 }
             },
             {
-                "text": "Od raskrsnice ulica Rumenački put i Avijatičarska autobusi saobraćaju pravo do kružnog toka gde se polukružno okreću i vreme do sledećeg polaska izdržavaju na  stajalištu „Rumenački put-Kružni tok“(stajalište linija 10,14,14s,15,41,42 i 43,).\n\nNa izmenjenom delu trase u smeru sa temerinskog puta autobusi će kao svoje poslednje, koristiti redovno stajalište „Rumenački put-Avijatičarska“(stajalište linija 10,14,14s,15,41,42 i 43)",
+                "text": "Od raskrsnice Rumenački put/Avijatičarska autobusi saobraćaju pravo do kružnog toka gde se polukružno okreću i vreme do sledećeg polaska izdržavaju na stajalištu „Rumenački put-Kružni tok“(stajalište linija 10, 14, 14s, 15, 41, 42, 43).\n\nNa izmenjenom delu trase autobusi će kao svoje poslednje stajalište koristiti redovno stajalište „Rumenački put-Avijatičarska“(stajalište linija 10, 14, 14s, 15, 41, 42, 43)",
                 "text_translations": {
-                    "en": "From the intersection of Rumenački put and Avijatičarska streets, buses run straight to the roundabout, where they turn in a semi-circle and wait until the next departure at the \"Rumenački put-Kružni tok\" stop (stop of lines 10, 14, 14s, 15, 41, 42 and 43).\n\nOn the changed part of the route in the direction from the Temerina road, buses will use the regular stop \"Rumenački put-Avijatičarska\" as their last stop (stop of lines 10, 14, 14s, 15, 41, 42 and 43)."
+                    "en": "From the intersection of Rumenački put/Avijatičarska, buses run straight to the roundabout, where they turn around and wait until the next departure at the \"Rumenački put-Kružni tok\" stop (line 10, 14, 14s, 15, 41, 42, 43).\n\nOn the changed part of the route, buses will use the regular stop \"Rumenački put-Avijatičarska\" as their last stop (stop lines 10, 14, 14s, 15, 41, 42, 43)"
                 }
             },
             {
-                "text": "SMER SA AVIJATIČARSKOG NASELJA",
+                "text": "Smer sa Avijatičarskog naselja",
                 "text_translations": {
-                    "en": "DIRECTION FROM THE AVIATION SETTLEMENT"
+                    "en": "Direction from Aviaticarski settlement"
                 }
             },
             {
-                "text": "Autobusi linije 5 po redu vožnje saobraćaju od stajališta „Rumenački put-Kružni tok“   i kao prvo  stajalište sa Avijatičarskog naselja koriste redovno stajalište „Rumenački put-Avijataičarska“ (stajalište linija 5,10,14,14s,15,41,42 i 43,) i dalje nastavljaju da saobraćaju redovnom trasom.",
+                "text": "Autobusi linije 5 po redu vožnje saobraćaju od stajališta „Rumenački put-Kružni tok“ i kao prvo  stajalište sa Avijatičarskog naselja koriste redovno stajalište „Rumenački put-Avijataičarska“ (stajalište linija 5, 10, 14, 14s, 15, 41, 42 i 43), odakle nastavljaju da saobraćaju redovnom trasom.",
                 "text_translations": {
-                    "en": "According to the timetable, buses of line 5 operate from the stop \"Rumenački put-Kružni tok\" and as the first stop from Avijatičarski settlement they use the regular stop \"Rumenački put-Avijataičarska\" (stop of lines 5, 10, 14, 14s, 15, 41, 42 and 43) and continue to operate on the regular route."
+                    "en": "According to the timetable, buses of line 5 operate from the stop \"Rumenački put-Kružni tok\" and as the first stop from Avijatičarski settlement they use the regular stop \"Rumenački put-Avijataičarska\" (stop of lines 5, 10, 14, 14s, 15, 41, 42 and 43), from where they continue to operate on the regular route."
                 }
             }
         ],
         "title_translations": {
-            "en": "Modification of the route of line number 5"
+            "en": "Line 5 - Temporary route change in Avijatičarska street"
         }
     },
     {
@@ -124,21 +269,6 @@
         "url": "http://www.gspns.co.rs/dokumenti/gunduliceva.jpg",
         "title_translations": {
             "en": "Lines 11A, 11B – Temporary route change in Gundulićeva street"
-        }
-    },
-    {
-        "date": "21.07.2026",
-        "title": "Linija 16 – Izmena vremena polaska",
-        "sections": [
-            {
-                "text": "Obaveštavamo korisnike usluge prevoza na liniji 16 da je zbog usklađivanja sa potrebama građana polazak u 15:10 časova u aktuelnom redu vožnje pomeren na 16:10 časova.",
-                "text_translations": {
-                    "en": "We inform the users of the transportation service on line 16 that, due to compliance with the needs of citizens, the departure at 3:10 p.m. in the current timetable has been moved to 4:10 p.m."
-                }
-            }
-        ],
-        "title_translations": {
-            "en": "Line 16 – Change of departure time"
         }
     }
 ]
