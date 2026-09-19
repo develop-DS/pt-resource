@@ -1,78 +1,78 @@
 [
     {
-        "date": "11.09.2026",
-        "title": "Linije 9, 12, 13, 18A, 18B – Privremena izmena trase u Ulici cara Lazara",
+        "date": "16.09.2026",
+        "title": "Linije 10, 17, 42js, 55js – Privremena izmena trase u Industrijskoj ulici (ZONA JUG)",
         "sections": [
             {
-                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, 13. 9. 2026. godine privremeno će biti izmenjene trase autobuskih linija broj 9, 12, 13, 18A i 18B zbog radova na rekonstrukciji toplovoda i presecanja kolovoza na Bulevaru cara Lazara, naspram Podgoričke ulice (NIS-ova zgrada).",
+                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, od 17. do 29. septembra 2026. godine privremeno će biti izmenjena trasa autobuskih linija broj 10, 17, 42JS, 55JS zbog radova u Industrijskoj ulici, od raskrsnice kod „Super VERA“ do raskrsnice kod „Šnajder Elektrik d.o.o“ .",
                 "text_translations": {
-                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, on September 13, 2026, the routes of bus lines 9, 12, 13, 18A and 18B will be temporarily changed due to works on the reconstruction of heating pipes and the cutting of the roadway on Tsar Lazar Boulevard, opposite Podgorička Street (NIS building)."
+                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, from September 17 to 29, 2026, the route of bus lines number 10, 17, 42JS, 55JS will be temporarily changed due to works in Industrijska Street, from the intersection at \"Super VERA\" to the intersection at \"Schnejder Elektrik d.o.o.\""
                 }
             },
             {
-                "text": "LINIJE 9, 13, 18A",
+                "text": "LINIJA 10 (oba smera)",
                 "text_translations": {
-                    "en": "LINES 9, 13, 18A"
+                    "en": "LINE 10 (both directions)"
                 }
             },
             {
-                "text": "Na raskrsnici Bulevar cara Lazara/Bulevar oslobođenja autobusi će skretati levo na Bulevar oslobođenja, desno u Ulicu Narodnog fronta, desno u Šekspirovu ulicu, levo  na Bulevar cara Lazara i dalje nastavljati redovnom trasom.",
+                "text": "Na raskrsnici Partizanska/Industrijska autobusi će produžavati pravo do raskrsnice sa Sentandrejskim putem, skretati levo pored NIS-ovih pumpi, levo na Put Novosadskog partizanskog odreda, saobraćati do raskrsnice sa Industrijskom ulicom i dalje redovnom trasom. U suprotnom smeru koristiće se ista, izmenjena trasa.",
                 "text_translations": {
-                    "en": "At the intersection Bulevar Tsara Lazar/Bulevar oslobodenja, buses will turn left onto Boulevard oslobodenja, right into Ulica Narodni Fronta, right into Šekspirova Ulica, left onto Bulevar Tsara Lazar and continue on the regular route."
+                    "en": "At the intersection Partizanska/Industrijska, buses will continue straight to the intersection with Sentandrejska Street, turn left past the NIS pumps, left onto the Novi Sad Partisan Detachment Road, drive to the intersection with Industrijska Street and continue along the regular route. In the opposite direction, the same, modified route will be used."
                 }
             },
             {
-                "text": "Na izmenjenom delu trase koristiće se POSTOJEĆE stajalište „Bulevar oslobođenja – Bulevar cara Lazara“ (kod „Merkatora“).",
+                "text": "Na izmenjenom delu trase koristiće se postojeća stajališta drugih linija.",
                 "text_translations": {
-                    "en": "On the changed part of the route, the EXISTING stop \"Bulevar oslobođenja - Bulevar Tsara Lazar\" (next to \"Mercator\") will be used."
+                    "en": "Existing stops of other lines will be used on the changed part of the route."
                 }
             },
             {
-                "text": "LINIJE 9, 13, 18B",
+                "text": "LINIJA 17 (oba smera)",
                 "text_translations": {
-                    "en": "LINES 9, 13, 18B"
+                    "en": "LINE 17 (both directions)"
                 }
             },
             {
-                "text": "Na raskrsnici Bulevar cara Lazara/Šekspirova autobusi će skretati desno u Šekspirovu ulicu, levo u Ulicu Narodnog fronta, levo na Bulevar oslobođenja, desno na Bulevar cara Lazara i dalje nastavljati redovnom trasom.",
+                "text": "Na raskrsnici Sentandrejski put/Partizanska autobusi će nastavljati pravo pored NIS-ovih pumpi i od Ulice Teodora Mandića saobraćati pravo redovnom trasom.",
                 "text_translations": {
-                    "en": "At the intersection Bulevar Tsara Lazar / Šekspirova, buses will turn right into Šekspirova Street, left into Ulica Narodni Fronta, left onto Bulevar oslobođenja, right onto Bulevar Tsar Lazar and continue on the regular route."
+                    "en": "At the intersection of Sentandrejski put/Partizanska, buses will continue straight past the NIS pumps and from Ulica Teodora Mandić drive straight along the regular route."
                 }
             },
             {
-                "text": "Na izmenjenom delu trase koristiće se PRIVREMENO stajalište u Šekspirovoj ulici, nakon desnog skretanja sa Bulevara cara Lazara.",
+                "text": "U suprotnom smeru autobusi će saobraćati istom trasom - Sentandrejskim putem do Kisačke ulice i dalje produžavati pravo redovnom trasom.",
                 "text_translations": {
-                    "en": "On the changed part of the route, a TEMPORARY stop will be used in Šekspirova Street, after the right turn from Tsar Lazar Boulevard."
+                    "en": "In the opposite direction, buses will travel along the same route - Sentandrejski pute to Kisacka street and continue straight along the regular route."
                 }
             },
             {
-                "text": "LINIJA 12",
+                "text": "Na izmenjenom delu trase koristiće se postojeća stajališta drugih linija.",
                 "text_translations": {
-                    "en": "LINE 12"
+                    "en": "Existing stops of other lines will be used on the changed part of the route."
                 }
             },
             {
-                "text": "Na raskrsnici Bulevar oslobođenja/Bulevar cara Lazara autobusi će produžavati pravo Bulevarom oslobođenja, skretati desno u Ulicu Narodnog fronta, desno u Šekspirovu ulicu, levo na Bulevar cara Lazara i dalje nastavljati redovnom trasom.",
+                "text": "LINIJE 42JS, 55JS (oba smera)",
                 "text_translations": {
-                    "en": "At the intersection Bulevar oslobodenja/Bulevar tsar Lazar, buses will continue straight along Bulevar oslobodenja, turn right into Ulica Narodni fronta, right into Šekspirova ulica, left onto Bulevar tsar Lazar and continue along the regular route."
+                    "en": "LINES 42JS, 55JS (both directions)"
                 }
             },
             {
-                "text": "Na izmenjenom delu trase koristiće se POSTOJEĆE stajalište „Bulevar oslobođenja – Bulevar cara Lazara“(kod „Merkatora“).",
+                "text": "Na raskrsnici Partizanska/Industrijska autobusi će produžavati pravo do raskrsnice sa Sentandrejskim putem, skretati levo pored NIS-ovih pumpi i od Ulice Teodora Mandića nastavljati predviđenom, redovnom trasom za „zonu Sever“.",
                 "text_translations": {
-                    "en": "On the changed part of the route, the EXISTING stop \"Bulevar oslobođenja - Bulevar cara Lazar\" (next to \"Mercator\") will be used."
+                    "en": "At the intersection of Partizanska/Industrijska, buses will continue straight to the intersection with Sentandrejska Street, turn left past the NIS pumps and from Ulica Teodora Mandić continue along the planned, regular route for the \"Zone Sever\"."
                 }
             },
             {
-                "text": "Na raskrsnici Bulevar cara Lazara/Šekspirova autobusi će skretati desno u Šekspirovu ulicu, levo u Ulicu Narodnog fronta, levo na Bulevar oslobođenja i dalje nastavljati redovnom trasom.",
+                "text": "U suprotnom smeru autobusi će saobraćati istom trasom - Sentandrejskim putem do Kisačke ulice, skretati desno u Partizansku ulicu i dalje nastavljati redovnom trasom.",
                 "text_translations": {
-                    "en": "At the intersection of Bulevar Tsara Lazara/Sekspirova, buses will turn right into Šekspirova Street, left into Narodni Fronta Street, left onto Bulevar oslobođenja and continue along the regular route."
+                    "en": "In the opposite direction, buses will travel along the same route - Sentandrejski pute to Kisacka Street, turn right into Partizanska Street and continue on the regular route."
                 }
             },
             {
-                "text": "Na izmenjenom delu trase koristiće se PRIVREMENO stajalište u Šekspirovoj ulici, nakon desnog skretanja sa Bulevara cara Lazara.",
+                "text": "Na izmenjenom delu trase koristiće se postojeća stajališta drugih linija.",
                 "text_translations": {
-                    "en": "On the changed part of the route, a TEMPORARY stop will be used in Šekspirova Street, after the right turn from Tsar Lazar Boulevard."
+                    "en": "Existing stops of other lines will be used on the changed part of the route."
                 }
             },
             {
@@ -82,9 +82,9 @@
                 }
             }
         ],
-        "url": "http://www.gspns.co.rs/dokumenti/caralazara.jpg",
+        "url": "http://www.gspns.co.rs/dokumenti/industrijska.jpg",
         "title_translations": {
-            "en": "Lines 9, 12, 13, 18A, 18B – Temporary route change in Cara Lazar Street"
+            "en": "Lines 10, 17, 42js, 55js - Temporary route change in Industrijska street (ZONE SOUTH)"
         }
     },
     {
@@ -223,52 +223,6 @@
         ],
         "title_translations": {
             "en": "Line 5 - Temporary route change in Avijatičarska street"
-        }
-    },
-    {
-        "date": "28.08.2026",
-        "title": "Linije 11A, 11B – Privremena izmena trase u Gundulićevoj ulici",
-        "sections": [
-            {
-                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve  o zatvaranju dela Gundulićeve ulice zbog izvođenja radova na izgradnji priključka, od 31. 8. do 21. 9. 2026. godine privremeno će biti izmenjene trase autobuskih linija 11A i 11B .",
-                "text_translations": {
-                    "en": "In accordance with the decision of the City Administration for Traffic and Roads on closing part of Gundulićeva Street due to the construction of the connection, from August 31 to September 21, 2026, the routes of bus lines 11A and 11B will be temporarily changed."
-                }
-            },
-            {
-                "text": "Autobusi na Beogradskom keju nastavljaju pravo i nakon drumsko-železničkog mosta  skreću levo u Venizelosovu ulicu, desno u Temerinsku ulicu, levo u Partizansku ulicu, levo u Kisačku ulicu, desno na Bulevar Jaše Tomića i dalje nastavljaju redovnom trasom.",
-                "text_translations": {
-                    "en": "Buses on Belgrade Quay continue straight and after the road-railway bridge turn left into Venizelosova Street, right into Temerinska Street, left into Partizanska Street, left into Kisačka Street, right onto Jaša Tomić Boulevard and continue along the regular route."
-                }
-            },
-            {
-                "text": "Na izmenjenom delu trase koristi se  stajalište „Beogradski kej - Marka Miljanova“ na Beogradskom keju.",
-                "text_translations": {
-                    "en": "On the modified part of the route, the stop \"Belgrade Quay - Marka Miljanova\" on the Belgrade Quay is used."
-                }
-            },
-            {
-                "text": "Autobusi iz Ulice Jovana Cvijića skreću levo u Temerinsku ulicu, desno u Venizelosovu ulicu, desno pored Kvantaša saobraćaju do kružnog toka, skreću levo u Ulicu Marka Miljanova, desno na Begradski kej i dalje nastavljaju redovnom trasom.",
-                "text_translations": {
-                    "en": "Buses from Jovana Cvijić Street turn left into Temerinska Street, right into Venizelosova Street, right past Kvantaš to the roundabout, turn left into Marko Miljanova Street, right onto Begradski Quay and continue along the regular route."
-                }
-            },
-            {
-                "text": "Na izmenjenom delu trase koristi se privremeno stajalište u Temerinskoj ulici, odmah nakon levog skretanja iz Ulice Jovana Cvijića.",
-                "text_translations": {
-                    "en": "On the changed part of the route, a temporary stop is used in Temerinska Street, immediately after the left turn from Jovana Cvijić Street."
-                }
-            },
-            {
-                "text": "Mapu izmena pogledajte OVDE",
-                "text_translations": {
-                    "en": "See the map of changes HERE"
-                }
-            }
-        ],
-        "url": "http://www.gspns.co.rs/dokumenti/gunduliceva.jpg",
-        "title_translations": {
-            "en": "Lines 11A, 11B – Temporary route change in Gundulićeva street"
         }
     }
 ]
