@@ -1,94 +1,246 @@
 [
     {
-        "date": "17/09/2026 - 19/09/2026",
-        "title": "Informacija o promeni režima rada linija javnog prevoza tokom izvođenja radova u ulici Egipatska - faza 2",
+        "date": "30/09/2026 - 13/12/2026",
+        "title": "Informacija o promeni režima rada linija javnog prevoza tokom izvođenja radova u ulici Teodora Hercla",
         "sections": [
             {
-                "text": "Tokom izvođenja  radova na redovnom održavanju u ulici Egipatska (Novi Beograd), u periodu od 17.09. do 19.09.2026. godine doći će do promena u radu linija javnog prevoza.",
+                "text": "Tokom izvođenja radova  na izgradnji distributivne toplovodne mreže u ulici Teodora Hercla u periodu od 30.09. do 13.12.2026. godine doći će do promena u radu linija javnog prevoza.",
                 "text_translations": {
-                    "en": "During the performance of regular maintenance works in Egipatska Street (Novi Beograd), in the period from 17.09. until 19.09.2026. there will be changes in the operation of public transport lines."
+                    "en": "During the works on the construction of the distribution hot water network in Teodora Herzla Street in the period from September 30. until 13.12.2026. there will be changes in the operation of public transport lines."
                 }
             },
             {
-                "text": "Radovi se izvode na desnoj strani kolovoza u ulici Egipatska (gledano u smeru ka Surčinu), na delu od kućnog broja 1F do zone raskrsnice sa ulicom Gandijeva, gledano u smeru ka Surčinu. Tokom izvođenja radova, predmetna deonica će biti zatovrena za saobraćaj, pri čemu će doći do promene u radu linija JLPP-a i to:",
+                "text": "Radovi se izvode na kolovozu u ulici Teodora Hercla, na delu od zone raskrsnice sa ulicom Novogradska do zone raskrsnice sa ulicom Tošin bunar (raskrsnica ulica Tošin bunar i Teodora Hercla biće slobodna za saobraćaj), pri čemu će predmetna deonica biti zatvorena za saobraćaj, zbog čega će linije JLPP-a saobraćati na sledeći način:",
                 "text_translations": {
-                    "en": "The works are being carried out on the right side of the carriageway in Egipatska Street (seen in the direction of Surčin), on the part from house number 1F to the intersection zone with Gandijeva Street, seen in the direction of Surčin. During the execution of the works, the section in question will be closed to traffic, and there will be changes in the operation of the JLPP lines, namely:"
+                    "en": "The works are being carried out on the roadway in Teodora Herzla Street, in the section from the intersection zone with Novogradska Street to the intersection zone with Tošin Bunar Street (the intersection of Tošin Bunar and Teodora Herzla Streets will be free for traffic), whereby the section in question will be closed to traffic, which is why the JLPP lines will operate as follows:"
                 }
             },
             {
-                "text": "- vozila sa linija br. 45, 71, 601, 601N i 603N će u smeru ka Surčinu, saobraćati ulicama Tošin bunar, Bulevar Heroja sa Košara, Omladinskih brigada, Jurija Gagarina, Gandijeva, Vojvođanska i dalje redovnim trasama, dok u suprontom smeru će saobraćati redovnim trasama.",
+                "text": "- vozila sa linije br. 15 će u oba smera saobraćati ulicama Vrtlarska, Ugrinovačka, Gornjogradska, Prvomajska i dalje redovnom trasom;",
                 "text_translations": {
-                    "en": "- vehicles from line no. 45, 71, 601, 601N and 603N in the direction of Surčin will travel on the streets Tošin bunar, Bulevar Heroja sa Košar, Omladinskih brigada, Jurija Gagarin, Gandijeva, Vojvođanska and further on regular routes, while in the opposite direction they will travel on regular routes."
+                    "en": "- vehicles from line no. 15 will run in both directions on the streets Vrtlarska, Ugrinovačka, Gornjogradska, Prvomajska and further along the regular route;"
                 }
             },
             {
-                "text": "- vozila sa linija br. 82  (u skladu sa izmenom režima u vezi sa radovima u ul. Gadnijeva) će u smeru ka Surčinu, saobraćati ulicama Tošin bunar, Bulevar Heroja sa Košara, Omladinskih brigada, Jurija Gagarina, i dalje redovnim trasama, dok u suprontom smeru će saobraćati redovnim trasom.",
+                "text": "- vozila sa linija br. 18, 78 i 15N će u oba smera saobraćati ulicama Tošin Bunar, Ivićeva, Ugrinovačka, Gornjogradska, Prvomajska i dalje redovnim trasama;",
                 "text_translations": {
-                    "en": "- vehicles from line no. 82 (in accordance with the change of regime in connection with the works in Gadnijeva Street) in the direction of Surčin, will travel along the streets Tošin bunar, Bulevar Heroja sa Košar, Omladinskih brigada, Yuri Gagarin, and continue on regular routes, while in the opposite direction it will travel on the regular route."
+                    "en": "- vehicles from line no. 18, 78 and 15N will run in both directions on the streets Tošin Bunar, Ivićeva, Ugrinovačka, Gornjogradska, Prvomajska and further on regular routes;"
                 }
             },
             {
-                "text": "Vozila javnog prevoza će na izmenjenom delu koristiti sva postojeća stajališta JLPP-a.",
+                "text": "Vozila će na izmenjenom delu koristiti sva postojeća stajališta JLPP-a,kao i novouspostavljena privremena autobuska stajališta i to:",
                 "text_translations": {
-                    "en": "Public transport vehicles will use all existing JLPP stops on the modified section."
+                    "en": "Vehicles on the modified section will use all existing JLPP stops, as well as the newly established temporary bus stops, namely:"
                 }
             },
             {
-                "text": "Privremeno se ukida autobusko stajalište „Železnička stanica Tošin bunar“  (smer ka Surčinu) za linije br. 45, 71, 82,  601, 601N i 603N.",
+                "text": "U smeru prema Zemunu:",
                 "text_translations": {
-                    "en": "The bus stop \"Tošin Bunar Railway Station\" (direction to Surčin) for lines no. 45, 71, 82, 601, 601N and 603N."
+                    "en": "In the direction of Zemun:"
+                }
+            },
+            {
+                "text": "-  „Gornjogradska 1“ - stajalište se uspostavlja u ulici Gornjogradska na poziciji drugog ED stuba koji se nalazi ispred kućnog broja 63, odnosno oko 60 metara posle zone raskrsnice sa ulicom Ugrinovačka;",
+                "text_translations": {
+                    "en": "- \"Gornjogradska 1\" - the bus stop is established in Gornjogradska street at the position of the second ED pillar located in front of house number 63, that is, about 60 meters after the intersection zone with Ugrinovačka street;"
+                }
+            },
+            {
+                "text": "- „Prvomajska 1“ - stajalište se uspostavlja u ulici Gornjogradska, na poziciji ED stuba stuba koji se nalazi u visini kućnog broja 10,odnosno oko 60 metara ispred zone raskrsnice sa ulicom Prvomajska;",
+                "text_translations": {
+                    "en": "- \"Prvomajska 1\" - the stop is established in Gornjogradska Street, at the position of the ED pillar of the pillar located at the height of house number 10, that is, about 60 meters in front of the intersection zone with Prvomajska Street;"
+                }
+            },
+            {
+                "text": "U smeru prema gradu:",
+                "text_translations": {
+                    "en": "Towards the city:"
+                }
+            },
+            {
+                "text": "- „Prvomajska 1“ - stajalište se uspostavlja u ulici Gornjogradska, na poziciji ED stuba stuba koji se nalazi u visini kućnog broja 2, odnosno oko 40 metara posle zone raskrsnice sa ulicom Prvomajska.",
+                "text_translations": {
+                    "en": "- \"Prvomajska 1\" - the stop is established in Gornjogradska Street, at the position of the ED pillar of the pillar located at the height of house number 2, that is, about 40 meters after the intersection zone with Prvomajska Street."
                 }
             }
         ],
-        "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/1104",
+        "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/1119",
         "title_translations": {
-            "en": "Information about the change in the mode of operation of public transport lines during the execution of works in Egipatska street - phase 2"
+            "en": "Information about the change in the mode of operation of public transport lines during the execution of works in Teodora Herzla Street"
         }
     },
     {
-        "date": "14/09/2026 - 14/10/2026",
-        "title": "Informacija o promeni režima rada linije br. 82",
+        "date": "23/09/2026 - 15/12/2026",
+        "title": "Informacija o promeni režima rada linija javnog prevoza tokom izvođenja radova na rekonstrukciji mostovske konstrukcije u ulici Đorđa Stanojevića",
         "sections": [
             {
-                "text": "Tokom izvođenja radova na redovnom održavanju u ulicama Gandijeva i Egipatska (Novi Beograd), u periodu od 14.09. do 14.10.2026. godine doći će do promena u radu linija javnog prevoza. Radovi se izvode na desnoj strani kolovoza (krajnje dve desne saobraćajne trake) u ulici Egipatska (gledano u smeru ka Surčinu), na delu od kućnog broja 1E do zone raskrsnice sa ulicom Gandijeva, kao i desnoj saobraćajnoj traci ulice Gandijeva do kućnog broja 1 (gledano u smeru ka ulici Partizanske avijacije), pri čemu će biti onemogućeno korišćenje stajališta „Vojvođanska“ (#1210). Tokom izvođenja ovih radova vozila JLPP-a će se duž ulice Egipatska kretati preostalom širinom kolovoza, dok će u ulici Gandijeva leva kolovozna traka  biti udvosmerena za saobraćaj sa širinom traka od 3,2 i 2,75 metara. Zbog nedovoljne širine saobraćajnih traka za saobraćanje vozila javnog prevoza, doći će do promene u radu linije JLPP-a br. 82 i to:",
+                "text": "Tokom izvođenja radova na izgradnji kompleksa stanice Novi Beograd sa rekonstrukcijom mostovske konstrukcije u ulicama Antifašističke borbe i Đorđa Stanojevića. Radovi će se izvoditi po fazama i to:",
                 "text_translations": {
-                    "en": "During the performance of regular maintenance works in Gandijeva and Egipatska streets (New Belgrade), in the period from September 14. until 14.10.2026. there will be changes in the operation of public transport lines. The works are being carried out on the right side of the roadway (the last two right-hand traffic lanes) in Egipatska Street (seen in the direction of Surčin), on the part from house number 1E to the intersection zone with Gandijeva Street, as well as on the right traffic lane of Gandijeva Street to house number 1 (seen in the direction of Partizanske Avijacije Street), whereby the use of the \"Vojvođanska\" stop (#1210) will be disabled. During the execution of these works, JLPP vehicles will move along Egipatska Street with the remaining width of the roadway, while in Gandijeva Street, the left lane will be two-way for traffic with lane widths of 3.2 and 2.75 meters. Due to the insufficient width of traffic lanes for the traffic of public transport vehicles, there will be a change in the operation of JLPP line no. 82 and that:"
+                    "en": "During the execution of works on the construction of the Novi Beograd station complex with the reconstruction of the bridge structure in the streets of Antifašističke borba and Đorđe Stanojevića. The works will be carried out in phases, namely:"
                 }
             },
             {
-                "text": "- vozila sa linija br. 82 će u smeru ka Bloku 44, saobraćati ulicama Tošin bunar, Egipatska, Gandijeva i dalje redovnom trasom, dok će u suprotnom smeru saobraćati redovnom trasom.",
+                "text": "Faza 2 -  Radovi se izvode na kolovozu ulice Đorđa Stanojevića u visini želzničkog nadvožnjaka, u periodu od 23.09. do 15.12.2026. godine. Tokom izvođenja radova doći će do zatvaranje predmetne deonica za saobraćaj, pri čemu će linije javnog prevoza saobraćati na sledeći način:",
                 "text_translations": {
-                    "en": "- vehicles from line no. 82 in the direction of Block 44 will travel along the streets Tošin bunar, Egipatska, Gandijeva and further along the regular route, while in the opposite direction it will travel along the regular route."
+                    "en": "Phase 2 - Works are being carried out on the roadway of Đorđa Stanojevića Street at the height of the railway overpass, in the period from 23.09. until 15.12.2026. year. During the execution of the works, the section in question will be closed to traffic, with public transport lines operating as follows:"
                 }
             },
             {
-                "text": "Vozila sa linije  br. 82 će na izmenjenom delu koristiti sva postojeća stajališta JLPP-a, kao i novouspostavljena privremena stajališta i to:",
+                "text": "• Tramvajske linije br. 7L, 9L i 13 se privremeno ukidaju;",
                 "text_translations": {
-                    "en": "Vehicles from line no. 82 will use all existing positions of the JLPP, as well as the newly established temporary positions, on the amended part, namely:"
+                    "en": "• Tram lines no. 7L, 9L and 13 are temporarily suspended;"
                 }
             },
             {
-                "text": "- „Gandijeva 1“ ( smer ka Keju oslobođenja) u ulici Gandijeva kod kućnog broja 5, odnosno oko 25 metara ispred pešačkog pralaza koji se nalazi u zoni raskrsnice sa ulicom Egipatska.",
+                "text": "• Privremeno se uspostavlja tramvajska linija 7L1 koja će saobraćati na relaciji Ustanička - Pogon „Sava“ preko Mosta na Adi;",
                 "text_translations": {
-                    "en": "- \"Gandijeva 1\" (direction towards Liberation Quay) in Gandijeva Street at house number 5, that is, about 25 meters in front of the pedestrian crossing located in the area of ​​the intersection with Egipatska Street."
+                    "en": "• Tram line 7L1 is temporarily being established, which will operate on the route Ustanička - Pogon \"Sava\" via the Bridge on Ada;"
                 }
             },
             {
-                "text": "Privremeno se izmešta autobusko stajlište Gadnijeva u ulici Vojvođanska na pozicju koja se nalazi ispred kućnog broja 3, odnosno oko 115 metara ispred redovne pozicije.",
+                "text": "• Privremeno se uspostavlja tramvajska linija 9L1 koja će saobraćati na relaciji Banjica - Pogon „Sava“ preko Mosta na Adi;",
                 "text_translations": {
-                    "en": "The Gadnijeva bus stop in Vojvođanska Street is being temporarily moved to a position in front of house number 3, that is, about 115 meters in front of the regular position."
+                    "en": "• Tram line 9L1 is temporarily established, which will operate on the route Banjica - Pogon \"Sava\" via the Ada Bridge;"
+                }
+            },
+            {
+                "text": "• Privremeno se uspostavlja autobuska kružna linija br. 7A koja će saobraćati od Bloka 45 ulicama: terminus „Blok 45“, Dr Ivana Ribara, Jurija Gagarina, Bulevar Crvene Armije, Marka Hristića, Jurija Gagarina, Antifašitičke borbe, Bulevar Milutina Milankovića, Milentije Popovića,  Bulevar Mihajla Pupina, kružni tok kod TC „Ušće“, Bulevar Mihajla Pupina, Milentije Popovića, Bulevar Milutina Milankovića, Antifašističke borbe, Jurija Gagarina, Marha Hristića, Bulevar Crvene Armije, Jurija Gagarina, Dr Ivana Ribara do terminusa „Blok 45“;",
+                "text_translations": {
+                    "en": "• A temporary circular bus line no. 7A, which will run from Blok 45 through the following streets: terminus \"Blok 45\", Dr. Ivan Ribar, Jurija Gagarin, Red Army Boulevard, Marko Hristić, Jurij Gagarin, Antifascist Struggle, Milutin Milankovića Boulevard, Milentije Popovića Boulevard, Mihajlo Pupina Boulevard, roundabout near TC \"Ušće\", Mihajlo Pupina Boulevard, Milentije Popovića Boulevard, Milutinja Popovića Boulevard, Anti-fascist struggles, Yuri Gagarin, Marho Hristić, Boulevard of the Red Army, Yuri Gagarin, Dr. Ivan Ribar to terminus \"Block 45\";"
+                }
+            },
+            {
+                "text": "• Vozila sa linije EKO 1 će u smeru ka naselju „Belvil“, saobraćati ulicama: Antifašističke borbe, Jurija Gagarina, Marka Hristića, Bulevar Crvene Armije i dalje redovnom trasom, dok će u suprotnom smeru saobraćati redovnom trasom;",
+                "text_translations": {
+                    "en": "• Vehicles from the EKO 1 line will travel in the direction of the \"Belville\" neighborhood on the streets: Anti-Fascist Struggles, Yuri Gagarin, Marko Hristić, Bulevar Crvena Armija and further along the regular route, while in the opposite direction they will travel along the regular route;"
+                }
+            },
+            {
+                "text": "• Vozila sa linije 600 će u oba smeru, saobraćati ulicama: Most na Adi, Jurija Gagarina, Antifašističke borbe, Milutina Milankovića, Španskih boraca i dalje redovnom trasom;",
+                "text_translations": {
+                    "en": "• Vehicles from line 600 will travel in both directions on the streets: Most na Ada, Yuri Gagarin, Anti-Fascist Struggle, Milutin Milanković, Spanish Fighters and further along the regular route;"
+                }
+            },
+            {
+                "text": "• Vozila sa linije 18N će u oba smeru, saobraćati ulicama: Milutina Milankovića, Antifašističke borbe, Jurija Gagarina, Marka Hristića, Bulevar Crvene Armije i dalje redovnom trasom;\n• Vozila sa linije br. 460, 460A, 464A, 465, 465A, 466A, 493, 493A, 493B, 494, 494A, 499, 581, 581A, 581E, 4414A i 493N će u smeru ka periferijama saobraćati ulicama, Marka Hristića, Jurija Gagarina, Antifašističke borbe, Bulevar Arsenije Čarnojevića i dalje redovnim trasama, dok će u surpotnom smeru saobraćati redovnim trasama;\n• Vozila sa linije br. 860I će u oba smera,  saobraćati ulicama Marka Hristića, Jurija Gagarina, Antifašističke borbe, Milutna Milankovića, Španskih boraca i dalje redovnom trasom.",
+                "text_translations": {
+                    "en": "• Vehicles from line 18N will travel in both directions on the streets: Milutin Milankovića, Anti-Fascist Struggle, Jurij Gagarin, Marko Hristić, Bulevar Crvena Armija and further along the regular route;\n• Vehicles from line no. 460, 460A, 464A, 465, 465A, 466A, 493, 493A, 493B, 494, 494A, 499, 581, 581A, 581E, 4414A and 493N will travel in the direction of the suburbs on the streets Marko Hristić, Jurij Gagarin, Anti-fascist struggles, Arsenije Čarnojevića Boulevard will continue on regular routes, while traffic in the opposite direction will be on regular routes;\n• Vehicles from line no. 860I will run in both directions on the streets of Marko Hristić, Jurij Gagarin, Anti-Fascist Struggle, Milutno Milanković, Španski borac and further along the regular route."
+                }
+            },
+            {
+                "text": "Vozila će koristiti sva postojeća stajališta, kao i novouspostavljena privremna stajališta:",
+                "text_translations": {
+                    "en": "Vehicles will use all existing stops, as well as newly established temporary stops:"
+                }
+            },
+            {
+                "text": "- „Bulevar Crvene Armije 1“ u ulici Bulevar Crvene Armije na lokaciji koja se nalazi oko 90 metara posle zone raskrsnice ulice Bulevar Crvene Armije i Jurija Gagarina, odnosno u visini objekta „Delta city“. Predmetno stajalište će korsititi linija br. 7A;",
+                "text_translations": {
+                    "en": "- \"Bulevar Crvene Armije 1\" in Bulevar Crvene Armije Street at a location located about 90 meters after the intersection zone of Bulevar Crvene Armije Street and Yuri Gagarin Street, i.e. at the height of the \"Delta City\" building. The stop in question will be used by line no. 7A;"
+                }
+            },
+            {
+                "text": "- „Depo Sava“ u ulici Đorđa Stanojevića na lokaciji koja se nalazi oko 30 metara ispred zone raskrsnice ulice Đorđa Stanojevića i Marka Hristića, odnosno u visini pogona „Depo Sava“. Predmetno stajalište će korsititi linija br. 7A i 18N;",
+                "text_translations": {
+                    "en": "- \"Depo Sava\" in Đorđe Stanojevića Street at a location located about 30 meters in front of the intersection of Đorđe Stanojevića and Marko Hristića Streets, i.e. at the height of the \"Depo Sava\" facility. The stop in question will be used by line no. 7A and 18N;"
                 }
             }
         ],
-        "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/1099",
+        "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/1108",
         "title_translations": {
-            "en": "Information on the change of mode of operation of line no. 82"
+            "en": "Information about the change in the mode of operation of public transport lines during the reconstruction of the bridge structure in Đorđa Stanojevića Street"
         }
     },
     {
-        "date": "08/09/2026 - 21/09/2026",
+        "date": "29/09/2026 - 04/10/2026",
+        "title": "Informacija o promeni režima rada linija javnog prevoza tokom izvođenja radova u ulici Dunavska - Faza 2",
+        "sections": [
+            {
+                "text": "Tokom izvođenja radova na redovnom održavanju u ulici Dunavska - Faza 2, na delu od zone raskrsnice sa ulicom Tadeuša Košćuškog (raskrsnica zatvorena za saobraćaj) do zone raskrsnice sa ulicom Dubrovačka u periodu od 29.09. godine do 04.10.2026. godine doći će do promena u radu linija javnog prevoza.",
+                "text_translations": {
+                    "en": "During the performance of regular maintenance works on Dunavska Street - Phase 2, on the part from the intersection zone with Tadeuša Košćuški Street (intersection closed to traffic) to the intersection zone with Dubrovačka Street in the period from 29.09. until 04.10.2026. there will be changes in the operation of public transport lines."
+                }
+            },
+            {
+                "text": "Radovi podrazumevaju zatvaranje desne strane kolovoza ulice Dunavska na delu od zone raskrsnice sa ulicom Tadeuša Košćuškog (uključujući i samu raskrsnicu) do zone raskrsnice sa ulicom Dubrovačka (gledano u smeru ka ulici Dubrovačka), pri čemu će se preostala širina kolovoza koristiti za dvosmerno odvijanje saobraćaja.",
+                "text_translations": {
+                    "en": "The works involve the closing of the right side of the Dunavska Street roadway in the part from the intersection zone with Tadeuša Košćuški Street (including the intersection itself) to the intersection zone with Dubrovačka Street (seen in the direction of Dubrovačka Street), whereby the remaining width of the roadway will be used for two-way traffic."
+                }
+            },
+            {
+                "text": "Tokom izvođenja radova, vozila sa linija br. 26, 26N i 401n će u smeru ka Dorćolu saobraćati ulicama Cara Dušana, Bulevar vojvode Bojovića, Dunavska, Dubrovačka do privremenog polazno/dolaznog stajališta „Dorćol (Dunavska) 1“, koje se nalazi u ulici Dubrovačka, na poziciji niše za parkiranje, neposredno ispred zone raskrsnice sa ulicom Mike Alasa, koja će se u ovom slučaju koristiti kao stajalište javnog prevoza.",
+                "text_translations": {
+                    "en": "During the works, vehicles from line no. 26, 26N and 401n in the direction of Dorćol will travel along the streets Cara Dušan, Bulevar vojvoda Bojovića, Dunavska, Dubrovačka to the temporary departure/arrival stop \"Dorćol (Dunavska) 1\", which is located on Dubrovačka Street, at the position of the parking niche, immediately in front of the intersection with Mika Alasa Street, which in this case will be used as a public transport stop."
+                }
+            },
+            {
+                "text": "Vozila će na izmenjenom delu trasa koristiti postojeća stajališta.",
+                "text_translations": {
+                    "en": "Vehicles will use the existing stops on the changed part of the route."
+                }
+            }
+        ],
+        "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/1116",
+        "title_translations": {
+            "en": "Information about the change in the mode of operation of public transport lines during the execution of works in Dunavska Street - Phase 2"
+        }
+    },
+    {
+        "date": "20/09/2026 - 02/10/2026",
+        "title": "Informacija o promeni režima rada linija javnog prevoza tokom izvođenja radova u ulici Gandijeva",
+        "sections": [
+            {
+                "text": "Tokom izvođenja radova na redovnom održavanju u ulici Gandijeva u periodu od 20.09. od 13.00 časova  do 02.10.2026. godine doći će do promena u radu linije br. 82.",
+                "text_translations": {
+                    "en": "During the performance of regular maintenance works in Gandijeva Street in the period from 20.09. from 1:00 p.m. until 02.10.2026. there will be changes in the operation of line no. 82."
+                }
+            },
+            {
+                "text": "Radovi se izvode na kolovozu ulice Gandijeva, na delu od zone raskrsnice sa ulicom Pere Segedinca do zone raskrsnice sa ulicom Partizanske avijacije. Tokom izvođenja radova, predmetna deonica će biti zatvorena za saobraćaj, pri čemu će doći do promene u radu linija JLPP-a br. 82 i to:",
+                "text_translations": {
+                    "en": "The works are being carried out on the roadway of Gandijeva street, on the part from the intersection zone with Pere Segedinca street to the intersection zone with Partizanske avijacije street. During the execution of the works, the section in question will be closed to traffic, and there will be a change in the operation of JLPP lines no. 82 and that:"
+                }
+            },
+            {
+                "text": "Smer ka Bloku 44:\nLinija će saobraćati ulicama Tošin bunar, Nikole Dobrovića, Marka Čelebonovića, Norveška, Ljubinke Bobić, Partizanske avijacije, Nikole Dobrovića, Tošin bunar, Egipatska, Gandijeva i dalje redovnom trasom.",
+                "text_translations": {
+                    "en": "Direction to Block 44:\nThe line will run through the streets Tošin bunar, Nikola Dobrović, Marko Čelebonović, Norveska, Ljubinka Bobić, Partizanska avijacije, Nikola Dobrović, Tošin bunar, Egipatska, Gandijeva and further along the regular route."
+                }
+            },
+            {
+                "text": "Smer ka Zemunu:\nLinija će saobraćati ulicama Gandijeva, Egipatska, Tošin bunar, Nikole Dobrovića, Partizanske avijacije, Ljubinke Bobić, Norveška, Marka Čelebonovića, Nikole Dobrovića, Tošin bunar i dalje redovnom trasom.",
+                "text_translations": {
+                    "en": "Direction to Zemun:\nThe line will run through the streets Gandijeva, Egipatska, Tošin bunar, Nikola Dobrović, Partizanska avijacije, Ljubinka Bobić, Norvegia, Marko Čelebonović, Nikola Dobrović, Tošin bunar and further along the regular route."
+                }
+            },
+            {
+                "text": "U smeru ka Bloku 44, linija će koristiti sva postojeća stajališta, osim stajališta „Nikole Dobrovića“ (smer ka ulici Tošin bunar) i „Generala Nedeljkovića“ (smer ka ulici Tošin bunar).",
+                "text_translations": {
+                    "en": "In the direction of Block 44, the line will use all existing stops, except for the \"Nikola Dobrović\" (direction to Tošin Bunar Street) and \"General Nedeljković\" (direction to Tošin Bunar Street) stops."
+                }
+            },
+            {
+                "text": "U smeru ka Zemunu, linija će koristiti sva postojeća stajališta, osim stajališta „Vojvođanska“ (smer ka ulici Norveška) i „Generala Nedeljkovića“ (smer ka ulici Marka Čelebonovića).",
+                "text_translations": {
+                    "en": "In the direction of Zemun, the line will use all existing stops, except for the stops \"Vojvođanska\" (direction towards Norveska Street) and \"General Nedeljkovića\" (direction towards Marko Čelebonovića Street)."
+                }
+            }
+        ],
+        "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/1106",
+        "title_translations": {
+            "en": "Information about the change in the mode of operation of public transport lines during the execution of works in Gandijeva Street"
+        }
+    },
+    {
+        "date": "08/09/2026 - 04/10/2026",
         "title": "Informacija o promeni režima rada linija javnog prevoza tokom izvođenja radova u ulici Kraljice Marije",
         "sections": [
+            {
+                "text": "Radovi se produžavaju do 04.10.2026. godine.",
+                "text_translations": {
+                    "en": "The works are extended until 04.10.2026. year."
+                }
+            },
             {
                 "text": "Tokom izvođenja radova na redovnom održavanju u ulici Kraljice Marije, na delu od ulaza u javnu garažu do ulaza u garažu u Studentski dom u periodu od 08.09. do 21.09. 2026. godine doći će do promena u radu linija javnog prevoza.",
                 "text_translations": {
@@ -120,7 +272,7 @@
         }
     },
     {
-        "date": "17/09/2026 - 30/09/2026",
+        "date": "26/09/2026 - 30/09/2026",
         "title": "Informacija o promeni režima rada linije javnog prevoza br. 76",
         "sections": [
             {
@@ -136,37 +288,9 @@
                 }
             }
         ],
-        "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/1103",
+        "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/1113",
         "title_translations": {
             "en": "Information on the change of mode of operation of public transport line no. 76"
-        }
-    },
-    {
-        "date": "17/08/2026 - 22/09/2026",
-        "title": "Informacija o promeni režima rada linija javnog prevoza tokom izvođenja radova u ulici Geteova (Zemun)",
-        "sections": [
-            {
-                "text": "Radovi su produženi do 22.09.2026. godine.",
-                "text_translations": {
-                    "en": "The works have been extended until September 22, 2026. year."
-                }
-            },
-            {
-                "text": "Tokom izvođenja radova na asfaliranju i uređenju ulice Geteova (GO Zemun) u periodu od 17.08. do 31.08.2026. godine doći će do promena u radu linija javnog prevoza.",
-                "text_translations": {
-                    "en": "During the execution of works on asphalting and landscaping of Geteova street (GO Zemun) in the period from 17.08. until 31.08.2026. there will be changes in the operation of public transport lines."
-                }
-            },
-            {
-                "text": "Radovi se izvode na kolovozu i na trotoaru, na delu od zone raskrsnice sa ulicom Atanasija Pulje do zone raskrsnice sa ulicom Slovenska (zatvorena raskrsnica) i podrazumevaju zatvaranje posmatrane deonice za saobraćaj, zbog čega će se vozila sa linija javnog prevoza br. 45 i 612 u oba smera kretati ulicama Rade Končara, Prvomajska (Pazovački put u smeru ka okretnici „Zemun (Novi grad)“, Geteova, Krajiška i dalje redovnim trasama.",
-                "text_translations": {
-                    "en": "The works are being carried out on the roadway and on the sidewalk, in the section from the intersection zone with Atanasija Pulje Street to the intersection zone with Slovenska Street (closed intersection) and involve the closure of the observed section for traffic, which is why vehicles from public transport lines no. 45 and 612 in both directions go along the streets of Rade Končara, Prvomajska (Pazovački put in the direction of the \"Zemun (Novi grad)\" turnpike), Geteova, Krajiška and further on regular routes."
-                }
-            }
-        ],
-        "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/1070",
-        "title_translations": {
-            "en": "Information about the change in the mode of operation of public transport lines during the execution of works in Geteova Street (Zemun)"
         }
     },
     {
@@ -207,6 +331,62 @@
         "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/1101",
         "title_translations": {
             "en": "Information about works in Vojvođanska street /section 3/ - Phase 1"
+        }
+    },
+    {
+        "date": "22/09/2026 - 01/04/2027",
+        "title": "Informacija o promeni režima rada linija javnog prevoza tokom izvođenja radova na državnom putu IIA-147",
+        "sections": [
+            {
+                "text": "Tokom izvođenja radova na sanaciji otcepljenja trupa državnog puta IIA-147 (ul. Kosmajska) u Mladenovvcu, u periodu od 22.09. do 01.04.2027. godine doći će do promena u radu linije JLPP-a.",
+                "text_translations": {
+                    "en": "During the performance of works on the repair of the separation of the trunk of the state road IIA-147 (Kosmajska Street) in Mladenovvac, in the period from September 22. until 01.04.2027. there will be changes in the operation of the JLPP line."
+                }
+            },
+            {
+                "text": "Radovi se izvode na kolovozu državnog puta IIA-147 (ul. Kosmajska), na delu od zone raskrsnice sa ulicom Škotskih sestara do zone raskrsnice sa ulicom Vuka Karadžića, Tokom izvođenja radova, predmetna deonica će biti zatovrena za saobraćaj, pri čemu će doći do promene u radu linija JLPP-a i to:",
+                "text_translations": {
+                    "en": "The works are being carried out on the carriageway of the state road IIA-147 (Kosmajska Street), in the section from the intersection zone with Skotskih Sestera Street to the intersection zone with Vuka Karadžića Street."
+                }
+            },
+            {
+                "text": "- vozila sa linija br. 4101, 4102, 4105, 4106, 4111, 4112, 4112A, 4112B, 4113, 4113A, 4113B, 4113V, 4121, 4121A, 4195, 41021 i 41022 saobraćaće od AS \"Mladenovac\" ulicom Braće Badžak i dalje svojim redovnim trasama, uz korišćenje stajališta \"Bogdana Popovića\" u oba smera.",
+                "text_translations": {
+                    "en": "- vehicles from line no. 4101, 4102, 4105, 4106, 4111, 4112, 4112A, 4112B, 4113, 4113A, 4113B, 4113V, 4121, 4121A, 4195, 41021 and 41022 will run from AS \"Mladenovac\" along Braće Badžak Street and further along its regular routes, using the \"Bogdan Popović\" stop in both directions."
+                }
+            }
+        ],
+        "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/1109",
+        "title_translations": {
+            "en": "Information on the change of mode of operation of public transport lines during the execution of works on the state road IIA-147"
+        }
+    },
+    {
+        "date": "30/09/2026 - 06/10/2026",
+        "title": "Informacija o promeni režima rada linija javnog prevoza tokom izvođenja radova u ulici Mirka Sandića",
+        "sections": [
+            {
+                "text": "Tokom izvođenja radova na redovnom održavanju u ulici Mirka Sandića, na delu od ulice Pljevaljske do ulice Ustaničke, GO Zvezdara, u vremenskom periodu od 30. 09. do 06. 10. 2026. godine doći će do potpunog zauzeća kolovoza u ulici Mirka Sandića na datom potezu.",
+                "text_translations": {
+                    "en": "During the performance of regular maintenance works on Mirka Sandića Street, on the part from Pljevaljska Street to Ustanička Street, GO Zvezdara, in the time period from September 30 to October 6, 2026, the roadway in Mirka Sandića Street will be completely occupied on the given stretch."
+                }
+            },
+            {
+                "text": "Vozila sa linije br. 20 će u oba smera, saobraćati ulicama Vojislava Ilića, Ustanička i dalje redovnom trasom.",
+                "text_translations": {
+                    "en": "Vehicles from line no. 20 will run in both directions on Vojislav Ilić, Ustanička streets and on the regular route."
+                }
+            },
+            {
+                "text": "Vozila javnog prevoza će na izmenjenim delovima trase koristiti sva postojeća stajališta JLPP-a.",
+                "text_translations": {
+                    "en": "Public transport vehicles will use all existing JLPP stops on the modified sections of the route."
+                }
+            }
+        ],
+        "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/1115",
+        "title_translations": {
+            "en": "Information about the change in the mode of operation of public transport lines during the execution of works in Mirka Sandića Street"
         }
     },
     {
@@ -378,163 +558,25 @@
         }
     },
     {
-        "date": "08/09/2026 - 31/12/2026",
-        "title": "Informacija o promeni režima rada linija javnog prevoza tokom izvođenja radova na rekonstrukciji mostovske konstrukcije u ulici Antifašističke borbe",
+        "date": "22/09/2026 - 07/10/2026",
+        "title": "Informacija o izmeni režima rada linije javnog prevoza br. 64",
         "sections": [
             {
-                "text": "Tokom nastavka izvođenja radova na izgradnji kompleksa stanice Novi Beograd sa rekonstrukcijom mostovske konstrukcije u ulici Antifašističke u periodu od 08.09.2026. godine do 31.12.2026. godine i dalje će biti privremeno obustavljen tramvajski saobraćaj, zbog čega će važiti sledeći režim rada linija javnog prevoza:",
+                "text": "Tokom izvođenja radova na redovnom održavanju u ulici Mlavska, u delu od ulice Dušana Popovića do ulice Mite Ružića, GO Zvezdara, u vremenskom periodu od 22. 09. do 07. 10. 2026. godine doći će do potpunog zauzeća kolovoza u ulici Mlavska, na datom potezu, pa će vozila na liniji javnog gradskog prevoza br. 64 u oba smera saobraćati ulicama : Mite Ružića, Bulevar kralja Aleksandra, Koste Trifkovića, Ruže Jovanović i dalje redovno.",
                 "text_translations": {
-                    "en": "During the continuation of works on the construction of the Novi Beograd station complex with the reconstruction of the bridge structure in Antifašističke street in the period from September 8, 2026. until 31.12.2026. tram traffic will still be temporarily suspended, which is why the following mode of operation of public transport lines will apply:"
+                    "en": "During the performance of regular maintenance works on Mlavska Street, in the part from Dušana Popović Street to Mita Ružić Street, GO Zvezdara, in the time period from September 22 to October 7, 2026, the roadway in Mlavska Street will be completely occupied, on a given stretch, so vehicles on public city transport line no. 64 in both directions to drive through the streets: Mita Ružića, Bulevar kralja Aleksandra, Kosta Trifkovića, Ruža Jovanović and further regularly."
                 }
             },
             {
-                "text": "• I dalje neće funkcionisati tramvajske linije br. 7L, 9L i 13 ;\n• I dalje funkcioniše tramvajska linija br. 7L1 koja saobraća na relaciji Ustanička - Pogon „Sava“ preko Mosta na Adi;\n• I dalje funkcioniše tramvajska linija br. 9L1 koja saobraća na relaciji Banjica - Pogon „Sava“ preko Mosta na Adi;\n• I dalje funkcioniše privremena autobuska kružna linija br. 7A koja saobraća od Bloka 45 ulicama: terminus „Blok 45“, Dr Ivana Ribara, Jurija Gagarina, Bulevar Crvene Armije, Đorđa Stanojevića, Bulevar Milutina Milankovića, Milentije Popovića,  Bulevar Mihajla Pupina, kružni tok kod TC „Ušće“, Bulevar Mihajla Pupina, Milentije Popovića, Bulevar Milutina Milankovića, Đorđa Stanojevića, Bulevar Crvene Armije, Jurija Gagarina, Dr Ivana Ribara do terminusa „Blok 45“;",
+                "text": "Na izmenjenom delu trase vozila JGP -a će koristiti sva postojeće stajališta.",
                 "text_translations": {
-                    "en": "• Tram line no. will still not function. 7L, 9L and 13;\n• Tram line no. is still functioning. 7L1, which operates on the route Ustanička - Pogon \"Sava\" via the Ada Bridge;\n• Tram line no. is still functioning. 9L1, which operates on the route Banjica - Pogon \"Sava\" via the Ada Bridge;\n• The temporary circular bus route no. 7A, which runs from Blok 45 through the streets: terminus \"Blok 45\", Dr. Ivan Ribar, Jurija Gagarin, Bulevar Crvena Armija, Đorđe Stanojevića, Blvd. Red Army, Yuri Gagarin, Dr. Ivan Ribar to terminus \"Block 45\";"
-                }
-            },
-            {
-                "text": "Vozila na pomenutim linijama i dalje koriste sva postojeća stajališta, kao i novouspostavljena stajališta:",
-                "text_translations": {
-                    "en": "Vehicles on the mentioned lines continue to use all existing stops, as well as newly established stops:"
-                }
-            },
-            {
-                "text": "- „Bulevar Crvene Armije 1“ u ulici Bulevar Crvene Armije na lokaciji koja se nalazi oko 90 metara posle zone raskrsnice ulice Bulevar Crvene Armije i Jurija Gagarina, odnosno u visini objekta „Delta city“. Predmetno stajalište će koristiti linija br. 7A;",
-                "text_translations": {
-                    "en": "- \"Bulevar Crvene Armije 1\" in Bulevar Crvene Armije Street at a location located about 90 meters after the intersection zone of Bulevar Crvene Armije Street and Yuri Gagarin Street, i.e. at the height of the \"Delta City\" building. The stop in question will be used by line no. 7A;"
-                }
-            },
-            {
-                "text": "- „Depo Sava“ u ulici Đorđa Stanojevića na lokaciji koja se nalazi oko 30 metara ispred zone raskrsnice ulice Đorđa Stanojevića i Marka Hristića, odnosno u visini pogona „Depo Sava“. Predmetno stajalište će koristiti linije br. 7A;",
-                "text_translations": {
-                    "en": "- \"Depo Sava\" in Đorđe Stanojevića Street at a location that is located about 30 meters in front of the area of ​​the intersection of Đorđe Stanojevića and Marko Hristića Streets, i.e. at the height of the \"Depo Sava\" plant. The stop in question will use lines no. 7A;"
-                }
-            },
-            {
-                "text": "- „Đorđa Stanojevića 1“ u ulici Đorđa Stanojevića na lokaciji koja se nalazi oko 60 metara ispred zone raskrsnice ulice Đorđa Stanojevića i Bulevar Milutina Milankovića. Predmetno stajalište će koristiti linije br. 7A;",
-                "text_translations": {
-                    "en": "- \"Đorđa Stanojevića 1\" in Đorđa Stanojevića Street at a location located about 60 meters in front of the intersection of Đorđa Stanojevića Street and Milutin Milankovića Boulevard. The stop in question will use lines no. 7A;"
-                }
-            },
-            {
-                "text": "- „Pogon Sava“ u ulici Đorđa Stanojevića na lokaciji koja se nalazi oko 10 metara ispred skretanja u tramvajski pogon „Sava“. Predmetno stajalište će koristiti linije br. 7L1 i 9L1;",
-                "text_translations": {
-                    "en": "- \"Pogon Sava\" in Đorđe Stanojevića Street, at a location that is located about 10 meters before the turn to the \"Sava\" tramway. The stop in question will use lines no. 7L1 and 9L1;"
-                }
-            },
-            {
-                "text": "- „Pogon Sava“ u ulici Đorđa Stanojevića na lokaciji koja se nalazi oko 40 metara posle izlaska iz tramvajskog pogona „Sava“. Predmetno stajalište će koristiti linije br. 7L1 i 9L1.",
-                "text_translations": {
-                    "en": "- \"Pogon Sava\" in Đorđe Stanojevića Street, at a location located about 40 meters after the exit from the \"Sava\" tramway. The stop in question will use lines no. 7L1 and 9L1."
+                    "en": "On the changed part of the route, JGP vehicles will use all existing stops."
                 }
             }
         ],
-        "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/1095",
+        "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/1107",
         "title_translations": {
-            "en": "Information about the change in the mode of operation of public transport lines during the reconstruction of the bridge structure in the street of Antifascistke borbe"
-        }
-    },
-    {
-        "date": "04/08/2026 - 23/09/2026",
-        "title": "Informacija o promeni režima rada linija javnog prvoza tokom izvođenja radova na održavanju autobuske okretnice „Borča 3“",
-        "sections": [
-            {
-                "text": "Radovi se produžavaju do 23.09.2026.",
-                "text_translations": {
-                    "en": "The works are extended until September 23, 2026."
-                }
-            },
-            {
-                "text": "Tokom izvođenja radova na održavanju autobuske okretnice „Borča 3“ u periodu od 17.07. do 20.08.2026. godine, doći će do promena u radu linija javnog prevoza.",
-                "text_translations": {
-                    "en": "During the maintenance works on the \"Borča 3\" bus interchange in the period from 17.07. until 20.08.2026. year, there will be changes in the operation of public transport lines."
-                }
-            },
-            {
-                "text": "Radovi podrazumevaju zatvaranje polazno/dolaznog stajališta za linije br. 95 i 96, kao i polazno/dolaznog stajališta za liniju br. 85 u okviru same okretnice, zbog čega će vozila javnog prevoza saobraćati na sledeći način:",
-                "text_translations": {
-                    "en": "The works involve closing the departure/arrival stop for lines no. 95 and 96, as well as departure/arrival stops for line no. 85 within the roundabout itself, which is why public transport vehicles will operate as follows:"
-                }
-            },
-            {
-                "text": "• vozila sa linija br. 85, 95, 95N i 101N će u smeru ka okretnici „Borča 3“ saobraćati ulicama Bele Bartoka, Prelivačka do privremenog dolaznog stajališta „Borča 3“ - #4179 u ulici Prelivačka, ispred objekta sa kućnim brojem 118B. Vozila sa ovih linija će u smeru ka Zrenjaninskom putu kao polazno stajalište koristiti postojeće stajalište „Borča 3“ - #2804, koje u redovnom režimu koriste vozila sa linije br. 105L, odakle će dalje, u smeru ka Trgu republike saobraćati na svojim redovnim trasama;\n• vozila sa linije br. 96 će u smeru ka okretnici „Borča 3“ saobraćati ulicama Bratstva i jedinstva, Valjevskog odreda, Ratnih vojnih invalida, do stajališta „Borča 3“ - #2804, koje u redovnom režimu koriste vozila sa linije br. 105L, odakle će dalje, u smeru ka terminusu \"Ž.S. Pančevački most\" saobraćati na svojoj redovnoj trasi.",
-                "text_translations": {
-                    "en": "• vehicles from lines no. 85, 95, 95N and 101N in the direction of the \"Borča 3\" turnpike will travel along the streets of Bela Bartok, Prelivačka to the temporary arrival stop \"Borča 3\" - #4179 in Prelivačka Street, in front of the building with house number 118B. Vehicles from these lines will use the existing stop \"Borča 3\" - #2804, which is regularly used by vehicles from line no. 105L, from where it will run on its regular routes in the direction of Republic Square;\n• vehicles from line no. 96 in the direction of the \"Borča 3\" turnpike will travel through the streets of Bratstva i Jedinstvo, Valjevski Detachment, Military Invalids, to the stop \"Borča 3\" - #2804, which is regularly used by vehicles from line no. 105L, from where it will run on its regular route in the direction of the \"Ž.S. Pančevački most\" terminus."
-                }
-            }
-        ],
-        "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/1063",
-        "title_translations": {
-            "en": "Information about the change in the mode of operation of public transport lines during the maintenance works on the \"Borča 3\" bus interchange"
-        }
-    },
-    {
-        "date": "24/07/2026 - 26/09/2026",
-        "title": "Informacija o promeni režima rada linija javnog prevoza tokom izvođenja radova u ulici Dr Žorža Matea",
-        "sections": [
-            {
-                "text": "Radovi se produžavaju do 26.09.2026. godine.",
-                "text_translations": {
-                    "en": "The works are extended until September 26, 2026. year."
-                }
-            },
-            {
-                "text": "Tokom izvođenja radova na redovnom održavanju u ulici Dr Žorža Matea u zoni raskrsnice sa ulicom Marije Bursać u periodu od 24.07. do 31.08. 2026. godine doći će do promena u radu linije br. 77.",
-                "text_translations": {
-                    "en": "During the performance of regular maintenance works on Dr. Žorža Matea Street in the area of ​​the intersection with Marije Bursać Street in the period from 24.07. until 31.08. In 2026, there will be changes in the operation of line no. 77."
-                }
-            },
-            {
-                "text": "Radovi podrazumevaju zatvaranje za saobraćaj desne saobraćajne trake ulice Dr Žorža Matea (gledano u smeru ka Tošinom bunaru) u visini zone raskrsnice sa ulicom Marije Bursać u dužini od 50,0 metara, pri čemu će se vozila u visini zone radova kretati preostalom širinom kolovoza uz naizmenično propuštanje regulisano uz pomoć privremenih semafora.",
-                "text_translations": {
-                    "en": "The works involve the closure of the right traffic lane of Dr. Žorža Matea street (seen in the direction of Tošina well) in the height of the intersection zone with Marije Bursać street in a length of 50.0 meters, whereby vehicles in the height of the work zone will move on the remaining width of the roadway with alternating passing regulated with the help of temporary traffic lights."
-                }
-            },
-            {
-                "text": "S obzirom da će zbog ovakve organizacije saobraćaja u zoni raskrsnice ulica Dr Žorža Matea i Marije Bursać za saobraćaj biti zatvorena ulica Marije Bursać (onemogućena veza Dr Žorža Matea - Marije Bursać), vozila sa linije br. 77 će u oba smera saobraćati od Tošinog bunara do okretnice „Bežanijska kosa“ bez svraćanja do Doma penzionera u ulici Marije Bursać.",
-                "text_translations": {
-                    "en": "Considering that due to this traffic organization in the area of ​​the intersection of Dr. Žorža Matea and Marija Bursać Streets, Marija Bursać Street will be closed for traffic (the Dr. Žorža Matea - Marija Bursać connection is disabled), vehicles from line no. 77 will run in both directions from Tošina Bunar to the \"Bežanijska Kosa\" turnpike without stopping at the Pensioners' Home in Marije Bursać Street."
-                }
-            }
-        ],
-        "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/1053",
-        "title_translations": {
-            "en": "Information about the change in the mode of operation of public transport lines during the execution of works in Dr. Žorža Matea Street"
-        }
-    },
-    {
-        "date": "01/07/2026 - 30/09/2026",
-        "title": "Informacija o promeni režima radalinija javnog prevoza tokom izvođenja radova u ulici Dunavska",
-        "sections": [
-            {
-                "text": "Radovi su produženi do 30.09.2026. godine.",
-                "text_translations": {
-                    "en": "The works have been extended until September 30, 2026. year."
-                }
-            },
-            {
-                "text": "Tokom izvođenja radova na redovnom održavanju u ulici Dunavska, na delu od zone raskrsnice sa ulicom Tadeuša Košćuškog do zone raskrsnice sa ulicom Dubrovačka u periodu od 01.07. godine do 31.07.2026. godine doći će do promena u radu linija javnog prevoza.",
-                "text_translations": {
-                    "en": "During the performance of regular maintenance works on Dunavska Street, on the part from the intersection zone with Tadeuša Košćuški Street to the intersection zone with Dubrovačka Street in the period from 01.07. until 31.07.2026. there will be changes in the operation of public transport lines."
-                }
-            },
-            {
-                "text": "Radovi podrazumevaju zatvaranje za saobraćaj dela desne saobraćajne trake i trotoara na posmatranoj deonici (gledano u smeru ka ulici Dubrovačka), pri čemu će se preostala širina kolovoza koristiti za dvosmerno odvijanje saobraćaja.",
-                "text_translations": {
-                    "en": "The works involve the closure of part of the right traffic lane and the sidewalk on the observed section (seen in the direction of Dubrovačka Street), whereby the remaining width of the roadway will be used for two-way traffic."
-                }
-            },
-            {
-                "text": "Predmetni radovi neće uticati na funkcionisanje linija javnog prevoza. Vozila sa linija br. 26, 26N i 401n će umesto polazno/dolaznog stajališta#2110 „Dorćol (Dunavska)“ koristiti privremeno polazno/dolazno stajalište „Dorćol (Dunavska) 1“, koje se nalazi u ulici Dubrovačka, na poziciji niše za parkiranje, neposredno ispred zone raskrsnice sa ulicom Mike Alasa, koja će se u ovom slučaju koristiti kao stajalište javnog prevoza.",
-                "text_translations": {
-                    "en": "The subject works will not affect the functioning of public transport lines. Vehicles from lines no. 26, 26N and 401n, instead of departure/arrival stop #2110 \"Dorćol (Dunavska)\", will use the temporary departure/arrival stop \"Dorćol (Dunavska) 1\", which is located on Dubrovačka Street, in the position of the parking niche, immediately in front of the intersection with Mike Alasa Street, which in this case will be used as a public transport stop."
-                }
-            }
-        ],
-        "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/1027",
-        "title_translations": {
-            "en": "Information about the change of mode of public transport lines during the execution of works in Dunavska Street"
+            "en": "Information on the change in the mode of operation of the public transport line no. 64"
         }
     },
     {
