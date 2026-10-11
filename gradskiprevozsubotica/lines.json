@@ -2225,7 +2225,7 @@
         "saturday": {
             "starting_points_a": [
                 "06:45",
-                "12:45"
+                "14:15"
             ],
             "starting_points_b": [
                 "08:05",
@@ -2234,7 +2234,7 @@
         },
         "sunday": {
             "starting_points_a": [
-                "12:45"
+                "14:15"
             ],
             "starting_points_b": [
                 "08:05",
@@ -2472,9 +2472,12 @@
         ],
         "weekday": {
             "starting_points_a": [
-                "12:00 Đ"
+                "06:20 Đ",
+                "12:00 Đ",
+                "18:20 Đ"
             ],
             "starting_points_b": [
+                "07:20 Đ",
                 "13:10 Đ",
                 "19:10 Đ"
             ]
