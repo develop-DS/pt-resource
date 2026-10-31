@@ -1,56 +1,302 @@
 [
     {
-        "date": "16.10.2026",
-        "title": "Skraćenje trase linije 74",
+        "date": "30.10.2026",
+        "title": " Linije 1,17,21,22,23,24,30 – Privremena izmena trase u Kisačkoj ulici od 2. 11. (druga faza radova)",
         "sections": [
             {
-                "text": "Zbog održavanja 12. jesenjeg planinarskog maratona na Fruškoj gori, 17.10.2026. godine (SUBOTA), privremeno se skraćuje trasa linije broj 74- NOVI SAD-POPOVICA u periodu od 07.00 do 18.00 časova.\n\nPolasci iz Novog Sada, saobraćaju do raskrsnice Ulica Fruškogorski put-Majdanska. \n\nPolasci za Novi Sad, obavljaju se od navedene raskrsnice, po redu vožnje.",
+                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, od 2.11. do 30.11.2026. godine određuje se privremena izmena trase autobuskih linija broj 1, 17, 21, 22, 22, 23, 24 i 30 zbog radova u Kisačkoj ulici, na delu od Ulice Jovana Cvijića do Bulevara kralja Petra I.",
                 "text_translations": {
-                    "en": "Due to the holding of the 12th Autumn Mountaineering Marathon on Fruška Gora, October 17, 2026. (Saturday), the route of line number 74 - NOVI SAD-POPOVICA is temporarily shortened from 07:00 to 18:00.\n\nDepartures from Novi Sad run to the intersection of Ulica Fruškogorski put-Majdanska. \n\nDepartures for Novi Sad are made from the mentioned intersection, according to the timetable."
+                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, dated 2.11. until 30.11.2026. 1, 17, 21, 22, 22, 23, 24 and 30, due to works in Kisačka Street, on the part from Jovana Cvijić Street to Kralja Petar I Boulevard."
+                }
+            },
+            {
+                "text": "LINIJA 1",
+                "text_translations": {
+                    "en": "LINE 1"
+                }
+            },
+            {
+                "text": "Na raskrsnici Kisačka/Jovana Cvijića autobusi će skretati levo u Ulicu Jovana Cvijića, desno u Temerinsku ulicu i produžavati pravo u Ulicu Jovana Subotića, odakle će nastavljati redovnom trasom.",
+                "text_translations": {
+                    "en": "At the Kisačka/Jovan Cvijić intersection, buses will turn left into Jovana Cvijić Street, right into Temerinska Street and continue straight into Jovana Subotić Street, from where they will continue on their regular route."
+                }
+            },
+            {
+                "text": "NA IZMENjENOM DELU TRASE KORISTIĆE SE STAJALIŠTE  „TEMERINSKA PIJACA“.",
+                "text_translations": {
+                    "en": "ON THE CHANGED PART OF THE ROUTE, THE \"TEMERINSKA PIJACA\" STOP WILL BE USED."
+                }
+            },
+            {
+                "text": "Na raskrsnici Temerinska/Jovana Cvijića autobusi će skretati levo u Ulicu  Jovana Cvijića i desno Kisačkom ulicom nastavljati redovnom trasom.",
+                "text_translations": {
+                    "en": "At the Temerinska/Jovan Cvijić intersection, buses will turn left into Jovana Cvijić Street and continue right along Kisačka Street along the regular route."
+                }
+            },
+            {
+                "text": "NA IZMENjENOM DELU TRASE KORISTIĆE SE STAJALIŠTE  „TEMERINSKA – TRG MARIJE TRANDAFIL“.",
+                "text_translations": {
+                    "en": "THE \"TEMERINSKA - MARIJE TRANDAFIL SQUARE\" STOP WILL BE USED ON THE CHANGED PART OF THE ROUTE."
+                }
+            },
+            {
+                "text": "LINIJA 17",
+                "text_translations": {
+                    "en": "LINE 17"
+                }
+            },
+            {
+                "text": "Na raskrsnici Kisačka/Jovana Cvijića autobusi će skretati levo u Ulicu Jovana Cvijića, desno u Temerinsku ulici i produžavati pravo u Ulicu Jovana Subotića, odakle će nastavljati redovnom trasom.",
+                "text_translations": {
+                    "en": "At the Kisačka/Jovan Cvijić intersection, buses will turn left into Jovana Cvijić Street, right into Temerinska Street and continue straight into Jovana Subotić Street, from where they will continue on their regular route."
+                }
+            },
+            {
+                "text": "NA IZMENJENOM DELU TRASE KORISTIĆE SE STAJALIŠTE  „TEMERINSKA PIJACA“.",
+                "text_translations": {
+                    "en": "ON THE CHANGED PART OF THE ROUTE, THE \"TEMERIN MARKET\" STOP WILL BE USED."
+                }
+            },
+            {
+                "text": "Redovna trasa.",
+                "text_translations": {
+                    "en": "Regular route."
+                }
+            },
+            {
+                "text": "LINIJE 21, 22, 23, 24",
+                "text_translations": {
+                    "en": "LINES 21, 22, 23, 24"
+                }
+            },
+            {
+                "text": "Sa platoa ispred železničke stanice autobusi će skretati levo na Bulevar Jaše Tomića, levo u Kisačku ulicu, desno u Partizansku, raskrsnici Partizanska/Temerinska produžavaće pravo Putem šajkaškog odreda i nastavljati redovnim trasama.",
+                "text_translations": {
+                    "en": "From the plateau in front of the railway station, the buses will turn left onto Bulevar Jaša Tomić, left into Kisačka Street, right into Partizanska, the Partizanska/Temerinska intersection will continue straight along the Šajka Detachment Road and continue on regular routes."
+                }
+            },
+            {
+                "text": "Autobusi će saobraćati redovnim trasama do raskrsnice Partizanska/Temerinska, odakle će produžavati pravo Partizanskom ulicom, skretati levo u Kisačku ulicu, desno na Bulevar Jaše Tomića do železničke stanice.",
+                "text_translations": {
+                    "en": "Buses will run on regular routes to the intersection of Partizanska/Temerinska, from where they will continue straight along Partizanska Street, turn left into Kisačka Street, right onto Bulevar Jaše Tomić to the train station."
+                }
+            },
+            {
+                "text": "NA IZMENjENOM DELU TRASE KORISTIĆE SE POSTOJEĆA AUTOBUSKA STAJALIŠTA DRUGIH LINIJA.",
+                "text_translations": {
+                    "en": "EXISTING BUS STOPS OF OTHER LINES WILL BE USED ON THE CHANGED PART OF THE ROUTE."
+                }
+            },
+            {
+                "text": "LINIJA 30",
+                "text_translations": {
+                    "en": "LINE 30"
+                }
+            },
+            {
+                "text": "Polazno stajalište Bulevar Jaše Tomića, odakle će autobusi skretati levo u Kisačku ulicu, desno u Partizansku, levo u Temerinsku ulicu i nastavljati redovnom trasom za Pejićeve salaše.",
+                "text_translations": {
+                    "en": "Departure stop Bulevar Jaša Tomić, from where the buses will turn left into Kisačka ulica, right into Partizanska ulica, left into Temerinska ulica and continue on the regular route to Pejićeve salaše."
+                }
+            },
+            {
+                "text": "Autobusi će saobraćati redovnom trasom do raskrsnice Partizanska/Temerinska, skretaće desno u Partizansku ulicu, levo u Kisačku ulicu, desno na Bulevar Jaše Tomića do železničke stanice.",
+                "text_translations": {
+                    "en": "Buses will run on the regular route to the Partizanska/Temerinska intersection, turn right into Partizanska Street, left into Kisačka Street, right onto Bulevar Jaše Tomić to the train station."
+                }
+            },
+            {
+                "text": "NA IZMENjENOM DELU TRASE KORISTIĆE SE POSTOJEĆA AUTOBUSKA STAJALIŠTA DRUGIH LINIJA.",
+                "text_translations": {
+                    "en": "EXISTING BUS STOPS OF OTHER LINES WILL BE USED ON THE CHANGED PART OF THE ROUTE."
                 }
             }
         ],
         "title_translations": {
-            "en": "Shortening the route of line 74"
+            "en": "Lines 1, 17, 21, 22, 23, 24, 30 – Temporary change of the route in Kisacka street from 2 November (second phase of works)"
         }
     },
     {
-        "date": "15.10.2026",
-        "title": "Obaveštenje - Izmena režima saobraćaja u Futogu - \"FUTOŠKA KUPUSIJADA 2026\"",
+        "date": "19.10.2026",
+        "title": "Linije 1,8,17,21,22,23,24,30 - Privremena izmena trase u Kisačkoj ulici ",
         "sections": [
             {
-                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve (broj:IV-34-6778/2026) određuje se privremena izmena trase autobuskih linija broj 53 i 55,  za vreme održavanja manifestacije ''FUTOŠKA KUPUSIJADA 2026'' u FUTOGU. Izmenjen režim saobraćanja važi od  16. oktobra 2026.godine (od 1200h) do 18.  oktobra 2026. godine.",
+                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve (broj: IV-34-7405/26 od 19.10.2026.g.) određuje se privremena izmena trase autobuskih linija broj 1, 8, 17, 21, 22, 22, 23, 24 i 30 zbog radova u Kisačkoj ulici, na delu saobraćajnice od Ulice Jovana Cvijića do Bulevara kralja Petra I. Izmenjen režim saobraćanja linija važi od 20.10.2026. do 31.10.2026. godine.",
                 "text_translations": {
-                    "en": "In accordance with the decision of the City Administration for Traffic and Roads (number: IV-34-6778/2026), a temporary change in the route of bus lines number 53 and 55 is determined during the \"FUTOŠKA KUPUSIJADA 2026\" event in FUTOGO. The modified traffic regime is valid from October 16, 2026 (from 1200) to October 18, 2026."
+                    "en": "In accordance with the decision of the City Administration for Traffic and Roads (number: IV-34-7405/26 of October 19, 2026), a temporary change in the route of bus lines number 1, 8, 17, 21, 22, 22, 23, 24 and 30 is determined due to works in Kisačka Street, on the part of the road from Jovana Cvijić Street to Kralja Petar I Boulevard. The changed mode of traffic of the lines is valid from 20.10.2026. until 31.10.2026. year."
                 }
             },
             {
-                "text": "LINIJE BROJ 53 i 55 MENJAJU TRASU KRETANJA I SAOBRAĆAJU:",
+                "text": "LINIJA 1",
                 "text_translations": {
-                    "en": "LINES NUMBER 53 and 55 CHANGE THE ROUTE AND TRAFFIC:"
+                    "en": "LINE 1"
                 }
             },
             {
-                "text": "- Polasci iz Novog Sada za Futog saobraćaju redovnom trasom do Futoga- raskrsnice Ulica Cara Lazara, Braće Bošnjak i Svetozara Markovića, zatim nastavljaju Ulicom Svetozara Markovića, desno Partizanskom, desno Branka Radičevića, levo Ulicom Rade Kondića i dalje saobraćaju redovnom trasom.",
+                "text": "Smer A Klisa-Liman",
                 "text_translations": {
-                    "en": "- Departures from Novi Sad to Futog take the regular route to Futogar - the intersection of Ulica Cara Lazara, Braća Bošnjak and Svetozar Markovića, then continue along Ulica Svetozara Markovića, right Partizanska, right Branko Radičevića, left Ulica Rade Kondića and continue along the regular route."
+                    "en": "Direction A Klisa-Liman"
                 }
             },
             {
-                "text": "-Polasci iz mesta, u naznačenom periodu, saobraćaju istom-izmenjenom trasom.",
+                "text": "Od raskrsnice Kisačka/Jovana Cvijića autobusi skreću levo u Ulicu Jovana Cvijića, desno na Temerinsku ulicu odakle produžavaju pravo u Ulicu Jovana Subotića i nastavljaju redovnom trasom.",
                 "text_translations": {
-                    "en": "-Departures from the city, in the indicated period, operate on the same-altered route."
+                    "en": "From the Kisačka/Jovan Cvijić intersection, buses turn left into Jovana Cvijić Street, right onto Temerinska Street, from where they continue straight into Jovana Subotić Street and continue along the regular route."
                 }
             },
             {
-                "text": "Na izmenjenom delu trase otvaraju se privremena stajališta u oba smera (Ulici  S.Markovića-Industrijska i Branka Radičevića-Povrtarska), kao i stajališta iz pravca Novog Sad neposredno posle raskrsnice S.Markovića-B.Bošnjaka-C.Lazara. Takođe, koriste se postojeća autobuska stajališta Linije-56 (par-benzinska pumpa).",
+                "text": "Autobusi na izmenjenom delu trase koriste stajalište \"Temerinska pijaca\".",
                 "text_translations": {
-                    "en": "On the changed part of the route, temporary stops will be opened in both directions (S.Markovića-Industrijska and Branka Radičevića-Povrtarska Streets), as well as stops from the direction of Novi Sad immediately after the intersection of S.Markovića-B.Bošnjak-C.Lazar. Also, the existing bus stops of Line-56 (steam-gas station) are used."
+                    "en": "Buses on the changed part of the route use the \"Temerinska pijaca\" stop."
+                }
+            },
+            {
+                "text": "Smer B Liman - Klisa",
+                "text_translations": {
+                    "en": "Direction B Liman - Klisa"
+                }
+            },
+            {
+                "text": "Na raskrsnici Temerinska/Jovana Cvijića autobusi skreću levo u Ulicu Jovana Cvijića i desno Kisačkom ulicom nastavljaju redovnom trasom.",
+                "text_translations": {
+                    "en": "At the Temerinska/Jovan Cvijić intersection, buses turn left into Jovana Cvijić Street and continue right along Kisačka Street along the regular route."
+                }
+            },
+            {
+                "text": "Na izmenjenom delu trase koristi se stajalište \"Temerinska – Trg Marije Trandafil.",
+                "text_translations": {
+                    "en": "The \"Temerinska - Trg Marije Trandafil\" stop is used on the changed part of the route."
+                }
+            },
+            {
+                "text": "LINIJA BROJ  8",
+                "text_translations": {
+                    "en": "LINE NUMBER 8"
+                }
+            },
+            {
+                "text": "Smer A Novo naselje - Liman",
+                "text_translations": {
+                    "en": "Direction A Novo naselje - Liman"
+                }
+            },
+            {
+                "text": "Na raskrsnici Bulevar oslobođenja/Bulevar kralja Petra I autobusi skreću desno na Bulevar oslobođenja, levo u Jevrejsku ulicu, desno na Bulevar Mihajla Pupina, odakle nastavljaju redovnom trasom.",
+                "text_translations": {
+                    "en": "At the intersection Bulevar oslojednja/Bulevar Kralja Petar I, buses turn right onto Bulevar oslojednja, left into Jevrejska Street, right onto Bulevar Mihajla Pupina, from where they continue on their regular route."
+                }
+            },
+            {
+                "text": "Na izmenjenom delu trase koristi se stajalište \"Bulevar oslobođenja - Bulevar kralja Petra I (Lutrija)\".",
+                "text_translations": {
+                    "en": "On the changed part of the route, the stop \"Bulevar oslobođenja - Bulevar kralja Petar I (Lotrija)\" is used."
+                }
+            },
+            {
+                "text": "Smer B Liman - Novo naselje",
+                "text_translations": {
+                    "en": "Direction B Liman - Novo naselje"
+                }
+            },
+            {
+                "text": "Na raskrsnici Bulevar Mihajla Pupina/Jevrejska autobusi skreću levo u Jevrejsku ulicu, desno na Bulevar oslobođenja, levo na Bulevar kralja Petra I i nastavljaju redovnom trasom.",
+                "text_translations": {
+                    "en": "At the intersection Bulevar Mihajla Pupina/Jevrejska, buses turn left onto Jevrejska Street, right onto Bulevar oslobodenja, left onto Bulevar Kralja Petar I and continue along the regular route."
+                }
+            },
+            {
+                "text": "Na izmenjenom delu trase koristi se stajalište \"Bulevar oslobođenja – Jevrejska (Futoška pijaca)\".",
+                "text_translations": {
+                    "en": "On the changed part of the route, the \"Liberation Boulevard - Jevrejska (Futoška pijaca)\" stop is used."
+                }
+            },
+            {
+                "text": "LINIJA 17",
+                "text_translations": {
+                    "en": "LINE 17"
+                }
+            },
+            {
+                "text": "Smer A BIG - Centar",
+                "text_translations": {
+                    "en": "Direction A BIG - Center"
+                }
+            },
+            {
+                "text": "Na raskrsnici Kisačka/Jovana Cvijića autobusi skreću levo u Ulicu Jovana Cvijića, desno u Temerinsku ulicu, produžavaju pravo u Ulicu Jovana Subotića i nastavljaju redovnom trasom.",
+                "text_translations": {
+                    "en": "At the Kisačka/Jovan Cvijić intersection, buses turn left into Jovana Cvijić Street, right into Temerinska Street, continue straight into Jovana Subotić Street and continue along the regular route."
+                }
+            },
+            {
+                "text": "Na izmenjenom delu trase koristi se stajalište \"Temerinska pijaca\".",
+                "text_translations": {
+                    "en": "The \"Temerinska pijaca\" stop is used on the changed part of the route."
+                }
+            },
+            {
+                "text": "Smer B Centar - BIG",
+                "text_translations": {
+                    "en": "Direction B Center - BIG"
+                }
+            },
+            {
+                "text": "Redovna trasa.",
+                "text_translations": {
+                    "en": "Regular route."
+                }
+            },
+            {
+                "text": "LINIJE 21, 22, 23, 24",
+                "text_translations": {
+                    "en": "LINES 21, 22, 23, 24"
+                }
+            },
+            {
+                "text": "Polasci iz NOVOG SADA  sa železničke stanice skreću levo na Bulevar Jaše Tomića, levo u Kisačku ulicu, desno u Partizansku, na raskrsnici Partizanska/Temerinska produžavaju pravo Putem Šajkaškog odreda, odakle nastavljaju redovnim trasama.",
+                "text_translations": {
+                    "en": "Departures from NOVI SAD from the railway station turn left onto Bulevar Jaše Tomić, left into Kisačka ulica, right into Partizanska, at the intersection of Partizanska/Temerinska continue straight along Šajkaški Detachment Road, from where they continue on regular routes."
+                }
+            },
+            {
+                "text": "Polasci za NOVI SAD na raskrsnici Partizanska/Temerinska saobraćaju produžavaju pravo Partizanskom ulicom, skreću levo u Kisačku ulicu, desno na Bulevar Jaše Tomića i saobraćaju do železničke stanice.",
+                "text_translations": {
+                    "en": "Departures for NOVI SAD at the Partizanska/Temerinska intersection continue straight along Partizanska Street, turn left into Kisačka Street, right onto Bulevar Jaše Tomić and drive to the railway station."
+                }
+            },
+            {
+                "text": "Na izmenjenom delu trase koriste se postojeća autobuska stajališta drugih linija.",
+                "text_translations": {
+                    "en": "Existing bus stops of other lines are used on the changed part of the route."
+                }
+            },
+            {
+                "text": "LINIJA 30",
+                "text_translations": {
+                    "en": "LINE 30"
+                }
+            },
+            {
+                "text": "Polasci iz NOVOG SADA za PEJIĆEVE SALAŠE  kreću sa železničke stanice (polazno stajalište-Bulevar Jaše Tomića), skreću levo u Kisačku ulicu, desno u Partizansku, levo u Temerinsku ulicu i nastavljaju redovnom trasom za Pejićeve salaše.",
+                "text_translations": {
+                    "en": "Departures from NOVI SAD to PEJIĆEVE SALAŠE depart from the railway station (departure stop - Bulevar Jaše Tomić), turn left into Kisačka Street, right into Partizanska Street, left into Temerinska Street and continue along the regular route to Pejićeve Salaše."
+                }
+            },
+            {
+                "text": "Polasci iz PEJIĆEVIH SALAŠA za NOVI SAD saobraćaju redovnom trasom do raskrsnice Partizanska/Temerinska, skreću desno  u Partizansku ulicu, levo u Kisačku, desno na Bulevar Jaše Tomića i saobraćaju do železničke stanice.",
+                "text_translations": {
+                    "en": "Departures from PEJIĆEVI SALAŠ for NOVI SAD travel along the regular route to the Partizanska/Temerinska intersection, turn right to Partizanska Street, left to Kisačka, right to Bulevar Jaše Tomić and travel to the railway station."
+                }
+            },
+            {
+                "text": "Na izmenjenom delu trase koriste se postojeća autobuska stajališta drugih linija.",
+                "text_translations": {
+                    "en": "Existing bus stops of other lines are used on the changed part of the route."
                 }
             }
         ],
         "title_translations": {
-            "en": "Notice - Change of the traffic regime in Futog - \"FUTOSHKA KUPUSIJADA 2026\""
+            "en": "Lines 1, 8, 17, 21, 22, 23, 24, 30 - Temporary route change in Kisacka street"
         }
     },
     {
@@ -143,21 +389,6 @@
     },
     {
         "date": "09.10.2026",
-        "title": "Linija 5 - Povratak na redovnu trasu 9.10. (od 20:00)",
-        "sections": [
-            {
-                "text": "Autobusi na liniji 5 od 9. 10. (od 20:00 časova) ponovo saobraćaju redovnom trasom nakon završetka radova u Avijatičarskoj ulici.",
-                "text_translations": {
-                    "en": "Buses on line 5 from October 9 (from 8:00 p.m.) are running again on the regular route after the completion of the works in Avijatičarska street."
-                }
-            }
-        ],
-        "title_translations": {
-            "en": "Line 5 - Return to regular route 9.10. (from 20:00)"
-        }
-    },
-    {
-        "date": "09.10.2026",
         "title": "Ukidaju se vanredni polasci do i od Železničke stanice Petrovaradin",
         "sections": [
             {
@@ -181,51 +412,6 @@
         ],
         "title_translations": {
             "en": "Extraordinary departures to and from Petrovaradin Railway Station are cancelled"
-        }
-    },
-    {
-        "date": "08.10.2026",
-        "title": "Linije 11A, 11B - Privremena izmena trase od 30.9. u Ulici Maksima Gorkog",
-        "sections": [
-            {
-                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve,  određuje se privremena izmena trase autobuskih linija broj 11a, 11b, zbog izvođenja radova u Ulici Maksima Gorkog. Izmenjeni režim saobraćanja linija važi od 30. 9. do završetka radova. Autobusi na ovim linijama menjaju trasu kretanja na sledeći način:",
-                "text_translations": {
-                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, a temporary change in the route of bus lines number 11a, 11b is determined, due to the performance of works in Maksima Gorko Street. The modified traffic regime of the lines is valid from September 30 until the completion of the works. Buses on these lines change their route as follows:"
-                }
-            },
-            {
-                "text": "LINIJA 11A (smer Ž.stanica-Bolnica-Liman-Ž.stanica)",
-                "text_translations": {
-                    "en": "LINE 11A (direction Train Station-Hospital-Liman-Train Station)"
-                }
-            },
-            {
-                "text": "Na raskrsnici Bulevar cara Lazara/Stražilovska autobusi nastavljaju pravo Bulevarom cara Lazara, produžavaju Kejom žrtava racija do raskrsnice sa Ulicom Maksima Gorkog  i dalje nastavljaju već izmenjenom trasom.",
-                "text_translations": {
-                    "en": "At the intersection of Tsar Lazar Boulevard/Strazilovska, buses continue straight along Tsar Lazar Boulevard, continue along Quay of the victims of raids to the intersection with Maksima Gorki Street, and continue along the already changed route."
-                }
-            },
-            {
-                "text": "LINIJA 11B (smer Ž.stanica- Liman-Bolnica-Ž.stanica)",
-                "text_translations": {
-                    "en": "LINE 11B (direction Railway Station - Liman - Hospital - Railway Station)"
-                }
-            },
-            {
-                "text": "Na raskrsnici Kej žrtava racija/Maksima Gorkog autobusi autobusi saobraćaju pravo Kejom žrtava racija, zatim Bulevarom cara Lazara do raskrsnice sa Stražilovskom ulicom i dalje nastavljaju redovnom trasom.",
-                "text_translations": {
-                    "en": "At the intersection of Raid Victims' Quay/Maxim Gorki, buses run straight along Raid Victims' Quay, then along Tsar Lazar Boulevard to the intersection with Stražilovska Street and continue on their regular route."
-                }
-            },
-            {
-                "text": "AUTOBUSI NA LINIJI 11A KORISTE PRIVREMENA STAJALIŠTA NA BULEVARU CARA LAZARA -ISPRED TEHNOLOŠKOG FAKULTETA I PRIVREMENO STAJALIŠTE NA KEJU ŽRTAVA RACIJE-MAKSIMA GORKOG.",
-                "text_translations": {
-                    "en": "BUSES ON LINE 11A USE TEMPORARY STOPS AT CARA LAZARA BOULEVARD - IN FRONT OF THE FACULTY OF TECHNOLOGY AND A TEMPORARY STOP AT QUAY VICTIM OF THE RAID - MAXIM GORKO."
-                }
-            }
-        ],
-        "title_translations": {
-            "en": "Lines 11A, 11B - Temporary route change from September 30. in Maksima Gorki Street"
         }
     },
     {
@@ -277,173 +463,6 @@
         ],
         "title_translations": {
             "en": "Line 4 extended to the railway stop Rumenački put"
-        }
-    },
-    {
-        "date": "06.10.2026",
-        "title": "Linija 5 - Privremena izmena trase u Avijatičarskoj ulici",
-        "sections": [
-            {
-                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, od 1. 9. do završetka radova u Avijatičarskoj ulici određuje se privremena izmena trase autobuske linije broj 5 .",
-                "text_translations": {
-                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, from September 1 until the completion of the works in Avijatičarska street, a temporary change of the route of bus line number 5 has been determined."
-                }
-            },
-            {
-                "text": "Smer sa Temerinskog puta",
-                "text_translations": {
-                    "en": "Direction from Temerinsky road"
-                }
-            },
-            {
-                "text": "Od raskrsnice Rumenački put/Avijatičarska autobusi saobraćaju pravo do kružnog toka gde se polukružno okreću i vreme do sledećeg polaska izdržavaju na stajalištu „Rumenački put-Kružni tok“(stajalište linija 10, 14, 14s, 15, 41, 42, 43).\n\nNa izmenjenom delu trase autobusi će kao svoje poslednje stajalište koristiti redovno stajalište „Rumenački put-Avijatičarska“(stajalište linija 10, 14, 14s, 15, 41, 42, 43)",
-                "text_translations": {
-                    "en": "From the intersection of Rumenački put/Avijatičarska, buses run straight to the roundabout, where they turn around and wait until the next departure at the \"Rumenački put-Kružni tok\" stop (line 10, 14, 14s, 15, 41, 42, 43).\n\nOn the changed part of the route, buses will use the regular stop \"Rumenački put-Avijatičarska\" as their last stop (stop lines 10, 14, 14s, 15, 41, 42, 43)"
-                }
-            },
-            {
-                "text": "Smer sa Avijatičarskog naselja",
-                "text_translations": {
-                    "en": "Direction from Aviaticarski settlement"
-                }
-            },
-            {
-                "text": "Autobusi linije 5 po redu vožnje saobraćaju od stajališta „Rumenački put-Kružni tok“ i kao prvo  stajalište sa Avijatičarskog naselja koriste redovno stajalište „Rumenački put-Avijataičarska“ (stajalište linija 5, 10, 14, 14s, 15, 41, 42 i 43), odakle nastavljaju da saobraćaju redovnom trasom.",
-                "text_translations": {
-                    "en": "According to the timetable, buses of line 5 operate from the stop \"Rumenački put-Kružni tok\" and as the first stop from Avijatičarski settlement they use the regular stop \"Rumenački put-Avijataičarska\" (stop of lines 5, 10, 14, 14s, 15, 41, 42 and 43), from where they continue to operate on the regular route."
-                }
-            }
-        ],
-        "title_translations": {
-            "en": "Line 5 - Temporary route change in Avijatičarska street"
-        }
-    },
-    {
-        "date": "05.10.2026",
-        "title": "Linija 52 – Privremena izmena trase u Veterniku",
-        "sections": [
-            {
-                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, od 6. do 26. oktobra  privremeno će biti izmenjena trasa autobuske linije broj 52 zbog radova u Ulici vojvode Bojovića u Veterniku.",
-                "text_translations": {
-                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, from October 6 to 26, the route of bus line number 52 will be temporarily changed due to works in Vojvode Bojovića Street in Veternik."
-                }
-            },
-            {
-                "text": "Na raskrsnici Tome Maksimovića/Kralja Petra prvog autobusi će skretati levo u Ulicu kralja Petra prvog, na kružnoj raskrsnici izlaziće na prvom izlazu u Ulicu kralja Aleksandra do Školske ulice, skretai levo u Školsku ulicu i na prvom stajalištu „Veternik-Škola“ (nekada polazno stajalište linije 52) čekaće se vreme do polaska za Novi Sad.",
-                "text_translations": {
-                    "en": "At the intersection of Toma Maksimović/Kralj Petar the first, the buses will turn left into Kralja Petar the First Street, at the roundabout they will take the first exit into Kralja Aleksandra Street to Školska Street, turn left into Školska Street and at the first stop \"Veternik-Škola\" (formerly the starting stop of line 52) they will wait until their departure for Novi Sad."
-                }
-            },
-            {
-                "text": "Na izmenjenom delu trase koristiće se stajališta drugih linija.",
-                "text_translations": {
-                    "en": "Stops of other lines will be used on the changed part of the route."
-                }
-            },
-            {
-                "text": "Polasci za Novi Sad započinjaće sa stajališta „Veternik-Škola“, odakle će autobusi dalje saobraćati redovnom trasom kretanja.",
-                "text_translations": {
-                    "en": "Departures for Novi Sad will start from the \"Veternik-Škola\" stop, from where buses will continue to run on the regular route."
-                }
-            },
-            {
-                "text": "Mapu izmena pogledajte OVDE",
-                "text_translations": {
-                    "en": "See the map of changes HERE"
-                }
-            }
-        ],
-        "url": "http://www.gspns.co.rs/dokumenti/veternik510.jpg",
-        "title_translations": {
-            "en": "Line 52 – Temporary route change in Veternik"
-        }
-    },
-    {
-        "date": "16.09.2026",
-        "title": "Linije 10, 17, 42js, 55js – Privremena izmena trase u Industrijskoj ulici (ZONA JUG)",
-        "sections": [
-            {
-                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, od 17. do 29. septembra 2026. godine privremeno će biti izmenjena trasa autobuskih linija broj 10, 17, 42JS, 55JS zbog radova u Industrijskoj ulici, od raskrsnice kod „Super VERA“ do raskrsnice kod „Šnajder Elektrik d.o.o“ .",
-                "text_translations": {
-                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, from September 17 to 29, 2026, the route of bus lines number 10, 17, 42JS, 55JS will be temporarily changed due to works in Industrijska Street, from the intersection at \"Super VERA\" to the intersection at \"Schnejder Elektrik d.o.o.\""
-                }
-            },
-            {
-                "text": "LINIJA 10 (oba smera)",
-                "text_translations": {
-                    "en": "LINE 10 (both directions)"
-                }
-            },
-            {
-                "text": "Na raskrsnici Partizanska/Industrijska autobusi će produžavati pravo do raskrsnice sa Sentandrejskim putem, skretati levo pored NIS-ovih pumpi, levo na Put Novosadskog partizanskog odreda, saobraćati do raskrsnice sa Industrijskom ulicom i dalje redovnom trasom. U suprotnom smeru koristiće se ista, izmenjena trasa.",
-                "text_translations": {
-                    "en": "At the intersection Partizanska/Industrijska, buses will continue straight to the intersection with Sentandrejska Street, turn left past the NIS pumps, left onto the Novi Sad Partisan Detachment Road, drive to the intersection with Industrijska Street and continue along the regular route. In the opposite direction, the same, modified route will be used."
-                }
-            },
-            {
-                "text": "Na izmenjenom delu trase koristiće se postojeća stajališta drugih linija.",
-                "text_translations": {
-                    "en": "Existing stops of other lines will be used on the changed part of the route."
-                }
-            },
-            {
-                "text": "LINIJA 17 (oba smera)",
-                "text_translations": {
-                    "en": "LINE 17 (both directions)"
-                }
-            },
-            {
-                "text": "Na raskrsnici Sentandrejski put/Partizanska autobusi će nastavljati pravo pored NIS-ovih pumpi i od Ulice Teodora Mandića saobraćati pravo redovnom trasom.",
-                "text_translations": {
-                    "en": "At the intersection of Sentandrejski put/Partizanska, buses will continue straight past the NIS pumps and from Ulica Teodora Mandić drive straight along the regular route."
-                }
-            },
-            {
-                "text": "U suprotnom smeru autobusi će saobraćati istom trasom - Sentandrejskim putem do Kisačke ulice i dalje produžavati pravo redovnom trasom.",
-                "text_translations": {
-                    "en": "In the opposite direction, buses will travel along the same route - Sentandrejski pute to Kisacka street and continue straight along the regular route."
-                }
-            },
-            {
-                "text": "Na izmenjenom delu trase koristiće se postojeća stajališta drugih linija.",
-                "text_translations": {
-                    "en": "Existing stops of other lines will be used on the changed part of the route."
-                }
-            },
-            {
-                "text": "LINIJE 42JS, 55JS (oba smera)",
-                "text_translations": {
-                    "en": "LINES 42JS, 55JS (both directions)"
-                }
-            },
-            {
-                "text": "Na raskrsnici Partizanska/Industrijska autobusi će produžavati pravo do raskrsnice sa Sentandrejskim putem, skretati levo pored NIS-ovih pumpi i od Ulice Teodora Mandića nastavljati predviđenom, redovnom trasom za „zonu Sever“.",
-                "text_translations": {
-                    "en": "At the intersection of Partizanska/Industrijska, buses will continue straight to the intersection with Sentandrejska Street, turn left past the NIS pumps and from Ulica Teodora Mandić continue along the planned, regular route for the \"Zone Sever\"."
-                }
-            },
-            {
-                "text": "U suprotnom smeru autobusi će saobraćati istom trasom - Sentandrejskim putem do Kisačke ulice, skretati desno u Partizansku ulicu i dalje nastavljati redovnom trasom.",
-                "text_translations": {
-                    "en": "In the opposite direction, buses will travel along the same route - Sentandrejski pute to Kisacka Street, turn right into Partizanska Street and continue on the regular route."
-                }
-            },
-            {
-                "text": "Na izmenjenom delu trase koristiće se postojeća stajališta drugih linija.",
-                "text_translations": {
-                    "en": "Existing stops of other lines will be used on the changed part of the route."
-                }
-            },
-            {
-                "text": "Mapu izmena pogledajte OVDE",
-                "text_translations": {
-                    "en": "See the map of changes HERE"
-                }
-            }
-        ],
-        "url": "http://www.gspns.co.rs/dokumenti/industrijska.jpg",
-        "title_translations": {
-            "en": "Lines 10, 17, 42js, 55js - Temporary route change in Industrijska street (ZONE SOUTH)"
         }
     },
     {

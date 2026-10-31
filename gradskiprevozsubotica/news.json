@@ -1,5 +1,87 @@
 [
     {
+        "date": "22.10.2026.",
+        "title": "IZMENA SAOBRAĆAJA NA LINIJAMA 2, 9 I 20",
+        "sections": [
+            {
+                "text": "Obaveštavamo sve korisnike usluga javnog prevoza, da će zbog izvođenja građevinskih radova u uici Proleterskih brigada, počev od 23.10., pa sve do 07.11.2026.godine, doći do izmene u saobraćaju na linijama 2 i 9",
+                "text_translations": {
+                    "en": "We inform all users of public transport services that, due to construction works in Proleterski brigada Street, starting from October 23, until November 7, 2026, there will be a change in traffic on lines 2 and 9"
+                }
+            },
+            {
+                "text": "Smer Novo naselje/ATB Sever – Srpski Šor",
+                "text_translations": {
+                    "en": "Direction Novo naselje/ATB North - Serbian Shore"
+                }
+            },
+            {
+                "text": "Nakon stajališta Hala sportova, autobusi će nastavljati pravo ulicom Ferenca Sepa, zatim skretati levo na trasu linije 8, odnosno saobraćati ulicom Jovana Mikića do ulice Bračke, gde će skretanjem ulevo preko nadvožnjaka biti vraćeni na redovnu trasu u ulici Proleterskih brigada.",
+                "text_translations": {
+                    "en": "After the Hala Sports stop, the buses will continue straight along Ferenc Sepa Street, then turn left onto route 8, i.e. drive along Jovana Mikić Street to Bračka Street, where by turning left over the overpass, they will be returned to the regular route on Proleterski Brigada Street."
+                }
+            },
+            {
+                "text": "Smer Srpski Šor – Novo Naselje/ATB Sever",
+                "text_translations": {
+                    "en": "Direction Serbian Shore - Novo Naselje/ATB North"
+                }
+            },
+            {
+                "text": "Autobusi će saobraćati istom izmenjenom trasom kao i u odlaznom smeru.",
+                "text_translations": {
+                    "en": "Buses will run on the same modified route as in the outgoing direction."
+                }
+            },
+            {
+                "text": "Stajališta koja će za vreme trajanja radova biti van upotrebe: • Dudova šuma – Groblje • Bazeni • Somborska • Drvara Subotica • Padejska",
+                "text_translations": {
+                    "en": "Parking areas that will be out of use for the duration of the works: • Dudova forest - Cemetery • Pools • Somborska • Drvara Subotica • Padejska"
+                }
+            },
+            {
+                "text": "Na delu trase kojim saobraća linija 8, sva postojeća stajališta biće u funkciji i mogu se koristiti za ulazak i izlazak putnika. Takođe, biće uspostavljeno privremeno autobusko stajalište kod nadvožnjaka u ulici Proleterskih brigada.",
+                "text_translations": {
+                    "en": "On the part of the route operated by line 8, all existing stops will be in operation and can be used for boarding and alighting passengers. Also, a temporary bus stop will be established near the overpass in Proleterskih brigada Street."
+                }
+            },
+            {
+                "text": "Takođe, dana 23.10.2026. godine, u periodu od 07:00 do 17:00 časova, zbog potpune obustave saobraćaja na deonici Opštinskog puta Subotica–Bikovo, od carinskog terminala do Bikovačkog kružnog toka, doći do privremene izmene trase linije 20.",
+                "text_translations": {
+                    "en": "Also, on 23.10.2026. year, in the period from 7:00 a.m. to 5:00 p.m., due to the complete suspension of traffic on the section of the Subotica-Bikovo municipal road, from the customs terminal to the Bikovac roundabout, there will be a temporary change in the route of line 20."
+                }
+            },
+            {
+                "text": "Kao alternativni pravac koristiće se deonica motoputa između dve kružne raskrsnice, odnosno između Bačkotopolskog i Bikovačkog puta.",
+                "text_translations": {
+                    "en": "As an alternative direction, the section of the motor road between the two roundabouts, i.e. between Bačkotopolski and Bikovački roads, will be used."
+                }
+            },
+            {
+                "text": "Sva usputna stajališta na izmenjenoj trasi biće u funkciji, a kod kružnog toka na Bikovačkom putu biće postavljena privremena mobilna stajališta za potrebe putnika.",
+                "text_translations": {
+                    "en": "All roadside stops on the changed route will be in operation, and at the roundabout on Bikovački road, temporary mobile stops will be set up for the needs of passengers."
+                }
+            },
+            {
+                "text": "Nakon završetka radova linija 20 vraća se na redovnu trasu.",
+                "text_translations": {
+                    "en": "After the completion of the works, line 20 will return to its regular route."
+                }
+            },
+            {
+                "text": "Molimo putnike da svoja potrebe i putovanje prilagode nastalim okolnostima. Trans-jug d.o.o. PJ Su-trans Subotica",
+                "text_translations": {
+                    "en": "We ask travelers to adapt their needs and journey to the circumstances. Trans-jug d.o.o. PJ Su-trans Subotica"
+                }
+            }
+        ],
+        "url": "https://subus.rs/sr/servisne-informacije/clanak/izmena-saobracaja-na-linijama-2-9-i-20/133",
+        "title_translations": {
+            "en": "TRAFFIC CHANGE ON LINES 2, 9 AND 20"
+        }
+    },
+    {
         "date": "27.08.2026.",
         "title": "Izmena i dopuna na liniji 3",
         "sections": [
