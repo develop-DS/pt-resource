@@ -1,8 +1,14 @@
 [
     {
-        "date": "14/10/2026 - 03/11/2026",
+        "date": "14/10/2026 - 15/11/2026",
         "title": "Informacija o promeni režima rada linija javnog prevoza tokom izvođenja radova u ulici Geteova - faza 2",
         "sections": [
+            {
+                "text": "Radovi se produžavaju do 15.11.2026. godine.",
+                "text_translations": {
+                    "en": "The works are extended until 15.11.2026. year."
+                }
+            },
             {
                 "text": "Tokom izvođenja radova na asfaliranju i uređenju ulice Geteova (GO Zemun) u periodu od 14.10. do 03.11.2026. godine doći će do promena u radu linija javnog prevoza.",
                 "text_translations": {
@@ -31,28 +37,6 @@
         "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/1134",
         "title_translations": {
             "en": "Information about the change in the mode of operation of public transport lines during the execution of works in Geteova street - phase 2"
-        }
-    },
-    {
-        "date": "01/11/2026 - 02/11/2026",
-        "title": "Informacija o promeni režima rada linija javnog prevoza tokom izvođenja radova u ulici Dunavska",
-        "sections": [
-            {
-                "text": "Tokom izvođenja radova na redovnom održavanju u ulici Dunavska, na delu od zone raskrsnice sa ulicom Bulevar vojvode Bojovića do zone raskrsnice sa ulicom Dubrovačka u periodu od 01.11. godine do 02.11.2026. godine doći će do promena u radu linija javnog prevoza.",
-                "text_translations": {
-                    "en": "During the performance of regular maintenance works on Dunavska Street, on the part from the intersection zone with Bulevar Vojvoda Bojovića Street to the intersection zone with Dubrovačka Street in the period from 01.11. until 02.11.2026. there will be changes in the operation of public transport lines."
-                }
-            },
-            {
-                "text": "Radovi podrazumevaju potpuno zatvaranje za saobraćaj ulice Dunavska na posmatranoj deonici, zbog čega će vozila sa linija br. 26, 26N i 401n saobraćati do terminusa „Dorćol /SRC Milan Gale Muškatirović/“.",
-                "text_translations": {
-                    "en": "The works entail the complete closure of Dunavska Street for traffic on the observed section, which is why vehicles from line no. 26, 26N and 401n to the terminus \"Dorćol /SRC Milan Gale Muškatirović/\"."
-                }
-            }
-        ],
-        "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/1148",
-        "title_translations": {
-            "en": "Information about the change in the mode of operation of public transport lines during the execution of works in Dunavska Street"
         }
     },
     {
@@ -356,34 +340,6 @@
         }
     },
     {
-        "date": "14/10/2026 - 07/11/2026",
-        "title": "Informacija o radovima u ulici Kneza Višeslava",
-        "sections": [
-            {
-                "text": "Tokom izvođenja radova na rehabilitaciji trotoara ulice Kneza Višeslava, na delu od zone raskrsnice sa ulicom Ratka Mitrovića do zone raskrsnice sa ulicom Pilota Mihaila Petrovića, u periodu od 14.10. do 07.11.2026. godine doći će do promena radu linija javnog prevoza.",
-                "text_translations": {
-                    "en": "During the performance of works on the rehabilitation of the sidewalk of Kneza Višeslava Street, in the part from the intersection zone with Ratko Mitrovića Street to the intersection zone with Pilota Mihaila Petrovića Street, in the period from 14.10. until 07.11.2026. there will be changes to the operation of public transport lines."
-                }
-            },
-            {
-                "text": "Radovi se izvode na trotoaru (desna strana - gledano u smeru ka Vidikovcu) u ulici Kneza Višeslava, na delu od zone raskrsnice sa ulicom Ratka Mitrovića do lokacije koja se nalazi preko puta kućnog broja 61a.",
-                "text_translations": {
-                    "en": "The works are being carried out on the sidewalk (right side - seen in the direction of Vidikovac) in Kneza Višeslava Street, on the part from the intersection zone with Ratko Mitrovića Street to the location across from house number 61a."
-                }
-            },
-            {
-                "text": "Privremeno se ukida autobusko stajalište „Vojno medicinski centar“ - smer ka Vidikovcu, za linije br. 23, 37, 50, 53, 89, 37N, 56N i E2.",
-                "text_translations": {
-                    "en": "The \"Military Medical Center\" bus stop - direction to Vidikovac, for lines no. 23, 37, 50, 53, 89, 37N, 56N and E2."
-                }
-            }
-        ],
-        "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/1132",
-        "title_translations": {
-            "en": "Information about works in Kneza Višeslava Street"
-        }
-    },
-    {
         "date": "03/10/2026 - 30/04/2027",
         "title": "Informacija o promeni režima rada linija javnog prevoza tokom izvođenja radova na rekonstrukciji drumskog mosta u naselju Grabovac (GO Obrenovac)",
         "sections": [
@@ -439,40 +395,6 @@
         "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/1121",
         "title_translations": {
             "en": "Information about the change in the mode of operation of public transport lines during the works on the reconstruction of the road bridge in the settlement of Grabovac (GO Obrenovac)"
-        }
-    },
-    {
-        "date": "03/10/2026 - 31/10/2026",
-        "title": "Informacija o promeni režima radalinija javnog prevoza tokom izvođenja radova u ulici Dunavska",
-        "sections": [
-            {
-                "text": "Radovi su produženi do 31.10.2026. godine.",
-                "text_translations": {
-                    "en": "The works have been extended until 31.10.2026. year."
-                }
-            },
-            {
-                "text": "Tokom izvođenja radova na redovnom održavanju u ulici Dunavska, na delu od zone raskrsnice sa ulicom Tadeuša Košćuškog (raskrsnica slobodna za saobraćaj) do zone raskrsnice sa ulicom Dubrovačka u periodu od 03.10. godine do 21.10.2026. godine doći će do promena u radu linija javnog prevoza.",
-                "text_translations": {
-                    "en": "During the performance of regular maintenance works on Dunavska Street, on the part from the intersection zone with Tadeuša Košćuški Street (intersection free for traffic) to the intersection zone with Dubrovačka Street in the period from 03.10. until 21.10.2026. there will be changes in the operation of public transport lines."
-                }
-            },
-            {
-                "text": "Radovi podrazumevaju zatvaranje desne saobraćajne trake ulice Dunavska na delu od zone raskrsnice sa ulicom Tadeuša Košćuškog (raskrsnica slobodna za saobraćaj) do zone raskrsnice sa ulicom Dubrovačka (gledano u smeru ka ulici Dubrovačka), kao i desne saobraćajne trake na delu od zone raskrsnice sa ulicom Dubrovačka do zone raskrsnice sa ulicom Tadeuša Košćuškog (gledano u smeru ka ulici Tadeuša Košćuškog), pri čemu će se preostala širina kolovoza koristiti za dvosmerno odvijanje saobraćaja.",
-                "text_translations": {
-                    "en": "The works involve the closing of the right traffic lane of Dunavska Street in the part from the intersection with Tadeuša Košćuški Street (the intersection is free for traffic) to the intersection with Dubrovačka Street (seen in the direction of Dubrovačka Street), as well as the right traffic lane in the part from the intersection with Dubrovačka Street to the intersection with Tadeussa Košćuški Street (seen in the direction of Tadeuska Koščuški). the remaining width of the roadway should be used for two-way traffic."
-                }
-            },
-            {
-                "text": "Tokom izvođenja radova, vozila sa linija br. 26, 26N i 401n će u smeru ka Dorćolu saobraćati ulicama Cara Dušana, Tadeuša Košćuškog, Dunavska, Dubrovačka do privremenog polazno/dolaznog stajališta „Dorćol (Dunavska) 1“, koje se nalazi u ulici Dubrovačka, na poziciji niše za parkiranje, neposredno ispred zone raskrsnice sa ulicom Mike Alasa, koja će se u ovom slučaju koristiti kao stajalište javnog prevoza.",
-                "text_translations": {
-                    "en": "During the works, vehicles from line no. 26, 26N and 401n in the direction of Dorćol will travel along the streets of Cara Dušan, Tadeusko Košćuški, Dunavska, Dubrovačka to the temporary departure/arrival stop \"Dorćol (Dunavska) 1\", which is located on Dubrovačka Street, in the position of the parking niche, immediately in front of the intersection with Mike Alasa Street, which in this case will be used as a public transport stop."
-                }
-            }
-        ],
-        "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/1122",
-        "title_translations": {
-            "en": "Information about the change of mode of public transport lines during the execution of works in Dunavska Street"
         }
     },
     {
@@ -604,13 +526,13 @@
         }
     },
     {
-        "date": "08/09/2026 - 09/11/2026",
+        "date": "08/09/2026 - 17/11/2026",
         "title": "Informacija o promeni režima rada linija javnog prevoza tokom izvođenja radova u ulici Kraljice Marije",
         "sections": [
             {
-                "text": "Radovi se produžavaju do 09.11.2026. godine.",
+                "text": "Radovi se produžavaju do 17.11.2026. godine.",
                 "text_translations": {
-                    "en": "The works are extended until November 9, 2026. year."
+                    "en": "The works are extended until 17.11.2026. year."
                 }
             },
             {
@@ -694,40 +616,6 @@
         }
     },
     {
-        "date": "01/10/2026 - 02/11/2026",
-        "title": "Informacija o promeni režima rada linija javnog prevoza tokom izvođenja radova u ulici Mirka Sandića",
-        "sections": [
-            {
-                "text": "Radovi se produžavaju do 02.11.2026. godine",
-                "text_translations": {
-                    "en": "The works are extended until 02.11.2026. year"
-                }
-            },
-            {
-                "text": "Tokom izvođenja radova na redovnom održavanju u ulici Mirka Sandića, na delu od ulice Pljevaljske do ulice Ustaničke, GO Zvezdara, u vremenskom periodu od 01. 10. do 06. 10. 2026. godine doći će do potpunog zauzeća kolovoza u ulici Mirka Sandića na datom potezu.",
-                "text_translations": {
-                    "en": "During the performance of regular maintenance works on Mirka Sandića Street, on the part from Pljevaljska Street to Ustanička Street, GO Zvezdara, in the period from October 1st to October 6th, 2026, the roadway in Mirka Sandića Street will be completely occupied on the given stretch."
-                }
-            },
-            {
-                "text": "Vozila sa linije br. 20 će u oba smera, saobraćati ulicama Vojislava Ilića, Ustanička i dalje redovnom trasom.",
-                "text_translations": {
-                    "en": "Vehicles from line no. 20 will run in both directions on Vojislav Ilić, Ustanička streets and on the regular route."
-                }
-            },
-            {
-                "text": "Vozila javnog prevoza će na izmenjenim delovima trase koristiti sva postojeća stajališta JLPP-a.",
-                "text_translations": {
-                    "en": "Public transport vehicles will use all existing JLPP stops on the modified sections of the route."
-                }
-            }
-        ],
-        "url": "https://www.bgprevoz.rs/linije/aktuelne-izmene/1115",
-        "title_translations": {
-            "en": "Information about the change in the mode of operation of public transport lines during the execution of works in Mirka Sandića Street"
-        }
-    },
-    {
         "date": "01/09/2026 - 31/12/2026",
         "title": "Informacija o promeni režima rada linija javnog prevoza tokom izvođenja radova u ulici Vojvođanska",
         "sections": [
@@ -777,6 +665,24 @@
                 "text": "Vozila sa linije JLPP-a br.  604 i 605 će i dalje u oba smera, saobraćati ulicama Dr Ivana Ribara, Vinogradska, Vojvođanska, Vojvođanska u Surčinu i dalje redovnim trasama.",
                 "text_translations": {
                     "en": "Vehicles from JLPP line no.  604 and 605 will continue to run in both directions, on the streets of Dr Ivan Ribara, Vinogradska, Vojvođanska, Vojvođanska in Surčin and on regular routes."
+                }
+            },
+            {
+                "text": "Od 04.11.2026. godine uspostavljaju se privremena autobuska stajališta za linije br. 604 i 605:",
+                "text_translations": {
+                    "en": "From 04.11.2026. temporary bus stops for lines no. 604 and 605:"
+                }
+            },
+            {
+                "text": "• „Orešac 1“ (smer ka Jakovu) - uspostavlja se u ulici Vojvođanska (Cara Dušana), na poziciji ED stuba koji se nalazi  neposredno ispred zone raskrnice sa ulicom Vojvođanska;",
+                "text_translations": {
+                    "en": "• \"Orešac 1\" (direction towards Jakov) - is established in Vojvođanska Street (Cara Dušana), at the position of the ED pillar located directly in front of the intersection zone with Vojvođanska Street;"
+                }
+            },
+            {
+                "text": "• „Orešac 1“ (smer ka gradu)  - uspostavljaa se u ulici Vojvođanska, na poziciju koja se nalazi oko 30 metara posled zone raskrsnice sa ulicom Vojvođanska.",
+                "text_translations": {
+                    "en": "• \"Orešac 1\" (direction towards the city) - was established in Vojvođanska street, at a position located about 30 meters after the intersection zone with Vojvođanska street."
                 }
             }
         ],
