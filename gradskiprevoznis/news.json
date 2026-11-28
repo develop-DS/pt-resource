@@ -1,5 +1,24 @@
 [
     {
+        "date": "23. novembar 2026.",
+        "title": "Izmena reda vožnje na liniji 21 PAS Niš-Gornja Studena od utorka 24.11.2026.godine",
+        "sections": [
+            {
+                "text": "Od utorka 24.11.2026.godine vrši se reorganizacija prigradske linije broj 21Niš-Gornja Studena. U navedenom periodu, radnim danom i subotom (subotom uz prethodnu najavu radova) od 07:30 do 16:30 časova uz uvođenje dve lokalne linije sa presedanjem, na relaciji PAS Niš-Jelašnica ( OŠ „Đura Jakšić“) i Jelašnica selo (ulica Dobrivoja Kitića-most) -Gornja Studena."
+            },
+            {
+                "text": "Linija 21L Niš-Jelašnica saobraća po redu vožnje (bez dodatnih polazaka koji su održavani minibusom)."
+            },
+            {
+                "text": "Red vožnje je prikazan u nastavku"
+            },
+            {
+                "text": "Za sve ostale informacije možete se obratiti informativnom centru JKP Direkcije za javni prevoz grada Niša na telefone 018/505-656, 018/505-665 ili putem veb sajta http://jgpnis.rs/"
+            }
+        ],
+        "url": "https://jgpnis.rs/23/11/2026/novosti/izmena-reda-voznje-na-liniji-21-pas-nis-gornja-studena-od-utorka-24-11-2026-godine/"
+    },
+    {
         "date": "9. novembar 2026.",
         "title": "Obaveštenje o režimu rada vozila javnog prevoza za „Dan primirja u Prvom svetskom ratu“ - 11.11.2026.godine",
         "sections": [
@@ -298,61 +317,6 @@
         },
         "title_translations": {
             "en": "Change of timetable on line number 8 Gabrovačka reka-Novo groblje from Monday 10/19/2026"
-        }
-    },
-    {
-        "date": "14. oktobar 2026.",
-        "title": "Izmena reda vožnje na linijama 21 PAS Niš-Gornja Studena i 21L PAS Niš-Jelašnica od 15.10.2026.godine",
-        "sections": [
-            {
-                "text": "Od četvrtka 15.10.2026.godine dolazi do izmene reda vožnje na linijama broj 21Niš-Gorea Studena i 21L Niš-Jelašnica.",
-                "text_translations": {
-                    "en": "From Thursday, October 15, 2026, there will be a change in the timetable on lines 21 Niš-Gorea Studena and 21L Niš-Jelašnica."
-                }
-            },
-            {
-                "text": "Red vožnje je prikazan u nastavku",
-                "text_translations": {
-                    "en": "The timetable is shown below"
-                }
-            },
-            {
-                "text": "Red vožnje minibus- linija 21L Jelašnički put-Jelašnica (zona radova)",
-                "text_translations": {
-                    "en": "Minibus schedule - line 21L Jelašnički put-Jelašnica (work zone)"
-                }
-            },
-            {
-                "text": "*-PAS Niš- Jelašnica",
-                "text_translations": {
-                    "en": "*-PAS Niš- Jelašnica"
-                }
-            },
-            {
-                "text": "Red vožnje minibus- linija 21L Jelašnica (zona radova) - Jelašnički put",
-                "text_translations": {
-                    "en": "Minibus schedule - line 21L Jelašnica (work zone) - Jelašnički road"
-                }
-            },
-            {
-                "text": "*-Jelašnica (zona radova)-PAS Niš",
-                "text_translations": {
-                    "en": "*-Jelašnica (work zone)-PAS Niš"
-                }
-            },
-            {
-                "text": "Za sve ostale informacije možete se obratiti informativnom centru JKP Direkcije za javni prevoz grada Niša na telefone 018/505-656, 018/505-665 ili putem veb sajta http://jgpnis.rs/",
-                "text_translations": {
-                    "en": "For all other information, you can contact the information center of the PUC Directorate for Public Transport of the City of Niš at 018/505-656, 018/505-665 or via the website http://jgpnis.rs/"
-                }
-            }
-        ],
-        "url": "https://jgpnis.rs/14/10/2026/novosti/izmena-reda-voznje-na-linijama-21-pas-nis-gornja-studena-i-21l-pas-nis-jelasnica-od-15-10-2026-godine/",
-        "date_translations": {
-            "en": "October 14, 2026"
-        },
-        "title_translations": {
-            "en": "Change of timetable on lines 21 PAS Niš-Gornja Studena and 21L PAS Niš-Jelašnica from October 15, 2026"
         }
     }
 ]

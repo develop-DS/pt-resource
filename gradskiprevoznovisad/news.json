@@ -1,5 +1,163 @@
 [
     {
+        "date": "27.11.2026",
+        "title": "Linija 8 – Produženje izmene trase u Ulici Bate Brkića",
+        "sections": [
+            {
+                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve od 28.11. do 05. 12. 2026. godine PRODUŽAVA se privremena izmena trasa autobuske linije broj 8 zbog radova u Ulici Bate Brkića u Novom Sadu.",
+                "text_translations": {
+                    "en": "In accordance with the decision of the City Administration for Traffic and Roads dated 28.11. until December 5, 2026, the temporary change of bus route number 8 due to works in Bata Brkića Street in Novi Sad is EXTENDED."
+                }
+            },
+            {
+                "text": "Autobusi umesto Ulicom Bate Brkića, Bulevarom vojvode Stepe i Bulevarom kneza Miloša saobraćaju pravo Bulevarom Jovana Dučića ka okretnici.",
+                "text_translations": {
+                    "en": "Instead of Bata Brkića Street, Vojvoda Stepa Boulevard and Knez Miloša Boulevard, buses drive straight along Jovan Dučića Boulevard towards the turnpike."
+                }
+            },
+            {
+                "text": "Na izmenjenom delu trase koriste se postojeća stalajišta drugih autobuskih linija.",
+                "text_translations": {
+                    "en": "Existing stops of other bus lines are used on the changed part of the route."
+                }
+            }
+        ],
+        "title_translations": {
+            "en": "Line 8 – Extension of the route change in Bata Brkića Street"
+        }
+    },
+    {
+        "date": "27.11.2026",
+        "title": "Linija 12 – Privremena izmena trase u Ulici heroja Pinkija",
+        "sections": [
+            {
+                "text": "U nedelju, 29. novembra, privremeno će biti izmenjena trasa autobuske linije broj 12 zbog radova na zgradi u Ulici heroja Pinkija 16. Autobusi će saobraćati izmenjenom trasom do završetka radova.",
+                "text_translations": {
+                    "en": "On Sunday, November 29, the route of bus line number 12 will be temporarily changed due to works on the building at Ulica Heroja Pinki 16. Buses will operate on the changed route until the works are completed."
+                }
+            },
+            {
+                "text": "Na raskrsnici Ulice Ive Andrića i Bulevara cara Lazara autobusi će nastavljati pravo na Bulevar patrijaha Pavla, skretati levo u Ulicu Feješ Klare, desno u Ulicu Stanoja Glavaša, desno u Ulicu Senteleki Kornela gde će čeka vreme do narednog polaska.",
+                "text_translations": {
+                    "en": "At the intersection of Iva Andrić Street and Tsar Lazar Boulevard, the buses will continue straight to Patrijaha Pavla Boulevard, turn left into Feješ Klare Street, right into Stanoja Glavaša Street, right into Senteleki Kornela Street, where they will wait until the next departure."
+                }
+            },
+            {
+                "text": "Sa polaznog stajališta autobusi će saobraćati redovnom trasom do raskrsnice Ulice Ćirila i Metodija i Ulice Feješ Klare, skretaće se levo u Ulicu Feješ Klare, desno na Bulevar patrijaha Pavla, produžavati pravo na Bulevar cara Lazara i dalje nastavljati pravo redovnom trasom.",
+                "text_translations": {
+                    "en": "From the departure stop, the buses will travel along the regular route to the intersection of Ćirila i Metodija Street and Feješ Klare Street, turn left into Feješ Klare Street, right onto Patrijaha Pavla Boulevard, continue straight onto Tsar Lazar Boulevard and continue straight along the regular route."
+                }
+            },
+            {
+                "text": "NA IZMENJENOM DELU TRASE KORISTIĆE SE POSTOJEĆA STAJALIŠTA DRUGIH LINIJA.",
+                "text_translations": {
+                    "en": "EXISTING STOPS OF OTHER LINES WILL BE USED ON THE CHANGED PART OF THE ROUTE."
+                }
+            },
+            {
+                "text": "Mapu izmene pogledajte OVDE",
+                "text_translations": {
+                    "en": "See the change map HERE"
+                }
+            }
+        ],
+        "url": "http://www.gspns.co.rs/dokumenti/pinki.jpg",
+        "title_translations": {
+            "en": "Line 12 – Temporary change of route in Pinky Hero Street"
+        }
+    },
+    {
+        "date": "25.11.2026",
+        "title": "Linije 1,11A,11B,17,21,22,23,24,30 - Povratak na redovne trase u Kisačkoj ulici ",
+        "sections": [
+            {
+                "text": "Autobusi na linijama 1,11A, 11B,21,22,23,24,30 ponovo saobraćaju redovnom trasom od 25. 11. (od 17 časova) nakon završetka radova u Kisačkoj ulici.",
+                "text_translations": {
+                    "en": "Buses on lines 1, 11A, 11B, 21, 22, 23, 24, 30 will operate again on the regular route from November 25 (from 5 p.m.) after the completion of the works in Kisačka Street."
+                }
+            }
+        ],
+        "title_translations": {
+            "en": "Lines 1,11A,11B,17,21,22,23,24,30 - Return to regular routes in Kisačka street"
+        }
+    },
+    {
+        "date": "24.11.2026",
+        "title": "Linije 12, 60, 61, 62, 63, 64, 69, 71vmč – Privremena izmena trase od 25. 11.",
+        "sections": [
+            {
+                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, od 25. 11. do 31. 12. 2026. godine privremeno će biti izmenjene trase autobuskih linija broj 12, 60, 61, 62, 63, 64, 69 i 71vmč zbog izvođenja radova na kolovoznoj konstrukciji u Ulici Maksima Gorkog.",
+                "text_translations": {
+                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, from November 25 to December 31, 2026, the routes of bus lines number 12, 60, 61, 62, 63, 64, 69 and 71 will be temporarily changed due to the performance of road construction works in Maksima Gorkog Street."
+                }
+            },
+            {
+                "text": "LINIJA 12",
+                "text_translations": {
+                    "en": "LINE 12"
+                }
+            },
+            {
+                "text": "Autobusi će iz Uspenske ulice skretati desno u Jevrejsku ulicu, levo na Bulevar oslobođenja, desno na Bulevar cara Lazara i dalje će saobraćati redovnom trasom kretanja.",
+                "text_translations": {
+                    "en": "Buses will turn right from Uspenska ulica to Jevrejska ulica, left to Bulevar oslobodenja, right to Bulevar Tsara Lazar and will continue to operate on the regular route."
+                }
+            },
+            {
+                "text": "Autobusi će na raskrsnici Bulevar oslobođenja/Ulica Maksima Gorkog produžavati pravo Bulevarom oslobođenja, skretati desno u Jevrejsku ulicu, levo u Uspensku ulicu i dalje nastavljati redovnom trasom.",
+                "text_translations": {
+                    "en": "At the intersection of Boulevard of Liberation/Ulica Maksima Gorki, the buses will continue straight along Boulevard of Liberation, turn right into Jevrejska Street, left into Uspenska Street, and continue along the regular route."
+                }
+            },
+            {
+                "text": "NA IZMENЈENOM DELU TRASE  KORISTIĆE SE POSTOJEĆA STAJALIŠTA DRUGIH LINIJA, OSIM STAJALIŠTA“BULEVAR OSLOBOĐENЈA-FUTOŠKA“.",
+                "text_translations": {
+                    "en": "EXISTING STOPS OF OTHER LINES WILL BE USED ON THE CHANGED PART OF THE ROUTE, EXCEPT THE \"BOULEVARD OSLOBOĖENJA-FUTOŠKA\" STOP."
+                }
+            },
+            {
+                "text": "LINIJE 60, 61, 62, 63, 64, 69, 71vmč",
+                "text_translations": {
+                    "en": "LINES 60, 61, 62, 63, 64, 69, 71"
+                }
+            },
+            {
+                "text": "Autobusi će sa Bulevara oslobođenja skretati levo u Jevrejsku ulicu, desno na Bulevar Mihajla Pupina i dalje nastavljati pravo redovnom trasom.",
+                "text_translations": {
+                    "en": "Buses will turn left from Liberation Boulevard into Jevrejska Street, right onto Mihajla Pupina Boulevard and continue straight along the regular route."
+                }
+            },
+            {
+                "text": "(Navedenom trasom na liniji 71vmč saobraćaće se samo na polasku u 21:05).",
+                "text_translations": {
+                    "en": "(The specified route on line 71 vmč will be operated only on departure at 21:05)."
+                }
+            },
+            {
+                "text": "Autobusi će sa Bulevara Mihajla Pupina skretati levo u Jevrejsku ulicu, desno na Bulevar oslobođenja i dalje saobraćati redovnom trasom kretanja.",
+                "text_translations": {
+                    "en": "Buses will turn left from Mihajla Pupina Boulevard into Jevrejska Street, right onto Liberation Boulevard and will continue to travel along the regular route."
+                }
+            },
+            {
+                "text": "NA IZMENJENOM DELU TRASE  KORISTIĆE SE POSTOJEĆA STAJALIŠTA DRUGIH LINIJA.",
+                "text_translations": {
+                    "en": "EXISTING STOPS OF OTHER LINES WILL BE USED ON THE CHANGED PART OF THE ROUTE."
+                }
+            },
+            {
+                "text": "Mapu izmena pogledajte OVDE",
+                "text_translations": {
+                    "en": "See the map of changes HERE"
+                }
+            }
+        ],
+        "url": "http://www.gspns.co.rs/dokumenti/gorkog.jpg",
+        "title_translations": {
+            "en": "Lines 12, 60, 61, 62, 63, 64, 69, 71vmč – Temporary change of route from 25.11."
+        }
+    },
+    {
         "date": "20.11.2026",
         "title": "Linije 5, 11A, 11B – Privremena izmena trase od 21.11.",
         "sections": [
@@ -91,165 +249,6 @@
         "url": "http://www.gspns.co.rs/dokumenti/kisac.jpg",
         "title_translations": {
             "en": "Lines 5, 11A, 11B - Temporary route change from 21.11."
-        }
-    },
-    {
-        "date": "12.11.2026",
-        "title": "Linije  1,11A,11B, 17, 21, 22, 23, 24, 30 – Privremena izmena trase u Kisačkoj ulici od  13.11.",
-        "sections": [
-            {
-                "text": "U skladu sa dopunom rešenja Gradske uprave za saobraćaj i puteve, od 13. do 30. novembra privremeno će biti izmenjene trase autobuskih linija broj 1, 11A,11B, 17, 21, 22, 22, 23, 24 i 30 zbog radova u Kisačkoj ulici, na delu saobraćajnice od Bulevara Jaše Tomića do Bulevara kralja Petra I.",
-                "text_translations": {
-                    "en": "In accordance with the amendment to the decision of the City Administration for Traffic and Roads, from November 13 to 30, the routes of bus lines number 1, 11A, 11B, 17, 21, 22, 22, 23, 24 and 30 will be temporarily changed due to works in Kisačka Street, on the part of the road from Bulevar Jaša Tomić to Bulevar Kralja Petar I."
-                }
-            },
-            {
-                "text": "LINIJA  1",
-                "text_translations": {
-                    "en": "LINE 1"
-                }
-            },
-            {
-                "text": "Na raskrsnici Kisačka/Bulevar Jaše Tomića autobusi će skretati desno na Bulevar Jaše Tomića, levo na Bulevar oslobođenja, levo na Bulevar kralja Petra I i desno Kisačkom ulicom nastavljati redovnom trasom.",
-                "text_translations": {
-                    "en": "At the intersection of Kisačka/Jaša Tomić Boulevard, buses will turn right onto Jaša Tomić Boulevard, left onto Oslobođenja Boulevard, left onto Kralja Petar I Boulevard and right onto Kisačka Street, continuing along the regular route."
-                }
-            },
-            {
-                "text": "NA IZMENJENOM DELU TRASE KORISTIĆE SE STAJALIŠTE  „BULEVAR OSLOBOĐENJA -  BULEVAR JAŠE TOMIĆA  (KOD PEKARE „KLAS“)",
-                "text_translations": {
-                    "en": "ON THE CHANGED PART OF THE ROUTE, THE STOP \"BOULEVARD OSLOBOĖENJA - BULEVAR JAŠA TOMIĆ (NEAR THE BAKERY \"KLAS\") WILL BE USED"
-                }
-            },
-            {
-                "text": "Na raskrsnici Kisačka/Bulevar kralja Petra I autobusi će skretati levo na Bulevar kralja Petra I, desno na Bulevar oslobođenja, desno na Bulevar Jaše Tomića, levo u Kisačku ulicu odakle će nastavljati redovnom trasom.",
-                "text_translations": {
-                    "en": "At the Kisačka/Kralja Petra I Boulevard intersection, buses will turn left onto Kralja Petra I Boulevard, right onto Oslobođenja Boulevard, right onto Jaša Tomić Boulevard, left into Kisačka Street, from where they will continue on their regular route."
-                }
-            },
-            {
-                "text": "NA IZMENJENOM DELU TRASE KORISTIĆE SE STAJALIŠTE  „BULEVAR KRALJA PETRA I – KISAČKA.",
-                "text_translations": {
-                    "en": "ON THE MODIFIED PART OF THE ROUTE, THE STOP \"KRALJA PETRA I BOULEVARD - KISAČKA\" WILL BE USED."
-                }
-            },
-            {
-                "text": "LINIJA 11A",
-                "text_translations": {
-                    "en": "LINE 11A"
-                }
-            },
-            {
-                "text": "Autobusi će iz Gundulićeve ulice skretati desno u Temerinsku ulicu, levo u Partizansku ulicu, levo u Kisačku ulicu, desno na Bulevar Jaše Tomića i dalje će nastavljati redovnom trasom.",
-                "text_translations": {
-                    "en": "Buses will turn right from Gundulićeva Street to Temerinska Street, left to Partizanska Street, left to Kisačka Street, right to Jaše Tomić Boulevard and continue on the regular route."
-                }
-            },
-            {
-                "text": "LINIJA 11B",
-                "text_translations": {
-                    "en": "LINE 11B"
-                }
-            },
-            {
-                "text": "Sa platoa ispred železničke stanice autobusi će skretati levo na Bulevar Jaše Tomića, levo u Kisačku ulicu, desno u Partizansku ulicu, na raskrsnici Partizanska/Temerinska skretati desno u Temerinsku ulicu do Gundulićeve ulice, skretati levo i dalje nastavljati redovnom trasom.",
-                "text_translations": {
-                    "en": "From the plateau in front of the railway station, buses will turn left onto Bulevar Jaše Tomić, left into Kisačka ulica, right into Partizanska ulica, at the Partizanska/Temerinska intersection turn right into Temerinska ulica to Gundulićeva ulica, turn left and continue along the regular route."
-                }
-            },
-            {
-                "text": "NA IZMENJENOM DELU TRASE KORISTIĆE SE SVA STAJALIŠTA DRUGIH LINIJA DO POVRATKA NA REDOVNU TRASU.",
-                "text_translations": {
-                    "en": "ALL STOPS OF OTHER LINES WILL BE USED ON THE CHANGED PART OF THE ROUTE UNTIL THE RETURN TO THE REGULAR ROUTE."
-                }
-            },
-            {
-                "text": "LINIJA 17",
-                "text_translations": {
-                    "en": "LINE 17"
-                }
-            },
-            {
-                "text": "Na raskrsnici Kisačka/Bulevar Jaše Tomića autobusi će skretati desno na Bulevar Jaše Tomića, levo na Bulevar oslobođenja, levo na Bulevar kralja Petra I i desno Kisačkom ulicom nastavljati redovnom trasom.",
-                "text_translations": {
-                    "en": "At the intersection of Kisačka/Jaša Tomić Boulevard, buses will turn right onto Jaša Tomić Boulevard, left onto Oslobođenja Boulevard, left onto Kralja Petar I Boulevard and right onto Kisačka Street, continuing along the regular route."
-                }
-            },
-            {
-                "text": "NA IZMENJENOM DELU TRASE KORISTIĆE SE STAJALIŠTE  „BULEVAR OSLOBOĐENJA -  BULEVAR JAŠE TOMIĆA“  (KOD PEKARE „KLAS“).",
-                "text_translations": {
-                    "en": "ON THE CHANGED PART OF THE ROUTE, THE \"BOULEVARD OSLOBOĖENJA - BULEVAR JAŠA TOMIĆA\" STOP WILL BE USED (NEAR THE \"KLAS\" BAKERY)."
-                }
-            },
-            {
-                "text": "Redovna trasa.",
-                "text_translations": {
-                    "en": "Regular route."
-                }
-            },
-            {
-                "text": "LINIJE 21, 22, 23, 24",
-                "text_translations": {
-                    "en": "LINES 21, 22, 23, 24"
-                }
-            },
-            {
-                "text": "Sa platoa ispred železničke stanice (linija 21 sa stajališta ispred pekare \"Klas\") autobusi će produžavati pravo Bulevarom oslobođenja, skretati levo na Bulevar kralja Petra I, desno u Kisačku ulicu i dalje nastavljati redovnim trasama.",
-                "text_translations": {
-                    "en": "From the plateau in front of the railway station (line 21 from the stop in front of the \"Klas\" bakery), buses will continue straight along the Boulevard of Liberation, turn left onto the Boulevard of King Peter I, right into Kisačka Street and continue along regular routes."
-                }
-            },
-            {
-                "text": "NA IZMENJENOM DELU TRASE KORISTIĆE SE AUTOBUSKO STAJALIŠTE „KISAČKA - BULEVAR KRALJA PETRA I“",
-                "text_translations": {
-                    "en": "ON THE CHANGED PART OF THE ROUTE THE BUS STOP \"KISAČKA - BULEVAR KRALJA PETRA I\" WILL BE USED"
-                }
-            },
-            {
-                "text": "Autobusi će saobraćati redovnim trasama do raskrsnice Kisačka/Bulevar kralja Petra I, skretati levo na Bulevar kralja Petra I, zatim desno na Bulevar oslobođenja do terminala ispred železničke stanice.",
-                "text_translations": {
-                    "en": "Buses will run on regular routes to the Kisačka/Kralja Petra I Boulevard intersection, turn left onto Kralja Petra I Boulevard, then right onto Oslobodenja Boulevard to the terminal in front of the train station."
-                }
-            },
-            {
-                "text": "NA IZMENJENOM DELU TRASE KORISTIĆE SE POSTOJEĆE AUTOBUSKO STAJALIŠTE „BULEVAR KRALJA PETRA I – KISAČKA“.",
-                "text_translations": {
-                    "en": "THE EXISTING BUS STOP \"KING PETRA I BOULEVARD - KISAČKA\" WILL BE USED ON THE CHANGED PART OF THE ROUTE."
-                }
-            },
-            {
-                "text": "LINIJA 30",
-                "text_translations": {
-                    "en": "LINE 30"
-                }
-            },
-            {
-                "text": "Sa polaznog stajališta „Bulevar oslobođenja – Bulevar Jaše Tomića“ (pekara „Klas“), autobusi će produžavati pravo Bulevarom oslobođenja, skretati levo na Bulevar kralja Petra I, desno u Kisačku ulicu i dalje nastavljati redovnom trasom.",
-                "text_translations": {
-                    "en": "From the departure stop \"Bulevar oslobodenja - Bulevar Jaše Tomića\" (Bakery \"Klas\"), buses will continue straight along Boulevard oslobodenja, turn left onto Bulevar Kralja Petar I, right into Kisačka Street and continue along the regular route."
-                }
-            },
-            {
-                "text": "NA IZMENJENOM DELU TRASE KORISTIĆE SE AUTOBUSKO STAJALIŠTE „KISAČKA - BULEVAR KRALJA PETRA I“.",
-                "text_translations": {
-                    "en": "ON THE CHANGED PART OF THE ROUTE THE BUS STOP \"KISAČKA - BULEVAR KRALJA PETRA I\" WILL BE USED."
-                }
-            },
-            {
-                "text": "Autobusi će saobraćati redovnom trasom do raskrsnice Kisačka/Bulevar kralja Petra I, skretati levo na Bulеvar kralja Petra I, zatim desno na Bulevar oslobođenja i saobraćati do terminala železničke stanice.",
-                "text_translations": {
-                    "en": "Buses will travel along the regular route to the intersection of Kisačka/Bulevar Kralja Petra I, turn left onto Bulevar Kralja Petra I, then right onto Bulevar oslobodenja and drive to the railway station terminal."
-                }
-            },
-            {
-                "text": "NA IZMENJENOM DELU TRASE KORISTIĆE SE POSTOJEĆE AUTOBUSKO STAJALIŠTE „BULEVAR KRALJA PETRA I – KISAČKA“.",
-                "text_translations": {
-                    "en": "THE EXISTING BUS STOP \"KING PETRA I BOULEVARD - KISAČKA\" WILL BE USED ON THE CHANGED PART OF THE ROUTE."
-                }
-            }
-        ],
-        "title_translations": {
-            "en": "Lines 1, 11A, 11B, 17, 21, 22, 23, 24, 30 - Temporary change of the route in Kisacka Street from 13.11."
         }
     },
     {
@@ -394,75 +393,6 @@
         ],
         "title_translations": {
             "en": "Line 4 extended to the railway stop Rumenački put"
-        }
-    },
-    {
-        "date": "04.09.2026",
-        "title": "Linije 12, 60, 61, 62, 63, 64, 69 i 71vmč – Privremena izmena trasa u Ulici Maksima Gorkog",
-        "sections": [
-            {
-                "text": "U skladu sa rešenjem Gradske uprave za saobraćaj i puteve, određuje se privremena izmena trase autobuskih linija broj 12, 60, 61, 62, 63, 64, 69 i 71vmč  zbog izvođenja radova na rekonstrukciji kolektora kanalizacione mreže  u Maksima Gorkog, od Stražilovske ulice do Sutjeske ulice u Novom Sadu. Izmenjen  režim saobraćnja linija važi u periodu od 7. 9. do 20. 11. 2026. godine.",
-                "text_translations": {
-                    "en": "In accordance with the decision of the City Administration for Traffic and Roads, a temporary change in the route of bus lines number 12, 60, 61, 62, 63, 64, 69 and 71vmč is determined due to the performance of works on the reconstruction of the sewer network collector in Maksim Gorko, from Stražilovska Street to Sutjeska Street in Novi Sad. Izmenjen  režim saobraćnja linija važi u periodu od 7. 9. do 20. 11. 2026. godine."
-                }
-            },
-            {
-                "text": "LINIJA 12",
-                "text_translations": {
-                    "en": "LINE 12"
-                }
-            },
-            {
-                "text": "Autobusi saobraćaju redovnom trasom kretanja.",
-                "text_translations": {
-                    "en": "Buses operate on a regular route."
-                }
-            },
-            {
-                "text": "Autobusi na raskrsnici Bulevar oslobođenja/Ulice Maksima Gorkog produžavaju pravo Bulevarom oslobođenja, skreću desno u Jevrejsku ulicu, levo u Uspensku ulicu i dalje nastavljaju redovnom trasom.",
-                "text_translations": {
-                    "en": "Buses at the intersection Bulevar oslobodenja/Ulica Maksima Gorki continue straight along Bulevar oslobodenja, turn right into Jevrejska ulica, left into Uspenska ulica and continue on the regular route."
-                }
-            },
-            {
-                "text": "NA IZMENJENOM DELU TRASE KORISTE SE POSTOJEĆA STAJALIŠTA DRUGIH LINIJA.",
-                "text_translations": {
-                    "en": "EXISTING STOPS OF OTHER LINES ARE USED ON THE MODIFIED PART OF THE ROUTE."
-                }
-            },
-            {
-                "text": "LINIJE 60, 61, 62, 63, 64, 69 i 71vmč",
-                "text_translations": {
-                    "en": "LINES 60, 61, 62, 63, 64, 69 and 71"
-                }
-            },
-            {
-                "text": "Autobusi sa Bulevara oslobođenja skreću levo u Jevrejsku ulicu, desno na Bulevar Mihajla Pupina i dalje produžavaju pravo redovnom trasom.",
-                "text_translations": {
-                    "en": "Buses from Liberation Boulevard turn left into Jevrejska Street, right onto Mihajla Pupina Boulevard and continue straight along the regular route."
-                }
-            },
-            {
-                "text": "(NAVEDENOM TRASOM  ĆE SAOBRAĆATI AUTOBUS NA LINIJI 71, SAMO POLAZAK U 21:05vmč)",
-                "text_translations": {
-                    "en": "(THE LINE 71 BUS WILL RUN ON THIS ROUTE, ONLY DEPARTURES AT 9:05 PM)"
-                }
-            },
-            {
-                "text": "Autobusi saobraćaju redovnom trasom kretanja.",
-                "text_translations": {
-                    "en": "Buses operate on a regular route."
-                }
-            },
-            {
-                "text": "AUTOBUSI NA IZMENJENOM DELU TRASE  KORISTE POSTOJEĆA STAJALIŠTA DRUGIH LINIJA.",
-                "text_translations": {
-                    "en": "BUSES ON THE CHANGED PART OF THE ROUTE USE THE EXISTING STOPS OF OTHER LINES."
-                }
-            }
-        ],
-        "title_translations": {
-            "en": "Lines 12, 60, 61, 62, 63, 64, 69 and 71 vmč - Temporary change of routes in Maksima Gorki Street"
         }
     }
 ]
